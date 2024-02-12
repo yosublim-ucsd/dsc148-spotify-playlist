@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,816 likes - 90 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,852 likes - 90 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 89 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 |
 | 90 | [God Slippers](https://open.spotify.com/track/7s12Ox0mKH81QDymKsC09N) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [God Slippers](https://open.spotify.com/album/6RM0E6BN5d1Kv9ajMMlJ8q) | 3:22 |
 
-Snapshot ID: `MCwzYjQwM2RhNGQ2NWIzMTcxMWIwYmMxMTJmNjJiMzYzMjBiNGY1YmVk`
+Snapshot ID: `MCxiNjQyMDJmY2Q5ZmM5NjQ3MWFiNTRiYmVjNDA3NDUyMzc3M2NkMjZh`

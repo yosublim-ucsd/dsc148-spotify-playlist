@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: NCT 127)",
-  "num_followers": 125081,
+  "num_followers": 125054,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmE2ZTY2OWE3YTdhY2MwMjVhOTBmNmYzOTlhNWJlOWM0NjY0MmM0",
+  "snapshot_id": "MCw1MmNkYTAxZDVhMjUxNGFhMThiMWI2NDhjN2I4Yjk1NGUxYTJhOGEx",
   "tracks": [
     {
       "added_at": "2024-01-08 08:05:07",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "PINK CHRISTMAS",
-        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "PINK CHRISTMAS",
-      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -607,22 +591,6 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree - WINTER GARDEN",
-        "url": "https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
-      "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -647,18 +615,34 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Dear Santa - X-Mas Special",
-        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
+        "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree - WINTER GARDEN",
+        "url": "https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso"
       },
       "artists": [
         {
-          "name": "Girls' Generation-TTS",
-          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 238287,
-      "name": "Dear Santa",
-      "url": "https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf"
+      "duration_ms": 238786,
+      "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
+      "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "PINK CHRISTMAS",
+        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "PINK CHRISTMAS",
+      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -675,6 +659,22 @@
       "duration_ms": 179684,
       "name": "Winter Bloom",
       "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Dear Santa - X-Mas Special",
+        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-TTS",
+          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
+        }
+      ],
+      "duration_ms": 238287,
+      "name": "Dear Santa",
+      "url": "https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "merry merry",
-        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
         }
       ],
-      "duration_ms": 165693,
-      "name": "merry merry",
-      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+        "name": "merry merry",
+        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
       "artists": [
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
+      "duration_ms": 165693,
+      "name": "merry merry",
+      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "Christmas Dance",
+        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
+      },
+      "artists": [
+        {
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "Christmas Dance",
+      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "Have Yourself A Merry Little Christmas - SM STATION",
         "url": "https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 291040,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "Christmas Dance",
-        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
-      },
-      "artists": [
-        {
-          "name": "ROCKY",
-          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "Christmas Dance",
-      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "It's Christmas time",
-        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 230161,
-      "name": "It's Christmas time",
-      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Another Sad Love Song",
         "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 184772,
       "name": "Let Me Know - Bonus Track",
       "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "It's Christmas time",
+        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 230161,
+      "name": "It's Christmas time",
+      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Back to Christmas",
         "url": "https://open.spotify.com/album/6V67dnvjQ6q61vwxnLuVjU"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 226346,
       "name": "Back to Christmas",
       "url": "https://open.spotify.com/track/3nGiUhlT8s6G6lTfO2LuLg"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 118705,
-      "name": "Santa, Give Me What I Need",
-      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Will You Be My Home",
         "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 210653,
       "name": "Will You Be My Home",
       "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 118705,
+      "name": "Santa, Give Me What I Need",
+      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
     },
     {
       "added_at": "2024-01-08 08:05:07",

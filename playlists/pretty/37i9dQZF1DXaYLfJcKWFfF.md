@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Asa
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,994 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,007 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [A Long Way](https://open.spotify.com/track/3NZ4hG7YSIJAYUQ6ZOOl0w) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [A Long Way](https://open.spotify.com/album/2MxblownRNGAkkYxPsFA2V) | 3:16 |
 | 50 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
 
-Snapshot ID: `MCw4ZTEwMzM5M2EwMmQ1NDhmOTUzZjM2MzFhYTIzMTUzMThmZWI2YTUw`
+Snapshot ID: `MCwyYzFjNzAxYzUzZjc3ZGZkMGJjZDMzM2VjZTdiNDdhNjg0MjE1OGVk`

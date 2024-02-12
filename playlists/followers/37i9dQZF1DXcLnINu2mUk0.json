@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 43111,
+  "2024-02-12": 43129,
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay e Julinho Ksd.",
   "name": "Seda",
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 180837,
       "name": "C'La Perfecion",
       "url": "https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO"
@@ -6331,6 +6331,28 @@
       "duration_ms": 227368,
       "name": "NO MO Parties",
       "url": "https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ"
+    },
+    {
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        },
+        {
+          "name": "Biox",
+          "url": "https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190967,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2"
     },
     {
       "album": {

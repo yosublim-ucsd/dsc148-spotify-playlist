@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-612 songs - 1 day 3 hr 59 min
+613 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,8 @@
 | [Supercharged](https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Supercharged](https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R) | 2:15 | 2022-04-01 | 2022-07-07 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-02-08 | 2022-07-09 |
 | [Swing](https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Swing](https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS) | 2:09 | 2023-03-03 | 2023-05-06 |
-| [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2023-07-07 |  |
+| [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2023-07-07 | 2024-02-12 |
+| [Sympathy](https://open.spotify.com/track/5aHig7nUnOmW93MlwJGTnf) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:05 | 2024-01-12 |  |
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-05-20 |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-01-14 | 2022-06-04 |
 | [Talladega](https://open.spotify.com/track/2CPKo4glbtzTZHZ9kheUaa) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Talladega](https://open.spotify.com/album/3JuasplCKlqgWKIhVStSWn) | 2:36 | 2021-11-16 | 2022-02-26 |

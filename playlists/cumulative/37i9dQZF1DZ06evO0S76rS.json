@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354706,
+      "name": "Ana Mile",
+      "url": "https://open.spotify.com/track/2BEAGKMLWkDmhAUECvoq5C"
+    },
+    {
+      "album": {
         "name": "Salsa Pura",
         "url": "https://open.spotify.com/album/1MZBhouOFfLyS0oTo7jdEu"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 338325,
       "name": "Ana Mil\u00e9",
       "url": "https://open.spotify.com/track/2krik8Sc5sddD3yb3qkBkr"

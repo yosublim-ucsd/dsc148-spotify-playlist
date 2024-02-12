@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Oliver Kid & SHEISA
 
-577 songs - 1 day 4 hr 59 min
+578 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2022-10-28 | 2023-03-25 |
 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-01-27 | 2023-03-10 |
 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 | 2022-12-17 | 2023-01-17 |
+| [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 | 2024-02-09 |  |
 | [Cuadriculado](https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Cuadriculado](https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX) | 2:49 | 2024-01-19 | 2024-02-11 |
 | [Cuando Sube el Sol](https://open.spotify.com/track/6kehs9Uc57B6w76X9fx5sN) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [32 de Diciembre](https://open.spotify.com/album/16x7J2cLd1CYhtM6lR9tbQ) | 3:01 | 2022-05-06 | 2022-07-29 |
 | [Cuando Te Veo](https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Cuando Te Veo](https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5) | 3:19 | 2022-07-01 | 2022-10-29 |
@@ -508,7 +509,7 @@
 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 | 2023-11-24 |  |
 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 | 2023-12-15 |  |
 | [TARDE](https://open.spotify.com/track/1hdLVuDhaxfVdMZ13CHSar) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/0Ubcsv9yLRycHntM6XZ3d9) | 3:43 | 2022-05-06 | 2022-07-26 |
-| [TBT](https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [TBT](https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH) | 2:38 | 2023-10-27 |  |
+| [TBT](https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [TBT](https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH) | 2:38 | 2023-10-27 | 2024-02-12 |
 | [Te Elegiré](https://open.spotify.com/track/4NMoA4IaZgIJsIbnMk79Fa) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Te Elegiré](https://open.spotify.com/album/7tPSBcVdJ4YIWIMEAAZOsM) | 3:56 | 2022-10-07 | 2022-12-10 |
 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 | 2024-01-12 |  |
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-05-19 |

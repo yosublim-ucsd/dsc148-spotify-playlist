@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0sMAHzxguan2KpnKFZPW2d">Sadie Jean</a> with collaborators Rory Andrew, Victoria Zaro, and producer <a href="spotify:artist:3dIbvdQQd3HXfQcRjR6lb7">Griff Clawson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,580 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,624 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 18 | [Don't Know Why](https://open.spotify.com/track/32lnNkk8zZZ7AwpbUpAel3) | [f1oater.](https://open.spotify.com/artist/4lozSGwAHZyPSLQ1A0vEhT) | [Don't Know Why](https://open.spotify.com/album/1S4BXmeDJ2ZGsI9SpCUQCL) | 3:10 |
 | 19 | [release](https://open.spotify.com/track/29UsGnRUJ8688u1ffmJM0W) | [Maybe Roxanne](https://open.spotify.com/artist/0opLL0fqN2VVcZAILS9JKB) | [release](https://open.spotify.com/album/6l7ZZjmNZfdRWAxMjty58y) | 1:54 |
 | 20 | [Where We Are](https://open.spotify.com/track/2rZ7c57535FWSMpwkZJ5Tq) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [This Life](https://open.spotify.com/album/4uWcWrnFw0c0cl6Z8Q0lPN) | 4:29 |
-| 21 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 |
+| 21 | [Sympathy](https://open.spotify.com/track/5aHig7nUnOmW93MlwJGTnf) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:05 |
 | 22 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
 | 23 | [Breadcrumbs](https://open.spotify.com/track/6Thjpci5R5NR0KK6KlQX9s) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Breadcrumbs](https://open.spotify.com/album/78EhUZgcu12Llorws5gpTb) | 2:51 |
 | 24 | [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 49 | [3 Months](https://open.spotify.com/track/1aAm1mTO1kxTRH85OWuDB4) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [3 Months](https://open.spotify.com/album/7wPyjyowUucXtf9EY9ieUl) | 3:23 |
 | 50 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
 
-Snapshot ID: `MCwwZjMyMjUwZjE0MTUwZjQ1YjQzOGNlOGFiMWViMDA0ZTExNGUyZTAz`
+Snapshot ID: `MCw0NGJjMTFjZTYwNzYxZWRmMGEyNTEyYTk1ZWM0ZTlkMGQzYmRjMzc4`

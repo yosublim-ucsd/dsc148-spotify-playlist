@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,631 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,633 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 47 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
 | 48 | [The Weakness of Rosalinda](https://open.spotify.com/track/4mAtx9BVRcwavz2Y8nGRE6) | [Jean\-Bernard Raiteux](https://open.spotify.com/artist/6uGnNovOj1Zm7gK3knalle) | [Les Demons](https://open.spotify.com/album/1h2odfHhZqFdLIxBva1VH7) | 4:11 |
 | 49 | [Scarpe rotte](https://open.spotify.com/track/0y18MLJpA3iiLZ2ss2xNFi) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Uccellacci e uccellini \- The Hawks and the Sparrows \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3F20sTbeXDmW3XOr3pWhW6) | 1:45 |
-| 50 | [Blue Doll Baroque](https://open.spotify.com/track/4rKq4truS2MWOVmDL4sFe7) | [Yvon Gerault](https://open.spotify.com/artist/2PHjcIbLK3QmQlPVxmeZBN) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 1:43 |
+| 50 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
 
-Snapshot ID: `MCxmMTZkNzM0Yzg3YmIwMjM1OTE1YjIzNDI2MzA2NjU0YTdkM2FjYzQ3`
+Snapshot ID: `MCxmYjhjMzk0OGZiODgxODBkMDlkZTRlZTQ5NDFiNWRkODFkZGRjMDli`

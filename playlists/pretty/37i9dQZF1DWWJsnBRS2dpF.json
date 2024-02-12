@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 45257,
+  "num_followers": 45321,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGMyYjcyNmVlZmIwMzRhODY3MTk4NDVkMWY3M2UyYTAyMzI4ODBj",
+  "snapshot_id": "MCxkODBmNDZjMTkzOWQyZGJlOGI2NjU5MjA2YTZmZDU0NDRhMDc3Njkx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -83,6 +83,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
         }
       ],
-      "duration_ms": 198880,
-      "name": "U Already Know",
-      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
+      "duration_ms": 243666,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS"
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
       },
       "artists": [
         {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 243666,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC"
+      "duration_ms": 198880,
+      "name": "U Already Know",
+      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Room 112",
-        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
         }
       ],
-      "duration_ms": 244415,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/0Zze3tFRSNwL6KllmYjLgZ"
+      "duration_ms": 296400,
+      "name": "Butta Love",
+      "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
     },
     {
       "added_at": "2022-10-01 16:21:24",

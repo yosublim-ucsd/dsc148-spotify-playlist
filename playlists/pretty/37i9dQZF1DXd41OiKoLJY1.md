@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Janah Zaplan Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,872 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,986 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Circles](https://open.spotify.com/track/4y6JNYXpD91KBELBNfS03f) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Circles](https://open.spotify.com/album/34fhT1qTfNBljlwzbFG1WA) | 3:01 |
 | 100 | [Fla\-high](https://open.spotify.com/track/5rtTC2UX3xKHWdgy3c5to8) | [SK!D](https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N) | [Fla\-high](https://open.spotify.com/album/0MMgKu3lbnTv7NNEGIzPmN) | 3:01 |
 
-Snapshot ID: `MCw3YTc1ZmJjMDU0YTYwZjBkMDQwMDYzNmMzMzRkNzBjYmZhZWJjZTM3`
+Snapshot ID: `MCxiY2EyMWRiZGFlNjI2ODRlZWFiMmY1NGZkZGFlNTRlYzliMDU5NGJi`

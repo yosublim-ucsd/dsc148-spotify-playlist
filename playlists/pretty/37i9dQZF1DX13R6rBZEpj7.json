@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 203113,
+  "num_followers": 203166,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy",
+  "snapshot_id": "MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+        }
+      ],
+      "duration_ms": 129625,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "EGODEATH",
         "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 192000,
       "name": "EGODEATH",
       "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
-      },
-      "artists": [
-        {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
-        },
-        {
-          "name": "Ragga Twins",
-          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
-        }
-      ],
-      "duration_ms": 129625,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
     },
     {
       "added_at": "2024-01-26 00:00:00",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,563 songs - 4 day 11 hr 36 min
+1,564 songs - 4 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2020-03-17 | 2020-10-09 |
 | [Back Down](https://open.spotify.com/track/5NMV8GTUZ3LaU4BBjuVPSB) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Back Down](https://open.spotify.com/album/2Rybx2qf5xtQreVTeYvjYO) | 4:10 | 2020-05-18 | 2021-06-19 |
 | [Back To The Roots](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Back To The Roots](https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT) | 4:46 | 2022-05-13 | 2023-09-09 |
-| [Back to You \(Amtrac Remix\)](https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Back to You \(Amtrac Remix\)](https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9) | 4:37 | 2023-03-10 |  |
+| [Back to You \(Amtrac Remix\)](https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Back to You \(Amtrac Remix\)](https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9) | 4:37 | 2023-03-10 | 2024-02-12 |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-03-19 | 2022-02-14 |
 | [Banya](https://open.spotify.com/track/2zT8nNao3eyXVLQLeWzKjh) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Guaba EP](https://open.spotify.com/album/2PLy7P0hdq12FXH8GLCETk) | 4:16 | 2020-08-06 | 2022-02-12 |
 | [Bara Du](https://open.spotify.com/track/2bjZY6qnQWOLpS0n1TtrbM) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 2:33 | 2020-03-17 | 2020-07-03 |
@@ -210,6 +210,7 @@
 | [Cagnard](https://open.spotify.com/track/3yySJ0iAQtCo5bWhfo1VkN) | [Georges](https://open.spotify.com/artist/0hIqqrQXKbva3WZmPuf3lt) | [Cagnard](https://open.spotify.com/album/2mnTt3M1MSDqYsaOxWBUov) | 5:38 | 2020-05-22 | 2020-10-09 |
 | [California Heaven \- Medasin Remix](https://open.spotify.com/track/0SIxPkBt6iyocxMSLgcxI7) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [California Heaven \(Medasin Remix\)](https://open.spotify.com/album/3aT2WqA7Fsnrm8e0UcUZAZ) | 3:36 | 2020-05-18 | 2020-07-18 |
 | [Call Katie](https://open.spotify.com/track/0CRs7vCuzxgxjSGqjckzjn) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Call Katie](https://open.spotify.com/album/2XM03VGtZTKcotiQzxrnFO) | 3:01 | 2021-03-19 | 2021-09-11 |
+| [Call my name](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Call my name](https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we) | 2:54 | 2024-02-09 |  |
 | [Called](https://open.spotify.com/track/3KtxQAgNxCEINXNgVuzsun) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Called](https://open.spotify.com/album/4pT6jidjPodWkfoVSEHViq) | 6:04 | 2020-03-17 | 2022-04-19 |
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-03-10 | 2024-02-10 |
 | [Canopée des Cîmes](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Canopée des Cîmes](https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u) | 4:56 | 2022-07-01 | 2023-09-09 |

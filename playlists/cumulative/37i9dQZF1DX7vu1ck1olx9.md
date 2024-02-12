@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-280 songs - 11 hr 21 min
+281 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [arcade](https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [arcade](https://open.spotify.com/album/6ATjRptrFPrGkGsCn7CoT9) | 1:48 | 2023-10-27 |  |
 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 | 2020-11-12 | 2023-06-28 |
 | [Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV) | [Velvet Haven](https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F) | [Are We There Yet](https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ) | 2:34 | 2023-10-27 |  |
-| [Atrial](https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Atrial](https://open.spotify.com/album/0ocGMEBjbt7k646wJ7vYxt) | 2:17 | 2022-06-03 |  |
+| [Atrial](https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Atrial](https://open.spotify.com/album/0ocGMEBjbt7k646wJ7vYxt) | 2:17 | 2022-06-03 | 2024-02-12 |
 | [Aurora](https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K) | [Kudasaibeats](https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2) | [Aurora](https://open.spotify.com/album/56A7kmD6LKvf6BXwCSYcDn) | 2:52 | 2020-11-12 | 2024-01-12 |
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2020-11-12 | 2023-10-29 |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-27 |  |
@@ -68,6 +68,7 @@
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2020-11-12 | 2023-11-24 |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2020-11-12 | 2022-07-27 |
 | [cool nights](https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [cool nights](https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka) | 2:36 | 2023-10-27 |  |
+| [Cortana's Nap](https://open.spotify.com/track/1UwTK3zUw4sKSZjRtwwLEz) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Cortana's Nap](https://open.spotify.com/album/4Mgc8gBn6jiU5TLR6V7ztl) | 3:01 | 2024-02-09 |  |
 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 | 2023-11-17 |  |
 | [Cozy Cabin](https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Cozy Cabin](https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9) | 2:08 | 2023-10-27 |  |
 | [crinkled sheets](https://open.spotify.com/track/4mzdv3VSKgQ9LHgyc78sH1) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [crinkled sheets](https://open.spotify.com/album/0CgSvSIIqWTkxcRXk3RJhG) | 2:14 | 2023-10-27 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 15084,
+  "2024-02-12": 15188,
   "date_first_scraped": "2023-10-24",
   "description": "Ocean sounds and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
   "name": "Island of Serenity",
@@ -309,6 +309,24 @@
       "duration_ms": 195913,
       "name": "Coastal Route",
       "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
+    },
+    {
+      "album": {
+        "name": "Crescent Moon",
+        "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "Crescent Moon",
+      "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
     },
     {
       "album": {
@@ -701,7 +719,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 187200,
       "name": "Highest Peaks",
       "url": "https://open.spotify.com/track/57cEl0th5hS43eAXY7krXh"

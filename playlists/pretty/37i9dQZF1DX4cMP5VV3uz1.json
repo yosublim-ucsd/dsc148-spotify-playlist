@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 148486,
+  "num_followers": 148555,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDNhYzZkODExYmZiOGM1ODYzMDI1N2VkMDc4NjQ5NjQ4ZmMwOTFm",
+  "snapshot_id": "MCwxN2MzOGY0ZmNhN2YyOGMzNDJmNWUwN2VlNDc5OGYwYzY1ZTU3YWQ0",
   "tracks": [
     {
       "added_at": "2023-12-04 19:43:02",
@@ -673,26 +673,6 @@
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Stan Smith",
-        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Stan Smith",
-      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Free",
@@ -715,6 +695,26 @@
       "duration_ms": 187133,
       "name": "Free",
       "url": "https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "Stan Smith",
+        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Stan Smith",
+      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Stars On The Roof (feat. MOMO)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MOMO)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
         "name": "OUTSIDER",
         "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 136615,
       "name": "FOUND LOVE (feat. Carrie Baxter)",
       "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "Stars On The Roof (feat. MOMO)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MOMO)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -999,22 +999,26 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
+        "name": "Freedom 2",
+        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
         },
         {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
         }
       ],
-      "duration_ms": 231605,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
+      "duration_ms": 206931,
+      "name": "Freedom 2",
+      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1051,26 +1055,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Freedom 2",
-        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
       },
       "artists": [
         {
-          "name": "Kwengface",
-          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
         },
         {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
         }
       ],
-      "duration_ms": 206931,
-      "name": "Freedom 2",
-      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
+      "duration_ms": 231605,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 134305,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Pictures In My Head",
         "url": "https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 258703,
       "name": "Pictures In My Head - High Contrast Remix",
       "url": "https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 134305,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
     }
   ],
   "unique_name": "Proper Naughty ",

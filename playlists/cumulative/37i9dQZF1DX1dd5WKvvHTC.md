@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0sMAHzxguan2KpnKFZPW2d">Sadie Jean</a> with collaborators Rory Andrew, Victoria Zaro, and producer <a href="spotify:artist:3dIbvdQQd3HXfQcRjR6lb7">Griff Clawson</a>
 
-50 songs - 2 hr 47 min
+51 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Simple Like 17](https://open.spotify.com/track/3g2DiSLHv42SUxpbE9jkRz) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 3:19 | 2024-01-22 |  |
 | [SKYSCRAPER \- Piano Diaries](https://open.spotify.com/track/3g1U61yNCVUlEKnKSFALME) | [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [SKYSCRAPER](https://open.spotify.com/album/1x0o3TVQyk2KIvP9TNlxG7) | 3:24 | 2024-01-22 |  |
 | [Sundays](https://open.spotify.com/track/37kKOVlXJWrALkScl10gQh) | [KTJ & CARLY](https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M) | [Sundays](https://open.spotify.com/album/1inRXU2pqTQ2C9OX6A32Hi) | 3:33 | 2024-01-22 |  |
-| [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2024-01-22 |  |
+| [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2024-01-22 | 2024-02-12 |
+| [Sympathy](https://open.spotify.com/track/5aHig7nUnOmW93MlwJGTnf) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:05 | 2024-01-22 |  |
 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 | 2024-01-22 |  |
 | [The Ashes](https://open.spotify.com/track/61iHc4EzOelmGu5SMY5aqI) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [The Ashes](https://open.spotify.com/album/6wHgeXmQQT9izGyR4v0NpU) | 4:14 | 2024-01-22 |  |
 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 | 2024-01-22 |  |

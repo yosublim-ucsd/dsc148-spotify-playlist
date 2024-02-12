@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,907 likes - 87 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,340 likes - 87 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 86 | [Bp Up Down](https://open.spotify.com/track/4bLKGyKQ9wKGUYA64Jw4QE) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:56 |
 | 87 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 
-Snapshot ID: `MCxjZGYwMDhlYzg1OWI0MDA5NGFhYTJmNTRjYmEwMzdjNmRhN2RlNjU0`
+Snapshot ID: `MCxiNzE4ZTVkZjZlMmE5ZmQyODgzZmE1NDE1MDFkMzU2MzIzOGIxNzMy`

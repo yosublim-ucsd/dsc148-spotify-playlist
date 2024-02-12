@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 152449,
+  "2024-02-12": 152561,
   "date_first_scraped": "2024-01-26",
   "description": "Floor fillers and big streamers of 2015.",
   "name": "Dance Hits of 2015",
@@ -877,10 +877,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 198000,
       "name": "How Hard I Try",
       "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
+    },
+    {
+      "album": {
+        "name": "How Hard I Try",
+        "url": "https://open.spotify.com/album/6cvHoxaW0RCXQMC5xQyAXF"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "How Hard I Try",
+      "url": "https://open.spotify.com/track/7uzudGwu8EG5deuFD7EEJm"
     },
     {
       "album": {

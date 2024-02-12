@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from UK&IE\. Cover: Love Remain
 
-246 songs - 13 hr 22 min
+247 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,8 +182,9 @@
 | [Pinging \(6 Figures\)](https://open.spotify.com/track/5DioDvyrdjUIyeA07BPpm4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Pinging \(6 Figures\)](https://open.spotify.com/album/0UzN4R3iiz264XP5UXk3bo) | 2:45 | 2022-02-18 |  |
 | [Poison](https://open.spotify.com/track/5DsPxrAjGRnJfRNUelP6ut) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Learning in public](https://open.spotify.com/album/18UujFD5TInXQX2mcwupKQ) | 2:31 | 2023-07-06 |  |
 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 | 2022-05-19 |  |
+| [Put A Record On](https://open.spotify.com/track/1cGJXDVFJVuWJEH0T64Wyi) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [NOISY\_Pre’s](https://open.spotify.com/album/4zFfnrcNmcLLyPWKg2Uboo) | 3:01 | 2024-01-19 |  |
 | [Put A Record On](https://open.spotify.com/track/2IEbyYtElSG0IU0WZXFA2N) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Put A Record On](https://open.spotify.com/album/5QAuMtvx5AKDKaqxkSmjob) | 3:01 | 2022-02-18 | 2022-07-29 |
-| [Put A Record On](https://open.spotify.com/track/2SGCf4PBhnBf0NJex8sNyn) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [I Wish I Was A...](https://open.spotify.com/album/5Q9tbNhGMAS6IO7azxjKSx) | 3:01 | 2022-07-28 |  |
+| [Put A Record On](https://open.spotify.com/track/2SGCf4PBhnBf0NJex8sNyn) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [I Wish I Was A...](https://open.spotify.com/album/5Q9tbNhGMAS6IO7azxjKSx) | 3:01 | 2022-07-28 | 2024-02-12 |
 | [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 | 2022-10-13 |  |
 | [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 | 2022-02-18 | 2022-10-17 |
 | [Red Hearts](https://open.spotify.com/track/6kLdSLraP7xxZ7MG2whHBM) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Red Hearts](https://open.spotify.com/album/51SibOPo6UKKZ4ffvZ8Snc) | 4:23 | 2022-02-18 |  |

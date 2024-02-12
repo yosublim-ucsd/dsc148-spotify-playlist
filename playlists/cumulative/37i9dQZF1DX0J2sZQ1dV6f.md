@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-380 songs - 19 hr 55 min
+381 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2023-12-06 |  |
 | [Alucín](https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Alucín](https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ) | 2:12 | 2023-12-06 |  |
 | [Alv](https://open.spotify.com/track/7kMPoDQYSldz6dCpugQeU6) | [bxxrxn](https://open.spotify.com/artist/3SwA3cR6OEkNT9hUz9peFX), [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB) | [Alv](https://open.spotify.com/album/3ccY2njr5I8Tgh9PUIAncK) | 2:54 | 2023-12-06 | 2023-12-09 |
-| [ALV](https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB) | [ALV](https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM) | 2:54 | 2023-12-06 |  |
+| [ALV](https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB) | [ALV](https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM) | 2:54 | 2023-12-06 | 2024-02-12 |
+| [ALV](https://open.spotify.com/track/3PenLzruF1GMpjSmcPJkH2) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB) | [ALV](https://open.spotify.com/album/3wTCfmzQOaiDKfRQ8BcJtx) | 2:54 | 2024-02-09 |  |
 | [ALVRGZO](https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [ALVRGZO](https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5) | 2:42 | 2023-12-06 |  |
 | [Anda Decidida](https://open.spotify.com/track/3BcJh8QnyPzPhYoDAZydKc) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:13 | 2023-01-27 | 2023-05-26 |
 | [Andalucia](https://open.spotify.com/track/7EVOm9QdT0pww5jEQ3vwox) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:27 | 2022-03-21 | 2022-04-20 |

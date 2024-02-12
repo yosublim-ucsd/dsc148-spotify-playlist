@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 111680,
+  "2024-02-12": 111735,
   "date_first_scraped": "2023-12-19",
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
   "name": "Cancionero Ed\u00e9n Mu\u00f1oz",
@@ -1348,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "Pr\u00e9stamela a M\u00ed",
+      "url": "https://open.spotify.com/track/2EGqa4yp5xGfu3sppG0oFy"
+    },
+    {
+      "album": {
         "name": "Luces, C\u00e1mara Y Acci\u00f3n",
         "url": "https://open.spotify.com/album/3NgO1pIxZR6jIR1pQSp6Yo"
       },
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 182360,
       "name": "Voy A Ser Breve",
       "url": "https://open.spotify.com/track/1NrkTltXfryaM38xymc3tn"

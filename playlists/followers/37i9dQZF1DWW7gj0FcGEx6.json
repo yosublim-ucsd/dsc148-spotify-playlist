@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 280464,
+  "2024-02-12": 280514,
   "date_first_scraped": "2021-12-28",
   "description": "The latest, greatest soundtracks from the big and small screen.",
   "name": "Soundtracked",
@@ -497,6 +497,10 @@
         {
           "name": "The Album Leaf",
           "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        },
+        {
+          "name": "Jimmy Lavalle",
+          "url": "https://open.spotify.com/artist/1W3i3D5iKgKH5Yg2XhXqby"
         }
       ],
       "date_added": "2021-12-20",

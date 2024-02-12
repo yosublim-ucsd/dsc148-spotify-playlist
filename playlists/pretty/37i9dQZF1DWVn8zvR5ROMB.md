@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kacey Musgraves, Nate Smith, Gwen Stefani & Blake Shelton and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,524 likes - 86 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,645 likes - 86 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 85 | [Drink You Down](https://open.spotify.com/track/25iscrO6TmREkXO3jUiNjF) | [Justin Holmes](https://open.spotify.com/artist/2gYTB06AYMzdZMIelaYy9D) | [Drink You Down](https://open.spotify.com/album/5npfwtS3qEOj7N0hYFYWjD) | 3:41 |
 | 86 | [Miracles](https://open.spotify.com/track/0b1vCvKQLr3rheq9XaSSK8) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Miracles](https://open.spotify.com/album/6E6WcMUKTqjaRnfeIdFrUb) | 2:49 |
 
-Snapshot ID: `MCwwNTY3OTFlNmI4YzIzMjY1NDZlYWRmNDk0NDhjM2NkMzVkNzMzODY1`
+Snapshot ID: `MCxlYzkyZGNlMTNkNGVkODdlYjJmZTJkZGIzOTk0MzRiOTA2NDY2YWUy`

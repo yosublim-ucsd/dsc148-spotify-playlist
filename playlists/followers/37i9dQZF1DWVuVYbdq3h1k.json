@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 1215376,
+  "2024-02-12": 1215543,
   "date_first_scraped": "2023-06-14",
   "description": "S\u00ed, \u00a1ya estamos viejos!",
   "name": "Los 2000 M\u00e9xico",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 215680,
       "name": "Baila Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx"
@@ -1851,7 +1851,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 213000,
       "name": "The Ketchup Song (Aserej\u00e9) - Spanish Version",
       "url": "https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU"

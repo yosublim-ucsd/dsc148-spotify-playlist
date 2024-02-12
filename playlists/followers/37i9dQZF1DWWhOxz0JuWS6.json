@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 91484,
+  "2024-02-12": 91525,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.",
   "name": "Deep Dive: 80s Rock",
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 171826,
       "name": "California Girls",
       "url": "https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS"
@@ -2595,7 +2595,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 243066,
       "name": "Got Me Under Pressure - 2008 Remaster",
       "url": "https://open.spotify.com/track/1jzZZsfzxsebFa6KpWXaAr"

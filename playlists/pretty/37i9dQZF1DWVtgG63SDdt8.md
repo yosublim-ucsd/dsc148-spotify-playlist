@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1vSN1fsvrzpbttOYGsliDr">Tori Kelly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,517 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,616 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Balance](https://open.spotify.com/track/5sgsKNynu5ZyrstJeLdbaM) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs) | [Balance](https://open.spotify.com/album/35qOCNMs1m6MPGK0ej5oFo) | 6:21 |
 | 100 | [Go With Me](https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Go With Me](https://open.spotify.com/album/4At1FoRpKILlQScRac9B65) | 4:25 |
 
-Snapshot ID: `MCxlOTk2OGZlNzQ1OTIzNWM3ZjQyYjM1OWI0NWY0YWI0OTgzN2Q4N2Iz`
+Snapshot ID: `MCxhNjc4ZTZiYTkxMDY5MTc3OTY4YTg3MDA5ZDU5ZjU3ZmUyNTVkODZk`

@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 294558,
+  "2024-02-12": 294702,
   "date_first_scraped": "2022-05-30",
   "description": "Revisit the retro Rahman",
   "name": "Rahman Ruling 90s",
@@ -1521,10 +1521,36 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 353133,
       "name": "Kannalanae",
       "url": "https://open.spotify.com/track/0ZMOIWlRK56eQPamwvg9Cf"
+    },
+    {
+      "album": {
+        "name": "Bombay (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ejbQMeAknwJAl346hKxMN"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355720,
+      "name": "Kannalane",
+      "url": "https://open.spotify.com/track/0h3w2rBLiG11sahy43zkRm"
     },
     {
       "album": {
@@ -1664,6 +1690,44 @@
     },
     {
       "album": {
+        "name": "Bombay (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ejbQMeAknwJAl346hKxMN"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        },
+        {
+          "name": "Sharadha",
+          "url": "https://open.spotify.com/artist/3VGzu0t1gN8oygvAxrruzc"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308280,
+      "name": "Kuchi Kuchi Rakkamma",
+      "url": "https://open.spotify.com/track/6HHJifWYAY8RuAbXWrUysc"
+    },
+    {
+      "album": {
         "name": "Bombay",
         "url": "https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D"
       },
@@ -1687,7 +1751,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 303996,
       "name": "Kuchi Kuchi Rakkamma",
       "url": "https://open.spotify.com/track/7zgUcaUKZJifUZdiGizuth"

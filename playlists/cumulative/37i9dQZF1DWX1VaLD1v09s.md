@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-479 songs - 1 day 15 hr 32 min
+480 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Don't Cry \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 6:08 | 2021-04-04 | 2023-06-17 |
 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 | 2021-04-04 | 2022-07-29 |
 | [Dust We Are and Shall Return](https://open.spotify.com/track/3l2hzgY88D94QhH7S1QNm6) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Brother](https://open.spotify.com/album/4M4pqINci5iy0I1TDS7vSp) | 3:19 | 2022-04-02 | 2022-06-06 |
+| [Dust We Are and Shall Return](https://open.spotify.com/track/4qBBwyifuIVZT9ir80KEnR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Brother](https://open.spotify.com/album/3jhsPWOZCdFVRtf61sASx2) | 3:19 | 2023-04-09 |  |
 | [Easter \(feat\. Todd Dulaney\)](https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Easter \(feat\. Todd Dulaney\)](https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG) | 7:07 | 2021-04-04 | 2022-07-26 |
 | [Easter Medley: Because He Lives / My Redeemer Lives / Arise My Love](https://open.spotify.com/track/5rySK1fnag7hZG1yQRfGSf) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Hymns](https://open.spotify.com/album/55y8iZYeiGKxYCxmWF5Nd4) | 2:43 | 2021-04-04 | 2022-07-29 |
 | [Easter Morning](https://open.spotify.com/track/0msIjjUwmUyVOCITpdT3iY) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Death Died](https://open.spotify.com/album/2Q1yeTh0KLIzBKzpshhLxj) | 4:51 | 2021-04-04 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 | 2021-04-04 |  |
 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 | 2021-04-04 | 2023-04-09 |
 | [God Undefeatable \(feat\. Aaron Ivey\)](https://open.spotify.com/track/4VgrQg0p8rc2DGbEJFnft1) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x), [Aaron Ivey](https://open.spotify.com/artist/5BwhXNVZT5VMkZW3IPVVfF) | [Austin Stone Live](https://open.spotify.com/album/5Ng89tHiIx1rN1iMhIo8aF) | 4:56 | 2022-04-02 | 2022-04-13 |
-| [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 | 2023-04-09 |  |
+| [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 | 2023-04-09 | 2024-02-12 |
 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 | 2022-04-02 |  |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2021-04-04 |  |
 | [Good Grace \- Live](https://open.spotify.com/track/5oKjV2E0mt8SjAsuRGQKcV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Another In The Fire \(Live\)](https://open.spotify.com/album/1StFSkLn6WcA8pORvC8KD8) | 5:53 | 2021-04-04 | 2022-07-29 |

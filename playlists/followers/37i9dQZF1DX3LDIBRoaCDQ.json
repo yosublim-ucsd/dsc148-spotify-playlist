@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 1551473,
+  "2024-02-12": 1551774,
   "date_first_scraped": "2021-12-21",
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
   "name": "Classic Punk",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 113888,
       "name": "Anarchy Burger (Hold The Government)",
       "url": "https://open.spotify.com/track/3QebYR26gRT9Bso2VSnUOR"
@@ -1890,7 +1890,7 @@
     },
     {
       "album": {
-        "name": "Damned Damned Damned",
+        "name": "Damned Damned Damned (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
       },
       "artists": [
@@ -1926,7 +1926,7 @@
     },
     {
       "album": {
-        "name": "Damned Damned Damned",
+        "name": "Damned Damned Damned (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
       },
       "artists": [
@@ -2283,6 +2283,24 @@
       "duration_ms": 186146,
       "name": "Radio, Radio",
       "url": "https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg"
+    },
+    {
+      "album": {
+        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
+        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256760,
+      "name": "Raw Power [2023 Remaster] - Iggy Mix",
+      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
     },
     {
       "album": {

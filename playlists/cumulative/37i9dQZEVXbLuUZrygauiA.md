@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,676 songs - 3 day 18 hr 43 min
+1,677 songs - 3 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,7 +635,7 @@
 | [Gravity](https://open.spotify.com/track/44LVgFZvUcBYo98vy71tvd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Talk](https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS) | 6:20 | 2022-03-29 | 2022-04-09 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-05 | 2023-11-01 |
-| [Gustarme Tanto](https://open.spotify.com/track/0fcibnTsBtSPMqLLsrwdPh) | [Zcar JPG](https://open.spotify.com/artist/2ob3mlhTI7y5BZXVmjIL18) | [Gustarme Tanto](https://open.spotify.com/album/1ui8WIFvvrwID8raHWwiQf) | 1:54 | 2024-01-19 |  |
+| [Gustarme Tanto](https://open.spotify.com/track/0fcibnTsBtSPMqLLsrwdPh) | [Zcar JPG](https://open.spotify.com/artist/2ob3mlhTI7y5BZXVmjIL18) | [Gustarme Tanto](https://open.spotify.com/album/1ui8WIFvvrwID8raHWwiQf) | 1:54 | 2024-01-19 | 2024-02-12 |
 | [Hala Madrid ...y nada más](https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC) | [Real Madrid](https://open.spotify.com/artist/52tiVHeB0x2XvFAyajG1BZ), [Red'One](https://open.spotify.com/artist/26quetZGT3Ru0s5nJNSbCB) | [Hala Madrid ...y nada más](https://open.spotify.com/album/3P5MjGvpfwLCz0VBciW86q) | 2:57 | 2022-05-31 | 2022-06-06 |
 | [Halloween Theme](https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Cody Carpenter](https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg), [Daniel Davies](https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP) | [Halloween \(Original 2018 Motion Picture Soundtrack\)](https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM) | 3:02 | 2023-11-02 | 2023-11-07 |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2022-11-02 | 2023-11-07 |
@@ -1206,6 +1206,7 @@
 | [Que Daría](https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:32 | 2022-06-21 | 2022-07-20 |
 | [Que El Porte Se Me Note](https://open.spotify.com/track/7oteWihovGG0K5grhTaZhj) | [DanyAraujo](https://open.spotify.com/artist/6nwG1sN2MjVkjGBKTFONyq), [Joan LZ](https://open.spotify.com/artist/7kyCaEo3MoxvuID38Dtgc3) | [Que El Porte Se Me Note](https://open.spotify.com/album/5dIGFowLCGm74wTJqQKpPf) | 3:18 | 2023-03-14 | 2023-03-22 |
 | [Que Ganas](https://open.spotify.com/track/5pXuclm5K7goAcENkqoanP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:43 | 2022-06-21 | 2022-07-06 |
+| [Que La Envidia Los Mate](https://open.spotify.com/track/6NqdfpijnIpmVn7aKyD2xE) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 2:49 | 2024-02-11 |  |
 | [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/1eBTesQZ72agGVC4kKs6HN) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 3:29 | 2022-10-28 | 2022-11-11 |
 | [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/45PmtkNbgCun4GPphHVzvi) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 3:29 | 2023-10-20 | 2023-11-11 |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2023-09-19 | 2024-01-18 |

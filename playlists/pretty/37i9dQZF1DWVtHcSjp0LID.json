@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 66302,
+  "num_followers": 66308,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4",
+  "snapshot_id": "MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+        "name": "Kopernikus EP",
+        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
+      "duration_ms": 440118,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -603,22 +619,6 @@
       "duration_ms": 494109,
       "name": "The Only Way Out Is Through",
       "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Kopernikus EP",
-        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
-      },
-      "artists": [
-        {
-          "name": "Stil & Bense",
-          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
-        }
-      ],
-      "duration_ms": 440118,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "In search of Moksha... Or something of the kind",
-        "url": "https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2"
-      },
-      "artists": [
-        {
-          "name": "Aron Estocolmo",
-          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
-        }
-      ],
-      "duration_ms": 397894,
-      "name": "The Ganga river unpolluted once more",
-      "url": "https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "LNOE Introducing Vol. 1",
         "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 322058,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "In search of Moksha... Or something of the kind",
+        "url": "https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2"
+      },
+      "artists": [
+        {
+          "name": "Aron Estocolmo",
+          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
+        }
+      ],
+      "duration_ms": 397894,
+      "name": "The Ganga river unpolluted once more",
+      "url": "https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv"
     },
     {
       "added_at": "2023-06-09 18:05:35",

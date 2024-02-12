@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zlatan & Asake",
-  "num_followers": 44682,
+  "num_followers": 44790,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGYyMWEyZjQxMDZhMTBhZjU5ODA3MDMxY2Y4ZjA2NzFhOTdhYThh",
+  "snapshot_id": "MCw5Yjc2ZWIwMmJiMzFhYTllZTQ0YzliYzVhZDI2ZmE3ODk2YTVhZTkx",
   "tracks": [
     {
       "added_at": "2024-02-08 17:26:48",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-02-08 17:26:48",
       "album": {
-        "name": "Astalavista",
-        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "Astalavista",
-      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
-    },
-    {
-      "added_at": "2024-02-08 17:26:48",
-      "album": {
         "name": "Wale (Remix) [feat. Simi]",
         "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 188135,
       "name": "Wale (Remix) [feat. Simi]",
       "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
+    },
+    {
+      "added_at": "2024-02-08 17:26:48",
+      "album": {
+        "name": "Astalavista",
+        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "Astalavista",
+      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
     },
     {
       "added_at": "2024-02-08 17:26:48",

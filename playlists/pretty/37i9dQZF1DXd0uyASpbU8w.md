@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,443 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,530 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 44 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 |
 | 45 | [Run Away](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
 | 46 | [Ithongo](https://open.spotify.com/track/63BZTjWY3zI7q0D81icRYr) | [UYIHLO](https://open.spotify.com/artist/5fYFLQeVq7PTOteHexySJ4) | [Severance Package](https://open.spotify.com/album/3NlxHp2WiwQHxODvyCgDCy) | 1:50 |
-| 47 | [Weh Mama](https://open.spotify.com/track/1beQ9Lot3awiLYtpDNYz3X) | [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [Al xapo](https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY), [Snenaah](https://open.spotify.com/artist/0XrzCMumeor5KgeMJyevA6), [Dutch](https://open.spotify.com/artist/3MOZ80A0j1ByZiTQk9Kdhv) | [Weh Mama](https://open.spotify.com/album/43qZfJtt8c69RVASF4pwbk) | 7:42 |
+| 47 | [Weh Mama](https://open.spotify.com/track/1beQ9Lot3awiLYtpDNYz3X) | [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [Al xapo](https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY), [Snenaah](https://open.spotify.com/artist/0XrzCMumeor5KgeMJyevA6), [Dutch](https://open.spotify.com/artist/17c2OpPnVj1XnklT3IlOdY) | [Weh Mama](https://open.spotify.com/album/43qZfJtt8c69RVASF4pwbk) | 7:42 |
 | 48 | [Saphalaza](https://open.spotify.com/track/15cXnboC3Mpzif7MetGtiA) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW) | [Saphalaza](https://open.spotify.com/album/2bRy7Gc7u4Igr54k6nXlyN) | 1:51 |
 | 49 | [Let It Play](https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Play](https://open.spotify.com/album/1ucEK6a8nB1piGe2HGMtZW) | 2:20 |
 | 50 | [Dopamine](https://open.spotify.com/track/3Uxa5ShLCAhUavahePdL2W) | [Nic Billington](https://open.spotify.com/artist/0upmBN9fllZJBgez7wmCtb) | [Dark Horse](https://open.spotify.com/album/5TbR3UkzZGHnbpZPWjFVHI) | 3:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 54 | [Awuyazi](https://open.spotify.com/track/4NIw1lTaZhx4JJckSBQtRn) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Awuyazi](https://open.spotify.com/album/4dbyrXuL6rXrFNrsnz3Fco) | 5:22 |
 | 55 | [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 |
 
-Snapshot ID: `MCxkZWNkY2EwOWMyNGFhYjI3ZjkwZjI5ZDQxYzQ3YzcxNmRhZGI1M2Q5`
+Snapshot ID: `MCxkZDRlYzBiY2Q0ZDhjNTc1MWZkZGRlNzdmNTRjNWQxYjNjN2Y1ODFm`

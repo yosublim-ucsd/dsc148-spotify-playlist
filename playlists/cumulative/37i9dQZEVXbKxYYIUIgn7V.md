@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-96 songs - 4 hr 56 min
+97 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,12 @@
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2024-02-08 |  |
 | [Dornwald](https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG) | [Hänsel](https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w), [Liebling](https://open.spotify.com/artist/2rDgiXjtPa0hGvovvxUvSV) | [Dornwald](https://open.spotify.com/album/004U8iepW4TdNIhkunmrLL) | 2:15 | 2024-01-29 | 2024-02-05 |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 | 2024-02-07 |
+| [FENDI ON MY EYES](https://open.spotify.com/track/4nmjsyzslWD3IHif3f34Wn) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [GUIZCORE](https://open.spotify.com/artist/3IXC3Jf78yLwkAKp4IdEbW) | [ANOTHER DIMENSION](https://open.spotify.com/album/0qLJC6nODiFrkmjU00g3qO) | 3:54 | 2024-02-11 |  |
 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2024-01-29 | 2024-02-10 |
 | [Frieden](https://open.spotify.com/track/3owQNPhIzH9VS9dvAI1Kta) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Frieden](https://open.spotify.com/album/7AxeIfzWzEzuGfkyMgQKQh) | 5:04 | 2024-01-30 | 2024-02-05 |
 | [Friend Of A Friend](https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 4:35 | 2024-01-30 | 2024-02-09 |
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2024-01-29 | 2024-01-31 |
-| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-02-06 |  |
+| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-02-06 | 2024-02-12 |
 | [Gangsta Track](https://open.spotify.com/track/0uvAAYuOgvKDAepS9SDCrd) | [Dark Boy](https://open.spotify.com/artist/17rYRvRZhbk3an3XkmZwHo) | [Gangsta Track](https://open.spotify.com/album/3BBhNs5m7xHIWKAfnKTulZ) | 3:12 | 2024-01-29 | 2024-02-04 |
 | [Geh Alte gib a Ruah](https://open.spotify.com/track/3yHPEa6fdNg0UIAQl7t1DI) | [Habe & Dere](https://open.spotify.com/artist/11zQojzPiuAqx869jRwTmb), [Florian Fesl](https://open.spotify.com/artist/2WSMEwi0E7fpOKIEC7KHXl) | [Geh Alte gib a Ruah](https://open.spotify.com/album/75kTzt8VJpKzCXWysXRFnI) | 2:46 | 2024-01-30 |  |
 | [Generation](https://open.spotify.com/track/1OSuzW75FOtBdDNTuWM3wy) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [BARÉ](https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp), [Bayor](https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne), [Biggie68](https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1), [Skandal](https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV) | [Generation](https://open.spotify.com/album/29MAZSbreZZ18sYo6obqHx) | 2:49 | 2024-01-29 | 2024-01-31 |

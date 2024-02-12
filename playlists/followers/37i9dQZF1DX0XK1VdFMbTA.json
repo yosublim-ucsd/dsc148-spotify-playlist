@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 145998,
+  "2024-02-12": 146041,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd",
   "name": "Deep Dive: 70s Rock",
@@ -6581,7 +6581,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 286573,
       "name": "I'm Bad, I'm Nationwide",
       "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
@@ -7551,6 +7551,24 @@
       "duration_ms": 265680,
       "name": "Just Another Nervous Wreck - 2010 Remastered",
       "url": "https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267480,
+      "name": "Just Got Paid",
+      "url": "https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA"
     },
     {
       "album": {
@@ -9622,7 +9640,7 @@
     },
     {
       "album": {
-        "name": "Damned Damned Damned",
+        "name": "Damned Damned Damned (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
       },
       "artists": [
@@ -15151,6 +15169,24 @@
     {
       "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Waitin' for the Bus (2006 Remaster)",
+      "url": "https://open.spotify.com/track/2zNkzCAijAuCYWzxKJeYO2"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
       "artists": [
@@ -15161,7 +15197,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 173266,
       "name": "Waitin' for the Bus - 2006 Remaster",
       "url": "https://open.spotify.com/track/2s0XwRidJ0uVeXThGbeCCk"

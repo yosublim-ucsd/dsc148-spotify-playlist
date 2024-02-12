@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 429208,
+  "num_followers": 429263,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjNhZTdiNDk3ZmRjYmE3NTBiYTE2YWNlNzU0OTdjZWVjOThhOWI3",
+  "snapshot_id": "MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Hold You - Hold Yuh",
+      "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
         "url": "https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 154666,
       "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
       "url": "https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Hold You - Hold Yuh",
-      "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -463,26 +463,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "FIXTAPE",
-        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
+        "name": "Whine & Kotch",
+        "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
         }
       ],
-      "duration_ms": 259651,
-      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+      "duration_ms": 217200,
+      "name": "Whine & Kotch",
+      "url": "https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -503,22 +499,26 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Whine & Kotch",
-        "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
       "artists": [
         {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         },
         {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Whine & Kotch",
-      "url": "https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv"
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
+        "name": "Bruk off Yuh Back",
+        "url": "https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0"
       },
       "artists": [
         {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 154038,
-      "name": "So Mi Like It",
-      "url": "https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU"
+      "duration_ms": 173465,
+      "name": "Bruk off Yuh Back",
+      "url": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Bruk off Yuh Back",
-        "url": "https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0"
+        "name": "10",
+        "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         }
       ],
-      "duration_ms": 173465,
-      "name": "Bruk off Yuh Back",
-      "url": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG"
+      "duration_ms": 154038,
+      "name": "So Mi Like It",
+      "url": "https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -859,6 +859,42 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Pull up to Mi Bumper",
+        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+        }
+      ],
+      "duration_ms": 150279,
+      "name": "Pull up to Mi Bumper",
+      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Many Moods Of Moses",
+        "url": "https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Stronger We Get",
         "url": "https://open.spotify.com/album/39jYUlDsrXJPtfucwq4f3F"
       },
@@ -883,22 +919,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Many Moods Of Moses",
-        "url": "https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Good Comfort",
         "url": "https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 134400,
       "name": "Good Comfort",
       "url": "https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Pull up to Mi Bumper",
-        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
-        }
-      ],
-      "duration_ms": 150279,
-      "name": "Pull up to Mi Bumper",
-      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Asafa Powell: Train For Speed",
-        "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
-      },
-      "artists": [
-        {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Tempted To Touch",
-      "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Brik Pan Brik",
         "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 160724,
       "name": "Brik Pan Brik",
       "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Asafa Powell: Train For Speed",
+        "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
+      },
+      "artists": [
+        {
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Tempted To Touch",
+      "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Live n' Learn",
-        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Live n' Learn",
-      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Dancehall Hero Raw: Deluxe",
         "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 239786,
       "name": "Pon De River Pon De Bank",
       "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Live n' Learn",
+        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Live n' Learn",
+      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Raw as Eva",
+        "url": "https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 162377,
+      "name": "Gyal Bruk Out",
+      "url": "https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Microphone Champion",
         "url": "https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 215920,
       "name": "Too Many Man",
       "url": "https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Raw as Eva",
-        "url": "https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 162377,
-      "name": "Gyal Bruk Out",
-      "url": "https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Oh No It's Red Rat",
+        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
+      },
+      "artists": [
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Tight Up Skirt",
+      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Oh No It's Red Rat",
-        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
-      },
-      "artists": [
-        {
-          "name": "Red Rat",
-          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Tight Up Skirt",
-      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Paddle Boat",
-        "url": "https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm"
-      },
-      "artists": [
-        {
-          "name": "Najeeriii",
-          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Paddle Boat",
-      "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Unconditional Love",
         "url": "https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 236906,
       "name": "Ganja Farmer",
       "url": "https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Paddle Boat",
+        "url": "https://open.spotify.com/album/7d03vxpgmUv4BtCdtnFjRm"
+      },
+      "artists": [
+        {
+          "name": "Najeeriii",
+          "url": "https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Paddle Boat",
+      "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
     }
   ],
   "unique_name": "Dancehall Party",

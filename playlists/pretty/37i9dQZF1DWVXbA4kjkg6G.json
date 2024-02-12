@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 477168,
+  "num_followers": 477388,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjBkNTlhZThjYzk0ZDE4MDQzMzZjYjhlNWQ4MTU0ZmMwMzIyN2U5",
+  "snapshot_id": "MCwyOGVjZWNjNjhkZTFhODRmNDU4OTU0ODhhMTJkN2ViM2JkZmMyOTg2",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Viva! La Woman",
-        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
-      },
-      "artists": [
-        {
-          "name": "Cibo Matto",
-          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "DJ-Kicks",
         "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 380786,
       "name": "Black Baby (DJ-KiCKS)",
       "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Viva! La Woman",
+        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
+      },
+      "artists": [
+        {
+          "name": "Cibo Matto",
+          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Jazzanova EP",
-        "url": "https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f"
-      },
-      "artists": [
-        {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
-        }
-      ],
-      "duration_ms": 414693,
-      "name": "Bohemian Sunset",
-      "url": "https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Jazzanova EP",
+        "url": "https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 414693,
+      "name": "Bohemian Sunset",
+      "url": "https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
-      },
-      "artists": [
-        {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        }
-      ],
-      "duration_ms": 308373,
-      "name": "Unreal",
-      "url": "https://open.spotify.com/track/3g8iM8biW7FRpmkG3fbuff"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Turn The Dark Off",
         "url": "https://open.spotify.com/album/4t0n6rx2Y2yZKX9rXZ3lId"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 264573,
       "name": "Who's Got The Bacon?",
       "url": "https://open.spotify.com/track/5NrhncrVseX744Lh505exA"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        }
+      ],
+      "duration_ms": 308373,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/3g8iM8biW7FRpmkG3fbuff"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Hed Phone Sex",
-        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
       "artists": [
         {
@@ -1156,25 +1156,9 @@
           "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 441866,
-      "name": "B Monkey",
-      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
-      },
-      "artists": [
-        {
-          "name": "Skylab",
-          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
-        }
-      ],
-      "duration_ms": 339626,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
+      "duration_ms": 241760,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1191,6 +1175,22 @@
       "duration_ms": 408000,
       "name": "A Mother (For Your Mind)",
       "url": "https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
+      },
+      "artists": [
+        {
+          "name": "Skylab",
+          "url": "https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7"
+        }
+      ],
+      "duration_ms": 339626,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Major Force West ('93 - '97)",
-        "url": "https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly"
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD"
       },
       "artists": [
         {
-          "name": "Major Force West E.M.S. Orchestra",
-          "url": "https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v"
+          "name": "Depth Charge",
+          "url": "https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u"
         }
       ],
-      "duration_ms": 384960,
-      "name": "Mugen - In the Morning",
-      "url": "https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc"
+      "duration_ms": 266693,
+      "name": "Legend of the Golden Snake - Single Version",
+      "url": "https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO"
     }
   ],
   "unique_name": "Trip Hop",

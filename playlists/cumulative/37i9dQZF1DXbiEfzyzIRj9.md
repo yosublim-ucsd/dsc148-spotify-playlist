@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: DBN GoGo
 
-596 songs - 1 day 20 hr 48 min
+597 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/track/1guarMYBLktq8irSVW7VN5) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/album/5oOB78P3SfrUIIYag71Mbq) | 2:19 | 2024-01-29 | 2024-02-02 |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2023-03-16 | 2023-03-21 |
 | [I LOVE YOUR GIRLFRIEND \(LONG MIX\)](https://open.spotify.com/track/40u17UV8FFMpMnmwR0njiU) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [John FM](https://open.spotify.com/artist/0vscEUhV9isTMclPcVz7zr) | [I LOVE YOUR GIRLFRIEND](https://open.spotify.com/album/4UaTStMyq4341PViofd4qj) | 5:05 | 2023-04-27 | 2023-08-18 |
-| [I Made This To Play at fabric \- Edit](https://open.spotify.com/track/3LkufDsqqrxaVVUWixEEnK) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [I Made This To Play at fabric \(Edit\)](https://open.spotify.com/album/6rPdvEZtsjDIitWhR6b20G) | 3:37 | 2024-02-09 |  |
+| [I Made This To Play at fabric \- Edit](https://open.spotify.com/track/3LkufDsqqrxaVVUWixEEnK) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [I Made This To Play at fabric \(Edit\)](https://open.spotify.com/album/6rPdvEZtsjDIitWhR6b20G) | 3:37 | 2024-02-09 | 2024-02-12 |
+| [I Made This To Play at fabric \- Edit](https://open.spotify.com/track/5P6LEZsAg2Kh509eX0B0gg) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [I Made This To Play at fabric](https://open.spotify.com/album/1fbd3IPqZFTrIIHdaHOWuG) | 3:37 | 2024-02-09 |  |
 | [i!i!bbbbBaadboi!i!](https://open.spotify.com/track/0FI2TdUBdPUC7PYXEQSwLd) | [Oyubi](https://open.spotify.com/artist/31lJcJjObYkDS6hNPPLvDr) | [^fuun^ EP](https://open.spotify.com/album/7iwUwwcSlGQYzG9B7ri3Lt) | 4:18 | 2023-09-21 | 2023-11-11 |
 | [I'll Make You Dub](https://open.spotify.com/track/0aya26MRkhSildFOgwXpHf) | [DJ SHIKISAI](https://open.spotify.com/artist/0rAwXkrIxv0I1dEy9k8qI8) | [DDC Jams VOL.1 \- Released 2020\-2023](https://open.spotify.com/album/684o8y5u0p926Lbyxqw7W2) | 6:18 | 2023-09-07 |  |
 | [I'm A Man](https://open.spotify.com/track/5W6rx3YtlEXqDc0PWgRva6) | [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [Love Is Emotion EP](https://open.spotify.com/album/4uqss4DM09XYY0ZouePKJX) | 7:20 | 2023-10-26 | 2023-11-18 |

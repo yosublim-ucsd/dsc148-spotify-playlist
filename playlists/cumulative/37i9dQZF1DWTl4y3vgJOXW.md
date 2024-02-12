@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Patrick Mahomes and Travis Kelce
+> Fourth quarter, two minutes left .\. get locked in\. Cover: the San Francisco 49ers and the Kansas City Chiefs
 
 569 songs - 1 day 4 hr 57 min
 

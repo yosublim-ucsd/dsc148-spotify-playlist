@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 153988,
+  "num_followers": 154015,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjIxMmQ3MmZiNzczMDJmMWU1MThkNjhlN2FkNWJjYWYyZDdlZDBi",
+  "snapshot_id": "MCw3NDg0Yjc2NjdkYmViZjYwNjQxYmUzN2JmNjYwNmFiNzQ2YjM2ZmRh",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -115,22 +115,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
-      "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Discos Del Mill\u00f3n",
         "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 162906,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -439,18 +439,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
-        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
       },
       "artists": [
         {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 132933,
-      "name": "La Plaga (Good Golly, Miss Molly)",
-      "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
+      "duration_ms": 132458,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -471,18 +471,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 132458,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8"
+      "duration_ms": 132933,
+      "name": "La Plaga (Good Golly, Miss Molly)",
+      "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Ritmo Fren\u00e9tico",
-        "url": "https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD"
-      },
-      "artists": [
-        {
-          "name": "Los Freneticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287"
-        }
-      ],
-      "duration_ms": 129793,
-      "name": "Nena Baila Twist",
-      "url": "https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
         "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 171733,
       "name": "Popotitos (Bonie Moroni)",
       "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Ritmo Fren\u00e9tico",
+        "url": "https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD"
+      },
+      "artists": [
+        {
+          "name": "Los Freneticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287"
+        }
+      ],
+      "duration_ms": 129793,
+      "name": "Nena Baila Twist",
+      "url": "https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf"
     },
     {
       "added_at": "2020-03-18 04:18:26",

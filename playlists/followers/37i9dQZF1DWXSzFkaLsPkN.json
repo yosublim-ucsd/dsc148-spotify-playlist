@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 116466,
+  "2024-02-12": 116481,
   "date_first_scraped": "2023-05-19",
   "description": "Hindi hai, Indie hai! Cover- Utsavi Jha",
   "name": "hIndies",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Aise Ho Tum",
       "url": "https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0"
@@ -1690,6 +1690,24 @@
     },
     {
       "album": {
+        "name": "Laut Aao Na",
+        "url": "https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Laut Aao Na",
+      "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
+    },
+    {
+      "album": {
         "name": "Le Chal",
         "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
       },
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 237529,
       "name": "Mera Ishq",
       "url": "https://open.spotify.com/track/0mIpoTx5eetKSdr6YEbu3H"
@@ -2129,7 +2147,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"

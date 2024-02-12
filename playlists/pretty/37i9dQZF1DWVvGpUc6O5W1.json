@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42359,
+  "num_followers": 42373,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx",
+  "snapshot_id": "MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Si No Le Gustara",
+      "url": "https://open.spotify.com/track/44kQi6Q5YUMSbZX25UFqbr"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Vas a Llorar",
         "url": "https://open.spotify.com/album/517ZjQptntaGmfLTyoUuOq"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 177887,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/0L1n3OFH2fZkU7f4iNh2iQ"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Si No Le Gustara",
-      "url": "https://open.spotify.com/track/44kQi6Q5YUMSbZX25UFqbr"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Mi Vicio y Mi Adiccion",
-        "url": "https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 160260,
-      "name": "A los 18",
-      "url": "https://open.spotify.com/track/63tmXHQtTfG81P34RwPltx"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "La Vida Del Rey",
         "url": "https://open.spotify.com/album/6f90dt695TsUJxfrumZi1H"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 214706,
       "name": "No Te Hagas La Fuerte",
       "url": "https://open.spotify.com/track/1L8T5KEkPQq9cjlFIBNy1U"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Mi Vicio y Mi Adiccion",
+        "url": "https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 160260,
+      "name": "A los 18",
+      "url": "https://open.spotify.com/track/63tmXHQtTfG81P34RwPltx"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Me Dolio",
-      "url": "https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Inv\u00edtame",
         "url": "https://open.spotify.com/album/6tdBpuY7xprf7sJ2FEn0WQ"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Me Dolio",
+      "url": "https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "La Verdadera Joya",
         "url": "https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Capaz de Todo",
-        "url": "https://open.spotify.com/album/4IwstpJh76BsS12JPKXuxq"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 221452,
-      "name": "Sin Ganas De Cenar (Banda)",
-      "url": "https://open.spotify.com/track/72OxyG9p9Yyd4jWFBWV9FX"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "No Es Un Juego",
         "url": "https://open.spotify.com/album/0H8HvLS6Gv0ZStVuZiz9jD"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 216853,
       "name": "No Es Un Juego",
       "url": "https://open.spotify.com/track/4brAkdbamMA7UuS0IEjiRZ"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Capaz de Todo",
+        "url": "https://open.spotify.com/album/4IwstpJh76BsS12JPKXuxq"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "duration_ms": 221452,
+      "name": "Sin Ganas De Cenar (Banda)",
+      "url": "https://open.spotify.com/track/72OxyG9p9Yyd4jWFBWV9FX"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "A Mi Modo",
-        "url": "https://open.spotify.com/album/0LzSK72w0Bvi0KSmkTxR1V"
-      },
-      "artists": [
-        {
-          "name": "Diego Herrera",
-          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Te Deseo",
-      "url": "https://open.spotify.com/track/5ohauUtiVEwzHybD334I22"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Haci\u00e9ndola Buena",
         "url": "https://open.spotify.com/album/7ucHxUOmlvCLkbhp8dISp6"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 167840,
       "name": "Ayer Y Hoy",
       "url": "https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "A Mi Modo",
+        "url": "https://open.spotify.com/album/0LzSK72w0Bvi0KSmkTxR1V"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Te Deseo",
+      "url": "https://open.spotify.com/track/5ohauUtiVEwzHybD334I22"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Haciendo Historia",
-      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "M\u00e1s Caro, que ayer",
         "url": "https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 146133,
       "name": "Lo Que Hacemos En Tu Cama",
       "url": "https://open.spotify.com/track/01U82GCUOncrdHenabtlDk"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Haciendo Historia",
+      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "M\u00e1s Enamorada Con Banda",
-        "url": "https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 150746,
-      "name": "Me Gustar\u00eda",
-      "url": "https://open.spotify.com/track/1l44mO5rUAzgwDgR4YfSnJ"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Queri\u00e9ndote M\u00e1s",
         "url": "https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 177933,
       "name": "Besos En Pastillas",
       "url": "https://open.spotify.com/track/6UJO5osd30MTaDJlg8VQBs"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "M\u00e1s Enamorada Con Banda",
+        "url": "https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 150746,
+      "name": "Me Gustar\u00eda",
+      "url": "https://open.spotify.com/track/1l44mO5rUAzgwDgR4YfSnJ"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Chicas Malas",
-        "url": "https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Te Descuidaste",
-      "url": "https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Homenaje a Nuestros Viejos",
         "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 187920,
       "name": "Chaparrita de Mi Amor",
       "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Chicas Malas",
+        "url": "https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Te Descuidaste",
+      "url": "https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I"
     },
     {
       "added_at": "2022-01-25 18:24:05",

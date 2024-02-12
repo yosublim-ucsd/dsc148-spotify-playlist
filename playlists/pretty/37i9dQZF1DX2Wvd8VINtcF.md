@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,551 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,594 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 100 | [Most High](https://open.spotify.com/track/3txGeotloGcxftsfILid6V) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Most High](https://open.spotify.com/album/5x0EMr3Ue2bH83CbLCm9n4) | 2:23 |
 
-Snapshot ID: `MCwzYzJmZGRiMzg3MjQzNjFlMjQyZGViMzA5NjYwZDY3YzRiM2ZlNDNk`
+Snapshot ID: `MCw4YjQ0MDMyMGI0MDM0YTQ0OWI1Njc0ZDk1YmI1MDU3NWQ1N2U5ZWM1`

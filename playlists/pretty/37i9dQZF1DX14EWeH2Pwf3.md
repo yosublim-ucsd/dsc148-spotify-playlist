@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,940 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,426 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Cocaina](https://open.spotify.com/track/64qsPgi3QCzSSLz0lMxCn7) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bendicion](https://open.spotify.com/album/6VTLsm4M3WA9YTf3RNWMnz) | 2:40 |
 | 50 | [GRAN TORINO \(Red Bull 64 Bars\)](https://open.spotify.com/track/5XgHAgZ2grYFvHjLQdhiVk) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [GRAN TORINO \(Red Bull 64 Bars\)](https://open.spotify.com/album/4mvXxyQrvPrh5Ym8DBvAAY) | 3:57 |
 
-Snapshot ID: `MCxjYmMzMDQ2MDBjMjZhOGM3ZDYxMzJiZjVlNGM0MmY1ODRhYTE3NzNm`
+Snapshot ID: `MCwxOGExNTczZDkwNmIxYzI4M2NlOWE3MGJjOWE1NTIzMDJhYTRmN2Y0`

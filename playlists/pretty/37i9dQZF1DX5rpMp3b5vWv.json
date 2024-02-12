@@ -1,12 +1,12 @@
 {
   "description": "Game time.",
-  "num_followers": 196208,
+  "num_followers": 197321,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzhmM2ZkZTZmNTM2YWJiYzA0YTE4MjY1OTg3MWQ5NGZmZGU2NjFj",
+  "snapshot_id": "MCwxNjUxNTk3MWEzY2FiMWJmM2QyNThlMjFjOGMzZjQ3NzBiZmZkMDhi",
   "tracks": [
     {
       "added_at": "2023-12-28 18:28:27",
@@ -867,18 +867,22 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "A Love Letter To You 4",
-        "url": "https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE"
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 91288,
-      "name": "The Grinch",
-      "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ"
+      "duration_ms": 299960,
+      "name": "Collard Greens",
+      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
     }
   ],
   "unique_name": "Laced Up",

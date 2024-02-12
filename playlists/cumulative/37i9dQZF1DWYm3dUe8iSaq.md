@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-235 songs - 13 hr 32 min
+237 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,10 @@
 | [33](https://open.spotify.com/track/1s0OBTsDMtBR8sH1XqKaZh) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/6fNjdkSgemGYrH8v1M6NjA) | 3:15 | 2022-07-01 | 2022-10-22 |
 | [33](https://open.spotify.com/track/2v8Y3pbX3XgoZ8L0vNZO54) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4RvI6nZRap3cIqLbTZHbjy) | 3:15 | 2022-04-08 | 2022-11-09 |
 | [33](https://open.spotify.com/track/7yRoSZ5Pu6NS6QcWbgyZwu) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4s0iIcY1K22uuodSqd8l3b) | 3:15 | 2022-10-07 | 2023-08-12 |
+| [A Love Like That](https://open.spotify.com/track/3S7ZyZIxHglvugzw3vKpuT) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 2:55 | 2024-02-09 |  |
 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-04-08 | 2023-02-25 |
 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 | 2022-04-08 |  |
-| [Absence](https://open.spotify.com/track/1oXNjzF8RrQdo8hxqdKMhK) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Absence](https://open.spotify.com/album/2oFNbvHPWWaEIAzYJliGfW) | 2:56 | 2022-04-08 |  |
+| [Absence](https://open.spotify.com/track/1oXNjzF8RrQdo8hxqdKMhK) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Absence](https://open.spotify.com/album/2oFNbvHPWWaEIAzYJliGfW) | 2:56 | 2022-04-08 | 2024-02-12 |
 | [Alive Again](https://open.spotify.com/track/148fQv3KkXtjXPZrc3h6m5) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [Alive Again](https://open.spotify.com/album/2zG6uB7tN0f2TD9NWACGnq) | 2:08 | 2022-07-01 | 2022-08-15 |
 | [Alive Again](https://open.spotify.com/track/1ZtSmb2seJ5DbHTIC5kCHP) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [Alive Again](https://open.spotify.com/album/0ZVgEQTyxyVHz2OVdnFJSk) | 2:08 | 2022-04-08 | 2022-07-29 |
 | [Alive Again](https://open.spotify.com/track/6lHampBGU7RjwJ5Eb7AGou) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [The Way Back Home](https://open.spotify.com/album/1JGTdkOpyxYH1hsqZ2z7yR) | 2:08 | 2023-01-13 | 2023-07-01 |
@@ -30,7 +31,7 @@
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2022-04-08 | 2022-05-21 |
 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 | 2022-04-08 |  |
 | [Beige](https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78) | 3:22 | 2022-04-08 | 2022-12-04 |
-| [Beige](https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:22 | 2022-11-18 |  |
+| [Beige](https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:22 | 2022-11-18 | 2024-02-12 |
 | [Beige](https://open.spotify.com/track/7yiNQMIKNj9tZvhRxscbg2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/5khD0TiegRGYelA8ju93qj) | 3:22 | 2022-11-18 | 2023-05-06 |
 | [Best I Can Do \- Alternative version](https://open.spotify.com/track/3SRzNd2pvcRrQgO1a7cZ82) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [How To Belong](https://open.spotify.com/album/0ujaVLfsY5PPAznqSG8QD7) | 3:47 | 2022-04-08 | 2022-08-27 |
 | [Bible](https://open.spotify.com/track/2YWhFsixQdDGS391Wom0s4) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Bible](https://open.spotify.com/album/7nidHGnHANwdtpPgJvPQUY) | 3:21 | 2022-04-08 | 2024-01-26 |
@@ -212,6 +213,7 @@
 | [The Greatest Story Never Told](https://open.spotify.com/track/0EJP5WKjlrRMcVsoJ5hnr9) | [James Walsh](https://open.spotify.com/artist/63wGpnzXGgFEeIOxTuSZHj) | [Small Illusions](https://open.spotify.com/album/1CyjsipwvuO7eaiB4eByya) | 3:26 | 2022-04-08 | 2022-08-27 |
 | [the sum of the in\-between](https://open.spotify.com/track/3Slg6cDLMENij8JZ50F9SL) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 4:16 | 2022-07-01 | 2023-04-09 |
 | [the sum of the in\-between](https://open.spotify.com/track/73jIdwmiQRQOGUE2pWMrDp) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/0dl6QSoT2Dxd14qHJF1dvS) | 4:16 | 2022-04-08 | 2022-07-29 |
+| [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 | 2024-02-09 |  |
 | [The World Seen Through Your Eyes](https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [The World Seen Through Your Eyes](https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW) | 2:30 | 2022-07-01 | 2023-11-18 |
 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 | 2024-01-19 |  |
 | [This Is How We Move](https://open.spotify.com/track/0EPvfQyCSDzywcFOF9H6Gt) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [This Is How We Move](https://open.spotify.com/album/2RaeZMQcqgAxuGEhVdSstZ) | 3:06 | 2023-02-24 | 2023-04-10 |

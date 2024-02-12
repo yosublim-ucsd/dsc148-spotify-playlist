@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTczN2E4N2JkYTRkZjQxZTA1ZGIzYjY0MDM5MDgwZTI3ZDY0OTUw",
+  "snapshot_id": "MCxjNWVhZjk3YTk1OGVjNDQ0MmU3ZDAwN2I4NTZlZDU1NThmYjYzOGQx",
   "tracks": [
     {
       "added_at": "2020-06-17 12:51:10",
@@ -455,10 +455,14 @@
     {
       "added_at": "2020-06-17 12:51:10",
       "album": {
-        "name": "Not Normal",
-        "url": "https://open.spotify.com/album/3JJaILxOsjmjTAbH42h9sE"
+        "name": "MOODY SZN",
+        "url": "https://open.spotify.com/album/3Rppzpp9rnldCCa2vx7Wm5"
       },
       "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        },
         {
           "name": "Wes Harris",
           "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
@@ -466,15 +470,11 @@
         {
           "name": "Rapzilla",
           "url": "https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav"
-        },
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
         }
       ],
       "duration_ms": 169841,
       "name": "Not Normal",
-      "url": "https://open.spotify.com/track/5AtxqV1YiSWeeummpFFGQs"
+      "url": "https://open.spotify.com/track/3LlbKoukha4C78Rc63ANfp"
     },
     {
       "added_at": "2020-06-17 12:51:10",

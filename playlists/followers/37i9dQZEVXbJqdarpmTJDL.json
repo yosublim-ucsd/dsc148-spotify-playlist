@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 101897,
+  "2024-02-12": 101947,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -634,6 +634,28 @@
     },
     {
       "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Sandal",
+          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "9 Maiou",
+      "url": "https://open.spotify.com/track/0RXEt3MMYzcZhgeqL1w8mS"
+    },
+    {
+      "album": {
         "name": "90s",
         "url": "https://open.spotify.com/album/3SyFvXfA4Kbiua74nj1voL"
       },
@@ -955,7 +977,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 180645,
       "name": "AGAPI - Remix",
       "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
@@ -6111,7 +6133,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 185000,
       "name": "De Me Ksereis Kala",
       "url": "https://open.spotify.com/track/7etssWv7DrxlUkrVQhWslJ"
@@ -7649,10 +7671,40 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 263015,
       "name": "Ekptotos Aggelos",
       "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
+    },
+    {
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "mi368",
+          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
+        },
+        {
+          "name": "Sandal",
+          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237638,
+      "name": "Ekriktika",
+      "url": "https://open.spotify.com/track/1buyUGVGH6FBHVxgGsglef"
     },
     {
       "album": {
@@ -10693,7 +10745,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 177600,
       "name": "Gipsy Trap",
       "url": "https://open.spotify.com/track/60vt0ejRx1TMZ5tlsTvwUD"
@@ -12129,7 +12181,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 170909,
       "name": "Idrogeios",
       "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
@@ -17680,6 +17732,32 @@
     },
     {
       "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Sandal",
+          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190736,
+      "name": "Mi Rotas Ti Fovamai",
+      "url": "https://open.spotify.com/track/7E6c7VoW7hAvj09myvW4We"
+    },
+    {
+      "album": {
         "name": "MI TESORO",
         "url": "https://open.spotify.com/album/7ohX8NXS3jsHTP6OiFV2HD"
       },
@@ -17695,7 +17773,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 112211,
       "name": "MI TESORO",
       "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"
@@ -20488,6 +20566,28 @@
     },
     {
       "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197707,
+      "name": "Oso I Ellada Me Megalone",
+      "url": "https://open.spotify.com/track/1IDofmGiNBVbzsKzaA3HVv"
+    },
+    {
+      "album": {
         "name": "Immortale (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8"
       },
@@ -21733,6 +21833,32 @@
       "duration_ms": 166000,
       "name": "Piesi",
       "url": "https://open.spotify.com/track/3KoaRsvdlFrhrW5aQwg74q"
+    },
+    {
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "mi368",
+          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
+        },
+        {
+          "name": "Kess",
+          "url": "https://open.spotify.com/artist/2ABXYPpVfktavZJlk8AqXJ"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207648,
+      "name": "Piesi",
+      "url": "https://open.spotify.com/track/3L9RevriMEuQxwkTq6hOSN"
     },
     {
       "album": {
@@ -23357,6 +23483,36 @@
       "duration_ms": 245333,
       "name": "Rendevouz",
       "url": "https://open.spotify.com/track/6YWBMAu8EGTp4a27pKUSQf"
+    },
+    {
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Soume",
+          "url": "https://open.spotify.com/artist/1IK7LaSPnqANpHBR9CIqX1"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Inver",
+          "url": "https://open.spotify.com/artist/0sCNRG9Tr7V4Pvu0C2GpCn"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250886,
+      "name": "Resta",
+      "url": "https://open.spotify.com/track/4b3oUZkWcDxUD0decCaJKA"
     },
     {
       "album": {
@@ -25383,7 +25539,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 192000,
       "name": "STAR THS GEITONIAS",
       "url": "https://open.spotify.com/track/3wpspGmdx96y319VEc99LG"
@@ -25851,6 +26007,28 @@
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "album": {
+        "name": "Success Freestyle",
+        "url": "https://open.spotify.com/album/5NWk6i7FIaOqTwE3qps1BQ"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Ioannis",
+          "url": "https://open.spotify.com/artist/2oQftHHbzwW2lMNxh5W5iw"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159568,
+      "name": "Success Freestyle",
+      "url": "https://open.spotify.com/track/7x0hLyeBbLBDYAptpi7CzS"
     },
     {
       "album": {
@@ -26608,6 +26786,28 @@
     },
     {
       "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "Terra Dannata",
+      "url": "https://open.spotify.com/track/5NhqO89H2YzvaN3KtsRZdt"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
       },
@@ -27131,7 +27331,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 173812,
       "name": "Titan",
       "url": "https://open.spotify.com/track/6wT0Y1mdjw4daSp4jvQgrz"
@@ -27219,6 +27419,28 @@
       "duration_ms": 177000,
       "name": "To Kserw",
       "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
+    },
+    {
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Sandal",
+          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240270,
+      "name": "To Ktinos",
+      "url": "https://open.spotify.com/track/0IbcScLDZ7ddKZoM17bIIP"
     },
     {
       "album": {
@@ -27505,7 +27727,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 246374,
       "name": "Top Boys",
       "url": "https://open.spotify.com/track/1rh6X4yxCHHNog07LJaFfA"

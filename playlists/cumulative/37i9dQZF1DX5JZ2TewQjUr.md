@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: minor
 
-894 songs - 2 day 2 hr 34 min
+895 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 | 2022-07-28 | 2022-11-04 |
 | [Edge Of Love](https://open.spotify.com/track/0PYEwggCSglDBIY42WOkcq) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [黃浩琳](https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH) | [Edge Of Love](https://open.spotify.com/album/0rMZvIIkOYpvMtpVtCBtGZ) | 3:47 | 2022-05-26 | 2022-07-29 |
 | [End it now](https://open.spotify.com/track/1XfTCENmXbktwmgN2fQTKt) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [End it now](https://open.spotify.com/album/6zdqxPTNrRrArO6oQ24n6c) | 3:20 | 2023-08-24 | 2023-11-03 |
-| [Escaping Light](https://open.spotify.com/track/7hjFPdPikQVL4rGzGLUo9c) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/7aoZYf0B0tnlmLpWvy2oqM) | 3:58 | 2024-02-08 |  |
+| [Escaping Light](https://open.spotify.com/track/7hjFPdPikQVL4rGzGLUo9c) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/7aoZYf0B0tnlmLpWvy2oqM) | 3:58 | 2024-02-08 | 2024-02-12 |
+| [Escaping Light](https://open.spotify.com/track/4N1mbP0JJxkqK1iFc3eyQj) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/5QFxrLYt1HKfeCc1nl0pps) | 3:59 | 2024-02-08 |  |
 | [ETISÜ](https://open.spotify.com/track/1N4jZQZgvZMNMmZgYyUHJK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ETISÜ](https://open.spotify.com/album/67hOhiiOu0snIYLmU8GjW4) | 2:44 | 2022-07-21 | 2022-11-04 |
 | [Eventide](https://open.spotify.com/track/32xm4bKoUlr2mm0vIZbQXN) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Eventide](https://open.spotify.com/album/7nspYKpVkuDu54J4K2wlk7) | 4:00 | 2023-01-12 | 2023-05-26 |
 | [EVEREST](https://open.spotify.com/track/7uWMSgrpmIqhR0699brD2m) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [EVEREST](https://open.spotify.com/album/5bzShHfCajfcE0KgIrf2p2) | 3:26 | 2023-02-16 | 2023-07-14 |

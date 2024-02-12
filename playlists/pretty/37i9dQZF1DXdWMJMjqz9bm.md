@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,616 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,614 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 89 | [Touristy Places](https://open.spotify.com/track/1ADdTIO8N6I03vxzr0BDji) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Touristy Places](https://open.spotify.com/album/6egT3yssUm6XR99QLGiNQ7) | 2:39 |
 | 90 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 |
 | 91 | [2D](https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [2D](https://open.spotify.com/album/3tHc4SsvGMU2W6DcAiGkXT) | 3:11 |
-| 92 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 |
+| 92 | [Sympathy](https://open.spotify.com/track/5aHig7nUnOmW93MlwJGTnf) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:05 |
 | 93 | [Laundry](https://open.spotify.com/track/0cO7TeOWRb4SAQN6yeYit6) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [Laundry](https://open.spotify.com/album/1OvolfJ7kdxBGqn6nKvFFv) | 1:44 |
 | 94 | [Not Another Summer Jam](https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [High More Often](https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb) | 2:41 |
 | 95 | [Someday](https://open.spotify.com/track/1zZO31X6KgID8JllCNMxEW) | [SMILEZ](https://open.spotify.com/artist/0lRdxaQbuLSVm4DpUPCinB) | [Ur in My World](https://open.spotify.com/album/7jtuIiYuftTgdkZzPLn3pL) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 |
 | 100 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 |
 
-Snapshot ID: `MCw1NGM4ODQ4YTFiOGJlZjEyM2I2M2ZjOTk2MDRiOTFmMjExNjA3MGI0`
+Snapshot ID: `MCxmMThjMDE5ZmMxMDFhNmM0YzA2ZDBmOGEzODNmZGEwNDcwMGYxNTY3`

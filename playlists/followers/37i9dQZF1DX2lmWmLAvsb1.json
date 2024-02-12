@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 55864,
+  "2024-02-12": 55896,
   "date_first_scraped": "2023-10-15",
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
   "name": "Latin Hits 2019",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 158480,
       "name": "Aleluya",
       "url": "https://open.spotify.com/track/23CsjGOYDQiJpX44BSn9TM"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 305962,
       "name": "Que Mas Pues - Remix",
       "url": "https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD"

@@ -5959,6 +5959,32 @@
     },
     {
       "album": {
+        "name": "In Rome (feat. Jaime Deraz)",
+        "url": "https://open.spotify.com/album/2wQdJ7JuyPMiZ3abVikig9"
+      },
+      "artists": [
+        {
+          "name": "Setou & Senyo",
+          "url": "https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv"
+        },
+        {
+          "name": "ANTHEM",
+          "url": "https://open.spotify.com/artist/3StjWvSpji3Ho1tmehMWUd"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "In Rome",
+      "url": "https://open.spotify.com/track/6SgGvkZkaAIdigMcWDMlmW"
+    },
+    {
+      "album": {
         "name": "In tha Trap",
         "url": "https://open.spotify.com/album/1AHXmQv3tGQsKCGxOAut6E"
       },
@@ -8110,7 +8136,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 152651,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"

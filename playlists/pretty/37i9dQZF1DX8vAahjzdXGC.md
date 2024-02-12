@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,134 likes - 103 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,197 likes - 103 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 102 | [Cold Love Zombie](https://open.spotify.com/track/10U3vRuWMfShveAsXGXDMy) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [Cold Love Zombie](https://open.spotify.com/album/6cspnvSQ3ZaaB6e8nfz7ly) | 4:37 |
 | 103 | [LONG in the tOOth \(feat\. Pos of De La Soul & The Budos Band\)](https://open.spotify.com/track/65d4dP3o6k2zlj14eNKW50) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Pos of De La Soul](https://open.spotify.com/artist/0QJINgNjVXlG2aRED0jEx3), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [LONG in the tOOth \(feat\. Pos of De La Soul & The Budos Band\)](https://open.spotify.com/album/3hYcpA9HGxUYwRVgQi0Afu) | 3:45 |
 
-Snapshot ID: `MCw5Y2I2MTgxNTIxYWNkNTQ2MTAyYmQ2YzdmODJlYTBkNzJiNjg2MmE4`
+Snapshot ID: `MCxjMmY1ZGY3NmU1NGEzMWQyNzAzNzg4NjdjOTFlODY4MzYyMjlkMWM5`

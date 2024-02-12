@@ -2822,10 +2822,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 312000,
       "name": "DYING LIGHT",
       "url": "https://open.spotify.com/track/2FkKJavJX1OAYUVlzaQgPr"
+    },
+    {
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/4UuoEsU6WFynAeNG4XaZHK"
+      },
+      "artists": [
+        {
+          "name": "Infected Rain",
+          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312253,
+      "name": "DYING LIGHT",
+      "url": "https://open.spotify.com/track/1Nt0ei0lg9KtxY6JzIfyUq"
     },
     {
       "album": {

@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Bax Banii",
       "url": "https://open.spotify.com/track/1dPknjdo45m6D2Fl3miAwN"
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 145001,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 160551,
       "name": "BUGATTI",
       "url": "https://open.spotify.com/track/4Q6a7rd2NH1BmNld68FdGM"
@@ -5524,7 +5524,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 176842,
       "name": "COLDBOYS",
       "url": "https://open.spotify.com/track/7pHJpnNnuFZBvGY5mwpkhD"
@@ -8060,7 +8060,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 148238,
       "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
@@ -11904,7 +11904,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -12234,7 +12234,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -24210,7 +24210,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 163516,
       "name": "Stai nu fugi",
       "url": "https://open.spotify.com/track/0XwdAvTislcveETFNruf2l"
@@ -25452,6 +25452,28 @@
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185110,
+      "name": "TALKING",
+      "url": "https://open.spotify.com/track/3qnbLYCLzKvGIQXFyopS2H"
     },
     {
       "album": {
@@ -26944,6 +26966,24 @@
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/7Ap7Fpqnh2BUQBQxbLEC9I"
+    },
+    {
+      "album": {
+        "name": "Transportin' (Remix)",
+        "url": "https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Transportin' - Remix",
+      "url": "https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM"
     },
     {
       "album": {

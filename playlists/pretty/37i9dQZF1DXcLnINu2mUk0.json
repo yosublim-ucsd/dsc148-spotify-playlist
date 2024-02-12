@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay e Julinho Ksd.",
-  "num_followers": 43111,
+  "num_followers": 43129,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTU0OWQ1ZTcwZTY2OTM0YmE0MzliMmNkMWRhMThiZWQ1MDFlNDE1",
+  "snapshot_id": "MCwzNTkwM2FhYWZmNzUxMzNmNjAzMDUwNzQ2MDA1YTliM2RkN2FlZWVi",
   "tracks": [
     {
       "added_at": "2024-02-09 00:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
+        "name": "Stay True",
+        "url": "https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY"
+      },
+      "artists": [
+        {
+          "name": "Ghost Wayne",
+          "url": "https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL"
+        },
+        {
+          "name": "Balrook",
+          "url": "https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P"
+        }
+      ],
+      "duration_ms": 185009,
+      "name": "Stay True",
+      "url": "https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 217959,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "Stay True",
-        "url": "https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY"
-      },
-      "artists": [
-        {
-          "name": "Ghost Wayne",
-          "url": "https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL"
-        },
-        {
-          "name": "Balrook",
-          "url": "https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P"
-        }
-      ],
-      "duration_ms": 185009,
-      "name": "Stay True",
-      "url": "https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
+        "name": "Baby 3x",
+        "url": "https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub"
+      },
+      "artists": [
+        {
+          "name": "Flepa",
+          "url": "https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb"
+        },
+        {
+          "name": "Blanko",
+          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
+        }
+      ],
+      "duration_ms": 117287,
+      "name": "Baby 3x",
+      "url": "https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
         "name": "B4U",
         "url": "https://open.spotify.com/album/43RReczlsprLlicvPx8xnC"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 192214,
       "name": "B4U",
       "url": "https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "Baby 3x",
-        "url": "https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub"
-      },
-      "artists": [
-        {
-          "name": "Flepa",
-          "url": "https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb"
-        },
-        {
-          "name": "Blanko",
-          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
-        }
-      ],
-      "duration_ms": 117287,
-      "name": "Baby 3x",
-      "url": "https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn"
     },
     {
       "added_at": "2024-02-09 00:00:00",

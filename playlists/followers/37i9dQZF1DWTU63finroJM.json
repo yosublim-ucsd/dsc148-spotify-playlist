@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 58965,
+  "2024-02-12": 58979,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Blusher.",
   "name": "RADAR Global ",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 192621,
       "name": "(if) only",
       "url": "https://open.spotify.com/track/15BLMoHLOBy9XDc5iDc0ax"
@@ -8626,6 +8626,24 @@
     },
     {
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167997,
+      "name": "imagining things",
+      "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
+    },
+    {
+      "album": {
         "name": "IMMA LIAR",
         "url": "https://open.spotify.com/album/4kinMZv8wlwWMXHZrV049m"
       },
@@ -10075,7 +10093,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 166726,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3Ka0qovqCzxFRT0ygJLQAW"
@@ -10355,6 +10373,24 @@
       "duration_ms": 273475,
       "name": "Law Sarakhna",
       "url": "https://open.spotify.com/track/6gLkcjfA3DXyyXROJcvAEO"
+    },
+    {
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
+      },
+      "artists": [
+        {
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187775,
+      "name": "LDN GRLS - Gboyega's Theme",
+      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
     },
     {
       "album": {
@@ -17988,6 +18024,24 @@
     },
     {
       "album": {
+        "name": "The Whole Story",
+        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "The Whole Story",
+      "url": "https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k"
+    },
+    {
+      "album": {
         "name": "the wire",
         "url": "https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i"
       },
@@ -18653,7 +18707,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 197647,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,078 likes - 86 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,081 likes - 86 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 44 | [Love Kills](https://open.spotify.com/track/0KD57RyQTzLDSprI2ZfN5a) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/7zZsa7Cpd5itS9reVPfXZA) | 4:29 |
 | 45 | [The Only Way Is Up](https://open.spotify.com/track/0XKTLxo5KINM5UzJeWQrhD) | [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [Truth Is](https://open.spotify.com/album/5FUClCLN7Ocj2KLlYSX2tO) | 4:34 |
 | 46 | [Together We Are Beautiful](https://open.spotify.com/track/0EPZixF5ti4OsA8lYrerrg) | [Fern Kinney](https://open.spotify.com/artist/7tqYLHfwfsXiXdFtMIds2K) | [Groove Me](https://open.spotify.com/album/72s8oZlUJivGKedxe6qRHr) | 4:17 |
-| 47 | [I Believe In Miracles](https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Funk / Soul / Disco](https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj) | 2:57 |
+| 47 | [I Believe In Miracles \- 7" Version](https://open.spotify.com/track/7cnurYkLGrwfZyoQDmo0e1) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Jackson Sisters \(Expanded Edition\)](https://open.spotify.com/album/4FEznXemFQRRv1lf0aH8OZ) | 2:57 |
 | 48 | [Mackin'](https://open.spotify.com/track/7LWz1ZzKJSo6mgFxBLljb9) | [Futers](https://open.spotify.com/artist/4JU7JW69o7YSHnurml4XGF) | [U Get Me](https://open.spotify.com/album/5oHZ519kQ1YHqBTaExjgEa) | 6:47 |
 | 49 | [Rock Fight](https://open.spotify.com/track/42FtumLu2P4Qg5iAbg38zI) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [The Last Black Man in San Francisco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41Cd5zfuRNEvqDsPTe7DtR) | 1:10 |
 | 50 | [Tudo Que Voce Podia Ser](https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:41 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 85 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 |
 | 86 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 
-Snapshot ID: `MCxkMWU0ZGM1NTM2NGNlY2NhZDZkYWIwMDc1NjE3MjdmZmQ5ZDMxM2Ex`
+Snapshot ID: `MCxlNDI1NWQ1MDdjNGQxODM4Zjc1ZTY1NTRiMDNiOTY4NGJlYTczMjE2`

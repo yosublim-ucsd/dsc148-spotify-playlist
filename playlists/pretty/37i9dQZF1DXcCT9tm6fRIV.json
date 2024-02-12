@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 237705,
+  "num_followers": 237742,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjYzOTU3M2QzYjEzYjRmYTQ5MWQ4NDJjNjljNmIzZDgxM2U0ZmEy",
+  "snapshot_id": "MCxkZjU3NjVmMzQ1MTdhZmQxOGNmNjIwYmJiNDU5ZjU3Y2M5MzY1OTBk",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "A Pedido",
-        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
-      },
-      "artists": [
-        {
-          "name": "Horacio Molina",
-          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Flor de lino - Live",
-      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Una Guitarra Para Gardel",
         "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 132426,
       "name": "Silbando",
       "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "A Pedido",
+        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
+      },
+      "artists": [
+        {
+          "name": "Horacio Molina",
+          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Flor de lino - Live",
+      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Docke",
-        "url": "https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Niebla del Riachuelo",
-      "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Pucherito de gallina",
         "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147173,
       "name": "Pucherito de gallina",
       "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Docke",
+        "url": "https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Niebla del Riachuelo",
+      "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Un Gui\u00f1o",
-        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Un Gui\u00f1o",
-      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Anibal Troilo - Cancion desesperada",
         "url": "https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 204960,
       "name": "Adios Pampa mia",
       "url": "https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Un Gui\u00f1o",
+        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Un Gui\u00f1o",
+      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Celebridades",
+        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Adi\u00f3s Muchachos",
+      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Celebridades",
-        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Adi\u00f3s Muchachos",
-      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Viejo Zen del Alma",
+        "url": "https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0"
+      },
+      "artists": [
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+        }
+      ],
+      "duration_ms": 199598,
+      "name": "A Don Agustin Bardi",
+      "url": "https://open.spotify.com/track/7BhH1HdsclSupDYIxvgLaa"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
         "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
       },
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Viejo Zen del Alma",
-        "url": "https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0"
-      },
-      "artists": [
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
-        }
-      ],
-      "duration_ms": 199598,
-      "name": "A Don Agustin Bardi",
-      "url": "https://open.spotify.com/track/7BhH1HdsclSupDYIxvgLaa"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Castiellos",
         "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Rescatados",
         "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
@@ -1131,46 +1131,6 @@
       "duration_ms": 177977,
       "name": "Sur",
       "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        },
-        {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
-        }
-      ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Doce Milongas de Amor y un Tango Desesperado",
-        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
-      },
-      "artists": [
-        {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
-        },
-        {
-          "name": "The Horacio Avilano Guitar Quartet",
-          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Barrio de Tango",
-      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1203,6 +1163,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Doce Milongas de Amor y un Tango Desesperado",
+        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
+      },
+      "artists": [
+        {
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "The Horacio Avilano Guitar Quartet",
+          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Barrio de Tango",
+      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Un sue\u00f1o de barrio",
         "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 208384,
       "name": "Confidencias",
       "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+        }
+      ],
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Hoy Baile Hoy Vol. 1",
-        "url": "https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh"
-      },
-      "artists": [
-        {
-          "name": "Raul Garello",
-          "url": "https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu"
-        }
-      ],
-      "duration_ms": 206354,
-      "name": "Che Buenos Aires",
-      "url": "https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Sur (Remastered)",
         "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 310012,
       "name": "La casita de mis viejos - Remastered",
       "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Hoy Baile Hoy Vol. 1",
+        "url": "https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh"
+      },
+      "artists": [
+        {
+          "name": "Raul Garello",
+          "url": "https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu"
+        }
+      ],
+      "duration_ms": 206354,
+      "name": "Che Buenos Aires",
+      "url": "https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY"
     }
   ],
   "unique_name": "Tangos y Milongas",

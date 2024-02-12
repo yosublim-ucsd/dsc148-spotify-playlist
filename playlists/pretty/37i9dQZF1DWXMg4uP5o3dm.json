@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 475379,
+  "num_followers": 475440,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTUwMTFmYTBjYzVkZjdlZWRjZDc0ZTcxMmRiOGUxYmFjNzk5OGQ5",
+  "snapshot_id": "MCwzMjAxZmU3MTc5MGI1NDNmMjFmMGNmN2Q3OTU5NWYwZDI5ZTg5NWY0",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -475,22 +475,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+        "name": "Great Time To Be Human",
+        "url": "https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
         }
       ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+      "duration_ms": 203108,
+      "name": "Great Time To Be Human",
+      "url": "https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -515,18 +511,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Great Time To Be Human",
-        "url": "https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf"
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
       "artists": [
         {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 203108,
-      "name": "Great Time To Be Human",
-      "url": "https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2"
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "the last laugh",
         "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Palm Reader",
         "url": "https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "MERIDIAN",
         "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 192773,
       "name": "PUMP THE BREAK",
       "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Dead",
         "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 195735,
       "name": "Die For A Night",
       "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 222105,
-      "name": "Portraits",
-      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
     },
     {
       "added_at": "2024-01-19 05:00:00",

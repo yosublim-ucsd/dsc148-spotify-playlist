@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Conociendo Rusia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,885 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,887 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [El Secreto](https://open.spotify.com/track/5cc6jp1oBj9mbAlMPz0pnt) | [Esperando La Grúa](https://open.spotify.com/artist/4wznWYOdlNNFkZ0mls0sVJ) | [El Secreto](https://open.spotify.com/album/2yBEt88ALDk02kDC5ryC3Z) | 2:54 |
 | 50 | [Historia Universal](https://open.spotify.com/track/2US0gZBZyffdoALjwFO0W5) | [Ripoll](https://open.spotify.com/artist/40GV6ITFe1i4SZymeH6jo7), [Frankie CAMELLOS](https://open.spotify.com/artist/35oMIuXXJh29dvEfO4CVBi) | [Historia Universal](https://open.spotify.com/album/4bacYkakaM98yWFgz5gsmD) | 3:35 |
 
-Snapshot ID: `MCw3YjA3MGI5MDA2MDdjMGMwMmM2OTIxMjUwNzc3ZDFhZGVjNTM4MmMz`
+Snapshot ID: `MCw2OWFlMzgyMDQ3YTU1NmE0NGVhMjE1ZjhiMGIwZTU1YzQ5MzUxYjQ0`

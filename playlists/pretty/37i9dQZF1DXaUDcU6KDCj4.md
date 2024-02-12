@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Iron & Wine
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,248 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,290 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 138 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
 | 139 | [The Weeping](https://open.spotify.com/track/2PwSwr3KmNRdI4RLnMBxyB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [The Weeping](https://open.spotify.com/album/6EMlBxT1YwUbDS06D4LUvV) | 5:08 |
 | 140 | [Insane](https://open.spotify.com/track/4I5Z2HABk8xVgdBIMrxw6G) | [Jonathan Peyton](https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0) | [Insane](https://open.spotify.com/album/2wz4zgZvF4AXOloDTn5X0I) | 4:13 |
-| 141 | [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 |
+| 141 | [Medicine](https://open.spotify.com/track/3VKpwyotvKbHGdPO8fQD04) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Any Light](https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo) | 4:15 |
 | 142 | [Party of the Century](https://open.spotify.com/track/2IAEIzMfn4mZoDzkvtSz1G) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 2:40 |
 | 143 | [Belly Of The Beast](https://open.spotify.com/track/7Adyii0aPBfbjsnXpLWv2g) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Belly Of The Beast](https://open.spotify.com/album/4X7TVHpvoGfSK5qO1ghJP6) | 3:48 |
 | 144 | [Feel](https://open.spotify.com/track/5CiTYYKSBZchCLhJMgVkBc) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Feel](https://open.spotify.com/album/3uPy90TVYkqdO536ju07NZ) | 4:22 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Stay](https://open.spotify.com/track/068nYyXAJyv29IaDA7EnYf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [The Sweeplings](https://open.spotify.com/album/2KDV4KDrLGVGVyKf4OhNad) | 4:06 |
 | 150 | [Wine Night](https://open.spotify.com/track/2T0VjvBieoPh5hgP9EyY8m) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Wine Night](https://open.spotify.com/album/2jMUqRfHXLuGyEMBnuPspD) | 3:49 |
 
-Snapshot ID: `MCw3NDEzNjQ0NmFhNjUzMzhhZTE4Mzk2MjRjNTJlNzgwNTBiZmM3ZDYy`
+Snapshot ID: `MCw2ZWFkZTliMWM0YWVkZmVmZTU5ZjM2OWExOTlmZDhkNzlmOGFjN2I2`

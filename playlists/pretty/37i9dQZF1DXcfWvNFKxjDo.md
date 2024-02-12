@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jax Jones, Zoe Wees
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,370 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,570 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Without You](https://open.spotify.com/track/4r9Tm3ABTBFzjrovK2AFgu) | [Roby Lion](https://open.spotify.com/artist/14YfOuWRymFfPPvKzhjesk), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [CLYFFTONE](https://open.spotify.com/artist/0LtKLowEG3pnjnV5ySr6Pn) | [Without You](https://open.spotify.com/album/669qK8kXrnlLnl5C6faHQh) | 2:59 |
 | 80 | [Next To You](https://open.spotify.com/track/6tVGbFF95Oz4F2pGK9RXXD) | [mood.wav](https://open.spotify.com/artist/31i6svYbJf8dvqCC8iP7UN), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Next To You](https://open.spotify.com/album/3T3akPqhq7T70mRDt6s2cK) | 2:10 |
 
-Snapshot ID: `MCw2YTY2MTUzZjBhZDU4ZjVkMzRmMTY1ZGU0ZTQxZTVmOTkwMjI0M2Ez`
+Snapshot ID: `MCwyNTc2N2VjNjgwMzc1YTAwZWU0MjI0N2Y5M2Y3OGFjMTk5Y2VhNGM5`

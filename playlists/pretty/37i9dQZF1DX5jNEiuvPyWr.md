@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,569 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,584 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 7 | [Cicatrices](https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Cicatrices](https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR) | 2:41 |
 | 8 | [Suspects](https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:29 |
 | 9 | [Geneva](https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Geneva](https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu) | 2:48 |
-| 10 | [Dream](https://open.spotify.com/track/4WbTmfPKimbUHgLsCeEFdH) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ), [Friends & Family](https://open.spotify.com/artist/0wgFiE1UJa29Mo4TZHpHA1) | [Dream](https://open.spotify.com/album/33pQuNvu4WTZ5a4uYDiTYc) | 1:36 |
+| 10 | [DREAM](https://open.spotify.com/track/4WbTmfPKimbUHgLsCeEFdH) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ), [Friends & Family](https://open.spotify.com/artist/0wgFiE1UJa29Mo4TZHpHA1) | [DREAM](https://open.spotify.com/album/33pQuNvu4WTZ5a4uYDiTYc) | 1:36 |
 | 11 | [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 |
 | 12 | [Anakin](https://open.spotify.com/track/6RjO7UcAuz6z7J8RZtm4qh) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Anakin](https://open.spotify.com/album/4cdxXpmBZKc5nFfsmihN8f) | 3:58 |
 | 13 | [J'connais](https://open.spotify.com/track/1aZVHOARM5FLgfAlHBtntr) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:27 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Qu'est\-ce tu veux qu'j'te dise?](https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:26 |
 | 40 | [PARLE EN WSH](https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [PARLE EN WSH](https://open.spotify.com/album/50bmjYU7Z5BlZiZxvYXbzE) | 3:01 |
 
-Snapshot ID: `MCwwYzNlZGU3Njg2OGQxZTkwYTUzZWUyMjIzYjA0MzBhZWVlNjBiOGVj`
+Snapshot ID: `MCwzMmQyZTFkMTg1ZjBiZTVlOWQzZjk5OTZjYTI2ZDQ5MWNiMzY5MGFj`

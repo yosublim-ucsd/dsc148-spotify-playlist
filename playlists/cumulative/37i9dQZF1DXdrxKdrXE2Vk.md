@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-318 songs - 1 day 9 hr 21 min
+319 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Comfort \- Live](https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Comfort \(Live\)](https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL) | 4:49 | 2023-04-14 |  |
 | [Completely Abandoned \- Live](https://open.spotify.com/track/0WbABN4mypl8z5roDZMQeV) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Tracy Pratt](https://open.spotify.com/artist/45QTpsbrHjjbfUcSoz5BiC) | [Completely Abandoned \(Live\)](https://open.spotify.com/album/2IbZ16xSwJAQnxGM2CoHhe) | 5:54 | 2023-03-11 | 2023-08-09 |
 | [Courageous](https://open.spotify.com/track/1mEuzKi8oqtkqqc6nIxO1k) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Courageous](https://open.spotify.com/album/5TUzExePdlD4ZMcElWQf6s) | 3:38 | 2022-09-11 | 2023-03-11 |
-| [Cross My Heart \- Live](https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [open heaven type stuff: live from camp](https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78) | 7:00 | 2024-01-12 |  |
+| [Cross My Heart \- Live](https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [open heaven type stuff: live from camp](https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78) | 7:00 | 2024-01-12 | 2024-02-12 |
 | [Cry Out \(feat\. Naomi Raine\)](https://open.spotify.com/track/66PfXpuPoNJ7fhvyAq7qlW) | [ReFRESH Worship](https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cry Out \(feat\. Naomi Raine\)](https://open.spotify.com/album/4pqjIJQ1IAc1rSITQlpHAI) | 7:52 | 2022-03-19 | 2022-09-12 |
 | [Deep Dive](https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Deep Dive \- EP](https://open.spotify.com/album/20sBygY4CkOu8vRvPHfWWU) | 4:52 | 2022-09-11 | 2024-01-13 |
 | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz), [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk) | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8) | 5:49 | 2023-03-11 |  |
@@ -185,6 +185,7 @@
 | [Love Has Won \(Live\)](https://open.spotify.com/track/0z7JzSziJUIGj6w6U8aXD4) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Love Has Won \(Live\)](https://open.spotify.com/album/4ge1pQ91ySgwAf1DRLBKvr) | 6:31 | 2022-02-19 | 2023-03-11 |
 | [Love Like This \- Live](https://open.spotify.com/track/6xljd64z084rDGY93Lx6Qm) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Love Like This \(Live\)](https://open.spotify.com/album/5mAnlvwjpb5I7Ts0VHQSmF) | 4:54 | 2022-02-19 | 2023-04-15 |
 | [Made For More \- Live](https://open.spotify.com/track/3eQJ6y1J3VL1cMWQ9cY3tl) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Made For More \(Live\)](https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh) | 6:12 | 2024-01-12 | 2024-02-10 |
+| [Made For More \- Live](https://open.spotify.com/track/5P5mU8DN0qNF2Rlhx6P9VW) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Crowns Down \(Live\)](https://open.spotify.com/album/3NSQCYMpoxUm9Mg3qIVLNu) | 6:12 | 2024-01-12 |  |
 | [Make A Way \(feat\. Chandler Moore & Brandon Lake\)](https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 8:32 | 2023-05-19 |  |
 | [Man of Miracles \- Live](https://open.spotify.com/track/4fG876rJEE1hMfqdzVAjSR) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL) | [Til the Day I Die \(Live\)](https://open.spotify.com/album/4vPRiVFCsGB2PkDYtvusZP) | 4:56 | 2022-09-11 | 2023-03-11 |
 | [Manasseh \- Live](https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Church \(Live\)](https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc) | 6:02 | 2023-08-11 |  |

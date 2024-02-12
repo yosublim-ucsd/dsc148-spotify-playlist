@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover: <a href="spotify:artist:0hCNtLu0JehylgoiP8L4Gh">Nicki Minaj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,330 likes - 59 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,350 likes - 59 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 58 | [Stuck In My Ways](https://open.spotify.com/track/52K77MKrAormrzJHhL7fYr) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Stuck In My Ways](https://open.spotify.com/album/0tLpo1x2gVMIgoHpRYvtNw) | 2:14 |
 | 59 | [Attachments](https://open.spotify.com/track/7r8U5TxVpwett8yGmUuoiW) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Attachments](https://open.spotify.com/album/4xvYlRKTn1Il04iydxqG7t) | 2:59 |
 
-Snapshot ID: `MCw3MjIzYTA3ODg1MDQzZTJlODQxMTIxNGEyMWE5MjZjZmUyZThiMTVh`
+Snapshot ID: `MCxiOTJjNWUxYzEyNzY5MGMxMWI3OTcxYzdhZTU0YTBmNzYzN2Y1ZmY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,435 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,491 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [EFCC](https://open.spotify.com/track/5qFSNLIxAPu80gaunwvUpk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Mamapiano](https://open.spotify.com/album/70HZ6HLsOmoGKYGhit4Frr) | 3:18 |
 | 50 | [Nouveau Dossier](https://open.spotify.com/track/0FnkamDeASFZ49DlYzQXFF) | [C\-lina](https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm) | [Nouveau Dossier](https://open.spotify.com/album/5dfYD2dYiRYQVYLmjryGop) | 2:19 |
 
-Snapshot ID: `MCxkNGU4MDhlMWI1MjE2OTVmYjRjN2ZlNzVkZjZlOTE1YmIwZWYwNzdj`
+Snapshot ID: `MCw1OWQzNWU3ZWEwMDU3ZTY2N2I4ZTljM2Q4NzU3YTliZDcyNWQwNjli`

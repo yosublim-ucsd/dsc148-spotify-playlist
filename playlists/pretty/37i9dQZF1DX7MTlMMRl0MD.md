@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,858,470 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,858,597 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 64 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 |
 | 65 | [Madre](https://open.spotify.com/track/1e89wmECkzDpPCr9op4Pxf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Madre](https://open.spotify.com/album/44TzyeLPqQZT2ipNqJwQ4r) | 3:39 |
 
-Snapshot ID: `MCw3YTYxYjA0ZTI0MjcwMmM1MWE2YzAxMjEzNTA4YmRmZjU2NTNhODZk`
+Snapshot ID: `MCxiYWIyMjY3MTAzZjU1M2ZiNDk4ZTg1ODdhNWJmZjhiMTI3Y2VjYTkx`

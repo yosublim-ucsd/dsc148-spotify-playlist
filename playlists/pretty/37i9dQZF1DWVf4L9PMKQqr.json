@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 20375,
+  "num_followers": 20384,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx",
+  "snapshot_id": "MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Agust\u00edn Lara a 50 A\u00f1os",
+        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Aventurera",
+      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Canciones de Agust\u00edn Lara, Vol. 1",
         "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 182804,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Agust\u00edn Lara a 50 A\u00f1os",
-        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Aventurera",
-      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
-      },
-      "artists": [
-        {
-          "name": "Elvira Rios",
-          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/6VTbnVX8IH9CN99QgMrH3g"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Suite Mexicana de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 206973,
       "name": "Maria Bonita",
       "url": "https://open.spotify.com/track/6jXlkEZDNhnlpECAtoGLGy"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+      },
+      "artists": [
+        {
+          "name": "Elvira Rios",
+          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
+        }
+      ],
+      "duration_ms": 159843,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/6VTbnVX8IH9CN99QgMrH3g"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -563,18 +563,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
-        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
+        "name": "Suite Mexicana de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
       },
       "artists": [
         {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
         }
       ],
-      "duration_ms": 150600,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/4f7z1W1qP8699e4Fe0c8wi"
+      "duration_ms": 135266,
+      "name": "Se Me Hizo Facil",
+      "url": "https://open.spotify.com/track/4wOebic3MNZxa4fGPifDpC"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -595,22 +595,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
-        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
+        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
+        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        },
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 183773,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/3wjmbDfK3wMSojEE0m2Jlu"
+      "duration_ms": 150600,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/4f7z1W1qP8699e4Fe0c8wi"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -631,18 +627,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Suite Mexicana de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
+        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
+        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
       },
       "artists": [
         {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        },
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
         }
       ],
-      "duration_ms": 135266,
-      "name": "Se Me Hizo Facil",
-      "url": "https://open.spotify.com/track/4wOebic3MNZxa4fGPifDpC"
+      "duration_ms": 183773,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/3wjmbDfK3wMSojEE0m2Jlu"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -695,26 +695,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
-        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        },
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "La Cumbancha / Clave Azul",
-      "url": "https://open.spotify.com/track/61Lr4wUxhGn5iC1WRPxe07"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
         "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
       },
@@ -727,6 +707,22 @@
       "duration_ms": 138000,
       "name": "Dime Si Me Quieres",
       "url": "https://open.spotify.com/track/5tiM3oeYGZyjmXcjF4Iqep"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+        }
+      ],
+      "duration_ms": 134008,
+      "name": "Espanolerias",
+      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -747,18 +743,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
+        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
       },
       "artists": [
         {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        },
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
         }
       ],
-      "duration_ms": 134008,
-      "name": "Espanolerias",
-      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
+      "duration_ms": 187520,
+      "name": "La Cumbancha / Clave Azul",
+      "url": "https://open.spotify.com/track/61Lr4wUxhGn5iC1WRPxe07"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -811,8 +811,8 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+        "name": "La Inmortal",
+        "url": "https://open.spotify.com/album/4oHk7oqpM1f34rQ6hCuOCe"
       },
       "artists": [
         {
@@ -820,25 +820,9 @@
           "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 159164,
-      "name": "Noche Criolla",
-      "url": "https://open.spotify.com/track/5Zrdtd4UC1ESsSFgyc0jqg"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
-        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/2MEURkDAcZqGDrUO8JYOGO"
+      "duration_ms": 180453,
+      "name": "Estrella Solitaria",
+      "url": "https://open.spotify.com/track/6RXz0sqsnvnPDOm1I5paIH"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -855,6 +839,22 @@
       "duration_ms": 211252,
       "name": "Caballera Blanca",
       "url": "https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
+        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
+      },
+      "artists": [
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2MEURkDAcZqGDrUO8JYOGO"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "COLECCION Volumen 5",
-        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Mi Novia",
-      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Suite Mexicana de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 172453,
       "name": "Vuela Paloma Torcaza",
       "url": "https://open.spotify.com/track/3ushRPFQq28gBaWmQvXRKQ"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "COLECCION Volumen 5",
+        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Mi Novia",
+      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Rocio Durcal Canta Con Mariachi Vol. 4",
-        "url": "https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/0iIQwFO3qLjav5vTrDI8ka"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 140591,
       "name": "Ultimo Beso",
       "url": "https://open.spotify.com/track/5ZT8iOABS33ALHJlCqKQrA"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Rocio Durcal Canta Con Mariachi Vol. 4",
+        "url": "https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Imposible",
+      "url": "https://open.spotify.com/track/0iIQwFO3qLjav5vTrDI8ka"
     },
     {
       "added_at": "2021-05-07 15:30:08",

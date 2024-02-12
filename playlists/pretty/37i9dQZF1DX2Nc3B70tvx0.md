@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Brittany Howard
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124,982 likes - 105 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,124,947 likes - 105 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 104 | [Slugs](https://open.spotify.com/track/4iTX1HFVrva7chgeMaeR4d) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 3:06 |
 | 105 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
 
-Snapshot ID: `MCw2OWNkMGI1YzllOWI5MTA0MGZiOWI4MjU1MmI2MDYyNmUyZmM3YTM1`
+Snapshot ID: `MCxmZGE3OThkODc5YTc1YmZkZmIzMDc4NDZkMmZiNjM0NDU1YjM0Njgx`

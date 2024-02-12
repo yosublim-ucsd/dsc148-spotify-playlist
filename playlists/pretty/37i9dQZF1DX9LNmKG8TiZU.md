@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,308 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,338 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [I don't need you anymore](https://open.spotify.com/track/4jvO2qMj9z3CN1lyyQNnTz) | [Waffle](https://open.spotify.com/artist/5f56SSkVvKsOzkHNSim6u4), [emalyne](https://open.spotify.com/artist/5NFi7q6RW7JXhCS05mQ5h1) | [I don't need you anymore](https://open.spotify.com/album/0IhOGuhSVrtnotXLsXdjuT) | 3:15 |
 | 50 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 |
 
-Snapshot ID: `MCxjNTcxZDE0ZTk3MDY2ZDZkNWI1Njc4NjVjZWMxMThiODRmZDQzZTdk`
+Snapshot ID: `MCw3YmIxZDI5MjBjMzFkYTRjODQwNTdjNmM0NWE3YWFjNzBiNTFmMjc5`

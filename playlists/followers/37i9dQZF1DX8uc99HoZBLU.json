@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 831260,
+  "2024-02-12": 831330,
   "date_first_scraped": "2021-12-30",
   "description": "for those who appreciate a curated mood \ud83e\udea9",
   "name": "aesthetic",
@@ -2300,6 +2300,24 @@
     },
     {
       "album": {
+        "name": "I Hope to Be Around",
+        "url": "https://open.spotify.com/album/5rnmPISIXnrZeCdRmAAvkM"
+      },
+      "artists": [
+        {
+          "name": "Votabias",
+          "url": "https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226363,
+      "name": "I Hope to Be Around",
+      "url": "https://open.spotify.com/track/6nHRz8lyRDYHF66PF0L71V"
+    },
+    {
+      "album": {
         "name": "Forever Live Sessions",
         "url": "https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn"
       },
@@ -2311,7 +2329,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 226363,
       "name": "I Hope to Be Around (Live)",
       "url": "https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal"

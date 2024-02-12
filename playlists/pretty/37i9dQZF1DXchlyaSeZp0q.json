@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 182373,
+  "num_followers": 182556,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjY0NTY4NThjY2FiYWIzNjFjNzMwYjdhMDdmMjI2NDg2NTg2NjRk",
+  "snapshot_id": "MCw3YmQ2YjlhMGYyZTZkZDBjOTM3MjE2NDNiZTEyZDU3NGQ2YjZjNjli",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
     },
     {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "You Got My Mind Messed Up",
+        "url": "https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j"
+      },
+      "artists": [
+        {
+          "name": "James Carr",
+          "url": "https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS"
+        }
+      ],
+      "duration_ms": 153986,
+      "name": "The Dark End of the Street",
+      "url": "https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0"
+    },
+    {
       "added_at": "2022-09-08 14:58:04",
       "album": {
         "name": "My World",
@@ -535,22 +551,6 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "You Got My Mind Messed Up",
-        "url": "https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j"
-      },
-      "artists": [
-        {
-          "name": "James Carr",
-          "url": "https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS"
-        }
-      ],
-      "duration_ms": 153986,
-      "name": "The Dark End of the Street",
-      "url": "https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -621,24 +621,20 @@
       "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
     },
     {
-      "added_at": "2021-11-11 14:02:18",
+      "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "Faithful Man",
-        "url": "https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk"
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
       },
       "artists": [
         {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 252973,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6"
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -657,20 +653,20 @@
       "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
     },
     {
-      "added_at": "2022-09-08 14:58:04",
+      "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+        "name": "The Best of Sam & Dave",
+        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
       "artists": [
         {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
     }
   ],
   "unique_name": "Sad Soul",

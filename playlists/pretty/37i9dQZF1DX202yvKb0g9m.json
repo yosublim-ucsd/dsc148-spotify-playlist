@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 112565,
+  "num_followers": 112608,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODAzYmIzYmI3NTZmNmEzNjQwOGQ2ZGI4NDcyZTA2NDE5MmQ3MzZm",
+  "snapshot_id": "MCw4NDQ5YzIwNTUyMmY3NzZjNGVlYzI4YTE5ZDJhZTc5MjBjZmVmNzIw",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "What Time Is Love",
+        "url": "https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7"
+      },
+      "artists": [
+        {
+          "name": "K.l.f.s.",
+          "url": "https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj"
+        }
+      ],
+      "duration_ms": 375013,
+      "name": "What Time Is Love / Time Of Love",
+      "url": "https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "I Have a Question",
         "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "What Time Is Love",
-        "url": "https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7"
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
       },
       "artists": [
         {
-          "name": "K.l.f.s.",
-          "url": "https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 375013,
-      "name": "What Time Is Love / Time Of Love",
-      "url": "https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u"
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -627,22 +643,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Big Cover-Up",
         "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
       },
@@ -655,6 +655,26 @@
       "duration_ms": 391222,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Adventures in Acid Boogie, Vol.2",
+        "url": "https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC"
+      },
+      "artists": [
+        {
+          "name": "Timewarp Inc",
+          "url": "https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr"
+        },
+        {
+          "name": "Valique",
+          "url": "https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH"
+        }
+      ],
+      "duration_ms": 325862,
+      "name": "Afrofunk (Valique Boogie Brother Remix)",
+      "url": "https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -687,26 +707,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Adventures in Acid Boogie, Vol.2",
-        "url": "https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC"
-      },
-      "artists": [
-        {
-          "name": "Timewarp Inc",
-          "url": "https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr"
-        },
-        {
-          "name": "Valique",
-          "url": "https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH"
-        }
-      ],
-      "duration_ms": 325862,
-      "name": "Afrofunk (Valique Boogie Brother Remix)",
-      "url": "https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 204579,
       "name": "Acid Bit (feat. Addison Groove)",
       "url": "https://open.spotify.com/track/1j4bvX0pHJm2vtjphhD6hp"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        },
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -827,6 +807,26 @@
       "duration_ms": 210449,
       "name": "TAKE YOUR LIFE",
       "url": "https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",

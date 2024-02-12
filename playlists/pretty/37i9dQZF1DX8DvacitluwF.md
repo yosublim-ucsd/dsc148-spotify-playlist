@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw?si=RhV4fdLRRdK84y6LijAgKQ">Filah Lah Lah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,094 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,113 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 56 | [Gentle Magic](https://open.spotify.com/track/7lczAygHoTb5pgd8fdiVz3) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 2:22 |
 | 57 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 |
 | 58 | [Duet \(feat\. Jillz\)](https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Jillz](https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 3:41 |
-| 59 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 |
+| 59 | [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 |
 | 60 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
 | 61 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 |
 
-Snapshot ID: `MCw2NmY1Zjg3M2QyM2ZhYmUzODAwNTUxNTAzMWUwM2Y5NjQwMTQ1Yjlm`
+Snapshot ID: `MCwxMzA5YWMwYzIwOGMwMjQwOWQwOWMzZjg4Njc1MmZhMjE0NGNmZjhm`

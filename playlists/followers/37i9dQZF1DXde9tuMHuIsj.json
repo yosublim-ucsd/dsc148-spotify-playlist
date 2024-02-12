@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 1494526,
+  "2024-02-12": 1494528,
   "date_first_scraped": "2022-03-22",
   "description": "The best of Latin Trap. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus",
   "name": "Trap Land",
@@ -4402,6 +4402,24 @@
     },
     {
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130961,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+    },
+    {
+      "album": {
         "name": "SEN2 KBRN VOL. 2",
         "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
@@ -7365,7 +7383,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 301744,
       "name": "X Ley (feat. Dei V) - Remix",
       "url": "https://open.spotify.com/track/2A6Rt8ePgLDKRZaIrQ2UVh"

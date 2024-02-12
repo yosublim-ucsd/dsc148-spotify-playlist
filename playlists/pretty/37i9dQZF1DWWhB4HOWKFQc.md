@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,213 likes - 76 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,817 likes - 76 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 75 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 76 | [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 |
 
-Snapshot ID: `MCwwMGY4OGJjZGE4ZmU2OGM0YmVhYWE5Mzg5ZWY5Nzc0NzFjYTg5MTll`
+Snapshot ID: `MCw2NDg3ZGFmYTlhMzZjNTM4ZWI2NmVjYTA2MWZmZWU3MDRmNmY4ZDll`

@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 58304,
+  "num_followers": 58312,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmUzODI5N2FkMTNiYTEzZDE4YmY1NThiZjhlOTk5MmI2NjI5Mzcy",
+  "snapshot_id": "MCxhNmJiZGJiNTgwNDYwNDgyYTNiNjU4NjZkOTA1NzllY2I1MWE1OWZk",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "What\u2019s Next",
+      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "What\u2019s Next",
-      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Only You Freestyle",
-        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 248936,
-      "name": "Only You Freestyle",
-      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "TattleTales",
         "url": "https://open.spotify.com/album/6f9LKRKpSTI5m2O0yBlWQS"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 202666,
       "name": "TROLLZ",
       "url": "https://open.spotify.com/track/3xIzkKqp7oe37NEVrcPjGS"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Only You Freestyle",
+        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 248936,
+      "name": "Only You Freestyle",
+      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "SHUT UP",
+        "url": "https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "SHUT UP",
+      "url": "https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Supremo",
         "url": "https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 189240,
       "name": "Pal De Pesos",
       "url": "https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "SHUT UP",
-        "url": "https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "SHUT UP",
-      "url": "https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls"
     },
     {
       "added_at": "2023-09-01 14:43:51",

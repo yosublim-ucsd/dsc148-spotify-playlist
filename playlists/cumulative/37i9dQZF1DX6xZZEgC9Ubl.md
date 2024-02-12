@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-919 songs - 1 day 17 hr 41 min
+920 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Dawg Shit](https://open.spotify.com/track/39oI2XtCeF2JgMEb8vOg6k) | [Pretty Pacc](https://open.spotify.com/artist/2QuPPChZpqAai29uqulNFe), [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [Dawg Shit](https://open.spotify.com/album/4VBXgSHBhJQdegH2T7V61Y) | 2:48 | 2021-07-17 | 2022-07-28 |
 | [Day Before \(with Mac Miller\)](https://open.spotify.com/track/2eYsZ2JEq63Q0S8LQVscBm) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:15 | 2021-10-23 | 2021-10-30 |
 | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/album/2y8j3djW8ZswvAbEcPBBti) | 2:17 | 2021-03-14 | 2021-06-05 |
-| [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU) | 1:29 | 2022-05-23 |  |
+| [Dead and Cold](https://open.spotify.com/track/22is613WTMG267eVdACLDK) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/5NIy3goAgEXEYQ72lIPcts) | 1:29 | 2024-02-02 |  |
+| [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU) | 1:29 | 2022-05-23 | 2024-02-12 |
 | [DEAD OR ALIVE](https://open.spotify.com/track/2HNrnOTTeuSWcoMwp9YGtE) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [DEAD OR ALIVE](https://open.spotify.com/album/5tQm8Q0FeSEltwma0obc59) | 1:46 | 2022-04-22 | 2022-04-24 |
 | [Dead Roses](https://open.spotify.com/track/19FnL4NWyOG0KiZofHG73V) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Dead Roses](https://open.spotify.com/album/0wlVKg5wSGNd1T7sXI5rPU) | 3:33 | 2020-12-13\* | 2021-05-08 |
 | [Dead Sea Fruit](https://open.spotify.com/track/683vqbgOgcGMBuZmSnWKve) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [Project 0](https://open.spotify.com/album/75QrH8dNqnkLZJBdO34JYs) | 2:11 | 2022-09-29 | 2022-10-01 |

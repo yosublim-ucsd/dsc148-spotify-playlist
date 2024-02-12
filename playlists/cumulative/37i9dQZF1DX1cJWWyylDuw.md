@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Left To Suffer
 
-532 songs - 1 day 10 hr 48 min
+533 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Fear Tomorrow](https://open.spotify.com/track/113EVghey6uEB0wyplsY5F) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Fear Tomorrow](https://open.spotify.com/album/5Zp2KRLuMqZiUbq04wpDD8) | 4:29 | 2021-12-17 | 2023-03-25 |
 | [Feast on the Living](https://open.spotify.com/track/1pL4wqHUtrMTancAmAs5fV) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Feast on the Living](https://open.spotify.com/album/2PwI1RioDm1RxP7fhfxgSd) | 3:22 | 2021-12-17 | 2022-07-26 |
 | [Feasting Upon a False God](https://open.spotify.com/track/32wy15KlsVRtRW0x7YvdGc) | [Extinction in Progress](https://open.spotify.com/artist/2ctB3hDSIIyxpKYDtYlzKY) | [Feasting Upon a False God](https://open.spotify.com/album/5s6INzs47jeAp40pkWNIif) | 3:22 | 2022-01-28 | 2022-05-29 |
+| [Feel My Fangs in You](https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [No Name Graves](https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7) | 2:50 | 2024-02-09 |  |
 | [Feel Your Weight](https://open.spotify.com/track/7y9GKKwb7GS20ZEhrTt4pP) | [Wither](https://open.spotify.com/artist/23G4Hi7LA117Dkkdn0OW4O) | [Animus](https://open.spotify.com/album/5UTm9A6IBgaSSM7gfpEaDh) | 2:18 | 2021-12-17 | 2022-07-27 |
 | [Filled with Rage](https://open.spotify.com/track/0eWLMxyLhlQgiOoAFu97iH) | [Additional Time](https://open.spotify.com/artist/41OZ2IjrF9kjGWDYIGBYOz) | [Filled with Rage](https://open.spotify.com/album/2um1kufmW5hpFmsZCGSc3f) | 4:03 | 2022-01-14 | 2022-07-24 |
 | [Filth](https://open.spotify.com/track/4m9HK1lIVhTbaSbeO1RDJk) | [Hanging The Nihilist](https://open.spotify.com/artist/5Ui8HTCQsuy52MMmmWoVDy) | [Filth](https://open.spotify.com/album/6k6gUKnfr0QCuiLuLb23ce) | 3:39 | 2021-12-31 | 2022-04-09 |
@@ -328,7 +329,7 @@
 | [Nail Funeral](https://open.spotify.com/track/4LUQbb45rZ0dK0WdnFPnEA) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/0K4FU1lM08akPusYYsEaBX) | 4:11 | 2023-07-21 | 2024-02-10 |
 | [Nameless Walker](https://open.spotify.com/track/0lGOmiwa81lUnd5JV9TaXr) | [Winds of Plague](https://open.spotify.com/artist/080xIP1qfuknBNYEYPuH1v) | [Blood Of My Enemy](https://open.spotify.com/album/7qm5zyUnMfHVPDuqwp1J0j) | 3:36 | 2021-12-31 | 2022-04-09 |
 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 | 2021-12-17 | 2022-02-11 |
-| [Necromanteum](https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X) | 4:26 | 2023-07-21 |  |
+| [Necromanteum](https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X) | 4:26 | 2023-07-21 | 2024-02-12 |
 | [Negative](https://open.spotify.com/track/1vi8pShtw3HtwCfC6TnjLY) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Fractured](https://open.spotify.com/album/1GLmxzF8g5p0fcdAatGq5Y) | 4:20 | 2021-12-17 | 2022-02-09 |
 | [Nemesis](https://open.spotify.com/track/3u4fdUGjzrXsfZfZS2j00k) | [Venom Prison](https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f) | [Nemesis](https://open.spotify.com/album/4MK1OoQYfTvV7IO0n7tubP) | 4:12 | 2022-01-14 | 2022-07-26 |
 | [Neuro](https://open.spotify.com/track/5bOmleKvMS956pVl9uBLaI) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri) | [Neuro](https://open.spotify.com/album/6YlSznx44NDU19Gyehrjq6) | 3:54 | 2021-12-31 | 2022-05-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: CANTEO!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,743 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,748 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [a ciegas](https://open.spotify.com/track/19HIpJFVdJNtyPGHxZh3T5) | [Delilah](https://open.spotify.com/artist/6LHTZ3a8efP3ejEWf4T58N) | [a ciegas](https://open.spotify.com/album/6KkwJfMhzy8JCfpY725ZiV) | 2:12 |
 | 50 | [Mala via](https://open.spotify.com/track/5bTTjUHzHEYWIhqN7PTJOW) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Mala via](https://open.spotify.com/album/50UDHqKgVo3K6Z3Jn8YUyT) | 2:50 |
 
-Snapshot ID: `MCwzNDYwZmVlZDYyZjI1OGZjZDE5MGRkNzU2YjkxM2ViMDlkMTZiZmEy`
+Snapshot ID: `MCxhNDgzMTdiNTEwZjk0OGZhMDMwNzcwOGM2N2I3MWZjNzEwNzFiOGEx`

@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 1943877,
+  "2024-02-12": 1943927,
   "date_first_scraped": "2021-12-21",
   "description": "Brighten your day with a mix of folksy mood boosters.",
   "name": "Happy Folk",
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 195680,
       "name": "Little Road",
       "url": "https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a"
@@ -3565,6 +3565,24 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "album": {
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny"
+      },
+      "artists": [
+        {
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu"
     },
     {
       "album": {

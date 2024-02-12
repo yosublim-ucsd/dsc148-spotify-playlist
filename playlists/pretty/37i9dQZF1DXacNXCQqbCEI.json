@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 353775,
+  "num_followers": 353786,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzczOGFkNTcwNmVjMzBhMjEwNWNiODM0MWIwNzA2NzBhNTE0MzJi",
+  "snapshot_id": "MCxhZjYzM2E0N2U1OGRjMDc2ZmM3MmM1YmVjZjdlOGJjYTM0OGZlNjg1",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Tranquillitas",
-        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Wabi Sabi",
-          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Mojanda (feat. Wabi Sabi)",
-      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Ramas",
         "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 400826,
       "name": "Nevar",
       "url": "https://open.spotify.com/track/2GmDHnAPi9FwVqkC1MYWi6"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Wabi Sabi",
+          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Mojanda (feat. Wabi Sabi)",
+      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl"
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
       },
       "artists": [
         {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
         }
       ],
-      "duration_ms": 546282,
-      "name": "Maajo",
-      "url": "https://open.spotify.com/track/4uUd8Ef9fSwEq1AatXUHu5"
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -627,18 +627,34 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
+      "duration_ms": 546282,
+      "name": "Maajo",
+      "url": "https://open.spotify.com/track/4uUd8Ef9fSwEq1AatXUHu5"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -659,22 +675,6 @@
       "duration_ms": 254163,
       "name": "Pura Flor (El B\u00faho Remix)",
       "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+      },
+      "artists": [
+        {
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Sue\u00f1o Marino",
         "url": "https://open.spotify.com/album/4Zum2b4dCeuUviiWKKMMdS"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 181914,
       "name": "Sue\u00f1o Marino",
       "url": "https://open.spotify.com/track/0ajaJkoPOJwT3Ks3GlKQ8G"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
-      },
-      "artists": [
-        {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+      },
+      "artists": [
+        {
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "El Makako",
+      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Zenit & Nadir",
         "url": "https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 285581,
       "name": "El Cavilante",
       "url": "https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
-      },
-      "artists": [
-        {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "El Makako",
-      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Momoto",
-        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
       },
       "artists": [
         {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         },
         {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
         }
       ],
-      "duration_ms": 427525,
-      "name": "Salamanquesa",
-      "url": "https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw"
+      "duration_ms": 289502,
+      "name": "Resiliencia",
+      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

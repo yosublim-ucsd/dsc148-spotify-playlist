@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 403674,
+  "num_followers": 403823,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGQxNjMxNmQ1M2QzMTE3NDgxNDc0OWIzNjI1ODkzNWM4M2I3MDI2",
+  "snapshot_id": "MCwxOTgwYmE1ZWQwYTVkMjVlMDMyMzBjZDFlMDFhYzhmOTA4MzZlOGJk",
   "tracks": [
     {
       "added_at": "2024-02-06 15:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Jean Paul errant",
-        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "Jean Paul errant",
-      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Fall a hundred times",
         "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 136658,
       "name": "Fall a hundred times",
       "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "Ode to Vivian (Rework)",
+        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 96624,
+      "name": "Ode to Vivian - Rework",
+      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "Aspres",
         "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 137743,
       "name": "Fields Of Love",
       "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "Ode to Vivian (Rework)",
-        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Ode to Vivian - Rework",
-      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Chanson d\u2019\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
       },
       "artists": [
         {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
         }
       ],
-      "duration_ms": 163027,
-      "name": "Chanson d\u2019\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -687,18 +671,34 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Dancing Dreams",
-        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
+        "name": "Chanson d\u2019\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
       },
       "artists": [
         {
-          "name": "Steven Windhaug",
-          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
         }
       ],
-      "duration_ms": 138181,
-      "name": "Dancing Dreams",
-      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
+      "duration_ms": 163027,
+      "name": "Chanson d\u2019\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "My Little Treasure",
+        "url": "https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF"
+      },
+      "artists": [
+        {
+          "name": "Bella Wilkinsson",
+          "url": "https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp"
+        }
+      ],
+      "duration_ms": 90717,
+      "name": "My Little Treasure",
+      "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "My Little Treasure",
-        "url": "https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF"
+        "name": "Dancing Dreams",
+        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
       },
       "artists": [
         {
-          "name": "Bella Wilkinsson",
-          "url": "https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp"
+          "name": "Steven Windhaug",
+          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
         }
       ],
-      "duration_ms": 90717,
-      "name": "My Little Treasure",
-      "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
+      "duration_ms": 138181,
+      "name": "Dancing Dreams",
+      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Lisser",
-        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
-      },
-      "artists": [
-        {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
-        }
-      ],
-      "duration_ms": 125041,
-      "name": "Lisser",
-      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Ellie",
         "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 178000,
       "name": "Ellie",
       "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Lisser",
+        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 125041,
+      "name": "Lisser",
+      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 128724,
-      "name": "Evening Star",
-      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 156000,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 128724,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+        "name": "Stille Sj\u00f8",
+        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
       },
       "artists": [
         {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
         }
       ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+      "duration_ms": 151829,
+      "name": "Stille Sj\u00f8",
+      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Stille Sj\u00f8",
-        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
-      },
-      "artists": [
-        {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
-        }
-      ],
-      "duration_ms": 151829,
-      "name": "Stille Sj\u00f8",
-      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Full Bloom",
         "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 142763,
       "name": "Full Bloom",
       "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Eridani",
+        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Eridani",
+      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "From Home",
         "url": "https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
+        }
+      ],
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 197750,
       "name": "Balloon",
       "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
-        "name": "Eridani",
-        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
-      },
-      "artists": [
-        {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Eridani",
-      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
     },
     {
       "added_at": "2024-02-06 15:00:00",

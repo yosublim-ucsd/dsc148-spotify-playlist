@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: DBN GoGo
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,379 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,375 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 36 | [Blades](https://open.spotify.com/track/6uTgpkk3rOac1dCaPuKZKI) | [Toma Kami](https://open.spotify.com/artist/7hSQdqIMjLUbAktaoP8nCb) | [Speed Oddity Vol\. III](https://open.spotify.com/album/2LhzBTAXo2DHjyJQh0LxOU) | 5:07 |
 | 37 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
 | 38 | [Won't U Take Me \- Dam Swindle Remix \- Edit](https://open.spotify.com/track/2ig0ifvKlprwBMu3AYTOn5) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Won't U Take Me \(Dam Swindle Remix \- Edit\)](https://open.spotify.com/album/4XrzOBq9cjLmGlyYrOYuAV) | 3:57 |
-| 39 | [I Made This To Play at fabric \- Edit](https://open.spotify.com/track/3LkufDsqqrxaVVUWixEEnK) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [I Made This To Play at fabric \(Edit\)](https://open.spotify.com/album/6rPdvEZtsjDIitWhR6b20G) | 3:37 |
+| 39 | [I Made This To Play at fabric \- Edit](https://open.spotify.com/track/5P6LEZsAg2Kh509eX0B0gg) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [I Made This To Play at fabric](https://open.spotify.com/album/1fbd3IPqZFTrIIHdaHOWuG) | 3:37 |
 | 40 | [Toxic Love \- Yukio Nohara Remix](https://open.spotify.com/track/6vO9hzoGnOyZ8ehMO5PE0N) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [Yukio Nohara](https://open.spotify.com/artist/1TmlY6IesLUBi6RhLuuOFU) | [Toxic Love Remixes](https://open.spotify.com/album/7LRFlGGg6bTNirLJSAbYj2) | 7:47 |
 | 41 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |
 | 42 | [The Pace \- niina Remix](https://open.spotify.com/track/4yI1ZlRHKK5oUkcbdunYpJ) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [Guiding Hand Remixes](https://open.spotify.com/album/7C0IjpdbCnfygW5Kp7mZQn) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 100 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 
-Snapshot ID: `MCw0YTNkZDAxODZmMTZiZjQ5YWVkYjA1OGVjNGZiNDc2OTAxNTM0NzY3`
+Snapshot ID: `MCw1MzBmZjY5MDA0MTk3ODlmNzE4MmQwMGM3ODUyZjgxMTEzMTZmYTJm`

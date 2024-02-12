@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 1735520,
+  "2024-02-12": 1735561,
   "date_first_scraped": "2021-12-21",
   "description": "Get your body right with this workout twerkout",
   "name": "Workout Twerkout",
@@ -1191,6 +1191,28 @@
       "duration_ms": 189000,
       "name": "Dem Girlz (feat. Beatking & Erica Banks)",
       "url": "https://open.spotify.com/track/2fJgz0n3W9G8x0kEjntbhI"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "DO IT",
+      "url": "https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH"
     },
     {
       "album": {
@@ -4085,7 +4107,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 150457,
       "name": "SHOT O' CLOCK",
       "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"

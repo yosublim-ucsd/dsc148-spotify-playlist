@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 492128,
+  "num_followers": 492177,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi",
+  "snapshot_id": "MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Laid Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
-      },
-      "artists": [
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
-        }
-      ],
-      "duration_ms": 267363,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 426000,
       "name": "Dreams I'll Never See",
       "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Laid Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
+      },
+      "artists": [
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+        }
+      ],
+      "duration_ms": 267363,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Stacked Deck (Remastered)",
-        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
-      },
-      "artists": [
-        {
-          "name": "Amazing Rhythm Aces",
-          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
-        }
-      ],
-      "duration_ms": 142346,
-      "name": "Hit the Nail on the Head - Remastered",
-      "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Shake Hands With Shorty",
         "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 248960,
       "name": "Shake 'Em On Down",
       "url": "https://open.spotify.com/track/2rtQWHXfXwyxKYyoWo60zw"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Stacked Deck (Remastered)",
+        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
+      },
+      "artists": [
+        {
+          "name": "Amazing Rhythm Aces",
+          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
+        }
+      ],
+      "duration_ms": 142346,
+      "name": "Hit the Nail on the Head - Remastered",
+      "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
     },
     {
       "added_at": "2023-01-18 21:52:55",

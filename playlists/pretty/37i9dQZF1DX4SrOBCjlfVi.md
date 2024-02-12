@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Latto, NLE Choppa, Kid Cudi and more\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,816 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,092 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Where U At?](https://open.spotify.com/track/35nvXTmfwPp9ZiwTAzJ2aE) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Where U At?](https://open.spotify.com/album/7rxvWusLu1IGj4rjjJ7rqz) | 2:32 |
 | 50 | [Victim](https://open.spotify.com/track/7Ane84O2SMMQm4XEyurC3l) | [HiTek](https://open.spotify.com/artist/0M5DHvY0REak4QezudKswW), [sgpwes](https://open.spotify.com/artist/7gUzdJiUbJWKf81FsUWes3) | [Victim](https://open.spotify.com/album/2g7ylYZGFUTdefQXq9M15R) | 2:02 |
 
-Snapshot ID: `MCxkOGY4NTcxMGJmYWYzMzAzNTA0MDFhOTIzM2E1Y2RmNzE5ODUwNjI1`
+Snapshot ID: `MCwyYWExOTdiMjRiY2YxN2RmOTk3ZjBhNzg5NDljM2Y1MWU1MmYzZDlh`

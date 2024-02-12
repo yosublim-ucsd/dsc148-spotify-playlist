@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KpP2LN299J.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,568,468 likes - 164 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,571,825 likes - 164 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KpP2LN299J.md) - [plain]
 | 163 | [closure](https://open.spotify.com/track/35rdVq36LMHQX0Suw9a6tK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:00 |
 | 164 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 
-Snapshot ID: `MCw5YmVhMDkwM2RjOTIyOGI1ZDk4ZGM3Y2JmNjdiMGJiOGVkNGZlNTI3`
+Snapshot ID: `MCwyNDhhMDFmM2NiZDQ3Zjc1ZmVhZjFjMWQ5MmU4N2FjMjljNjEyM2My`

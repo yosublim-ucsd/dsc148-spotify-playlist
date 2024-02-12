@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 7499,
+  "2024-02-12": 7505,
   "date_first_scraped": "2024-01-30",
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
   "name": "This Is Jake Shimabukuro",
@@ -207,6 +207,24 @@
       "duration_ms": 218506,
       "name": "Come Monday",
       "url": "https://open.spotify.com/track/5LdWfPHfRxaAnayhqCnVFs"
+    },
+    {
+      "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247613,
+      "name": "Go for Broke",
+      "url": "https://open.spotify.com/track/3F1gafJUKx3jpHgYgu96CE"
     },
     {
       "album": {
@@ -651,7 +669,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 224960,
       "name": "Train Ride",
       "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 165373,
       "name": "\u30ec\u30c3\u30c4\u30fb\u30c0\u30f3\u30b9 - Solo",
       "url": "https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 401013,
       "name": "\u30f4\u30a1\u30ea\u30a8\u30fc\u30b7\u30e7\u30f3\u30ba\u30fb\u30aa\u30f3\u30fb\u30a2\u30fb\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/6Np7BEc0F56BSFnbVvC5xA"

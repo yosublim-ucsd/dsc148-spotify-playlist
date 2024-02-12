@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-339 songs - 19 hr 47 min
+340 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2023-02-23 | 2023-07-15 |
 | [Shatterproof \- Acoustic](https://open.spotify.com/track/513W9H23o8w42uqAHglMlM) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof \(Acoustic\)](https://open.spotify.com/album/21GW5aF4xNYmzMNLjREhZy) | 2:35 | 2023-09-07 |  |
 | [She](https://open.spotify.com/track/5FMbo350dmyodXrct0XxyQ) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Lean into Me](https://open.spotify.com/album/1qMdxBw10qvEbt7Z7zufTt) | 2:49 | 2023-04-25 |  |
-| [She Doesn't Know \- Radio Edit](https://open.spotify.com/track/0iwXrzdFwTEcf8GR2rm2QB) | [Valerius](https://open.spotify.com/artist/17cWhusbHm4VTSrR8ZK7xg) | [Valerius](https://open.spotify.com/album/2AZbBVLDiQ9Vm52MNe3UaG) | 3:12 | 2023-04-25 |  |
+| [She Doesn't Know \- Radio Edit](https://open.spotify.com/track/0iwXrzdFwTEcf8GR2rm2QB) | [Valerius](https://open.spotify.com/artist/17cWhusbHm4VTSrR8ZK7xg) | [Valerius](https://open.spotify.com/album/2AZbBVLDiQ9Vm52MNe3UaG) | 3:12 | 2023-04-25 | 2024-02-12 |
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2023-02-23 | 2023-03-18 |
 | [Silhouette](https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw) | [Lisa Lois](https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL) | [Breaking Away \(Deluxe Edition\)](https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o) | 3:36 | 2023-02-23 |  |
 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 | 2023-02-23 |  |
@@ -257,6 +257,7 @@
 | [So Maybe](https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [So Maybe](https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F) | 2:56 | 2023-02-23 |  |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2023-02-23 |  |
 | [Someone New](https://open.spotify.com/track/2DNXgvkyv35vTWvdgjs7qn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:42 | 2023-02-23 | 2023-09-08 |
+| [Something About It](https://open.spotify.com/track/15gETsZNlhC57aGr8v9bWL) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/2Mo9JLQoIwowlNdx171AUH) | 3:20 | 2024-02-05 |  |
 | [Something About It](https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd) | 3:20 | 2024-02-05 | 2024-02-11 |
 | [Something I Need](https://open.spotify.com/track/4KANJH1baadr3U7XsVbM17) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:01 | 2023-02-23 | 2023-04-26 |
 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 | 2023-02-23 | 2023-07-28 |

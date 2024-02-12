@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 65614,
+  "num_followers": 65615,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjM5N2E4ZDE3YWIzOGJlMTY4M2UxOTg0ZDkzODFhODUzYjQ4YmRi",
+  "snapshot_id": "MCxhNjVhZGE0Y2YwYzRjNzFlNjQzMGQzNTdhNDAxOGJlYTgzMTBjZGU3",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Dime Algo (bonito)",
+        "url": "https://open.spotify.com/album/1ptQkJGdf3wGa331GlN8Nc"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "6\u00ba",
+      "url": "https://open.spotify.com/track/01gUmOHTgzy32ZsFMogigO"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 224353,
       "name": "Vine Hasta Marte",
       "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
-      },
-      "artists": [
-        {
-          "name": "Floreana",
-          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Takotsubo",
-      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Mahmood
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,214 likes - 106 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,223 likes - 106 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [Call Me, Daddy](https://open.spotify.com/track/7lni3By1cTAsXdblOV39P1) | [Maxine Julian](https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv) | [Call Me, Daddy](https://open.spotify.com/album/6SUTOA2NQHMruO88zNsG15) | 3:39 |
 | 106 | [Hello Radio](https://open.spotify.com/track/5ry7JlYd3Y0M6g0oBrwWcM) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Hello Radio](https://open.spotify.com/album/2BE10dZdsbTBeTUfq5c4mr) | 3:00 |
 
-Snapshot ID: `MCw5M2YwZWViZTA4NWU3YTMwMjMyNzI4MTAxMzY0MjNjYmFiMWViMDQy`
+Snapshot ID: `MCw4YTk0ZTlhMWY5ZjE5MmZkZDU3NGJlMWFlZjE0MWUyMWY0MzgwZGZh`

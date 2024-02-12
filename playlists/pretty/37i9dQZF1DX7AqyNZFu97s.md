@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: brand new legs\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,774 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,780 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [melanie](https://open.spotify.com/track/0M5HTeOyl4O9ftcqwdg8vv) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [melanie](https://open.spotify.com/album/5CHeEuGnXqXnC1mVQNXJAt) | 1:46 |
 | 80 | [Good Time](https://open.spotify.com/track/5QUqzbvlWAPp38wBNI0dHs) | [Lizzie Walmsley](https://open.spotify.com/artist/3zx7nkjZoKFEqqysNPNOI6) | [Good Time](https://open.spotify.com/album/27WedjZsuBLiXDCcI62o6t) | 3:22 |
 
-Snapshot ID: `MCw3MzVlMjEzYjQyOGI5NGQ1ZDUwNjg1YmEzNmI2NTJlOTM5NDg1NzBk`
+Snapshot ID: `MCw0MzA0MmJkZTBjMzUwMWZmYWQ3N2I4MDIzMTI3NjBhOGIwNmEzYTI3`

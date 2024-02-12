@@ -4,12 +4,13 @@
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-209 songs - 16 hr 33 min
+211 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 | 2020-04-30 |  |
 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 | 2020-04-30 | 2024-02-10 |
+| [18 and Life](https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 3:49 | 2024-02-02 |  |
 | [After The Rain](https://open.spotify.com/track/0JKelsd3xhPZNRO9hLwj8f) | [Nelson](https://open.spotify.com/artist/5jJcbGPjjyEhAoU02ynHaA) | [The Best Power Ballads \(Sound & Vision\)](https://open.spotify.com/album/0MSaAtWyMLmPAO5LLJxpyU) | 4:07 | 2020-04-30 | 2022-07-29 |
 | [All I Wanna Do Is Make Love To You](https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 5:10 | 2020-04-30 |  |
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2020-04-30 |  |
@@ -96,6 +97,7 @@
 | [I Don't Want to Live Without You](https://open.spotify.com/track/3Cl34aGrei9QQlXfYcOY14) | [Sleeze Beez](https://open.spotify.com/artist/1vtAPJfmg4pz2Bjd3OcyCA) | [Powertool](https://open.spotify.com/album/69TUsvGDVWVO6adPG1IxO7) | 4:45 | 2022-01-21 | 2022-06-01 |
 | [I Live My Life for You](https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Good Acoustics](https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf) | 4:21 | 2022-01-21 |  |
 | [I Live My Life for You](https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Good Acoustics](https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv) | 4:21 | 2020-04-30 | 2022-07-29 |
+| [I Remember You](https://open.spotify.com/track/1xqVri47rxr9oRpUgJa8rf) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 5:13 | 2024-02-02 |  |
 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 | 2020-04-30 | 2024-02-10 |
 | [I Still Think About You](https://open.spotify.com/track/6lptBl2N4TFnMMcYlJ3os5) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Live and Nude](https://open.spotify.com/album/2jbAmXbxUWqXsgfWPNC8Jr) | 5:22 | 2020-04-30 | 2022-07-29 |
 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 | 2020-04-30 |  |
@@ -150,7 +152,7 @@
 | [Rough Boy](https://open.spotify.com/track/7Be81Zrxv29TyFJEPPyf8h) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:47 | 2020-04-30 | 2022-07-29 |
 | [Save Your Love](https://open.spotify.com/track/28FVfrALlHSChnhD8jq8kd) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Rock Me: The Best Of Great White](https://open.spotify.com/album/2TUjGbi6H75rcYGBFwe5f5) | 4:38 | 2020-04-30 | 2022-07-27 |
 | [Save Your Love](https://open.spotify.com/track/1X1TonvQws8wxagWJmnUNj) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Once Bitten](https://open.spotify.com/album/7L3JfVjB7PpYEqDkWeJkAz) | 5:46 | 2020-04-30 | 2022-07-27 |
-| [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 | 2022-01-21 |  |
+| [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 | 2022-01-21 | 2024-02-12 |
 | [Second Chance](https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Rock & Roll Strategy](https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX) | 5:04 | 2020-04-30 |  |
 | [She's Gone](https://open.spotify.com/track/2Ap6ZjicxxcWvit5ZRYQxk) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [Steelheart](https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ) | 6:32 | 2023-01-18 |  |
 | [She's Gone](https://open.spotify.com/track/2fvObZjCzCF57MKmn1ePPO) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [Steelheart](https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw) | 6:32 | 2020-04-30 | 2022-07-20 |
@@ -172,7 +174,7 @@
 | [The Angel Song](https://open.spotify.com/track/1JxRLFVoFx2f7zumJwRDSw) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 4:51 | 2020-04-30 | 2022-07-29 |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-24 |  |
 | [The Deeper the Love](https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 4:22 | 2020-04-30 | 2022-07-29 |
-| [The Deeper the Love \- 2019 Remaster](https://open.spotify.com/track/63ZBSZ8zBvfGNK24BLMPAi) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slip of the Tongue \(2019 Remaster\)](https://open.spotify.com/album/2Iw4US700y8VXdGp20nNoK) | 4:19 | 2024-02-02 |  |
+| [The Deeper the Love \- 2019 Remaster](https://open.spotify.com/track/63ZBSZ8zBvfGNK24BLMPAi) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slip of the Tongue \(2019 Remaster\)](https://open.spotify.com/album/2Iw4US700y8VXdGp20nNoK) | 4:19 | 2024-02-02 | 2024-02-12 |
 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:38 | 2020-04-30 |  |
 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 | 2020-04-30 |  |
 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 | 2020-04-30 |  |

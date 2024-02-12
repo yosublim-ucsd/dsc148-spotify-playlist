@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 137879,
       "name": "Atrial",
       "url": "https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs"
@@ -1154,6 +1154,24 @@
       "duration_ms": 156583,
       "name": "cool nights",
       "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
+    },
+    {
+      "album": {
+        "name": "Cortana's Nap",
+        "url": "https://open.spotify.com/album/4Mgc8gBn6jiU5TLR6V7ztl"
+      },
+      "artists": [
+        {
+          "name": "d.w.h",
+          "url": "https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181640,
+      "name": "Cortana's Nap",
+      "url": "https://open.spotify.com/track/1UwTK3zUw4sKSZjRtwwLEz"
     },
     {
       "album": {

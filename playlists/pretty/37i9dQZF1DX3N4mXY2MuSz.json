@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 63357,
+  "num_followers": 63341,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2M2Y2ExNjNjZDJkYzg3OThkMjViNTY1ZjYyODgwODY4NmY0YmJm",
+  "snapshot_id": "MCxkYmU2YzVjYmQ5ZDI4MTIwMzAxYjVmOTJhMjlmYTc0ZTEwY2Q0NmZm",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "Oi To The World",
-      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 215293,
       "name": "Deadbeat Holiday",
       "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "Oi To The World",
+      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "duration_ms": 126144,
+      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 132637,
       "name": "You\u2019re a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
-        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
-      },
-      "artists": [
-        {
-          "name": "Patrick Stump",
-          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
-        }
-      ],
-      "duration_ms": 126144,
-      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
-      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Lost Messengers: The Outtakes",
+        "url": "https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 137346,
       "name": "This Time of Year",
       "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Lost Messengers: The Outtakes",
-        "url": "https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
-      },
-      "artists": [
-        {
-          "name": "The Almost",
-          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Tis The Season To Be Fearless",
         "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 238422,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+      },
+      "artists": [
+        {
+          "name": "The Almost",
+          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
     },
     {
       "added_at": "2023-11-18 13:41:26",

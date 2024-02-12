@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Sie7e",
-  "num_followers": 4923,
+  "num_followers": 4933,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWJlOTI5OTRjODk2NTE0YzZjYjI1ZTgyOGVmOWJiNGJlYzlkZDAx",
+  "snapshot_id": "MCw3YzU0NjFlMDc5YzNmOTY0OGVmMzNmMWVmYTM4NTIxNTc0YTk1MmRk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Circuito por Mil\u00e1n",
-        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw"
       },
       "artists": [
         {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
         }
       ],
-      "duration_ms": 194707,
-      "name": "Circuito por Mil\u00e1n",
-      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
+      "duration_ms": 200232,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+        "name": "Circuito por Mil\u00e1n",
+        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
       "artists": [
         {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
         }
       ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+      "duration_ms": 194707,
+      "name": "Circuito por Mil\u00e1n",
+      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -611,6 +611,22 @@
       "duration_ms": 226125,
       "name": "Dama",
       "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200232,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "La Rareza",
         "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
       },
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Cromo Rx",
-        "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
+        "name": "El Cuento de Cita",
+        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
       },
       "artists": [
         {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
         }
       ],
-      "duration_ms": 233750,
-      "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
-      "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
+      "duration_ms": 194500,
+      "name": "Duermo con fr\u00edo",
+      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "El Cuento de Cita",
-        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
+        "name": "Cromo Rx",
+        "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
       },
       "artists": [
         {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Duermo con fr\u00edo",
-      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
+      "duration_ms": 233750,
+      "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
+      "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
     },
     {
       "added_at": "2024-01-26 05:00:00",

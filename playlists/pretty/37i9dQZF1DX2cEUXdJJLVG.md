@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,264 likes - 170 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,272 likes - 170 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 169 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 |
 | 170 | [I Can't Sleep \- LPACA Remix](https://open.spotify.com/track/6jjtunGp1ilOEUrPIDjfLh) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Michi](https://open.spotify.com/artist/0Qaj2glLB2ykPA3qxiR8Z6), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [I Can't Sleep \(LPACA Remix\)](https://open.spotify.com/album/0q3eTPz8Kbi8g8pi8MaCdc) | 2:33 |
 
-Snapshot ID: `MCxiNDUxY2RhNDQ2MWY3ZGJkNjAxMjJiNjlkOTljMzBkMDAyYWEzMTUx`
+Snapshot ID: `MCxlYjQxMjkxODkzYjc1ZDNhMDI2NTlmMDQ0M2VlOWI5YTJlNTdhMjdk`

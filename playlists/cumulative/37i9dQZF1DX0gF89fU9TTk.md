@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-174 songs - 10 hr 25 min
+175 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Lost in Wonder](https://open.spotify.com/track/4XIHYtBd68k2PnZ6Xgk2Aq) | [Eikon](https://open.spotify.com/artist/2XszVb8hYcBZ63KGeJfQ4s), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Lost in Wonder](https://open.spotify.com/album/0QtZa0pDFbyJYyQG3gM2sf) | 5:27 | 2021-12-31 | 2022-07-21 |
 | [Lost with Me](https://open.spotify.com/track/6R46HNHEozl6jqvUgUU01H) | [Breana Powers](https://open.spotify.com/artist/4CVt31veKOkUcSZ9hDC4ay) | [Reclaimed](https://open.spotify.com/album/6wNAwiSpxv6ey4N0hgtB8n) | 4:32 | 2021-12-31 | 2022-05-22 |
 | [Louder](https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Louder](https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf) | 3:02 | 2021-12-31 |  |
+| [Love Goes On \- Remix](https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Hezekia](https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N), [H!ERO](https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k) | [Love Goes On](https://open.spotify.com/album/1DUATtHXOoaHIaj2yojBTy) | 3:42 | 2023-02-18 |  |
 | [Love Goes On \- Remix](https://open.spotify.com/track/5UdR96WgFNSPA1N4GvkWgy) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Hezekia](https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N), [H!ERO](https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k) | [Love Goes On](https://open.spotify.com/album/02SXNKeiGrK5R1pewdef3T) | 3:42 | 2021-12-31 | 2022-07-28 |
 | [Love Me Like You](https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Love Me Like You](https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he) | 3:03 | 2021-12-31 |  |
 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 | 2021-12-31 |  |
@@ -117,7 +118,7 @@
 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 | 2021-12-31 |  |
 | [Never Have I Ever](https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 | 2021-12-31 |  |
 | [Never Let You Go \- Live](https://open.spotify.com/track/6g3zF52ZzbTL3eu7lxxsoQ) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Never Let You Go \(Live\)](https://open.spotify.com/album/31uCVtaauPQ6UTKwmKcrEH) | 3:53 | 2021-12-31 | 2022-07-29 |
-| [Never Let You Go \- Live](https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:53 | 2023-02-18 |  |
+| [Never Let You Go \- Live](https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:53 | 2023-02-18 | 2024-02-12 |
 | [NEVER WALK AWAY](https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [NEVER WALK AWAY](https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v) | 3:20 | 2021-12-31 |  |
 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 | 2021-12-31 |  |
 | [No One Else](https://open.spotify.com/track/0kjoiNSuEYu5OkT1iawIvn) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [No One Else](https://open.spotify.com/album/4aOJdzjOMjBQiTOCBVWLUV) | 3:50 | 2021-12-31 | 2022-07-28 |

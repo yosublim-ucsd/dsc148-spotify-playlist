@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-276 songs - 13 hr 0 min
+277 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blooming In Rain](https://open.spotify.com/track/5kKKlThKApoonAvm7tUFKm) | [Drophic](https://open.spotify.com/artist/3mboCTSEdeqTFJgRg6a9Fj) | [Mostly Just Rain](https://open.spotify.com/album/4O0P4IHgzILfzLay0jsbpY) | 2:21 | 2023-06-16 |  |
 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 | 2023-06-16 |  |
 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 | 2023-06-16 |  |
+| [Bonne nuit pluie](https://open.spotify.com/track/1Tlo1Zhx6afHnjrws8Tgcy) | [Maîtres de la pluie](https://open.spotify.com/artist/3vUvrEfkUwaJbnA8Lib8nX) | [Rain Therapy](https://open.spotify.com/album/7xVfQ2F2O8533K6ap1WtID) | 2:23 | 2023-06-16 |  |
 | [Burbank Bad Day \- Seamless](https://open.spotify.com/track/2YKkCDSQPPIABPK9V11TIj) | [LA Washout](https://open.spotify.com/artist/1zESjGmQtkOyNddcdvh8lp) | [Rainy Romance](https://open.spotify.com/album/6E61GcevblPGio1v2VrQe5) | 2:28 | 2023-06-16 |  |
 | [Burst Of Rain](https://open.spotify.com/track/63bE2JK2VIhqMI0KGIJBfg) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Rain](https://open.spotify.com/album/7jRKQ6G04oCT4O1QA0A5X3) | 2:38 | 2023-06-16 |  |
 | [Calm Evening Rain](https://open.spotify.com/track/26d4W0pwjf1hLxkVOzvA9v) | [Light Camera Rain](https://open.spotify.com/artist/64M0VF8ZKRHOlrjUXCv0VA) | [Calm Bedtime Rain](https://open.spotify.com/album/1MvLHAL8JIC9d7S5mOnrja) | 2:32 | 2023-06-16 |  |
@@ -55,7 +56,7 @@
 | [Distant Rain Pt\. 2](https://open.spotify.com/track/69L094NBbXerjHjjMFDvoH) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Distant Rain](https://open.spotify.com/album/1SlwaQ3UQq8qYbTdTpFiSQ) | 2:44 | 2023-06-16 |  |
 | [Don't Mind The Rain](https://open.spotify.com/track/0MaiuoWpYrbJVeCibetT3k) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Don't Mind The Rain](https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP) | 3:12 | 2023-06-16 |  |
 | [Downpour Sounds & Heavy Clouds](https://open.spotify.com/track/4QAczT9AoSGadEcrp38LZe) | [Moon Spell FX](https://open.spotify.com/artist/2RPUdbStv0xD4iltkR3ba0) | [Downpour Sounds & Heavy Clouds](https://open.spotify.com/album/2UCaSGdytLgpIsZie6Jx9x) | 2:34 | 2023-06-16 |  |
-| [Downpouring](https://open.spotify.com/track/2nuzsRygxes6ihDsjqzYCw) | [Ostrava Recordings](https://open.spotify.com/artist/4YApfwAUsPaD9VX6ujDxOk) | [Falling Asleep](https://open.spotify.com/album/46VcanYRilm53wxrzild77) | 3:13 | 2023-06-16 |  |
+| [Downpouring](https://open.spotify.com/track/2nuzsRygxes6ihDsjqzYCw) | [Ostrava Recordings](https://open.spotify.com/artist/4YApfwAUsPaD9VX6ujDxOk) | [Falling Asleep](https://open.spotify.com/album/46VcanYRilm53wxrzild77) | 3:13 | 2023-06-16 | 2024-02-12 |
 | [Dozy Rain \- Rain](https://open.spotify.com/track/5BMiNda6qOfuMa8KO4V7l3) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 3:04 | 2023-06-16 |  |
 | [Dream Rain](https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M) | [24H Rain Sounds](https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW) | [Dream Rain](https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R) | 2:47 | 2023-06-16 |  |
 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 | 2023-06-16 |  |

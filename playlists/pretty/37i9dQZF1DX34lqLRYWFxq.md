@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,098 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,102 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
 | 100 | [Kinda Like It \(feat\. The OBGMs\)](https://open.spotify.com/track/7cxXJd1uVRsK1rJLVmWegJ) | [Fake Shark](https://open.spotify.com/artist/08towIgJNrFi0yAuyVXFBF), [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Afterglow](https://open.spotify.com/album/1LdgxsPaPVnz5rdIlBXpse) | 2:31 |
 
-Snapshot ID: `MCxlNTMyZDNiOGQzMTlmNWFjOWVkYTQyNjdjN2VhZWRiMDAyMTQwMzE1`
+Snapshot ID: `MCwwYmNiYmQ0NDYzNDBjM2FiZDM4MzdmZDFjZTRlNDczMDk2M2RjOWFl`

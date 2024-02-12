@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263066,
+      "name": "El rey",
+      "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
+    },
+    {
+      "album": {
         "name": "En vivo y a todo calor (En el Hollywood Palladium)",
         "url": "https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 197814,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/0UltH1Tab95oO7XZtOvK1w"

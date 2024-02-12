@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13292,
+  "num_followers": 13296,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjYzOTU2YWRmYzExMTliMmIxNTNjNTg5OGM3NTJkMmIxZTdhMWRm",
+  "snapshot_id": "MCxlZTA0OGExNTc3MDhjOGNlZWZlOTk3MGQ3NDFkNmZmZTljNzQ4NzA1",
   "tracks": [
     {
       "added_at": "2023-11-04 06:04:29",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+        "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
+        "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
       },
       "artists": [
         {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 219939,
-      "name": "beautiful inside",
-      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+      "duration_ms": 279610,
+      "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
+      "url": "https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "beautiful inside",
+      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
-        "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 279610,
-      "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
-      "url": "https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
@@ -619,6 +619,26 @@
       "duration_ms": 183824,
       "name": "When It\u2019s Cold",
       "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
+        "url": "https://open.spotify.com/album/17WOhbcXnYRHLHUmWfLBG4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        },
+        {
+          "name": "LEE SUNG KYOUNG",
+          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
+        }
+      ],
+      "duration_ms": 234705,
+      "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
+      "url": "https://open.spotify.com/track/4Ute9sqbRdX61EkTKXAXl6"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -655,22 +675,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
-        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
-      },
-      "artists": [
-        {
-          "name": "IMSEMO",
-          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
-        }
-      ],
-      "duration_ms": 186441,
-      "name": "\uc9c0\ucce4\uc5b4 Burned out",
-      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -683,6 +687,22 @@
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "duration_ms": 186441,
+      "name": "\uc9c0\ucce4\uc5b4 Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -703,26 +723,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
-        "url": "https://open.spotify.com/album/17WOhbcXnYRHLHUmWfLBG4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kim",
-          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
-        },
-        {
-          "name": "LEE SUNG KYOUNG",
-          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
-        }
-      ],
-      "duration_ms": 234705,
-      "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
-      "url": "https://open.spotify.com/track/4Ute9sqbRdX61EkTKXAXl6"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Reminiscence",
+        "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -775,38 +791,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "A story that will turn into a poem",
-        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "moon river (2021)",
-      "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Reminiscence",
-        "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Sapporo",
         "url": "https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 224736,
       "name": "Sapporo",
       "url": "https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "A story that will turn into a poem",
+        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "moon river (2021)",
+      "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
     },
     {
       "added_at": "2023-11-04 06:04:29",

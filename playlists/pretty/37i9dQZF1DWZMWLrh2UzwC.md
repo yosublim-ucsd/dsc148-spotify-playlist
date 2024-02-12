@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,376 likes - 87 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,382 likes - 87 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 86 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 |
 | 87 | [Cold Love Zombie](https://open.spotify.com/track/10U3vRuWMfShveAsXGXDMy) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [Cold Love Zombie](https://open.spotify.com/album/6cspnvSQ3ZaaB6e8nfz7ly) | 4:37 |
 
-Snapshot ID: `MCw1NDE1NzU3NWE0NDQ3YmFiYmNhZTdiNjZiODQzNGZjM2MzYjExODNm`
+Snapshot ID: `MCw0ZGNkZWFkODkwZmJlOGNkMmY1OGZhM2VjYWY3ZDU1MTczNGIxMTk0`

@@ -2521,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 205746,
       "name": "Whine Up (feat. Elephant Man) - English Version",
       "url": "https://open.spotify.com/track/6Avndj1UPQLwR2qqzDwZBc"

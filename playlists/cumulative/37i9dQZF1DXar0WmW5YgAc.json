@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "XO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192280,
+      "name": "Miss Misery",
+      "url": "https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD"
+    },
+    {
+      "album": {
         "name": "Good Will Hunting",
         "url": "https://open.spotify.com/album/7EX07sDFRX9g2RRlXJB3dN"
       },
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 192293,
       "name": "Miss Misery",
       "url": "https://open.spotify.com/track/4JBXUmExK3GS7X4RuUKCyt"

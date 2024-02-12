@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 60983,
+  "num_followers": 61022,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWFiMDljYThmNDg5Y2EwZmNmMGNhMDQ2YjFkNTc0ZDcxMTJhYjJl",
+  "snapshot_id": "MCwwNjhhMzllYjNlMjA2MGViOTkxNzU1ZGJmYzc2YTYzZDY4ZGRlOThm",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Multi-Love",
         "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 250800,
       "name": "Multi-Love",
       "url": "https://open.spotify.com/track/1XKAeevAbxSSMuTcRT0APS"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Are You Alone?",
-        "url": "https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB"
-      },
-      "artists": [
-        {
-          "name": "Majical Cloudz",
-          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
-        }
-      ],
-      "duration_ms": 249062,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "BANNERS",
         "url": "https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 225826,
       "name": "Shine A Light",
       "url": "https://open.spotify.com/track/2nZco160YsPJdiTPq396aq"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Are You Alone?",
+        "url": "https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB"
+      },
+      "artists": [
+        {
+          "name": "Majical Cloudz",
+          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
+        }
+      ],
+      "duration_ms": 249062,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps"
     },
     {
       "added_at": "2021-09-14 05:14:45",

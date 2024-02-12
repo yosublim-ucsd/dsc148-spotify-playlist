@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,111 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,129 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 64 | [Filho do Vento](https://open.spotify.com/track/1we7vOaZVUh0LAyNFZd7fL) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Filho do Vento](https://open.spotify.com/album/2vjFAk5sCGaHidNUV3FsSX) | 2:27 |
 | 65 | [Txiga na Mim](https://open.spotify.com/track/5JNSH9uiHEScizBOBye8Zs) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Txiga na Mim](https://open.spotify.com/album/6QWGU2NqO3U1sNDxSlb8xU) | 3:00 |
 | 66 | [Honesto \(Faroeste\)](https://open.spotify.com/track/6uGGjOmsyH4iSpG3tZfW6W) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [BELLA SAINT](https://open.spotify.com/artist/4smL5IyxleZm2uUsmj7fpI) | [Honesto \(Faroeste\)](https://open.spotify.com/album/72BJO5d7IEQaJjLiX0n4NA) | 3:40 |
-| 67 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
-| 68 | [Stay True](https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE) | [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Balrook](https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P) | [Stay True](https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY) | 3:05 |
+| 67 | [Stay True](https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE) | [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Balrook](https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P) | [Stay True](https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY) | 3:05 |
+| 68 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
 | 69 | [Herança](https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg) | [Silly](https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx) | [Herança](https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n) | 3:00 |
 | 70 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 71 | [Mar de Rosas](https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN) | [fontayne](https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF) | [Mar de Rosas](https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ) | 2:46 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 |
 | 75 | [Não dá](https://open.spotify.com/track/3WACFNMNQKehJ2xgn3nSNm) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não dá](https://open.spotify.com/album/3fK2GR9JodQqshxoR4un26) | 3:03 |
 | 76 | [PEACE](https://open.spotify.com/track/0HMIctywEolk71isSynd0u) | [Ferro](https://open.spotify.com/artist/5lZ6GGW3zw5NhfCyaAmOBK) | [EVERYTHING I'VE NEVER SAID](https://open.spotify.com/album/3m47TPHq517bS1RFv683cn) | 3:31 |
-| 77 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
-| 78 | [Baby 3x](https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Baby 3x](https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub) | 1:57 |
+| 77 | [Baby 3x](https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Baby 3x](https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub) | 1:57 |
+| 78 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
 | 79 | [Dreams](https://open.spotify.com/track/1DjRGwFuokMU6T8gH7JmL6) | [Indian Man](https://open.spotify.com/artist/1f902507emsB4UREPPHHOn) | [Dreams](https://open.spotify.com/album/1fJxerDvyH6b1Qn8kYDd0B) | 2:17 |
 | 80 | [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 |
 
-Snapshot ID: `MCxmZTU0OWQ1ZTcwZTY2OTM0YmE0MzliMmNkMWRhMThiZWQ1MDFlNDE1`
+Snapshot ID: `MCwzNTkwM2FhYWZmNzUxMzNmNjAzMDUwNzQ2MDA1YTliM2RkN2FlZWVi`

@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 66068,
+  "num_followers": 66069,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjVlZDgxNDFlYzcyNGFlNjk5OGMxMTE1OGMyYjMwNjlkN2NlYzE0",
+  "snapshot_id": "MCw0YWUxMzE0NWMyYzgyMWQ2OTQ0ZWQ1NDEyNjlkNDNjMjFmMjE3MzU0",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -811,22 +811,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "WWW.TIPICO.COM",
-        "url": "https://open.spotify.com/album/3Ue6WLLV8B9JU4z9lxx3P5"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "El Machetazo",
-      "url": "https://open.spotify.com/track/63ElgJkdYbxUPOz3Pgjt0Q"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Los Numero 1 Bachata y Merengue Tipico",
         "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 300760,
       "name": "El Pompo",
       "url": "https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "WWW.TIPICO.COM",
+        "url": "https://open.spotify.com/album/3Ue6WLLV8B9JU4z9lxx3P5"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "El Machetazo",
+      "url": "https://open.spotify.com/track/63ElgJkdYbxUPOz3Pgjt0Q"
     }
   ],
   "unique_name": "Merengue T\u00edpico",

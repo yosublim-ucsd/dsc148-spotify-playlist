@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 101897,
+  "num_followers": 101947,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYwOTI5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYxMDE2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "Success Freestyle",
         "url": "https://open.spotify.com/album/5NWk6i7FIaOqTwE3qps1BQ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7x0hLyeBbLBDYAptpi7CzS"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/4Fke1kIQz7pzIZYKqyzeNm"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/1L2QiHrJaY7at3MWJShPG9"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/5Hi8Ym8bzFinGpPwbpMTdQ"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "OAED (Remix)",
         "url": "https://open.spotify.com/album/2Xn4WHhSkE5tPHePPzlxvL"
@@ -101,7 +101,31 @@
       "url": "https://open.spotify.com/track/0DRBuH0O3Uh6YqJWMAjHLl"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Best Duo",
+        "url": "https://open.spotify.com/album/6aEMD4Nlts1HIYad1fMXyM"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "duration_ms": 167179,
+      "name": "Balkan Disco",
+      "url": "https://open.spotify.com/track/04ALITuonvdzyRx626yYpu"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "BBL",
         "url": "https://open.spotify.com/album/1TbCnLNBi0MTyvyiEt3wfl"
@@ -129,51 +153,7 @@
       "url": "https://open.spotify.com/track/5PcFy1S7mLSZedQaRA0R1u"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Best Duo",
-        "url": "https://open.spotify.com/album/6aEMD4Nlts1HIYad1fMXyM"
-      },
-      "artists": [
-        {
-          "name": "Lava",
-          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
-        },
-        {
-          "name": "ROPEX LATERIO",
-          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
-        },
-        {
-          "name": "Paris Kalpos",
-          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
-        }
-      ],
-      "duration_ms": 167179,
-      "name": "Balkan Disco",
-      "url": "https://open.spotify.com/track/04ALITuonvdzyRx626yYpu"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "XRONO",
-        "url": "https://open.spotify.com/album/6SWPoYp3ONOxSyutxtiIT9"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 182909,
-      "name": "XRONO",
-      "url": "https://open.spotify.com/track/1hTF7jt7eb1G7oMi10Tvwr"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "8A",
         "url": "https://open.spotify.com/album/7zzsW222Ll1dQDdMV2W71K"
@@ -193,7 +173,27 @@
       "url": "https://open.spotify.com/track/05qUmWfG8cDrA392B30Wtl"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "XRONO",
+        "url": "https://open.spotify.com/album/6SWPoYp3ONOxSyutxtiIT9"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "XRONO",
+      "url": "https://open.spotify.com/track/1hTF7jt7eb1G7oMi10Tvwr"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "H MASKA",
         "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
@@ -209,7 +209,111 @@
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "duration_ms": 180356,
+      "name": "3:15",
+      "url": "https://open.spotify.com/track/5d2ETO2YDunJTXd5yuCCRA"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "MONROE",
+        "url": "https://open.spotify.com/album/6GZPBQUrndHeqKvnCsctNV"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "MONROE",
+      "url": "https://open.spotify.com/track/092cosCIwDmGcBJuWfClwz"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "VENDETTA",
+        "url": "https://open.spotify.com/album/6BuTdBv3IDQijHQEtyMAU3"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "duration_ms": 139436,
+      "name": "VENDETTA",
+      "url": "https://open.spotify.com/track/0qEyAUuAcmXEn54vqCZrRo"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "duration_ms": 165944,
+      "name": "Zurbaran",
+      "url": "https://open.spotify.com/track/5p3F8ZyKGGGp4IZYRBr4pI"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "OAED",
+        "url": "https://open.spotify.com/album/7svRvwnZElMgZmurQv8ROb"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "OAED",
+      "url": "https://open.spotify.com/track/465fe0UfQPTxl1xK3judQQ"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "Terra Dannata",
         "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
@@ -237,127 +341,7 @@
       "url": "https://open.spotify.com/track/1buyUGVGH6FBHVxgGsglef"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 180356,
-      "name": "3:15",
-      "url": "https://open.spotify.com/track/5d2ETO2YDunJTXd5yuCCRA"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "MONROE",
-        "url": "https://open.spotify.com/album/6GZPBQUrndHeqKvnCsctNV"
-      },
-      "artists": [
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "MONROE",
-      "url": "https://open.spotify.com/track/092cosCIwDmGcBJuWfClwz"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 165944,
-      "name": "Zurbaran",
-      "url": "https://open.spotify.com/track/5p3F8ZyKGGGp4IZYRBr4pI"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "OAED",
-        "url": "https://open.spotify.com/album/7svRvwnZElMgZmurQv8ROb"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        },
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "OAED",
-      "url": "https://open.spotify.com/track/465fe0UfQPTxl1xK3judQQ"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "VENDETTA",
-        "url": "https://open.spotify.com/album/6BuTdBv3IDQijHQEtyMAU3"
-      },
-      "artists": [
-        {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "MENJU",
-          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
-        },
-        {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        }
-      ],
-      "duration_ms": 139436,
-      "name": "VENDETTA",
-      "url": "https://open.spotify.com/track/0qEyAUuAcmXEn54vqCZrRo"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7wmGPF9yXu6xd3V8V2SVP3"
-      },
-      "artists": [
-        {
-          "name": "Roi 6/12",
-          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2TW4d5q3MtciLMLlzyqfDD"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -381,7 +365,23 @@
       "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Allegra (N1)",
+        "url": "https://open.spotify.com/album/2R1Hjal9D3sWfmSt2Tsi4L"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Allegra (N1)",
+      "url": "https://open.spotify.com/track/7B528NXMGf4cqBJSK036yl"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "ANASAINO KAI ZALIZOMAI",
         "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
@@ -405,107 +405,23 @@
       "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
-        "name": "Terra Dannata",
-        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7wmGPF9yXu6xd3V8V2SVP3"
       },
       "artists": [
         {
-          "name": "Tzamal",
-          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
-        },
-        {
-          "name": "Ortiz",
-          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
         }
       ],
-      "duration_ms": 221173,
-      "name": "Terra Dannata",
-      "url": "https://open.spotify.com/track/5NhqO89H2YzvaN3KtsRZdt"
+      "duration_ms": 169714,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2TW4d5q3MtciLMLlzyqfDD"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Allegra (N1)",
-        "url": "https://open.spotify.com/album/2R1Hjal9D3sWfmSt2Tsi4L"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Allegra (N1)",
-      "url": "https://open.spotify.com/track/7B528NXMGf4cqBJSK036yl"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Terra Dannata",
-        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
-      },
-      "artists": [
-        {
-          "name": "Tzamal",
-          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
-        },
-        {
-          "name": "mi368",
-          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
-        },
-        {
-          "name": "Kess",
-          "url": "https://open.spotify.com/artist/2ABXYPpVfktavZJlk8AqXJ"
-        }
-      ],
-      "duration_ms": 207648,
-      "name": "Piesi",
-      "url": "https://open.spotify.com/track/3L9RevriMEuQxwkTq6hOSN"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Gdysou",
-        "url": "https://open.spotify.com/album/3UTThh1dmkABnn4Jxq8AZs"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        },
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Gdysou",
-      "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Terra Dannata",
-        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
-      },
-      "artists": [
-        {
-          "name": "Tzamal",
-          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
-        },
-        {
-          "name": "Ortiz",
-          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
-        }
-      ],
-      "duration_ms": 197707,
-      "name": "Oso I Ellada Me Megalone",
-      "url": "https://open.spotify.com/track/1IDofmGiNBVbzsKzaA3HVv"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "ATOUTALER",
         "url": "https://open.spotify.com/album/3sxEzMEqCbsQdlNmnATn5b"
@@ -529,7 +445,43 @@
       "url": "https://open.spotify.com/track/2ZTxf5fvD1tXEEyjUcYxN1"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Gdysou",
+        "url": "https://open.spotify.com/album/3UTThh1dmkABnn4Jxq8AZs"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Gdysou",
+      "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "ARAI",
+        "url": "https://open.spotify.com/album/1jXU8pnKijuee4lInNpD0R"
+      },
+      "artists": [
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "ARAI",
+      "url": "https://open.spotify.com/track/3axhfMUNvnw3nvmWR7cyEx"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "ARXH & TELOS",
         "url": "https://open.spotify.com/album/4uaSlLzaGiTBnUq8aH7CER"
@@ -549,43 +501,47 @@
       "url": "https://open.spotify.com/track/5HIVXfDQxvv4WuXTkJKyuS"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
-        "name": "ARAI",
-        "url": "https://open.spotify.com/album/1jXU8pnKijuee4lInNpD0R"
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
       },
       "artists": [
         {
-          "name": "Verde",
-          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "ARAI",
-      "url": "https://open.spotify.com/track/3axhfMUNvnw3nvmWR7cyEx"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Terra Dannata",
-        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
-      },
-      "artists": [
-        {
-          "name": "Tzamal",
-          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
         },
         {
-          "name": "Sandal",
-          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
-      "duration_ms": 240270,
-      "name": "To Ktinos",
-      "url": "https://open.spotify.com/track/0IbcScLDZ7ddKZoM17bIIP"
+      "duration_ms": 160146,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/78OyiEbWmcxWGWyNVUugAY"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "NA PAS",
+        "url": "https://open.spotify.com/album/5RV5eU4vDbYOy9RYb9vGDa"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "NA PAS",
+      "url": "https://open.spotify.com/track/6LDOMYlK4NGHVwZYhpmkJB"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -609,179 +565,7 @@
       "url": "https://open.spotify.com/track/2HtBhiPTlE1bFElYq9kGv0"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 160146,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/78OyiEbWmcxWGWyNVUugAY"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "NA PAS",
-        "url": "https://open.spotify.com/album/5RV5eU4vDbYOy9RYb9vGDa"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "NA PAS",
-      "url": "https://open.spotify.com/track/6LDOMYlK4NGHVwZYhpmkJB"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "MOTORA",
-        "url": "https://open.spotify.com/album/6IFk0oash1opuBETfk2aIq"
-      },
-      "artists": [
-        {
-          "name": "Bres",
-          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
-        },
-        {
-          "name": "Verde",
-          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
-        }
-      ],
-      "duration_ms": 113200,
-      "name": "MOTORA",
-      "url": "https://open.spotify.com/track/0nNlBtm1vuo9vlU9PYYuc5"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Terra Dannata",
-        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
-      },
-      "artists": [
-        {
-          "name": "Tzamal",
-          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
-        },
-        {
-          "name": "Soume",
-          "url": "https://open.spotify.com/artist/1IK7LaSPnqANpHBR9CIqX1"
-        },
-        {
-          "name": "Ortiz",
-          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
-        },
-        {
-          "name": "Inver",
-          "url": "https://open.spotify.com/artist/0sCNRG9Tr7V4Pvu0C2GpCn"
-        }
-      ],
-      "duration_ms": 250886,
-      "name": "Resta",
-      "url": "https://open.spotify.com/track/4b3oUZkWcDxUD0decCaJKA"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Terra Dannata",
-        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
-      },
-      "artists": [
-        {
-          "name": "Tzamal",
-          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
-        },
-        {
-          "name": "Sandal",
-          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "9 Maiou",
-      "url": "https://open.spotify.com/track/0RXEt3MMYzcZhgeqL1w8mS"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "BANSKO",
-        "url": "https://open.spotify.com/album/0ElCX1NUW1Fcl7bVuCnQLL"
-      },
-      "artists": [
-        {
-          "name": "DIFF",
-          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
-        },
-        {
-          "name": "Sanko",
-          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
-        }
-      ],
-      "duration_ms": 136258,
-      "name": "BANSKO",
-      "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5jiohoUO0HwpQ8l6VmeRvu"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Lil Koni",
-          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "Terra Dannata",
-        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
-      },
-      "artists": [
-        {
-          "name": "Tzamal",
-          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
-        },
-        {
-          "name": "Ortiz",
-          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
-        },
-        {
-          "name": "Sandal",
-          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
-        }
-      ],
-      "duration_ms": 190736,
-      "name": "Mi Rotas Ti Fovamai",
-      "url": "https://open.spotify.com/track/7E6c7VoW7hAvj09myvW4We"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -801,7 +585,47 @@
       "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5jiohoUO0HwpQ8l6VmeRvu"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "MOTORA",
+        "url": "https://open.spotify.com/album/6IFk0oash1opuBETfk2aIq"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
+        }
+      ],
+      "duration_ms": 113200,
+      "name": "MOTORA",
+      "url": "https://open.spotify.com/track/0nNlBtm1vuo9vlU9PYYuc5"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "ME N U",
         "url": "https://open.spotify.com/album/2TXNynYdn4d6XXeYlGPQbZ"
@@ -821,27 +645,7 @@
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "BEKO",
-        "url": "https://open.spotify.com/album/3pLFHQXP6uHPTINtk3XzW0"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Onad",
-          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "BEKO",
-      "url": "https://open.spotify.com/track/57p4wDILbaJAnhCFZjuEPo"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/0ULK0fLsbe6FNPatNU84n8"
@@ -865,23 +669,27 @@
       "url": "https://open.spotify.com/track/3q6ayHzfLJIx22oQXoYlyi"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+        "name": "BANSKO",
+        "url": "https://open.spotify.com/album/0ElCX1NUW1Fcl7bVuCnQLL"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
         }
       ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+      "duration_ms": 136258,
+      "name": "BANSKO",
+      "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
@@ -897,27 +705,7 @@
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "5D",
-        "url": "https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho"
-      },
-      "artists": [
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "X ORFEAS",
-          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
-        }
-      ],
-      "duration_ms": 102222,
-      "name": "Blue Iguana",
-      "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "KAPOTE",
         "url": "https://open.spotify.com/album/5v05Um8jf5EAg4zyWgIZkN"
@@ -941,7 +729,43 @@
       "url": "https://open.spotify.com/track/4HrtkH6VWOqrstEi1psSux"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "BEKO",
+        "url": "https://open.spotify.com/album/3pLFHQXP6uHPTINtk3XzW0"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "BEKO",
+      "url": "https://open.spotify.com/track/57p4wDILbaJAnhCFZjuEPo"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -961,23 +785,7 @@
       "url": "https://open.spotify.com/track/47ApwqRNvbUZ0QBoxpaxqn"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
-      "album": {
-        "name": "FREESTYLE",
-        "url": "https://open.spotify.com/album/5LYTgBm0qbgXX9UKdTKmeu"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/6mxVtY0iDdOkzcoqwbXdhI"
-    },
-    {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/2peljNrepnuuVPc8PKSCpE"
@@ -997,23 +805,27 @@
       "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
-        "name": "PAPAGOU",
-        "url": "https://open.spotify.com/album/0D5o2Ne3OXuErZZC6KP717"
+        "name": "5D",
+        "url": "https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho"
       },
       "artists": [
         {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "X ORFEAS",
+          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
         }
       ],
-      "duration_ms": 155714,
-      "name": "PAPAGOU",
-      "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
+      "duration_ms": 102222,
+      "name": "Blue Iguana",
+      "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "Efhi",
         "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
@@ -1029,7 +841,79 @@
       "url": "https://open.spotify.com/track/2ILpP6nlR7QndbxtzLbZ7K"
     },
     {
-      "added_at": "2024-02-10 09:36:46",
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/5LYTgBm0qbgXX9UKdTKmeu"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/6mxVtY0iDdOkzcoqwbXdhI"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Terra Dannata",
+      "url": "https://open.spotify.com/track/5NhqO89H2YzvaN3KtsRZdt"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "PAPAGOU",
+        "url": "https://open.spotify.com/album/0D5o2Ne3OXuErZZC6KP717"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "PAPAGOU",
+      "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "duration_ms": 197707,
+      "name": "Oso I Ellada Me Megalone",
+      "url": "https://open.spotify.com/track/1IDofmGiNBVbzsKzaA3HVv"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
       "album": {
         "name": "JETX",
         "url": "https://open.spotify.com/album/0bDwFwg4Sj675jGLP6Uq7G"
@@ -1047,6 +931,102 @@
       "duration_ms": 141818,
       "name": "JETX",
       "url": "https://open.spotify.com/track/31MTvDIimki0q8OfEClV0z"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "mi368",
+          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
+        },
+        {
+          "name": "Kess",
+          "url": "https://open.spotify.com/artist/2ABXYPpVfktavZJlk8AqXJ"
+        }
+      ],
+      "duration_ms": 207648,
+      "name": "Piesi",
+      "url": "https://open.spotify.com/track/3L9RevriMEuQxwkTq6hOSN"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Ekptotos Aggelos",
+        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 263015,
+      "name": "Ekptotos Aggelos",
+      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "AGAPI (Remix)",
+        "url": "https://open.spotify.com/album/4ztpSrV0s93JCRmizu6tlW"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 180645,
+      "name": "AGAPI - Remix",
+      "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "I Gineka Tis Zois Sou",
+      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
+    },
+    {
+      "added_at": "2024-02-11 09:19:19",
+      "album": {
+        "name": "Terra Dannata",
+        "url": "https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej"
+      },
+      "artists": [
+        {
+          "name": "Tzamal",
+          "url": "https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq"
+        },
+        {
+          "name": "Sandal",
+          "url": "https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE"
+        }
+      ],
+      "duration_ms": 240270,
+      "name": "To Ktinos",
+      "url": "https://open.spotify.com/track/0IbcScLDZ7ddKZoM17bIIP"
     }
   ],
   "unique_name": "Top 50 - Greece",

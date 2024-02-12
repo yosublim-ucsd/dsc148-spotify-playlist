@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,332 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,333 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 20 | [Time Keeper](https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Time Keeper](https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx) | 3:10 |
 | 21 | [Back To Where We Started](https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Back To Where We Started](https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa) | 3:29 |
 | 22 | [Ups & Downs](https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ups & Downs](https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU) | 3:02 |
-| 23 | [Sober](https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sober](https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk) | 2:42 |
-| 24 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 |
-| 25 | [Paradise](https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Paradise](https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6) | 3:35 |
+| 23 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 |
+| 24 | [Paradise](https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Paradise](https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6) | 3:35 |
+| 25 | [Sober](https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sober](https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk) | 2:42 |
 | 26 | [Sometimes](https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40) | 3:02 |
 | 27 | [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m) | [Loud 'N Bright](https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp) | 2:22 |
 | 28 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Where Would We Be](https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be](https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6) | 3:28 |
 | 50 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
 
-Snapshot ID: `Mjg0NTk0NDMsMDAwMDAwMDBjNGU2ZDFkOTA3NTIxMWQ0N2QzODU4YTZjMDg2NThmMA==`
+Snapshot ID: `Mjg0NjA4NjYsMDAwMDAwMDA0MWJjYTkxNzEwZDlkYmZmYzY3OTAwMzQ2MDAwMjhiMA==`

@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3893,
+  "num_followers": 3901,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQwZWI5MGRiYjUzZjUyYzYyYWFmMjUwMmUyNDI2ZTVkOTNiMjY3",
+  "snapshot_id": "MCxiOTY5YWYzZDBiZWY5OGU4OTgzYTYyNmQ3YjQ3ZDlkZjM3NDdiNzJm",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Senta Relaxa",
+        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
+      },
+      "artists": [
+        {
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 180014,
+      "name": "Senta Relaxa",
+      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "La Gente",
         "url": "https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 176250,
       "name": "La La La",
       "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Senta Relaxa",
-        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
-      },
-      "artists": [
-        {
-          "name": "De Qualite",
-          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Senta Relaxa",
-      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht"
+        "name": "No Pares",
+        "url": "https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z"
       },
       "artists": [
         {
@@ -1308,17 +1308,13 @@
           "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Kuisitamb\u00f3",
-          "url": "https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK"
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW"
+      "duration_ms": 213750,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1347,6 +1343,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Ecua",
+      "url": "https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -1363,22 +1375,6 @@
       "duration_ms": 170403,
       "name": "La Bulla",
       "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Ecua",
-      "url": "https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1723,6 +1719,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Cuarto Oscuro / BAQ Spicy",
+        "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
+      },
+      "artists": [
+        {
+          "name": "Presi On",
+          "url": "https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp"
+        },
+        {
+          "name": "Renate",
+          "url": "https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        },
+        {
+          "name": "Pacho Carnaval",
+          "url": "https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
+      "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Mueve Los Dos Pies",
         "url": "https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU"
       },
@@ -1851,22 +1875,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Te Marchar",
-        "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 180005,
-      "name": "Te Marchar",
-      "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "La Pista Es M\u00eda",
         "url": "https://open.spotify.com/album/5uuTO37yWyGsXYEF6ZvqHp"
       },
@@ -1891,22 +1899,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dile Que",
-        "url": "https://open.spotify.com/album/3vYAAKqfsMY6JAs24Kq1Ko"
+        "name": "Te Marchar",
+        "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
       },
       "artists": [
         {
-          "name": "FIGHT CLVB",
-          "url": "https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg"
-        },
-        {
-          "name": "Chuwe",
-          "url": "https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn"
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
         }
       ],
-      "duration_ms": 246430,
-      "name": "Dile Que - Original Mix",
-      "url": "https://open.spotify.com/track/3LfUI8MFuiJTCwuUcqv7ng"
+      "duration_ms": 180005,
+      "name": "Te Marchar",
+      "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
     }
   ],
   "unique_name": "Alma",

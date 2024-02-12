@@ -4,7 +4,7 @@
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-418 songs - 19 hr 18 min
+419 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [GAP](https://open.spotify.com/track/1y5acOdljpvgPmbxUM6MdZ) | [Leeky Bandz](https://open.spotify.com/artist/08UUGGbQJQENS4gOd6VU00) | [GAP](https://open.spotify.com/album/16dUBWTwJb1gODadOfOaIk) | 1:58 | 2021-10-05 | 2022-03-03 |
 | [Gator Season](https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Gator Season](https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK) | 1:41 | 2022-09-02 | 2022-10-09 |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2021-10-05 |  |
+| [Geeked](https://open.spotify.com/track/4CBV9EZjslWYFYDZJ6c5fp) | [Bomyadept](https://open.spotify.com/artist/6malgA2oZsfdXVSuNUdFsr), [lmaopay](https://open.spotify.com/artist/5Lr6vtfzxLavw70fdoex8K), [rinzelleu](https://open.spotify.com/artist/1yJ3zskpxUhYJ1Jgn8AnYX) | [Geeked](https://open.spotify.com/album/4uReZ3cWWWOXu0ZyPOHCEt) | 2:58 | 2023-08-18 |  |
 | [Geeked](https://open.spotify.com/track/0MHEpmOPl9E988lMIcRBuS) | [C Blu](https://open.spotify.com/artist/2OjTwiWZJUuKNcNRPC0VTE), [C\-HII WVTTZ](https://open.spotify.com/artist/7qeqxguq9U5yvK2ddn8p8b), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Geeked](https://open.spotify.com/album/5Oho6PdHHDdAetQpX9XrWc) | 2:58 | 2021-12-06 | 2022-07-28 |
 | [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 | 2021-10-05 | 2022-07-29 |
 | [Get Back](https://open.spotify.com/track/58PHa0il1TgjqONQc8ZJ5j) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Get Back](https://open.spotify.com/album/29uX8kttgwZkbzDtn05yY6) | 2:45 | 2022-04-08 | 2022-07-29 |
@@ -246,7 +247,7 @@
 | [Nairobi](https://open.spotify.com/track/3HNzLvkfe8hHvoNQab0AIT) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/5dvUS7NVMJPAMyzEcPWMPp) | 3:16 | 2021-10-05 | 2022-02-27 |
 | [NAME OF LOVE](https://open.spotify.com/track/7CEV6aC9ByhqKyNJTUnRAz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [NAME OF LOVE](https://open.spotify.com/album/68ukCT096uuDJqB3Rg68Hf) | 1:46 | 2022-06-10 | 2022-06-24 |
 | [New Opps](https://open.spotify.com/track/5p2btOYmVnkJp6z8aoNMwl) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [New Opps](https://open.spotify.com/album/5Xw38QEyGPa5X1G51TvXpf) | 1:48 | 2022-06-24 | 2022-07-29 |
-| [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 | 2022-04-12 |  |
+| [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 | 2022-04-12 | 2024-02-12 |
 | [No Adlibs](https://open.spotify.com/track/03xmi6J5kE6lnr4BfokGBu) | [Wan Billz](https://open.spotify.com/artist/4ptT7PqXaXDwMBZdiOq3ge) | [No Adlibs](https://open.spotify.com/album/1AATPemo63RsvrpQMg24b0) | 2:14 | 2022-06-10 | 2022-06-25 |
 | [No Cap](https://open.spotify.com/track/3jCWSpumAzYP3ur8OUGEFN) | [Gee Gotti](https://open.spotify.com/artist/6pTKmkmCVWffnddgoZy8qZ) | [No Cap](https://open.spotify.com/album/5X6Z84H5j7omlXmRPdOIwq) | 2:37 | 2022-06-10 | 2022-06-24 |
 | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/track/1K2JtjX3s8QaEKvsbC1UXX) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/album/7bwhQ4ir83KULY8HnhhpJm) | 4:03 | 2021-10-05 | 2022-07-26 |

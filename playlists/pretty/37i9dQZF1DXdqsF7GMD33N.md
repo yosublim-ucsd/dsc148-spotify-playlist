@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Alex Newell in Shucked
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,837 likes - 72 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,843 likes - 72 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 71 | [Always Starting Over](https://open.spotify.com/track/1lO05gLIDY3HgGmQMWAGXH) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [If/Then: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Fhp5BdCLeLnUzl069FlJK) | 4:42 |
 | 72 | [Annie: Tomorrow](https://open.spotify.com/track/1AXO42HiJSTgPq7KbJAEjp) | [Charles Strouse](https://open.spotify.com/artist/1HO6dUh3pea34OKnmsmjQx), [Andrea McArdle](https://open.spotify.com/artist/74AUP6Y3N7vo7s043wFa0m), [Peter Howard](https://open.spotify.com/artist/6kSSIddrp6LMEAUfbiacVv) | [Annie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0T1lQv20NNCoFlZkVHN3SQ) | 2:07 |
 
-Snapshot ID: `MCxkZDRlYzFiMjU3N2YxYzYxYWRiODc5ZWU4YmMxMThlZDdmMzg4ZmEy`
+Snapshot ID: `MCxjOGRhYjIyMjQ0MzM3NjdkZWRhN2QyZWI2OWY2MThkZmE5ZDY5N2Yy`

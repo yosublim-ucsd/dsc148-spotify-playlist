@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Skepsis",
-  "num_followers": 55524,
+  "num_followers": 55563,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmM0OGJlNjQyMzVmNGYxZjU5YTkyMDdiZWMyZmIxZDVjYTM4MzQw",
+  "snapshot_id": "MCxjNDVjOGU5NTE3MDYzMTNjNGVlNTFkOWQwOTdlMzgzNDQ2YTYzOGE5",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Too Lazy",
+        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Too Lazy",
+      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Step It Up / Lights",
@@ -1063,22 +1079,6 @@
       "duration_ms": 270312,
       "name": "Step It Up",
       "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Too Lazy",
-        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Too Lazy",
-      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
     },
     {
       "added_at": "2023-11-17 16:57:48",

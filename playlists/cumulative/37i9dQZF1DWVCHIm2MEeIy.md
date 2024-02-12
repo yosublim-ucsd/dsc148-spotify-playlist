@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩
 
-366 songs - 1 day 9 hr 17 min
+367 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Himmelblau](https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Never Stop Dancing](https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC) | 8:13 | 2022-04-15 | 2023-11-16 |
 | [HOME](https://open.spotify.com/track/5PMHTWprDQND43PU27PN9F) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [HOME](https://open.spotify.com/album/7Aj6wyEQFDsiEBnebZZ0Am) | 4:01 | 2022-05-20 | 2022-07-26 |
 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 | 2022-04-15 | 2022-08-13 |
+| [Horizon](https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Horizon](https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV) | 6:13 | 2024-02-08 |  |
 | [Hottest Record in the World](https://open.spotify.com/track/4zUqroe9fG1TOV9yKJVgVW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Hottest Record in the World](https://open.spotify.com/album/7AwrMRA2dnSI8BNh385m18) | 3:49 | 2022-04-15 | 2022-07-29 |
 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 | 2022-06-24 | 2022-08-15 |
 | [How Many Lies](https://open.spotify.com/track/5C23r6b92Kgbwew8Hm9tCw) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [How Many Lies](https://open.spotify.com/album/1UWa6HoAzIBc81AR2b665l) | 2:54 | 2022-06-24 | 2022-10-23 |
@@ -287,7 +288,7 @@
 | [Save The Rave](https://open.spotify.com/track/0F98k4uhiiQhyCMKojTkFB) | [Lexy & K\-Paul](https://open.spotify.com/artist/5Jpy5UevFNksfrxNyE7tcE) | [Save The Rave](https://open.spotify.com/album/3lejIMtfZWGjcSGSBroPrY) | 6:07 | 2022-05-20 | 2022-06-22 |
 | [Serendipity](https://open.spotify.com/track/6qw42FVO2fhF0C8EetLU09) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Serendipity](https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ) | 6:08 | 2022-11-15 | 2022-11-26 |
 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 | 2022-10-07 |  |
-| [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 | 2022-11-14 |  |
+| [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 | 2022-11-14 | 2024-02-12 |
 | [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 | 2024-02-08 |  |
 | [Shinsetsu](https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shinsetsu](https://open.spotify.com/album/6UqkzKbzEYtSYUtcA0Z2ED) | 8:03 | 2022-04-15 | 2022-07-29 |
 | [Si Soy Fuego](https://open.spotify.com/track/6oa8rEFHMIrYpHh3AmsaMa) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Si Soy Fuego](https://open.spotify.com/album/4kqAFegAsBLlAr9mWWOqOE) | 5:20 | 2022-04-15 | 2024-01-23 |

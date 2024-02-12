@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 57819,
+  "2024-02-12": 57835,
   "date_first_scraped": "2022-05-26",
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
   "name": "Reggae al Sur",
@@ -815,6 +815,24 @@
       "duration_ms": 248466,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+    },
+    {
+      "album": {
+        "name": "Dela",
+        "url": "https://open.spotify.com/album/7hCmxe0ra4M5DaOth4hWnP"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264183,
+      "name": "Dela",
+      "url": "https://open.spotify.com/track/4sEJncSrPDPuUe4hlp0xvI"
     },
     {
       "album": {
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 171013,
       "name": "Nada Que Me Venga Mal",
       "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
@@ -3925,7 +3943,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 225703,
       "name": "The Lady in Red",
       "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
@@ -4367,7 +4385,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"

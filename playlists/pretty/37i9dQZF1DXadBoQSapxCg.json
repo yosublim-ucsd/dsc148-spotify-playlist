@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308285,
+  "num_followers": 308290,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY4NjZlZTE4MDg5MTUyZmIyOGM2MjI2MmEzNzdmMDFkM2U0ZGQ1",
+  "snapshot_id": "MCxkYTIyMGUwMGM4M2EwOGM1MjU0NDM2YTJjMTE5MWEyN2IyNzRlODI3",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "S",
+        "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 211451,
+      "name": "Ser",
+      "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Djavan",
         "url": "https://open.spotify.com/album/7FrPBgxnDtKXFF0fDo02VU"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 269909,
       "name": "Djavan",
       "url": "https://open.spotify.com/track/5qvHuqSk7uQmHWyGLn58LE"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
-        "name": "S",
-        "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 211451,
-      "name": "Ser",
-      "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
     },
     {
       "added_at": "2023-11-24 17:02:27",

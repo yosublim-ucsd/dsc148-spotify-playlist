@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,322 likes - 102 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,351 likes - 102 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 101 | [Floating Stones](https://open.spotify.com/track/0ZotW8k8AHAkFpkJjp7BZL) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Floating Stones](https://open.spotify.com/album/2eZZotBSXmgv3Bnoh4fKov) | 2:03 |
 | 102 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 |
 
-Snapshot ID: `MCxmMWJjZjc5N2YxMzgyMmQ5NzEwMDA2MTY0ZWRkNjEzZjAwNGEyYmZh`
+Snapshot ID: `MCxmNTc5YzlkMjNlZmFhNzhhNDAyMDBhOWUyMmEwN2ViZTFjNDE5MTVm`

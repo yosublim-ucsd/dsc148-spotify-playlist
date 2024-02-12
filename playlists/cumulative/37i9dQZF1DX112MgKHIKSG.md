@@ -4,7 +4,7 @@
 
 > Stories from the world of Peppa Pig!
 
-135 songs - 10 hr 50 min
+136 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [The Diner](https://open.spotify.com/track/5SGAw4gBV1S7oS5rqsMFTG) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Diner](https://open.spotify.com/album/0EEYcOitNRGDjQUXE9nu5J) | 4:51 | 2022-08-12 | 2024-02-11 |
 | [The Diner](https://open.spotify.com/track/65pAgzaSTTz9K92UJ0voMM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Diner](https://open.spotify.com/album/5YwKoIQPdAFUHk4HILFEFj) | 4:51 | 2021-12-03 | 2023-12-24 |
 | [The Market](https://open.spotify.com/track/4G2Qswzk6xldWWX5sGQXId) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Market](https://open.spotify.com/album/3B8mE99K2j8RAlYXZw4fMg) | 4:51 | 2021-12-03 | 2023-12-24 |
-| [The Market](https://open.spotify.com/track/71xhikheTImqXtFIQjWusk) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Market](https://open.spotify.com/album/0LeQ4eCH7Xos77dxzcOIm7) | 4:51 | 2022-08-12 |  |
+| [The Market](https://open.spotify.com/track/5WAUffCkunOrlDlmTcei9b) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Food Stories](https://open.spotify.com/album/2G46uIfpUWvAxhUOvYpN3v) | 4:51 | 2022-08-12 |  |
+| [The Market](https://open.spotify.com/track/71xhikheTImqXtFIQjWusk) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Market](https://open.spotify.com/album/0LeQ4eCH7Xos77dxzcOIm7) | 4:51 | 2022-08-12 | 2024-02-12 |
 | [The Noisy Night](https://open.spotify.com/track/1t6v2rMvJhwL2FUJYsXl1h) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Stories for Bedtime](https://open.spotify.com/album/3vPNZuVHEGV3jeueRQ4NRR) | 4:19 | 2022-08-12 |  |
 | [The Noisy Night](https://open.spotify.com/track/76fYm2twdIR0V1JWI2pz4b) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Noisy Night](https://open.spotify.com/album/1DhGPaGfuzgqfcQ6qBx485) | 4:19 | 2021-12-03 | 2023-12-24 |
 | [The Police](https://open.spotify.com/track/4zfKLkeEnxd2JhyJRi2VYH) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa Pig: Learning Stories](https://open.spotify.com/album/3VrQSc4GRULnFhoMEqmYYw) | 4:35 | 2022-10-24 |  |

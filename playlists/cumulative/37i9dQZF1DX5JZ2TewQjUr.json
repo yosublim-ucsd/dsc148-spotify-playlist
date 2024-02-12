@@ -2368,10 +2368,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 238032,
       "name": "Escaping Light",
       "url": "https://open.spotify.com/track/7hjFPdPikQVL4rGzGLUo9c"
+    },
+    {
+      "album": {
+        "name": "Escaping Light",
+        "url": "https://open.spotify.com/album/5QFxrLYt1HKfeCc1nl0pps"
+      },
+      "artists": [
+        {
+          "name": "Maddie Lexandra",
+          "url": "https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239508,
+      "name": "Escaping Light",
+      "url": "https://open.spotify.com/track/4N1mbP0JJxkqK1iFc3eyQj"
     },
     {
       "album": {

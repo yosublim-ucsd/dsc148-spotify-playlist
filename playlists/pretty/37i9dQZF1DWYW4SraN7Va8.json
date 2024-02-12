@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 90504,
+  "num_followers": 90689,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWUzY2Y0Yjc2OGE1YzI0OGEwNzk2YjU2YTIwNTk4OTNmMjg5Y2Ji",
+  "snapshot_id": "MCw4NTVjN2FlM2ExMGY5ZWJiNjg1NWIyNjdjZjZhOWNmYTZiNDg4MjAz",
   "tracks": [
     {
       "added_at": "2024-01-15 23:19:54",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange (2005 Remaster)",
+      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
         "name": "The Big Come Up",
         "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "Too Fast For Love",
-        "url": "https://open.spotify.com/album/0UcyqmHNn536yy8boNihhb"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Too Fast for Love",
-      "url": "https://open.spotify.com/track/4XdLlfscf06Tk1Ny6JQi84"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
         "name": "Fear of the Dark (2015 Remaster)",
         "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+        "name": "Too Fast For Love",
+        "url": "https://open.spotify.com/album/0UcyqmHNn536yy8boNihhb"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 230480,
-      "name": "La Grange (2005 Remaster)",
-      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
+      "duration_ms": 201213,
+      "name": "Too Fast for Love",
+      "url": "https://open.spotify.com/track/4XdLlfscf06Tk1Ny6JQi84"
     },
     {
       "added_at": "2024-01-15 23:19:54",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-01-15 23:19:54",
       "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "Youth Gone Wild",
+      "url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b"
+    },
+    {
+      "added_at": "2024-01-15 23:19:54",
+      "album": {
         "name": "What's Love Got To Do With It",
         "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 199725,
       "name": "What's Love Got To Do With It",
       "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
-    },
-    {
-      "added_at": "2024-01-15 23:19:54",
-      "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
-      },
-      "artists": [
-        {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y"
     },
     {
       "added_at": "2024-01-15 23:19:54",

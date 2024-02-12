@@ -9696,6 +9696,24 @@
     {
       "album": {
         "name": "In Loving Memory",
+        "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218979,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
+    },
+    {
+      "album": {
+        "name": "In Loving Memory",
         "url": "https://open.spotify.com/album/4ZU7tF78ZlRzoomq9HNsTQ"
       },
       "artists": [
@@ -19858,7 +19876,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 214523,
       "name": "Waiting On Better Days",
       "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"

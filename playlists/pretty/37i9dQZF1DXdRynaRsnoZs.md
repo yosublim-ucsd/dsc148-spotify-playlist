@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,595 likes - 65 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,593 likes - 65 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 62 | [Emmanuel](https://open.spotify.com/track/26FxkfhUC6opL8Kr7ej5nM) | [Will Ackerman](https://open.spotify.com/artist/5MHSgzpt7607DgUgvOTlLd) | [Windham Hill Holiday Guitar Collection](https://open.spotify.com/album/0wMljJkbo5ZcspfK2VzMgz) | 2:25 |
 | 63 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 |
 | 64 | [Once in Royal David's City](https://open.spotify.com/track/0SCNnJ3DAYT3obCiGpEs5s) | [The Harpatons](https://open.spotify.com/artist/0PX2FmQQ5HuoI2uSsIhfKt) | [Once in Royal David's City](https://open.spotify.com/album/3uLkmeBBV0sDJVWt4TwyYo) | 2:04 |
-| 65 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
+| 65 | [We Three Kings \- Instrumental](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Hooked On Lullabies](https://open.spotify.com/artist/1kLnOX9PeUNRmvUMAbmBGc) | [Christmas Lullabies, Vol\. 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 
-Snapshot ID: `MCxiMTkyMmMxODdkZTUzNDg5YTQ3YjgxYmU4NGNiN2Y4YjJiMjc3N2Ri`
+Snapshot ID: `MCxlNmJiNTE1NWMxY2Y2NjUwZWM5NmVmMzU5MjI3ODljYjYyNDBiZGFj`

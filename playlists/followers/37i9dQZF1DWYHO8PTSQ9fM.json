@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 398912,
+  "2024-02-12": 399281,
   "date_first_scraped": "2022-05-13",
   "description": "Les hits du moment sont ici. Cover : Stormy",
   "name": "Hot Hits Maghreb",
@@ -1003,10 +1003,28 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 148062,
       "name": "Dawk Lya",
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
+    },
+    {
+      "album": {
+        "name": "Dawk Lya",
+        "url": "https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Dawk Lya",
+      "url": "https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx"
     },
     {
       "album": {

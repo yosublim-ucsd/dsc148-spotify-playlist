@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0NTc1ODAsMDAwMDAwMDBiZDAxZWE1OWZkODFlYjA0Y2I1NjVhY2Q4NDFhMWZlMg==",
+  "snapshot_id": "Mjg0NTc1ODAsMDAwMDAwMDAxOTAyY2IyYTA3MzcyMjM0YjYyMjdjYWU1ZTJkNjFhYw==",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -87,26 +87,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "A Grey Area (Live Sessions)",
-        "url": "https://open.spotify.com/album/4RTgnKqmdtb25iXJd35TBL"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 312933,
-      "name": "When You Think Of Me (feat. Cory Henry) - Live with Cory Henry",
-      "url": "https://open.spotify.com/track/6iYIBGy2bUfw9LElbnamRT"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/0BlAYqNVSmgRtIL1pYPEcb"
       },
@@ -151,6 +131,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "A Grey Area (Live Sessions)",
+        "url": "https://open.spotify.com/album/4RTgnKqmdtb25iXJd35TBL"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 312933,
+      "name": "When You Think Of Me (feat. Cory Henry) - Live with Cory Henry",
+      "url": "https://open.spotify.com/track/6iYIBGy2bUfw9LElbnamRT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Her Thoughts",
         "url": "https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD"
       },
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Late Night Thelonious Monk",
-        "url": "https://open.spotify.com/album/2SUQ2KduYVwgJstPq2nz8s"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Introspection - Remastered 2013",
-      "url": "https://open.spotify.com/track/1whnVNKaYTdBatWkX8TX7T"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Trail of Whispering Giants",
         "url": "https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 479797,
       "name": "Trail of Whispering Giants",
       "url": "https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Late Night Thelonious Monk",
+        "url": "https://open.spotify.com/album/2SUQ2KduYVwgJstPq2nz8s"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Introspection - Remastered 2013",
+      "url": "https://open.spotify.com/track/1whnVNKaYTdBatWkX8TX7T"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
         }
       ],
-      "duration_ms": 226707,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/6qZOQKoGnQUpY5BHIOOtPB"
+      "duration_ms": 189535,
+      "name": "Ally's Song",
+      "url": "https://open.spotify.com/track/7KHWN1YP0PY8deaq0IykBe"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

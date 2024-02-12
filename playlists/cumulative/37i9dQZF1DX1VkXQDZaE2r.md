@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 | 2020-11-10 | 2024-02-11 |
-| [Blue Doll Baroque](https://open.spotify.com/track/4rKq4truS2MWOVmDL4sFe7) | [Yvon Gerault](https://open.spotify.com/artist/2PHjcIbLK3QmQlPVxmeZBN) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 1:43 | 2020-11-10 |  |
+| [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 | 2020-11-10 |  |
+| [Blue Doll Baroque](https://open.spotify.com/track/4rKq4truS2MWOVmDL4sFe7) | [Yvon Gerault](https://open.spotify.com/artist/2PHjcIbLK3QmQlPVxmeZBN) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 1:43 | 2020-11-10 | 2024-02-12 |
 | [Cannibal Holocaust \(Main Theme\)](https://open.spotify.com/track/3N9fFHXzJXzdmDzb4iYm8y) | [Riz Ortolani](https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG) | [Cannibal Holocaust](https://open.spotify.com/album/5Lyyt4rsAUOPXOJavlJ2XV) | 2:57 | 2020-11-10 |  |
 | [Cul\-De\-Sac \(Orchestral\)](https://open.spotify.com/track/7M7S9eQMPCq9JOo7hm3P64) | [Krzysztof Komeda](https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC) | [Cul\-De\-Sac & Knife In The Water](https://open.spotify.com/album/3M6aFO2t4IVkK1gMUlOg1W) | 2:47 | 2020-11-10 |  |
 | [Dark World \(from "Inner Space"\)](https://open.spotify.com/track/3upYNAXYSxGZhnXUBFOGHx) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Inner Space: The Lost Film Music of Sven Libaek](https://open.spotify.com/album/5HF5en6DJ1Z9xhvRJKwkCq) | 4:32 | 2020-11-10 |  |

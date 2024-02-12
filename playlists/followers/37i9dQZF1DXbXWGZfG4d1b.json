@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 21690,
+  "2024-02-12": 21687,
   "date_first_scraped": "2022-06-30",
   "description": "Rock independiente, pop alternativo y golden hour.",
   "name": "6PM Indie",
@@ -773,6 +773,24 @@
       "duration_ms": 106237,
       "name": "Bajo las Sombras",
       "url": "https://open.spotify.com/track/2GLwpugztC0QylwpvtIbnB"
+    },
+    {
+      "album": {
+        "name": "Bar de Playa",
+        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129945,
+      "name": "Bar de Playa",
+      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
     },
     {
       "album": {
@@ -5626,7 +5644,7 @@
         },
         {
           "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/7DmHW1m3QiSdZNUeytu3Fu"
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
         }
       ],
       "date_added": "2024-02-09",
@@ -6063,7 +6081,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 247477,
       "name": "Mil Derrotas",
       "url": "https://open.spotify.com/track/1KWWN0v4gnwkSkLlSIJQze"

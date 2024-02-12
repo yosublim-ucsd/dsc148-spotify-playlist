@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-679 songs - 2 day 10 hr 31 min
+680 songs - 2 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Dream Sequence](https://open.spotify.com/track/5zRnxcq61Nu6YfmF8z6hUH) | [Circles](https://open.spotify.com/artist/64j43wsW2L0NunoKT5wbKd) | [The Last One](https://open.spotify.com/album/5VoMwUYuC4IpLPZJcI3Cfv) | 4:48 | 2022-07-13 | 2022-07-29 |
 | [Drip](https://open.spotify.com/track/2a9AzO1K4kTCD5hnHDE2zd) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Drip](https://open.spotify.com/album/1qwBxbJgsL13K7I8j1L9MI) | 5:50 | 2021-12-17 | 2022-07-29 |
 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 | 2021-12-17 | 2022-09-03 |
-| [DYING LIGHT](https://open.spotify.com/track/2FkKJavJX1OAYUVlzaQgPr) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [DYING LIGHT](https://open.spotify.com/album/2yj1O1jlzZHkntX2ybPGbO) | 5:12 | 2023-05-12 |  |
+| [DYING LIGHT](https://open.spotify.com/track/2FkKJavJX1OAYUVlzaQgPr) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [DYING LIGHT](https://open.spotify.com/album/2yj1O1jlzZHkntX2ybPGbO) | 5:12 | 2023-05-12 | 2024-02-12 |
+| [DYING LIGHT](https://open.spotify.com/track/1Nt0ei0lg9KtxY6JzIfyUq) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [TIME](https://open.spotify.com/album/4UuoEsU6WFynAeNG4XaZHK) | 5:12 | 2024-01-30 |  |
 | [Early Grave](https://open.spotify.com/track/2fdxNevOljzsb8c9ZUZ0i3) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Early Grave](https://open.spotify.com/album/5SJcRxc7gu72EQhmKf9NN0) | 3:51 | 2023-12-06 |  |
 | [Early Grave](https://open.spotify.com/track/466IvwJm7YnBsKDOk5tepo) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Our Bones](https://open.spotify.com/album/41CaQanjJciO8xVlApEQBS) | 3:51 | 2022-10-28 | 2022-11-14 |
 | [Early Grave](https://open.spotify.com/track/5l3ixdypB5Wptrx9ZxHewT) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Early Grave](https://open.spotify.com/album/4VyzqJxJT7RyotKF20NimE) | 3:51 | 2022-07-13 | 2022-07-29 |

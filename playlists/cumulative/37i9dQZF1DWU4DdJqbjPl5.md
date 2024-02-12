@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kxBgQcr1Sqasp\_6DZCsG1w"> Black Sherif </a> and <a href="https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4?si=4oMj4ZMGQQ2IvBl0mur3QA"> Mabel </a>
 
-331 songs - 17 hr 43 min
+332 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [fluid](https://open.spotify.com/track/7JmqcNJ3yqcSdmeL7Eft6a) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [fluid](https://open.spotify.com/album/0SNAWeX1JUnfbk0bL3UdhF) | 2:58 | 2022-08-25 | 2022-09-02 |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-12-16 | 2022-07-08 |
 | [Fool Me](https://open.spotify.com/track/1X1IDV1HeEMqpPkKnt1Srx) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [S.O.N](https://open.spotify.com/artist/0I5rNJv2Bldivd8UjTGlQ6), [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 7:55 | 2022-12-09 | 2023-02-04 |
-| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 |  |
+| [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 | 2024-02-09 |  |
+| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-02-12 |
 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 | 2023-10-20 |  |
 | [Forever](https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa) | [Andi K](https://open.spotify.com/artist/2kB03CmhDTWP3asDmD2iYB), [Shizzi](https://open.spotify.com/artist/1247AZNYLxb33DmPibFLZZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Forever](https://open.spotify.com/album/2JuPCMHU5tQwYVTjOWCeLF) | 2:52 | 2022-05-19 | 2023-03-04 |
 | [Forever](https://open.spotify.com/track/2EgxDtfxpFZ8hZnbahDSET) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed](https://open.spotify.com/album/75jkFBsbmjHIWGUUNbyDEG) | 3:16 | 2021-02-02 | 2022-07-29 |

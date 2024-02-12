@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 35704,
+  "2024-02-12": 35694,
   "date_first_scraped": "2023-02-25",
   "description": "Ideale muziek voor de werkdag ",
   "name": "Werkdag FM",
@@ -4651,7 +4651,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 200435,
       "name": "Something About It",
       "url": "https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn"
@@ -5301,7 +5301,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 217944,
       "name": "The Light",
       "url": "https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj"

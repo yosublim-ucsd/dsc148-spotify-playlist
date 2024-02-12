@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "25 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "25 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac"
+    },
+    {
+      "album": {
         "name": "3108",
         "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
       },
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 186120,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"

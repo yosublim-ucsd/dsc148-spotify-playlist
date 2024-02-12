@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 183173,
+  "num_followers": 183266,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2U2MmU3N2RlNjUyOTNlNGMyZjM1ZGQ0ZTMyYjE1OTNlNGJmMWI4",
+  "snapshot_id": "MCxhYjg0NWFmYzFlMWNlMzRiN2UyNjI3MzdjNzQ0MTI0NGQ0MjFlMzEw",
   "tracks": [
     {
       "added_at": "2024-02-08 22:12:41",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Lo Mejor de Mi...",
-        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
-      },
-      "artists": [
-        {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Zamba de Amor en Vuelo",
-      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
         "name": "La Fiesta del Violinero",
         "url": "https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 180640,
       "name": "El Olvidao",
       "url": "https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
+        "name": "Lo Mejor de Mi...",
+        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Zamba de Amor en Vuelo",
+      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
         "name": "Te esperar\u00e9 cantando",
         "url": "https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 160357,
       "name": "Cuando Llora Mi Guitarra",
       "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -847,8 +847,8 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 162093,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -947,8 +947,8 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
+        "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
+        "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/79hua0r80o37LqICjNIY85"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
-        "name": "Ando Cant\u00e1ndole al Viento y No S\u00f3lo por Cantar ...",
-        "url": "https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "No Te Puedo Olvidar",
-      "url": "https://open.spotify.com/track/79hua0r80o37LqICjNIY85"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-        "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 770851,
-      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-      "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
         "name": "El Estilo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 220133,
       "name": "Y Va Pasando la Vida",
       "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
+        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+        "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 770851,
+      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+      "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
     },
     {
       "added_at": "2024-02-08 22:12:41",

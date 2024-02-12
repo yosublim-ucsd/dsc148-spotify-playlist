@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JvB1I8cgKT.md) - [plain]
 
 > We all crave things that aren't good for us\. Listen to music from the HBO Original series The Idol, streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,369 likes - 42 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,444 likes - 42 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
+| 1 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
 | 2 | [Dollhouse \(with Lily Rose Depp\)](https://open.spotify.com/track/5HUQPQ9E1a4er4UhB8C7Rc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 5 Part 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD) | 3:59 |
 | 3 | [My Sweet Lord](https://open.spotify.com/track/3TBFOYhRrY2lL4lcmtvIrU) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Idol Episode 5 Part 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD) | 3:12 |
 | 4 | [Crocodile Tears](https://open.spotify.com/track/7MwYXhh2dTqc7fiwkwPZo1) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD) | 3:02 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JvB1I8cgKT.md) - [plain]
 | 41 | [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 |
 | 42 | [Planisphere Part\. IV](https://open.spotify.com/track/4lsyKsrXk5X6PrpWWsoaZa) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Planisphere](https://open.spotify.com/album/4j8UWYk7Ytc2HqkW7EnUTw) | 4:27 |
 
-Snapshot ID: `MCxhYTlhOWVlYmRkNGIwNDZjYTBiZjEwZjc5MjVlZDM5ZTEyNzYxMzhh`
+Snapshot ID: `MCw3YzMzMDZlYjE4ZTM1OGRiY2VkZjQxMzk3MGRiYTY0ZjBhNTY2NzM3`

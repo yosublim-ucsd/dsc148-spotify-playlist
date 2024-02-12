@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 375897,
+  "num_followers": 375932,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDg4YmQ4NTY1N2FiOTFkMDYxMmM2ZGIyMzExNjY5OWE0YTlkZTQ3",
+  "snapshot_id": "MCxjZDA0N2M2NDE3ZmNhMTkxY2UyMDg2ZGFmMTdlYTM2OGFhNmJiYTY4",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "concrete",
         "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 212000,
       "name": "concrete",
       "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Letting In",
         "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 263466,
       "name": "Letting In",
       "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 178476,
-      "name": "Thin",
-      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Phase (Deluxe)",
         "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 260866,
       "name": "Surprise Yourself",
       "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 178476,
+      "name": "Thin",
+      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 202247,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 197977,
       "name": "Artifice",
       "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "duration_ms": 202247,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
-      },
-      "artists": [
-        {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
-        }
-      ],
-      "duration_ms": 282701,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Awaken (Feel Alive)",
         "url": "https://open.spotify.com/album/3LjP2mnsPooNbNG5faylZH"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 180204,
       "name": "Awaken (Feel Alive)",
       "url": "https://open.spotify.com/track/2qTWIlRARiTrE5MIO1Q0HE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "duration_ms": 282701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Life After Defo",
-        "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
-      },
-      "artists": [
-        {
-          "name": "Deptford Goth",
-          "url": "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
-        }
-      ],
-      "duration_ms": 252880,
-      "name": "Feel Real",
-      "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Black Rain",
         "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Life After Defo",
+        "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
+      },
+      "artists": [
+        {
+          "name": "Deptford Goth",
+          "url": "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
+        }
+      ],
+      "duration_ms": 252880,
+      "name": "Feel Real",
+      "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
     },
     {
       "added_at": "2023-01-11 21:01:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: a子 \*👉 <a href="https://spice.eplus.jp/articles/326157?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,645 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,715 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 44 | [silver lining](https://open.spotify.com/track/1damaHyhSKAMOFjo4qyzK1) | [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx), [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [silver lining](https://open.spotify.com/album/7pzOXKPuhcaQAKbOaPpU6n) | 4:35 |
 | 45 | [Curse of Love](https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Curse of Love](https://open.spotify.com/album/2gLxAX6QIAsanB9HUcEh2z) | 3:34 |
 | 46 | [恋をしているみたいなの](https://open.spotify.com/track/1FAAimaATfHm0tXomtOgDs) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋をしているみたいなの](https://open.spotify.com/album/7uj8cKKSL8uPVJqDLHhJ6S) | 3:32 |
-| 47 | [Nightmare feat\. Kizuna](https://open.spotify.com/track/3a6bh9lIlWQrbepwggW6kq) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH), [Kizuna](https://open.spotify.com/artist/3IGTT411rHs9RcGiGho3nd) | [Nightmare feat\. Kizuna](https://open.spotify.com/album/1DEkyCkFvd2kT3DKPhXT6M) | 3:13 |
+| 47 | [Nightmare feat\. Kizuna](https://open.spotify.com/track/3a6bh9lIlWQrbepwggW6kq) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH), [キズナ](https://open.spotify.com/artist/3ivoNDU9tOTa2R7XqiIFFk) | [Nightmare feat\. Kizuna](https://open.spotify.com/album/1DEkyCkFvd2kT3DKPhXT6M) | 3:13 |
 | 48 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 |
 | 49 | [Ichinichi gotoni](https://open.spotify.com/track/5PLz4f1xruyNoZXlLS5gv6) | [NORITAKE KINASHI](https://open.spotify.com/artist/5m1KEoNkXo4o2wR8MzO99N), [Hiromi](https://open.spotify.com/artist/0HyILme7vzorSe2ClCtaDb), [George Tokoro](https://open.spotify.com/artist/78oGbH7WpytlUBCzbIKF8M) | [Ichinichi gotoni](https://open.spotify.com/album/4rZFD7ixhT0z1iIRDXsZ0f) | 3:31 |
 | 50 | [サヨナラのかわりに](https://open.spotify.com/track/47ANLBqVT2p1X2mvylKg0o) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ), [Gackt](https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN) | [サヨナラのかわりに](https://open.spotify.com/album/29CTU8qJbIFZSIxFf9cQNC) | 3:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Electric Parade](https://open.spotify.com/track/1VUNtkVmTtizP8o5i4IqYb) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:13 |
 | 80 | [最後だとしても...](https://open.spotify.com/track/7gLBZMoFeOwWMak8UVPSym) | [句潤](https://open.spotify.com/artist/1uDNlSRJxFFJLWXr11s0Bz), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [句が呼ぶ煙](https://open.spotify.com/album/7wXuPfXn4vqtOtI8OdsX2a) | 3:21 |
 
-Snapshot ID: `MCw2NTdiNDE2NzVhNmMzMDBlNzUxZWY5NTIzNWM5ZTE0YTBlYjQ4YTJk`
+Snapshot ID: `MCw0NTAzMWY0ZGJmZjI1OWNlNmRiYjFlMzQwYjgwOGUyYjJmMWQ4OTM0`

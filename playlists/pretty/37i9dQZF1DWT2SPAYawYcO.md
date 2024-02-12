@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,875 likes - 74 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,935 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 73 | [Dirt on It](https://open.spotify.com/track/4wpoy10cFgeALXIePThKrT) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Dirt on It](https://open.spotify.com/album/5gAATvvuvNniooRxZo8fpa) | 3:06 |
 | 74 | [Anybody](https://open.spotify.com/track/5HzCLpuHUub2AvGaYWJiyk) | [Tom Snowdon](https://open.spotify.com/artist/1bUUZRE9BSdz7acIrPN6HY) | [Lonely Tree](https://open.spotify.com/album/0fLAyBSqCZVdcf9jfo7JQo) | 3:49 |
 
-Snapshot ID: `MCw2MjNlNGEzYTM1NGVlNTFmODA4NTZiMTExYjNhOTUzMmQxNjAzMWFh`
+Snapshot ID: `MCxlYTk5MGEzYWViNGM4Mzk5N2UxNTJkNjBiYzdiMThkOTA1M2VjZjY0`

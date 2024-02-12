@@ -1,12 +1,12 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 4463,
+  "num_followers": 4472,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDI2NTkxN2U2M2VjNWFkMjEzN2JkYTI2ODlkNzE4MGIwNWU5MjM0",
+  "snapshot_id": "MCxjZTY4ZjQ2ODFhNjE1OTZhNWJlNTRmYWMwZGZiZmZhZTE5OWQ5MjVh",
   "tracks": [
     {
       "added_at": "2024-01-08 08:37:57",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
         "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
         "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
         "name": "Demo songs",
         "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
       },
@@ -447,38 +447,6 @@
       "duration_ms": 246874,
       "name": "dear heart",
       "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Just the two of us",
-      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 237035,
-      "name": "Dreams in summer night",
-      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -503,18 +471,34 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01"
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "Just the two of us",
+      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
+        "name": "Reminiscence",
+        "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
         "name": "I can't sleep",
         "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
       },
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
         "name": "\uc5b4\uc11c\uc624\uc138\uc694 \uc5ec\ub984\ubc24",
         "url": "https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 259367,
       "name": "\uc5ec\ub984\ubc24",
       "url": "https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
-        "name": "Reminiscence",
-        "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1"
     },
     {
       "added_at": "2024-01-08 08:37:57",

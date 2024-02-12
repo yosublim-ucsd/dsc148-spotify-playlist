@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,694 likes - 74 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,710 likes - 74 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Real Bad Bitch](https://open.spotify.com/track/0umBOSyPMXx2SwaSEuoc6A) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 1:58 |
 | 74 | [Ouro e Joias](https://open.spotify.com/track/67SSejaE7tmF6APksprE5U) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Marvin](https://open.spotify.com/artist/3rmsOEaO3Lp36f2Bmb5Pfj) | [Ouro e Joias](https://open.spotify.com/album/3x8fbgf7jXMw8xzNayzF7f) | 1:55 |
 
-Snapshot ID: `MCxlYWQ1MGJhMmQ5OGE1ZTM3YjIzZGM3MjFmMWM0MmVlOTZmZmYzZDlk`
+Snapshot ID: `MCxmOTRjNzU2MWNhYTdjZGU4OTBjMzVlZWEwNGYwZWY4ZjI3Zjc2OTc2`

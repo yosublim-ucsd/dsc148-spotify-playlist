@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Teto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,904 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,653 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [THE BOX MEDLEY 6](https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q) | [THE BOX MEDLEY 6](https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ) | 4:01 |
 | 50 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 |
 
-Snapshot ID: `MCw4OWU0NTYyYTViNmZhMmMxMTg5OGMzN2Y0ZTJhNzM2YjBmYWQ2OTJi`
+Snapshot ID: `MCw1MGJiM2ZiNTNmNmM4NDAxOTdiOWRmZjIwYjhjMGI5ZGUyOTQyNjk3`

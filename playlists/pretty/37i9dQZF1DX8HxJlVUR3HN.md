@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Dynamite Shakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,111 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,109 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [To The Stars](https://open.spotify.com/track/4u5jUGDL4LHtvVFVtluetG) | [Best Case Scenario](https://open.spotify.com/artist/10CEXZjoIpxVGSWyrmf3X0) | [To The Stars](https://open.spotify.com/album/5Dotk6Ql6EXKCtI7vw8yvP) | 4:21 |
 | 50 | [State of Alert](https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk) | [Frustration](https://open.spotify.com/artist/4OAmUQMp9sTuvo55MxGUq4) | [State of Alert](https://open.spotify.com/album/1DngFsP3tBPG8zS6umkCso) | 2:19 |
 
-Snapshot ID: `MCxkM2YyMGQ1MjZlMGM0M2Y3MWM1MzUxNTQxZTY4M2M2NjJlZDRiNjI2`
+Snapshot ID: `MCxmNWVjOTAxNzgyZDg2MDUyMzBiNDZjZjczOGE1NzQ5M2FiYWZiY2Jl`

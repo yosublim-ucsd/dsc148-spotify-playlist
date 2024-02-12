@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 206620,
+  "2024-02-12": 206661,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -7213,7 +7213,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 161589,
       "name": "Face 2 Face (feat. Mads Langer)",
       "url": "https://open.spotify.com/track/68weL3i8BCr9JtVx8MsUq8"
@@ -7449,6 +7449,24 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "FEAR NOBODY",
+        "url": "https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166352,
+      "name": "FEAR NOBODY",
+      "url": "https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu"
     },
     {
       "album": {
@@ -8816,6 +8834,24 @@
     },
     {
       "album": {
+        "name": "Hvis Du T\u00f8r At Dr\u00f8mme",
+        "url": "https://open.spotify.com/album/5Hra4hU5wEPdkGhrG6dfKO"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193217,
+      "name": "Gangen",
+      "url": "https://open.spotify.com/track/1b4EXBzooRSOuQFGJaZOe8"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -9111,7 +9147,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 180014,
       "name": "Glem Mit Navn (feat. Malte Ebert)",
       "url": "https://open.spotify.com/track/51OnvwUkEqRkwHeQQ5pOMX"
@@ -19492,6 +19528,32 @@
     },
     {
       "album": {
+        "name": "The Highlights (Deluxe)",
+        "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB"
+    },
+    {
+      "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
@@ -19511,7 +19573,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -22890,6 +22952,24 @@
     },
     {
       "album": {
+        "name": "Stemmer",
+        "url": "https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147485,
+      "name": "Stemmer",
+      "url": "https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4"
+    },
+    {
+      "album": {
         "name": "DK GOAT",
         "url": "https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ"
       },
@@ -23435,7 +23515,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 143178,
       "name": "Sv\u00e6rt At Elske Dig",
       "url": "https://open.spotify.com/track/1DAgXpkM6bcSbFbm7PXAFe"

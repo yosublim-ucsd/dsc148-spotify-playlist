@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:نوال الكويتية
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,495 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,513 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moawari Al Atab](https://open.spotify.com/track/3qNy2bp2JmGzUToF4hbPUt) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Moawari Al Atab](https://open.spotify.com/album/0tiPriiPbSb4WrLz7iM3WW) | 3:23 |
+| 1 | [مواري العتب](https://open.spotify.com/track/2RThTA4dBEwcFKKgb1kOte) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [مواري العتب](https://open.spotify.com/album/2ht6dn0XQGc4a9sPK3DuDK) | 3:23 |
 | 2 | [Tekfa La Tezaal](https://open.spotify.com/track/1PQUoFUEup1srdXYs589eX) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tekfa La Tezaal](https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO) | 4:10 |
 | 3 | [Jeetk](https://open.spotify.com/track/7M0FzzZNLa4hicFxzfaviH) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [Fahad 2024](https://open.spotify.com/album/4uEthD59d5aDXHxdRVh5Jy) | 3:47 |
 | 4 | [Marrah Shukran](https://open.spotify.com/track/15nHtBKqeXFoMgZWk9jOAL) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Marrah Shukran](https://open.spotify.com/album/1HSVMXgW4TD6T0WOSKDLje) | 6:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Tmmor Jarhi](https://open.spotify.com/track/2kGTKsmne0Cpq3IWHOUGOi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Tmmor Jarhi](https://open.spotify.com/album/48gEAuMdpxSycv3wpFJc8O) | 4:23 |
 | 50 | [Tkhawfni](https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Tkhawfni](https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX) | 5:00 |
 
-Snapshot ID: `MCxlNWUwMWFkZTM0YWIxNzQwZWQ0ZWY3NjQwMDdhMjFkMTMwNDU5M2Mw`
+Snapshot ID: `MCw4MDA3YmFmYzBkMGEwYWU0MTg4ZTA5NGI2OTVkNzUwZmNhNmM2OWY2`

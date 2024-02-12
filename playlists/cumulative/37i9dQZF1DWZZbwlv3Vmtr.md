@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-881 songs - 1 day 10 hr 14 min
+882 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A Walk In The Park](https://open.spotify.com/track/7pVrmqr17ArAKyXcJn7SCB) | [Jamie Von Chill](https://open.spotify.com/artist/02cAa2Hlx1rHiBoam4mAO2) | [A Walk In The Park](https://open.spotify.com/album/2Gu0OnHJgCGB1cIC1PU1kp) | 2:26 | 2022-10-28 |  |
 | [Acting Out](https://open.spotify.com/track/0499UUSNO6l4Jc4apURe0U) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Acting Out](https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9) | 1:59 | 2023-09-08 |  |
 | [actually](https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [actually](https://open.spotify.com/album/2ypI9Zr48QaenckUpp8SgA) | 2:01 | 2023-01-06 |  |
-| [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 |  |
+| [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 | 2024-02-12 |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-15 | 2022-04-22 |
 | [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 | 2022-05-20 | 2023-11-17 |
 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 | 2023-10-13 |  |
@@ -254,6 +254,7 @@
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2023-10-27 |
 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 | 2022-07-01 | 2022-07-29 |
 | [Gliding](https://open.spotify.com/track/5tFHUZ0Qldkq8B3OzhgoTm) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [Gliding](https://open.spotify.com/album/6qJG6AhrAb4wxIuR1fsKjp) | 1:43 | 2023-04-03 |  |
+| [Glitch Flower](https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Glitch Flower](https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO) | 2:52 | 2024-02-09 |  |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-04-15 | 2022-06-03 |
 | [glossy window](https://open.spotify.com/track/2AG1nSGB6J9xEQOIm1Dyc8) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [glossy window](https://open.spotify.com/album/0AoH1D4zGLEW72v3xI91QR) | 2:10 | 2022-07-01 |  |
 | [Glowing Willow](https://open.spotify.com/track/4oEnDh6kO0qc92pFabcgEV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA) | 2:27 | 2022-11-11 | 2023-10-06 |

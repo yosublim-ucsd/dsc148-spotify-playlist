@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,501 likes - 145 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,507 likes - 145 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 144 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 |
 | 145 | [Tell Me That Fairytale](https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Tell Me That Fairytale](https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj) | 3:24 |
 
-Snapshot ID: `MCxiMTY4NDYyYjJjZWEwMGExNWM4MWFjYmE4NGY3NzVhZTg2OGNlZjVm`
+Snapshot ID: `MCw4ZjM5ZmI4NjZkNDJiZDkyMTc2ZmIwNzc4YWM1ODc5MmUzMmQ4ZWU5`

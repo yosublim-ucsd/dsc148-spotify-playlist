@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 215329,
+  "num_followers": 215361,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzliNTNlMWEyYzJlNWJkNzgwYzdkMDBmZmE5N2VmNTc1ODM5ZmFi",
+  "snapshot_id": "MCwzNzdiZTk4YzNjNTdiNmQ3YzQzYTg5MmZkYjYxZTNiNjRmM2JmMDVi",
   "tracks": [
     {
       "added_at": "2024-01-26 07:48:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2024-01-26 07:48:30",
-      "album": {
         "name": "After Dark 4",
         "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
-        "name": "FOREVERANDEVERNOMORE",
-        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
         }
       ],
-      "duration_ms": 239640,
-      "name": "Who Gives a Thought",
-      "url": "https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV"
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
     },
     {
       "added_at": "2024-01-26 07:48:30",
@@ -759,18 +743,18 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        "name": "FOREVERANDEVERNOMORE",
+        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+      "duration_ms": 239640,
+      "name": "Who Gives a Thought",
+      "url": "https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV"
     },
     {
       "added_at": "2024-01-26 07:48:30",
@@ -791,6 +775,22 @@
       "duration_ms": 242000,
       "name": "Thin Air (WaterBABii_MiiX)",
       "url": "https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE"
+    },
+    {
+      "added_at": "2024-01-26 07:48:30",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2024-01-26 07:48:30",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 196891,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
+    },
+    {
+      "added_at": "2024-01-26 07:48:30",
+      "album": {
         "name": "Calla",
         "url": "https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 196891,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
-    },
-    {
-      "added_at": "2024-01-26 07:48:30",
-      "album": {
         "name": "Karada",
         "url": "https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
-        "name": "The Disorder of Appearances",
-        "url": "https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX"
-      },
-      "artists": [
-        {
-          "name": "Ginevra Nervi",
-          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
-        }
-      ],
-      "duration_ms": 394293,
-      "name": "An Interior of Strange Beauty",
-      "url": "https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu"
-    },
-    {
-      "added_at": "2024-01-26 07:48:30",
-      "album": {
         "name": "Dois Litorais",
         "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
       },
@@ -1203,34 +1187,18 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
-        "name": "Eulo Cramps",
-        "url": "https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO"
+        "name": "The Disorder of Appearances",
+        "url": "https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX"
       },
       "artists": [
         {
-          "name": "Call Super",
-          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
         }
       ],
-      "duration_ms": 362108,
-      "name": "Glossy Bingo Stain",
-      "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
-    },
-    {
-      "added_at": "2024-01-26 07:48:30",
-      "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 282863,
-      "name": "A Garden by the Sea",
-      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
+      "duration_ms": 394293,
+      "name": "An Interior of Strange Beauty",
+      "url": "https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu"
     },
     {
       "added_at": "2024-01-26 07:48:30",
@@ -1251,6 +1219,22 @@
     {
       "added_at": "2024-01-26 07:48:30",
       "album": {
+        "name": "Eulo Cramps",
+        "url": "https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO"
+      },
+      "artists": [
+        {
+          "name": "Call Super",
+          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "Glossy Bingo Stain",
+      "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
+    },
+    {
+      "added_at": "2024-01-26 07:48:30",
+      "album": {
         "name": "An Ocean",
         "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 259648,
       "name": "An Ocean",
       "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
+    },
+    {
+      "added_at": "2024-01-26 07:48:30",
+      "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 282863,
+      "name": "A Garden by the Sea",
+      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
     },
     {
       "added_at": "2024-01-26 07:48:30",

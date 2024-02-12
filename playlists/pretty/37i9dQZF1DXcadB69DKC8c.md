@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,653 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,699 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 59 | [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 |
 | 60 | [Sound of Washint & Masinko \(feat\. Mulatu Astatke\)](https://open.spotify.com/track/2CdBbAcbd9FHbT8xO2C721) | [Tukul Band](https://open.spotify.com/artist/34XOIFTcNr5KJbhUaXDZIf), [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Addis 1988 \(feat\. Mulatu Astatke\)](https://open.spotify.com/album/2sonNCd7qfzjIAkEZXM24M) | 3:33 |
 
-Snapshot ID: `MCwxNDAzMjJjMThiNjMyNzBjZjIzYWNhZDE1MzJkMGVmMWI1OTczNDAx`
+Snapshot ID: `MCw3MjBjNjliNjVmNGUxMWNhYjczN2NkNWQ2YmYxYWY5Mjc0NWQzMmZh`

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 25224,
+  "num_followers": 25239,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmIxZTNkMTFlODU3MDViYmUyY2ZmNTY2M2ZkNzExNjkwYjU4NzQ4",
+  "snapshot_id": "MCw1YzE1MDRjZDdlODI1MmFmZjYxNmVmNjdiNDcxN2IwY2I3OTk3OTZj",
   "tracks": [
     {
       "added_at": "2024-01-23 18:33:16",
@@ -755,8 +755,8 @@
     {
       "added_at": "2024-01-23 18:33:16",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 05",
-        "url": "https://open.spotify.com/album/5QndRvH8n01jpqNf4gDhbe"
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05",
+        "url": "https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
         }
       ],
-      "duration_ms": 288440,
-      "name": "\u30e9\u30d6\u30fb\u30dc\u30ca\u30da\u30c6\u30a3\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/0Mr2zkWpiKi3ygTicq0vZM"
+      "duration_ms": 244073,
+      "name": "VERY BERRY LOVE",
+      "url": "https://open.spotify.com/track/7gzthuIzXzuEkd4YQXTOLk"
     },
     {
       "added_at": "2024-01-23 18:33:16",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-23 18:33:16",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
-        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u5ddd\u96db\u83dc (CV.\u5ca1\u54b2\u7f8e\u4fdd)",
-          "url": "https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "\u3042\u304a\u305e\u3089\u30b5\u30a4\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl"
-    },
-    {
-      "added_at": "2024-01-23 18:33:16",
-      "album": {
         "name": "VOY@GER",
         "url": "https://open.spotify.com/album/7A4Smsvs75oTc1uHBwzlF4"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 339133,
       "name": "VOY@GER",
       "url": "https://open.spotify.com/track/1XpmPaXl4Hct0ZTtTZnEPb"
+    },
+    {
+      "added_at": "2024-01-23 18:33:16",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
+        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u96db\u83dc (CV.\u5ca1\u54b2\u7f8e\u4fdd)",
+          "url": "https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "\u3042\u304a\u305e\u3089\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl"
     },
     {
       "added_at": "2024-01-23 18:33:16",

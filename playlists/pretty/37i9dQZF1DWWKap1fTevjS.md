@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,333 likes - 287 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,399 likes - 287 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 286 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 |
 | 287 | [Hallowed](https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [Le Murmure de Papeete](https://open.spotify.com/album/7knm1iMUlIIFMvXft32QQD) | 3:08 |
 
-Snapshot ID: `MCwyZGQ0MjM4MWNjM2Q4YmIxZWQ0YWUxOTBkNTk0YzY4ODZjZmM0YTU0`
+Snapshot ID: `MCw2OWYzNzg1MWE4M2ZmN2MxYTRkNTI2NWZjNWNkYWRlNjc5ZjRkNmQy`

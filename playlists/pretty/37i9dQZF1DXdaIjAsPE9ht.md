@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,589 likes - 78 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,660 likes - 78 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 77 | [Warm Breeze](https://open.spotify.com/track/5IzOMzubd43MqIdJWYvB0r) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm) | [Arcadia](https://open.spotify.com/album/4mMzW0uhJuEXfmkdhZH9bK) | 2:39 |
 | 78 | [Distance](https://open.spotify.com/track/4TDmvOpMxFoF7MX6gQh1Ld) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Philip Somber](https://open.spotify.com/artist/3xJD9x3Dw6g4g5naFYe0qi) | [Forest Of Dreams](https://open.spotify.com/album/7GubKoMp9Lr1XqEtpspcZI) | 3:05 |
 
-Snapshot ID: `MCw5MTdlZDJhNjAyNmViNTUzMTA1MjlkMTIwNWNmMjYyMmI3MTc4MzIz`
+Snapshot ID: `MCw1ODMxYWEyNjY0YzEwZjA1Mjg3NjYyYjk4MThjMDMzNTliN2QzMmVh`

@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11656,
+  "num_followers": 11665,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWQ4NGU1NWI4ZWViNTc5MTY2YzA4ZTFjNTdhODA5OGMxODY4YTQ4",
+  "snapshot_id": "MCw2ZjZjMmU4NWVmZWRlNzRiYzE5MzdmMjIyY2Q5MmJkMjc0OTAzOTNj",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 152931,
-      "name": "SP12 Beat",
-      "url": "https://open.spotify.com/track/2ouEiUmToYQClbXbSIF2T2"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Ege Bamyasi (Remastered Version)",
         "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 214066,
       "name": "Vitamin C - 2004 Remastered Version",
       "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 152931,
+      "name": "SP12 Beat",
+      "url": "https://open.spotify.com/track/2ouEiUmToYQClbXbSIF2T2"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Future Days (Remastered Version)",
+        "url": "https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mars Audiac Quintet",
-        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Wow And Flutter",
-      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Chase the Tear",
         "url": "https://open.spotify.com/album/7ofIuqyYYYTu1MbgDJgef4"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Future Days (Remastered Version)",
-        "url": "https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w"
+        "name": "Mars Audiac Quintet",
+        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
       },
       "artists": [
         {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb"
+      "duration_ms": 188933,
+      "name": "Wow And Flutter",
+      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -839,6 +839,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Ege Bamyasi (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "duration_ms": 335199,
+      "name": "One More Night - 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Murder of the Universe",
         "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 189040,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -919,18 +935,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ege Bamyasi (Remastered Version)",
-        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
+        "name": "Know by Heart",
+        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
       },
       "artists": [
         {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
         }
       ],
-      "duration_ms": 335199,
-      "name": "One More Night - 2004 Remastered Version",
-      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
+      "duration_ms": 217133,
+      "name": "Like Foxes Through Fences",
+      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2023-03-23 20:53:14",
@@ -947,22 +963,6 @@
       "duration_ms": 209630,
       "name": "Record Still Spinning",
       "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Know by Heart",
-        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
-      },
-      "artists": [
-        {
-          "name": "The American Analog Set",
-          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Like Foxes Through Fences",
-      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Faust IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
-      },
-      "artists": [
-        {
-          "name": "Faust",
-          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
-        }
-      ],
-      "duration_ms": 708813,
-      "name": "Krautrock - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Stars Are the Light",
         "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 288031,
       "name": "The World and the Sun",
       "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Faust IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
+      },
+      "artists": [
+        {
+          "name": "Faust",
+          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
+        }
+      ],
+      "duration_ms": 708813,
+      "name": "Krautrock - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
-      },
-      "artists": [
-        {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
-    },
-    {
       "added_at": "2023-01-12 03:40:17",
       "album": {
         "name": "Ghost Power",
@@ -1307,6 +1291,22 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
-      },
-      "artists": [
-        {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
-        }
-      ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 646960,
       "name": "Pass The Hatchet, I Think I'm Goodkind",
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
+      },
+      "artists": [
+        {
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
+        }
+      ],
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1613,6 +1613,22 @@
       "url": "https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
+    },
+    {
       "added_at": "2022-11-19 05:33:06",
       "album": {
         "name": "Feorm Falorx",
@@ -1631,22 +1647,6 @@
       "duration_ms": 239107,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     }
   ],
   "unique_name": "Krautrock Highway",

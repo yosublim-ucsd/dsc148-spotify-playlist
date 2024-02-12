@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 59438,
+  "num_followers": 59467,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4",
+  "snapshot_id": "MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "For The One - Instrumental",
-      "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 260799,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "For The One - Instrumental",
+      "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 207440,
       "name": "Keep On Hoping - Piano Choir Version",
       "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I Will Remember",
         "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 351646,
       "name": "I Will Remember",
       "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Albatross EP",
-        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
-      },
-      "artists": [
-        {
-          "name": "Port Blue",
-          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Into The Sea",
-      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Young Oceans",
         "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 273960,
       "name": "Great Is Our God",
       "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Albatross EP",
+        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
+      },
+      "artists": [
+        {
+          "name": "Port Blue",
+          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hope Where There Was None",
-        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Weeping Mary",
-      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "High Level Praise",
         "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198504,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Hope Where There Was None",
+        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Weeping Mary",
+      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Hymns for Eventide",
         "url": "https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 213370,
       "name": "Nearer My God to Thee - Eventide Mix",
       "url": "https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Echoes of Wonder",
-        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 151169,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Mother's Love",
         "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 151169,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Phone to Logos",
         "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
       },
@@ -1087,6 +1087,30 @@
       "duration_ms": 447355,
       "name": "Pomegranates",
       "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Breathe My Name",
+        "url": "https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR"
+      },
+      "artists": [
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "Rachel Robinson",
+          "url": "https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Breathe My Name",
+      "url": "https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1131,30 +1155,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Breathe My Name",
-        "url": "https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR"
-      },
-      "artists": [
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        },
-        {
-          "name": "Rachel Robinson",
-          "url": "https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Breathe My Name",
-      "url": "https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I'm Healing",
         "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Universal Christ",
-        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
-      },
-      "artists": [
-        {
-          "name": "Corey Kilgannon",
-          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
-        }
-      ],
-      "duration_ms": 231424,
-      "name": "Lord Have Mercy",
-      "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Universal Christ",
+        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
+      },
+      "artists": [
+        {
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+        }
+      ],
+      "duration_ms": 231424,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Echoes of Wonder",
-        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Survive These Seas",
+        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Survive These Seas",
+      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
         "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 330226,
       "name": "Wilora Lake",
       "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Survive These Seas",
-        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Survive These Seas",
-      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Caves (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
-      },
-      "artists": [
-        {
-          "name": "Caves",
-          "url": "https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD"
-        }
-      ],
-      "duration_ms": 331026,
-      "name": "A Reason to Hide",
-      "url": "https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Higher Ways",
         "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 333750,
       "name": "Higher Ways",
       "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Caves (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
+      },
+      "artists": [
+        {
+          "name": "Caves",
+          "url": "https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD"
+        }
+      ],
+      "duration_ms": 331026,
+      "name": "A Reason to Hide",
+      "url": "https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Even Here Love Comes",
-        "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
+        "name": "Rekindle",
+        "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
       },
       "artists": [
         {
-          "name": "Todd McVicker",
-          "url": "https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo"
-        },
-        {
-          "name": "Teresa Bitoy",
-          "url": "https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2"
+          "name": "The Church Vessel",
+          "url": "https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so"
         }
       ],
-      "duration_ms": 267933,
-      "name": "Even Here Love Comes - Acoustic",
-      "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
+      "duration_ms": 327186,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
     },
     {
       "added_at": "2023-07-28 04:02:00",

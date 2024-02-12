@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Felix Cartal and Lights
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,607 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,603 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Every Body](https://open.spotify.com/track/19Q0BMjOl5DOz7ZswMFwgV) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Every Body](https://open.spotify.com/album/6EZZDBW4jSadUKZwNmUrL0) | 6:19 |
 | 65 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 |
 
-Snapshot ID: `MCxmNzBmMmM5NDA5NGI1NzgxOTUzOWRlMDhjODc4OGYxOGFmMGQ2MmI3`
+Snapshot ID: `MCxkZWNjMmU1YThkZWM0YWM0NjQ2ZGExYTljYWUzYWYwZGZmOTIzZWJh`

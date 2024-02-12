@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra</a> y <a href="spotify:artist:7uvf9bsJVUHUyiSK0aU42M">Jarrion High</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,028 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,067 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 22 | [MVP](https://open.spotify.com/track/4E6m89eLYaw4cajBsEpHCz) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG), [El Artista](https://open.spotify.com/artist/23O4ZjgHiBYcTQKciRZwI9) | [MVP](https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY) | 1:54 |
 | 23 | [Reset](https://open.spotify.com/track/3i7C37dZjN30CdPttD3vGM) | [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Reset](https://open.spotify.com/album/2dvDVeqDbEQcSR1u5e9iGk) | 3:48 |
 | 24 | [Cuarto de Guerra \(Rework\)](https://open.spotify.com/track/5uQDvYnvVBAjo63GVXCKft) | [DJ ADOS Music](https://open.spotify.com/artist/12pt9aUh9ILSjhdgkGrulk), [Lairos](https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF) | [Cuarto de Guerra \(Rework\)](https://open.spotify.com/album/7EOj7y3wYD7PlC4o8chgkt) | 3:20 |
-| 25 | [Señales](https://open.spotify.com/track/5kdL3jJoXI4nTto8HRuxL6) | [OTHO](https://open.spotify.com/artist/7dl0oqKOC3S8n5uwQqmVLM), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Señales](https://open.spotify.com/album/0WNQuTxwzXOQUUOVlQvPUo) | 2:31 |
+| 25 | [Señales](https://open.spotify.com/track/5kdL3jJoXI4nTto8HRuxL6) | [OTHO](https://open.spotify.com/artist/7dl0oqKOC3S8n5uwQqmVLM), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Señales](https://open.spotify.com/album/0WNQuTxwzXOQUUOVlQvPUo) | 2:32 |
 | 26 | [Grito De Fe](https://open.spotify.com/track/7xKkrW79SZ1n0vRQ7yXpgZ) | [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR), [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG), [R13 Prod](https://open.spotify.com/artist/363dPokVhObCLusnU9bKH8) | [Grito De Fe](https://open.spotify.com/album/4aHmL384n6w8Thwxagg1rh) | 2:45 |
 | 27 | [Activate](https://open.spotify.com/track/6UVSonLTrylfSmludIoDja) | [Miguel Montes](https://open.spotify.com/artist/1vAjRLZpOujabj1cc2izZr), [D\-One Music](https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5), [Manuel Daniel](https://open.spotify.com/artist/4OYNU0n1KojwraKKMmzuWI), [Ronald Lugo](https://open.spotify.com/artist/7Igh7ZornNldJvNYAf82rI), [Liz Razo](https://open.spotify.com/artist/73DDdJhsMS8YR6ZlXykfQx) | [Activate](https://open.spotify.com/album/1ln4mV1CjXhwbaLBPOYzYl) | 3:39 |
 | 28 | [La Paz Que Tu Me Das](https://open.spotify.com/track/1GwUj0sed50qfs6hJxWhiP) | [Lemuel Rivera](https://open.spotify.com/artist/5erplE9839sMCflAF1nb09), [Luis Fabián](https://open.spotify.com/artist/4rArd0dHJvlTE0l9Vk9fV2) | [La Paz Que Tu Me Das](https://open.spotify.com/album/4q1V1OciISigfHVJqCPHkF) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Te Coronamos \(We Crown You\)](https://open.spotify.com/track/7cIgThsfQZbTL5I1bK6Nfk) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3) | [Te Coronamos \(We Crown You\)](https://open.spotify.com/album/3fHnt2W5qqMe2N0xyA7GMp) | 7:01 |
 | 100 | [VEINTITRÉS](https://open.spotify.com/track/2WCIhxE0aKxL9aiD97lo3P) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [VEINTITRÉS](https://open.spotify.com/album/4hHI99qtidAayIdPVn8H88) | 3:13 |
 
-Snapshot ID: `MCw0NTZkZGVhN2U2ZDc2ZmMzNjJkYjcwNzIzODQwYzhkNzhhMzBlNjQ0`
+Snapshot ID: `MCw1YmY2NjcyMTBmNGI2OGYzN2U2YWE1Yzk2MmU5MmIzODIyZmU1ZTY3`

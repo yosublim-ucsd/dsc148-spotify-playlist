@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: NAV",
-  "num_followers": 10166,
+  "num_followers": 10186,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDAxM2M0OWU4ZmNlYzE5YjY5MWY0ZjYzYzE3M2VlMjMzZTIwYWYw",
+  "snapshot_id": "MCw0N2I1NGNmNjFlNThkMDMxOTA0OGRkYzdlMTU5OWY0MDI1M2JkNjA1",
   "tracks": [
     {
       "added_at": "2024-02-07 19:17:33",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-02-07 19:17:33",
       "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
+    },
+    {
+      "added_at": "2024-02-07 19:17:33",
+      "album": {
         "name": "Fleurever",
         "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 142640,
       "name": "\u2022 RIGHT NOW",
       "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
-    },
-    {
-      "added_at": "2024-02-07 19:17:33",
-      "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "WOO!",
-      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
     },
     {
       "added_at": "2024-02-07 19:17:33",

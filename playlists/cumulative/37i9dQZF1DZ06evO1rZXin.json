@@ -806,10 +806,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 141570,
       "name": "La Vaquilla Prieta",
       "url": "https://open.spotify.com/track/0jhRgpAn9jcs4zoJ7h7v1m"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "La Vaquilla Prieta",
+      "url": "https://open.spotify.com/track/1vu1ZRj7rkFTtDMEJFOStD"
     },
     {
       "album": {

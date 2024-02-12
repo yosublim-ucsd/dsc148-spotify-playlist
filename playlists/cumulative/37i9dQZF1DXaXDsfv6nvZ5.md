@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-428 songs - 1 day 1 hr 53 min
+430 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [poison \- demo](https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [poison \(demo\)](https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q) | 2:43 | 2023-06-02 | 2023-08-26 |
 | [Pool](https://open.spotify.com/track/1BsIEwG3lEAvss3L82xeeD) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [Pool](https://open.spotify.com/album/1evGeFVD7S1s4OZgm50imJ) | 3:03 | 2023-09-08 | 2024-01-26 |
 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 | 2023-05-26 |  |
+| [Probably](https://open.spotify.com/track/3Csuwc1ssq1PgGR6Ku3XcR) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Probably](https://open.spotify.com/album/1IXNYazyBofVNmyWzj1S6W) | 5:00 | 2024-02-09 |  |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2021-12-03 |  |
 | [Pros and Cons](https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pros and Cons](https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p) | 2:44 | 2023-08-18 | 2023-10-23 |
 | [Pull Up](https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:01 | 2023-05-19 |  |
@@ -325,6 +326,7 @@
 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-03-24 | 2023-05-21 |
 | [Running Outta Love \(feat\. Tori Kelly\)](https://open.spotify.com/track/5jYF7Xmvmn7sNjtuPXaXfQ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Running Outta Love \(feat\. Tori Kelly\)](https://open.spotify.com/album/5Or2V3ZWeIcdpnrFwCn1Wp) | 4:25 | 2021-12-03 | 2022-07-28 |
 | [Same Girl](https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr) | 3:02 | 2021-12-03 | 2022-10-22 |
+| [Samson](https://open.spotify.com/track/48AkypfLAIJVsCSo10HFgW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 5:17 | 2024-02-09 |  |
 | [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 | 2024-01-19 |  |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 |  |
 | [See Me](https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [See Me](https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd) | 3:30 | 2021-12-03 | 2022-07-29 |
@@ -411,7 +413,7 @@
 | [Wake Up Everybody \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Wake Up Everybody \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL) | 3:47 | 2021-12-03 | 2022-07-29 |
 | [Waterfall \(I Adore You\)](https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Waterfall \(I Adore You\)](https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9) | 4:52 | 2023-10-27 |  |
 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-10-27 | 2024-02-10 |
-| [We Found Love](https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [We Found Love](https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p) | 3:09 | 2023-09-08 |  |
+| [We Found Love](https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [We Found Love](https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p) | 3:09 | 2023-09-08 | 2024-02-12 |
 | [Weightless](https://open.spotify.com/track/1DtKIGt2v637DaiBSu5vv9) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Weightless](https://open.spotify.com/album/6QFd5hVu9jc69TXwaxxFdU) | 2:28 | 2023-07-21 | 2023-09-02 |
 | [WELCOME TO SOUL,PRESENT](https://open.spotify.com/track/0us7zsn3fg0xjJ4nzNeEHu) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:09 | 2023-05-05 | 2023-10-07 |
 | [What A Difference She Made](https://open.spotify.com/track/4kOdKWtst1d1PwERMtOWlX) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:55 | 2022-10-14 |  |
@@ -421,7 +423,7 @@
 | [What Do You Do](https://open.spotify.com/track/76To8vko0V30a8PT3q312Z) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [What Do You Do](https://open.spotify.com/album/2kgnbjCeCHMHOsPwxay0ue) | 3:08 | 2023-09-08 | 2023-10-12 |
 | [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2021-12-03 | 2023-05-21 |
 | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs) | 3:50 | 2023-06-30 | 2023-08-26 |
-| [Whatcha Done Now](https://open.spotify.com/track/76x90uvlD8lQ9SRr2FeAKx) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Thought U Knew](https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ) | 3:31 | 2023-10-27 |  |
+| [Whatcha Done Now](https://open.spotify.com/track/76x90uvlD8lQ9SRr2FeAKx) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Thought U Knew](https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ) | 3:31 | 2023-10-27 | 2024-02-12 |
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-10-03 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |

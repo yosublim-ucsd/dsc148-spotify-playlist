@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 421501,
+  "2024-02-12": 421581,
   "date_first_scraped": "2022-01-01",
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
   "name": "Smooth Jazz",
@@ -947,7 +947,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 247626,
       "name": "Co-Motion",
       "url": "https://open.spotify.com/track/4OV7oBWb9GxZVKqp9qYYw7"
@@ -4183,7 +4183,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 241480,
       "name": "Three Dee",
       "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"

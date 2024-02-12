@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 13343,
+  "num_followers": 13346,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTUyZDhkYmI1ZGVlZjA3ZGU2MTRiOGM4MTliOTJmNGY1NzE5ZTMy",
+  "snapshot_id": "MCxhOTRkY2YxY2FhMWYyNjcyZDM5Y2Q5N2YwNTYwZmEwYzE1NzdiMGE5",
   "tracks": [
     {
       "added_at": "2024-01-10 17:55:32",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Agarra",
-        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
-      },
-      "artists": [
-        {
-          "name": "Almeyda",
-          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Agarra",
-      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
         "name": "De Canciones Tristes y Otras Sutilezas",
         "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 310024,
       "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
       "url": "https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "Agarra",
+        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
+      },
+      "artists": [
+        {
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Agarra",
+      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Maleza",
-        "url": "https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd"
-      },
-      "artists": [
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "A Veces T\u00fa",
-      "url": "https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
         "name": "Chao",
         "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "El Regalito",
-        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
+        "name": "Maleza",
+        "url": "https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd"
       },
       "artists": [
         {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 151444,
-      "name": "El Regalito",
-      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
+      "duration_ms": 208541,
+      "name": "A Veces T\u00fa",
+      "url": "https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -851,6 +835,22 @@
       "duration_ms": 139688,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "El Regalito",
+        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "El Regalito",
+      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
     }
   ],
   "unique_name": "EQUAL Chile",

@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 2842,
+  "2024-02-12": 2914,
   "date_first_scraped": "2024-01-13",
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
   "name": "exams 2024",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 101647,
       "name": "1989 at the bustop",
       "url": "https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO"
@@ -1235,6 +1235,24 @@
       "duration_ms": 127276,
       "name": "c ya soon",
       "url": "https://open.spotify.com/track/38cy4dQmnps3oMyiTcQNxY"
+    },
+    {
+      "album": {
+        "name": "cabin weather",
+        "url": "https://open.spotify.com/album/0O0oH4FTGiqwi3Z0PhD1KL"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "cabin weather",
+      "url": "https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN"
     },
     {
       "album": {
@@ -6047,7 +6065,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 140625,
       "name": "Pareidolia",
       "url": "https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO"
@@ -8125,6 +8143,24 @@
       "duration_ms": 122142,
       "name": "The Day Before Yesterday",
       "url": "https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J"
+    },
+    {
+      "album": {
+        "name": "The Jam",
+        "url": "https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW"
+      },
+      "artists": [
+        {
+          "name": "Audio Phill",
+          "url": "https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99893,
+      "name": "The Jam",
+      "url": "https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q"
     },
     {
       "album": {

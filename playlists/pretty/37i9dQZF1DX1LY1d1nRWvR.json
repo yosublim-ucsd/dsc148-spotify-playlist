@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33470,
+  "num_followers": 33477,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQ4ODEwNWFhZjBkN2E1ZGQ4MjUwOGY5NjEzYWFiODgzN2VmM2Y1",
+  "snapshot_id": "MCxhNjUyNzE5NTQyNmU4MDEyMzk4NTdiYjAzYWVkMGZlMDJiNTBlZThm",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Highlife World Series: Cuba",
         "url": "https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 343283,
       "name": "2 Far Gone",
       "url": "https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "All My Troubles",
         "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+        "name": "Music is King 2019 Appreciation Mix (DJ Mix)",
+        "url": "https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
         }
       ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+      "duration_ms": 409173,
+      "name": "The Sapiens (Original Mix) [Mixed]",
+      "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -827,22 +843,6 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Music is King 2019 Appreciation Mix (DJ Mix)",
-        "url": "https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        }
-      ],
-      "duration_ms": 409173,
-      "name": "The Sapiens (Original Mix) [Mixed]",
-      "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
     },
     {
       "added_at": "2021-10-08 17:36:35",

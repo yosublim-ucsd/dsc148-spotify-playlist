@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 209108,
+  "num_followers": 209213,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjEwMmFkZmExODM0MTdjOWZhNjY3MWNhMTlkOGQ0MWNjOGJlYTdi",
+  "snapshot_id": "MCxkNmNmNDQ2MDc4N2Y4ZTQyNzcwZjgzMWFmNjc4ZjhmMjVmNjk1ZDZh",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1395,18 +1395,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Save Our Ship (SOS)",
-        "url": "https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA"
+        "name": "Aftertaste (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
       },
       "artists": [
         {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
         }
       ],
-      "duration_ms": 197169,
-      "name": "Save Our Ship (SOS)",
-      "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
+      "duration_ms": 197082,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
     }
   ],
   "unique_name": "crying on the dance floor",

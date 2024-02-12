@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 368630,
+  "num_followers": 369125,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjUyYzI0NDk4Y2JmMzYxZDkxY2U0OTdjOWVhZmYzYWU5N2Q5NjVj",
+  "snapshot_id": "MCxhM2MyYWI5MTgxMjY3NGM1M2NhZTdmNjAzOGRiMGQ1MDI5MjQ2ZmRi",
   "tracks": [
     {
       "added_at": "2024-01-31 16:04:54",
@@ -51,6 +51,22 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
-        "name": "Montagem Mysterious Game",
-        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 103495,
-      "name": "Montagem Mysterious Game",
-      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
       "added_at": "2024-01-31 16:04:54",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-31 16:04:54",
       "album": {
-        "name": "REI DO BRASIL",
-        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
-      },
-      "artists": [
-        {
-          "name": "Seek",
-          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
-        }
-      ],
-      "duration_ms": 97846,
-      "name": "REI DO BRASIL",
-      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
-    },
-    {
-      "added_at": "2024-01-31 16:04:54",
-      "album": {
         "name": "Scopin",
         "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 91875,
       "name": "WINTER ARC FUNK",
       "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
+    },
+    {
+      "added_at": "2024-01-31 16:04:54",
+      "album": {
+        "name": "REI DO BRASIL",
+        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        }
+      ],
+      "duration_ms": 97846,
+      "name": "REI DO BRASIL",
+      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
     },
     {
       "added_at": "2024-01-31 16:04:54",

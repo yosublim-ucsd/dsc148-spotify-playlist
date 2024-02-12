@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 215803,
+  "num_followers": 215959,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmE0YjQyZjk5MTdjYzVlZTFlZmMzM2U3ZmU3ZTlmNDg3NzRjYWJl",
+  "snapshot_id": "MCxmYjc5MzNjZjU1MDg2ZDc4ZGJjNWUwMWY2NjQzY2U1MDIwZjI3MzQ2",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -267,6 +267,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 142693,
+      "name": "The Theme from \"A Summer Place\"",
+      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
         "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 233600,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 142693,
-      "name": "The Theme from \"A Summer Place\"",
-      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -607,18 +607,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Music To Watch Girls By",
-        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
+        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
+        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "Johnny Pearson",
+          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
         }
       ],
-      "duration_ms": 111026,
-      "name": "Music to Watch Girls By",
-      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
+      "duration_ms": 220240,
+      "name": "Sleepy Shores",
+      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -639,18 +639,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
-        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+        "name": "Music To Watch Girls By",
+        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
       "artists": [
         {
-          "name": "Johnny Pearson",
-          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 220240,
-      "name": "Sleepy Shores",
-      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+      "duration_ms": 111026,
+      "name": "Music to Watch Girls By",
+      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -907,6 +907,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Orange Blossom Special And Wheels",
+        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 128785,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 216800,
       "name": "Amore Grande Amore Libero",
       "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Orange Blossom Special And Wheels",
-        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 128785,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 142986,
       "name": "Les Parapluies de Cherbourg",
       "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1175,22 +1191,6 @@
       "duration_ms": 162586,
       "name": "Never On Sunday",
       "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2021-12-23 15:47:25",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
-      },
-      "artists": [
-        {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
-        }
-      ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
         "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 135613,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+      },
+      "artists": [
+        {
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
+        }
+      ],
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Regar La Polilla",
-        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Pimentel",
-          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Avengers and Other Top Sixties Themes",
         "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 190840,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "A Regar La Polilla",
+        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
-      },
-      "artists": [
-        {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Roger Williams Greatest Hits",
         "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 181866,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
+      },
+      "artists": [
+        {
+          "name": "The Shadows",
+          "url": "https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Norwegian Rain",
+        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
+      },
+      "artists": [
+        {
+          "name": "Kristin Amarie",
+          "url": "https://open.spotify.com/artist/0lhOm4jmoIIpcz37f8GTuK"
+        },
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "The Approaching Storm",
+      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "16 Joyas Del New Age",
         "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 173616,
       "name": "Moon Over Montevideo",
       "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Norwegian Rain",
-        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
-      },
-      "artists": [
-        {
-          "name": "Kristin Amarie",
-          "url": "https://open.spotify.com/artist/0lhOm4jmoIIpcz37f8GTuK"
-        },
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "The Approaching Storm",
-      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Celebration: A Musical Journey",
+        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '77",
+          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Promise Of A Fisherman (Promessa De Pescador)",
+      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Favoritas Instrumentales,Vol. 4",
         "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Celebration: A Musical Journey",
-        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '77",
-          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Promise Of A Fisherman (Promessa De Pescador)",
-      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
     },
     {
       "added_at": "2020-12-08 19:02:01",

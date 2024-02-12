@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Hear the world in new ways with music from National Geographic’s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,052 likes - 66 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,065 likes - 66 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 | 65 | [OSR I \- I](https://open.spotify.com/track/13qZ7N4ODXqGRsDf5Oo8tu) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [One Strange Rock \(Original Series Soundtrack\)](https://open.spotify.com/album/4dZsbLj46oJBifrProWgG6) | 3:54 |
 | 66 | [The Hostile Planet](https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hostile Planet: Volume 1 \(Original Series Score\)](https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ) | 2:07 |
 
-Snapshot ID: `MCwwN2RhOTRkMjAwNmIwZjVmNTA0Nzk5ZjBhZjllMjczNjc4MTJjZWE4`
+Snapshot ID: `MCw4MmNmMjBkYWIzM2M0NzRhYzQ2NTkzZjNjNTBmNWQ4MDhmZjYxNzg3`

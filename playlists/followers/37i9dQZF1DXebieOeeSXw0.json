@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 13151,
+  "2024-02-12": 13159,
   "date_first_scraped": "2023-05-16",
   "description": "The amazing sounds of the tropics.",
   "name": "Tropicana",
@@ -3455,7 +3455,7 @@
     {
       "album": {
         "name": "La Mamba Te Invita",
-        "url": "https://open.spotify.com/album/0VyuMarOb6akgrVKyIV1jj"
+        "url": "https://open.spotify.com/album/2BV8ivuwdrTCZCRrg8Lyop"
       },
       "artists": [
         {
@@ -3466,6 +3466,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233637,
+      "name": "La Mamba Te Invita",
+      "url": "https://open.spotify.com/track/1roAXVa9BZDaQcDYDoTlrt"
+    },
+    {
+      "album": {
+        "name": "La Mamba Te Invita",
+        "url": "https://open.spotify.com/album/0VyuMarOb6akgrVKyIV1jj"
+      },
+      "artists": [
+        {
+          "name": "La Mambanegra",
+          "url": "https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-11",
       "duration_ms": 233637,
       "name": "La Mamba Te Invita",
       "url": "https://open.spotify.com/track/2i4TqpwXwchnpTQDtus4a6"

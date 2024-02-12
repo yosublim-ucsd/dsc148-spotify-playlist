@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
-  "num_followers": 8536,
+  "num_followers": 8542,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmVjMTlmYjYyNTEzZDdiNDUyZjFlNzMxNTk2ZTFkZDljOWFkMjY0",
+  "snapshot_id": "MCw3M2Q4MWNkMzdjYmM2MzYyOTYzNGEzNjM1MzdmMDQxNGE3ZTIzNWE5",
   "tracks": [
     {
       "added_at": "2024-02-09 00:02:00",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
-      },
-      "artists": [
-        {
-          "name": "Chxf Barry",
-          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "Nick Souza",
-          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
-        }
-      ],
-      "duration_ms": 190144,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 193249,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
+      },
+      "artists": [
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "Nick Souza",
+          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
+        }
+      ],
+      "duration_ms": 190144,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Wuse II (feat. Odunsi)",
-        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 269552,
-      "name": "Wuse II",
-      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
         "name": "Smooth Criminal",
         "url": "https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 172800,
       "name": "China Designer",
       "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "Wuse II (feat. Odunsi)",
+        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 269552,
+      "name": "Wuse II",
+      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE"
+      },
+      "artists": [
+        {
+          "name": "The Forbidden",
+          "url": "https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
         "name": "Passport",
         "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
       },
@@ -1155,30 +1179,6 @@
       "duration_ms": 213333,
       "name": "Lagos (Everyday)",
       "url": "https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE"
-      },
-      "artists": [
-        {
-          "name": "The Forbidden",
-          "url": "https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx"
-        },
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        },
-        {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

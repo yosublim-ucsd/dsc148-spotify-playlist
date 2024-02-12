@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Parteum
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,231 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,244 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Individualista](https://open.spotify.com/track/4loexMkB3JfT0fYhg60lPr) | [PTK OG](https://open.spotify.com/artist/2az8mt2cDvhlwwizHoCydF), [HC](https://open.spotify.com/artist/1lMQcybf05zgSd48GCPCLT), [prodbasti](https://open.spotify.com/artist/5QTPbRSGSNYeda25Vcqafa) | [Individualista](https://open.spotify.com/album/6A9pypv4j4aDHMMFVufQLk) | 2:38 |
 | 75 | [Poli Sci \(Linhas De Peso\)](https://open.spotify.com/track/4LcDTrUNslaxrivCahTZ5i) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Poli Sci \(Linhas De Peso\)](https://open.spotify.com/album/0x7JxMACS8alYr9f9YvopS) | 2:51 |
 
-Snapshot ID: `MCxjZWU0MDA2ZDJhZWMzMjNkYjg0ZWQ3YWNlZDk1MGQ1ZjY3Njc4OGEy`
+Snapshot ID: `MCxhZTI1MjVlZDgzYjRkZjQyNmQ2ZGU4ZWFiYWExOTUwYjllY2IxNWE2`

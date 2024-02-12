@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 365004,
+  "2024-02-12": 365107,
   "date_first_scraped": "2023-07-30",
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
   "name": "Los 2000 Argentina",
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 234753,
       "name": "Complicado y Aturdido / Mulher de Fases",
       "url": "https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30"
@@ -1157,6 +1157,24 @@
       "duration_ms": 282893,
       "name": "Pac\u00edfico",
       "url": "https://open.spotify.com/track/2LOw9ga2cBnxffMtqpDj5j"
+    },
+    {
+      "album": {
+        "name": "Civilizaci\u00f3n",
+        "url": "https://open.spotify.com/album/0aPjWHFy8wvMwUBhWVq6TV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282893,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/35l6OodGnwtOdA3gu9PE0e"
     },
     {
       "album": {

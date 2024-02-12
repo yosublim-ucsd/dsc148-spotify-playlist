@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,667 songs - 1 day 10 hr 51 min
+1,669 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Deep Love](https://open.spotify.com/track/2QcN3Qj70hATPDcMgvXM50) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Present](https://open.spotify.com/album/7iNVMa6OBF7uixhm3CCb20) | 1:04 | 2022-01-12 |  |
 | [Deep Ocean Love](https://open.spotify.com/track/6yt1GUomZZlUPni7Hk98le) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Overcome](https://open.spotify.com/album/2P1dLjwu0Pwq46QZFOiwMX) | 1:03 | 2022-04-29 |  |
 | [Deep Peace](https://open.spotify.com/track/4IM8omw7AMaEqo7GOr1O9Z) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Peace In The Valley](https://open.spotify.com/album/3QnGMS9zCvuSDGB5OCKeqy) | 1:01 | 2022-10-27 |  |
+| [Deep Silence](https://open.spotify.com/track/6aMwpNw1yEqmTUpFch2TyC) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Afternoons](https://open.spotify.com/album/67GF4s8iNVzIFneqrd8UsL) | 1:00 | 2024-02-11 |  |
 | [Deep Slumber](https://open.spotify.com/track/702t7ndwehwB24ETTQpXZr) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:01 | 2022-03-18 |  |
 | [Deep Trust](https://open.spotify.com/track/2M3xe4J28kYqFK7GlJs3Q8) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Silent Moments](https://open.spotify.com/album/7ElTb4v89gDTEgMyANjw0s) | 1:02 | 2022-05-09 |  |
 | [Deep Within](https://open.spotify.com/track/70QlOJoE9Pm63UVpeBJoig) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
@@ -477,6 +478,7 @@
 | [Enter](https://open.spotify.com/track/2GhiJqDJH0ZrobgLAx3140) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Spring Reflections](https://open.spotify.com/album/4eY1601yvpJts5SRxdIR3V) | 1:01 | 2023-05-23 |  |
 | [Entrance](https://open.spotify.com/track/6dGdoxILQLlzY53ioebL8J) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:06 | 2022-01-12 |  |
 | [Epiphany](https://open.spotify.com/track/0wfJf6rBNeWbEqxCDPIpPF) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Epiphany](https://open.spotify.com/album/2gKqOBWk3TJpK6kxaoloNR) | 1:01 | 2022-06-18 |  |
+| [Epiphany](https://open.spotify.com/track/3Le8RtrEcTAeunCW7lP4I7) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Afternoons](https://open.spotify.com/album/67GF4s8iNVzIFneqrd8UsL) | 1:00 | 2024-02-11 |  |
 | [Eternal Lights](https://open.spotify.com/track/7GKshtIrk5XPndYI1dZkf9) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
 | [Etiquette](https://open.spotify.com/track/0w5IxASdcsL3cm5hgdmZl0) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK), [Brique a Braq](https://open.spotify.com/artist/5SkCoDbdYJn9RkWHTa1CUF) | [Etiquette](https://open.spotify.com/album/6YotdvtodHrZbDsNxOJZgl) | 2:30 | 2022-01-12 | 2023-04-09 |
 | [Evanescent](https://open.spotify.com/track/46b5bZRYrsyWXxVjzHD4QB) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Evanescent](https://open.spotify.com/album/5C41RQX8jeD0usLx7kA1wD) | 1:49 | 2022-01-12 | 2024-01-30 |

@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-176 songs - 9 hr 46 min
+177 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 | 2022-12-08 | 2024-01-30 |
 | [Electronic](https://open.spotify.com/track/0dJ2XvnUNk1BzvKAkXEIL9) | [JNXD](https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [Electronic](https://open.spotify.com/album/3y2g6ukf1ZhFikUu6YQd84) | 3:24 | 2023-02-02 | 2023-03-14 |
 | [Euphoria](https://open.spotify.com/track/1MZQzrlsp8Lg4Zo8fBdJJ9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Euphoria](https://open.spotify.com/album/49tzGjcmL5kKOTJWloKggq) | 4:00 | 2022-12-08 | 2023-03-31 |
-| [Exhale](https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Exhale](https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU) | 3:32 | 2022-12-08 |  |
+| [Exhale](https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Exhale](https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU) | 3:32 | 2022-12-08 | 2024-02-12 |
 | [Face Of Chaos \- Luminite Remix](https://open.spotify.com/track/5ea5bznm32Y9VZ8qFlhZ3E) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Face Of Chaos \(Luminite Remix\)](https://open.spotify.com/album/6Kf4PF4uTxI4iARE73OYyY) | 2:18 | 2023-10-12 | 2023-11-26 |
 | [Faith Of This World \- Original Mix](https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Faith Of This World \(Original Mix\)](https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE) | 4:02 | 2022-12-08 | 2023-11-16 |
 | [Fight](https://open.spotify.com/track/5LR8IpevPBJKSyR5D8kqKu) | [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Fight](https://open.spotify.com/album/4N7kRozkMvE9IPHTIyycIW) | 2:33 | 2023-01-26 | 2023-12-05 |
@@ -151,6 +151,7 @@
 | [The Night \- Hardstyle Mix](https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1) | [Rob & Chris](https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Night \(Hardstyle Mix\)](https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1) | 2:28 | 2023-01-26 |  |
 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 | 2023-03-30 |  |
 | [The Rave Dome](https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [The Rave Dome](https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS) | 3:25 | 2023-01-26 |  |
+| [The Raven Of The Night](https://open.spotify.com/track/0oVJSca1wBgRRKaPNnos7U) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [The Raven Of The Night](https://open.spotify.com/album/0Izt8wexADXUj7P1uUCVIC) | 4:22 | 2024-01-31 |  |
 | [The Raven Of The Night](https://open.spotify.com/track/4SdCxGUYg3XRezP1VBrKAn) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [The Raven Of The Night](https://open.spotify.com/album/48NY92V1K9NtzgfH3jbOAu) | 4:22 | 2022-12-08 | 2024-01-18 |
 | [The Remedy](https://open.spotify.com/track/6cvjpsHCih5fVlKTuuZFCH) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [The Remedy](https://open.spotify.com/album/79ypf6AEAJrqpcxOY4hhrC) | 3:11 | 2023-09-07 | 2023-10-13 |
 | [The Ruling](https://open.spotify.com/track/0Z1y6vZ41GJOr59KFKfmuM) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [The Ruling](https://open.spotify.com/album/55RIZIkca0grTJTbB8WWVj) | 3:50 | 2022-12-08 | 2023-02-28 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 130470,
+  "2024-02-12": 130555,
   "date_first_scraped": "2021-12-29",
   "description": "You feel the sun on your face. ",
   "name": "Vintage Vibes: Sunny Reggae",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 117266,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/2yvfBytG7N9Z1NuVgKf0qt"
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
+    },
+    {
+      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
       },
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 310426,
       "name": "Lively Up Yourself",
       "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 189800,
       "name": "Pick Up The Pieces",
       "url": "https://open.spotify.com/track/63OEtoCA6gPrkeqe68xsN7"

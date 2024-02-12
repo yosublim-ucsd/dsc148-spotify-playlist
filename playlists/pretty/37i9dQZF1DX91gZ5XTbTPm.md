@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Icewear Vezzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,324 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,364 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Only Option \(feat\. Rob49, Luh Tyler & Loe Shimmy\)](https://open.spotify.com/track/0Qkek5mNv6UMgUyjAb80Lr) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Youngest N Charge 2](https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx) | 3:23 |
 | 50 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 |
 
-Snapshot ID: `MCxmODY0NDNjMjE5MWMyZTE1NGNiNDY1NTQzOTRlZmMzNGE0OWU4N2Zk`
+Snapshot ID: `MCwyYWQ0Mjg0MGVkNmE4YzBiNjk3NzBmYmJkMmNhNGQ5MzdhZTdjOTAy`

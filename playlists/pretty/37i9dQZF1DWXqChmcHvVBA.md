@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: Omar Varela & El Negro Tecla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,281 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,655 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 52 | [Tu Flaite](https://open.spotify.com/track/03jyAhC78tqfRqXPo73qBt) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Tu Flaite](https://open.spotify.com/album/3jgcsYhoQlc5fJ4PngwjYt) | 2:58 |
 | 53 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 |
 | 54 | [Castigo](https://open.spotify.com/track/2BDJWePEkczB34ZoDliNSr) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Castigo](https://open.spotify.com/album/1gaCJAKGUtZ4zVPn4dI4KR) | 2:26 |
-| 55 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d) | 2:21 |
+| 55 | [BLUNTED](https://open.spotify.com/track/7g3hQKnm7dxiEaVhZbjosm) | [sayc.latam](https://open.spotify.com/artist/6Q9Q2vf4nfpOgtKPi3Fak2) | [rkt 420](https://open.spotify.com/album/5KOBZxsUb0UsFCqN85GEBX) | 2:16 |
 | 56 | [Ven Mami](https://open.spotify.com/track/6pildotJolQfz6sS66RG6y) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7DUmakEvCrPVq013IrGiHD) | 2:51 |
 | 57 | [Pal Party](https://open.spotify.com/track/3sWXB7x9mwNkrHD2lFtept) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Pal Party](https://open.spotify.com/album/3J0jOvR1gVCShYy6YLWLFC) | 2:16 |
 | 58 | [Rkteando \- Remix](https://open.spotify.com/track/0EBblLqWUMgOo0LPLnszAg) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Mauri Mansilla](https://open.spotify.com/artist/5zdbvniDOPPX4mlmmimzvE) | [Rkteando \(Remix\)](https://open.spotify.com/album/0LoqDW1bluEMJkmbIwIgi2) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 99 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 |
 | 100 | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/track/6Vp8EcHAHjC9u7Qnsn2kob) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/album/7z6DWyWrMQPPCGs5H0IU67) | 3:37 |
 
-Snapshot ID: `MCxhN2Q4MTkxMjE3OTM5MDE5N2JhZGJjNWQzMmVkNjE2ZTJmNjJhYzJl`
+Snapshot ID: `MCw5YTYxMzVjZTI0OGJmYjU4ZGYzNWUxYTY4MDBjYTZiNTFjNTk4ZTFl`

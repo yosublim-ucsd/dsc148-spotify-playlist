@@ -1,5 +1,5 @@
 {
-  "2024-02-11": 608214,
+  "2024-02-12": 608381,
   "date_first_scraped": "2023-07-29",
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
   "name": "This Is Justin Timberlake",
@@ -438,6 +438,28 @@
     },
     {
       "album": {
+        "name": "Don't Slack (from Trolls World Tour)",
+        "url": "https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Don't Slack (from Trolls World Tour)",
+      "url": "https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw"
+    },
+    {
+      "album": {
         "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
       },
@@ -869,7 +891,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 240600,
       "name": "Just Sing (Trolls World Tour)",
       "url": "https://open.spotify.com/track/773kKMbHhQGq7LIw3P5Xmy"
@@ -1657,7 +1679,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 176466,
       "name": "Together Now",
       "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
@@ -1775,7 +1797,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 205306,
       "name": "Trolls Wanna Have Good Times",
       "url": "https://open.spotify.com/track/1mo8r5EwAfNElDFOQNgcQ8"

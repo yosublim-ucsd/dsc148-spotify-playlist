@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-513 songs - 19 hr 37 min
+514 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2024-01-05 |  |
 | [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2024-01-05 |  |
 | [Colores](https://open.spotify.com/track/78nzT9F1FCU7f3Qg9tQU2E) | [Tufflo](https://open.spotify.com/artist/5NBNuJ9Yv7r01DfbhTCkR5) | [Green Tea](https://open.spotify.com/album/2dJ098DRzbBvIzoftA2E3x) | 2:26 | 2024-01-05 |  |
-| [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2024-01-05 |  |
+| [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2024-01-05 | 2024-02-12 |
 | [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2024-01-05 |  |
 | [Cosmetics](https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Cosmetics](https://open.spotify.com/album/3iv3djrrxI7UnqO7J2OrVT) | 1:44 | 2024-01-05 |  |
 | [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2024-01-05 |  |
@@ -324,6 +324,7 @@
 | [No Need To Cry](https://open.spotify.com/track/2dWOhDo5tYBvEbbZHi9SVH) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [No Need To Cry](https://open.spotify.com/album/1RbJCiIwOVuMsRf6c59B1C) | 2:23 | 2024-01-05 |  |
 | [no rain today](https://open.spotify.com/track/0EJ4R1FWyczgGsdlIKgjyX) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [no rain today](https://open.spotify.com/album/0m36fSjMw8zlqjdJH2VQYg) | 1:24 | 2024-01-05 |  |
 | [No Saintz](https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [No Saintz](https://open.spotify.com/album/1S3RYqAldSKsGhupkolVOc) | 1:52 | 2024-01-05 |  |
+| [no way but up](https://open.spotify.com/track/4M7gbh6sluTRP6BXnYpzyz) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [no way but up](https://open.spotify.com/album/197jKvvY3xuS1ggGpcEdGW) | 1:46 | 2024-02-09 |  |
 | [no worriezz](https://open.spotify.com/track/1cOQS9uGWr6LzyeL9f1J4T) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [no worriezz](https://open.spotify.com/album/1EqH35TFaYcbVsqicNh55p) | 2:30 | 2024-01-05 |  |
 | [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2024-01-05 |  |
 | [Not At All](https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Not At All](https://open.spotify.com/album/69poJpRRslIWZkiasD6wHj) | 2:23 | 2024-01-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109 likes - 36 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109 likes - 20 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,21 +28,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 | 18 | [Jean Grey](https://open.spotify.com/track/38X6g3ss3eyfo1LqZ5MI8O) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Jean Grey](https://open.spotify.com/album/0MS7LbKXBqr5fLyTwi3BFi) | 3:32 |
 | 19 | [Queen Deep Inna Dub \- Original Mix](https://open.spotify.com/track/0WjS45CeYUrxaGADjaWeKx) | [Pirahnahead](https://open.spotify.com/artist/5K3U3kI5XtFGUsI4FNC2GJ), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Stephane Pompougnac Sunset Sessions](https://open.spotify.com/album/7og4gC5sOI0dhhCdCwMOst) | 5:56 |
 | 20 | [Loosing It](https://open.spotify.com/track/3GAbRB3lpvKzlb1M7lwQXu) | [Bruce Bailey](https://open.spotify.com/artist/42pW8vUOWRUD7pwRqYjfax) | [Charivari and Expressway Records Presents a FRESH Compilation](https://open.spotify.com/album/69eSCrCCBr8u13iEvaRoSl) | 6:31 |
-| 21 | [The Journey](https://open.spotify.com/track/6aMUUomgp66X5dVQtHeYgI) | [Norm Talley](https://open.spotify.com/artist/5J1fwxvTRxviCqCPwd4Lv5) | [The Journey / In Yo Soul](https://open.spotify.com/album/7dG9NDvXvrXxmVhUZeTBaJ) | 10:02 |
-| 22 | [Down \(Original Mix\)](https://open.spotify.com/track/6YaFyRsRbB2AIy6Ajea4jB) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Down](https://open.spotify.com/album/2aN1FWQGqSU86NVzRAmvCE) | 3:49 |
-| 23 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/3Jv1kO1e4IDsNye3BRycbi) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Versus Remixes, Vol\. 2](https://open.spotify.com/album/3QSpCjrcGboCIL5NSUSr1D) | 7:41 |
-| 24 | [Paris to 313](https://open.spotify.com/track/21JEClblt8TWHN7bylt0tH) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [ARNAUD PARIS](https://open.spotify.com/artist/771BX97y9cPydphKozdxxE) | [Violet Groove E.P.](https://open.spotify.com/album/7yO99oqltTRlNvJOiE9tmF) | 5:38 |
-| 25 | [Tears](https://open.spotify.com/track/2zbQbQe1EBEu5j1bkDhuwg) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Detrevolution](https://open.spotify.com/album/6Z3hO5ommQLzYZQaLNke0u) | 4:20 |
-| 26 | [Playing for Keeps](https://open.spotify.com/track/1obG4GJhU5knvTUYzK9eYC) | [Shaw Cain](https://open.spotify.com/artist/4fl4Cc71S0TwdETPDnklle) | [Playing for Keeps](https://open.spotify.com/album/5FexEqAhnP7J7jOzfEm196) | 3:50 |
-| 27 | [Monday Madness](https://open.spotify.com/track/2yj1doDjRqnLEjVfWLtMXt) | [Gayelynn McKinney](https://open.spotify.com/artist/6glmHvIoAQIouB9dTXSyeS) | [It's About Time](https://open.spotify.com/album/7uTnjpnd9cmexbwa6iw4NJ) | 3:20 |
-| 28 | [The Attic](https://open.spotify.com/track/1Kecp9T2NZfkVEyLE5PW3D) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 4:14 |
-| 29 | [WhoRU \- Mixed](https://open.spotify.com/track/6Wn1JiLvcO7HC56mYvTgsZ) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Detroit Love Vol\. 3 \- Mixed by Waajeed](https://open.spotify.com/album/5knB3nkyXkFypQLwn50g8B) | 3:43 |
-| 30 | [Hateful](https://open.spotify.com/track/2qq9tbm41uYrf43cSQnIkQ) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Detrevolution](https://open.spotify.com/album/6Z3hO5ommQLzYZQaLNke0u) | 5:05 |
-| 31 | [Do It All Night \- C2 Edit](https://open.spotify.com/track/51nh0bQyViqdb5EwU61N0S) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Do It All Night \(C2 Edit\)](https://open.spotify.com/album/59BGo4xnBlIDtGs6VkKR02) | 7:47 |
-| 32 | [A Message For The DJ](https://open.spotify.com/track/39cgFLYRr8JTOoB6rITZNl) | [Delano Smith \- Feat\. Diamondancer](https://open.spotify.com/artist/6kt9c3Zkgt0xe7QKtFpE1B) | [A Message For The DJ](https://open.spotify.com/album/79oowKJpRd5OlNhVPkuuV7) | 7:23 |
-| 33 | [A Walk In The Park \(Stay\)](https://open.spotify.com/track/6xYb2zqXFbcDfy9TMxfRO8) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Violet Groove E.P.](https://open.spotify.com/album/7yO99oqltTRlNvJOiE9tmF) | 6:39 |
-| 34 | [Change \- Mike Huckaby Remix](https://open.spotify.com/track/2U4YIbj1pXgVH2Rlg5zKyZ) | [Norm Talley](https://open.spotify.com/artist/5J1fwxvTRxviCqCPwd4Lv5), [Mike Huckaby](https://open.spotify.com/artist/7oGwEiATTm4u71R2lQhbC4) | [Detroit Beatdown Remixes 1: 1](https://open.spotify.com/album/0YRgHIIdg3vXqptEx7j0GD) | 6:55 |
-| 35 | [Namesake](https://open.spotify.com/track/3eMPNkpiw3gtUBgALHHzfZ) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX) | 4:35 |
-| 36 | [Ay](https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 2:45 |
 
-Snapshot ID: `MCxiM2U2NTlhNjA1MmUxMmJkYjNkMWU3MThhZWVkMmVkNDA4OTJlMzY3`
+Snapshot ID: `MCxkZThmOTQ3MjU1NWE2YmNlNzg1YmQxZTA3MDA0ZTkzN2RiNmU0NDFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: minor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,935 likes - 113 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,938 likes - 113 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 2 | [飛躍道 \(feat\. Martin Lau\)](https://open.spotify.com/track/2JAMdBhSe6CZNXXf0HNaKl) | [KASA](https://open.spotify.com/artist/2npcg8bjHorVxVkRyy7iFO), [Martin Lau](https://open.spotify.com/artist/1zc9R6YosRN2gnUuZnIgQ7) | [飛躍道 \(feat\. Martin Lau\)](https://open.spotify.com/album/53ATgUPfKkkX3UUEUJWNvB) | 3:55 |
 | 3 | [As Long As U Know](https://open.spotify.com/track/65MD43YuHQ72PpOefGUdHg) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [As Long As U Know](https://open.spotify.com/album/4BpKfpw1dF9PlQ2LLUw3n9) | 2:30 |
 | 4 | [我迷失在一場冒險樂園遊戲中](https://open.spotify.com/track/3LF1oy5ovdT4Oat5ie0Hjk) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [我迷失在一場冒險樂園遊戲中](https://open.spotify.com/album/1o3sNXcn8nTB4HC371nBho) | 3:54 |
-| 5 | [Escaping Light](https://open.spotify.com/track/7hjFPdPikQVL4rGzGLUo9c) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/7aoZYf0B0tnlmLpWvy2oqM) | 3:58 |
+| 5 | [Escaping Light](https://open.spotify.com/track/4N1mbP0JJxkqK1iFc3eyQj) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/5QFxrLYt1HKfeCc1nl0pps) | 3:59 |
 | 6 | [ANIMAL](https://open.spotify.com/track/622KzomkoRZAhj6aJ422y3) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [ANIMAL](https://open.spotify.com/album/3NWp4o5sMQgelznuJkpvOF) | 2:13 |
 | 7 | [拔完智齒就忘記你 Wisdom Tooth \- Demo](https://open.spotify.com/track/3wSar7lVEA07eqFLZQpVR0) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [拔完智齒就忘記你 Wisdom Tooth \(Demo\)](https://open.spotify.com/album/4ktIRZ37dUmTypNA7QhC01) | 2:03 |
 | 8 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/2ufCmx9ku6zzEsscj9YLL8) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/album/31fT2pyLNdEDKOqx7EMUYM) | 3:04 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 112 | [Coastline](https://open.spotify.com/track/2Z66x9wDJt86pFAbXbPR6C) | [lwl.](https://open.spotify.com/artist/6PYHaynPn267y1UtD257V4) | [Coastline](https://open.spotify.com/album/6P1Gca2FGs2Z8zqdFxwkxV) | 4:20 |
 | 113 | [Patterns](https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm) | [Just Bee](https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx), [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Patterns](https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6) | 3:51 |
 
-Snapshot ID: `MCw1ZWIzYjdmYjg4ODIwOWYzMmNiZDZkNmQ2NDg1M2ZiZWRhZjZlMmEz`
+Snapshot ID: `MCxiODE3N2Y4OWU4ODdlN2QwN2Q3MzU2YTU2YmVkYTQ2ZDlhZWUzZGUw`

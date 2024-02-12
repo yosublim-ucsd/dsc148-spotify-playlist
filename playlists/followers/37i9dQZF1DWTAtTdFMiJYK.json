@@ -1,7 +1,7 @@
 {
-  "2024-02-11": 153115,
+  "2024-02-12": 153223,
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Dot.",
+  "description": "Most exciting artists from the Indian Indie scene. Cover: Hansika Pareek",
   "name": "RADAR India",
   "tracks": [
     {
@@ -2275,7 +2275,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-11",
       "duration_ms": 189333,
       "name": "Just As Easily",
       "url": "https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN"
@@ -3011,6 +3011,24 @@
       "duration_ms": 199714,
       "name": "Last December",
       "url": "https://open.spotify.com/track/4BV7aMOMZYc9PfV5jW3R7j"
+    },
+    {
+      "album": {
+        "name": "Laut Aao Na",
+        "url": "https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2024-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Laut Aao Na",
+      "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
     },
     {
       "album": {

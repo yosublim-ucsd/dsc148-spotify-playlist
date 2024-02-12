@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,526 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,534 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Qualquer Lugar](https://open.spotify.com/track/0chOJa6EheSEbjy3miQn2A) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [MOBILE LAB](https://open.spotify.com/artist/5jGDIZzcLyiXnEDhMkC5Kw) | [Qualquer Lugar](https://open.spotify.com/album/6bib8zqBX9MRfSPZSoixba) | 3:21 |
 | 75 | [acordar](https://open.spotify.com/track/7LxFmCfhILQ0zWFWEqxs09) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [acordar](https://open.spotify.com/album/7H5zUnptzblSjqmu6feq72) | 4:26 |
 
-Snapshot ID: `MCw3MTQwNWExODQ5MWRmNWNkZmY0NzcwZDJlYTdmZDAzMDBlMGVhMzAw`
+Snapshot ID: `MCw3YzAwNjZjNmFiMzUxOGM3ZWIzNDMxNTc3ZWRjY2Q5YmViZDU2YzZm`
