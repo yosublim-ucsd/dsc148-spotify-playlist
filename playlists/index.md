@@ -1,4 +1,4 @@
-## Playlists \(7593\)
+## Playlists \(7594\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7169,6 +7169,7 @@
 - [hair dye](/playlists/pretty/37i9dQZF1DXcchceprrqrN.md)
 - [hardwave\~phonk](/playlists/pretty/1CAhFEJD9F97tePtX3Uje2.md)
 - [helium](/playlists/pretty/37i9dQZF1DX2St1113729e.md)
+- [here i go again on my own](/playlists/pretty/2SJ4K6IpVlsaFEwUm9LcIJ.md)
 - [hexxed](/playlists/pretty/37i9dQZF1DX7XEgl7z0Lyy.md)
 - [homegrown](/playlists/pretty/37i9dQZF1DXcArRh6x66oH.md)
 - [homework vibes](/playlists/pretty/37i9dQZF1DX3csziQj0d5b.md)
