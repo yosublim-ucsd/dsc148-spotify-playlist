@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,360 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,397 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 25 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 |
 | 26 | [Just Funkin' Around](https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:07 |
 | 27 | [Spherical \- Tiny Room Sessions](https://open.spotify.com/track/00yRwc19KZraREvNfGN3JS) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Geoffrey Keezer](https://open.spotify.com/artist/6blxY1iqiaDxSkZ1OGPUZ7), [Benjamin Shepherd](https://open.spotify.com/artist/6ci8BESJgcLNEsXczxg6nd), [Bob Reynolds](https://open.spotify.com/artist/6GcgRheAQRGpkEhsg5nG6m), [Curtis Taylor](https://open.spotify.com/artist/6BAp78tMVI0vqwkbAePCim) | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/album/4iSSl7JqEtqotfxKS8eT5Y) | 8:08 |
-| 28 | [Basilisk](https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H) | 4:29 |
+| 28 | [Basilisk](https://open.spotify.com/track/2PAQg2FbOedG2BGxZxgnxL) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Chimera](https://open.spotify.com/album/1nqEB1PcVRdPTxHAlnZ2kN) | 4:29 |
 | 29 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
 | 30 | [Help](https://open.spotify.com/track/0tdSXxG5GIFHRP4pBXJoS9) | [Hot Damn Horns & The Soul Machine](https://open.spotify.com/artist/5qfEwrYeKLDNXgyBHj6UIH) | [Help](https://open.spotify.com/album/6lWd8T8d7iBIlJSl4eiLh9) | 3:36 |
 | 31 | [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Ethiopian Airlines](https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [The Black Stone Affair](https://open.spotify.com/album/5EFN2PLtgFkIuPPZBhKfuE) | 4:00 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `MCxiZTM2ZWIyYTk0NGMxODNlMjliOTc3YjBiMDkxZTYxNjI4MmYxMWM0`
+Snapshot ID: `MCw0ZmIyMGI2Y2E5ZGM2ZTc4YWI5NDYyZmUyZjEwMmFjNjIyNjU1NjE2`

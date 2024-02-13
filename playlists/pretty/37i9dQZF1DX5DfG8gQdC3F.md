@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from USHER, Kacey Musgraves, Noah Kahan, Little Simz, Forest Blakk and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,206 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,211 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 10 | [Feel Less](https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Feel Less](https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6) | 4:01 |
 | 11 | [Sunday Service](https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sunday Service](https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n) | 2:46 |
 | 12 | [This Is Me…Now](https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me…Now](https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG) | 4:13 |
-| 13 | [lavender](https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender](https://open.spotify.com/album/3RlYqLXyEamZbjnZBIxwdi) | 2:37 |
+| 13 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 |
 | 14 | [BLACK OPS \(with Denzel Curry\)](https://open.spotify.com/track/1Cb2etQ6t2ATWoKuOpDWuF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BLACK OPS](https://open.spotify.com/album/14oDRWe0eLnUBKmekIAZkb) | 2:53 |
 | 15 | [Narcissist \(feat\. Phix\)](https://open.spotify.com/track/5GZyD9MBTiovN2dDNeHOJr) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT) | [Narcissist \(feat\. Phix\)](https://open.spotify.com/album/7x3d4sBwFfaRZeXJXAY2k6) | 3:56 |
 | 16 | [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bike Dream](https://open.spotify.com/track/0pg1rByVA1R5YFMMwCglVZ) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Bike Dream](https://open.spotify.com/album/3iKPE0lxcCIBfNACrZy04L) | 3:13 |
 | 100 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 |
 
-Snapshot ID: `MCw3YTBmNmNmMGE3MTgyN2I4ZDVmMmI3YzkzOWEyNDMxMmUyNTlhODM5`
+Snapshot ID: `MCw0Y2VmZTljYzJkMTFjOGQ0MDhhM2Y1ZjMwMDc2N2ExMjY3OWIyMjUw`

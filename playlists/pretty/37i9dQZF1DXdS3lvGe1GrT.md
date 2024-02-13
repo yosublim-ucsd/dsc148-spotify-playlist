@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,223 likes - 101 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,258 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [Where Have You Been?](https://open.spotify.com/track/7zOpXJUMnB6EZah4FBTlhJ) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Where Have You Been?](https://open.spotify.com/album/0IwOuJLDV4VMnmIPru6RCA) | 3:54 |
 | 101 | [To Be Myself Again](https://open.spotify.com/track/4AADiAUJhMYC0BC7reh12Z) | [Alaina Ray](https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr) | [To Be Myself Again](https://open.spotify.com/album/27OGLZ1R4xoijW6CwkQHnR) | 3:33 |
 
-Snapshot ID: `MCw3YzMzMmRkZWRkNzg4OTBkZmFmZWM0NGZkNTc4ZGMxOTlhZjk0ZjM5`
+Snapshot ID: `MCwzN2EzZmU0ZDdjMDA3NjJhNWRlOGVlMmFkZjI4OTRiMGQ2YTAxMDNi`

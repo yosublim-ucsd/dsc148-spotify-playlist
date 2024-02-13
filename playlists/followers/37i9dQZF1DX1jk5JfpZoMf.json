@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 122010,
+  "2024-02-13": 122004,
   "date_first_scraped": "2023-10-23",
   "description": "Nada melhor que aquela barulho de chuva para dormir ou relaxar.",
   "name": "Sons da Chuva",
@@ -327,6 +327,24 @@
       "duration_ms": 166400,
       "name": "Blue Rain",
       "url": "https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS"
+    },
+    {
+      "album": {
+        "name": "Rain Therapy",
+        "url": "https://open.spotify.com/album/7xVfQ2F2O8533K6ap1WtID"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00eetres de la pluie",
+          "url": "https://open.spotify.com/artist/3vUvrEfkUwaJbnA8Lib8nX"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143161,
+      "name": "Bonne nuit pluie",
+      "url": "https://open.spotify.com/track/1Tlo1Zhx6afHnjrws8Tgcy"
     },
     {
       "album": {
@@ -863,7 +881,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 193808,
       "name": "Downpouring",
       "url": "https://open.spotify.com/track/2nuzsRygxes6ihDsjqzYCw"

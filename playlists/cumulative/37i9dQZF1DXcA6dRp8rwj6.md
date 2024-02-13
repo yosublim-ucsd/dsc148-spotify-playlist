@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Latto\)
 
-1,828 songs - 3 day 20 hr 38 min
+1,829 songs - 3 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,7 +1099,8 @@
 | [Nobody's Perfect](https://open.spotify.com/track/4FBAEIPWqNR6YJzO00OBhu) | [Squarehead](https://open.spotify.com/artist/2WK00atpKQCYHAEReN2nD2), [Soul Khan](https://open.spotify.com/artist/7jzpXpwt8Z8pqWWHiwpf2I) | [Discount Ghost Doctor](https://open.spotify.com/album/1bwFcdXALiVwAc2YIvtirV) | 3:18 | 2023-02-24 | 2023-03-25 |
 | [Noell](https://open.spotify.com/track/0uPXXAew9PzPPUN67eQi8f) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Noell](https://open.spotify.com/album/6y5GQupAA2wwzu3uGuehKW) | 3:21 | 2023-07-06 | 2023-08-04 |
 | [Nonsense](https://open.spotify.com/track/4F9lsEUqiJlpW1SE3DQMBX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [LovebrûléeADVISORY](https://open.spotify.com/album/1VVGCxNDKpsU7ya1oOM6dI) | 2:40 | 2023-02-09 | 2023-03-25 |
-| [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 | 2024-01-18 |  |
+| [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 | 2024-01-18 | 2024-02-13 |
+| [NOROSHI](https://open.spotify.com/track/4eDcDZXIcdidReeWrrcVer) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 3:32 | 2024-02-09 |  |
 | [Not For Nothing \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Richer Than I Ever Been \(Deluxe\)](https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH) | 3:56 | 2022-01-28 | 2022-03-04 |
 | [Not Forreal](https://open.spotify.com/track/5bqnceBIYsqwOw6RB43gCt) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Orphan](https://open.spotify.com/album/4qjofDdQMKgNB66cXAPVuj) | 2:30 | 2022-07-07 | 2022-08-19 |
 | [Not Like Me](https://open.spotify.com/track/0Od2A2nGOOLPE2XTQJyUaK) | [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [Unbreakable \(Deluxe\)](https://open.spotify.com/album/5cylcDkzqTjkGb7GPhJuUr) | 2:51 | 2022-03-24 | 2022-04-08 |

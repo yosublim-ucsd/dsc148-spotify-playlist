@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-59 songs - 4 hr 5 min
+60 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Baaygo Baaygo \- From "Ringa Ringa"](https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 4:32 | 2023-07-04 |  |
 | [Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala](https://open.spotify.com/track/0QEqlOxOYO2AiO4fckwtV2) | [Reshma Sonawane](https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl) | [Wat Mazi Baghatoy Rikshavala](https://open.spotify.com/album/7b9j6LGqjdtgDdfGntjLvz) | 3:46 | 2024-01-10 |  |
 | [Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala](https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp) | [Reshma Sonawane](https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl) | [Wat Mazi Baghatoy Rikshavala](https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP) | 3:46 | 2023-07-04 | 2024-01-28 |
-| [Baharla Ha Madhumas](https://open.spotify.com/track/0eVmQAZIHRnrcPLgguW0hS) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maharashtra Shaheer](https://open.spotify.com/album/5rCE5WjJPzuVQqLqy8RJ6E) | 3:43 | 2023-12-20 |  |
+| [Baharla Ha Madhumas](https://open.spotify.com/track/0eVmQAZIHRnrcPLgguW0hS) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maharashtra Shaheer](https://open.spotify.com/album/5rCE5WjJPzuVQqLqy8RJ6E) | 3:43 | 2023-12-20 | 2024-02-13 |
+| [Baharla Ha Madhumas](https://open.spotify.com/track/0vDv21ORhlC8IGx5GwDDo1) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maharashtra Shaheer](https://open.spotify.com/album/7GF3sCJCgEIHCglCgIZ81V) | 3:43 | 2024-02-05 |  |
 | [Baharla Ha Madhumas](https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maharashtra Shaheer](https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk) | 3:43 | 2023-07-04 | 2024-01-04 |
 | [Chandra](https://open.spotify.com/track/3SDgHr72dJmr27JRvFUBZU) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandramukhi](https://open.spotify.com/album/5R413h4nX1riddyX3fzhAD) | 5:15 | 2024-01-10 |  |
 | [Chandra \(Featuring\. Shreya Ghoshal\)](https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandramukhi](https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio) | 5:15 | 2023-07-04 | 2024-01-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316350,
+  "num_followers": 316398,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGE3MTU2ZTFkOWQ0NmZmMDllY2JjZjk0YTU4ZWI1YzYzNzk3MmIy",
+  "snapshot_id": "MCxhZDNjMWIzMzRlZTY0ZjNiNGViYzhkYjlmYzBmMzc5ZDhiYTM5ZjNj",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Joe Dassin",
-        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Et si tu n'existais pas",
-      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Aline",
         "url": "https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA"
       },
@@ -171,38 +155,6 @@
       "duration_ms": 169946,
       "name": "Aline",
       "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
-        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
-      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -223,6 +175,38 @@
       "duration_ms": 172626,
       "name": "Je vous trouve un charme fou - En duo avec Ga\u00ebtan Roussel",
       "url": "https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
+      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Joe Dassin",
+        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Et si tu n'existais pas",
+      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -255,6 +239,22 @@
       "duration_ms": 168626,
       "name": "Quelqu'un m'a dit",
       "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Les Dix Commandements (L'int\u00e9grale)",
         "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 388840,
       "name": "L'envie d'aimer",
       "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Savoir Aimer",
         "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 281213,
       "name": "Savoir aimer",
       "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
-      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -535,6 +519,22 @@
       "duration_ms": 201106,
       "name": "Viens on s\u2019aime",
       "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
+      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Idiote je t'aime... (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0aC0z924mxVR3moQWpy0u1"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Comme ils disent",
-      "url": "https://open.spotify.com/track/7pO5P9AWsB9cQE6McCNgIH"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Le lac",
-      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -743,6 +711,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Idiote je t'aime... (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0aC0z924mxVR3moQWpy0u1"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Comme ils disent",
+      "url": "https://open.spotify.com/track/7pO5P9AWsB9cQE6McCNgIH"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "D'Eux",
         "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 273133,
       "name": "Je sais pas",
       "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Le lac",
+      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Entre Nous",
-        "url": "https://open.spotify.com/album/5MJA6xu4PFwVEHP50VQ8DX"
-      },
-      "artists": [
-        {
-          "name": "Chim\u00e8ne Badi",
-          "url": "https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Entre nous",
-      "url": "https://open.spotify.com/track/6j3MV6TuybbmOKwId3DEEG"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Qu'en restera-t-il ?",
         "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 252413,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Entre Nous",
+        "url": "https://open.spotify.com/album/5MJA6xu4PFwVEHP50VQ8DX"
+      },
+      "artists": [
+        {
+          "name": "Chim\u00e8ne Badi",
+          "url": "https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Entre nous",
+      "url": "https://open.spotify.com/track/6j3MV6TuybbmOKwId3DEEG"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Sauver l'amour (Remastered)",
-        "url": "https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Aimer est plus fort que d'\u00eatre aim\u00e9",
-      "url": "https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Je Dis Aime",
         "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 236600,
       "name": "Je dis aime",
       "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Sauver l'amour (Remastered)",
+        "url": "https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Aimer est plus fort que d'\u00eatre aim\u00e9",
+      "url": "https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Zen",
-        "url": "https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa"
-      },
-      "artists": [
-        {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Un point c'est toi",
-      "url": "https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Best Of - Morceaux d\u2019amour",
         "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 220386,
       "name": "Toi mon amour",
       "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Zen",
+        "url": "https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Un point c'est toi",
+      "url": "https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v"
     }
   ],
   "unique_name": "French Kiss",

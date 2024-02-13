@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Lewis OfMan, Gabriela Richardson
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,931 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,936 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [BORDERLINE](https://open.spotify.com/track/4ghwnq3kfUM5r8PKrSZscF) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [BORDERLINE](https://open.spotify.com/album/4BmrsCGYrgr60Hwrj3JsqF) | 5:46 |
 | 75 | [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 |
 
-Snapshot ID: `MCwyZmI3MDE5ZmNlZGUwNGRhMzkyNTliMjEyZWFjZDc5M2MwOGU3YmIw`
+Snapshot ID: `MCw4ZDg0MDk3ZWY1ZThkYWY2ZTViNjkyOTczOTNjYzFiNGQ0OTVkY2Y2`

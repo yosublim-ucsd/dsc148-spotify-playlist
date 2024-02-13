@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Nath y Piso 21.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,849 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,902 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dejarte Ir \(feat\. Piso 21\)](https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Dejarte Ir \(feat\. Piso 21\)](https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf) | 2:56 |
+| 1 | [Dejarte Ir](https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Dejarte Ir](https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf) | 2:56 |
 | 2 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
 | 3 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
 | 4 | [Ganas](https://open.spotify.com/track/4f5Bw7pvjyCW5mEeyyoKve) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Ganas](https://open.spotify.com/album/2atbau8pIwRzcTvSUT7TGu) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Nervios de Acero](https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Nervios de Acero](https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2) | 3:07 |
 | 100 | [RETUMBA](https://open.spotify.com/track/4xChNP6tE9owFmY7cHErir) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [RETUMBA](https://open.spotify.com/album/14kHnlP7Ytj4PceLKfaU7W) | 3:32 |
 
-Snapshot ID: `MCwwNjU4YTQzMmZkYTY2N2RiYmVjNGIzYTNjMTA2NzllZTQ3ZDQwNzRk`
+Snapshot ID: `MCw0OGNkOGY4Nzg3YzZhMGFkNWM0Y2IyYTgyODI5Y2YxYjc1YTNmNWFl`

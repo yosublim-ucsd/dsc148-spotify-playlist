@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Dont Stop Go",
+        "url": "https://open.spotify.com/album/6jIKbhXJW0630o3jQdg9HR"
+      },
+      "artists": [
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399360,
+      "name": "Don't Stop Go",
+      "url": "https://open.spotify.com/track/6AU47n4a29UHSNfTbRCR0o"
+    },
+    {
+      "album": {
         "name": "Dress Code",
         "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
       },

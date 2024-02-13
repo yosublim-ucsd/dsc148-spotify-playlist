@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,020 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,031 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 89 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 |
 | 90 | [Double Game](https://open.spotify.com/track/1bike5aQ7ZndnBodizi1oi) | [Mooroo](https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh), [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Qirdaar](https://open.spotify.com/album/1jqTs5oGoHXrcr9M3EWyho) | 3:46 |
 
-Snapshot ID: `MCxhYWM4ZTFiNjBiMDUyMGE3ZjZmZjUyNjc2YzlkNDNiYTUxYzQ4MDQ5`
+Snapshot ID: `MCxkZmFiYWI2ODE5OWE3MmU3NzZjZmU2NWFmMDFiMmFmNGVmNTUxMDU1`

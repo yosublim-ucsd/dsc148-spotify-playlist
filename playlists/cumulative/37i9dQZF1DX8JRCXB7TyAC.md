@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-81 songs - 4 hr 2 min
+82 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Banda 2 Numbri](https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Banda 2 Numbri](https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr) | 2:49 | 2023-07-24 |  |
 | [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 | 2024-01-05 |  |
 | [Binde](https://open.spotify.com/track/3dduicyXRRc56JhQyWvNPj) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Binde](https://open.spotify.com/album/3GLVHpysgsLtisASRLPmWt) | 2:19 | 2023-07-24 | 2023-08-31 |
-| [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 | 2023-11-09 |  |
+| [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 | 2023-11-09 | 2024-02-13 |
 | [Chhora Haryane Ala](https://open.spotify.com/track/04IAIuNeXUGZCJlogBfQqP) | [Diler Kharkiya](https://open.spotify.com/artist/5d6sKB0JbbWKiWoPDTLPj0) | [Chhora Haryane Ala](https://open.spotify.com/album/51Ucmq3UdA5pvIJGy0TvUC) | 2:31 | 2024-01-31 |  |
 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 | 2023-10-20 |  |
 | [Chora Gaam Ka](https://open.spotify.com/track/0yeDyNCGJvISdOsjox9Gnr) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/5xThnynFtoQBLacgNGXYrS) | 3:51 | 2023-07-24 | 2023-11-05 |
@@ -84,6 +84,7 @@
 | [The Villagers](https://open.spotify.com/track/2x7iprCTkTR7WcTRkCLFBr) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7) | [The Villagers](https://open.spotify.com/album/5VRPx5fbREQVJ9lNApySLV) | 3:03 | 2023-07-24 | 2023-11-10 |
 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 | 2023-07-24 | 2023-11-10 |
 | [Tycon](https://open.spotify.com/track/689Hj1Zr8wOV3dJ45SEwTO) | [Vinu Gaur](https://open.spotify.com/artist/7JWbFnKxCRL2EJOtIPTrXo), [Yudhveer Dagar](https://open.spotify.com/artist/1Wxml6YQ0bNEMbDuTEW5AC) | [Tycon](https://open.spotify.com/album/4D3i79insTzHjhQMgqyi7w) | 3:03 | 2023-07-24 | 2023-08-01 |
+| [Up Se](https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj) | 3:37 | 2024-02-12 |  |
 | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB) | 2:23 | 2023-07-24 |  |
 | [World Famous Haryanvi](https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W) | [Ashoka Deswal](https://open.spotify.com/artist/0fggoEiFOovUAaLHGFOseZ) | [World Famous Haryanvi](https://open.spotify.com/album/68rxbjQHUE8Hle8y6xsm6Y) | 2:52 | 2023-07-24 |  |
 | [Yaar Badmash](https://open.spotify.com/track/6vQYsw6Nfh3eI7CsrVz8A1) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Yaar Badmash](https://open.spotify.com/album/6DuHB7XdpvrHK11Ry4ffe4) | 3:10 | 2023-07-24 |  |

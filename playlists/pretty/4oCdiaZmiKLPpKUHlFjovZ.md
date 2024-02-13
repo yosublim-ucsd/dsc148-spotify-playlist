@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 43,599 likes - 59 songs - 2 hr 32 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 43,599 likes - 60 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 57 | [ONLY FANS](https://open.spotify.com/track/493bo0JRXNe100o1oxswNz) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [ONLY FANS](https://open.spotify.com/album/6TyazNC4sGL6mlQ1vkfih5) | 2:17 |
 | 58 | [4Lifers](https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [4Lifers](https://open.spotify.com/album/3JPfULI1qFfTfdTA3R5GCV) | 2:15 |
 | 59 | [Slut](https://open.spotify.com/track/4y09z2lAF40PebZLUmFdNv) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu) | [Slut](https://open.spotify.com/album/3nAU88uRQbbuT5hlPBtom3) | 2:22 |
+| 60 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 |
 
-Snapshot ID: `NjcyMSwzOGUzODE4ZDVmZTM5ZmExYWFiMjQ4MDBkYWFlMzdmNjUwMjZmOTQ0`
+Snapshot ID: `NjcyNCw3MjRlOGU2NDJhZTEyOTAzNDQyZDU1MjBlMWEyMTU2NzM4Njk2YWRk`

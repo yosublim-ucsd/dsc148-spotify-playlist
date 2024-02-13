@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Grégory Privat
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,608 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,650 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Day In Day Out \- Florian Pellissier Extended Version](https://open.spotify.com/track/2HCLYRJnXDMQ9yfjHIiL60) | [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY), [Florian Pellissier](https://open.spotify.com/artist/0xiIT6hCcH1oLeoOZjHo0s) | [Day In Day Out \(Florian Pellissier Extended Version\)](https://open.spotify.com/album/7urOxAlRsgKpA64cKZ6jWw) | 7:23 |
 | 50 | [Goin’ to Chicago](https://open.spotify.com/track/73qO9QckH8jRnas3mSl5HY) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Goin’ to Chicago](https://open.spotify.com/album/4y2DrtUacYmOnVUB1aobC5) | 4:01 |
 
-Snapshot ID: `MCxmOWM3M2U5ZGRmYWU3NWU2YWFiMWNhNTQzMWU0NjhmOTA2MzQ2MWI2`
+Snapshot ID: `MCxlNzUzZjAzYjMwYzRlNjI1NjFjYWViODRkOTc5MjU3OTYxOGVkZmU5`

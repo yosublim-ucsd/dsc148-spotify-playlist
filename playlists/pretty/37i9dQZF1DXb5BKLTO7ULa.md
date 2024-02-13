@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,850 likes - 94 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,856 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 35 | [Cold Nights](https://open.spotify.com/track/1iR2KYd4xQJdoVG7GICA1F) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [Cold Nights](https://open.spotify.com/album/1hREBt9rjIktCyLQtyh1Oo) | 3:03 |
 | 36 | [I Do](https://open.spotify.com/track/3hloQkKHL9wqfkt15VnSW6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [I Do](https://open.spotify.com/album/1g8m9B1I0HHfvNCwYqGETM) | 2:46 |
 | 37 | [Komt Goed](https://open.spotify.com/track/6WoE2MosPAXPt1awC8thle) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz) | [Komt Goed](https://open.spotify.com/album/4H2VICvSpa4tvoVUP5jZqx) | 2:39 |
-| 38 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/5N8fHHJVfI4a00nEoj9UyH) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
+| 38 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
 | 39 | [Hurts To Hold On](https://open.spotify.com/track/6A3mkLQXPXIZsoQCCfNKrl) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Hurts To Hold On](https://open.spotify.com/album/2eF0SmkaYla9ihVZdO7pTx) | 3:54 |
 | 40 | [Zwart](https://open.spotify.com/track/6s5JVq7JYo1EjvnFI4TVj4) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Zwart/Wit](https://open.spotify.com/album/7gxsHxrzhATB2irVRLB04k) | 3:20 |
 | 41 | [Bitter](https://open.spotify.com/track/1R6YYVLcMXzYMCLA5asQrr) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [Smaakspoken](https://open.spotify.com/artist/5ZC2hO1v7hxu6ptX9wV7CU) | [Bitter](https://open.spotify.com/album/6T8r241pu8DrTznRH4hGAW) | 2:57 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [Green](https://open.spotify.com/track/278yAd5uTMx6KqQtHb6WbK) | [Swan](https://open.spotify.com/artist/5jGvXj4Virggz7GjqBTs9h) | [Underneath My Façade](https://open.spotify.com/album/6HUe9xQOYJO9Uv1IB2VlRm) | 3:18 |
 | 94 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 |
 
-Snapshot ID: `MCwyYzRmYWM0NzIxYmViNjQ4ZDgzYmIxNzdiMzhiMjU0MTYwMjdiMWVm`
+Snapshot ID: `MCw2YjEwMjIyNzkxMGU1ZDdjZWIyYWNmNWQwYzgyYmE4N2RlMzYzYzcz`

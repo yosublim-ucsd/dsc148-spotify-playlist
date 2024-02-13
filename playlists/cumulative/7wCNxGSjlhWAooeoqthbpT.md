@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records\. cover: 21 Savage
 
-246 songs - 12 hr 17 min
+247 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 | 2022-01-14 | 2022-06-11 |
 | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc) | 2:43 | 2022-07-08 | 2022-12-03 |
 | [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 | 2023-01-21 |
+| [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 | 2024-02-12 |  |
 | [ZOOM](https://open.spotify.com/track/4Srrjc22zSJ0pGWgvaFe73) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [ZOOM](https://open.spotify.com/album/6IBuIlVNDk8OfIrtxS790q) | 2:24 | 2023-05-12 | 2023-06-10 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

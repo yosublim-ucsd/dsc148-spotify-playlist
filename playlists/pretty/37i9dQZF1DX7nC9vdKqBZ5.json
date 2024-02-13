@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1519123,
+  "num_followers": 1519216,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2",
+  "snapshot_id": "MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara: Edi\u00e7\u00e3o Luxo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "C\u00e9u Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Lulu Ac\u00fastico",
         "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara: Edi\u00e7\u00e3o Luxo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "C\u00e9u Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Ac\u00fastico MTV",
         "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
       },
@@ -399,22 +383,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Adrenalizou",
         "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 165625,
       "name": "Morena - Acoustic Version",
       "url": "https://open.spotify.com/track/45mAusxpKe7DVNT5O2FGah"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/29w59BF1fw1GHNA7pCZwGm"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1itgNM42znLYss6wBj5N7B"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Amor Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 208470,
       "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
       "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/29w59BF1fw1GHNA7pCZwGm"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1itgNM42znLYss6wBj5N7B"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3qWc2T5MTm0FXwA6y34Iww"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 216336,
-      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7ggu37HbVtpCoOn53ply27"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193116,
       "name": "Sem Jeito Ao Vivo - Ac\u00fastico / Ao Vivo",
       "url": "https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3qWc2T5MTm0FXwA6y34Iww"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 216336,
+      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7ggu37HbVtpCoOn53ply27"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Coisa Linda - Ao Vivo",
-      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Zeeba - Reset",
         "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 214741,
       "name": "Tudo Que Importa (Acoustic)",
       "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Coisa Linda - Ao Vivo",
+      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Corac\u00e3o de A\u00e7o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Q8M6zvVn94tvUcS7YEk5F"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VTqGcHo7JPC9W5GRtJ6lK"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 169472,
       "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Corac\u00e3o de A\u00e7o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Q8M6zvVn94tvUcS7YEk5F"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VTqGcHo7JPC9W5GRtJ6lK"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
         "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 257282,
       "name": "Outra Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2wtiPI88rTbmrbB1zPndhY"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 148669,
+      "name": "S\u00f3 Penso Nela - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1XyEfOINM4wt9DVzrQzb6p"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/3Lb6Ynh37ywGapeL5uyowr"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 151694,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/6pPVQnyvVbkKEOVqofSzEn"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2wtiPI88rTbmrbB1zPndhY"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 148669,
-      "name": "S\u00f3 Penso Nela - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1XyEfOINM4wt9DVzrQzb6p"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Aluga-se",
-        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
-        }
-      ],
-      "duration_ms": 125955,
-      "name": "Aluga-se",
-      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 181327,
       "name": "Nobre Vagabundo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6LvvLGpol0wkihXq9u5OVR"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Aluga-se",
+        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+        }
+      ],
+      "duration_ms": 125955,
+      "name": "Aluga-se",
+      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Outra Vida",
-        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 184006,
-      "name": "Outra Vida",
-      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Casa de Praia 2 (ac\u00fastico)",
         "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 175086,
       "name": "Pijama - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Outra Vida",
+        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 184006,
+      "name": "Outra Vida",
+      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
     },
     {
       "added_at": "2023-10-13 03:00:00",

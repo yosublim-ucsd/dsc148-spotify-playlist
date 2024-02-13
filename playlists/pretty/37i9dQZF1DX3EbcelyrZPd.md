@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Lava Lava
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,583 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,636 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 21 | [Look At Me \(feat\. Darassa\)](https://open.spotify.com/track/2xKxUYprwnd2IQOOo1Ifhj) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Look At Me \(feat\. Darassa\)](https://open.spotify.com/album/16zlAY3MZgtHXQAGjyMxWk) | 3:08 |
 | 22 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
 | 23 | [Uta Dead](https://open.spotify.com/track/2GcsQMIOXPNmPLQ13wotX8) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [G\-Nako](https://open.spotify.com/artist/74STgSPNlhxWGLIpA5P97P) | [Uta Dead](https://open.spotify.com/album/7bLeImcReLapmFaumNymb1) | 4:38 |
-| 24 | [BamBam](https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:30 |
+| 24 | [BamBam](https://open.spotify.com/track/3y0tHlRrHAOCGfpqglrk7Q) | [DVoice](https://open.spotify.com/artist/7EHcencvvb9Vx84WqlglZS) | [Swahili Kid](https://open.spotify.com/album/28c8WkCI0O9D6CKbN5oH0t) | 3:31 |
 | 25 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 |
 | 26 | [Beer Nyama \(feat\. Billnass\)](https://open.spotify.com/track/3QXDwoz3SzUkv9DNibHjqj) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Beer Nyama \(feat\. Billnass\)](https://open.spotify.com/album/0hQHnfMsS1XZBjGDADTWPH) | 3:20 |
 | 27 | [Honey](https://open.spotify.com/track/060Sdqj379wZ7kWho2kDd0) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Honey](https://open.spotify.com/album/5Ej7ISZLQkj3UUpTnN2ONM) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 74 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 |
 | 75 | [Nawaza](https://open.spotify.com/track/3yWfiWRv51tuYlAzh7KHSO) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nawaza](https://open.spotify.com/album/5d2lTlDVkULcfTMS7JoWYz) | 3:54 |
 
-Snapshot ID: `MCxiNWZlMmMxZmVhMWU4NzMwNmYwNzZkODE5NGM5OGQ4NTEyNzIxOTEy`
+Snapshot ID: `MCw0YjMwZjA5MWM1MzIxZThkZmQ3NDRlODVjMzg5MmVjYWRlMDVhMWVk`

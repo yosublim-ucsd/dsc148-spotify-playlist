@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Kacey Musgraves, Nate Smith, Gwen Stefani & Blake Shelton and more.
 
-5,806 songs - 13 day 6 hr 10 min
+5,807 songs - 13 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4830,6 +4830,7 @@
 | [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 | 2022-09-16 | 2022-09-24 |
 | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2) | 3:30 | 2023-05-26 | 2023-06-03 |
 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 | 2023-06-09 | 2023-06-17 |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:55 | 2024-02-12 |  |
 | [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [second wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 | 2023-10-13 | 2023-10-21 |
 | [Texas Hold Him](https://open.spotify.com/track/6znB8w2u5Fzs6idzvM75Nc) | [Tyler Reese Tritt](https://open.spotify.com/artist/0TRctSC39e2w9E7tEVfxTP) | [Texas Hold Him](https://open.spotify.com/album/22mSKXzmqko6nT6AcPMfZx) | 3:13 | 2023-07-21 | 2023-07-29 |
 | [Texas in Louisiana](https://open.spotify.com/track/0XYyJrjTJjyb17ATlLMQee) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Texas in Louisiana](https://open.spotify.com/album/5pOBFuNfBlBf2JTsEHy6RU) | 3:05 | 2024-02-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,561 likes - 30 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,565 likes - 30 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [Kitchen](https://open.spotify.com/track/3jBRxnAvILCtagKerYLU0q) | [LILI LIMIT](https://open.spotify.com/artist/3jPlC4xvgiJkf6ZQw1yrav) | [a.k.a](https://open.spotify.com/album/118ZjEX9QPXB9waGKI79yn) | 4:15 |
 | 30 | [『バッハの旋律を夜に聴いたせいです。』](https://open.spotify.com/track/6Zmg9q5eSK3ROwDnP6Qm4j) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 3:56 |
 
-Snapshot ID: `MCxiZDk0ZDYzOGY5OGVkNTFlZGNiY2RjMzY0M2Q5NTkwOGNlMjJlZGMy`
+Snapshot ID: `MCw3NDhkYTVmYzkxMDdkMDhmZDUyOTBmZWRiMjk2NTJjYTYzMTU4YTFm`

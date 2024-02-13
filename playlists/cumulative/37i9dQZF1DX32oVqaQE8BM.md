@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-557 songs - 23 hr 44 min
+560 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Breeze](https://open.spotify.com/track/533iOIwyGWSADc1wA7Hzvk) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Breeze](https://open.spotify.com/album/5TNrlGsFcWTamyUmNJnhzJ) | 2:10 | 2021-11-10 | 2022-08-20 |
 | [brilliant blush](https://open.spotify.com/track/2ivcFIx7zAzNVNtJjdXflH) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [brilliant blush](https://open.spotify.com/album/4lQYTQLQ1HZqIGTl8nr4Yj) | 2:32 | 2022-01-21 | 2023-01-20 |
 | [Business Class](https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Business Class](https://open.spotify.com/album/39RDYR5qrgDJoYlfX3qIrc) | 2:14 | 2022-10-28 |  |
+| [By The Sea](https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII) | [Epulu](https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE) | [By The Sea](https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep) | 2:41 | 2024-02-13 |  |
 | [Bye Felicia!](https://open.spotify.com/track/3DJj5RlFWUokYJ1qjvTZof) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Bye Felicia!](https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf) | 2:27 | 2021-11-10 | 2022-07-08 |
 | [C'mon My Friend](https://open.spotify.com/track/5QG6fzHI2A0PizUmDkVGvB) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [C'mon My Friend](https://open.spotify.com/album/1HAiOS2VNV2bpIyuoF0CxE) | 2:36 | 2021-11-10 | 2023-01-13 |
 | [Cabana](https://open.spotify.com/track/0ZTWIZ2Avw0El0ZPCRV1ka) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 1:52 | 2021-11-10 | 2023-02-10 |
@@ -179,6 +180,7 @@
 | [fly away](https://open.spotify.com/track/51srHVilMntmFnywwVVVOU) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [fly away](https://open.spotify.com/album/09f24SbWyHCIGvJIbIBJsR) | 2:18 | 2023-04-14 |  |
 | [For No Reason](https://open.spotify.com/track/4h93amQ2V3qCp5ZMJ6r6lB) | [Temperal Guidance](https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi) | [For No Reason](https://open.spotify.com/album/3YapZf1lBVPmczSuMTnkjx) | 2:19 | 2021-11-10 | 2022-07-08 |
 | [For Samira](https://open.spotify.com/track/19YEXoO45iLULaOyxGOuOn) | [Calendar Echoes](https://open.spotify.com/artist/4ANlASV891L3OO3snkMbHN) | [For Samira](https://open.spotify.com/album/2eI3zSVwiOPtFJVzrG6GVd) | 2:32 | 2021-11-10 | 2022-07-01 |
+| [Foresta](https://open.spotify.com/track/27deYXGhkgSd7glci93wwK) | [Maya Mde](https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2) | [Foresta](https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf) | 2:56 | 2024-02-13 |  |
 | [Found Some Water](https://open.spotify.com/track/0CQiMloLtYnXibZWE0e3dN) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Found Some Water](https://open.spotify.com/album/0HhZ2MAqZQw9QoH1IYSbbf) | 2:16 | 2022-07-22 | 2023-07-07 |
 | [Fragile Minds](https://open.spotify.com/track/61xuUczLEzHQ0uXSbrVcCp) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Fragile Minds](https://open.spotify.com/album/7CxAwNw6TljihlVzVuDEMp) | 3:02 | 2023-01-20 |  |
 | [French Toast](https://open.spotify.com/track/0jVkzGqvMnt05arGxdHo0q) | [rezov](https://open.spotify.com/artist/6qkecg8KZjkwnYkLGP4H3H) | [Morning Mantra](https://open.spotify.com/album/7s8Srq69sCA1h92jcXQlNs) | 3:02 | 2022-01-21 | 2023-12-05 |
@@ -498,6 +500,7 @@
 | [The Overjoyed](https://open.spotify.com/track/2uLmM7PTshDOdjjfzVqm8u) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Famous](https://open.spotify.com/album/56AG1YCUB35Mbe8rqJV2iH) | 2:48 | 2022-06-10 | 2022-07-01 |
 | [The Refined Man](https://open.spotify.com/track/5UuUrMvPPVfYMTG349zKfs) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:16 | 2021-11-10 | 2022-07-29 |
 | [The Simplest Things](https://open.spotify.com/track/3Ze6UW8ab1IpF7W7BieBgC) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [The Simplest Things](https://open.spotify.com/album/4aSBkBh9c126FxY1EHvgT9) | 3:06 | 2022-09-16 |  |
+| [The Sky Was Breathing](https://open.spotify.com/track/3lLf5WCpIvYg3GSskMxszu) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [The Sky Was Breathing](https://open.spotify.com/album/17TPclqY7Njhy17Mw8ZDyP) | 3:11 | 2024-02-13 |  |
 | [the state of groove](https://open.spotify.com/track/7MwxJqKGa0Lk5yIRgqRPXg) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [the state of groove](https://open.spotify.com/album/0iULvFHTqopiDgIgzY181i) | 1:45 | 2021-11-10 | 2022-04-15 |
 | [The Sweetness](https://open.spotify.com/track/1845FL0Rp89SWsjxYKJgS6) | [Peacefullie](https://open.spotify.com/artist/699wO8JuLWNzO8PSVMPgFC) | [The Sweetness](https://open.spotify.com/album/4HaSVgLxdob2oS542H1RGA) | 2:15 | 2023-07-14 |  |
 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 | 2022-01-21 | 2022-08-20 |

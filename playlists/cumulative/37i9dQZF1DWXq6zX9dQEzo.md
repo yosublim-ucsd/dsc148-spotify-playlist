@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-550 songs - 1 day 3 hr 11 min
+551 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [Move \(Keep Walkin’\)](https://open.spotify.com/track/4Opt8AwROn5AXMQ20mNvHq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:41 | 2022-03-23 | 2022-04-21 |
 | [Muzzle](https://open.spotify.com/track/205gltq1f8eo49aii55f81) | [Zelijah Tishbite](https://open.spotify.com/artist/1PyYLasAElH6ZMJ4n3DPh4) | [Muzzle](https://open.spotify.com/album/6F4nQqEvCzuejRPLPcslFD) | 2:54 | 2022-03-23 | 2023-11-03 |
 | [MVP](https://open.spotify.com/track/00uwU1dENamylOgeLh2ask) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [MVP](https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n) | 2:07 | 2023-08-11 |  |
-| [MVP](https://open.spotify.com/track/4E6m89eLYaw4cajBsEpHCz) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG), [El Artista](https://open.spotify.com/artist/23O4ZjgHiBYcTQKciRZwI9) | [MVP](https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY) | 1:54 | 2024-02-02 |  |
+| [MVP](https://open.spotify.com/track/4E6m89eLYaw4cajBsEpHCz) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG), [El Artista](https://open.spotify.com/artist/23O4ZjgHiBYcTQKciRZwI9) | [MVP](https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY) | 1:54 | 2024-02-02 | 2024-02-13 |
 | [My Banner](https://open.spotify.com/track/4zpbWsXvqzvDE7X9F36aJX) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [My Banner](https://open.spotify.com/album/0msCROB5BcYESQ1YD3N98w) | 3:20 | 2024-01-12 | 2024-02-03 |
 | [MY SPACE](https://open.spotify.com/track/3Z5ezWXb965iY2BlPEdS4N) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 3:02 | 2022-10-01 | 2023-08-12 |
 | [my year](https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [AOTY](https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm) | 4:00 | 2022-05-28 | 2023-08-12 |
@@ -451,6 +451,7 @@
 | [Stop](https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Stop](https://open.spotify.com/album/4OvPeGJUu03SZ6ocHlxs5W) | 2:42 | 2022-04-30 | 2023-11-14 |
 | [Stop Me](https://open.spotify.com/track/5t3Lsr5pfGYWsEfAnZUfEa) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [The Glory Album](https://open.spotify.com/album/5soj2uolyYOjlt5y6N2N7j) | 3:30 | 2022-02-04 | 2022-04-30 |
 | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/67P7bwrt4Vo0NMQdUrsR0q) | 1:42 | 2024-02-02 | 2024-02-04 |
+| [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J) | 1:42 | 2024-02-02 |  |
 | [Story of Our Love \(Remix\)](https://open.spotify.com/track/0oDvkijT0QEPvHRUx9cedz) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Story of Our Love \(Remix\)](https://open.spotify.com/album/0SJ8xAyevSx07cmaF4mHfI) | 3:05 | 2022-02-04 | 2022-07-18 |
 | [STRAPPED](https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j) | [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [ONE OF THE FEW](https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9) | 2:12 | 2024-01-12 |  |
 | [Stratosphere](https://open.spotify.com/track/5buWQydDqMzxBL6P3yKoPX) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Barely Finished 2](https://open.spotify.com/album/6HZMhMlwFMxwDsfhYV6FYO) | 1:57 | 2022-02-04 | 2024-01-13 |

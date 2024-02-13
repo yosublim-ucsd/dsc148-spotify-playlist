@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 171526,
+  "2024-02-13": 171546,
   "date_first_scraped": "2021-12-21",
   "description": "Set your intentions and guide your practice with these mindful, meditative lyrics.",
   "name": "Yoga Acoustics",
@@ -1354,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/2RHroLhDaQLAxNq6BRnKgi"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214142,
+      "name": "This Must Be the Place (Na\u00efve Melody)",
+      "url": "https://open.spotify.com/track/1pT7mcDseBq5K73IxFG131"
+    },
+    {
+      "album": {
         "name": "This Must Be the Place (Na\u00efve Melody)",
         "url": "https://open.spotify.com/album/7IdQctbEeHZnOXtuXNhU3J"
       },
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 214142,
       "name": "This Must Be the Place (Na\u00efve Melody)",
       "url": "https://open.spotify.com/track/3AzxRasq4dOQEVWoLqqdH5"

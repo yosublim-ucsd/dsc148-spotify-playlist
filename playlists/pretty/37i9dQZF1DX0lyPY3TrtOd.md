@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,712 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,711 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [It Must Have Been The Devil](https://open.spotify.com/track/5zYXy39HoFAA3D3yM6sLVq) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Must Have Been The Devil](https://open.spotify.com/album/6rA2DOWBPWxTzSg4R9K9zt) | 3:52 |
 | 60 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 
-Snapshot ID: `MCxhOGQ3MWFhNGI3NGQwYzk2MjFiODhhZTQ5N2ViOTYwNjFhN2RlZjVi`
+Snapshot ID: `MCw2ZjNmNTU4ZWI3YzkzYWFjMTA0YTJjMDJlMzA0YmI4ZGI2MTgxM2E5`

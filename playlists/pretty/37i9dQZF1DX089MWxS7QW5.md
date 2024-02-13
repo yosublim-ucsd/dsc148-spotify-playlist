@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JMIN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,244 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,277 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 28 | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb) | 3:12 |
 | 29 | [UUU](https://open.spotify.com/track/5c4c8g4QFDaNv3NHogfokl) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [The Drive](https://open.spotify.com/album/40yZ2AKA4dGdLavr5x7H8S) | 3:17 |
 | 30 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 |
-| 31 | [I Deserve Happiness \(Feat\. Minjeong\)](https://open.spotify.com/track/4VLze3IkEPkUhHWqqgqBL5) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [강민정](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [New Edition 55](https://open.spotify.com/album/7LIr8Jhsguvb3xOkt8BOoq) | 2:52 |
+| 31 | [I Deserve Happiness \(Feat\. Minjeong\)](https://open.spotify.com/track/4VLze3IkEPkUhHWqqgqBL5) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kang min jeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [New Edition 55](https://open.spotify.com/album/7LIr8Jhsguvb3xOkt8BOoq) | 2:52 |
 | 32 | [This Moment Here With You](https://open.spotify.com/track/6iSrr1z0D85A0hLKkjkCvH) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [This Moment Here With You](https://open.spotify.com/album/5utByaMBaKrdlbV7FrOtNX) | 5:15 |
 | 33 | [From Now](https://open.spotify.com/track/6q2yYNfgrcNfW3OZh8WQ5Z) | [EachOne](https://open.spotify.com/artist/421WUO9b5iopxq4c53zFNk) | [From Now](https://open.spotify.com/album/6Bmg7Tl2MoeqVZZQw7AIda) | 3:20 |
 | 34 | [Better](https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Better](https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 |
 | 50 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
 
-Snapshot ID: `MCxmMDI1MDNmMjU0NGRjYjNjZmMxYjQ5YWExODQyYWY5NmJiY2U4MjE5`
+Snapshot ID: `MCwzMmY5ODliMDVjNmQ2YWIwNWFjNmUxMDUzNTAxYjUxZTY0MzdmYmI3`

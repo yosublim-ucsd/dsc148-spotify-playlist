@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-42 songs - 2 hr 29 min
+43 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [ELECTRIC ENIGMA](https://open.spotify.com/track/0N7RV4p7zbRcMmyPjq6Mrk) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [SAVITRI / ELECTRIC ENIGMA](https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV) | 2:36 | 2024-01-29 |  |
 | [Falls Right Down](https://open.spotify.com/track/1w81jQgROZn9nNpnHs8Oi4) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:15 | 2024-01-29 |  |
 | [Feels](https://open.spotify.com/track/79Ek1YkhUkeD0Xv1PRPVt0) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 4:01 | 2024-01-29 |  |
+| [FINDING JOY](https://open.spotify.com/track/5EO6BbpRLsNvvGu89l9Z4x) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART TWO](https://open.spotify.com/album/7hltHXLUrAImGEqdNw5OGL) | 1:08 | 2024-02-12 |  |
 | [Fine Lines](https://open.spotify.com/track/7vAe6XVRwfVjNq51ui5EfZ) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:53 | 2024-01-29 |  |
 | [Gone](https://open.spotify.com/track/2ej590OSETiOikX8Oaiguo) | [Naomi Banks](https://open.spotify.com/artist/0Xqny1HXPGaxHIasTndWeS) | [Gone](https://open.spotify.com/album/2MkmtRjGOss89QGJ5Qw1ch) | 2:52 | 2024-01-29 |  |
 | [GOT IT GOOD \(feat\. Craig David\)](https://open.spotify.com/track/2xyi5jBkaQ741tXWTiqyr0) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 3:48 | 2024-01-29 |  |

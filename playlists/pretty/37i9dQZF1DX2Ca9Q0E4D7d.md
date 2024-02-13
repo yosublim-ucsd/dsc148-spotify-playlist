@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,452 likes - 67 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,573 likes - 67 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 66 | [Binaural Beta Sinus Beats](https://open.spotify.com/track/2lVAIA4kdj8ecjNwzrHj6q) | [Erwin Oscár](https://open.spotify.com/artist/1w1y7dpUPIsZovT5YAHG3v) | [Binaural Brain Waves](https://open.spotify.com/album/4S6iWJHAR9R5lNsH9kJbVI) | 2:39 |
 | 67 | [Wonder Falls \(Beta 100 Hz \- 117 Hz\)](https://open.spotify.com/track/6ggscQCVEcqKy92nXLlswe) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 4:26 |
 
-Snapshot ID: `MCwyZWU4YTEzNDEyYTg2NjBkNGNmZDEwYmI3MTNjNDE0NmE1NTU4ZGY5`
+Snapshot ID: `MCxjMzRlMThmYzZhMTE5ZWVjNWFmODkwOThhMDViY2U5MWU2MGM4OTk2`

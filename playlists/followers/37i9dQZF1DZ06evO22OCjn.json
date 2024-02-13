@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 264261,
+  "2024-02-13": 264376,
   "date_first_scraped": "2021-12-29",
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
   "name": "This Is Burna Boy",
@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 152692,
       "name": "Kilometre",
       "url": "https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB"
@@ -2267,7 +2267,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 186189,
       "name": "Wild Dreams (feat. Khalid)",
       "url": "https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu"

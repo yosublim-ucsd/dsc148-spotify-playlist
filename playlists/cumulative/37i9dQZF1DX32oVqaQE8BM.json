@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "By The Sea",
+        "url": "https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep"
+      },
+      "artists": [
+        {
+          "name": "Epulu",
+          "url": "https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161582,
+      "name": "By The Sea",
+      "url": "https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII"
+    },
+    {
+      "album": {
         "name": "Bye Felicia!",
         "url": "https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf"
       },
@@ -3164,6 +3182,24 @@
       "duration_ms": 152499,
       "name": "For Samira",
       "url": "https://open.spotify.com/track/19YEXoO45iLULaOyxGOuOn"
+    },
+    {
+      "album": {
+        "name": "Foresta",
+        "url": "https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf"
+      },
+      "artists": [
+        {
+          "name": "Maya Mde",
+          "url": "https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176315,
+      "name": "Foresta",
+      "url": "https://open.spotify.com/track/27deYXGhkgSd7glci93wwK"
     },
     {
       "album": {
@@ -8974,6 +9010,24 @@
       "duration_ms": 186937,
       "name": "The Simplest Things",
       "url": "https://open.spotify.com/track/3Ze6UW8ab1IpF7W7BieBgC"
+    },
+    {
+      "album": {
+        "name": "The Sky Was Breathing",
+        "url": "https://open.spotify.com/album/17TPclqY7Njhy17Mw8ZDyP"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191294,
+      "name": "The Sky Was Breathing",
+      "url": "https://open.spotify.com/track/3lLf5WCpIvYg3GSskMxszu"
     },
     {
       "album": {

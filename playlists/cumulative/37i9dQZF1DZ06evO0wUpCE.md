@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 36 min
+62 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Llévame Contigo](https://open.spotify.com/track/4ZjSZV7N9WKFKgUcah2UQ5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 2:29 | 2023-08-08 |  |
 | [Llévame En Tu Viaje](https://open.spotify.com/track/3DeH1wTB0Oo1341VJRTAGR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 4:19 | 2023-08-08 |  |
 | [Me Dueles](https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:47 | 2023-09-21 | 2023-10-11 |
+| [Mi Castigo](https://open.spotify.com/track/1SlD0IINVTsQEctNYIEFhr) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 4:18 | 2024-02-12 |  |
 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2023-08-08 |  |
 | [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 | 2023-08-08 | 2024-01-04 |
 | [No Me Hablen de Amor](https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:09 | 2024-01-03 |  |
@@ -59,7 +60,7 @@
 | [Te Dejo Libre](https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 | 2023-08-08 |  |
 | [Te Perdono](https://open.spotify.com/track/6TNp0Npc9NP2NKznr1Xb4Y) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 3:24 | 2023-08-16 |  |
 | [Te Voy A Conquistar](https://open.spotify.com/track/4d6qswupJd3fNwwN7t8kr2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 2:34 | 2023-08-08 | 2023-09-06 |
-| [Tu Adiós No Mata](https://open.spotify.com/track/5sz7opyzt4gWqn5mKbKg4e) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 3:44 | 2023-12-20 |  |
+| [Tu Adiós No Mata](https://open.spotify.com/track/5sz7opyzt4gWqn5mKbKg4e) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 3:44 | 2023-12-20 | 2024-02-13 |
 | [Tu Soledad Y La Mía](https://open.spotify.com/track/477tplqFCCEPOalRb7OCnL) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Tu Soledad Y La Mía](https://open.spotify.com/album/24gc3AiZc6RHJr4sqNsdJm) | 3:54 | 2023-08-08 |  |
 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 | 2023-08-08 |  |
 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 | 2023-08-08 | 2023-12-14 |

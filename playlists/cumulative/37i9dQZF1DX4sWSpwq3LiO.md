@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,678 songs - 3 day 2 hr 32 min
+1,680 songs - 3 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Après la pluie](https://open.spotify.com/track/4S5eUtV1PLv6hJI8EcWmBU) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Après la pluie](https://open.spotify.com/album/2XfRxzEXWvADnmxNwEBh91) | 2:32 | 2019-07-25 | 2020-03-31 |
 | [Aquatic](https://open.spotify.com/track/2kz1DrWQsJl1k4lWDsPRsC) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Aquatic](https://open.spotify.com/album/1Wbx7ISrA2F90ohwHYrJsu) | 2:23 | 2019-10-22 | 2022-04-29 |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-02-09 | 2023-11-21 |
+| [Arbor](https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Arbor](https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C) | 2:35 | 2024-02-12 |  |
 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 | 2024-01-02 |  |
 | [Arkata \(Munich Session\)](https://open.spotify.com/track/5rnpFhTerQAtva8IuFHMnS) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Arkata \(Munich Session\)](https://open.spotify.com/album/16s4ccY0RG8YM6rw1Sr6Hk) | 4:02 | 2021-03-17 | 2021-04-22 |
 | [Arrebol](https://open.spotify.com/track/52AH50uB1sJZBRjGJlcW8m) | [Lionel Scardino](https://open.spotify.com/artist/15rfm6rSfsn4RuQQO6BumY) | [Sinestesia](https://open.spotify.com/album/0doAzw09nCA6aH8KVC20Ai) | 1:22 | 2019-08-30 | 2019-11-14 |
@@ -739,7 +740,7 @@
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2021-04-08 | 2022-09-13 |
 | [Le Carrousel](https://open.spotify.com/track/732WjGszph77XuuwYTpjpJ) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Le Carrousel](https://open.spotify.com/album/2NtVUnyN8ABOx2W0yJBePl) | 2:41 | 2021-02-03 | 2021-03-31 |
 | [Le Castellet](https://open.spotify.com/track/0kvEiW0fbL26tJwHXaZDPh) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Le Castellet](https://open.spotify.com/album/6H1o0mpdYsQ4vICUjDTmvv) | 3:57 | 2020-09-01 | 2020-12-15 |
-| [Le désir d'amour](https://open.spotify.com/track/1THlfYe3VM1P2V7oPIbWW1) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Le désir d'amour](https://open.spotify.com/album/7rHeMxL35i4fKJKQeQAOUJ) | 2:09 | 2023-01-09 |  |
+| [Le désir d'amour](https://open.spotify.com/track/1THlfYe3VM1P2V7oPIbWW1) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Le désir d'amour](https://open.spotify.com/album/7rHeMxL35i4fKJKQeQAOUJ) | 2:09 | 2023-01-09 | 2024-02-13 |
 | [Le jardin de ma grand\-mère](https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Le jardin de ma grand\-mère](https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv) | 2:56 | 2022-10-13 |  |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-09-01 | 2022-01-20 |
 | [Le Mouton Noir](https://open.spotify.com/track/1cpJgDb09f2QOVU3rTwBGU) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Le Mouton Noir](https://open.spotify.com/album/0ck1LBkPIOW6ZEumxfKlzN) | 4:13 | 2020-06-24 | 2021-01-18 |
@@ -921,7 +922,7 @@
 | [Musing](https://open.spotify.com/track/05NMGDbC92aC738Rd0vYkX) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Musing](https://open.spotify.com/album/4M9m2atcjqVMBoWF2ibcqU) | 2:34 | 2020-02-26 | 2021-10-20 |
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-02-02 | 2023-07-04 |
 | [My Everything](https://open.spotify.com/track/3oymu4B8YqysHtkQV3oRZ7) | [Xanthe Nephus](https://open.spotify.com/artist/1Ilv5utNuysFsOCbLRq8eD) | [My Everything](https://open.spotify.com/album/4O0DWCYkKuBZRatFDWKz6i) | 2:36 | 2022-11-09 | 2023-09-23 |
-| [My Little Treasure](https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW) | [Bella Wilkinsson](https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp) | [My Little Treasure](https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF) | 1:30 | 2024-01-08 |  |
+| [My Little Treasure](https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW) | [Bella Wilkinsson](https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp) | [My Little Treasure](https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF) | 1:30 | 2024-01-08 | 2024-02-13 |
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-01 | 2022-05-13 |
 | [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 | 2023-11-28 |  |
 | [Mystic Lily](https://open.spotify.com/track/5PaxL9G0j505GkNvmb4r4x) | [Selin Soral](https://open.spotify.com/artist/1ELn9uEbCIJXLAtFmiQ2wY) | [Mystic Lily](https://open.spotify.com/album/3ze19Ewre23Cgja29gbwwM) | 2:15 | 2021-06-03 | 2022-05-21 |
@@ -1026,7 +1027,7 @@
 | [Os ventos do amor](https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Os ventos do amor](https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx) | 2:00 | 2022-11-09 |  |
 | [Ostinatino](https://open.spotify.com/track/0xEofUkhNZk5QTLMCnDV8k) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Ostinatino](https://open.spotify.com/album/63rYKyKLcEfKCiIGRfvYky) | 2:33 | 2019-07-17 | 2019-10-16 |
 | [Otis](https://open.spotify.com/track/2diCZXC0Cjyv4xqByCHkmK) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [True](https://open.spotify.com/album/6U2xxftHI11KUGHckT6LE5) | 2:17 | 2019-09-19 | 2020-04-21 |
-| [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 | 2022-11-09 |  |
+| [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 | 2022-11-09 | 2024-02-13 |
 | [Oudewater](https://open.spotify.com/track/6TALCf7YPCllCDhe7f2Vqz) | [Darrell Boxman](https://open.spotify.com/artist/7aAV3VOC8LXfsig7tWf47g) | [Oudewater](https://open.spotify.com/album/2mF29dw6e1JZTS6ziKU4Nn) | 1:42 | 2019-08-30 | 2021-01-18 |
 | [Ouka](https://open.spotify.com/track/5PmphV79Uwa13Ki91EYDFp) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Ouka](https://open.spotify.com/album/4XDFCdNsyezWYHWoYNUu1v) | 3:33 | 2019-06-27 | 2020-04-21 |
 | [our paths crossing](https://open.spotify.com/track/6s9UzXWwA7m8z3LcY5z8QM) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [our paths crossing](https://open.spotify.com/album/58QnIVLDeFVvVG38YY8BJI) | 1:45 | 2022-06-03 | 2023-02-11 |
@@ -1289,7 +1290,7 @@
 | [Sol 42](https://open.spotify.com/track/1JlqsLiK8l29lI1nvITHpz) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Sol 42](https://open.spotify.com/album/0w9o0ErIr3XtG3X6OhJvaj) | 3:09 | 2021-11-17 | 2022-07-29 |
 | [Sol And Luna \- Piano Version](https://open.spotify.com/track/6HQQYlpcguN2OfCvgyR9Hy) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Henosis \(Deluxe\)](https://open.spotify.com/album/7jQl1Ta8H2sUOgx3pKyAQa) | 4:25 | 2020-02-11 | 2020-03-17 |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-04 | 2023-11-21 |
-| [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-20 |  |
+| [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-20 | 2024-02-13 |
 | [Solace](https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Solace](https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP) | 2:42 | 2019-05-26\* | 2020-11-17 |
 | [Soleil du Soir](https://open.spotify.com/track/3YY1rqHLRgCul3gcBo3NKT) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Chansons en été](https://open.spotify.com/album/4zdIq71lQrBmpEwlC9je7i) | 3:56 | 2019-08-02 | 2019-10-16 |
 | [Solfeggio](https://open.spotify.com/track/0iZ9VfP5adrL4UdIa5D2Cs) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Solfeggio](https://open.spotify.com/album/6potW1KKhU50Il0kKXrdzo) | 2:54 | 2022-02-09 | 2022-07-29 |
@@ -1368,7 +1369,7 @@
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-02-23 | 2024-01-03 |
 | [Sunrise](https://open.spotify.com/track/4W4kAu3nU0Zp8WH7owpjbn) | [Moises Daniel](https://open.spotify.com/artist/2Us8yrg0LpTXcp6KNfhSKL), [Cristian Vivaldi](https://open.spotify.com/artist/3SVGtGLA9kap5qlxX4WyBb) | [Sunrise](https://open.spotify.com/album/6S2rNFHmusMfzbibhyDXrb) | 2:01 | 2023-01-17 |  |
 | [Sunset](https://open.spotify.com/track/2DJQoV3oQqlWAwWUK3f5Xk) | [Fraire Jacques](https://open.spotify.com/artist/1OJGp1JEC3oK6ZruwBYujd) | [Sunset](https://open.spotify.com/album/4p9U3xJQgLvujcLd6SXeBo) | 4:11 | 2020-12-15 | 2021-04-28 |
-| [Sunset](https://open.spotify.com/track/7w2uDecC0itAWOKd186QLY) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Sunset](https://open.spotify.com/album/4HyPifkTj42BhX3p03ph75) | 2:43 | 2022-12-05 |  |
+| [Sunset](https://open.spotify.com/track/7w2uDecC0itAWOKd186QLY) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Sunset](https://open.spotify.com/album/4HyPifkTj42BhX3p03ph75) | 2:43 | 2022-12-05 | 2024-02-13 |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2020-10-13 | 2022-04-23 |
 | [supine](https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [hopes](https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8) | 3:28 | 2019-11-12 | 2022-02-10 |
 | [Surface Waves](https://open.spotify.com/track/4NZdu1A7BaLDXFmoAvazPS) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [The Turn](https://open.spotify.com/album/1HBOLQ0QoDkGDGnjhfdzPy) | 2:18 | 2020-06-24 | 2022-04-29 |
@@ -1456,6 +1457,7 @@
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2021-06-18 | 2022-08-27 |
 | [The Sky Is Mine](https://open.spotify.com/track/6dIGw0ChcSE4zXCqPfCbw2) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [The Sky Is Mine](https://open.spotify.com/album/0eEyjp3aw6rE5ruirePD2Q) | 3:00 | 2020-06-02 | 2020-10-20 |
 | [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 | 2023-04-03 | 2023-11-21 |
+| [The swan](https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [The swan](https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu) | 2:37 | 2024-02-12 |  |
 | [The Swan](https://open.spotify.com/track/4gnse1wE1sdaO1LNqyDVCo) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [The Swan](https://open.spotify.com/album/3n4E33QEwe90voYnoAWGtc) | 2:28 | 2019-05-26\* | 2020-06-16 |
 | [The Thing With Feathers](https://open.spotify.com/track/3mFbJCcXcQJiyiksotg99d) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [The Thing With Feathers](https://open.spotify.com/album/5yo0tGwa1UDw1FqiCEItFK) | 2:39 | 2019-08-23 | 2020-09-22 |
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2020-09-22 | 2022-05-27 |

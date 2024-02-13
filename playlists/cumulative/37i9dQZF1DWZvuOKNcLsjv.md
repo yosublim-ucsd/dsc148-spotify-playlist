@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kacey Musgraves
 
-3,027 songs - 7 day 8 hr 37 min
+3,028 songs - 7 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,7 +1182,8 @@
 | [Last scene](https://open.spotify.com/track/6xJ892EOZotDPZxxzu2n3R) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Kanashī dekigoto \-The overkill\-](https://open.spotify.com/album/4lroNwCV22vfbY1z1LkdiG) | 4:22 | 2023-11-12 | 2023-12-04 |
 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-09-03 | 2023-09-18 |
 | [Late Flower](https://open.spotify.com/track/4vsCQQNOyRSSaCb40wHFml) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [Late Flower](https://open.spotify.com/album/03wxQNVT70nFmYTcdbo4ux) | 2:55 | 2023-06-04 | 2023-06-12 |
-| [lavender](https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender](https://open.spotify.com/album/3RlYqLXyEamZbjnZBIxwdi) | 2:37 | 2024-02-11 |  |
+| [lavender](https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender](https://open.spotify.com/album/3RlYqLXyEamZbjnZBIxwdi) | 2:37 | 2024-02-11 | 2024-02-13 |
+| [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 | 2024-02-11 |  |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2023-02-12 | 2023-02-27 |
 | [Lazy](https://open.spotify.com/track/4SmjMx9RKavY4e0NKljTfv) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Lazy](https://open.spotify.com/album/2dAXDjRZSDBzvG8bBoU8XG) | 3:03 | 2023-11-26 | 2023-12-11 |
 | [Lean In \(feat\. Bayanni\)](https://open.spotify.com/track/6qn6p5ew4CpkxwiWfcapeO) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Lean In \(feat\. Bayanni\)](https://open.spotify.com/album/3nhEm72CmZfeccLKAFAfZY) | 2:36 | 2023-03-26 | 2023-04-03 |

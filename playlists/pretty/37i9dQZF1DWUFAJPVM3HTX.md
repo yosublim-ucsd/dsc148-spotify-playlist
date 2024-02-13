@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1JfJjWsE2dwEFhcZG0zVlA?si=HwjMO1QWSiOPum1naumBdg"> Mio </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,761 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,799 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WYBM?](https://open.spotify.com/track/0RK0cyuj7x1GN3eV9b2clu) | [Mio](https://open.spotify.com/artist/1JfJjWsE2dwEFhcZG0zVlA) | [Call Me Ms.](https://open.spotify.com/album/4L8ioUOQuZriSJqOOF25Em) | 1:58 |
 | 2 | [Jay Bird](https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK) | [Peyotoff](https://open.spotify.com/artist/7pDc59W5HYxYElrjJwsjnN), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Jay Bird](https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ) | 2:49 |
 | 3 | [Your Body](https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Your Body](https://open.spotify.com/album/08z8sSLaf8O4mFyCtGzULu) | 3:15 |
-| 4 | [Escapaté](https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Escapaté](https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc) | 2:45 |
+| 4 | [Escápate](https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Escápate](https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc) | 2:45 |
 | 5 | [Close 2 U](https://open.spotify.com/track/74fkt3sUQFs10di4Yh4q6u) | [Jabriel](https://open.spotify.com/artist/3ospfNqVeXbcUbttYxpHLa) | [Fayf](https://open.spotify.com/album/7BVGMR4r3rWKRxbJ105b8g) | 2:44 |
 | 6 | [HER TYPE](https://open.spotify.com/track/3RaW9KtmsJaDDsbXYPQLOh) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [HER TYPE](https://open.spotify.com/album/4DfxxY8alxdZD8pqCxXLpO) | 2:19 |
 | 7 | [On The Run](https://open.spotify.com/track/2CppdFj4X1Xjk0vKFIJf5e) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE) | [On The Run](https://open.spotify.com/album/7wMPPPmUJ7nlYF9rkOUS3m) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 99 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 | 100 | [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 |
 
-Snapshot ID: `MCw4ZDljNzI1ZjZkZTdmNzBjMDZjMjIwOTg4YTliNDlmYWZiNjE3MzEz`
+Snapshot ID: `MCw4Y2ZlN2Y4NGFhNGFlNmU2NDJiMmQ4YTUxMzUwOGRlNzY3M2QyNGNi`

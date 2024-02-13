@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 98321,
+  "2024-02-13": 98415,
   "date_first_scraped": "2022-03-22",
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta.",
   "name": "Electro Corridos",
@@ -333,10 +333,28 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 174000,
       "name": "ALV",
       "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
+    },
+    {
+      "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/3wTCfmzQOaiDKfRQ8BcJtx"
+      },
+      "artists": [
+        {
+          "name": "Manuelvezz",
+          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/3PenLzruF1GMpjSmcPJkH2"
     },
     {
       "album": {

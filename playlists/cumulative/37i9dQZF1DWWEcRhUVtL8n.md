@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Del Water Gap & Holly Humberstone
 
-1,760 songs - 3 day 20 hr 46 min
+1,761 songs - 3 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1543,6 +1543,7 @@
 | [Talking to Myself](https://open.spotify.com/track/7t5uiTZNaSrQpTvs7fonmK) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Talking to Myself](https://open.spotify.com/album/6wkNeJH60FfISXiYHA6cpo) | 3:51 | 2020-10-20 | 2021-06-03 |
 | [Tangerine](https://open.spotify.com/track/4qzAGRJuc6vOZ7Jsf2wA5W) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Tangerine](https://open.spotify.com/album/0EU7Ds5lLkvyuxgC7jJFFJ) | 2:55 | 2020-10-20 | 2021-05-28 |
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2021-05-04 | 2021-05-26 |
+| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 |  |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-24 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-18 | 2022-04-21 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-11-26 |
@@ -1721,7 +1722,7 @@
 | [Wine](https://open.spotify.com/track/4ovL2qMHSSGEqFZXOeuSB8) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Wine](https://open.spotify.com/album/5rpR4Eqlx55HnGwvxmx2x4) | 3:35 | 2021-05-27 | 2021-11-25 |
 | [Winnie Crush](https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0tS826DRVWxkDg9al34Rdj) | 2:54 | 2021-10-11 | 2021-10-12 |
 | [Winter's Coming](https://open.spotify.com/track/2aOrJTA8AUVWPBjSB4negX) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Winter's Coming](https://open.spotify.com/album/2eZcgp7ogQushYjwFegmmi) | 2:55 | 2021-08-07 | 2021-10-23 |
-| [Wish You Were Here](https://open.spotify.com/track/4UmLhlLUJKQQNr8glsPkKC) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Wish You Were Here](https://open.spotify.com/album/2Li6KhcK5WlPgLVN3LLGHD) | 3:26 | 2024-01-20 |  |
+| [Wish You Were Here](https://open.spotify.com/track/4UmLhlLUJKQQNr8glsPkKC) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Wish You Were Here](https://open.spotify.com/album/2Li6KhcK5WlPgLVN3LLGHD) | 3:26 | 2024-01-20 | 2024-02-13 |
 | [Wish You Were Sober](https://open.spotify.com/track/50JEoj7rigjIYJaPb0uMsZ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wish You Were Sober](https://open.spotify.com/album/5ktpHCAtbI7aOA8WFpqQu3) | 2:48 | 2020-10-20 | 2022-04-10 |
 | [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1n6SOTzvWH1NYZvbCmtcLP) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Wished Well \(Suicideyear Remix\)](https://open.spotify.com/album/182XHSQkvpGMjg4eKqzzcP) | 2:03 | 2023-02-04 | 2023-02-11 |
 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 | 2021-04-03 | 2022-04-15 |

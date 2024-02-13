@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 33781,
+  "2024-02-13": 33807,
   "date_first_scraped": "2022-06-10",
   "description": "Son los 90 y prendes la radio.",
   "name": "noventeras",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 248226,
       "name": "Amor De Papel",
       "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 210626,
       "name": "Bidi Bidi Bom Bom - 1994 Version",
       "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"

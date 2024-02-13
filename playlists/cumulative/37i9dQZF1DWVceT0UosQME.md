@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-514 songs - 19 hr 39 min
+516 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [apple dumplins](https://open.spotify.com/track/02Mxkf8nzMQd9DiBLhfhA1) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [apple dumplins](https://open.spotify.com/album/4o2DvfLdEfzl0tmnoZhflh) | 2:33 | 2024-01-05 |  |
 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 | 2024-01-05 |  |
 | [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2024-01-05 |  |
+| [artichoke](https://open.spotify.com/track/14kvN9rugvU6WxI7hF8RGV) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [artichoke](https://open.spotify.com/album/0IGHj0l3i60tLiIaVRuJ4F) | 2:39 | 2024-02-09 |  |
 | [Artificial](https://open.spotify.com/track/5a5TO5nHnrrCRtEGNpO8jV) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Artificial](https://open.spotify.com/album/3v5ThC3GpRXSwxqjeBHlrQ) | 2:07 | 2024-01-05 |  |
 | [At the Coffe Shop](https://open.spotify.com/track/4qvFr1wmMtFVKNWQf3luUI) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [At the Coffee Shop](https://open.spotify.com/album/01t6ljHGKGIwtCxngi8dqO) | 1:15 | 2024-01-05 |  |
 | [Atlantic Ocean](https://open.spotify.com/track/79ueipIReBsOjdT1nusFnC) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Atlantic Ocean](https://open.spotify.com/album/6JcBrBWZTSLr6xVb7Pb7Hw) | 2:00 | 2024-01-05 |  |
@@ -172,6 +173,7 @@
 | [Fresh Tires](https://open.spotify.com/track/6LLsU0zVgPcQKb7Rnf1MeV) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Fresh Tires](https://open.spotify.com/album/7oQp36kWOf04mfm2LLnSiO) | 2:33 | 2024-01-05 |  |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2024-01-05 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2024-01-05 |  |
+| [Friday Luxury](https://open.spotify.com/track/4hEtOsS3Hgn2vdVlchhXpT) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Friday Luxury](https://open.spotify.com/album/25dLRyb68yRiLszZWDidPW) | 2:03 | 2024-02-09 |  |
 | [Friday Night](https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Friday Night](https://open.spotify.com/album/0KWrgf5GX7d2yd8PeVsiWY) | 1:58 | 2024-01-05 |  |
 | [Friendly](https://open.spotify.com/track/4X40ngLEFkHOJ8FZyFnYCB) | [Cargo Ship](https://open.spotify.com/artist/1WrXHKCzXwcYewHIHKKn9e) | [Friendly](https://open.spotify.com/album/3zv6QMU7sUtIFtqTo2kZJU) | 1:36 | 2024-01-05 |  |
 | [Frog\-School Beat](https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Frog\-School Beat](https://open.spotify.com/album/6mun3bQHHwNajiuse9fcqi) | 1:57 | 2024-01-05 |  |
@@ -221,7 +223,7 @@
 | [I Do](https://open.spotify.com/track/2wJrTlyqgJFj7RsoswJHIF) | [Nikachu](https://open.spotify.com/artist/5ehbC9QZVDRJcaEwmgGVfb) | [I Do](https://open.spotify.com/album/3SI68TzqPo4OwaVgMSjpJp) | 2:20 | 2024-01-05 |  |
 | [i n d i c a](https://open.spotify.com/track/1isvJir39qBjocCTYt7KI8) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [kiwi juice](https://open.spotify.com/album/67CGdn3DQeQLJkRJ4QgNst) | 3:12 | 2024-01-05 |  |
 | [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2024-01-05 |  |
-| [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2024-01-05 |  |
+| [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2024-01-05 | 2024-02-13 |
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2024-01-05 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2024-01-05 |  |
 | [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2024-01-05 |  |
@@ -284,7 +286,7 @@
 | [matcha latte](https://open.spotify.com/track/2GjPR5XcxmzIBkzGen3BMO) | [Class Klown](https://open.spotify.com/artist/6PUoOVrUeJn9d65VoXghgd) | [matcha latte](https://open.spotify.com/album/3rfSyh5x2FO3eqyoC4tohR) | 3:25 | 2024-01-05 |  |
 | [maybe or maybe](https://open.spotify.com/track/1GRBea14szlPf66aUR1Yaz) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [maybe or maybe](https://open.spotify.com/album/2mmMqObElCavRETBc3NGVg) | 2:08 | 2024-01-05 |  |
 | [Medow](https://open.spotify.com/track/0JoOEjVuA6VtEzHPVygoeA) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Medow](https://open.spotify.com/album/0MpOBAnxzBzNlvkszZrq80) | 2:10 | 2024-01-05 |  |
-| [Meet me in paris](https://open.spotify.com/track/770oaEAcFBGCW1DN8HVv6H) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Meet me in paris](https://open.spotify.com/album/4F7siuXjnxmx3sspOLn6Qw) | 2:11 | 2024-01-05 |  |
+| [Meet me in paris](https://open.spotify.com/track/770oaEAcFBGCW1DN8HVv6H) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Meet me in paris](https://open.spotify.com/album/4F7siuXjnxmx3sspOLn6Qw) | 2:11 | 2024-01-05 | 2024-02-13 |
 | [Mellowly](https://open.spotify.com/track/2ZhjgwoeBKVvfktIdGs7jg) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [Mellowly](https://open.spotify.com/album/0ctjkoVtkNRRNLlW24w0OQ) | 2:18 | 2024-01-05 |  |
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2024-01-05 |  |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2024-01-05 |  |

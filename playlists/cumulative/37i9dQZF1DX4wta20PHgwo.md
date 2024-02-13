@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-440 songs - 1 day 16 hr 23 min
+441 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Designs](https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn) | [Trust and Honesty](https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh) | 4:38 | 2023-06-01 |  |
 | [Det Blev Sent](https://open.spotify.com/track/2gVWCWCzs7IxF4SmlbaP5y) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg) | [La La Lars III](https://open.spotify.com/album/67KjDm9srNlbNjEzXysMc9) | 3:19 | 2021-05-21 | 2022-01-25 |
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2020-05-02\* | 2022-04-15 |
+| [Dignified Response](https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG) | [Diego Rivera](https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa) | [With Just A Word](https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp) | 6:12 | 2024-02-09 |  |
 | [Does The Sun Really Shine On The Moon](https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5) | [Marcus Bartelt](https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT), [Martin Gjakonovski](https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61), [Joost Van Schaik](https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ) | [At Ease](https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm) | 7:31 | 2022-09-19 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/5ZR2kBtwXGvaB6naU8qGCJ) | [Wallace Roney](https://open.spotify.com/artist/2SfO2W7dVwEov6TpQW2uOg) | [Blue Dawn \- Blue Nights](https://open.spotify.com/album/3Lhq62uVpxoRuCwkhV6ZsL) | 7:05 | 2020-05-05 |  |
 | [Don’t Go](https://open.spotify.com/track/3Aj7zxN0GKJCTXwm7FpePK) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Don't Go](https://open.spotify.com/album/5pQFXgWMy43lGIatCpXTEJ) | 3:39 | 2020-06-12 | 2021-09-07 |
@@ -312,7 +313,7 @@
 | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/track/6R2vR6b0jLJaJCZUvyp5Ax) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/2lp2FIQT23ZWBwH3bPuvY5) | 6:00 | 2020-05-08 | 2022-07-29 |
 | [Ro](https://open.spotify.com/track/1KXMF4M4Ko3aB2x7joKUUy) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW) | [Valleys & Mountains](https://open.spotify.com/album/4tnbCSnePSEWvTejqy5nTu) | 5:24 | 2023-10-24 | 2023-12-14 |
 | [Road to Eden](https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3) | [Claire Cross](https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM), [Harry Cook](https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2) | [Dialect](https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g) | 3:42 | 2023-12-12 |  |
-| [Round Midnight](https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Karl\-Henrik Ousbäck](https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV) | [Round Midnight](https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u) | 6:19 | 2023-02-17 |  |
+| [Round Midnight](https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Karl\-Henrik Ousbäck](https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV) | [Round Midnight](https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u) | 6:19 | 2023-02-17 | 2024-02-13 |
 | [Round Midnight](https://open.spotify.com/track/2xEiuO49zj433EvPjBuf7I) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 7:45 | 2021-08-08 | 2021-08-20 |
 | [Round Midnight](https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA) | [The Mellowtones](https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6) | [Round Midnight](https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH) | 5:01 | 2023-03-09 |  |
 | [Roy](https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [on the tender spot of every calloused moment](https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji) | 2:40 | 2020-06-15 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 890821,
+  "2024-02-13": 891066,
   "date_first_scraped": "2021-12-21",
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Henrik",
   "name": "Folk Pop",
@@ -3173,7 +3173,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
@@ -4497,6 +4497,24 @@
       "duration_ms": 207167,
       "name": "Passenger",
       "url": "https://open.spotify.com/track/1NZxALMXgmzpFTnDH9gYd3"
+    },
+    {
+      "album": {
+        "name": "Perfect Portrait of Young Love",
+        "url": "https://open.spotify.com/album/3bdkQ8IbGwzvmOBAeRjbIm"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Perfect Portrait of Young Love",
+      "url": "https://open.spotify.com/track/5JR1l1O7OfqrTGrToo9Pwk"
     },
     {
       "album": {

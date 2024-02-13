@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.
 
-187 songs - 10 hr 7 min
+188 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-05-26 |  |
 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 | 2023-10-26 |  |
 | [Llegamos los Pibes Chorros](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Solo Le Pido a Dios](https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY) | 3:49 | 2023-06-09 | 2023-12-24 |
+| [Lo' Borrachos](https://open.spotify.com/track/6tmAF5lerIPsnbseSvG44j) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:14 | 2024-02-09 |  |
 | [Loca](https://open.spotify.com/track/4PLHJDiDu0bPQ5EfcAWPL0) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Loca](https://open.spotify.com/album/3yLOPZEmH9RlN0wHXue5qp) | 2:43 | 2023-11-17 | 2023-11-25 |
 | [Loco Destapate Una Cerveza \- Remix](https://open.spotify.com/track/1cKMV6iyZLRpoN4RXXcHEX) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ), [Ezequiel Matthysse](https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk) | [Loco Destapate Una Cerveza \(Remix\)](https://open.spotify.com/album/6YcwXEHQl2tJKSz5g6PzF0) | 3:41 | 2023-12-08 | 2023-12-14 |
 | [LOGI](https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LOGI](https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA) | 3:54 | 2023-05-26 |  |
@@ -146,7 +147,7 @@
 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 | 2023-05-26 |  |
 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 | 2023-05-26 |  |
 | [ROCAMORA](https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [ROCAMORA](https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP) | 2:38 | 2023-05-26 | 2024-01-13 |
-| [ROMPE](https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [ROMPE](https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh) | 3:13 | 2023-06-16 |  |
+| [ROMPE](https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [ROMPE](https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh) | 3:13 | 2023-06-16 | 2024-02-13 |
 | [Rompe el Party \- Remix](https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Rompe el Party \(Remix\)](https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV) | 3:27 | 2023-05-26 |  |
 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 | 2023-11-24 |  |
 | [Sabado Picado](https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Markito Navaja](https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0), [Joaco Lopez](https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR) | [Sabado Picado](https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl) | 2:17 | 2023-05-26 | 2023-11-14 |

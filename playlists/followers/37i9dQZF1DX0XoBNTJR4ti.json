@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 13106,
+  "2024-02-13": 13122,
   "date_first_scraped": "2022-04-19",
   "description": "A collection of family-friendly stories in five minutes or less.",
   "name": "Short Stories For Kids",
@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "Peppa Pig: Food Stories",
+        "url": "https://open.spotify.com/album/2G46uIfpUWvAxhUOvYpN3v"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "The Market",
+      "url": "https://open.spotify.com/track/5WAUffCkunOrlDlmTcei9b"
+    },
+    {
+      "album": {
         "name": "The Market",
         "url": "https://open.spotify.com/album/0LeQ4eCH7Xos77dxzcOIm7"
       },
@@ -773,7 +791,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 291693,
       "name": "The Market",
       "url": "https://open.spotify.com/track/71xhikheTImqXtFIQjWusk"

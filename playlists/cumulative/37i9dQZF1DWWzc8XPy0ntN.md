@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-144 songs - 11 hr 18 min
+145 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,8 +119,9 @@
 | [Qué Onda](https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN) | [Disque Dj](https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis) | [Qué Onda](https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14) | 3:40 | 2022-05-06 |  |
 | [Rain \- Original Mix](https://open.spotify.com/track/77DXcBinLgOWahGUw2qMgC) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe), [Mujaji The Rain](https://open.spotify.com/artist/0mDmPagHSMHJ4aSX64vm6x) | [Rain](https://open.spotify.com/album/5lUFWpnjHEyrRi54kKLlyP) | 6:54 | 2022-05-06 | 2022-07-29 |
 | [Rainbow Road](https://open.spotify.com/track/7CZlIakxCI8j9kvU6aVNsS) | [Wasted Fates](https://open.spotify.com/artist/5qfISwWNd9LH2hrEh6oanq) | [Rainbow Road](https://open.spotify.com/album/6eZUGkwQD5C3km2RgIsS1R) | 5:41 | 2022-05-06 | 2022-07-28 |
-| [Resistencia](https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resistencia](https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O) | 4:25 | 2022-05-06 |  |
+| [Resistencia](https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resistencia](https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O) | 4:25 | 2022-05-06 | 2024-02-13 |
 | [Sacramento](https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO) | [No Boy](https://open.spotify.com/artist/601Yt9L0MMqmp8l9XEiCB7) | [Redención](https://open.spotify.com/album/13JiZy2pEcupsiqpP26qsR) | 3:24 | 2022-05-06 | 2023-07-31 |
+| [Sarita Colonia \(Edit\)](https://open.spotify.com/track/1xyL83ASVAiQETQcEWctGc) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/2yBuvBA6n5inzfwS3t39aR) | 3:47 | 2022-08-18 |  |
 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2022-05-06 | 2024-02-11 |
 | [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0) | 3:23 | 2022-08-18 | 2023-08-03 |
 | [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/3UojaSlo1EsQ597F17yEqA) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/0X2SieY5N8UXmPYyuhws83) | 3:23 | 2022-05-06 | 2022-07-28 |

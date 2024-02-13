@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-946 songs - 1 day 22 hr 47 min
+947 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Hardest Thing I Did](https://open.spotify.com/track/4d5yV7BJmrhYwmJl1KBQ9u) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [DELUXE: But Im Redeemed](https://open.spotify.com/album/5AQ82eN4TyO98hUCAY7ozO) | 3:16 | 2023-12-15 | 2024-01-20 |
 | [haters hate\. \- original version](https://open.spotify.com/track/1pU647a4qBFuZopQiDGyUM) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [haters hate\. \(original version\)](https://open.spotify.com/album/5nWdF1gL5bKwN7kYANHhvH) | 3:13 | 2022-10-07 | 2022-10-17 |
 | [Have Me](https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Have Me](https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k) | 2:48 | 2022-09-11 | 2023-08-26 |
+| [HE BACK!](https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [HE BACK!](https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4) | 1:55 | 2024-02-09 |  |
 | [Heart Of Stone](https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Heart Of Stone](https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf) | 4:15 | 2022-09-11 | 2022-10-07 |
 | [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 | 2022-04-29 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/5Ie2QBQyUYCcJvQxvsXvBz) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q), [King Koro](https://open.spotify.com/artist/4R1pqL0Q87tj2KZO1Fu3mG) | [Heaven](https://open.spotify.com/album/2MuSjMBXRimvn45wHLiG0f) | 3:43 | 2022-02-04 | 2022-03-16 |
@@ -520,7 +521,7 @@
 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 | 2023-12-15 | 2024-02-10 |
 | [Mere Mortal](https://open.spotify.com/track/3H2C5pp0KtptTrR0hy3Ui0) | [Cas Metah](https://open.spotify.com/artist/1gQYMf71wFagcPTBlL3G8y), [Dj Sean P](https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB), [Sintax the Terrific](https://open.spotify.com/artist/5g4wwfnp6312mcPlNd83aX), [Jordan Coleman](https://open.spotify.com/artist/1CKw7oa0Q2D9mo95vmrhL5) | [Mere Mortal](https://open.spotify.com/album/1CkMK6RhVZaXn1K7KwpoGy) | 3:39 | 2021-12-11 | 2022-01-24 |
 | [Messiah](https://open.spotify.com/track/22FlIBvzFuGIxls2m4teEG) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Messiah](https://open.spotify.com/album/3jak4ajYXSGpGOwzs3J0oS) | 2:50 | 2022-04-29 | 2022-07-15 |
-| [MIA](https://open.spotify.com/track/6cQfK7OFrzrdAqGWcla6T0) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Church Girls Love R&B \- Girls Trip](https://open.spotify.com/album/2ewOBzZTAFJIVRijNg6IeF) | 3:02 | 2024-02-09 |  |
+| [MIA](https://open.spotify.com/track/6cQfK7OFrzrdAqGWcla6T0) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Church Girls Love R&B \- Girls Trip](https://open.spotify.com/album/2ewOBzZTAFJIVRijNg6IeF) | 3:02 | 2024-02-09 | 2024-02-13 |
 | [Milk & Honey](https://open.spotify.com/track/3choLLOasD08nJeF3cWkDV) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Milk & Honey](https://open.spotify.com/album/4v54icgMn6JiIMqh9ZNqPw) | 1:44 | 2023-01-27 | 2024-01-20 |
 | [MIRACLE](https://open.spotify.com/track/1K6HOrE3e67HwlEq7ax9cR) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [MIRACLE](https://open.spotify.com/album/71fmKndru3YBprxUJoALda) | 3:07 | 2021-12-11 | 2022-02-05 |
 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 | 2023-08-25 |  |

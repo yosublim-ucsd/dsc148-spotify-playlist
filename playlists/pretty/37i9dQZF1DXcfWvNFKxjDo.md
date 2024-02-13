@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jax Jones, Zoe Wees
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,570 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,768 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 22 | [Torn](https://open.spotify.com/track/04nyFUuwYgLfrckvk0MIU9) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Torn](https://open.spotify.com/album/5kzC7Vg7h0uVoZIiBT0hFy) | 2:24 |
 | 23 | [Take A Moment](https://open.spotify.com/track/1lsc5LOovzQxITA5H3S3SN) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Take A Moment](https://open.spotify.com/album/1ps7klPI1BZcao85aOCeuf) | 2:36 |
 | 24 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 |
-| 25 | [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:26 |
+| 25 | [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:11 |
 | 26 | [We Can't Stop](https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [We Can't Stop](https://open.spotify.com/album/27LVMe5wMsHddairHoCux2) | 2:02 |
 | 27 | [Sugar Pie Honey Bunch](https://open.spotify.com/track/2chkrQeCVft2c9Lcz9Vf0T) | [STRINGS](https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs), [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Sugar Pie Honey Bunch](https://open.spotify.com/album/6gA1FTkOKQviWLIa5eie3O) | 2:55 |
 | 28 | [Slim Shady](https://open.spotify.com/track/0OdUo9w8jeAOuOUtnGwJJv) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Slim Shady](https://open.spotify.com/album/21k7KeTJQt3xbx4ykAnfDm) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Without You](https://open.spotify.com/track/4r9Tm3ABTBFzjrovK2AFgu) | [Roby Lion](https://open.spotify.com/artist/14YfOuWRymFfPPvKzhjesk), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [CLYFFTONE](https://open.spotify.com/artist/0LtKLowEG3pnjnV5ySr6Pn) | [Without You](https://open.spotify.com/album/669qK8kXrnlLnl5C6faHQh) | 2:59 |
 | 80 | [Next To You](https://open.spotify.com/track/6tVGbFF95Oz4F2pGK9RXXD) | [mood.wav](https://open.spotify.com/artist/31i6svYbJf8dvqCC8iP7UN), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Next To You](https://open.spotify.com/album/3T3akPqhq7T70mRDt6s2cK) | 2:10 |
 
-Snapshot ID: `MCwyNTc2N2VjNjgwMzc1YTAwZWU0MjI0N2Y5M2Y3OGFjMTk5Y2VhNGM5`
+Snapshot ID: `MCw2YTY2MTUzZjBhZDU4ZjVkMzRmMTY1ZGU0ZTQxZTVmOTkwMjI0M2Ez`

@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-539 songs - 1 day 10 hr 23 min
+540 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2021-03-27 |  |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
+| [East Of The Moon](https://open.spotify.com/track/5Hz4rZjVpxdqWeQ2r2eseV) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [East Of The Moon](https://open.spotify.com/album/1omOp2AMMjG0U0Jdl0A1DI) | 2:52 | 2024-02-09 |  |
 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-09-22 |  |
 | [Easy Dreamin'](https://open.spotify.com/track/5024U9ydj0BegOuxeNqRyU) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:58 | 2023-09-22 |  |
 | [Easy To Love](https://open.spotify.com/track/5SAndzGm2VigenSmI1C3TP) | [Johnny Christoff](https://open.spotify.com/artist/2waZtHlhD0EjlIQl5Kpbmo) | [Easy To Love](https://open.spotify.com/album/3AH2fKZ4ERtOrXx4zo01Pw) | 3:28 | 2020-10-20\* | 2021-01-21 |
@@ -322,7 +323,7 @@
 | [My Foolish Heart](https://open.spotify.com/track/1tNqV5MzAOOkuFT2VkmYVo) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 4:49 | 2020-10-20\* | 2021-01-21 |
 | [My Funny Valentine](https://open.spotify.com/track/2A6qg2En98HEsRYEOk51fi) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [My Funny Valentine](https://open.spotify.com/album/0MhVtAsuAec2fIiiX7XBHB) | 2:49 | 2020-11-05 | 2021-01-21 |
 | [My Ideal](https://open.spotify.com/track/5B5k3kiDwwpK7hArxRIvJX) | [Charlie Neil Band](https://open.spotify.com/artist/5oSchkmb8iheVxObVtQ4eO) | [Love for Sale](https://open.spotify.com/album/6J86v7X1Qf6Pn6zUe6Ygwj) | 5:23 | 2020-10-20\* | 2020-11-18 |
-| [My Ideal](https://open.spotify.com/track/5rYHuAsiH4jUhhuIsad72T) | [Danny Rose Trio](https://open.spotify.com/artist/4MrD9E3RmznlHm61i4LmKA) | [My Ideal](https://open.spotify.com/album/2nXNqoNYN14eGLYLuPb1QG) | 3:52 | 2020-10-20\* |  |
+| [My Ideal](https://open.spotify.com/track/5rYHuAsiH4jUhhuIsad72T) | [Danny Rose Trio](https://open.spotify.com/artist/4MrD9E3RmznlHm61i4LmKA) | [My Ideal](https://open.spotify.com/album/2nXNqoNYN14eGLYLuPb1QG) | 3:52 | 2020-10-20\* | 2024-02-13 |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2022-12-22 |  |
 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2021-05-22 |  |
 | [my romance](https://open.spotify.com/track/1jUutuE0MOLuCYq8K7WKcB) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:27 | 2020-10-20\* | 2021-01-21 |

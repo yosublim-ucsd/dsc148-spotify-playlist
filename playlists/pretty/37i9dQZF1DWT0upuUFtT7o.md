@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Hana Eid
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,123 likes - 104 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,230 likes - 104 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 55 | [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 |
 | 56 | [halo on the interstate](https://open.spotify.com/track/3ZeGhZwG9yXecJK0B8WvMA) | [Bedbug](https://open.spotify.com/artist/09Sh0bFteXDeMFMLdjldlu) | [halo on the interstate](https://open.spotify.com/album/70HRf6ED3GLR4puqgOAyMn) | 3:46 |
 | 57 | [TV on TV](https://open.spotify.com/track/1IODMOg2Un0yxLdAKof5pT) | [Pouty](https://open.spotify.com/artist/7df6s0ZqRT1OAPw4H3wSzM) | [TV on TV](https://open.spotify.com/album/5lOTLk4sQjCxpu1OjZDQ5R) | 2:45 |
-| 58 | [Train Full of Gasoline](https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Train Full of Gasoline](https://open.spotify.com/album/7eWG2KYKFaGaGD17wbK22O) | 2:50 |
+| 58 | [Train Full of Gasoline](https://open.spotify.com/track/59bZ9ljtDTsYJZZqgGHQNW) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Harm's Way](https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM) | 2:50 |
 | 59 | [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 |
 | 60 | [Takoma's Interlude](https://open.spotify.com/track/6JLJbwcVcHCAZFdfqIKyDJ) | [Ducky](https://open.spotify.com/artist/3HQvhuQ36ChLxsDzC1q4E1) | [Takoma's Interlude](https://open.spotify.com/album/2M3toqMRjd6e3IkduRiltr) | 1:33 |
 | 61 | [i still think about you](https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i still think about you](https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3) | 2:45 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 103 | [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 |
 | 104 | [FAST LOVE](https://open.spotify.com/track/49RXDNZ5DB9v3YhB6fFM2C) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/2C1ihKLZTjo8wYGG0TGtDQ) | 3:26 |
 
-Snapshot ID: `MCw3MWQ0YTJhMjRlZTM1YWQ3YjI0M2FmZWQ3ZmM4MTFmNzA5MGJmMWJk`
+Snapshot ID: `MCw4M2FjNTcxNzYzODRjNDEwZTNhZTA1NDU4MzJkOGYwZWFiYzk0N2I0`

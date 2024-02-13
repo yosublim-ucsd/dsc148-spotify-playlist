@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "FINDING JOY IN GREY SKIES: PART TWO",
+        "url": "https://open.spotify.com/album/7hltHXLUrAImGEqdNw5OGL"
+      },
+      "artists": [
+        {
+          "name": "Lauren Faith",
+          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68888,
+      "name": "FINDING JOY",
+      "url": "https://open.spotify.com/track/5EO6BbpRLsNvvGu89l9Z4x"
+    },
+    {
+      "album": {
         "name": "No Path To Follow",
         "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
       },

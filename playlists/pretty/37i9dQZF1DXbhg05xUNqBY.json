@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 348543,
+  "num_followers": 348580,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2JhYzkxYWRlMDg0NGE0ZDBmNzFlYmIxM2YxZjcyN2RjZDIzNTgw",
+  "snapshot_id": "MCxlNTI2NmIzZTY5NjI1Zjc0OTYxMTYzMjk3MDI2OTcxYmE4NTQ2ZTU0",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "No One Ever Cared for Me Like Jesus",
+      "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Yahweh Elyon",
         "url": "https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 194753,
       "name": "Yahweh Elyon",
       "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 293440,
-      "name": "No One Ever Cared for Me Like Jesus",
-      "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
       "artists": [
         {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+      "duration_ms": 307292,
+      "name": "Peace - Acoustic",
+      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
       },
       "artists": [
         {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
         }
       ],
-      "duration_ms": 307292,
-      "name": "Peace - Acoustic",
-      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Twenty Four",
         "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 138019,
       "name": "06:00 Sunrise",
       "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Onward & Upward",
-        "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 290831,
-      "name": "Digital Death",
-      "url": "https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -667,6 +635,38 @@
       "duration_ms": 305562,
       "name": "Transparente",
       "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Onward & Upward",
+        "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 290831,
+      "name": "Digital Death",
+      "url": "https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Belovedness",
-        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Belovedness",
-      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Hymns & Soul",
         "url": "https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 237684,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/09BRwLAwH6ebw0vuZPSv8q"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Belovedness",
+        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Belovedness",
+      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 187943,
       "name": "Be My Shalom",
       "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "All Of My Best Friends (Acoustic)",
-        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Lord Send Revival - Acoustic",
-      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Shalom",
         "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/5U2Kd6Gd29iKv7FiQgsxto"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 292959,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/3Fw7SQbIfU68xPS0GEKRk7"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "No Hopeless Soul - Unplugged",
+      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "No Hopeless Soul",
-        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 193558,
-      "name": "No Hopeless Soul - Unplugged",
-      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "In Christ Alone (En J\u00e9sus Seul)",
         "url": "https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL"
       },
@@ -1219,6 +1199,22 @@
       "duration_ms": 222642,
       "name": "In Christ Alone (En J\u00e9sus Seul)",
       "url": "https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Dreaming of Eden",
+        "url": "https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 254813,
+      "name": "Dreaming of Eden",
+      "url": "https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh"
     }
   ],
   "unique_name": "Calming Christian",

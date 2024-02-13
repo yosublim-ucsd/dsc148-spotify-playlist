@@ -1,12 +1,12 @@
 {
   "description": "Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 175857,
+  "num_followers": 175996,
   "original_name": "O Melhor de EQUAL Brasil 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzJiODQwNGUwZDE2OTZiZDVjMmYzNjc1Mjc5YWQ4MmNhZjYzYmUz",
+  "snapshot_id": "MCwyOGU2ODA3MjY4N2QyNDA1ZjBiZGI4MjJmNzAwYTY2MTI4MGRkMDY0",
   "tracks": [
     {
       "added_at": "2023-11-29 13:03:35",
@@ -163,26 +163,6 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57"
-      },
-      "artists": [
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
         "name": "Continua, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe"
       },
@@ -219,18 +199,38 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
+        "name": "Admir\u00e1vel Chip Novo",
+        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
         }
       ],
-      "duration_ms": 153069,
-      "name": "Whisky Vagabund0 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA"
+      "duration_ms": 232240,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
-        "name": "Admir\u00e1vel Chip Novo",
-        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
-      },
-      "artists": [
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
         "name": "Ciclone",
         "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
       },
@@ -299,6 +267,38 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
+        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Whisky Vagabund0 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 205111,
       "name": "Dano Sarrada",
       "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
+        "name": "Admir\u00e1vel Chip Novo",
+        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Admir\u00e1vel Chip Novo",
+      "url": "https://open.spotify.com/track/7o7MExeF7niW4VFiie5Zxh"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -355,6 +371,22 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
+        "name": "Ciclone",
+        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Ciclone",
+      "url": "https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -415,22 +447,6 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 117592,
-      "name": "Meu Para\u00edso Sou Eu",
-      "url": "https://open.spotify.com/track/0vzum63gEJ458xzIiaXCZY"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
         "name": "Caju (Da S\u00e9rie Original Amazon Canga\u00e7o Novo)",
         "url": "https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw"
       },
@@ -447,50 +463,18 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "Admir\u00e1vel Chip Novo",
-        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 191520,
-      "name": "Admir\u00e1vel Chip Novo",
-      "url": "https://open.spotify.com/track/7o7MExeF7niW4VFiie5Zxh"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
-        "name": "Ciclone",
-        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Ciclone",
-      "url": "https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
-        "name": "Quem \u00c9 Ela?",
-        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 158464,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+      "duration_ms": 117592,
+      "name": "Meu Para\u00edso Sou Eu",
+      "url": "https://open.spotify.com/track/0vzum63gEJ458xzIiaXCZY"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -507,6 +491,22 @@
       "duration_ms": 157708,
       "name": "que mal que tem?",
       "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
+        "name": "Quem \u00c9 Ela?",
+        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 158464,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "ARRISCA",
-        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
+        "name": "MENTA COM CH\u00c1",
+        "url": "https://open.spotify.com/album/3ZBpTPNUDhe2ScLsVwXuXY"
       },
       "artists": [
         {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 191615,
-      "name": "Mapa De Estrelas",
-      "url": "https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636"
+      "duration_ms": 150545,
+      "name": "MENTA COM CH\u00c1",
+      "url": "https://open.spotify.com/track/65ofntveYYLZz4A5VZbdF6"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "MENTA COM CH\u00c1",
-        "url": "https://open.spotify.com/album/3ZBpTPNUDhe2ScLsVwXuXY"
+        "name": "ARRISCA",
+        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
         }
       ],
-      "duration_ms": 150545,
-      "name": "MENTA COM CH\u00c1",
-      "url": "https://open.spotify.com/track/65ofntveYYLZz4A5VZbdF6"
+      "duration_ms": 191615,
+      "name": "Mapa De Estrelas",
+      "url": "https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "Alcione 50 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/ Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6JZMrxEDFKNQouzJwpwaoN"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
         "name": "A BRABA \u00c9 ELA 2",
         "url": "https://open.spotify.com/album/23cbfoApa2IEWN8rscmIBi"
       },
@@ -815,6 +799,38 @@
       "duration_ms": 183913,
       "name": "Efeito Domin\u00f3",
       "url": "https://open.spotify.com/track/2EyL0fiZ873owdwySqOMpc"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
+        "name": "7 Estrelas | quem arrancou o c\u00e9u?",
+        "url": "https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        }
+      ],
+      "duration_ms": 214063,
+      "name": "Des\u00e1gua",
+      "url": "https://open.spotify.com/track/2GMPFXQWfYKjKXRlxBsRlc"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
+        "name": "Alcione 50 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/ Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6JZMrxEDFKNQouzJwpwaoN"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -835,22 +851,6 @@
       "duration_ms": 207636,
       "name": "Pimenta De Cheiro",
       "url": "https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
-        "name": "7 Estrelas | quem arrancou o c\u00e9u?",
-        "url": "https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
-        }
-      ],
-      "duration_ms": 214063,
-      "name": "Des\u00e1gua",
-      "url": "https://open.spotify.com/track/2GMPFXQWfYKjKXRlxBsRlc"
     },
     {
       "added_at": "2023-11-29 13:03:35",

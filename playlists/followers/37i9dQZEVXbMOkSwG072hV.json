@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 353460,
+  "2024-02-13": 353462,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 136800,
       "name": "Amor Livre - Ao Vivo",
       "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
@@ -20483,7 +20483,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 125592,
       "name": "Lembra Aquele Cara",
       "url": "https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc"
@@ -25305,6 +25305,24 @@
       "duration_ms": 108961,
       "name": "MONTAGEM CORAL 1.0",
       "url": "https://open.spotify.com/track/7ouAHW8sb7bwHvTkvD3aT9"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114951,
+      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
+      "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
     },
     {
       "album": {
@@ -30827,6 +30845,24 @@
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA"
+    },
+    {
+      "album": {
+        "name": "Pi Po Po Po Ro Po",
+        "url": "https://open.spotify.com/album/4w4GslId2wN8gzfq3HbE99"
+      },
+      "artists": [
+        {
+          "name": "Forr\u00f3 Hits",
+          "url": "https://open.spotify.com/artist/7H2UiBSifBq66tzbg9ECNM"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133860,
+      "name": "Pi Po Po Po Ro Po",
+      "url": "https://open.spotify.com/track/5Y8p5bGWIvUrFwRS92tXl6"
     },
     {
       "album": {

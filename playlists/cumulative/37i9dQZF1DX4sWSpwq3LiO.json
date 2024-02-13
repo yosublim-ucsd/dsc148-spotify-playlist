@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Arbor",
+        "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Arbor",
+      "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
+    },
+    {
+      "album": {
         "name": "Archipelago",
         "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
@@ -13230,7 +13248,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 129642,
       "name": "Le d\u00e9sir d'amour",
       "url": "https://open.spotify.com/track/1THlfYe3VM1P2V7oPIbWW1"
@@ -16530,7 +16548,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 90717,
       "name": "My Little Treasure",
       "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
@@ -18440,7 +18458,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 150000,
       "name": "Ottilia",
       "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
@@ -23198,7 +23216,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 151764,
       "name": "Solace",
       "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
@@ -24640,7 +24658,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 163124,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/7w2uDecC0itAWOKd186QLY"
@@ -26214,6 +26232,24 @@
       "duration_ms": 111500,
       "name": "The stars are listening",
       "url": "https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP"
+    },
+    {
+      "album": {
+        "name": "The swan",
+        "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
+      },
+      "artists": [
+        {
+          "name": "Ava Cerasoli",
+          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "The swan",
+      "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"
     },
     {
       "album": {

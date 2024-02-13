@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,550 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,577 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 59 | [paranoie lowcost](https://open.spotify.com/track/4c7Uw6OhH5tYKw6W2LluQk) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC) | [paranoie lowcost](https://open.spotify.com/album/5NmfFLvPPXmX8VICqOruf0) | 3:32 |
 | 60 | [OGNI VOLTA CHE](https://open.spotify.com/track/07hBXO23Q8jkOQkzvZjPPi) | [Figlio d'Arte](https://open.spotify.com/artist/4g50InsFufwu6IejKiNmIj) | [OGNI VOLTA CHE](https://open.spotify.com/album/09ssavVZzTYSM1MQXtZHBq) | 2:28 |
 
-Snapshot ID: `MCw0ZGQ0ZDIxYWVjNmMxZjJlYzcyNDRiODhiZGNiNTEwNWM0MzIwMTU3`
+Snapshot ID: `MCxlZjA3OGRlYmFmYTk0M2MyMjgzZTdjM2ZlZDMzMzFhOTk5OThkZWEw`

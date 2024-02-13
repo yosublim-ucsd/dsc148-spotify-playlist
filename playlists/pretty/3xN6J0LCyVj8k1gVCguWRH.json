@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
-  "num_followers": 107883,
+  "num_followers": 107882,
   "original_name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NzM0OCxiZWZiZTdhMGJkYTFjNWQ3NzI4NTQxNWQ2NTZkNmU2ODQxMjU0ZTc2",
+  "snapshot_id": "NzM1NCxiMTVmNmU1ZGIxOGY0YzdmYTliZDg1ZGEyNGZmYzY4ZjkzZTFjOTk0",
   "tracks": [
     {
       "added_at": "2023-12-29 15:33:48",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2024-02-10 13:19:23",
-      "album": {
-        "name": "Baby Boo",
-        "url": "https://open.spotify.com/album/4K2cmfMq8FprYE8i5CKAOx"
-      },
-      "artists": [
-        {
-          "name": "Tala Silva",
-          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/5kbgvuX9BRMOVs8PcehUKw"
-    },
-    {
       "added_at": "2023-12-29 15:40:21",
       "album": {
         "name": "The Returner",
@@ -203,26 +187,6 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
-    },
-    {
-      "added_at": "2024-02-10 18:03:28",
-      "album": {
-        "name": "Cheater",
-        "url": "https://open.spotify.com/album/12gQqnsBLh1FIJCGOpK9TW"
-      },
-      "artists": [
-        {
-          "name": "Naomi Stone",
-          "url": "https://open.spotify.com/artist/5ZuN3u7muM99OKq7hEsJir"
-        },
-        {
-          "name": "Goodboy.",
-          "url": "https://open.spotify.com/artist/1X12gOubhm4HmjV7SmZDzk"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Cheater",
-      "url": "https://open.spotify.com/track/4mGWbTemVMPAzjIdRJ9IeE"
     },
     {
       "added_at": "2023-12-29 15:41:16",
@@ -303,6 +267,26 @@
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+    },
+    {
+      "added_at": "2024-02-12 18:02:44",
+      "album": {
+        "name": "Do You Ever Wonder?",
+        "url": "https://open.spotify.com/album/4ZFKiVwUVPrdHTPBco6ryQ"
+      },
+      "artists": [
+        {
+          "name": "WYFE",
+          "url": "https://open.spotify.com/artist/1SSO4sbzquWGKSOpO5FO53"
+        },
+        {
+          "name": "Fourtuna",
+          "url": "https://open.spotify.com/artist/3rQv0qMuHpgSiiGRLDHkyb"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Livin' a Dream",
+      "url": "https://open.spotify.com/track/7qyFllvLTXpacKanr3y8fB"
     },
     {
       "added_at": "2023-12-29 15:44:20",
@@ -485,22 +469,6 @@
       "url": "https://open.spotify.com/track/79DYCnC5S7lhCwo1rKIwoM"
     },
     {
-      "added_at": "2024-02-10 18:03:24",
-      "album": {
-        "name": "james dean",
-        "url": "https://open.spotify.com/album/2c9tBJKWNN3e61Kn0mhzVG"
-      },
-      "artists": [
-        {
-          "name": "tiger del flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "james dean",
-      "url": "https://open.spotify.com/track/5uH0GZs8XjQNzLCc9wEpfX"
-    },
-    {
       "added_at": "2023-12-29 15:48:39",
       "album": {
         "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
@@ -563,6 +531,58 @@
       "duration_ms": 141428,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/5xyHcS1htQJvPwEhgncyNm"
+    },
+    {
+      "added_at": "2024-02-10 13:19:23",
+      "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/4K2cmfMq8FprYE8i5CKAOx"
+      },
+      "artists": [
+        {
+          "name": "Tala Silva",
+          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
+        }
+      ],
+      "duration_ms": 202025,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/5kbgvuX9BRMOVs8PcehUKw"
+    },
+    {
+      "added_at": "2024-02-10 18:03:28",
+      "album": {
+        "name": "Cheater",
+        "url": "https://open.spotify.com/album/12gQqnsBLh1FIJCGOpK9TW"
+      },
+      "artists": [
+        {
+          "name": "Naomi Stone",
+          "url": "https://open.spotify.com/artist/5ZuN3u7muM99OKq7hEsJir"
+        },
+        {
+          "name": "Goodboy.",
+          "url": "https://open.spotify.com/artist/1X12gOubhm4HmjV7SmZDzk"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Cheater",
+      "url": "https://open.spotify.com/track/4mGWbTemVMPAzjIdRJ9IeE"
+    },
+    {
+      "added_at": "2024-02-10 18:03:24",
+      "album": {
+        "name": "james dean",
+        "url": "https://open.spotify.com/album/2c9tBJKWNN3e61Kn0mhzVG"
+      },
+      "artists": [
+        {
+          "name": "tiger del flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "james dean",
+      "url": "https://open.spotify.com/track/5uH0GZs8XjQNzLCc9wEpfX"
     },
     {
       "added_at": "2024-02-10 12:00:55",
@@ -707,22 +727,6 @@
       "duration_ms": 223728,
       "name": "Little Beggar",
       "url": "https://open.spotify.com/track/60SneKsip9T4iQHvsLj4jO"
-    },
-    {
-      "added_at": "2024-02-05 00:31:27",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3DZY9RNXas30GvPDJWAfUI"
-      },
-      "artists": [
-        {
-          "name": "Elle Isadora",
-          "url": "https://open.spotify.com/artist/0008im8MRP9d8ogDqxgBKO"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4c2JIiFwqyv33BkKSyAhMj"
     },
     {
       "added_at": "2024-02-04 18:01:28",
@@ -3083,6 +3087,22 @@
       "duration_ms": 199965,
       "name": "Hasta la \u00faltima ma\u00f1ana",
       "url": "https://open.spotify.com/track/2zzH3hbyCxV4SpkOzV3HtP"
+    },
+    {
+      "added_at": "2024-02-12 03:32:40",
+      "album": {
+        "name": "No Te Lo Mereces",
+        "url": "https://open.spotify.com/album/2vLoBN1rPBUhcWT8wkhiVd"
+      },
+      "artists": [
+        {
+          "name": "Victoria Yoi",
+          "url": "https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T"
+        }
+      ],
+      "duration_ms": 195363,
+      "name": "No Te Lo Mereces",
+      "url": "https://open.spotify.com/track/3egtBfWrAU4tqbYk4LQ4ox"
     },
     {
       "added_at": "2024-02-07 16:34:16",

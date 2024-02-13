@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 54754,
+  "2024-02-13": 54851,
   "date_first_scraped": "2023-10-15",
   "description": "\u00bfA qu\u00e9 suena un coraz\u00f3n roto? \ud83d\udc94 Visita el Breakup Room by AleeBaes, reg\u00edstrate <a href=\"https://www.eventbrite.com/e/breakup-room-tickets-808081622887//\"> aqu\u00ed</a>. ",
   "name": "Breakup Room",
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 167000,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
@@ -2621,6 +2621,24 @@
       "duration_ms": 150731,
       "name": "Torch Song",
       "url": "https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2"
+    },
+    {
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255660,
+      "name": "TRASCENDER",
+      "url": "https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 712465,
+  "2024-02-13": 712440,
   "date_first_scraped": "2023-12-19",
   "description": "Temitas chulos para acompa\u00f1arte cuando vas de un sitio a otro.",
   "name": "Voy pall\u00e1",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"

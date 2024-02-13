@@ -4,12 +4,13 @@
 
 > pov, you ask for your Martini shaken...
 
-51 songs - 2 hr 40 min
+52 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 | 2021-10-21 |  |
 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 | 2021-10-21 |  |
+| [Cha tatch ka](https://open.spotify.com/track/6DGAPpaH9L7nWWlxVWpMcu) | [Bernard Estardy](https://open.spotify.com/artist/4Q9cCxYDsJQc4MhC2pQZhm) | [La formule du baron](https://open.spotify.com/album/7w4P7eIRiL8WKalceUxMWK) | 2:27 | 2021-10-21 |  |
 | [Cobwebs and Rainbows](https://open.spotify.com/track/0tjoIFhgOdPL8Oepm7ZO2k) | [Dick Walter](https://open.spotify.com/artist/3bhwPW2KAIrtctvKZXmWVN) | [Pure Big Band \- Part 2 / Vocals](https://open.spotify.com/album/6ZzW5gbGwFXl1OgU3sxeBg) | 3:03 | 2021-10-21 |  |
 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 | 2022-04-01 |  |
 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 | 2021-10-21 |  |
@@ -51,7 +52,7 @@
 | [The Cat](https://open.spotify.com/track/1AZ5G23Kcn9h5Awws5Ekf3) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Cat](https://open.spotify.com/album/6CvGnsHhBjVvGKgmIkpLMs) | 3:24 | 2021-10-21 |  |
 | [The James Bond Theme \- 1995 Remaster](https://open.spotify.com/track/5E3n459RNgTgWjuNDivIvC) | [John Barry and the Seven](https://open.spotify.com/artist/6O9cIK0qYDPFnJlokZYJ7E) | [The Bee's Knees \(The EMI Years 1957 \- 1962\)](https://open.spotify.com/album/1V8isrWhBs8RhDV6qduH0Q) | 1:45 | 2022-04-01 |  |
 | [The Riviera Affair](https://open.spotify.com/track/1N1ev4dk3kZv7mBy6Hd4WD) | [Neil Richardson](https://open.spotify.com/artist/7EkKwcqYPySE4sq6H4wjae) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 1:34 | 2021-10-21 |  |
-| [Thunderball \(Main Title\) \- Remastered 2003](https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Thunderball \(Original Motion Picture Soundtrack / Remastered 2003\)](https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN) | 3:03 | 2022-04-01 |  |
+| [Thunderball \(Main Title\) \- Remastered 2003](https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Thunderball \(Original Motion Picture Soundtrack / Remastered 2003\)](https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN) | 3:03 | 2022-04-01 | 2024-02-13 |
 | [Topless Party](https://open.spotify.com/track/7lCzY3lj586QbvglU8TCtU) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 3:04 | 2021-10-21 |  |
 | [Tropicola](https://open.spotify.com/track/3xZJn2CfcdZdJfz42zfkd0) | [Stringtronics](https://open.spotify.com/artist/3sx7cXQfuXo1mZwAs2tFDs) | [Tropicola](https://open.spotify.com/album/0TaZtcEIgep7xDMoW6efu4) | 2:41 | 2021-10-21 |  |
 | [Underlay No.3](https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5) | [Jack Trombey](https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v) | 4:02 | 2021-10-21 |  |

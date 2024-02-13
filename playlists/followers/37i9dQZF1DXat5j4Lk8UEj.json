@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 490554,
+  "2024-02-13": 490587,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
   "name": "Folk Rock Favorites",
@@ -2547,7 +2547,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/01eqfDvkAeItZ8NJNc6f6v"
@@ -4511,6 +4511,24 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
+        "name": "Waste of Time",
+        "url": "https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183139,
+      "name": "Waste of Time",
+      "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
     },
     {
       "album": {

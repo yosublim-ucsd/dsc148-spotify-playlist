@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 165785,
+  "num_followers": 165854,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM1NjQ1YzBlODJkMjM0MjUzYTJhNjU3MzIxOTA4YjRhOTMzMmMy",
+  "snapshot_id": "MCw5ZDU0MTRmZGQzOWViYzRlNzJmZDIxOTJiMTFmNWVmNGYyZjM4MmQ2",
   "tracks": [
     {
       "added_at": "2024-01-19 08:40:44",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "For Long Tomorrow",
+        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
+      },
+      "artists": [
+        {
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "two moons",
+      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Here comes a new challenger!",
         "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
       },
@@ -223,34 +239,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Floral EP",
-        "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
+        "name": "Twin Galaxies",
+        "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
       },
       "artists": [
         {
-          "name": "Floral",
-          "url": "https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k"
+          "name": "Delta Sleep",
+          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
         }
       ],
-      "duration_ms": 219265,
-      "name": "Climbing a Wall",
-      "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "For Long Tomorrow",
-        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
-      },
-      "artists": [
-        {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "two moons",
-      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
+      "duration_ms": 189828,
+      "name": "Camp Adventure",
+      "url": "https://open.spotify.com/track/1zvAP1uHLSDblWvv25rtad"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Twin Galaxies",
-        "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
+        "name": "Floral EP",
+        "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
       },
       "artists": [
         {
-          "name": "Delta Sleep",
-          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
+          "name": "Floral",
+          "url": "https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k"
         }
       ],
-      "duration_ms": 189828,
-      "name": "Camp Adventure",
-      "url": "https://open.spotify.com/track/1zvAP1uHLSDblWvv25rtad"
+      "duration_ms": 219265,
+      "name": "Climbing a Wall",
+      "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "World",
         "url": "https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 196077,
       "name": "Name",
       "url": "https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "The View From This Tower",
         "url": "https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+        "name": "Centro De Dispersi\u00f3n",
+        "url": "https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde"
       },
       "artists": [
         {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+          "name": "Kjjjjjjjjj",
+          "url": "https://open.spotify.com/artist/41H3nsLvw0N1Z8FBov2Jgd"
         }
       ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
+      "duration_ms": 184639,
+      "name": "Cartus",
+      "url": "https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -615,22 +631,6 @@
       "duration_ms": 283213,
       "name": "Fire Back About Your New Baby's Sex",
       "url": "https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Centro De Dispersi\u00f3n",
-        "url": "https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde"
-      },
-      "artists": [
-        {
-          "name": "Kjjjjjjjjj",
-          "url": "https://open.spotify.com/artist/41H3nsLvw0N1Z8FBov2Jgd"
-        }
-      ],
-      "duration_ms": 184639,
-      "name": "Cartus",
-      "url": "https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "X'ed Out",
-        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
-      },
-      "artists": [
-        {
-          "name": "Tera Melos",
-          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Weird Circles",
-      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "The EPs",
         "url": "https://open.spotify.com/album/6a6At1Djmp0LHbmFfaOUHI"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 304000,
       "name": "That's Git",
       "url": "https://open.spotify.com/track/3XY1XnhE0QjPUZqpIb7GDn"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "X'ed Out",
+        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
+      },
+      "artists": [
+        {
+          "name": "Tera Melos",
+          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Weird Circles",
+      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Gloss Drop",
-        "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
-      },
-      "artists": [
-        {
-          "name": "Battles",
-          "url": "https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA"
-        }
-      ],
-      "duration_ms": 377493,
-      "name": "Futura",
-      "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "A Forest of Polarity",
         "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 217360,
       "name": "Raft Easily",
       "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Gloss Drop",
+        "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
+      },
+      "artists": [
+        {
+          "name": "Battles",
+          "url": "https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA"
+        }
+      ],
+      "duration_ms": 377493,
+      "name": "Futura",
+      "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Voces iluminadas por sonrientes",
-      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 183286,
       "name": "Saint Loser",
       "url": "https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Voces iluminadas por sonrientes",
+      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
         "name": "Asbestos Weak Hood",
         "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 182750,
       "name": "Ruth Leslie (Cigregrets Pt. 1)",
       "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Naufragio",
-        "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
-      },
-      "artists": [
-        {
-          "name": "Wanderlust",
-          "url": "https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Baile Amargo",
-      "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+        "name": "Naufragio",
+        "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
       },
       "artists": [
         {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+          "name": "Wanderlust",
+          "url": "https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY"
         }
       ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+      "duration_ms": 174000,
+      "name": "Baile Amargo",
+      "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
     },
     {
       "added_at": "2024-01-19 08:40:44",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2024-01-19 08:40:44",
       "album": {
-        "name": "P\u00e1ramo",
-        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
-      },
-      "artists": [
-        {
-          "name": "Def\u00f3rmica",
-          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Novelesco",
-      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
-        "name": "Psych!",
-        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
-      },
-      "artists": [
-        {
-          "name": "Shaolin",
-          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
-        }
-      ],
-      "duration_ms": 276551,
-      "name": "Aquabus",
-      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
-    },
-    {
-      "added_at": "2024-01-19 08:40:44",
-      "album": {
         "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
         "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
       },
@@ -1495,6 +1463,38 @@
       "duration_ms": 381360,
       "name": "Una Historia para Acabar Con Todas las Historias",
       "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
+      },
+      "artists": [
+        {
+          "name": "Def\u00f3rmica",
+          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Novelesco",
+      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
+    },
+    {
+      "added_at": "2024-01-19 08:40:44",
+      "album": {
+        "name": "Psych!",
+        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
+      },
+      "artists": [
+        {
+          "name": "Shaolin",
+          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
+        }
+      ],
+      "duration_ms": 276551,
+      "name": "Aquabus",
+      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
       "added_at": "2024-01-19 08:40:44",

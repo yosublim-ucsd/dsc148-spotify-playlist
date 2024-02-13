@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5870,
+  "num_followers": 5876,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmIzODNjNWUyOTFiZDFlMjYzNGVkZDk5ZTA5NzQ0MmQxNGY3NDY2",
+  "snapshot_id": "MCw1Y2ZmM2ViYzRjNDliMmI3NjNiMjQwNjA0ODk3ODhjMjdlZWViMjgx",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -611,6 +611,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "Lost in Space",
+        "url": "https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH"
+      },
+      "artists": [
+        {
+          "name": "Jonzun Crew",
+          "url": "https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59"
+        }
+      ],
+      "duration_ms": 383541,
+      "name": "We are the Jonzun Crew",
+      "url": "https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Call Me Up",
         "url": "https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 686266,
       "name": "Mega-Mix \"Prelude #1\" - Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train (Dub) & Body Music",
       "url": "https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "Lost in Space",
-        "url": "https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH"
-      },
-      "artists": [
-        {
-          "name": "Jonzun Crew",
-          "url": "https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59"
-        }
-      ],
-      "duration_ms": 383541,
-      "name": "We are the Jonzun Crew",
-      "url": "https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e"
     },
     {
       "added_at": "2020-08-28 18:46:05",

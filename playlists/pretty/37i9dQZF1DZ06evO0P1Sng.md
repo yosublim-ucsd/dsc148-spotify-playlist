@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,782 likes - 51 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,784 likes - 51 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 44 | [Mete Ficha](https://open.spotify.com/track/5RpEk0ucLSn4TlaFZ0TxuE) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [tharealjuggboy](https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR), [Lc da 100](https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Mete Ficha](https://open.spotify.com/album/1GdQdCeWKMV8uKxxcFWf8L) | 2:19 |
 | 45 | [Robocop](https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 1:44 |
 | 46 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 |
-| 47 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
-| 48 | [Só Eu](https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Só Eu](https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG) | 3:03 |
+| 47 | [Só Eu](https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Só Eu](https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG) | 3:03 |
+| 48 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
 | 49 | [Te Levar \- Acústico](https://open.spotify.com/track/4462AMqVy2RZnBmrfXq4RP) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Te Levar \(Acústico\)](https://open.spotify.com/album/6iIjXgimA2PGFG6jMlrO1T) | 3:13 |
 | 50 | [think of me.](https://open.spotify.com/track/1sM8jvXUHPQfMDtzDDksJT) | [Bloque](https://open.spotify.com/artist/4JmDhnwJ8dEymk7vkeV8hz), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Super Static](https://open.spotify.com/artist/0Bth6SDuK4U3aaI4xieTzg) | [think of me](https://open.spotify.com/album/4IfGry1nodm4bJowPJLLnT) | 2:54 |
 | 51 | [Eles Não Ligam pra Gente](https://open.spotify.com/track/1c6VpSBIBNrDjEZusw6s4u) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Eles Não Ligam pra Gente](https://open.spotify.com/album/0BuyFqzcRGzwprTN399tYm) | 6:00 |
 
-Snapshot ID: `Mjg0NjA4NjYsMDAwMDAwMDBhMTlkNTU3YjI5YTY4OWVhMjY4MTJlYzk2NjU1MWRmYw==`
+Snapshot ID: `Mjg0NjIzMTUsMDAwMDAwMDBjM2E4MTM2MWJhN2JmYzJiZGVkMmUyNzE1MTM1MjI0OQ==`

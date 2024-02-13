@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 2973,
+  "2024-02-13": 2978,
   "date_first_scraped": "2022-08-06",
   "description": "consider this an RSVP to littest wedding parties ",
   "name": "Small Chops ",
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Afro Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204684,
+      "name": "For Instance",
+      "url": "https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh"
+    },
+    {
+      "album": {
         "name": "Afro Love",
         "url": "https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7"
       },
@@ -693,7 +711,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 204684,
       "name": "For Instance",
       "url": "https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Dodit Mulyanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,829 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,831 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 74 | [Bahagia Kini Ada](https://open.spotify.com/track/5W7CC8g5n5aTk8p6ZKA8kV) | [Verena](https://open.spotify.com/artist/1GNkIJqDGkR6UbADGEhrTQ) | [Bahagia Kini Ada](https://open.spotify.com/album/6mOcLK56kb8v9D9hPMcagt) | 3:13 |
 | 75 | [Aku, Kamu & Cerita](https://open.spotify.com/track/7hdGO8GVC8TqvjbfkWpA9F) | [Yosafat](https://open.spotify.com/artist/08EpRF0l4NfhHGv4GZiFhs) | [Aku, Kamu & Cerita](https://open.spotify.com/album/3z5aDyxuan7GySh6WHQB27) | 3:46 |
 
-Snapshot ID: `MCxkZWEzOTQzZWYwMDc2MmM4MTVhZDE3YTQ4NDUzMjRkZmYzN2ViNTll`
+Snapshot ID: `MCwzOWQ4MTZmYzgxYWI1YTlkMGQxMzkxODlmMDUzMDcyYmVlNTMzNzc0`

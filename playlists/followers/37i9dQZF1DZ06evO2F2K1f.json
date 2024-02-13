@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 966,
+  "2024-02-13": 965,
   "date_first_scraped": "2022-05-30",
   "description": "This is Alan Hawkshaw. The essential tracks, all in one playlist.",
   "name": "This Is Alan Hawkshaw",
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 138453,
       "name": "Big Black Cadillac",
       "url": "https://open.spotify.com/track/3NVhdWRA0VKc8C9CqHdWsQ"
@@ -1929,7 +1929,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"

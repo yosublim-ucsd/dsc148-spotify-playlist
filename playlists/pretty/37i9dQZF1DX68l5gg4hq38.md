@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,761 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,778 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 49 | [Lost in the Deep](https://open.spotify.com/track/5uKb1xRoaVBFyjscyAhnMN) | [Vince Watson](https://open.spotify.com/artist/2Y3cH3SUZL9XKfKD3novXt) | [Another Moment in Time](https://open.spotify.com/album/2nsFp8cCdMbgW4tFw6jI3m) | 7:03 |
 | 50 | [Timbaleiro \- Original Mix](https://open.spotify.com/track/6SXfCWWAeqj0UcdD3jvS1k) | [Walter G](https://open.spotify.com/artist/1LMZL3VJSIm3OjKTtpuyUw) | [Timbaleiro](https://open.spotify.com/album/6grPcCiJpAxsgFo0oXBDt2) | 6:02 |
 
-Snapshot ID: `MCwzOTRmMDk3OThhNGI2ODdlNjE0ZDM5NGQ5YTQzNGRiZTM1MDI5NWI1`
+Snapshot ID: `MCw5MTFmYmZkZGY3ZWNjNDRmNDBiZGUxMDdmMjU3OTEyN2M4MzY0YzU0`

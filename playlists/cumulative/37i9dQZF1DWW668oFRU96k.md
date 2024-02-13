@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Mason x Princess Superstar
 
-850 songs - 1 day 18 hr 17 min
+850 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Fulfillment](https://open.spotify.com/track/0TXsD8pXzfE11soERSXQ1f) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Fulfillment](https://open.spotify.com/album/3efNW239KQaVkZCGkVSsoX) | 3:29 | 2024-02-01 |  |
 | [Gaze Riddim](https://open.spotify.com/track/5Xq7NJfg5tS5qBG1iW0k9Z) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Justri](https://open.spotify.com/artist/538AGkkV4ipbxcHx47TvxA) | [Gaze Riddim](https://open.spotify.com/album/5Xzat1xqYPrvGcntlRUIgN) | 2:32 | 2024-02-08 |  |
 | [Gen\-Zot](https://open.spotify.com/track/3l01vl9WCidY5PcVxNOgmO) | [Arsz](https://open.spotify.com/artist/2tRJMOTiLofJH5XlLm6ciD) | [Gen\-Zot](https://open.spotify.com/album/0SpJWbPfs4avT9NueEVaGP) | 2:15 | 2023-12-21 | 2024-01-26 |
-| [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:26 | 2024-02-08 |  |
+| [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:11 | 2024-02-08 |  |
 | [Get On Down](https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Get On Down](https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz) | 3:05 | 2023-03-30 | 2023-05-05 |
 | [Get Out](https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Get Out](https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6) | 2:38 | 2023-05-18 | 2023-06-23 |
 | [Get Shaky](https://open.spotify.com/track/3lmvwxi0iX53UAwrl5YShV) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Get Shaky](https://open.spotify.com/album/0MgNmWt1iK8KnEG50nxH4u) | 2:43 | 2023-10-26 | 2023-12-01 |

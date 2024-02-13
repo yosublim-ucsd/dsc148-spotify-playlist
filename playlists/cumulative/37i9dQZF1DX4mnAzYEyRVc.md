@@ -2,7 +2,7 @@
 
 ### [Ska Around The Globe](https://open.spotify.com/playlist/37i9dQZF1DX4mnAzYEyRVc)
 
-> The world series of Ska\. Cover: Out Of Control Army
+> The world series of Ska\. Cover: Mad Caddies
 
 589 songs - 1 day 10 hr 14 min
 

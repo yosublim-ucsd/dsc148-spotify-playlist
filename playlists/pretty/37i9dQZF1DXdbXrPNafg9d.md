@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,643 likes - 175 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,708 likes - 175 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [A Stitch In Time](https://open.spotify.com/track/3B66jk36KF24lpTAVukU9T) | [Midi Memory](https://open.spotify.com/artist/67c577KTE235yIneE18N6o) | [Far Gone and Out](https://open.spotify.com/album/5Gn8kDRcKggF0eVLhbkGA1) | 3:01 |
 | 175 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
 
-Snapshot ID: `MCxlNDM3NjNmNzNkODAxN2UyNTQwNjhkZDc0N2YyNjM3MmUyMjUzZjkx`
+Snapshot ID: `MCw0MzZlZGZlMGY2ODMyNjAyNjc5MjE3NDBkMGFiNzE5OTIwOWJhZmVm`

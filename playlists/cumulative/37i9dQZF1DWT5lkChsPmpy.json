@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "By The Sea",
+        "url": "https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep"
+      },
+      "artists": [
+        {
+          "name": "Epulu",
+          "url": "https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161582,
+      "name": "By The Sea",
+      "url": "https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII"
+    },
+    {
+      "album": {
         "name": "Bye Felicia!",
         "url": "https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf"
       },
@@ -2651,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Foresta",
+        "url": "https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf"
+      },
+      "artists": [
+        {
+          "name": "Maya Mde",
+          "url": "https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176315,
+      "name": "Foresta",
+      "url": "https://open.spotify.com/track/27deYXGhkgSd7glci93wwK"
+    },
+    {
+      "album": {
         "name": "Forever Yours",
         "url": "https://open.spotify.com/album/0nWeoNfUl2JRU8yWd88KLL"
       },
@@ -2882,6 +2918,24 @@
       "duration_ms": 155300,
       "name": "gather around",
       "url": "https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f"
+    },
+    {
+      "album": {
+        "name": "Genuine",
+        "url": "https://open.spotify.com/album/4jzUjbXORZwQPO5d8Mg0pb"
+      },
+      "artists": [
+        {
+          "name": "Djourney",
+          "url": "https://open.spotify.com/artist/3zRxjnGfKpdvQ1JaizZA56"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "Genuine",
+      "url": "https://open.spotify.com/track/2ShlwGnod4fEJimzZv1tOi"
     },
     {
       "album": {
@@ -4112,6 +4166,24 @@
       "duration_ms": 173500,
       "name": "Lightweight",
       "url": "https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN"
+    },
+    {
+      "album": {
+        "name": "Limestone",
+        "url": "https://open.spotify.com/album/47tiW14l56cvqSLUinTdzf"
+      },
+      "artists": [
+        {
+          "name": "Il Greco",
+          "url": "https://open.spotify.com/artist/6akppwCmIdXMHpXWXzYTyp"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157166,
+      "name": "Limestone",
+      "url": "https://open.spotify.com/track/2IxHkGERPdZFjN7Q2gqxXv"
     },
     {
       "album": {
@@ -6978,7 +7050,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 108387,
       "name": "State of Consciousness",
       "url": "https://open.spotify.com/track/3m5Britq8BKxzcRpiaIk71"

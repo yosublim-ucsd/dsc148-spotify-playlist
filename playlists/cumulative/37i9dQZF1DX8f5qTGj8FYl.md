@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-261 songs - 17 hr 58 min
+262 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Backwash](https://open.spotify.com/track/7sMc8fqJ5ehZJtZoKXgItD) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/6aVAwiFG24G3VJNedr5ues) | 5:21 | 2021-04-23 | 2022-07-29 |
 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 | 2020-11-13 |  |
 | [Barbara's Lair](https://open.spotify.com/track/6wqocSkSI0seVWfqb2Xl3v) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Barbara's Lair](https://open.spotify.com/album/5lb7OV3mh2KXpKHW3wWRcM) | 4:39 | 2022-04-29 | 2022-05-26 |
-| [Basilisk](https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H) | 4:29 | 2021-02-19 |  |
+| [Basilisk](https://open.spotify.com/track/2PAQg2FbOedG2BGxZxgnxL) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Chimera](https://open.spotify.com/album/1nqEB1PcVRdPTxHAlnZ2kN) | 4:29 | 2023-08-04 |  |
+| [Basilisk](https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H) | 4:29 | 2021-02-19 | 2024-02-13 |
 | [Basilisk](https://open.spotify.com/track/7v3AjcrNK5pd3pBunzI4DI) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/7qz2BSHveJFW2HNhWZu2kV) | 4:29 | 2021-02-19 | 2022-07-29 |
 | [Basket Case](https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Golden Ticket](https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6) | 3:48 | 2020-11-13 |  |
 | [BITTERSWEET](https://open.spotify.com/track/54zWQx9UkouSu8x403Ggho) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [BITTERSWEET](https://open.spotify.com/album/2iyhSZhJCh7Rvot3bnHGdF) | 4:04 | 2020-11-13 |  |

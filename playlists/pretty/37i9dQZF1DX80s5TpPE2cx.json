@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
-  "num_followers": 8542,
+  "num_followers": 8555,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2Q4MWNkMzdjYmM2MzYyOTYzNGEzNjM1MzdmMDQxNGE3ZTIzNWE5",
+  "snapshot_id": "MCw0ZmVjMTlmYjYyNTEzZDdiNDUyZjFlNzMxNTk2ZTFkZDljOWFkMjY0",
   "tracks": [
     {
       "added_at": "2024-02-09 00:02:00",
@@ -339,30 +339,6 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "ULTRALIGHT",
-        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "MEDITATE",
-      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
@@ -387,22 +363,6 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "SARO",
-        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
-      },
-      "artists": [
-        {
-          "name": "Jinmi Abduls",
-          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
-        }
-      ],
-      "duration_ms": 182475,
-      "name": "SARO",
-      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
       },
@@ -415,6 +375,30 @@
       "duration_ms": 190104,
       "name": "Radio",
       "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "ULTRALIGHT",
+        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "MEDITATE",
+      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -439,6 +423,22 @@
       "duration_ms": 217487,
       "name": "Gardens",
       "url": "https://open.spotify.com/track/3XlMp86m5fJzly6Wn9vQDP"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "SARO",
+        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "duration_ms": 182475,
+      "name": "SARO",
+      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
         "name": "Skedaddle",
         "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
       },
@@ -595,42 +611,6 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Palmwine Music",
-        "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Funbi",
-          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
-        }
-      ],
-      "duration_ms": 264138,
-      "name": "Up To You - Ikon Mix",
-      "url": "https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
       },
@@ -643,22 +623,6 @@
       "duration_ms": 191179,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
-        "name": "Maame Water",
-        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "Maame Water",
-      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -679,34 +643,38 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+        "name": "Maame Water",
+        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Catching a Wav",
-      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
+      "duration_ms": 179915,
+      "name": "Maame Water",
+      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
     },
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+        "name": "Palmwine Music",
+        "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Funbi",
+          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
         }
       ],
-      "duration_ms": 231160,
-      "name": "MONICA",
-      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
+      "duration_ms": 264138,
+      "name": "Up To You - Ikon Mix",
+      "url": "https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -735,6 +703,22 @@
       "duration_ms": 245655,
       "name": "Desire (feat. Funbi & Tay Iwar)",
       "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Catching a Wav",
+      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -775,6 +759,22 @@
       "duration_ms": 229653,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "MONICA",
+      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -855,26 +855,26 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Leap of Faith",
-        "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
         },
         {
-          "name": "Sona",
-          "url": "https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w"
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
         },
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Nick Souza",
+          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
         }
       ],
-      "duration_ms": 259134,
-      "name": "My Wave",
-      "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
+      "duration_ms": 190144,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -903,26 +903,42 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
+        "name": "Leap of Faith",
+        "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
       "artists": [
         {
-          "name": "Chxf Barry",
-          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+          "name": "Sona",
+          "url": "https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w"
         },
         {
-          "name": "Nick Souza",
-          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 190144,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
+      "duration_ms": 259134,
+      "name": "My Wave",
+      "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "Sunsets in Lagos",
+        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "duration_ms": 223896,
+      "name": "Aiya",
+      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -943,22 +959,6 @@
       "duration_ms": 212506,
       "name": "Supa Sigh",
       "url": "https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
-        "name": "Sunsets in Lagos",
-        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
-      },
-      "artists": [
-        {
-          "name": "Bella Alubo",
-          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
-        }
-      ],
-      "duration_ms": 223896,
-      "name": "Aiya",
-      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Lagos City Vice",
-        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
-      },
-      "artists": [
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "China Designer",
-      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
         "name": "Wuse II (feat. Odunsi)",
         "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
       },
@@ -1063,22 +1047,18 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Insert Project Name",
-        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
+        "name": "Lagos City Vice",
+        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
       },
       "artists": [
         {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Amaa Rae",
-          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
         }
       ],
-      "duration_ms": 205395,
-      "name": "Whoa!",
-      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
+      "duration_ms": 172800,
+      "name": "China Designer",
+      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -1123,6 +1103,46 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
+        "name": "Lagos (Everyday)",
+        "url": "https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G"
+        },
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lagos (Everyday)",
+      "url": "https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "Insert Project Name",
+        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Amaa Rae",
+          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Whoa!",
+      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE"
       },
@@ -1147,38 +1167,18 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Passport",
-        "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
+        "name": "Bri's Lounge",
+        "url": "https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Dami Oniru",
+          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
         }
       ],
-      "duration_ms": 235000,
-      "name": "TheBox",
-      "url": "https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
-        "name": "Lagos (Everyday)",
-        "url": "https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide"
-      },
-      "artists": [
-        {
-          "name": "GMK",
-          "url": "https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G"
-        },
-        {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lagos (Everyday)",
-      "url": "https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH"
+      "duration_ms": 205400,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

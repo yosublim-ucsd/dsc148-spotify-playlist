@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Hana Eid
 
-2,195 songs - 5 day 0 hr 11 min
+2,196 songs - 5 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1980,7 +1980,8 @@
 | [Touring in January](https://open.spotify.com/track/0KtIEZgs6wl4Oa6smhTTAI) | [String Machine](https://open.spotify.com/artist/0YxHMJ1H95yl1lu1P0oNQj) | [Touring in January](https://open.spotify.com/album/26rhbSIcEoUY3wZHCO51j3) | 3:14 | 2022-01-19 | 2022-02-10 |
 | [Trader Joe's](https://open.spotify.com/track/0ICHBJ0c7fVPtfiqmr6Fsb) | [Hot Moms Club](https://open.spotify.com/artist/44U6qVof1S72cplspDbWrj) | [Trader Joe's](https://open.spotify.com/album/0efRHJNONrPfMRQIgHluND) | 3:02 | 2023-10-25 | 2023-11-30 |
 | [Trader Joe's](https://open.spotify.com/track/2BwKe3zhLFkWYqY2DDB1Yo) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Trader Joe's](https://open.spotify.com/album/5sSf26h9dzlgnSkAnTLv3a) | 2:57 | 2022-06-29 | 2022-08-04 |
-| [Train Full of Gasoline](https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Train Full of Gasoline](https://open.spotify.com/album/7eWG2KYKFaGaGD17wbK22O) | 2:50 | 2024-01-24 |  |
+| [Train Full of Gasoline](https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Train Full of Gasoline](https://open.spotify.com/album/7eWG2KYKFaGaGD17wbK22O) | 2:50 | 2024-01-24 | 2024-02-13 |
+| [Train Full of Gasoline](https://open.spotify.com/track/59bZ9ljtDTsYJZZqgGHQNW) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Harm's Way](https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM) | 2:50 | 2024-01-24 |  |
 | [Transients](https://open.spotify.com/track/39Wa42w288HXCa5I2qkHKD) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Transients](https://open.spotify.com/album/149kG0Ln8mP316svShU5fk) | 3:16 | 2022-03-02 | 2023-01-12 |
 | [Trashcan Heart](https://open.spotify.com/track/6y7Br5JDzdHcPH1LkmGBCN) | [Jive Talk](https://open.spotify.com/artist/1qVQwF3vK1r0TkCZwP9Xbo) | [Trashcan Heart](https://open.spotify.com/album/2TFdJ2HpgEXBRFkDViJkbA) | 3:38 | 2023-06-27 | 2023-08-24 |
 | [Trendsetter](https://open.spotify.com/track/21ekT2xc27flYgcKm7Pce4) | [Colin's Music](https://open.spotify.com/artist/5YjVu4NZ1Gigua36jS01KW) | [Trendsetter](https://open.spotify.com/album/4h93TeDuXDFOU4Uy7CQ151) | 2:21 | 2022-03-09 | 2022-04-13 |

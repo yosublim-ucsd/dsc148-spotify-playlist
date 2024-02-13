@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 119079,
+  "2024-02-13": 119079,
   "date_first_scraped": "2022-02-21",
   "description": "Discover your new favourite artists from UK&IE. Cover: Love Remain",
   "name": "RADAR UK & Ireland",
@@ -3234,6 +3234,24 @@
     },
     {
       "album": {
+        "name": "NOISY_Pre\u2019s",
+        "url": "https://open.spotify.com/album/4zFfnrcNmcLLyPWKg2Uboo"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181499,
+      "name": "Put A Record On",
+      "url": "https://open.spotify.com/track/1cGJXDVFJVuWJEH0T64Wyi"
+    },
+    {
+      "album": {
         "name": "Put A Record On",
         "url": "https://open.spotify.com/album/5QAuMtvx5AKDKaqxkSmjob"
       },
@@ -3263,7 +3281,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 181499,
       "name": "Put A Record On",
       "url": "https://open.spotify.com/track/2SGCf4PBhnBf0NJex8sNyn"

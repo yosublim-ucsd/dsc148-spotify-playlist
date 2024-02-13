@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: NOG
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,188 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,192 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Cicatriz](https://open.spotify.com/track/5OrWTMtApomkSdvC5sS7jd) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Cicatriz](https://open.spotify.com/album/6e7leG2tLWLEt6DI0OiIsO) | 2:26 |
 | 75 | [Poli Sci \(Linhas De Peso\)](https://open.spotify.com/track/4LcDTrUNslaxrivCahTZ5i) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Poli Sci \(Linhas De Peso\)](https://open.spotify.com/album/0x7JxMACS8alYr9f9YvopS) | 2:51 |
 
-Snapshot ID: `MCxmMDk1M2Q4NDQ5NzJkZjg2NTk4NzZmMjc0ZTRkODcxYWFiMjJkZmFk`
+Snapshot ID: `MCw4MWRjMDMzODU1MDNlMDZlYWEyNmRmMGE2ZWI3NTMwMDc2MmNjNjhm`

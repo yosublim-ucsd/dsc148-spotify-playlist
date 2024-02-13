@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  BAD HOP
 
-469 songs - 1 day 0 hr 6 min
+471 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [No control](https://open.spotify.com/track/6EO7ZAlUx1Wgcu4rIIV2Q2) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [No control](https://open.spotify.com/album/7mTK88tTycLDnZFOZYdRU2) | 2:05 | 2024-01-16 |  |
 | [No More Cry](https://open.spotify.com/track/3WADc7iPezZv4eKnZbTixf) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML) | [No More Cry](https://open.spotify.com/album/0TkVdXs7WIP05AnLawcnmo) | 2:03 | 2023-09-21 | 2023-09-27 |
 | [NOROSHI](https://open.spotify.com/track/4VWZnh8PCzPPaAK64I6ygG) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/5J8YRNZtbS0rwbgDPQDisb) | 3:32 | 2024-01-12 | 2024-01-14 |
-| [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 | 2024-01-12 |  |
+| [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 | 2024-01-12 | 2024-02-13 |
+| [NOROSHI](https://open.spotify.com/track/4eDcDZXIcdidReeWrrcVer) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 3:32 | 2024-02-12 |  |
 | [Oboresounahodo](https://open.spotify.com/track/0cYopjWQjMk4CXCuBFDv4A) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW), [Billy Laurent](https://open.spotify.com/artist/64ysMi7mJ9cs9f0fhpDJuM), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Oboresounahodo](https://open.spotify.com/album/4sRDMulpWKhmUd0B5YgI6w) | 3:09 | 2023-12-20 | 2023-12-27 |
 | [Ocean](https://open.spotify.com/track/1UITSxN96W4yMS9c4EXzrq) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Ocean / Only You](https://open.spotify.com/album/7lZtcGMM2GVpUutGTvTYIc) | 3:46 | 2024-01-23 | 2024-01-25 |
 | [Ocean](https://open.spotify.com/track/5YsWlhntxtCQssejNhhGVi) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Ocean / Only You](https://open.spotify.com/album/0Qe4JAYJjWfXuQd3OnhhbK) | 3:46 | 2024-01-24 |  |
@@ -457,6 +458,7 @@
 | [カナデ](https://open.spotify.com/track/12f1Jpu5Xrcl7JVwmAf1uz) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [カナデ](https://open.spotify.com/album/6rvvgIw4mLNYG6M4xE49Vn) | 4:23 | 2023-11-28 | 2024-01-31 |
 | [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 | 2024-02-06 | 2024-02-08 |
 | [ソールとSoul](https://open.spotify.com/track/5B2riCpFmUMebY1W9eABPj) | [TKdaKurobuchi](https://open.spotify.com/artist/3YeqRPuVdUg4RbLJkIMrY8), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [ソールとSoul](https://open.spotify.com/album/3AizpdSBOGiEqkSKGrbGfd) | 2:22 | 2023-11-22 | 2023-11-23 |
+| [チーム友達](https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [チーム友達](https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x) | 2:32 | 2024-02-12 |  |
 | [ビリケン](https://open.spotify.com/track/4uw7rnFgYs9g3pdexIIL7L) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [ビリケン](https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db) | 2:30 | 2023-10-12 | 2023-11-30 |
 | [上にあるバッズ](https://open.spotify.com/track/4YOgeNWNFqgTTAgvPJGXZS) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [TaeyoungBoy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n) | [上にあるバッズ](https://open.spotify.com/album/33A352cI9mBFRpMmuIvZwk) | 2:28 | 2023-09-26 | 2023-09-28 |
 | [不完全態](https://open.spotify.com/track/2759vyolJCyVOjcz5zXogO) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [不完全態](https://open.spotify.com/album/3ePwcb8Rd59SNeUyFQOYpz) | 3:03 | 2023-11-16 | 2023-11-18 |

@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Bellakath en portada
 
-458 songs - 22 hr 46 min
+459 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Ilógico](https://open.spotify.com/track/6a2PRnRqeXkzIaX0a3oLY2) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Ilógico](https://open.spotify.com/album/57sfaJzjp4CP6UcqZc7cm9) | 2:30 | 2023-05-19 | 2023-09-30 |
 | [Imagínate](https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [Imagínate](https://open.spotify.com/album/3E5kxpDUSFKT7SjJY1DOqw) | 3:42 | 2022-02-15 | 2022-07-30 |
 | [Imperio](https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Imperio](https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6) | 3:42 | 2022-01-07 | 2023-04-09 |
-| [Independiente](https://open.spotify.com/track/2dxdN5XWeLM1BgbocLLGgw) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Independiente](https://open.spotify.com/album/7yJumcHNQSYq7KE4bAsFr8) | 1:45 | 2023-09-08 |  |
+| [Independiente](https://open.spotify.com/track/2dxdN5XWeLM1BgbocLLGgw) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Independiente](https://open.spotify.com/album/7yJumcHNQSYq7KE4bAsFr8) | 1:45 | 2023-09-08 | 2024-02-13 |
 | [INESTABLE](https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3) | 2:28 | 2022-06-17 | 2022-10-21 |
 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 | 2022-09-29 | 2023-05-20 |
 | [Inolvidable](https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Inolvidable](https://open.spotify.com/album/3uELVtlt5jNtdea6DlmjIC) | 3:53 | 2022-01-07 | 2022-01-23 |
@@ -442,6 +442,7 @@
 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2022-01-07 | 2023-05-20 |
 | [VAGO](https://open.spotify.com/track/1IVUnFfwdC4FOFGltVLrTy) | [Topanga Hills Mafia](https://open.spotify.com/artist/3WfmSiKFA7md7VjeJHZ4eX), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [VAGO](https://open.spotify.com/album/7FNGqKPIBUGXXfg8Jp3Czp) | 2:34 | 2023-06-23 | 2023-10-21 |
 | [Vamos A Cachondear](https://open.spotify.com/track/2TCNp7wRj91Ho1IUnrslr3) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [w el bravo](https://open.spotify.com/artist/3HCD21KV2cvmSKeuzwDOB8), [Dj KidFlow](https://open.spotify.com/artist/5SM7XkfzEFibCfYuRBg6wO) | [Vamos A Cachondear](https://open.spotify.com/album/2ZcSi63aqw5bI8Iaax08ik) | 3:23 | 2024-01-12 |  |
+| [Vaquero](https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz) | [La Dinastia](https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2) | [100 % Mexicano](https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K) | 4:05 | 2024-02-12 |  |
 | [VELOCIDAD](https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8), [GodBle$$](https://open.spotify.com/artist/34gWDiqInitijQzZsKjKdd) | [VELOCIDAD](https://open.spotify.com/album/3e8hAQPd2hDihjqz7vpiuN) | 1:59 | 2023-07-07 | 2023-11-04 |
 | [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 3:18 | 2022-02-15 | 2022-08-04 |
 | [Vente \(Como Moctezuma\) \- Remix](https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Vente \(Como Moctezuma\) \[Remix\]](https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC) | 2:32 | 2022-01-07 | 2022-05-07 |

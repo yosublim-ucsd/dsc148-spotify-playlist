@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 888269,
+  "2024-02-13": 888403,
   "date_first_scraped": "2022-03-01",
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
   "name": "Best of Live Worship",
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 420886,
       "name": "Cross My Heart - Live",
       "url": "https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1"
@@ -3805,6 +3805,28 @@
       "duration_ms": 372600,
       "name": "Made For More - Live",
       "url": "https://open.spotify.com/track/3eQJ6y1J3VL1cMWQ9cY3tl"
+    },
+    {
+      "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3NSQCYMpoxUm9Mg3qIVLNu"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372600,
+      "name": "Made For More - Live",
+      "url": "https://open.spotify.com/track/5P5mU8DN0qNF2Rlhx6P9VW"
     },
     {
       "album": {

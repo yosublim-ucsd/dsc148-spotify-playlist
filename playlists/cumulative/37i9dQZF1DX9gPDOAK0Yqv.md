@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-441 songs - 1 day 12 hr 54 min
+442 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Hold The Dust](https://open.spotify.com/track/7fmbCNSq2uoIT0sQgINTis) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Hold The Dust](https://open.spotify.com/album/47xEbVhO9MaVQzDfL9t6sd) | 5:42 | 2022-12-28 | 2023-01-06 |
 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 | 2022-11-23 |  |
 | [Home](https://open.spotify.com/track/23QInbXr2Cn4kEskVhqmrY) | [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Home](https://open.spotify.com/album/3xCGVoP1mnfrlOSIDlC6kN) | 4:54 | 2023-04-07 | 2023-12-13 |
+| [Horizon](https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Horizon](https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV) | 6:13 | 2024-02-09 |  |
 | [Human Robot](https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Human Robot](https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a) | 6:56 | 2023-08-04 |  |
 | [Humanity](https://open.spotify.com/track/2JNSF3Ut0DmKksRks5yN3f) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Humanity](https://open.spotify.com/album/2VMsgi0xQf9eNhwzAzPPIA) | 2:55 | 2023-10-27 | 2023-12-30 |
 | [Hungover \(with Camden Cox\)](https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Hungover \(with Camden Cox\)](https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm) | 3:40 | 2023-12-15 |  |
@@ -318,7 +319,7 @@
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-12-28 | 2023-01-06 |
 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 |  |
 | [Ringo \- Miss Monique Remix](https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Ringo \(Miss Monique Remix\)](https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC) | 3:42 | 2023-12-15 | 2024-02-02 |
-| [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 |  |
+| [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 | 2024-02-13 |
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 | 2024-02-02 |
 | [Ritam](https://open.spotify.com/track/3d8JQ8JJEi97aKzWq4BtlF) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Ritam](https://open.spotify.com/album/1hWSLGSfK9PN83cRuTAXRK) | 4:52 | 2023-09-15 | 2023-11-16 |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |

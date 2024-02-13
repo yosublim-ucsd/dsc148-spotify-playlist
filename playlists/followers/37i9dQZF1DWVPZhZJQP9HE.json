@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 64675,
+  "2024-02-13": 64692,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Ashwin Vinayagamoorthy",
   "name": "Tamil Indie",
@@ -3875,7 +3875,7 @@
     {
       "album": {
         "name": "Kanavin Azhagi",
-        "url": "https://open.spotify.com/album/6pF6ByVbKZqppfsGfmQAEw"
+        "url": "https://open.spotify.com/album/6jFW7mcyXtfi0fYnkNfxAI"
       },
       "artists": [
         {
@@ -3890,6 +3890,28 @@
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179049,
+      "name": "Kanavin Azhagi",
+      "url": "https://open.spotify.com/track/0rn4D2uhDVkDGGmHDsJEDk"
+    },
+    {
+      "album": {
+        "name": "Kanavin Azhagi",
+        "url": "https://open.spotify.com/album/6pF6ByVbKZqppfsGfmQAEw"
+      },
+      "artists": [
+        {
+          "name": "Satwik Aradhya",
+          "url": "https://open.spotify.com/artist/7pe68lUGRTFDmAxisdfNaE"
+        },
+        {
+          "name": "Sathwik Padiyar",
+          "url": "https://open.spotify.com/artist/1b9bFx1BDk5oFuhox0BMQX"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-12",
       "duration_ms": 179049,
       "name": "Kanavin Azhagi",
       "url": "https://open.spotify.com/track/7ij3EIOUwmt8cp6O8BktQ4"

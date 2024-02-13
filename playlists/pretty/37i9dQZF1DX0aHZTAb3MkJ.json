@@ -1,15 +1,203 @@
 {
   "description": "This is USHER. The essential tracks, all in one playlist.",
-  "num_followers": 316710,
+  "num_followers": 325644,
   "original_name": "This is USHER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzQzNDhlMjc5Mzk2NjA1OGI3YTJmYWVjOGY2M2Y2ZGEwYTNkYTBj",
+  "snapshot_id": "MCwwNmE2MDIwODYyYTJkZDUxMWZlN2Y4NDZiMzExZGE0ZThhYTg2ODQ0",
   "tracks": [
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "U Don't Have to Call",
+      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Love in This Club (feat. Young Jeezy)",
+      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Nice & Slow - Radio Version",
+      "url": "https://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "OMG (feat. will.i.am)",
+      "url": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
@@ -33,7 +221,7 @@
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
@@ -53,7 +241,23 @@
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Looking 4 Myself (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
@@ -69,7 +273,23 @@
       "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Hey Daddy (Daddy's Home)",
+      "url": "https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
@@ -89,7 +309,23 @@
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
+      "album": {
+        "name": "Looking 4 Myself (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/12eMQUn2GzfsfsQLH53M19"
+    },
+    {
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
@@ -100,28 +336,32 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
-        "name": "Raymond v Raymond (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
       },
       "artists": [
         {
           "name": "USHER",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Hey Daddy (Daddy's Home)",
-      "url": "https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3"
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/6hKIFYVyCIy9A5Zb3005wX"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
@@ -141,39 +381,7 @@
       "url": "https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Standing Next to You (USHER Remix)",
         "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
@@ -193,47 +401,7 @@
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "My Boo",
-      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Here I Stand",
-        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Love in This Club (feat. Young Jeezy)",
-      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
@@ -257,7 +425,7 @@
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
@@ -281,55 +449,7 @@
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Looking 4 Myself (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/12eMQUn2GzfsfsQLH53M19"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Nice & Slow - Radio Version",
-      "url": "https://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Looking 4 Myself (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
@@ -349,7 +469,7 @@
       "url": "https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Dientes",
         "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
@@ -373,23 +493,7 @@
       "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
@@ -409,7 +513,7 @@
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "R&B Hits",
         "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
@@ -433,23 +537,7 @@
       "url": "https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/5GNPZT1Bxq0EP7PQDQmK3U"
@@ -465,7 +553,7 @@
       "url": "https://open.spotify.com/track/0aBKFfdyOD1Ttvgv0cfjjJ"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Crunk Juice",
         "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
@@ -489,23 +577,7 @@
       "url": "https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Caught Up",
-      "url": "https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
@@ -529,7 +601,7 @@
       "url": "https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Don't Look Down (feat. Usher)",
         "url": "https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e"
@@ -549,7 +621,7 @@
       "url": "https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
@@ -573,7 +645,7 @@
       "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
@@ -597,7 +669,7 @@
       "url": "https://open.spotify.com/track/1KhljCoJ2TgDEldnnfTHHc"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "I Don't Mind (feat. Juicy J)",
         "url": "https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw"
@@ -617,23 +689,7 @@
       "url": "https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "U Don't Have to Call",
-      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
-    },
-    {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
@@ -649,7 +705,7 @@
       "url": "https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
@@ -669,7 +725,7 @@
       "url": "https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
@@ -685,7 +741,7 @@
       "url": "https://open.spotify.com/track/5PIveStlGgjVL54GpVcqxr"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
@@ -705,7 +761,7 @@
       "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Don't Waste My Time (feat. Ella Mai)",
         "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
@@ -725,7 +781,7 @@
       "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Never Say Never - The Remixes",
         "url": "https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw"
@@ -745,7 +801,7 @@
       "url": "https://open.spotify.com/track/7IUl5c6u18rzmyQOblj10T"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Too Much (feat. Usher)",
         "url": "https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz"
@@ -769,7 +825,7 @@
       "url": "https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
@@ -785,7 +841,7 @@
       "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Hrs & Hrs (Remix)",
         "url": "https://open.spotify.com/album/29VQRaMV0FqhEsAPWQe95C"
@@ -805,7 +861,7 @@
       "url": "https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Hard II Love",
         "url": "https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz"
@@ -825,7 +881,7 @@
       "url": "https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "California (from Songland) (feat. Tyga)",
         "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
@@ -845,7 +901,7 @@
       "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
@@ -861,7 +917,7 @@
       "url": "https://open.spotify.com/track/5yC7WplXvhIHsp8NBYV5dT"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "GLU",
         "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
@@ -877,7 +933,7 @@
       "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
@@ -897,7 +953,7 @@
       "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Good Kisser",
         "url": "https://open.spotify.com/album/3RqeKO1rshRB82vEMnR1nN"
@@ -913,7 +969,7 @@
       "url": "https://open.spotify.com/track/3CX3WMBg6lzWk72bYL29vP"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "\"A\"",
         "url": "https://open.spotify.com/album/7JZi4kTfYCJcqOzVbKAYh5"
@@ -933,7 +989,7 @@
       "url": "https://open.spotify.com/track/0J6rYo0Fw0OkrMx1KHOvtx"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
@@ -949,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0Z4DAkZzXkupqCtT7BGU5F"
     },
     {
-      "added_at": "2024-02-06 18:20:13",
+      "added_at": "2024-02-12 03:22:59",
       "album": {
         "name": "\"A\"",
         "url": "https://open.spotify.com/album/7JZi4kTfYCJcqOzVbKAYh5"

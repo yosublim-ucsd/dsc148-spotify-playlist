@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 725,
+  "2024-02-13": 725,
   "date_first_scraped": "2024-01-30",
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
   "name": "This Is Danny Felix",
@@ -887,7 +887,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 290621,
       "name": "Popurri de Cumbias",
       "url": "https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ"
@@ -935,6 +935,32 @@
       "duration_ms": 194626,
       "name": "SALUDOS A MI VIEJ\u00d3N",
       "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"
+    },
+    {
+      "album": {
+        "name": "Somos Hombres O Payasos",
+        "url": "https://open.spotify.com/album/5BToanreAoj2wvKJh8nWyn"
+      },
+      "artists": [
+        {
+          "name": "Linea Activada",
+          "url": "https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los De Finix",
+          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155560,
+      "name": "Somos Hombres O Payasos",
+      "url": "https://open.spotify.com/track/05Tt6ZvFojXH2tggyKAzbv"
     },
     {
       "album": {

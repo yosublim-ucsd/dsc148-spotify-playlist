@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
-  "num_followers": 6900,
+  "num_followers": 6901,
   "original_name": "Viral 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYxMDE2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYxMTAyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -73,23 +73,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "CHERNI KUCHKI",
         "url": "https://open.spotify.com/album/6ZFbDkIZj5mesGyAxnI0La"
@@ -105,7 +89,39 @@
       "url": "https://open.spotify.com/track/38lIf0HJRIMCaWPsFEJaXy"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
@@ -129,39 +145,7 @@
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "She Likes a Boy",
-        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "She Likes a Boy",
-      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -189,39 +173,7 @@
       "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Unreleased",
-        "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
-      },
-      "artists": [
-        {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
-        }
-      ],
-      "duration_ms": 159818,
-      "name": "Sujalqvam",
-      "url": "https://open.spotify.com/track/2YRF4ktmyWef9SASMJaqOm"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Dance You Outta My Head",
-        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
-      },
-      "artists": [
-        {
-          "name": "Cat Janice",
-          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
-        }
-      ],
-      "duration_ms": 202508,
-      "name": "Dance You Outta My Head",
-      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -237,23 +189,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
@@ -269,7 +205,71 @@
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+      },
+      "artists": [
+        {
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+        }
+      ],
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Unreleased",
+        "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "duration_ms": 159818,
+      "name": "Sujalqvam",
+      "url": "https://open.spotify.com/track/2YRF4ktmyWef9SASMJaqOm"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
@@ -313,27 +313,7 @@
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Mwaki",
-        "url": "https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Centrofuga",
         "url": "https://open.spotify.com/album/7Ga74OnzbimmtV9bCiERom"
@@ -353,7 +333,27 @@
       "url": "https://open.spotify.com/track/1lKpsuiY1GKU0Tj7QE8EWX"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Mwaki",
+        "url": "https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -385,7 +385,43 @@
       "url": "https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Unreleased",
+        "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Tishinata im",
+      "url": "https://open.spotify.com/track/5WGCguQHGcGbVrUsUsubqJ"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/4202KkXGtULRsbRocWSw09"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -413,87 +449,7 @@
       "url": "https://open.spotify.com/track/4mXGc27x5d6uzStIiIohGX"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Unreleased",
-        "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
-      },
-      "artists": [
-        {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Tishinata im",
-      "url": "https://open.spotify.com/track/5WGCguQHGcGbVrUsUsubqJ"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Unreleased",
-        "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
-      },
-      "artists": [
-        {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Mrusni & Tumni",
-      "url": "https://open.spotify.com/track/7s16tzvUKDlAELZRjFmyGE"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Top Model",
-        "url": "https://open.spotify.com/album/43bB4GiA2mnKhsgemslYsq"
-      },
-      "artists": [
-        {
-          "name": "Marso",
-          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "Top Model",
-      "url": "https://open.spotify.com/track/4iQVYZGE9KyUZJyIn0wEr6"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u041f\u0440\u043e\u0449\u0430\u0432\u0430\u043c \u0442\u0438",
-      "url": "https://open.spotify.com/track/1Kgu5BIPXBqB6VEzQmZpMH"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Vultures",
         "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
@@ -521,7 +477,167 @@
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Unreleased",
+        "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Mrusni & Tumni",
+      "url": "https://open.spotify.com/track/7s16tzvUKDlAELZRjFmyGE"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Mnogo qka",
+        "url": "https://open.spotify.com/album/3qJcZskv4tI36WIbpJD7bO"
+      },
+      "artists": [
+        {
+          "name": "Ihito",
+          "url": "https://open.spotify.com/artist/1AQrZg3cwGHqwdg12SIWt5"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Mnogo qka",
+      "url": "https://open.spotify.com/track/7aHZ5O3FTEt98SgyOEARv3"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Top Model",
+        "url": "https://open.spotify.com/album/43bB4GiA2mnKhsgemslYsq"
+      },
+      "artists": [
+        {
+          "name": "Marso",
+          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
+        }
+      ],
+      "duration_ms": 154029,
+      "name": "Top Model",
+      "url": "https://open.spotify.com/track/4iQVYZGE9KyUZJyIn0wEr6"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u041f\u0440\u043e\u0449\u0430\u0432\u0430\u043c \u0442\u0438",
+      "url": "https://open.spotify.com/track/1Kgu5BIPXBqB6VEzQmZpMH"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "SHMENTI KAPELI",
+        "url": "https://open.spotify.com/album/4GYkzzPY5MlnwnIi6SuJsR"
+      },
+      "artists": [
+        {
+          "name": "SST",
+          "url": "https://open.spotify.com/artist/21dDhxm6HACY7m7vzfInMh"
+        },
+        {
+          "name": "Kickdown",
+          "url": "https://open.spotify.com/artist/4VoxkGR4qwaJbU7iz3jsgu"
+        },
+        {
+          "name": "MurdaBoyz",
+          "url": "https://open.spotify.com/artist/3HhRZJNEEgnTNEJ7LGKYT9"
+        }
+      ],
+      "duration_ms": 254068,
+      "name": "SHMENTI KAPELI",
+      "url": "https://open.spotify.com/track/17BXmo1cICBExGOhfJUhHB"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "On n\u2019enferme pas les oiseaux",
+        "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "\u0410\u0437 \u0438\u0441\u043a\u0430\u043c",
+        "url": "https://open.spotify.com/album/0qfemT4XjfPvCDpwHXW3wi"
+      },
+      "artists": [
+        {
+          "name": "\u0420\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u044f Z",
+          "url": "https://open.spotify.com/artist/4jEe6l11y9xxsWDnIztldB"
+        }
+      ],
+      "duration_ms": 188471,
+      "name": "\u0410\u0437 \u0438\u0441\u043a\u0430\u043c",
+      "url": "https://open.spotify.com/track/4s4HxAmYQRDQp6EtGJmzvB"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
@@ -553,7 +669,7 @@
       "url": "https://open.spotify.com/track/6UTPUfrTvKzD7GhLAhi1x7"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
@@ -569,79 +685,23 @@
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
-        "name": "Mnogo qka",
-        "url": "https://open.spotify.com/album/3qJcZskv4tI36WIbpJD7bO"
+        "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
+        "url": "https://open.spotify.com/album/2X4KWWnfO2XuCoGrw2EY4k"
       },
       "artists": [
         {
-          "name": "Ihito",
-          "url": "https://open.spotify.com/artist/1AQrZg3cwGHqwdg12SIWt5"
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
         }
       ],
-      "duration_ms": 207899,
-      "name": "Mnogo qka",
-      "url": "https://open.spotify.com/track/7aHZ5O3FTEt98SgyOEARv3"
+      "duration_ms": 253000,
+      "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
+      "url": "https://open.spotify.com/track/1N0LbbD7X8FBwTuHkHPjvE"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "You & Me (Rivo Remix)",
-        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "You & Me - Rivo Remix",
-      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Blame The Moon",
-        "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 223723,
-      "name": "Blame The Moon",
-      "url": "https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "On n\u2019enferme pas les oiseaux",
-        "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Voil\u00e0",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Happy Nation",
         "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
@@ -657,27 +717,39 @@
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
       "artists": [
         {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "\u0422\u0432\u043e\u0438\u0442\u0435 \u0434\u0443\u043c\u0438",
+        "url": "https://open.spotify.com/album/58V6ixALqsINL3GR5LS35Y"
+      },
+      "artists": [
+        {
+          "name": "Alexcheto",
+          "url": "https://open.spotify.com/artist/1vh6Wi0BVXjvzLScgcSgB4"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "\u0422\u0432\u043e\u0438\u0442\u0435 \u0434\u0443\u043c\u0438",
+      "url": "https://open.spotify.com/track/1mcdglNrPXMRMUoCCBYg2Z"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Yat\u0131ya",
         "url": "https://open.spotify.com/album/2YjYHiGyyAxgX41SsmLEGl"
@@ -693,7 +765,39 @@
       "url": "https://open.spotify.com/track/51yVTZAAXjMuOCiBvN980F"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Ne znaesh koya sam",
+        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Ne e lyubov",
+      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "SONY",
         "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
@@ -717,111 +821,7 @@
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "\u0410\u0437 \u0438\u0441\u043a\u0430\u043c",
-        "url": "https://open.spotify.com/album/0qfemT4XjfPvCDpwHXW3wi"
-      },
-      "artists": [
-        {
-          "name": "\u0420\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u044f Z",
-          "url": "https://open.spotify.com/artist/4jEe6l11y9xxsWDnIztldB"
-        }
-      ],
-      "duration_ms": 188471,
-      "name": "\u0410\u0437 \u0438\u0441\u043a\u0430\u043c",
-      "url": "https://open.spotify.com/track/4s4HxAmYQRDQp6EtGJmzvB"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
-        "url": "https://open.spotify.com/album/2X4KWWnfO2XuCoGrw2EY4k"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
-      "url": "https://open.spotify.com/track/1N0LbbD7X8FBwTuHkHPjvE"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Ne znaesh koya sam",
-        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
-      },
-      "artists": [
-        {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Ne e lyubov",
-      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "SHMENTI KAPELI",
-        "url": "https://open.spotify.com/album/4GYkzzPY5MlnwnIi6SuJsR"
-      },
-      "artists": [
-        {
-          "name": "SST",
-          "url": "https://open.spotify.com/artist/21dDhxm6HACY7m7vzfInMh"
-        },
-        {
-          "name": "Kickdown",
-          "url": "https://open.spotify.com/artist/4VoxkGR4qwaJbU7iz3jsgu"
-        },
-        {
-          "name": "MurdaBoyz",
-          "url": "https://open.spotify.com/artist/3HhRZJNEEgnTNEJ7LGKYT9"
-        }
-      ],
-      "duration_ms": 254068,
-      "name": "SHMENTI KAPELI",
-      "url": "https://open.spotify.com/track/17BXmo1cICBExGOhfJUhHB"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "\u0422\u0432\u043e\u0438\u0442\u0435 \u0434\u0443\u043c\u0438",
-        "url": "https://open.spotify.com/album/58V6ixALqsINL3GR5LS35Y"
-      },
-      "artists": [
-        {
-          "name": "Alexcheto",
-          "url": "https://open.spotify.com/artist/1vh6Wi0BVXjvzLScgcSgB4"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "\u0422\u0432\u043e\u0438\u0442\u0435 \u0434\u0443\u043c\u0438",
-      "url": "https://open.spotify.com/track/1mcdglNrPXMRMUoCCBYg2Z"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
@@ -837,43 +837,7 @@
       "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/4202KkXGtULRsbRocWSw09"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
-    },
-    {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "WHAT YOU WANT!",
         "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
@@ -889,7 +853,7 @@
       "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "Bad Feeling (Oompa Loompa)",
         "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
@@ -905,7 +869,27 @@
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
+        "url": "https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez"
+      },
+      "artists": [
+        {
+          "name": "DJ Damyan",
+          "url": "https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI"
+        },
+        {
+          "name": "Mile Kitic",
+          "url": "https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH"
+        }
+      ],
+      "duration_ms": 171902,
+      "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
+      "url": "https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
       "album": {
         "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
         "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
@@ -921,20 +905,40 @@
       "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
     },
     {
-      "added_at": "2024-02-11 14:12:01",
+      "added_at": "2024-02-12 14:42:23",
       "album": {
-        "name": "Vulkani 3",
-        "url": "https://open.spotify.com/album/4gPxfjgTKT9cR73F7KNi3m"
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
       "artists": [
         {
-          "name": "STEFCHO BEND",
-          "url": "https://open.spotify.com/artist/37nhUpAhvy7kHOjCurTeM7"
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Takti Po Takti",
-      "url": "https://open.spotify.com/track/0uItZt4j9u7krcNcNlhZ8a"
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "added_at": "2024-02-12 14:42:23",
+      "album": {
+        "name": "Blame The Moon",
+        "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 223723,
+      "name": "Blame The Moon",
+      "url": "https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh"
     }
   ],
   "unique_name": "Viral 50 - Bulgaria",

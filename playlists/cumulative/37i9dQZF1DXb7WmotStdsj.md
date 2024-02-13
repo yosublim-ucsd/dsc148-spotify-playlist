@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-187 songs - 15 hr 13 min
+188 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 | 2021-10-19 |  |
 | [Khalinahalkom](https://open.spotify.com/track/4aKGsTXCnWaQbizUAzm79Z) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Akil Sghir](https://open.spotify.com/artist/0yY561ap6MKDzXlCf07O4p) | [Khalinahalkom](https://open.spotify.com/album/76nZsAEWzZRo3riJWGigqz) | 4:15 | 2021-10-19 | 2023-01-07 |
 | [Khalini Khalini \- Remix](https://open.spotify.com/track/0iUkqgXwK50tprCzFwsrKL) | [Cheb Midou](https://open.spotify.com/artist/79rdsoSMXU2asEnE50Qtol), [DJ Psyico](https://open.spotify.com/artist/7KrPKqkApWnECIUoouaQxY) | [Khalini Khalini \(Remix\)](https://open.spotify.com/album/49bqbVlUrDRPOgHIfwYe9Z) | 3:24 | 2021-10-19 | 2022-09-21 |
-| [Khatira Khatira](https://open.spotify.com/track/1ANh0Pyrr6axtL5PhoRqPh) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Halaou Laou](https://open.spotify.com/album/6lFGyoekQTFfltRpxY7Bpd) | 9:42 | 2022-10-25 |  |
+| [Khatira Khatira](https://open.spotify.com/track/1ANh0Pyrr6axtL5PhoRqPh) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Halaou Laou](https://open.spotify.com/album/6lFGyoekQTFfltRpxY7Bpd) | 9:42 | 2022-10-25 | 2024-02-13 |
 | [Khrajtili Contra](https://open.spotify.com/track/3E57drIDddFObDyBhY057V) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Khrajtili Contra](https://open.spotify.com/album/0kQZFAGnInhVLDMcXTehqs) | 4:17 | 2021-10-19 | 2022-12-07 |
 | [Ki L3ada](https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Ki L3ada](https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd) | 3:45 | 2022-08-31 | 2022-09-06 |
 | [Ki telfetlah bgha ykatefna](https://open.spotify.com/track/1XAwe7TX1iSlVBB0U2tNyl) | [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Ki telfetlah bgha ykatefna](https://open.spotify.com/album/3ZjkQpXeOF0weNHOyMUFtF) | 4:26 | 2024-02-05 |  |
@@ -173,6 +173,7 @@
 | [Yakarhoni Gololi Limada](https://open.spotify.com/track/1IJKFOm451pPfkBKputTyo) | [Salim Louza](https://open.spotify.com/artist/5eUkzLuoz3r8bzu7Cg44Jj) | [Yakarhoni Gololi Limada](https://open.spotify.com/album/1tcn7HWpvgNAzL9iPLn0hD) | 6:24 | 2023-12-28 |  |
 | [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 | 2023-01-30 |  |
 | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/track/2etuJU2aoEicf7wPSDpJAt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4tBGI5jacB10SSH7nCgDmf), [Amine La Colombe](https://open.spotify.com/artist/4G9Eqg2RdWdnOopLn2RQ6V) | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/album/0AJJwj5iD0wRVq9SmUKU2W) | 4:23 | 2023-10-19 |  |
+| [Yli9 Netséparou Ma3andna Mandirou \-](https://open.spotify.com/track/1WxuslOo4tRLqDOqJeMnpz) | [Cheb Amine Tigre](https://open.spotify.com/artist/0TlOtJhFxzROJ1AjbarC8y) | [Yli9 Netséparou Ma3andna Mandirou \-](https://open.spotify.com/album/01XkHwSe3JPpXebCZIQ5JK) | 14:04 | 2024-02-12 |  |
 | [Zadma w Sayi](https://open.spotify.com/track/2H1voC89zdPWZsFw3slhXX) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Zadma w Sayi](https://open.spotify.com/album/5f73BUqCz6mZ1mysN4gSFo) | 6:35 | 2023-03-16 |  |
 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 | 2022-09-20 | 2022-11-21 |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 |  |

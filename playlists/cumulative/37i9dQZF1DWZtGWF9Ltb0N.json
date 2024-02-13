@@ -3773,6 +3773,28 @@
     },
     {
       "album": {
+        "name": "Botanicals",
+        "url": "https://open.spotify.com/album/4W3nonV7xCtmchQd4dUSLR"
+      },
+      "artists": [
+        {
+          "name": "L*o*J",
+          "url": "https://open.spotify.com/artist/3B4U99cPW8HihTM6ld3jVX"
+        },
+        {
+          "name": "jordnmoody",
+          "url": "https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Hypnotherapy",
+      "url": "https://open.spotify.com/track/3QaO0thybGLSZph9OpeSDi"
+    },
+    {
+      "album": {
         "name": "Box / Iceman",
         "url": "https://open.spotify.com/album/0ubELWzRAf0kFxiMlo7mye"
       },
@@ -5682,7 +5704,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 197180,
       "name": "NASDAQ",
       "url": "https://open.spotify.com/track/3X2jge8YW8hjqpPediTuHs"

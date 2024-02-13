@@ -2,7 +2,7 @@
 
 ### [Jazztronica](https://open.spotify.com/playlist/37i9dQZF1DX55dNU0PWnO5)
 
-> Jazzy blips and blops\. Cover: berlioz
+> Jazzy blips and blops
 
 394 songs - 1 day 0 hr 1 min
 

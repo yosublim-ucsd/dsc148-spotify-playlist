@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 521626,
+  "2024-02-13": 521732,
   "date_first_scraped": "2022-11-05",
   "description": "This is The Cure. The essential tracks, all in one playlist.",
   "name": "This Is The Cure",
@@ -467,7 +467,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 214240,
       "name": "Hot Hot Hot!!!",
       "url": "https://open.spotify.com/track/0jOsN8OvRV2H5UhrokhRej"
@@ -939,6 +939,24 @@
       "duration_ms": 271293,
       "name": "Push - 2006 Remaster",
       "url": "https://open.spotify.com/track/3oP4cJTo55Wc07vqoix8Z9"
+    },
+    {
+      "album": {
+        "name": "Shake Dog Shake",
+        "url": "https://open.spotify.com/album/4XnEtST40geeFcAnToByfc"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305613,
+      "name": "Shake Dog Shake - Live At Zenith, Paris",
+      "url": "https://open.spotify.com/track/08Ky8qaJYZanGFxRRrqlLW"
     },
     {
       "album": {

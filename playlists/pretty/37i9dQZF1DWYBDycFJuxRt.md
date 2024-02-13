@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: a子 \*👉 <a href="https://spice.eplus.jp/articles/326157?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,715 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,757 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Electric Parade](https://open.spotify.com/track/1VUNtkVmTtizP8o5i4IqYb) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Universe](https://open.spotify.com/album/1B3lid4l1KnRSu8FUXKqWs) | 3:13 |
 | 80 | [最後だとしても...](https://open.spotify.com/track/7gLBZMoFeOwWMak8UVPSym) | [句潤](https://open.spotify.com/artist/1uDNlSRJxFFJLWXr11s0Bz), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [句が呼ぶ煙](https://open.spotify.com/album/7wXuPfXn4vqtOtI8OdsX2a) | 3:21 |
 
-Snapshot ID: `MCw0NTAzMWY0ZGJmZjI1OWNlNmRiYjFlMzQwYjgwOGUyYjJmMWQ4OTM0`
+Snapshot ID: `MCw2NTdiNDE2NzVhNmMzMDBlNzUxZWY5NTIzNWM5ZTE0YTBlYjQ4YTJk`

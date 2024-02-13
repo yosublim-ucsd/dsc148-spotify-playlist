@@ -4,7 +4,7 @@
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-51 songs - 3 hr 2 min
+52 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Live And Let Die](https://open.spotify.com/track/6AbaUu4XtHu7pGkPE94Tat) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5) | 3:13 | 2022-04-14 | 2022-11-13 |
 | [Live And Let Die \- 2018 Remaster](https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway \(Archive Collection\)](https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy) | 3:12 | 2022-04-14 |  |
 | [Live And Let Die \- Remastered 1993](https://open.spotify.com/track/6Z1zJjEXLrszqTPol6bfFV) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/7vvo1go8wl2NEmvcvjE4Dh) | 3:11 | 2021-10-14 | 2022-07-29 |
+| [Main Title \- From "Thunderball"](https://open.spotify.com/track/0yaLrtLWGYWVmvvNOlRZDj) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Movie Night: Famous Soundtracks](https://open.spotify.com/album/2ryZgGxfvRhpbtIHF2FEAR) | 3:03 | 2022-12-29 |  |
 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 | 2022-04-14 |  |
 | [Moonraker](https://open.spotify.com/track/3fmYId4SqzuLFQkCXPRWjg) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [James Bond 007 13 Original Themes](https://open.spotify.com/album/1BIkw8IbCvCsZ942czLa4K) | 3:10 | 2021-10-14 | 2022-07-29 |
 | [Mr Kiss Kiss Bang Bang \- 1992 Remaster](https://open.spotify.com/track/7uYZJ6actSUcazhKjjyZsK) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:28 | 2021-10-14 |  |
@@ -49,7 +50,7 @@
 | [The World Is Not Enough](https://open.spotify.com/track/0wnIPcs7V0XMwtcg0yjKpg) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 3:57 | 2021-10-14 |  |
 | [Thunderball](https://open.spotify.com/track/2wcqRQMk7Jb8Jtf1g04cHS) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Music Of John Barry](https://open.spotify.com/album/1DtpXIGGw9vQXZvKmqDmKA) | 3:13 | 2021-10-14 | 2022-03-30 |
 | [Thunderball](https://open.spotify.com/track/61ae7alkl4KTin3QOMD8pQ) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [The Best Of Tom Jones 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6TiIQSWfDgwQTg1aycqAsP) | 2:51 | 2021-10-14 | 2022-04-15 |
-| [Thunderball \(Main Title\) \- Remastered 2003](https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Thunderball \(Original Motion Picture Soundtrack / Remastered 2003\)](https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN) | 3:03 | 2022-04-14 |  |
+| [Thunderball \(Main Title\) \- Remastered 2003](https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Thunderball \(Original Motion Picture Soundtrack / Remastered 2003\)](https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN) | 3:03 | 2022-04-14 | 2024-02-13 |
 | [Tomorrow Never Dies](https://open.spotify.com/track/3peBSjcjaouspgb68WK2sk) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tomorrow Never Dies](https://open.spotify.com/album/2UGZoHiNl2bDZyHIbaQ9Vo) | 4:51 | 2021-10-14 |  |
 | [We Have All The Time In The World \- Remastered](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 | 2021-10-14 |  |
 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 | 2021-10-14 |  |

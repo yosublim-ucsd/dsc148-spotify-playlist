@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 76685,
+  "2024-02-13": 76688,
   "date_first_scraped": "2023-12-14",
   "description": "Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.",
   "name": "LoFi Rod's Chillhop Lounge",
@@ -363,6 +363,28 @@
       "duration_ms": 83142,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/1xtHtr7oaTEWFElc83ffVH"
+    },
+    {
+      "album": {
+        "name": "Afternoondriftaway",
+        "url": "https://open.spotify.com/album/2nimlAPPV8KeS7HOcS51TA"
+      },
+      "artists": [
+        {
+          "name": "Yles",
+          "url": "https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84750,
+      "name": "Afternoondriftaway",
+      "url": "https://open.spotify.com/track/1pZbr9MATtsf8HZq1Z0qAz"
     },
     {
       "album": {
@@ -1299,7 +1321,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 128571,
       "name": "bird",
       "url": "https://open.spotify.com/track/5f9FISnIgUXzVg1rJ0mAtA"
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 114545,
       "name": "Chimera",
       "url": "https://open.spotify.com/track/4f6Y2czV82RvgC48JBIQ92"
@@ -2885,7 +2907,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 158461,
       "name": "cozy nights",
       "url": "https://open.spotify.com/track/7Fl28WfS69ovHjlSAUh3xQ"
@@ -4774,6 +4796,24 @@
     },
     {
       "album": {
+        "name": "For Gustav",
+        "url": "https://open.spotify.com/album/4CWqnydBjXiFu1aUU85lER"
+      },
+      "artists": [
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87428,
+      "name": "For Gustav",
+      "url": "https://open.spotify.com/track/1UbDbjBa5khZDfz6L5wtH6"
+    },
+    {
+      "album": {
         "name": "Ford Focus 1999",
         "url": "https://open.spotify.com/album/3xCz1HLKCrrs3G8WH2GxLx"
       },
@@ -6171,6 +6211,32 @@
       "duration_ms": 140624,
       "name": "Jessica",
       "url": "https://open.spotify.com/track/4pfaYNAQL2YSQmlBzrzgVZ"
+    },
+    {
+      "album": {
+        "name": "Jetlag",
+        "url": "https://open.spotify.com/album/61NNpbNdN9WEi2tzHShCP8"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        },
+        {
+          "name": "Bezzix",
+          "url": "https://open.spotify.com/artist/7wHZfDkun9PmNEJuh9wh69"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157848,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/6IAR6nEc3PhqCNR5qr9L45"
     },
     {
       "album": {
@@ -12010,6 +12076,28 @@
     },
     {
       "album": {
+        "name": "sovereign",
+        "url": "https://open.spotify.com/album/029MF3wH8f1fppVAbZJUKg"
+      },
+      "artists": [
+        {
+          "name": "UKDD",
+          "url": "https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8"
+        },
+        {
+          "name": "Maadrhino",
+          "url": "https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121363,
+      "name": "sovereign",
+      "url": "https://open.spotify.com/track/6i9D8RMFWBu7d4PAWCBvVY"
+    },
+    {
+      "album": {
         "name": "spellbound",
         "url": "https://open.spotify.com/album/2KUqEIVmfmXOpett0CHwK2"
       },
@@ -12355,7 +12443,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 112235,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/7fPEZoIxGFY3QgpYLqHQpH"

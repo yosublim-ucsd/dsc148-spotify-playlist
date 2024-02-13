@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Nairo",
-  "num_followers": 433704,
+  "num_followers": 433706,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTdlNmM4YTc2N2ZhN2EzOTQ2Y2UzZTI4MmNiNGZlODMwNzI4ZDYz",
+  "snapshot_id": "MCw5MGI3YjFmMmRjZmZiMDczYjgxNDkwMGU5OThlYzYyY2EzODZjYzJh",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "N\u00d3S NUS",
         "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 304068,
       "name": "N\u00d3S NUS",
       "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Rom\u00e3",
-        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Rom\u00e3",
-      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Resposta",
         "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 211069,
       "name": "Resposta",
       "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Rom\u00e3",
+        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Rom\u00e3",
+      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -619,6 +619,22 @@
       "duration_ms": 132636,
       "name": "Cear\u00e1",
       "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 147614,
       "name": "ARREPIO",
       "url": "https://open.spotify.com/track/0IrFmDVmrV1WDwEgmqtAdF"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "MELODRAM\u00c1TICO",
-        "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 157565,
-      "name": "Desfa\u00e7o",
-      "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "calma na alma",
         "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
       },
@@ -995,18 +975,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "\u00c9 Sobre Isso",
-        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
+        "name": "MELODRAM\u00c1TICO",
+        "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
       },
       "artists": [
         {
-          "name": "Ferri",
-          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
         }
       ],
-      "duration_ms": 195141,
-      "name": "\u00c9 Sobre Isso",
-      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
+      "duration_ms": 157565,
+      "name": "Desfa\u00e7o",
+      "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 170965,
       "name": "Montanha Russa",
       "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "\u00c9 Sobre Isso",
+        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
+      },
+      "artists": [
+        {
+          "name": "Ferri",
+          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
+        }
+      ],
+      "duration_ms": 195141,
+      "name": "\u00c9 Sobre Isso",
+      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Cultivar (Deluxe)",
+        "url": "https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 128427,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "JOVEM (DELUXE)",
         "url": "https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 174873,
       "name": "colorida",
       "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Cultivar (Deluxe)",
-        "url": "https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 128427,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 138688,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1423,22 +1423,6 @@
       "duration_ms": 142956,
       "name": "Meu Lugar Preferido",
       "url": "https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 214676,
       "name": "Morena Surreal",
       "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-02-09 03:00:00",

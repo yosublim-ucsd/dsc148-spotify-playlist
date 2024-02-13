@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Brittany Howard along with the hottest alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,207 likes - 68 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,249 likes - 68 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 67 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 68 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 
-Snapshot ID: `MCwxNTcwOTEwOWVjOWU0NGZkODhhYzdiZmZkMDQ4MzdlYzE0MWQ0NDk0`
+Snapshot ID: `MCxiNjc1NWVhZTcwN2UzODMzYTUyM2VmMzQ3MmU3MzczNWI0Yzc0Mjhi`

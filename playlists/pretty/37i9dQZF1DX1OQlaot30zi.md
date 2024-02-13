@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Il Tre, Geolier, Ghali, Artie 5ive e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,894 likes - 79 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,918 likes - 79 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 64 | [CAMMIN AMMÓ](https://open.spotify.com/track/3bg3BkrP8U9dvayD34xDAe) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [CAMMIN AMMÓ](https://open.spotify.com/album/2fo5E7QWa3LHXMBTUnNaym) | 2:49 |
 | 65 | [Sudamerica](https://open.spotify.com/track/3YDVhufuyFcX3zTrcFG0pF) | [Brasiliano](https://open.spotify.com/artist/1Apn1SWBiTnvriSQY9nJUB) | [Sudamerica](https://open.spotify.com/album/0yb8D6KGwpjsdIicu63Nq0) | 2:36 |
 | 66 | [Per sentirmi vivo](https://open.spotify.com/track/2SHoMMiuqPBOa9AaBHWmqv) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Per sentirmi vivo](https://open.spotify.com/album/5B9tnrmp4eTBwkHZIVQisO) | 2:46 |
-| 67 | [Hess \(feat\. Heartman, ILEVEN & OSCAR\)](https://open.spotify.com/track/2GVvVL0FVLxEvlO3xhQZQD) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [ILEVEN](https://open.spotify.com/artist/3M6k2tyr4eY72PwtYzWVjU), [OSCAR](https://open.spotify.com/artist/717Zx61tUUZf1RT4ms7aeS) | [EP 5/9 \(feat\. Heartman\)](https://open.spotify.com/album/1lynjaiM8cGViXlHEE3Qgw) | 4:04 |
+| 67 | [Hess \(feat\. Heartman, ILEVEN & OSCAR\)](https://open.spotify.com/track/2GVvVL0FVLxEvlO3xhQZQD) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [ILEVEN](https://open.spotify.com/artist/3M6k2tyr4eY72PwtYzWVjU), [OSCAR](https://open.spotify.com/artist/5xIGpnOC94WHygs1ZiQJ0a) | [EP 5/9 \(feat\. Heartman\)](https://open.spotify.com/album/1lynjaiM8cGViXlHEE3Qgw) | 4:04 |
 | 68 | [NORTH FACE\. \(feat\. Zeep\)](https://open.spotify.com/track/5hB0ZJWRXdxjEOb9HMc7Gj) | [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9), [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl) | [NORTH FACE\. \(feat\. Zeep\)](https://open.spotify.com/album/6YaZFEzKrNDEjNxl95B5Ee) | 2:35 |
 | 69 | [Salam](https://open.spotify.com/track/1ksB7v1NvtYH9q9R23OuMv) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Salam](https://open.spotify.com/album/6aIN0Sf1sYGrPvXq2daMrr) | 2:53 |
 | 70 | [AIR FORCE NERA](https://open.spotify.com/track/46MSueKCvgfKutz8hvzw4D) | [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8) | [AIR FORCE NERA](https://open.spotify.com/album/5xFuI0EHQYRy9H3ARn8Mwp) | 2:59 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 78 | [Chi Sei](https://open.spotify.com/track/46Ms6tYLyrgxbntJ3QZe6j) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3), [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Rivreck](https://open.spotify.com/artist/1nB0WQrdlmT4vEV158VV7i) | [Chi Sei](https://open.spotify.com/album/64UJiFXTeUfNIoupQRp28L) | 2:43 |
 | 79 | [Amigo](https://open.spotify.com/track/3guSqFoYgHuuQZQ2y4KTcl) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Amigo](https://open.spotify.com/album/3JYbGBig9wYDjyrEmwyeqX) | 2:30 |
 
-Snapshot ID: `MCw0MzU5NTM5NzczOWNjNGFiYmE5MTEyYmNjMWY0NTZmZGZlYzM2ZTRk`
+Snapshot ID: `MCxkZWZlMDQ3OWU4OGI5YjIyNDE5MGM0ODZlOGI4NDYxMDM4YjZmY2Ji`

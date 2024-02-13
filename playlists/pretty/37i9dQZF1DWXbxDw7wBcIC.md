@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 
 > The birth of the blues, as it happened...
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,227 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,248 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 49 | [A Spoonful Blues](https://open.spotify.com/track/51pOZACVv195eLRsIRVEx6) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [The Complete Recordings 1929\-34, Vol\. 1](https://open.spotify.com/album/3FNisSG0Qa7d1sbnRDNIob) | 3:10 |
 | 50 | [Double Trouble](https://open.spotify.com/track/4eglzfnT6Z8XiJnJuXtDqF) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Spotlights the Blues Volume 2](https://open.spotify.com/album/7ay3aj05yhwcdS6GIAWcnE) | 3:30 |
 
-Snapshot ID: `MCxhODYwZTBlMzc0MzEyNzU5MDlhODZjNzk4ZTBmMDY1NDYxZTk3NDQz`
+Snapshot ID: `MCxiNDk4ZDc2MTJlNzllNTVkNTBhMTNiMjQyY2IzMDQyMmNlZTRlYTEy`

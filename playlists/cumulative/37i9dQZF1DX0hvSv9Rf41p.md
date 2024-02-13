@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Marshmello and HOL!
 
-756 songs - 1 day 19 hr 20 min
+757 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,7 +438,7 @@
 | [Moods](https://open.spotify.com/track/0oEi7MQ5smqE9ahj75MjJR) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Moods](https://open.spotify.com/album/3asWZDjuiU2ED1GoVphwLr) | 2:36 | 2021-12-17 | 2022-02-19 |
 | [Moonlight](https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Moonlight](https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6) | 3:37 | 2023-10-20 | 2024-01-13 |
 | [Mothership](https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Mothership](https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE) | 4:03 | 2023-07-07 | 2023-10-28 |
-| [Move Back](https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Move Back](https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI) | 3:28 | 2023-02-17 |  |
+| [Move Back](https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Move Back](https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI) | 3:28 | 2023-02-17 | 2024-02-13 |
 | [Movement](https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Movement](https://open.spotify.com/album/0bFMug20XZY4WlslsX3Gt4) | 3:12 | 2024-02-09 |  |
 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-12-17 | 2022-02-19 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-12-17 | 2022-07-16 |
@@ -538,6 +538,7 @@
 | [RAD](https://open.spotify.com/track/6fdEHZu9ESPsZ2yc8wKwlP) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [HEARTWAVE](https://open.spotify.com/album/4FevY6KzCiRMzeCO2D4jcB) | 4:05 | 2023-10-20 | 2024-02-10 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-07 | 2023-04-01 |
 | [Rainbow Brain](https://open.spotify.com/track/2XDNYySUXdZNlACNr7XRn1) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Rainbow Brain](https://open.spotify.com/album/1BHSEilVU74s7UKj1bToQA) | 4:21 | 2021-12-17 | 2022-02-19 |
+| [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 | 2024-02-12 |  |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-17 |  |
 | [Rattle Your Bones](https://open.spotify.com/track/2QXGAgIReGxutvkKg2FjDh) | [Volt](https://open.spotify.com/artist/2kKSibjeb2x2e6L3VjJkRu), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Rattle Your Bones](https://open.spotify.com/album/1fz3JrQ1Z1LImADGSCEWzi) | 2:43 | 2021-12-17 | 2022-03-12 |
 | [Rave Control](https://open.spotify.com/track/7Et4IAXXFpLaJMf4mSWE18) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Rave Control](https://open.spotify.com/album/3w6uYN4OuJ09JLp0Hwjo9v) | 2:40 | 2023-06-09 | 2023-10-14 |

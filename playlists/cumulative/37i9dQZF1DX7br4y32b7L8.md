@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-337 songs - 16 hr 59 min
+338 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 | 2023-02-23 | 2023-10-03 |
 | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 | 2023-08-10 | 2023-10-03 |
 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 | 2023-05-01 |  |
+| [Japan](https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA) | [Crazy Jack](https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [YUKI JADE](https://open.spotify.com/artist/390TEc5VdoYZ4dH3xo4ONC) | [Japan](https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz) | 2:08 | 2024-02-12 |  |
 | [Je Moeder Heet Henk](https://open.spotify.com/track/4Ad0exLo9eeBUa380xCUsc) | [Jan Henk](https://open.spotify.com/artist/0OaG9oBiozKOxBICtrwZ1i) | [Je Moeder Heet Henk](https://open.spotify.com/album/2XSzITGoBapz1wiX3lbQmq) | 1:23 | 2023-08-31 | 2023-09-08 |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-10 | 2023-05-24 |
 | [Jouw Liefste Wens](https://open.spotify.com/track/75KLtwkL3536HI37ko5A1c) | [De Paladijns](https://open.spotify.com/artist/6hkxtLpVtaKSHJ0Oa8NanA) | [Het Beste Van: De Paladijns](https://open.spotify.com/album/7m9P64LLeRpFAObUwWrHhj) | 3:06 | 2023-04-18 | 2023-09-07 |

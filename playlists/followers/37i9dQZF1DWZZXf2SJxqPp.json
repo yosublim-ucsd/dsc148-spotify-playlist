@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 132762,
+  "2024-02-13": 132768,
   "date_first_scraped": "2023-05-16",
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
   "name": "\u00a1A la Alberca!",
@@ -757,6 +757,24 @@
       "duration_ms": 279676,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
+    },
+    {
+      "album": {
+        "name": "Young Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279676,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/4yC3bN8quQSuJw4vK6AYtW"
     },
     {
       "album": {
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 259750,
       "name": "Segrados Do Samba",
       "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"

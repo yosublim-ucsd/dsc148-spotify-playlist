@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,792 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,789 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [4TM](https://open.spotify.com/track/7xqNgkE64lj8UGxUudXjjk) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Gunder808](https://open.spotify.com/artist/5ntpIdhE7qFtTXXpAXXWgX), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [4TM](https://open.spotify.com/album/35ar8BlPbfSCwhqQ583W52) | 3:21 |
 | 23 | [PARIS HILTON](https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [PARIS HILTON](https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7) | 3:05 |
 | 24 | [MULTIVERSO](https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [MULTIVERSO](https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU) | 3:32 |
-| 25 | [Dejarte Ir \(feat\. Piso 21\)](https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Dejarte Ir \(feat\. Piso 21\)](https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf) | 2:56 |
+| 25 | [Dejarte Ir](https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Dejarte Ir](https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf) | 2:56 |
 | 26 | [Sidekick](https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Sidekick](https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN) | 2:56 |
 | 27 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
 | 28 | [Chistes Malos](https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Chistes Malos](https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba) | 2:51 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 40 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
 | 41 | [700 Flores](https://open.spotify.com/track/4cLzgYIgW8Lqad7ipDxSU0) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [700 Flores](https://open.spotify.com/album/0FJkaoCs5S50aMPpIDo7Id) | 2:22 |
 | 42 | [Bolero](https://open.spotify.com/track/1OVRnfZ5zSR0GwXcSYMGEg) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Esteman](https://open.spotify.com/artist/1Wa2BFXZT8sHOXEROLlAMK) | [Algo\-Ritmo : Mexican Institute of Sound Hits 2004\-2024](https://open.spotify.com/album/4SY8pI6k7ND7wWAPrWVQqE) | 3:37 |
-| 43 | [Escapaté](https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Escapaté](https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc) | 2:45 |
+| 43 | [Escápate](https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Escápate](https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc) | 2:45 |
 | 44 | [Rayito de Luz](https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:45 |
 | 45 | [extraños](https://open.spotify.com/track/6cGBZGvZD8bnavaNKgrWaO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [extraños](https://open.spotify.com/album/5LjfK2dimzVNB60AHWSva2) | 2:29 |
 | 46 | [Automóvil](https://open.spotify.com/track/4unjiYzweEhOqxR2t7VUv0) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Automóvil](https://open.spotify.com/album/0J1njNNsv2a5PWoZaAoUnu) | 2:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Dile a tu Mama](https://open.spotify.com/track/1i8WflIBtMNow8IALzHYqL) | [787](https://open.spotify.com/artist/1u5hcjZmajeJpVbrU9wxXA), [Espano](https://open.spotify.com/artist/2nltuI3fbXK0RbX9PVcQT9), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [Dile a tu Mama](https://open.spotify.com/album/7lt4ZgwYHHsYYFIuaO4VoV) | 3:08 |
 | 51 | [mejor así](https://open.spotify.com/track/6hFJKEpYA77dLEdFDfnRqR) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P) | [mejor así](https://open.spotify.com/album/1TpCN1cJgbvIeEpUglAjP4) | 3:26 |
 
-Snapshot ID: `MCw4MzBiODcyOGZmNzZlNDBkNGI2NDg1YzVmY2YwMjRjMzI2OWVmZThk`
+Snapshot ID: `MCw5OTE4OWY5N2Y2Yjc2MGY5NDI4YTZkNGNiNTllYjBiY2RkZTdiMzlk`

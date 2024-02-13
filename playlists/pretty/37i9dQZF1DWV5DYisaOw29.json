@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZThmOTQ3MjU1NWE2YmNlNzg1YmQxZTA3MDA0ZTkzN2RiNmU0NDFj",
+  "snapshot_id": "MCxiM2U2NTlhNjA1MmUxMmJkYjNkMWU3MThhZWVkMmVkNDA4OTJlMzY3",
   "tracks": [
     {
       "added_at": "2021-06-01 06:00:00",
@@ -371,6 +371,290 @@
       "duration_ms": 391720,
       "name": "Loosing It",
       "url": "https://open.spotify.com/track/3GAbRB3lpvKzlb1M7lwQXu"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "The Journey / In Yo Soul",
+        "url": "https://open.spotify.com/album/7dG9NDvXvrXxmVhUZeTBaJ"
+      },
+      "artists": [
+        {
+          "name": "Norm Talley",
+          "url": "https://open.spotify.com/artist/5J1fwxvTRxviCqCPwd4Lv5"
+        }
+      ],
+      "duration_ms": 602256,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/6aMUUomgp66X5dVQtHeYgI"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/2aN1FWQGqSU86NVzRAmvCE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Carl",
+          "url": "https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2"
+        }
+      ],
+      "duration_ms": 229002,
+      "name": "Down (Original Mix)",
+      "url": "https://open.spotify.com/track/6YaFyRsRbB2AIy6Ajea4jB"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Versus Remixes, Vol. 2",
+        "url": "https://open.spotify.com/album/3QSpCjrcGboCIL5NSUSr1D"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        },
+        {
+          "name": "Francesco Tristano",
+          "url": "https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj"
+        },
+        {
+          "name": "Les Si\u00e8cles",
+          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
+        },
+        {
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 461680,
+      "name": "The Melody - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/3Jv1kO1e4IDsNye3BRycbi"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Violet Groove E.P.",
+        "url": "https://open.spotify.com/album/7yO99oqltTRlNvJOiE9tmF"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "ARNAUD PARIS",
+          "url": "https://open.spotify.com/artist/771BX97y9cPydphKozdxxE"
+        }
+      ],
+      "duration_ms": 338082,
+      "name": "Paris to 313",
+      "url": "https://open.spotify.com/track/21JEClblt8TWHN7bylt0tH"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Detrevolution",
+        "url": "https://open.spotify.com/album/6Z3hO5ommQLzYZQaLNke0u"
+      },
+      "artists": [
+        {
+          "name": "Aaron Carl",
+          "url": "https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2zbQbQe1EBEu5j1bkDhuwg"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Playing for Keeps",
+        "url": "https://open.spotify.com/album/5FexEqAhnP7J7jOzfEm196"
+      },
+      "artists": [
+        {
+          "name": "Shaw Cain",
+          "url": "https://open.spotify.com/artist/4fl4Cc71S0TwdETPDnklle"
+        }
+      ],
+      "duration_ms": 230857,
+      "name": "Playing for Keeps",
+      "url": "https://open.spotify.com/track/1obG4GJhU5knvTUYzK9eYC"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/7uTnjpnd9cmexbwa6iw4NJ"
+      },
+      "artists": [
+        {
+          "name": "Gayelynn McKinney",
+          "url": "https://open.spotify.com/artist/6glmHvIoAQIouB9dTXSyeS"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Monday Madness",
+      "url": "https://open.spotify.com/track/2yj1doDjRqnLEjVfWLtMXt"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Because the Sky Is Blue",
+        "url": "https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        }
+      ],
+      "duration_ms": 254436,
+      "name": "The Attic",
+      "url": "https://open.spotify.com/track/1Kecp9T2NZfkVEyLE5PW3D"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Detroit Love Vol. 3 - Mixed by Waajeed",
+        "url": "https://open.spotify.com/album/5knB3nkyXkFypQLwn50g8B"
+      },
+      "artists": [
+        {
+          "name": "LADYMONIX",
+          "url": "https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO"
+        }
+      ],
+      "duration_ms": 223928,
+      "name": "WhoRU - Mixed",
+      "url": "https://open.spotify.com/track/6Wn1JiLvcO7HC56mYvTgsZ"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Detrevolution",
+        "url": "https://open.spotify.com/album/6Z3hO5ommQLzYZQaLNke0u"
+      },
+      "artists": [
+        {
+          "name": "Aaron Carl",
+          "url": "https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2"
+        }
+      ],
+      "duration_ms": 305400,
+      "name": "Hateful",
+      "url": "https://open.spotify.com/track/2qq9tbm41uYrf43cSQnIkQ"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Do It All Night (C2 Edit)",
+        "url": "https://open.spotify.com/album/59BGo4xnBlIDtGs6VkKR02"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 467440,
+      "name": "Do It All Night - C2 Edit",
+      "url": "https://open.spotify.com/track/51nh0bQyViqdb5EwU61N0S"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "A Message For The DJ",
+        "url": "https://open.spotify.com/album/79oowKJpRd5OlNhVPkuuV7"
+      },
+      "artists": [
+        {
+          "name": "Delano Smith - Feat. Diamondancer",
+          "url": "https://open.spotify.com/artist/6kt9c3Zkgt0xe7QKtFpE1B"
+        }
+      ],
+      "duration_ms": 443800,
+      "name": "A Message For The DJ",
+      "url": "https://open.spotify.com/track/39cgFLYRr8JTOoB6rITZNl"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Violet Groove E.P.",
+        "url": "https://open.spotify.com/album/7yO99oqltTRlNvJOiE9tmF"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 399583,
+      "name": "A Walk In The Park (Stay)",
+      "url": "https://open.spotify.com/track/6xYb2zqXFbcDfy9TMxfRO8"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Detroit Beatdown Remixes 1: 1",
+        "url": "https://open.spotify.com/album/0YRgHIIdg3vXqptEx7j0GD"
+      },
+      "artists": [
+        {
+          "name": "Norm Talley",
+          "url": "https://open.spotify.com/artist/5J1fwxvTRxviCqCPwd4Lv5"
+        },
+        {
+          "name": "Mike Huckaby",
+          "url": "https://open.spotify.com/artist/7oGwEiATTm4u71R2lQhbC4"
+        }
+      ],
+      "duration_ms": 415880,
+      "name": "Change - Mike Huckaby Remix",
+      "url": "https://open.spotify.com/track/2U4YIbj1pXgVH2Rlg5zKyZ"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Transgressor",
+        "url": "https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX"
+      },
+      "artists": [
+        {
+          "name": "Tunde Olaniran",
+          "url": "https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE"
+        }
+      ],
+      "duration_ms": 275695,
+      "name": "Namesake",
+      "url": "https://open.spotify.com/track/3eMPNkpiw3gtUBgALHHzfZ"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Because the Sky Is Blue",
+        "url": "https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Ay",
+      "url": "https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu"
     }
   ],
   "unique_name": "PRIDE: Detroit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > all over the place in a good way\. cover: declan mckenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,135,493 likes - 122 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,691 likes - 122 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 121 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 |
 | 122 | [HIT ME WHERE IT HURTS](https://open.spotify.com/track/4veQCwlCmxgUK7edG7lG9P) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [HIT ME WHERE IT HURTS / Armida](https://open.spotify.com/album/3ZolpAPWXSf3nSRzS6vmyi) | 4:22 |
 
-Snapshot ID: `MCwxNzNjOTAwZmYwMjg3YThiOGFmZjA0YjE1YjFjMjMwY2FkZDhmMmY2`
+Snapshot ID: `MCw1N2FiYzdkNGY3OGEzZmI4ZjFjNjkzM2E4Y2FiODFmMzdjNGQ5MGY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,179 likes - 167 songs - 8 hr 20 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,179 likes - 168 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,5 +175,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 165 | [Samduck](https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR) | [D\-Steal](https://open.spotify.com/artist/6bi3UYlp3xOsZKR87BwR4j), [Castle J](https://open.spotify.com/artist/4q3a3Tyj21xvY85TBpkR6H), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Samduck](https://open.spotify.com/album/0VszkBflaKTagL0NdUKEl7) | 2:19 |
 | 166 | [Samduck](https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR) | [D\-Steal](https://open.spotify.com/artist/6bi3UYlp3xOsZKR87BwR4j), [Castle J](https://open.spotify.com/artist/4q3a3Tyj21xvY85TBpkR6H), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Samduck](https://open.spotify.com/album/0VszkBflaKTagL0NdUKEl7) | 2:19 |
 | 167 | [What U Gonna Do](https://open.spotify.com/track/44mKiQ3epElrrroYMXeECm) | [MVNGO](https://open.spotify.com/artist/3zeNUoJwbse1JSnImySe1U) | [What U Gonna Do](https://open.spotify.com/album/0zhTe5WY7f3w9brIkl1Ha3) | 4:19 |
+| 168 | [Living For The Weekend](https://open.spotify.com/track/1ufKXTZZodQ8LiVe4op3xN) | [Tetractys](https://open.spotify.com/artist/732QkPWJdAWLO8JldYIdb1) | [Living For The Weekend](https://open.spotify.com/album/0fO5QciWoUuvhNTrNmRGhN) | 4:49 |
 
-Snapshot ID: `MzUxOSxmMmIxYTYxZTMxYTY3ZDE0YThmNDNjZTBjZGRjMWY3MzkxYjE5MTlh`
+Snapshot ID: `MzUyMCxjNjIwNGFhMzk3MmM5NDkyYWZhNWE2NDY0MGYzNzdmNjM0OWI1ZGNl`

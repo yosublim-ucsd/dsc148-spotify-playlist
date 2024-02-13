@@ -1,12 +1,12 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 4472,
+  "num_followers": 4486,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTY4ZjQ2ODFhNjE1OTZhNWJlNTRmYWMwZGZiZmZhZTE5OWQ5MjVh",
+  "snapshot_id": "MCw5NDI2NTkxN2U2M2VjNWFkMjEzN2JkYTI2ODlkNzE4MGIwNWU5MjM0",
   "tracks": [
     {
       "added_at": "2024-01-08 08:37:57",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 239674,
+      "name": "\uc9dd\uc0ac\ub791 Crush",
+      "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 261720,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 239674,
-      "name": "\uc9dd\uc0ac\ub791 Crush",
-      "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
         "name": "\uc548\ubd80 Greeting",
         "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
       },
@@ -291,38 +275,6 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "\ud3b8\uc9c0 Letter",
-        "url": "https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec"
-      },
-      "artists": [
-        {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        }
-      ],
-      "duration_ms": 246301,
-      "name": "\ud3b8\uc9c0 Letter",
-      "url": "https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 240718,
-      "name": "When love passes by",
-      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
@@ -335,6 +287,22 @@
       "duration_ms": 251560,
       "name": "If",
       "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
+        "name": "\ud3b8\uc9c0 Letter",
+        "url": "https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "duration_ms": 246301,
+      "name": "\ud3b8\uc9c0 Letter",
+      "url": "https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -367,6 +335,38 @@
       "duration_ms": 229000,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 240718,
+      "name": "When love passes by",
+      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 237035,
-      "name": "Dreams in summer night",
-      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "\ub300\ub2f5 Answer (stripped)",
-        "url": "https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke"
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
       },
       "artists": [
         {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 182520,
-      "name": "\ub300\ub2f5 (stripped) Answer (stripped)",
-      "url": "https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI"
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
+        "name": "\ub300\ub2f5 Answer (stripped)",
+        "url": "https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "\ub300\ub2f5 (stripped) Answer (stripped)",
+      "url": "https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
         "name": "I can't sleep",
         "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 202733,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -583,18 +567,18 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 243440,
-      "name": "Remind of You",
-      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
+      "duration_ms": 251866,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -611,6 +595,22 @@
       "duration_ms": 155000,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "Remind of You",
+      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -763,22 +763,18 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
-        "name": "\uc601\uc6d0\uc758 \uc21c\uac04 Eternal Moment",
-        "url": "https://open.spotify.com/album/5DMyYZ4Q6THtNPM6gQckDr"
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
       "artists": [
         {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        },
-        {
-          "name": "Lee Young Hoon",
-          "url": "https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm"
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
         }
       ],
-      "duration_ms": 233129,
-      "name": "\uc0ac\ub791\uc774\ub780 \uac78 \uc6b0\uc2b5\uac8c As If Love Meant Nothing (Feat. Lee Young Hoon)",
-      "url": "https://open.spotify.com/track/1avc3G3fc9zXXnPIXkVMrs"
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     },
     {
       "added_at": "2024-01-08 08:37:57",
@@ -803,6 +799,26 @@
     {
       "added_at": "2024-01-08 08:37:57",
       "album": {
+        "name": "\uc601\uc6d0\uc758 \uc21c\uac04 Eternal Moment",
+        "url": "https://open.spotify.com/album/5DMyYZ4Q6THtNPM6gQckDr"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        },
+        {
+          "name": "Lee Young Hoon",
+          "url": "https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm"
+        }
+      ],
+      "duration_ms": 233129,
+      "name": "\uc0ac\ub791\uc774\ub780 \uac78 \uc6b0\uc2b5\uac8c As If Love Meant Nothing (Feat. Lee Young Hoon)",
+      "url": "https://open.spotify.com/track/1avc3G3fc9zXXnPIXkVMrs"
+    },
+    {
+      "added_at": "2024-01-08 08:37:57",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 247991,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
-    },
-    {
-      "added_at": "2024-01-08 08:37:57",
-      "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
-        }
-      ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

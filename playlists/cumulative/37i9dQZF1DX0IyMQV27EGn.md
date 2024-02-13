@@ -2,7 +2,7 @@
 
 ### [Femme Fatale](https://open.spotify.com/playlist/37i9dQZF1DX0IyMQV27EGn)
 
-> sprinkle sprinkle ✨
+> sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
 215 songs - 12 hr 55 min
 

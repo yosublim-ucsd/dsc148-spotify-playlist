@@ -4,7 +4,7 @@
 
 > Baby Eu Tava Na Rua da Agua e os funks mais 🔑 do Brasil\. Foto: TR, Menor RV, Tropa da W&S
 
-229 songs - 12 hr 25 min
+230 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Chamo Teu Vulgo Malvadão](https://open.spotify.com/track/4mdlehe2znCTAzlFhrOa09) | [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [DJ KOSTA 22](https://open.spotify.com/artist/5cS7sjRxRrlA7v6uWpEoTb), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Chamo Teu Vulgo Malvadão](https://open.spotify.com/album/1UFSko3MbHV1QOsUQBHQGE) | 1:58 | 2021-12-31 | 2022-04-23 |
 | [Colocando Nela](https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Colocando Nela](https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs) | 2:20 | 2021-12-31 | 2022-06-18 |
 | [Coração Amoleceu](https://open.spotify.com/track/1JQ1ylL2JEjC6Ib7IJgOvS) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [7 Chaves](https://open.spotify.com/album/1ZewMJPsSXUArv4k8qO4pm) | 2:41 | 2023-02-03 | 2023-03-18 |
-| [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/27XLE4kttnp5YPFJVqUZ8C) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Funk Verão 2023](https://open.spotify.com/album/04FLfPwb0hAYgcn1Vjt0hh) | 2:41 | 2023-09-29 |  |
+| [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/27XLE4kttnp5YPFJVqUZ8C) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Funk Verão 2023](https://open.spotify.com/album/04FLfPwb0hAYgcn1Vjt0hh) | 2:41 | 2023-09-29 | 2024-02-13 |
+| [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/3gmneuYa91hN481MIsS7fz) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [As Melhores do MC Don Juan](https://open.spotify.com/album/64tXOVQMBI57hk0ikrmcXw) | 2:41 | 2024-02-09 |  |
 | [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/7G6eb3AY2UAQBcAtITps4V) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Um Pôr do Sol Na Praia \- Sucessos de Verão](https://open.spotify.com/album/4qP08CaJgrs9AYUZGqwIY7) | 2:41 | 2023-03-17 | 2023-10-02 |
 | [Coração na Geladeira 2](https://open.spotify.com/track/4AKsSRxe6z6woOAsXr5gVA) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [O Menino Ainda Encanta a Quebrada](https://open.spotify.com/album/0ZYbCunZV39UwLahPHMc5O) | 2:24 | 2023-07-28 |  |
 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 | 2024-01-12 |  |

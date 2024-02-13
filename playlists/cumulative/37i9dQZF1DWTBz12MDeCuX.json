@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 133880,
       "name": "Ausreden",
       "url": "https://open.spotify.com/track/6ocEdv3r2yASPGP7moFUeZ"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 172468,
       "name": "berlin08",
       "url": "https://open.spotify.com/track/3E2eMXAAOViUsVKbL0vQip"
@@ -11431,6 +11431,24 @@
     },
     {
       "album": {
+        "name": "I Am Armando - Armando Reloaded",
+        "url": "https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Guantanamera (She's Hot)",
+      "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
+    },
+    {
+      "album": {
         "name": "Gut und schlecht",
         "url": "https://open.spotify.com/album/0ikRawhpYNf1P0DFmEoxH9"
       },
@@ -12276,6 +12294,28 @@
       "duration_ms": 127258,
       "name": "Herz ist kalt",
       "url": "https://open.spotify.com/track/46CRoA0u4EhClL9oK9Sy2P"
+    },
+    {
+      "album": {
+        "name": "HERZ MACHT BAMM",
+        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "HERZ MACHT BAMM",
+      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
       "album": {
@@ -25185,6 +25225,24 @@
     },
     {
       "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "album": {
         "name": "She Likes My Tattoos",
         "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
       },
@@ -32267,6 +32325,24 @@
     },
     {
       "album": {
+        "name": "Will I Ever Love?",
+        "url": "https://open.spotify.com/album/7irh20Gsy14fQoTngkDS5B"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130860,
+      "name": "Will I Ever Love?",
+      "url": "https://open.spotify.com/track/1h42H229e4oEo0BxfwIb4r"
+    },
+    {
+      "album": {
         "name": "Wings (Techno)",
         "url": "https://open.spotify.com/album/0j2Y0dGF9PYIx8EoeG1S0y"
       },
@@ -33400,7 +33476,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 150632,
       "name": "\u00fcberall",
       "url": "https://open.spotify.com/track/2xZ6qOGFvlwm4VTlhrErPG"

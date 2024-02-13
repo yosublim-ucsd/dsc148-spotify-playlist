@@ -5553,6 +5553,24 @@
     },
     {
       "album": {
+        "name": "Living For The Weekend",
+        "url": "https://open.spotify.com/album/0fO5QciWoUuvhNTrNmRGhN"
+      },
+      "artists": [
+        {
+          "name": "Tetractys",
+          "url": "https://open.spotify.com/artist/732QkPWJdAWLO8JldYIdb1"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289619,
+      "name": "Living For The Weekend",
+      "url": "https://open.spotify.com/track/1ufKXTZZodQ8LiVe4op3xN"
+    },
+    {
+      "album": {
         "name": "Living On Video (feat. DTale) [LUNAX Remix]",
         "url": "https://open.spotify.com/album/4kx7ogR2dnniz7nxnsfhm3"
       },

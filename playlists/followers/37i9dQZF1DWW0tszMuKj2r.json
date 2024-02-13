@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 54612,
+  "2024-02-13": 54640,
   "date_first_scraped": "2023-08-09",
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
   "name": "Salsa Sonidera",
@@ -2083,7 +2083,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 279707,
       "name": "Salvame",
       "url": "https://open.spotify.com/track/0YAWMG7kNuseJqSQ6LV8Tf"
@@ -2177,6 +2177,24 @@
       "duration_ms": 195960,
       "name": "Sin Escencia",
       "url": "https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ"
+    },
+    {
+      "album": {
+        "name": "Sin Escencia",
+        "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Sin Escencia",
+      "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
     },
     {
       "album": {

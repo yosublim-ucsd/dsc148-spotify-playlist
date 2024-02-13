@@ -4211,6 +4211,28 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
+    },
+    {
+      "album": {
         "name": "Carretera",
         "url": "https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa"
       },
@@ -8922,7 +8944,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 191229,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ"
@@ -14194,7 +14216,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 209070,
       "name": "Machi Lkhatri",
       "url": "https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0"
@@ -16578,7 +16600,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 200287,
       "name": "Nfss Lhala",
       "url": "https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E"
@@ -17958,6 +17980,28 @@
       "duration_ms": 112578,
       "name": "p u n c h i n \u2018 . t h e . c l o c k",
       "url": "https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "PAID",
+      "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
     },
     {
       "album": {
@@ -22060,7 +22104,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 204426,
       "name": "SULTAN",
       "url": "https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs"
@@ -22336,7 +22380,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
@@ -25260,7 +25304,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 145620,
       "name": "Y Dor",
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"

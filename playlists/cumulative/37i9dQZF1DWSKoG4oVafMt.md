@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-817 songs - 1 day 20 hr 25 min
+818 songs - 1 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Jaano Pyari](https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:22 | 2022-08-23 | 2022-09-23 |
 | [Jaanu](https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89) | [Hardeep Grewal](https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jaanu](https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1) | 3:19 | 2022-01-18 | 2022-02-01 |
 | [Jadon Di Nazar \- From "My Way Main Te Mere Geet"](https://open.spotify.com/track/6nrhlyhAOlhReB6BwkPLMA) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Jadon Di Nazar \(From "My Way Main Te Mere Geet"\)](https://open.spotify.com/album/3YwvsKcLGH330kV3e7njGE) | 3:58 | 2022-12-01 | 2023-01-24 |
-| [Jahli Aashiq](https://open.spotify.com/track/6TRI2VjSv6T5MTYo0uhnqD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:36 | 2024-02-07 |  |
+| [Jahli Aashiq](https://open.spotify.com/track/6TRI2VjSv6T5MTYo0uhnqD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:36 | 2024-02-07 | 2024-02-13 |
 | [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 | 2023-02-02 |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 | 2023-02-04 |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |
@@ -452,6 +452,7 @@
 | [Matt Nayani](https://open.spotify.com/track/5xVmrJTDsQ50nOhGr4H0xC) | [Mr\. Boota](https://open.spotify.com/artist/7y6uVzFdMa49aA3HpupjVq) | [Matt Nayani](https://open.spotify.com/album/1MbeRtNRRzqfOahdRQnNwR) | 3:49 | 2022-04-25 | 2022-05-11 |
 | [Mean \(Featuring Sameeksha Sud, Avinash Mishra\)](https://open.spotify.com/track/7ezQcI5ffAragM15iSLlll) | [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU), [Sameeksha Sud](https://open.spotify.com/artist/3pHU256jfbCuoqq7svsmHH), [Avinash Mishra](https://open.spotify.com/artist/7vQIlbPuO8NSs5qO2rdXPy) | [Mean \(Featuring Sameeksha Sud, Avinash Mishra\)](https://open.spotify.com/album/7fZwR4hoDzynywS6KBTtkq) | 2:23 | 2022-03-22 | 2022-04-06 |
 | [Mehak Teri \(From "Shakaar Paare"\)](https://open.spotify.com/track/3YRcrJaXVPPvrAakD6aflb) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Neha Thakur](https://open.spotify.com/artist/6f3Ax5XPUfgoTxm7O0GaiW) | [Mehak Teri \(From "Shakaar Paare"\)](https://open.spotify.com/album/2MuSOI9gAKDWpYCw05Yn4b) | 2:47 | 2022-07-22 | 2022-12-16 |
+| [Mehboob Ji \(From “Shayar”\)](https://open.spotify.com/track/1dvsqSAmcfFIydNY7d8S77) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Mehboob Ji \(From "Shayar"\)](https://open.spotify.com/album/1wUaHrEIpp4nYyQu67LhFj) | 6:15 | 2024-02-12 |  |
 | [Mehendi Sade Naam Di](https://open.spotify.com/track/2rSGiziqGJEOJS70i3Gn3b) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Mehendi Sade Naam Di](https://open.spotify.com/album/0TOTLrXBIjTMghHK3mHqpd) | 4:22 | 2022-07-22 | 2022-08-18 |
 | [Mehnge Mamle](https://open.spotify.com/track/7khbEiCW3oEB7o6iy0EzTW) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Mehnge Mamle](https://open.spotify.com/album/4x4wA9h11FiGy1QRgN2Jvz) | 2:07 | 2022-03-18 | 2022-05-20 |
 | [Mehrma](https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Mehrma](https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS) | 3:36 | 2022-10-25 | 2023-02-04 |

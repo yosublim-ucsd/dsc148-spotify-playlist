@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 27002,
+  "2024-02-13": 27006,
   "date_first_scraped": "2022-06-10",
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
   "name": "This Is Nana Mizuki",
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 260941,
       "name": "MY ENTERTAINMENT",
       "url": "https://open.spotify.com/track/4McoK7F5MGfam7ENQVaJle"
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 91266,
       "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0 -\u30a2\u30cb\u30e1\u30d0\u30fc\u30b8\u30e7\u30f3-",
       "url": "https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg"

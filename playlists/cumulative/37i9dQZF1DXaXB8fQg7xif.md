@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,045 songs - 2 day 8 hr 29 min
+1,046 songs - 2 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-17 |  |
 | [Body Pop](https://open.spotify.com/track/75bs4ULNvZCzTfAa3ZuD8V) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Body Pop](https://open.spotify.com/album/1IzaAM1IEF1VVnpXrJQEZJ) | 2:40 | 2020-05-22\* | 2021-01-29 |
 | [Body Pump \- Lady Bee Remix](https://open.spotify.com/track/3mC9L7eDVsaAqnLbOya3U4) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Body Pump \(Lady Bee Remix\)](https://open.spotify.com/album/3bk3p9RSvYg3o7823tFSB7) | 2:56 | 2021-02-12 | 2022-06-28 |
-| [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-03 |  |
+| [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-03 | 2024-02-13 |
 | [Bon Bini](https://open.spotify.com/track/6ytVMBHu1ZXvaBvufHCBOX) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Bon Bini EP](https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF) | 6:01 | 2020-12-27 | 2021-10-14 |
 | [Bongo Cha Cha Cha](https://open.spotify.com/track/7J4zszAZxAyowZp7gNUIUI) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Bongo Cha Cha Cha](https://open.spotify.com/album/0goSLvh4vqvDLQHmee3Bk1) | 1:53 | 2021-06-07 | 2022-12-15 |
 | [Boogie All Night](https://open.spotify.com/track/0nboWXjBJpwLSIjUVGeuwc) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Messing With Magic \(Deluxxe Edition\)](https://open.spotify.com/album/0HlqsgrcA5SMYt6sGC1Fil) | 3:39 | 2021-10-10 | 2022-04-21 |
@@ -848,6 +848,7 @@
 | [So Hot \- MK x Nightlapse Remix](https://open.spotify.com/track/41hcstGzn592p7hyWMfOjv) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [So Hot \(MK x Nightlapse Remix\)](https://open.spotify.com/album/0w3CDtEsEhQtZzOCSeGrLL) | 3:45 | 2020-08-04 | 2021-12-21 |
 | [So Into You](https://open.spotify.com/track/4h5I5Y4HZzLNFveiLyXABZ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [So Into You](https://open.spotify.com/album/48wX1Mat1ZZE5yhjH5PoC4) | 2:40 | 2020-12-12 | 2021-12-11 |
 | [Soda Pop](https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [Soda Pop](https://open.spotify.com/album/6Tlma5hptae75mA5jSMWfG) | 2:44 | 2021-12-17 | 2022-07-21 |
+| [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-02-09 |  |
 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 | 2022-03-04 | 2022-06-14 |
 | [Somebody To Love \- Gorgon City Remix](https://open.spotify.com/track/4gJMsAYnnwNBsrhqjLWbWi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Somebody To Love \(Gorgon City Remix\)](https://open.spotify.com/album/2Nt3fFGjvlgERESi1QtPjW) | 4:42 | 2022-04-01 | 2022-05-16 |
 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 | 2021-12-11 | 2022-08-20 |

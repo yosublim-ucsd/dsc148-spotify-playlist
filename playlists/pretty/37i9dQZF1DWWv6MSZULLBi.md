@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,452 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,458 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Hard to Say Goodnight](https://open.spotify.com/track/763AWCvF9LLMyf4febXmFK) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Hard to Say Goodnight](https://open.spotify.com/album/10DSPgSF8Ae6dy4ITIz1HS) | 3:55 |
 | 100 | [Birds Of San Francisco](https://open.spotify.com/track/7j3cj3HJThPKIu6yqSJvm0) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Birds Of San Francisco](https://open.spotify.com/album/3qdgHPEHBc8QgfU5nCtEDS) | 3:30 |
 
-Snapshot ID: `MCw1NGIyNDczY2RmOWExZTBhYjI4MTFlMzBlOTY2NzllOWE5Yjc0OTE4`
+Snapshot ID: `MCxiYjU1NTU5OTQyNzUyMDg3ZDE5NThiNGZjMjVkYjJjNzRiZmQyMmEz`

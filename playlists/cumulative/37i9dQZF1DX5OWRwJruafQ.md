@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-306 songs - 14 hr 31 min
+307 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-19 |
 | [BBBB](https://open.spotify.com/track/0BUMpBR4SqkIQNTLV6m0kN) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/0sgCrpfFug0BxvOvmrpSv3) | 3:42 | 2023-03-29 |  |
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-03-29 |  |
+| [Bijli](https://open.spotify.com/track/1wiwjKJYYbnsrHIt6iiZYk) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E) | [Bijli](https://open.spotify.com/album/4E0FNeE9FuFORCEn5dWO7L) | 2:20 | 2024-02-12 |  |
 | [Biodata](https://open.spotify.com/track/71fEHkKiQ5AlOXGkE01Gar) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Biodata](https://open.spotify.com/album/1ZDS6moVwxBS6myglIoPiY) | 2:19 | 2023-12-12 | 2024-01-06 |
 | [Black Effect](https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Black Effect](https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj) | 2:55 | 2023-03-29 | 2023-07-15 |
 | [Blackia](https://open.spotify.com/track/5AGyGZjzlAKRN4LQXJY4v5) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Blackia](https://open.spotify.com/album/3nT3kE7iN4jdzTuFCGPLH8) | 3:41 | 2023-06-30 | 2023-07-15 |

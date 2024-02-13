@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 67032,
+  "num_followers": 67046,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDI1MmM4ZjljYjRiYzMwNWM0ZDA2MjFmN2NlMjA2NGE5YjIyMjU4",
+  "snapshot_id": "MCxkMzMxOWFlZmZhOWQ2NTFlNWUzNTlmMjdhNzg1NzIzYzJkMzVjOGZm",
   "tracks": [
     {
       "added_at": "2023-10-27 21:57:42",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Delux",
-        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
-      },
-      "artists": [
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "M\u00e1s de Lo Que Te Imaginas",
-      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "RPDF",
         "url": "https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 183209,
       "name": "3 de Noviembre (No Me Ag\u00fcito)",
       "url": "https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Delux",
+        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "M\u00e1s de Lo Que Te Imaginas",
+      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Mientras quede aliento",
-        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        }
-      ],
-      "duration_ms": 193086,
-      "name": "Mientras quede aliento",
-      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
         "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 213306,
       "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
       "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Mientras quede aliento",
+        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        }
+      ],
+      "duration_ms": 193086,
+      "name": "Mientras quede aliento",
+      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Siempre Resistir / Nunca Desistir",
         "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     }
   ],
   "unique_name": "Escena Pop Punk",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,677 songs - 3 day 18 hr 46 min
+1,678 songs - 3 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1206,7 +1206,7 @@
 | [Que Daría](https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:32 | 2022-06-21 | 2022-07-20 |
 | [Que El Porte Se Me Note](https://open.spotify.com/track/7oteWihovGG0K5grhTaZhj) | [DanyAraujo](https://open.spotify.com/artist/6nwG1sN2MjVkjGBKTFONyq), [Joan LZ](https://open.spotify.com/artist/7kyCaEo3MoxvuID38Dtgc3) | [Que El Porte Se Me Note](https://open.spotify.com/album/5dIGFowLCGm74wTJqQKpPf) | 3:18 | 2023-03-14 | 2023-03-22 |
 | [Que Ganas](https://open.spotify.com/track/5pXuclm5K7goAcENkqoanP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:43 | 2022-06-21 | 2022-07-06 |
-| [Que La Envidia Los Mate](https://open.spotify.com/track/6NqdfpijnIpmVn7aKyD2xE) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 2:49 | 2024-02-11 |  |
+| [Que La Envidia Los Mate](https://open.spotify.com/track/6NqdfpijnIpmVn7aKyD2xE) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 2:49 | 2024-02-11 | 2024-02-13 |
 | [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/1eBTesQZ72agGVC4kKs6HN) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 3:29 | 2022-10-28 | 2022-11-11 |
 | [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/45PmtkNbgCun4GPphHVzvi) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 3:29 | 2023-10-20 | 2023-11-11 |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2023-09-19 | 2024-01-18 |
@@ -1583,6 +1583,7 @@
 | [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2022-09-14 | 2022-10-22 |
 | [Voy por todo \(Corrido preview\)](https://open.spotify.com/track/7bMXbWMInL5jfBHfMSYb9N) | [Javi Olg](https://open.spotify.com/artist/6m2CsiDKZyumLzUw0q4lI0) | [Voy por todo \(Corrido preview\)](https://open.spotify.com/album/7KGRNWaJsbLHOKwpHDqJtj) | 2:00 | 2023-11-15 | 2023-12-04 |
 | [Vuela](https://open.spotify.com/track/1QXwpAhLrrHsCKdtiHMFCt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Vuela](https://open.spotify.com/album/0X0f1u386z18IE4KK2rdkZ) | 3:37 | 2023-09-08 | 2023-09-14 |
+| [VULTURES](https://open.spotify.com/track/4202KkXGtULRsbRocWSw09) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:36 | 2024-02-12 |  |
 | [Vultures](https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bump J](https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V) | [Vultures](https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ) | 3:57 | 2023-12-12 |  |
 | [VVS](https://open.spotify.com/track/4JZ8IStL5OpkyzYKV0fMKg) | [glocklord](https://open.spotify.com/artist/2Xxw1YaKucgUXQ9vVr5au9) | [VVS](https://open.spotify.com/album/3fSxAwJqvmGvGkiEME4hLj) | 2:43 | 2023-04-14 | 2023-04-22 |
 | [VVS](https://open.spotify.com/track/0wUA5VlwL9L25IPRy48LL9) | [glocklord](https://open.spotify.com/artist/2Xxw1YaKucgUXQ9vVr5au9) | [VVS](https://open.spotify.com/album/2cZv2QPIn6czgM3jwYahRv) | 2:43 | 2023-04-11 | 2023-04-15 |

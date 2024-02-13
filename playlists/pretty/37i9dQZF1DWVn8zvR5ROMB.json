@@ -1,13 +1,29 @@
 {
   "description": "All of the newest country music releases in one playlist! Featuring Kacey Musgraves, Nate Smith, Gwen Stefani & Blake Shelton and more.",
-  "num_followers": 245645,
+  "num_followers": 245748,
   "original_name": "New Music Friday Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzkyZGNlMTNkNGVkODdlYjJmZTJkZGIzOTk0MzRiOTA2NDY2YWUy",
+  "snapshot_id": "MCxmNzNhZjZmMmQ4NGEyNzRhZDY5ZjQ5ZmM2YWU1MWIyNjkyZGRhNTY5",
   "tracks": [
+    {
+      "added_at": "2024-02-12 02:44:54",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm"
+    },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {

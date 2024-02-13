@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,180 likes - 114 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,218 likes - 114 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [Take Me Higher](https://open.spotify.com/track/74kYOKpYCNvgUdljKgqNO0) | [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Take Me Higher](https://open.spotify.com/album/5vwS10ZIa8DOQc4MdHjjTt) | 2:30 |
 | 100 | [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 |
 | 101 | [Let Go](https://open.spotify.com/track/5Shde2mBgjXTqejJYE3Pus) | [Venior](https://open.spotify.com/artist/2lpGnpxGqS2rOJRFnLFuT6) | [Let Go](https://open.spotify.com/album/5Y8Y93UZ07oE4qlJ4DRGOS) | 3:23 |
-| 102 | [lavender](https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender](https://open.spotify.com/album/3RlYqLXyEamZbjnZBIxwdi) | 2:37 |
+| 102 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 |
 | 103 | [Hurt](https://open.spotify.com/track/49vpNwWrbyhNeqDAuF11Lr) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Hurt](https://open.spotify.com/album/2jIlVr1qJAdriNKl4CkwvI) | 2:57 |
 | 104 | [Vem är trasigast](https://open.spotify.com/track/5arvDepIYQbvhKF5igEiws) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Vem är trasigast](https://open.spotify.com/album/4sSzxJZ0gAnZsQsyUcbN1p) | 2:44 |
 | 105 | [24 hours](https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [24 hours](https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2) | 3:40 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [1980](https://open.spotify.com/track/4lH1baPxaMaQf2mp9MI3Zx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [1980](https://open.spotify.com/album/0yrQGib2jAdrQbbUWCMSyy) | 6:22 |
 | 114 | [Hardstyle Fish](https://open.spotify.com/track/4CkMLm0u5s9T3XVVSCC8wp) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Hardstyle Fish](https://open.spotify.com/album/6p1XPlmC2m4J7AsGMVlNAA) | 2:36 |
 
-Snapshot ID: `MCw3NTFmMzkxZTcyZjdlZjRhNjAxZGVlYmVjZWQxNzAxM2QxMzQxMThm`
+Snapshot ID: `MCw1ZDVhZWNhMGJhZjM2OGNkZTBlYzcxODhlZGM4NDQ2YWU2NDk1Nzk2`

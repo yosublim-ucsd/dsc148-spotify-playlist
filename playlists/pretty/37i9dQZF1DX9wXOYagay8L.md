@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe?si=z9IvQnCmTVesshTJLRVaoA">Blaq Diamond</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,231 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,356 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mangibona Wena](https://open.spotify.com/track/4tsZyrzMjg17NoQQtrqojq) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Mangibona Wena](https://open.spotify.com/album/3LopGgCBqT5oOiATRsWMsh) | 3:50 |
 | 2 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
-| 3 | [Malaika](https://open.spotify.com/track/1tHKABq4u7XHe6y86PV070) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Malaika](https://open.spotify.com/album/2so1Bl0SweyoitmotIWVXo) | 4:15 |
-| 4 | [Uyangijabulisa](https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Naledi](https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX) | [Uyangijabulisa](https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW) | 4:48 |
-| 5 | [Notification](https://open.spotify.com/track/4lV0XRU1Y4kfgFOjqOdmUq) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:51 |
-| 6 | [Imimoya](https://open.spotify.com/track/65ssk0NCbNtYDYgF86Tc65) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 3:58 |
-| 7 | [Y.O.U.](https://open.spotify.com/track/5PGCJcOdDR8DlqkhMZMODk) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Y.O.U.](https://open.spotify.com/album/2CZiEK2WAD9LNJKB64zLN5) | 4:21 |
+| 3 | [Uyangijabulisa](https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Naledi](https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX) | [Uyangijabulisa](https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW) | 4:48 |
+| 4 | [Notification](https://open.spotify.com/track/4lV0XRU1Y4kfgFOjqOdmUq) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:51 |
+| 5 | [Imimoya](https://open.spotify.com/track/65ssk0NCbNtYDYgF86Tc65) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 3:58 |
+| 6 | [Y.O.U.](https://open.spotify.com/track/5PGCJcOdDR8DlqkhMZMODk) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Y.O.U.](https://open.spotify.com/album/2CZiEK2WAD9LNJKB64zLN5) | 4:21 |
+| 7 | [Malaika](https://open.spotify.com/track/1tHKABq4u7XHe6y86PV070) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Malaika](https://open.spotify.com/album/2so1Bl0SweyoitmotIWVXo) | 4:15 |
 | 8 | [Thatha \(feat\. Daliwonga\)](https://open.spotify.com/track/3m3HaFgD2knHOviqKFnZ6s) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Thatha \(feat\. Daliwonga\)](https://open.spotify.com/album/7wKEzxam6tfWMz2yf60jZ4) | 3:42 |
 | 9 | [Izintuthwane](https://open.spotify.com/track/7ikOr0lhauHZz0xBqcBqMv) | [Nonka](https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA), [Shaka iLembe](https://open.spotify.com/artist/6vNGQhQUVO0bFSBpa03aUz) | [Music From & Inspired By Shaka iLembe \(Original Soundtrack\)](https://open.spotify.com/album/0Gk6DBu8HnLr41cGlQ4gIF) | 2:34 |
 | 10 | [Kuyabongwa](https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81) | [ChubbyCheeks](https://open.spotify.com/artist/2jMiIQfoS53BBQstybElVW) | [Kuyabongwa](https://open.spotify.com/album/1p2L4YEwcJHgRndeMG25Cw) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Khuphuka](https://open.spotify.com/track/2woH45Z4imZSyCaqkSC0UX) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:43 |
 | 50 | [Thandaza](https://open.spotify.com/track/6vR8F8fp42rA8ecAlimsuw) | [DeeTheGeneral](https://open.spotify.com/artist/6rJUmLA6tYddLv09w8ec6t), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Thandaza](https://open.spotify.com/album/088OsBlXpMBHglE3f9vUTI) | 6:05 |
 
-Snapshot ID: `MCw3MDQ2MTY5Yjk3OTFlOTFiODZjODYyNDIzN2Y1YTg1NDZkZDczNzI4`
+Snapshot ID: `MCwxNTMxOGQ2OWYxOGViYTRmZGYwYmYwMTA4NmNhYmFlYWYyOGU5MDEy`

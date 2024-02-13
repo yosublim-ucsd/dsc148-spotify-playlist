@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: أصالة
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,835 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,978 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [أمانة ياقلبي](https://open.spotify.com/track/3FTEDGInbFF2kjecQsQZkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أمانة ياقلبي](https://open.spotify.com/album/6OpGUC2jtawLCn4TWPV4Ny) | 3:40 |
 | 75 | [Da Kan Naseeb](https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Fat Sam](https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU) | [Red Bull Sika](https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l) | 3:17 |
 
-Snapshot ID: `MCxlYmVmNDA4ZGM3ZTU5NTY2YjE1ZDliODEyZmFlNTc1ZmM1OGQxYTRh`
+Snapshot ID: `MCw4OTZjNmVhYjRjY2E4MzBjMTAyOTIwYjJkYzkzNjFlNWUyNzU0ZmNm`

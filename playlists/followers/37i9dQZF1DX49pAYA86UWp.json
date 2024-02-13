@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 13147,
+  "2024-02-13": 13161,
   "date_first_scraped": "2023-06-10",
   "description": "Trap de la isla, con Yeruza en portada.",
   "name": "Trap Boricua",
@@ -105,6 +105,24 @@
       "duration_ms": 265749,
       "name": "23",
       "url": "https://open.spotify.com/track/4sWkZXLxb0lPCXNBzw5rsr"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
       "album": {
@@ -571,7 +589,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 208079,
       "name": "Estamos Bien",
       "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"

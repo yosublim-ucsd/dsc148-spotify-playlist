@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Deejay Telio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,671 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,701 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Pengthing](https://open.spotify.com/track/7rvZT1EjAl9acJHSxKfY5W) | [Mside](https://open.spotify.com/artist/7Ddg0uyT8fliPrQwQn89pT), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Pengthing](https://open.spotify.com/album/3sy9rlGAiDOegbBAIJ5lIh) | 3:48 |
 | 75 | [Yeye](https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Yeye](https://open.spotify.com/album/6bvQP6p2Gm3FL3Zy0762e4) | 3:22 |
 
-Snapshot ID: `MCwzNmEzNDczMjU0OThmMzA3N2U0MWJhZjM3YjQ0NjdkZjc2YTI3ZjQ4`
+Snapshot ID: `MCw2Y2YyYzZiNDhlZGE3M2FlNTFkZjk5ZTk0OTllODRkNGE3MTdkNzEy`

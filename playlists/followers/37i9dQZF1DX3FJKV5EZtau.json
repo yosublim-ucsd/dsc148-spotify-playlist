@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 100965,
+  "2024-02-13": 100983,
   "date_first_scraped": "2022-01-17",
   "description": "Electronic tunes for your virtual world.",
   "name": "Pixel Garden",
@@ -3089,6 +3089,24 @@
       "duration_ms": 174017,
       "name": "gemstone",
       "url": "https://open.spotify.com/track/6cuH8SCJf51zqFNQam4TvJ"
+    },
+    {
+      "album": {
+        "name": "Get Me Out",
+        "url": "https://open.spotify.com/album/1L9OxfSZf3SSSU5Ww2kcxW"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135365,
+      "name": "Get Me Out",
+      "url": "https://open.spotify.com/track/4MRH7sDZSVdsPGzWCldeqE"
     },
     {
       "album": {
@@ -8173,7 +8191,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 185161,
       "name": "Without u (feat. Holywatr)",
       "url": "https://open.spotify.com/track/1qDoHX2KuwgMDgetDgtBVx"

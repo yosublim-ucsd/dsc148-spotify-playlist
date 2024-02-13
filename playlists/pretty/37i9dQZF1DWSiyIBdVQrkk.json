@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the film Bob Marley: One Love.",
-  "num_followers": 2099660,
+  "num_followers": 2100708,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2JkNGRmMjM2MzNhMmFhOTVjMTQwN2U0Nzc2MDJmOTI3YzMzNWMw",
+  "snapshot_id": "MCxhZjE1YzNjNjYwMTA1OTEwNjY2MDA2YzZmNDU3NTZlZDgyMTBhMjc5",
   "tracks": [
     {
       "added_at": "2024-01-29 05:23:56",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Inna Heights",
-        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Hills And Valleys",
-      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Legalize It (Legacy Edition)",
         "url": "https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 279360,
       "name": "Legalize It",
       "url": "https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Inna Heights",
+        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 273040,
+      "name": "Hills And Valleys",
+      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Music Is Life",
-        "url": "https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6"
-      },
-      "artists": [
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Rock Away",
-      "url": "https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 294786,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Music Is Life",
+        "url": "https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Rock Away",
+      "url": "https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Revelation Pt. II: The Fruit of Life",
+        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Rock Stone",
+      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Wanted Dread and Alive",
         "url": "https://open.spotify.com/album/18s7KUeencxiAsv7ths3jK"
       },
@@ -1191,30 +1215,6 @@
       "duration_ms": 204857,
       "name": "If Only",
       "url": "https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Revelation Pt. II: The Fruit of Life",
-        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Sizzla",
-          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Rock Stone",
-      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Bunny Wailer Sings The Wailers",
-        "url": "https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu"
-      },
-      "artists": [
-        {
-          "name": "Bunny Wailer",
-          "url": "https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Mellow Mood",
-      "url": "https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Marcus Garvey",
         "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 201266,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Bunny Wailer Sings The Wailers",
+        "url": "https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu"
+      },
+      "artists": [
+        {
+          "name": "Bunny Wailer",
+          "url": "https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Mellow Mood",
+      "url": "https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 323068,
-      "name": "Old Sunrise",
-      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Poor Man Style",
-        "url": "https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ"
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
       "artists": [
         {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
+      "duration_ms": 323068,
+      "name": "Old Sunrise",
+      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1543,6 +1527,22 @@
       "duration_ms": 387306,
       "name": "Zungguzungguguzungguzeng",
       "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Poor Man Style",
+        "url": "https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1611,6 +1611,30 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Revelation Part 1: The Root Of Life",
+        "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Jah Army",
+      "url": "https://open.spotify.com/track/4MAadSz8azCoDgBNX27f0Z"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "The 8 Year Affair",
         "url": "https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA"
       },
@@ -1643,30 +1667,6 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Revelation Part 1: The Root Of Life",
-        "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Jah Army",
-      "url": "https://open.spotify.com/track/4MAadSz8azCoDgBNX27f0Z"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Bush Doctor",
+        "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 320280,
+      "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Mi Deh Yah",
         "url": "https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 227404,
       "name": "Mi Deh Yah",
       "url": "https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Bush Doctor",
-        "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 320280,
-      "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
-      "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
     },
     {
       "added_at": "2024-01-29 05:23:56",

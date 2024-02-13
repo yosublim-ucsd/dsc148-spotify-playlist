@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 52941,
+  "2024-02-13": 52948,
   "date_first_scraped": "2022-05-11",
   "description": "Hymns and anthems of artists stepping  into the culture at large! Speak truth. Cover; Joshua Luke Smith",
   "name": "Speak Into Chaos",
@@ -934,6 +934,32 @@
     },
     {
       "album": {
+        "name": "MOODY SZN",
+        "url": "https://open.spotify.com/album/3Rppzpp9rnldCCa2vx7Wm5"
+      },
+      "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        },
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
+        {
+          "name": "Rapzilla",
+          "url": "https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169841,
+      "name": "Not Normal",
+      "url": "https://open.spotify.com/track/3LlbKoukha4C78Rc63ANfp"
+    },
+    {
+      "album": {
         "name": "Moody",
         "url": "https://open.spotify.com/album/7r35SQX9UlGneWZ8zssDNg"
       },
@@ -1005,7 +1031,7 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 169841,
       "name": "Not Normal",
       "url": "https://open.spotify.com/track/5AtxqV1YiSWeeummpFFGQs"

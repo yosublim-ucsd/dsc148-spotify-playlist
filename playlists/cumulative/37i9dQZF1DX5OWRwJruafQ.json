@@ -831,6 +831,32 @@
     },
     {
       "album": {
+        "name": "Bijli",
+        "url": "https://open.spotify.com/album/4E0FNeE9FuFORCEn5dWO7L"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Sukh-E Muzical Doctorz",
+          "url": "https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ"
+        },
+        {
+          "name": "Nagii",
+          "url": "https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Bijli",
+      "url": "https://open.spotify.com/track/1wiwjKJYYbnsrHIt6iiZYk"
+    },
+    {
+      "album": {
         "name": "Biodata",
         "url": "https://open.spotify.com/album/1ZDS6moVwxBS6myglIoPiY"
       },

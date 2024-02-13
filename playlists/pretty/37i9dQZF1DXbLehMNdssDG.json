@@ -1,12 +1,12 @@
 {
   "description": "Affirmations and meditation music for a mindful start of the day. ",
-  "num_followers": 7559,
+  "num_followers": 7637,
   "original_name": "Morning Meditation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGJmMDkzZjFhOGRmMDk5ZDhiYmU5NTdhNzg5M2VjODZkYTdjMzAz",
+  "snapshot_id": "MCxmOTEzOTBmMTFkODk3M2MxMzc2NzkzMDc5ODQ2MDYyMmVkZWRjM2Vj",
   "tracks": [
     {
       "added_at": "2024-01-22 13:30:41",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-01-22 13:30:41",
       "album": {
+        "name": "Spiritual Echoes",
+        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Spiritual Echoes",
+      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
+    },
+    {
+      "added_at": "2024-01-22 13:30:41",
+      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 184000,
       "name": "Star Above Parvati",
       "url": "https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg"
-    },
-    {
-      "added_at": "2024-01-22 13:30:41",
-      "album": {
-        "name": "Spiritual Echoes",
-        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Spiritual Echoes",
-      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
     },
     {
       "added_at": "2024-01-22 13:30:41",

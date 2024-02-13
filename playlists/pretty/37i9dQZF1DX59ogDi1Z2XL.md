@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <a href="spotify:artist:2jwmP4TgzTGqjCfcXMDayW">FRVRFRIDAY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,552 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,587 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Beams Don't Lose Balance](https://open.spotify.com/track/4v2tggb0uijJLiRqgSD0RU) | [Zeuce](https://open.spotify.com/artist/1QIW19JeWy2vtQDvH3JXkj) | [Beams Don't Lose Balance](https://open.spotify.com/album/5vK5KcBpEAh6FGX5ZfITbv) | 1:51 |
 | 99 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCwxMzNlNzE1MGQ4NzRjOWY3MDhjNmFlOGQ1ZmU2YjI3NTc0YTk5YmY3`
+Snapshot ID: `MCxjZjk5OWY5MWE4M2VlNjZmOTE0MjE0MjZkNmJmZTQyNzlkM2MwNWEx`

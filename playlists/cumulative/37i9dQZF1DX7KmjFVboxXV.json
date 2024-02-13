@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Butch 4 Butch",
+        "url": "https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178318,
+      "name": "Butch 4 Butch",
+      "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
+    },
+    {
+      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
@@ -770,7 +788,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 189586,
       "name": "She's My Religion",
       "url": "https://open.spotify.com/track/0LwJllN73QYBHEBdGUTyEp"

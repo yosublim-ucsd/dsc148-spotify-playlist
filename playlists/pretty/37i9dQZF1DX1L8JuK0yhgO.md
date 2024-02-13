@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,417 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,433 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 25 | [Move Up](https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/0dHzWk3b5wtTpoHJWBxQxO) | 3:07 |
 | 26 | [100 \- LIVE ver.](https://open.spotify.com/track/350oNFR22ROHFxHwao2QlY) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [100 \(LIVE ver.\)](https://open.spotify.com/album/1D904JCa5PYjCmAz5539QH) | 3:15 |
 | 27 | [DICE](https://open.spotify.com/track/3ndMItoMPAhxqHPhjVfDOK) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [DICE](https://open.spotify.com/album/2HSA6nhXG87EebkARaDxc3) | 2:28 |
-| 28 | [kakattekoi](https://open.spotify.com/track/3dCrIIEsCHXhwHGchZKJ4U) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/22DYFzz5Fjsb8jS0yAkE1F) | 2:36 |
+| 28 | [かかってこい](https://open.spotify.com/track/2f7waYFxMqr1wOenbTSOlS) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj) | 2:36 |
 | 29 | [最後だとしても...](https://open.spotify.com/track/7gLBZMoFeOwWMak8UVPSym) | [句潤](https://open.spotify.com/artist/1uDNlSRJxFFJLWXr11s0Bz), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [句が呼ぶ煙](https://open.spotify.com/album/7wXuPfXn4vqtOtI8OdsX2a) | 3:21 |
 | 30 | [Hitoyamakoete](https://open.spotify.com/track/5rCrufrqXBMjxwI45irXfu) | [CHOUJI](https://open.spotify.com/artist/2wudBehSTmgh0pDockAtnn), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Hitoyamakoete](https://open.spotify.com/album/5iEFdaZ87LCFoAKwUkAuAh) | 2:42 |
 | 31 | [D.N.A](https://open.spotify.com/track/0tXfwsV4gZ7s1zUbSvOaEo) | [Ariji Joe](https://open.spotify.com/artist/0EG7RBynLh5C8CODWwIcaS) | [D.N.A](https://open.spotify.com/album/1s74sgnF5dlvemeC3SxYM6) | 4:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [WASTE](https://open.spotify.com/track/30fhBHPS0lrzNxHqsZOvJ8) | [Yamiboi To$](https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es) | [WASTE](https://open.spotify.com/album/6WYDe7JIwNHeLDWTDMNgQr) | 1:20 |
 | 60 | [Way Up](https://open.spotify.com/track/6EHPLCJo9d5LilgZV1aEZf) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Way Up](https://open.spotify.com/album/1iib1XZEFw66W3YYjep2cZ) | 1:53 |
 
-Snapshot ID: `MCwzNWQ4NDljMmVjNTE3NjE2N2U0MzQ2M2I0OTEyZmEyYTk4NDkwZjg2`
+Snapshot ID: `MCxlN2JiMTIwYzE2MWY1Y2Q2Y2JlMjg4NDQwMzYwODAyMjM1ZjNjNmYy`

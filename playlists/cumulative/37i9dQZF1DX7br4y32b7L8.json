@@ -2677,6 +2677,32 @@
     },
     {
       "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz"
+      },
+      "artists": [
+        {
+          "name": "Crazy Jack",
+          "url": "https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL"
+        },
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "YUKI JADE",
+          "url": "https://open.spotify.com/artist/390TEc5VdoYZ4dH3xo4ONC"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
+    },
+    {
+      "album": {
         "name": "Je Moeder Heet Henk",
         "url": "https://open.spotify.com/album/2XSzITGoBapz1wiX3lbQmq"
       },

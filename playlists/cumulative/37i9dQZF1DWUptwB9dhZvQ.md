@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-166 songs - 5 hr 5 min
+167 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/track/3lHH6j1JzcCYVct83zihWs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/album/4MGAcD1ZvQPy2r6FQcgAx7) | 1:03 | 2023-09-08 |  |
 | [Oru Katha Sollatta?](https://open.spotify.com/track/0wK8MG9pulX8sPu3Xw0Qg9) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Sethu Thankachan](https://open.spotify.com/artist/2ntgTx2dpzxCQDh6vG3CZp), [Kannan M](https://open.spotify.com/artist/12U7XXDgQkyIzT40PhuRak), [Ravi Kumar](https://open.spotify.com/artist/6vNENfWSIJLmHJXn6303sQ), [Chennai Orchestra](https://open.spotify.com/artist/7IR1HDrZCLQc3rXicDU3wW) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 1:24 | 2021-11-01 | 2023-06-09 |
 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 | 2022-07-08 |  |
+| [Party Dance Theme](https://open.spotify.com/track/1atGZUjXggmG1UANsJ51C6) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o) | [Ippadikku Kadhal](https://open.spotify.com/album/3mlUMYBxmBsdqATLB4GaqG) | 1:15 | 2024-02-12 |  |
 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 | 2021-11-01 |  |
 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 | 2021-11-01 |  |
 | [Pokkiri Theme](https://open.spotify.com/track/72kMYIVcqEnJKCC9p4GH2d) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Pokkiri](https://open.spotify.com/album/4Inz90EeQs57Oxc41GF6QO) | 2:37 | 2021-11-01 | 2023-03-11 |

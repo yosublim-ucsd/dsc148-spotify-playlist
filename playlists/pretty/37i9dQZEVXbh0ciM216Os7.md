@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 27 | [Something New](https://open.spotify.com/track/2pStdu5ViqeIlorMd0lPBS) | [KJ Conteh](https://open.spotify.com/artist/21Vq6TV9BhC3IBMzfm3o6z), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Something New](https://open.spotify.com/album/6iM3zZzaIsRMfMZvl5e6eJ) | 3:36 |
 | 28 | [Praise the Lord \(feat\. Thomas Rhett\) \- Live](https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [BRELAND & Friends: Vol\. 1 \(Live\)](https://open.spotify.com/album/4d6f7JgJ7dnzsUgNnjy9AQ) | 2:56 |
 | 29 | [1981](https://open.spotify.com/track/5p5lAB6YJioo8gJIck84JJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:09 |
-| 30 | [Ally's Song](https://open.spotify.com/track/7KHWN1YP0PY8deaq0IykBe) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 3:09 |
+| 30 | [Honestly](https://open.spotify.com/track/6qZOQKoGnQUpY5BHIOOtPB) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 3:46 |
 
-Snapshot ID: `Mjg0NTc1ODAsMDAwMDAwMDAxOTAyY2IyYTA3MzcyMjM0YjYyMjdjYWU1ZTJkNjFhYw==`
+Snapshot ID: `Mjg0NTc1ODAsMDAwMDAwMDAyZDM5ZjI3NmFlZTBhYTU5MTdhYzViNGM5ZGEyNGY2OQ==`

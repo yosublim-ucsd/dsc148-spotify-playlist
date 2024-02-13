@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: EPEX\(이펙스\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,643 likes - 367 songs - 20 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,716 likes - 367 songs - 20 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 22 | [LTNS](https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga) | [DK](https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF) | [LTNS](https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm) | 3:42 |
 | 23 | [On My Hill](https://open.spotify.com/track/03nSjRW0PS4yNdw16XXYLO) | [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [브랜딩 인 성수동 OST Part 1](https://open.spotify.com/album/5ptnTJdSWhGczU0sbdQmld) | 3:16 |
 | 24 | [2009 \(Feat\. unofficialboyy\)](https://open.spotify.com/track/1LMzOs2hutvxG88BVh5lkD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [2009 \(Feat\. unofficialboyy\)](https://open.spotify.com/album/2PtYH7kVPNWwJ9JmJ95KFl) | 3:50 |
-| 25 | [Little Match Girl \(Feat\. Minjeong\)](https://open.spotify.com/track/4EqMQuQou61494EDXybbJf) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [강민정](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [The Legacy 13](https://open.spotify.com/album/3iNNGxMlCkL3ntBUitdrKQ) | 4:01 |
+| 25 | [Little Match Girl \(Feat\. Minjeong\)](https://open.spotify.com/track/4EqMQuQou61494EDXybbJf) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kang min jeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [The Legacy 13](https://open.spotify.com/album/3iNNGxMlCkL3ntBUitdrKQ) | 4:01 |
 | 26 | [Skittles \(feat\. JiHo Ryu\)](https://open.spotify.com/track/5PzIzQR88xgCbD4RnGTPTT) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ), [Ryu JiHo](https://open.spotify.com/artist/5He5hKfzcUEoQekBZZdixx) | [Home Vacation](https://open.spotify.com/album/5ICogd0P6jZ2PUhYtzOMCR) | 3:55 |
 | 27 | [Closer](https://open.spotify.com/track/03uhy48b98kgPFYkAQ1Szl) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [Don't Worry Be Happy](https://open.spotify.com/album/5Fmu3IPceflLyFJmq2ql2D) | 2:21 |
 | 28 | [Love Don't Turn Bad](https://open.spotify.com/track/4VkGoiLQigOvnyYrTCKGfD) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Love Don't Turn Bad](https://open.spotify.com/album/6prz3bs0w88rXKYJxMT64z) | 3:04 |
@@ -272,7 +272,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 262 | [Yummy Yum](https://open.spotify.com/track/1BVneXeQr0wcp2J58DkeIR) | [UNIVERSE TICKET](https://open.spotify.com/artist/6w3YHlIFm3SL3IKtlsMoQO) | [UNIVERSE TICKET \- UNIT STATION](https://open.spotify.com/album/0dkws10erKqGEkg68w7IMf) | 2:45 |
 | 263 | [In Your Heart](https://open.spotify.com/track/0qHb0P9uuFaE50Pe3kBcHZ) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [In Your Heart](https://open.spotify.com/album/1UkvqlDW6EiUTFxrUAA0ci) | 3:46 |
 | 264 | [Late Timing](https://open.spotify.com/track/3npzdZh3Ge07Shg1hWCsiL) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Someone's playlist](https://open.spotify.com/album/2dVniDqhI5f7YwTj4sARRl) | 4:11 |
-| 265 | [놔둘테야 Put it down](https://open.spotify.com/track/1tO4gYH6YC6PxBp6U2TmDy) | [강민정](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [놔둘테야 Put it down](https://open.spotify.com/album/4o2kXDrwwDF05E5YyCYBgO) | 3:28 |
+| 265 | [놔둘테야 Put it down](https://open.spotify.com/track/1tO4gYH6YC6PxBp6U2TmDy) | [Kang min jeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [놔둘테야 Put it down](https://open.spotify.com/album/4o2kXDrwwDF05E5YyCYBgO) | 3:28 |
 | 266 | [Luv letter](https://open.spotify.com/track/25A7FWcswCbayU8vyoOYDu) | [You harim](https://open.spotify.com/artist/2qh7wZab1NosCQXdFxJ1SN) | [Luv letter](https://open.spotify.com/album/39zcWq6jSmZ32il3iyqQ4T) | 3:11 |
 | 267 | [Will you be okay without me](https://open.spotify.com/track/7DyMxMb3855ogDyCKr2eWM) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [궁궐의 맹수 OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/2N2BEaYANVY7ekjVO3n1Nu) | 3:36 |
 | 268 | [GOTCHA](https://open.spotify.com/track/02rhdB4VphNx89HO1ER4cN) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [ALL OURS](https://open.spotify.com/album/0YMO8e9YT76Dz4HQxW4gQn) | 3:13 |
@@ -376,4 +376,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 366 | [Rush Hour](https://open.spotify.com/track/1yVBxh2jsIunYaCEIQ9j0r) | [Highway](https://open.spotify.com/artist/0nmg6RNT1HaWcMmG28C9kI) | [UNIVERSE TICKET \- LEVEL STATION](https://open.spotify.com/album/1N2QUGuwoXWJCg4qOklNDh) | 2:40 |
 | 367 | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/track/6e53jSfKBohJjJhqURJRC7) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [차우주](https://open.spotify.com/artist/1Ug3giuJFaBEuBuoYbZVno) | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/album/0u0JzT8CCZ2pch383vj08S) | 3:23 |
 
-Snapshot ID: `MCw2NTU0ODM5NTk5OGI0MWIwMGY4NmZmNzBmMzY5YjNhYWNjMjhlOTMy`
+Snapshot ID: `MCwwZDU0ZTE5MGQ5OTc5NGVlMmNjYzk5OGFkY2U4OTUwODc2YWIwNzVh`

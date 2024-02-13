@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 203166,
+  "num_followers": 203211,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz",
+  "snapshot_id": "MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -475,22 +475,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Behind the Scenes / Reeces Pieces",
-        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
+        "name": "Live And Direct",
+        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Jess Spink",
-          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
         }
       ],
-      "duration_ms": 282890,
-      "name": "Behind the Scenes (feat. Jess Spink)",
-      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
+      "duration_ms": 171642,
+      "name": "Live And Direct",
+      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -523,18 +519,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Live And Direct",
-        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
+        "name": "Behind the Scenes / Reeces Pieces",
+        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
       },
       "artists": [
         {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Jess Spink",
+          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
         }
       ],
-      "duration_ms": 171642,
-      "name": "Live And Direct",
-      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
+      "duration_ms": 282890,
+      "name": "Behind the Scenes (feat. Jess Spink)",
+      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -615,26 +615,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "EGODEATH",
-        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
       },
       "artists": [
         {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         },
         {
-          "name": "GRM Daily",
-          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
-        },
-        {
-          "name": "6HRS",
-          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
         }
       ],
-      "duration_ms": 192000,
-      "name": "EGODEATH",
-      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -655,22 +651,26 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+        "name": "EGODEATH",
+        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
         },
         {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
+        },
+        {
+          "name": "6HRS",
+          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
         }
       ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+      "duration_ms": 192000,
+      "name": "EGODEATH",
+      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 237293,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 249448,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2024-01-26 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Thunder is coming.",
-  "num_followers": 423541,
+  "num_followers": 423532,
   "original_name": "Calm Before the Storm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGZmZDkxMDlhNGFiOWIyMmUxOGFkNzhiMDZiZTQwMmM2ZmNlNDZl",
+  "snapshot_id": "MCxhYThiNjVlZWUxZDBmMGRkMWU4YTEyZDY1MWUzMzI4ODhhOTY1ZWEz",
   "tracks": [
     {
       "added_at": "2023-10-19 17:09:31",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Red Forest",
-        "url": "https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk"
-      },
-      "artists": [
-        {
-          "name": "If These Trees Could Talk",
-          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
-        }
-      ],
-      "duration_ms": 390013,
-      "name": "The First Fire",
-      "url": "https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Zaris / Cast the Route",
         "url": "https://open.spotify.com/album/7s5TjksKTu7Ox6KMgHTqBt"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 315329,
       "name": "Zaris",
       "url": "https://open.spotify.com/track/3lG9eYlhnipGfvAR4ZkBk7"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Red Forest",
+        "url": "https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk"
+      },
+      "artists": [
+        {
+          "name": "If These Trees Could Talk",
+          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
+        }
+      ],
+      "duration_ms": 390013,
+      "name": "The First Fire",
+      "url": "https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "G_d's Pee AT STATE'S END!",
-        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 482121,
-      "name": "Job's Lament",
-      "url": "https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "S/T",
         "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 339600,
       "name": "Threads",
       "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "G_d's Pee AT STATE'S END!",
+        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 482121,
+      "name": "Job's Lament",
+      "url": "https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Radio Protector",
-        "url": "https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg"
-      },
-      "artists": [
-        {
-          "name": "65daysofstatic",
-          "url": "https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g"
-        }
-      ],
-      "duration_ms": 328186,
-      "name": "Radio Protector",
-      "url": "https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Chronicle",
         "url": "https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 419333,
       "name": "Her Beating Wings",
       "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Radio Protector",
+        "url": "https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg"
+      },
+      "artists": [
+        {
+          "name": "65daysofstatic",
+          "url": "https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g"
+        }
+      ],
+      "duration_ms": 328186,
+      "name": "Radio Protector",
+      "url": "https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2"
     },
     {
       "added_at": "2023-10-19 17:09:31",

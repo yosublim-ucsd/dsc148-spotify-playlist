@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-893 songs - 2 day 2 hr 12 min
+894 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,11 +748,12 @@
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-24 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-07-26 | 2022-02-11 |
 | [sol & prada](https://open.spotify.com/track/7wfMTV2iORe3n6JLgA9daD) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:01 | 2024-01-26 | 2024-01-28 |
+| [Sola Se Pegó](https://open.spotify.com/track/5wCOTnxbKx4LZvzSmaoZsn) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [El Asere de Aseres](https://open.spotify.com/album/2uLjoKjhHdm6iZaovBuQE7) | 3:40 | 2024-02-12 |  |
 | [Solita](https://open.spotify.com/track/7gcP0NQgB8sPn3Y7iqdAbE) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:23 | 2022-11-25 | 2022-12-03 |
 | [SOLO RESPIRA](https://open.spotify.com/track/4ZTYnXDN5xBl9yazQ9HpIZ) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [SOLO RESPIRA](https://open.spotify.com/album/4J5RkXVrNIXFDPCQnltPkl) | 2:35 | 2023-10-19 | 2023-12-03 |
 | [Solos](https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:08 | 2023-09-26 | 2023-09-30 |
 | [Sombrero e Huaso](https://open.spotify.com/track/3dUDVqnhj4Ylb3bKsBWRTT) | [Los Hermanos Campo](https://open.spotify.com/artist/1ir9cTFFYoQ2D7idPpAJIm) | [30 Cuecas de Oro](https://open.spotify.com/album/1LE7JulcmjpnnbQZSMgR4T) | 1:48 | 2023-09-19 | 2023-09-21 |
-| [Somos Diferentes](https://open.spotify.com/track/0bS0fLAHqIdaiYYLBiWUw3) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [Somos Diferentes](https://open.spotify.com/album/2aYzVJioWFr3Qoti8X7EmK) | 2:32 | 2023-11-06 |  |
+| [Somos Diferentes](https://open.spotify.com/track/0bS0fLAHqIdaiYYLBiWUw3) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [Somos Diferentes](https://open.spotify.com/album/2aYzVJioWFr3Qoti8X7EmK) | 2:32 | 2023-11-06 | 2024-02-13 |
 | [Soy Feo Pero Rico](https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [De Amor y Vacilón](https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV) | 3:07 | 2024-01-02 | 2024-01-04 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-07 | 2023-11-11 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-08-09 | 2021-10-30 |

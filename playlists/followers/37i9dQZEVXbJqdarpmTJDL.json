@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 101947,
+  "2024-02-13": 101972,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -649,7 +649,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 181800,
       "name": "9 Maiou",
       "url": "https://open.spotify.com/track/0RXEt3MMYzcZhgeqL1w8mS"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 180645,
       "name": "AGAPI - Remix",
       "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
@@ -7671,7 +7671,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 263015,
       "name": "Ekptotos Aggelos",
       "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
@@ -11905,7 +11905,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 211998,
       "name": "I Gineka Tis Zois Sou",
       "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
@@ -17751,7 +17751,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 190736,
       "name": "Mi Rotas Ti Fovamai",
       "url": "https://open.spotify.com/track/7E6c7VoW7hAvj09myvW4We"
@@ -23509,7 +23509,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 250886,
       "name": "Resta",
       "url": "https://open.spotify.com/track/4b3oUZkWcDxUD0decCaJKA"

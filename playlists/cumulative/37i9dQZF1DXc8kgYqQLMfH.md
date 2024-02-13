@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,125 songs - 1 day 18 hr 38 min
+1,126 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Boutique](https://open.spotify.com/track/3atyuxObBb1LkmKcvEZT95) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Boutique](https://open.spotify.com/album/4BGa7q7U3A3NWve9Pxajc4) | 1:52 | 2021-11-10 | 2022-07-29 |
 | [Brady Beat](https://open.spotify.com/track/3z0G1M7bz89WpgEbG73hQY) | [still yung](https://open.spotify.com/artist/5g6oWIIspPHHUQ8c1ksVJ0) | [Brady Beat](https://open.spotify.com/album/5JRFVyMjJFWlA41jwF76vI) | 2:37 | 2021-11-10 | 2022-04-08 |
 | [break of day](https://open.spotify.com/track/2uSuyCQook85WkdFu9Ymba) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [break of day](https://open.spotify.com/album/4jGSMArzc4g8ENIuXiM0as) | 1:41 | 2023-03-16 |  |
+| [breathtaking](https://open.spotify.com/track/6NqnGKb8x3PMCWqn2oJizA) | [mello joints](https://open.spotify.com/artist/3SvvTbg5Gj3UDGNxtqTsfd) | [breathtaking](https://open.spotify.com/album/7A4dRVpZAS3T4Az0Xus2sT) | 2:10 | 2024-02-09 |  |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2021-11-10 | 2023-05-20 |
 | [Bring Me Back Home](https://open.spotify.com/track/4glCiMR5agMNxQGZdhdZfw) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [I Feel Like Flying](https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn) | 1:36 | 2022-04-15 | 2023-09-08 |
 | [broken hash](https://open.spotify.com/track/2USGBktYHKaG6CqulUxXz3) | [slån](https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC) | [superficial](https://open.spotify.com/album/0KAXo0a643QbDytAb5cpz5) | 1:48 | 2021-11-10 | 2022-09-03 |
@@ -316,7 +317,7 @@
 | [Excellent](https://open.spotify.com/track/3GRTUabfguVlwCQmU3W7ps) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Excellent](https://open.spotify.com/album/3awGDNrYh2GzlZ9NfeqiBf) | 2:40 | 2021-11-10 |  |
 | [Exhale](https://open.spotify.com/track/4kbjW7PdqSvKwKhe9NBVuD) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Exhale](https://open.spotify.com/album/3K5P8toBo5aA71JfIDcIKe) | 2:14 | 2022-04-08 | 2022-12-10 |
 | [Exploration](https://open.spotify.com/track/4ywkLKWKctyPjjHDnG8JgK) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Exploration](https://open.spotify.com/album/1LskKx2NR2ZcKintqhPMml) | 2:30 | 2022-04-15 | 2022-12-10 |
-| [f r e sh](https://open.spotify.com/track/3zeliPGpAx7nCI06Vyx88i) | [Dusty Floss](https://open.spotify.com/artist/3Tv0ZB6qVIKnVXAKUQqVkI) | [dusk](https://open.spotify.com/album/0BbzJNm5b5EkAoHFRQGRvS) | 3:40 | 2023-08-03 |  |
+| [f r e sh](https://open.spotify.com/track/3zeliPGpAx7nCI06Vyx88i) | [Dusty Floss](https://open.spotify.com/artist/3Tv0ZB6qVIKnVXAKUQqVkI) | [dusk](https://open.spotify.com/album/0BbzJNm5b5EkAoHFRQGRvS) | 3:40 | 2023-08-03 | 2024-02-13 |
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2021-11-10 | 2022-12-10 |
 | [Faded](https://open.spotify.com/track/0pTB6vjZLmjxuD6kAARUV2) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Faded](https://open.spotify.com/album/2HtVPo0g5KvgVWdC1l09N2) | 2:52 | 2022-04-15 | 2022-12-10 |
 | [Fall Leaves](https://open.spotify.com/track/70zApwjfafyTs2FSf7DWOV) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Fall Leaves](https://open.spotify.com/album/12Zad9rjMt8E3kIZbYkcTa) | 2:34 | 2022-12-23 |  |

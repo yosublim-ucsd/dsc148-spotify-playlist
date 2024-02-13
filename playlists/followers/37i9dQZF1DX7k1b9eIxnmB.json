@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 159907,
+  "2024-02-13": 159952,
   "date_first_scraped": "2022-05-30",
   "description": "Here comes the Maestro with his best of 90s!",
   "name": "Raaja Rules 90s",
@@ -2135,6 +2135,32 @@
     {
       "album": {
         "name": "Villu Pattukaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1MLfxpFdcJTVvguGN8hjXL"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Gangai Amaran",
+          "url": "https://open.spotify.com/artist/0wAdPB0vUICwqg1U5iGUJV"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305920,
+      "name": "Kalaivaniyo Raniyo",
+      "url": "https://open.spotify.com/track/5fs6zkwLGG8MqFfL82vLCq"
+    },
+    {
+      "album": {
+        "name": "Villu Pattukaran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/76DTLTDU1oDKTzK2El8jMb"
       },
       "artists": [
@@ -2145,7 +2171,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 305640,
       "name": "Kalaivaniyo Raniyo",
       "url": "https://open.spotify.com/track/2Kd508yLlVXT8PvgLmwMQT"
@@ -3163,10 +3189,40 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 300466,
       "name": "Nandri Sollave Unaku",
       "url": "https://open.spotify.com/track/7ySqTbfCvwp6xknbnq86EE"
+    },
+    {
+      "album": {
+        "name": "Udan Pirappu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6rLX3ngDPxbcwrodGMizgf"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Vaali",
+          "url": "https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "Nandri Sollave Unaku",
+      "url": "https://open.spotify.com/track/4FycSpMIL0fWuEhO3OnMd1"
     },
     {
       "album": {
@@ -3573,10 +3629,40 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 308924,
       "name": "Oru Maina",
       "url": "https://open.spotify.com/track/3XviZjSvN43tHlxQMn9fFI"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZPzmnMyBI7IpdF61objv0"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Vaali",
+          "url": "https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309493,
+      "name": "Oru Maina",
+      "url": "https://open.spotify.com/track/0D36Aeh3Um2TuYqZLs1y0i"
     },
     {
       "album": {

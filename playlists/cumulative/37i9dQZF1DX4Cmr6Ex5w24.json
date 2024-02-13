@@ -2175,6 +2175,36 @@
     },
     {
       "album": {
+        "name": "Duet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IKpfZUk6Qdv5CZp2RSinp"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495280,
+      "name": "Mettuppodu Mettuppodu",
+      "url": "https://open.spotify.com/track/4kUD2sexDKVH0lJXrc74Wu"
+    },
+    {
+      "album": {
         "name": "Duet",
         "url": "https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU"
       },
@@ -2190,7 +2220,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 495882,
       "name": "Mettuppodu Mettuppodu",
       "url": "https://open.spotify.com/track/01iiqDKJPQpfCOgG4rfjid"

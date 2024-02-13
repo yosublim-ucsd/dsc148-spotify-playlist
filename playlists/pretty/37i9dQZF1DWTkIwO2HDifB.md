@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Baby Eu Tava Na Rua da Agua e os funks mais 🔑 do Brasil\. Foto: TR, Menor RV, Tropa da W&S
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,187,713 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,189,779 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 24 | [Aquariano Nato](https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Complexo dos Hits](https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv) | [Funktroit](https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU) | 1:56 |
 | 25 | [Novidade na Área](https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Novidade na Área](https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl) | 2:00 |
 | 26 | [Desacato](https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Gui Da Norte](https://open.spotify.com/artist/1PC8RPtwfgPPdlxyAsd1Bw) | [Desacato](https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8) | 7:18 |
-| 27 | [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/27XLE4kttnp5YPFJVqUZ8C) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Funk Verão 2023](https://open.spotify.com/album/04FLfPwb0hAYgcn1Vjt0hh) | 2:41 |
+| 27 | [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/3gmneuYa91hN481MIsS7fz) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [As Melhores do MC Don Juan](https://open.spotify.com/album/64tXOVQMBI57hk0ikrmcXw) | 2:41 |
 | 28 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 |
 | 29 | [Coração na Geladeira 2](https://open.spotify.com/track/4AKsSRxe6z6woOAsXr5gVA) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [O Menino Ainda Encanta a Quebrada](https://open.spotify.com/album/0ZYbCunZV39UwLahPHMc5O) | 2:24 |
 | 30 | [Os Bico Tão Se Perguntando \(Let’s Go 3\)](https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Os Bico Tão Se Perguntando \(Let’s Go 3\)](https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Boca de Mel](https://open.spotify.com/track/7yYrG1nIPeZdLoA9tfU8LL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Boca de Mel](https://open.spotify.com/album/58VlvfWrlru69qoGW4GEvz) | 2:04 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCxhN2E1NTQ5NTA3NDg4ZmUwMjBkYTljM2RjNmZlZGExZGZlMTFiMGUx`
+Snapshot ID: `MCxjZGE2ODNlZDdkNjU0NzNkYjI4NjJiZWVjOWI0NDZmOWQxYzQ4ZmZi`

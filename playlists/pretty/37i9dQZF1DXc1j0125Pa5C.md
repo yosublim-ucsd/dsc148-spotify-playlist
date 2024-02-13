@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,973 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,086 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Beijo Doce / Brilho de Cristal \- Ao Vivo](https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Beijo Doce / Brilho de Cristal \(Ao Vivo\)](https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk) | 3:11 |
 | 75 | [Pout\-Pourri: Eu Vacilei / A Gente Pega Fogo](https://open.spotify.com/track/2lLvMPadTGcmYdOV4W3wj3) | [ESTD](https://open.spotify.com/artist/7ub7UAJ0JTRQvRZDgVUvhM) | [Pout\-Pourri: Eu Vacilei / A Gente Pega Fogo](https://open.spotify.com/album/28F8x0ymWRUXl0Vcr7Z6Nc) | 3:16 |
 
-Snapshot ID: `MCxkZmMwMDk3ZTQ5ZmYzNTE3MmMzNDgyMDFjZDMyZjdiNDNkZjRiMTMy`
+Snapshot ID: `MCxiY2FmZDQyMTI3NzBjMTJmMmMyYmZlNDdhNjA0N2Q5MTkxOTBiMjU0`

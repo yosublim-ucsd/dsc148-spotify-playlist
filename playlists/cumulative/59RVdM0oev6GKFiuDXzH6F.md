@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-563 songs - 1 day 3 hr 59 min
+564 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Like This](https://open.spotify.com/track/0ivA7bMXyVNFaQOceVI8EX) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Like This](https://open.spotify.com/album/5c2BKb5ZyD3H3h5tenKJSU) | 2:50 | 2023-04-27 | 2023-12-14 |
 | [Little Perk](https://open.spotify.com/track/6Z0pACbh4jmSOL4d47FRHi) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Little Perk](https://open.spotify.com/album/4hYel5A8uGNtLLYsHC7Fj8) | 3:01 | 2023-11-24 |  |
 | [Live Wire](https://open.spotify.com/track/6pd1xr5qxj4lw1GD6QBDxl) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Live Wire](https://open.spotify.com/album/1rffiRmofrgygTi0L2V5i4) | 3:08 | 2023-11-10 |  |
+| [Living For The Weekend](https://open.spotify.com/track/1ufKXTZZodQ8LiVe4op3xN) | [Tetractys](https://open.spotify.com/artist/732QkPWJdAWLO8JldYIdb1) | [Living For The Weekend](https://open.spotify.com/album/0fO5QciWoUuvhNTrNmRGhN) | 4:49 | 2024-02-12 |  |
 | [Living On Video \(feat\. DTale\) \[LUNAX Remix\]](https://open.spotify.com/track/3dJA78GBr8hKPXKOhRU0oZ) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Living On Video \(feat\. DTale\) \[LUNAX Remix\]](https://open.spotify.com/album/4kx7ogR2dnniz7nxnsfhm3) | 2:27 | 2023-11-17 |  |
 | [Lluvia en Colombia \(feat\. El Mayam\)](https://open.spotify.com/track/3KowtgFAQpAqdZ8A0GOpTX) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [FIGHT CLVB](https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg), [El Mayam](https://open.spotify.com/artist/0NYR6imR2oVp8iy4KF1OEj) | [Lluvia en Colombia \(feat\. El Mayam\)](https://open.spotify.com/album/3f2u3ZowZuBrLbLqGyz0fi) | 2:54 | 2023-04-21 | 2023-12-23 |
 | [Lo Que Siento](https://open.spotify.com/track/5rPvnCH5uQKoaiB2biRFUK) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Lo Que Siento](https://open.spotify.com/album/4y3hcyQJTVQxM4ZWRvmdxS) | 2:49 | 2023-03-10 | 2023-04-13 |

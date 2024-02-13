@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 220000,
       "name": "Celebration at the Empty Grave",
       "url": "https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m"
@@ -1518,6 +1518,24 @@
       "duration_ms": 123700,
       "name": "Unveil My Eyes",
       "url": "https://open.spotify.com/track/3q2YCR0NGK1cTm9epl4q23"
+    },
+    {
+      "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123700,
+      "name": "Unveil My Eyes",
+      "url": "https://open.spotify.com/track/6lhmoisNBy3xgRCfc9NM6j"
     },
     {
       "album": {

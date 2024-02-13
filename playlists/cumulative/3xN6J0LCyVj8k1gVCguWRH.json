@@ -16006,7 +16006,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 209708,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4c2JIiFwqyv33BkKSyAhMj"
@@ -28959,6 +28959,28 @@
     },
     {
       "album": {
+        "name": "Do You Ever Wonder?",
+        "url": "https://open.spotify.com/album/4ZFKiVwUVPrdHTPBco6ryQ"
+      },
+      "artists": [
+        {
+          "name": "WYFE",
+          "url": "https://open.spotify.com/artist/1SSO4sbzquWGKSOpO5FO53"
+        },
+        {
+          "name": "Fourtuna",
+          "url": "https://open.spotify.com/artist/3rQv0qMuHpgSiiGRLDHkyb"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340840,
+      "name": "Livin' a Dream",
+      "url": "https://open.spotify.com/track/7qyFllvLTXpacKanr3y8fB"
+    },
+    {
+      "album": {
         "name": "ELO WE <3 U",
         "url": "https://open.spotify.com/album/7E3IE4RWQBJb2JfVXnhRHR"
       },
@@ -34980,6 +35002,24 @@
       "duration_ms": 230000,
       "name": "No Such Thing as Normal",
       "url": "https://open.spotify.com/track/0uHuwOM2Z8koeLddFtXr7o"
+    },
+    {
+      "album": {
+        "name": "No Te Lo Mereces",
+        "url": "https://open.spotify.com/album/2vLoBN1rPBUhcWT8wkhiVd"
+      },
+      "artists": [
+        {
+          "name": "Victoria Yoi",
+          "url": "https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195363,
+      "name": "No Te Lo Mereces",
+      "url": "https://open.spotify.com/track/3egtBfWrAU4tqbYk4LQ4ox"
     },
     {
       "album": {

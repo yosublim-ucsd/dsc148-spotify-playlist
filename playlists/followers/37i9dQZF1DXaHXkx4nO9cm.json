@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 56023,
+  "2024-02-13": 56030,
   "date_first_scraped": "2023-10-23",
   "description": "Mergulhe dentro da sua mente com esses sons do mar.",
   "name": "Sons do Mar",
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 250464,
       "name": "Bali Beach Waves",
       "url": "https://open.spotify.com/track/6AiS3Vw8NbfUvrgbMeRC1V"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 298783,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/2JUUU04a6BU7EYkVA5Mym0"

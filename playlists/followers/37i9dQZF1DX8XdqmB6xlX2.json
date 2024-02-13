@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 150984,
+  "2024-02-13": 151048,
   "date_first_scraped": "2023-04-07",
   "description": "El hogar de tu nueva canci\u00f3n favorita. Foto: Benson Boone",
   "name": "bops.",
@@ -2769,10 +2769,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 317400,
       "name": "State Of The Art (A.E.I.O.U.)",
       "url": "https://open.spotify.com/track/6JWxt3rUfibJOTpAPnAPwV"
+    },
+    {
+      "album": {
+        "name": "Regions of Light and Sound of God",
+        "url": "https://open.spotify.com/album/3S9HLKJlIahphBAjzsHDzi"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317400,
+      "name": "State of the Art - A.E.I.O.U.",
+      "url": "https://open.spotify.com/track/1oHp0l35qOOJS4zrElISNb"
     },
     {
       "album": {

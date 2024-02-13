@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217093,
+  "num_followers": 217107,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGEwMWYzOTcxOTg1MDUwYzg1MjQyY2RlMWY2MWM3MWE3OTgyMmMz",
+  "snapshot_id": "MCw5MTk0NjFlMzM3ZmQ1ZmYxYWQyZTdiNTlhODk4YWRiOGJhM2EyMGU0",
   "tracks": [
     {
       "added_at": "2024-01-29 15:47:34",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
         "name": "Spruces and pines",
         "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Then I Saw You",
-        "url": "https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ"
-      },
-      "artists": [
-        {
-          "name": "Theordor Wessman",
-          "url": "https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA"
-        }
-      ],
-      "duration_ms": 186708,
-      "name": "Then I Saw You",
-      "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Whatever is left",
-        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+        "name": "Then I Saw You",
+        "url": "https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ"
       },
       "artists": [
         {
-          "name": "Noemi Lucas",
-          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+          "name": "Theordor Wessman",
+          "url": "https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA"
         }
       ],
-      "duration_ms": 123628,
-      "name": "Whatever is left",
-      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
+      "duration_ms": 186708,
+      "name": "Then I Saw You",
+      "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Fading Embers",
         "url": "https://open.spotify.com/album/67QrN8t6R2s5wydrWNg62g"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 162136,
       "name": "Fading Embers",
       "url": "https://open.spotify.com/track/2zlwHdQh0b72gUeMhkRwkR"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Incision In The Silence",
-        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
-      },
-      "artists": [
-        {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
-        }
-      ],
-      "duration_ms": 129563,
-      "name": "Incision In The Silence",
-      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Toivoa",
         "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 121732,
       "name": "Toivoa",
       "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Incision In The Silence",
+        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 129563,
+      "name": "Incision In The Silence",
+      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
+        "name": "Littoral",
+        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "duration_ms": 141216,
+      "name": "Littoral",
+      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 139978,
       "name": "Peaceful Rebellion",
       "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
-        "name": "Littoral",
-        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
-      },
-      "artists": [
-        {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
-        }
-      ],
-      "duration_ms": 141216,
-      "name": "Littoral",
-      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Flickering Flame",
-        "url": "https://open.spotify.com/album/3ndLiNJW5n7J0oFshWnThj"
-      },
-      "artists": [
-        {
-          "name": "Noemi Lucas",
-          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
-        }
-      ],
-      "duration_ms": 162437,
-      "name": "Flickering Flame",
-      "url": "https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "85mm",
         "url": "https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 179123,
       "name": "85mm",
       "url": "https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Flickering Flame",
+        "url": "https://open.spotify.com/album/3ndLiNJW5n7J0oFshWnThj"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 162437,
+      "name": "Flickering Flame",
+      "url": "https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Fallen Leaves",
-        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
-      },
-      "artists": [
-        {
-          "name": "V\u00edgi Seaghdh",
-          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Stilles Sehnen (Upright Reframings)",
         "url": "https://open.spotify.com/album/2ac5YHVhCIkDRp2D7lgswK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 205269,
       "name": "Stilles Sehnen - Upright Reframings",
       "url": "https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Fallen Leaves",
+        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
+      },
+      "artists": [
+        {
+          "name": "V\u00edgi Seaghdh",
+          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Morning-Star",
-        "url": "https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo"
-      },
-      "artists": [
-        {
-          "name": "Avi Mehta",
-          "url": "https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi"
-        }
-      ],
-      "duration_ms": 180308,
-      "name": "Morning-Star",
-      "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Just One More Time",
         "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 196312,
       "name": "Just One More Time",
       "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Morning-Star",
+        "url": "https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo"
+      },
+      "artists": [
+        {
+          "name": "Avi Mehta",
+          "url": "https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi"
+        }
+      ],
+      "duration_ms": 180308,
+      "name": "Morning-Star",
+      "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Corrente",
-        "url": "https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E"
-      },
-      "artists": [
-        {
-          "name": "Scott Laudier",
-          "url": "https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK"
-        }
-      ],
-      "duration_ms": 122784,
-      "name": "Corrente",
-      "url": "https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Sonnenkind",
         "url": "https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 148770,
       "name": "Falke",
       "url": "https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Corrente",
+        "url": "https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E"
+      },
+      "artists": [
+        {
+          "name": "Scott Laudier",
+          "url": "https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK"
+        }
+      ],
+      "duration_ms": 122784,
+      "name": "Corrente",
+      "url": "https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw"
     },
     {
       "added_at": "2024-01-29 15:47:34",

@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-134 songs - 12 hr 39 min
+136 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Poshiida](https://open.spotify.com/track/5IBSUC328q7FOJbRWSBshZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Poshiida](https://open.spotify.com/album/028fac3QHLwLvVAiGpg8Os) | 5:19 | 2023-12-12 | 2024-01-27 |
 | [Poshiida](https://open.spotify.com/track/6ArdbmXqWGlRjsPQQfAGj4) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Poshiida](https://open.spotify.com/album/5l1KWAkPohyeWSp6EhJL3o) | 5:19 | 2024-01-25 |  |
 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 | 2021-12-01 |  |
-| [Pyar Se Pyar Karna](https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2) | 4:17 | 2023-02-27 |  |
+| [Pyar Se Pyar Karna](https://open.spotify.com/track/1RnADvAIf4ALR1z0Hej0cX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/7xmy9BWCQ17YuI4YnKyfgo) | 4:17 | 2024-02-09 |  |
+| [Pyar Se Pyar Karna](https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2) | 4:17 | 2023-02-27 | 2024-02-13 |
 | [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 | 2021-12-01 |  |
 | [Rafta Rafta Woh Meri Hasti Ka Saman Ho Gaye](https://open.spotify.com/track/6GdajL7Wy76jkC7QziZ1At) | [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Khiraj](https://open.spotify.com/album/3V2kOV6FanUWqzj7JZkY8z) | 4:47 | 2023-10-11 |  |
 | [Rang Rasiya \- Film Version](https://open.spotify.com/track/3JwTaFbO6HlMFyD0UvEtOM) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mahima Bhardwaj](https://open.spotify.com/artist/256cbupySWagIEHWcArnNf), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94) | [Safed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AfF3Yos8Gx1YYyws9zzq6) | 8:54 | 2023-12-12 |  |
@@ -140,7 +141,8 @@
 | [Woh Nahi Mera Magar \- Male Vocals](https://open.spotify.com/track/6gcQXc18soxkl2hSJ99Rx9) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Ritu Johri](https://open.spotify.com/artist/0mwzaAy1Z7DMLAQgU1iHb1) | [Master Strokes \- Ghazals](https://open.spotify.com/album/11Mz0ZeiVztXLHHt2jythE) | 6:18 | 2021-12-01 | 2022-07-29 |
 | [Yeh Arzoo Thi Tujhe Gul Ke](https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z) | [Amanat Ali Khan](https://open.spotify.com/artist/5s29c3wPnXfRXbSKAxhmr1) | [Ustad Amanat Ali Khan Sings Ghazals](https://open.spotify.com/album/0GSK5Cdz6xnE7K5OOPyOj9) | 4:34 | 2021-12-01 | 2023-06-06 |
 | [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 | 2023-02-18 |
-| [Zid](https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/4uabV43WtpLFd0QOI6xK3H) | 5:09 | 2023-03-28 |  |
+| [Zid](https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/4uabV43WtpLFd0QOI6xK3H) | 5:09 | 2023-03-28 | 2024-02-13 |
+| [Zid](https://open.spotify.com/track/08PBtue3SWYVlZqfbvQIE9) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/2x4a52pauzSvhQnCI9DY6a) | 5:09 | 2024-02-09 |  |
 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 | 2024-01-25 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

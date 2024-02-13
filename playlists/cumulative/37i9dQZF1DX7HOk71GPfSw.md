@@ -4,7 +4,7 @@
 
 > glaivepilled
 
-1,948 songs - 3 day 16 hr 40 min
+1,950 songs - 3 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [goodbye](https://open.spotify.com/track/3uei6XAS8fOqtHtW86RXl5) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [goodbye](https://open.spotify.com/album/5MRO1Vq0qmRhBI22OROFdh) | 2:14 | 2021-01-23 | 2021-02-26 |
 | [goodbye](https://open.spotify.com/track/0wBJKM6BUwb1mawb9GHR8h) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [goodbye](https://open.spotify.com/album/7HFVnisso5dIPbsYeQoP1y) | 2:36 | 2021-01-08 | 2021-02-10 |
 | [Goofies](https://open.spotify.com/track/6Svm4519iwSrzORtCNgG0Q) | [Lux Vimdor](https://open.spotify.com/artist/5MSARlILztDOl23Gc3mqI8) | [Goofies](https://open.spotify.com/album/1n5yhuZuiwF0PNVf5p2dCr) | 2:57 | 2021-11-12 | 2022-02-24 |
+| [goreblog](https://open.spotify.com/track/3mgLzpPrgntBfYnxrPuqlP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [bod \[包家巷\]](https://open.spotify.com/artist/1D6VOxRs2bOirIONpA4u70), [Glasear](https://open.spotify.com/artist/4KR1aSNrKFDzmNeibMzGZg) | [software gore](https://open.spotify.com/album/3lyCkGXK5OjJsUFaGhSVgf) | 2:22 | 2024-02-12 |  |
 | [GOSSIP](https://open.spotify.com/track/1tjJoYTGWaITkvlD37L4QY) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [GOSSIP](https://open.spotify.com/album/4Boajrtj2qjs8DKjYLpXoF) | 3:20 | 2022-06-24 | 2022-10-22 |
 | [gossip girls](https://open.spotify.com/track/5AIbMoxC0aBvbHlpwJbNKl) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [gossip girls](https://open.spotify.com/album/0Q5Qzp1jkMJWwd1IynikA4) | 1:52 | 2021-05-15 | 2021-12-20 |
 | [Got My Number](https://open.spotify.com/track/10pb48uTPwADEC9yb7j2ty) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/3IcJmQcFPkitObupYRNgd7) | 2:54 | 2020-10-13\* | 2020-10-16 |
@@ -1306,6 +1307,7 @@
 | [perky](https://open.spotify.com/track/3ij9bvJRbDU8ZJiYIUkzUV) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [perky](https://open.spotify.com/album/1XBYiyhsR1Z9UQgbVI85gu) | 2:31 | 2023-09-29 | 2024-01-23 |
 | [Perla Rosa](https://open.spotify.com/track/1oZtqQDnbDmZTX0pGyJeIt) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [b.estye](https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU), [Hello Mimmi](https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7) | [Perla Rosa](https://open.spotify.com/album/33AI29Z0zGVTiZyCSdRVGO) | 3:07 | 2021-05-03 | 2021-06-26 |
 | [Person](https://open.spotify.com/track/41ooYpJZt6Te6wP1uLm2hP) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [Person](https://open.spotify.com/album/5K3fLIzPQz3XlvCKquqHkE) | 3:30 | 2023-06-09 | 2023-09-30 |
+| [Person \- Angel Mix](https://open.spotify.com/track/5iTzaatezJzsUhX1QjT0Kp) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [Person \(Angel Mix\)](https://open.spotify.com/album/61WZkS5rDvpQkyK3sOifiu) | 3:42 | 2024-02-12 |  |
 | [Personal](https://open.spotify.com/track/0ysIMlVNmEuXU6qudDc0vm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Personal](https://open.spotify.com/album/1kLSUqwq5RtP16K0KgLCVr) | 2:32 | 2021-05-08 | 2021-07-17 |
 | [petite & fertile](https://open.spotify.com/track/3CxaEYAma6pi8r6fj5iwuV) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [petite & fertile](https://open.spotify.com/album/3UEU5zAS86Ys4Gg8OQDWtg) | 1:39 | 2021-09-11 | 2021-12-04 |
 | [Petroleum](https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Petroleum / Hidden Land](https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5) | 3:18 | 2022-08-26 | 2022-12-03 |

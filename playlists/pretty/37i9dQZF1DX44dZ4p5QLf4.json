@@ -1,12 +1,12 @@
 {
   "description": "A blend of new songs and artists in the soul space. Cover: Elmiene",
-  "num_followers": 478542,
+  "num_followers": 478596,
   "original_name": "Next Wave Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTg5MTBjMjUzYTk0MjAyZmFhNTQ5ODRjOWVhZmI1MmQ3YjMxODkx",
+  "snapshot_id": "MCwwNGY0NGI1YjkwMWVjZTI0OTM1ZmI4MGJmMzJhNjM3ZGQzODUxNWIw",
   "tracks": [
     {
       "added_at": "2024-02-09 10:41:33",
@@ -91,6 +91,26 @@
       "duration_ms": 216154,
       "name": "U & I",
       "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
+    },
+    {
+      "added_at": "2024-02-09 10:41:33",
+      "album": {
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
     },
     {
       "added_at": "2024-02-09 10:41:33",
@@ -187,26 +207,6 @@
       "duration_ms": 248429,
       "name": "ILY",
       "url": "https://open.spotify.com/track/64ufqPq3lzvKZrY6eDTKEv"
-    },
-    {
-      "added_at": "2024-02-09 10:41:33",
-      "album": {
-        "name": "6 Feet Down",
-        "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
-      },
-      "artists": [
-        {
-          "name": "Tara Lily",
-          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "6 Feet Down",
-      "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
     },
     {
       "added_at": "2024-02-09 10:41:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : KASYAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,876 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,875 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 68 | [Gangulu](https://open.spotify.com/track/7w8FMDcDJcDWAw5UKXc2j7) | [Swaraag Keerthan](https://open.spotify.com/artist/6uWcaIloiXIyWBb7oarvQL), [Maanas Nagulapalli](https://open.spotify.com/artist/3Z1VqKNAJK5rGo7W3KLjug) | [Gangulu](https://open.spotify.com/album/2hHcr0nl2jAghYNbqqn6cg) | 3:06 |
 | 69 | [Veduka Kanaro Maa Inta](https://open.spotify.com/track/4O7rIqx6h3BixM4JmWY4jK) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa) | [Veduka Kanaro Maa Inta](https://open.spotify.com/album/23n6s3GksVZRUi1LQaejh5) | 4:15 |
 | 70 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 |
-| 71 | [Maninchave](https://open.spotify.com/track/1lgX55AUpFnyvr46FQ4gBL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Maninchave](https://open.spotify.com/album/38YnBMJMBy9kfTLeHKyrzc) | 3:24 |
+| 71 | [Maninchave](https://open.spotify.com/track/5RNlt35rdp8wekW9WZ4tWs) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Maninchave](https://open.spotify.com/album/0PhIQ7H4evxAOA5RFmWCrm) | 3:24 |
 | 72 | [Kadali](https://open.spotify.com/track/1rAbZfXSxYr5omE7n6EJkS) | [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI), [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [Kadali](https://open.spotify.com/album/1wlULTtra3ye1H6LBjTIXf) | 5:30 |
 | 73 | [Vennela](https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Vennela](https://open.spotify.com/album/0wxINclZIEYCp1avSxtB3t) | 5:24 |
 | 74 | [Sathya \- Expression Of Love](https://open.spotify.com/track/4vIJqRzuVkLWg7wKMOL7St) | [Nishanth Shekar](https://open.spotify.com/artist/4eyGSxCplyGRpM7tKXP8l5), [Ayaan](https://open.spotify.com/artist/66NRi9Dp2PVLCOlxfSHY3v) | [Sathya \- Expression Of Love](https://open.spotify.com/album/64GLiOFpf3yKKlLUoOFgbK) | 2:54 |
 | 75 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCxmNzhkNmM1NGY3YmEyYzhkMDQyNjBmMGU5ZWFlOTIxN2UyYThhOTU5`
+Snapshot ID: `MCw1YzRiMGU0YzJhN2Q5MWY4YTU0ODliZDU4NmVhNjI4NTczMzg3OWY2`

@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 294702,
+  "2024-02-13": 294829,
   "date_first_scraped": "2022-05-30",
   "description": "Revisit the retro Rahman",
   "name": "Rahman Ruling 90s",
@@ -200,6 +200,36 @@
     },
     {
       "album": {
+        "name": "Duet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IKpfZUk6Qdv5CZp2RSinp"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483826,
+      "name": "Anjali Anjali",
+      "url": "https://open.spotify.com/track/55DvuLzTRspLQYVD32drd7"
+    },
+    {
+      "album": {
         "name": "Duet",
         "url": "https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU"
       },
@@ -215,7 +245,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 486791,
       "name": "Anjali Anjali",
       "url": "https://open.spotify.com/track/2E3pO72BvxtdE7FbvvJG8r"
@@ -659,10 +689,40 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 360359,
       "name": "En Kadhale",
       "url": "https://open.spotify.com/track/1NyK6HEYrFuA6nNwEaCOai"
+    },
+    {
+      "album": {
+        "name": "Duet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IKpfZUk6Qdv5CZp2RSinp"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359786,
+      "name": "En Kadhale (Male Version)",
+      "url": "https://open.spotify.com/track/3hQg8AFArW6R5y3M8WW7MG"
     },
     {
       "album": {
@@ -1886,6 +1946,36 @@
     },
     {
       "album": {
+        "name": "Love Birds (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fc1DwmN7HhFFQ6vGyGjLv"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436690,
+      "name": "Malargaley",
+      "url": "https://open.spotify.com/track/6tgQpc76IMjmxZehMH46wK"
+    },
+    {
+      "album": {
         "name": "Dance King Prabhu Deva Songs",
         "url": "https://open.spotify.com/album/4qMNbXtEi2ehsoFIrNDaLe"
       },
@@ -1923,7 +2013,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 435600,
       "name": "Malargaley (From \"Love Birds\")",
       "url": "https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4"
@@ -2302,6 +2392,36 @@
     },
     {
       "album": {
+        "name": "Pudhiya Mannargal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1YW5rK73hHrDaUtkIPtNqt"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        },
+        {
+          "name": "T. L. Maharajan",
+          "url": "https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325460,
+      "name": "Nee Kattum Selai",
+      "url": "https://open.spotify.com/track/58nNOwTFZOkIZ7IUN6BCZh"
+    },
+    {
+      "album": {
         "name": "Pudhiya Mannargal",
         "url": "https://open.spotify.com/album/4ikOUhRd1eGnmCDNBGpMJL"
       },
@@ -2317,7 +2437,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 324985,
       "name": "Nee Kattum Selai",
       "url": "https://open.spotify.com/track/3XQBlwW2QE8i9ykGctVMbm"
@@ -2455,10 +2575,36 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 370867,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/3acFeDmEepuQD6YruwJT6L"
+    },
+    {
+      "album": {
+        "name": "Love Birds (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fc1DwmN7HhFFQ6vGyGjLv"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "Apache Indian",
+          "url": "https://open.spotify.com/artist/4sLklwvfOYr12fMGwrnlc7"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372872,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/6jVgvAnquJc67Idf3hb5jt"
     },
     {
       "album": {
@@ -2874,6 +3020,36 @@
     },
     {
       "album": {
+        "name": "Karuthamma (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2O0jYGXpC88mY5RFnGsV3p"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340746,
+      "name": "Poraale Ponnuthayi",
+      "url": "https://open.spotify.com/track/6DylHDvqsa4HkQffQg1jIO"
+    },
+    {
+      "album": {
         "name": "Kaviperarasu Vairamuthu Best Songs Collection",
         "url": "https://open.spotify.com/album/7jwUdwSjV5x9C894Ez9Lh4"
       },
@@ -2911,7 +3087,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 342204,
       "name": "Poralea Ponnu Thai-Happy",
       "url": "https://open.spotify.com/track/1nMnhtBGhdwu04naNw2mbf"
@@ -4434,6 +4610,32 @@
     },
     {
       "album": {
+        "name": "Duet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IKpfZUk6Qdv5CZp2RSinp"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248813,
+      "name": "Vennilavin Theril Yeri",
+      "url": "https://open.spotify.com/track/7LV50oBHCXXzCJxXlOaFLf"
+    },
+    {
+      "album": {
         "name": "Duet",
         "url": "https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU"
       },
@@ -4445,7 +4647,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 249391,
       "name": "Vennilavin Theril Yeri",
       "url": "https://open.spotify.com/track/29KTBIKFx7HxFX1DhHGg0y"

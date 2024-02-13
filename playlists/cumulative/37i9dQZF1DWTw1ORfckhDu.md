@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Turisti ja Cledos.
 
-325 songs - 15 hr 38 min
+326 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Clean](https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Clean](https://open.spotify.com/album/3e100jRy19dNFWOzHRC59d) | 2:32 | 2023-09-21 | 2023-10-20 |
 | [CODEINE](https://open.spotify.com/track/0FAA25M2hH6Bc2ITh6nU5A) | [Ax & Huligan](https://open.spotify.com/artist/3jwBl4QHMabizUrnfyKaaq) | [CODEINE](https://open.spotify.com/album/4JwABEH57AD09VHGEXFubo) | 2:52 | 2023-11-02 | 2023-12-08 |
 | [Comeback](https://open.spotify.com/track/1ySufTD0HSLj14eD1rKg66) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Comeback](https://open.spotify.com/album/4r6xUZFUwvsvPXPRBz18VX) | 4:10 | 2023-11-28 | 2024-01-05 |
+| [Comeback](https://open.spotify.com/track/66Rl0aPYznoVV6i8ctZyrP) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [Comeback](https://open.spotify.com/album/4T8t8uMRKJGzCdkNOouQ7E) | 3:22 | 2024-02-12 |  |
 | [Deja Vu](https://open.spotify.com/track/52XyOJi13FXLYPDWUT50Yi) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Deja Vu](https://open.spotify.com/album/4HNBqbiCT3DkMzSQMCcooa) | 2:19 | 2023-11-16 |  |
 | [Demoneista ystävii](https://open.spotify.com/track/3rK7sL207zzuVPq5iX0qpM) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Demoneista ystävii](https://open.spotify.com/album/2KfNKCtRsib5lzN9QbJsiS) | 3:01 | 2023-11-02 |  |
 | [Demoni](https://open.spotify.com/track/67GFIdsOwFSwGx59b5vEu5) | [MunkkiTuk](https://open.spotify.com/artist/3564og7LWSGSFTFEe3doGR) | [Demoni](https://open.spotify.com/album/2kOyjw2vLBeKpkKIoNsiPw) | 2:09 | 2023-11-09 | 2023-11-17 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 33513,
+  "2024-02-13": 33533,
   "date_first_scraped": "2021-12-28",
   "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0646\u0648\u0627\u0644 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
@@ -2977,7 +2977,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 203627,
       "name": "Moawari Al Atab",
       "url": "https://open.spotify.com/track/3qNy2bp2JmGzUToF4hbPUt"
@@ -5399,6 +5399,24 @@
       "duration_ms": 228967,
       "name": "\u0645\u0643\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0648\u0627\u0631\u064a \u0627\u0644\u0639\u062a\u0628",
+        "url": "https://open.spotify.com/album/2ht6dn0XQGc4a9sPK3DuDK"
+      },
+      "artists": [
+        {
+          "name": "\u0646\u0648\u0627\u0644 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629",
+          "url": "https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203627,
+      "name": "\u0645\u0648\u0627\u0631\u064a \u0627\u0644\u0639\u062a\u0628",
+      "url": "https://open.spotify.com/track/2RThTA4dBEwcFKKgb1kOte"
     },
     {
       "album": {

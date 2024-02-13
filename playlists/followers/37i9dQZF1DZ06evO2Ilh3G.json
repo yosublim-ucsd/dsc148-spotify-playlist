@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 113237,
+  "2024-02-13": 113259,
   "date_first_scraped": "2023-11-11",
   "description": "This is Offset. The essential tracks, all in one playlist.",
   "name": "This Is Offset",
@@ -930,6 +930,32 @@
     },
     {
       "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189480,
+      "name": "Patek Water (feat. Offset)",
+      "url": "https://open.spotify.com/track/7r6LNJT2LqpLpEyZQJPygt"
+    },
+    {
+      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -1137,7 +1163,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 124354,
       "name": "SELLIN CRACK (feat. Offset)",
       "url": "https://open.spotify.com/track/4n5vrfS3mYdxiEz0ODBnlL"

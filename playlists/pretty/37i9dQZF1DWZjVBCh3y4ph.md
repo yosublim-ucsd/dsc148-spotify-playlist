@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Mik L
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,514 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,559 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 |
 | 40 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 |
 
-Snapshot ID: `MCw4ZjU4MWE0MThhMDFjZTU4ODE0ZTY1OTdhNmNhMWViNTU3YjBkZDdm`
+Snapshot ID: `MCw4ZmE0ZTM0NGE2ZWJjOWY4ODJiMzU3MDdkMmM1YzljODMzNjQ3ZjMw`

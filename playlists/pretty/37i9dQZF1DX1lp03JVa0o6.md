@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,865 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,886 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 32 | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp) | 2:37 |
 | 33 | [Music Inside \- Garage Mix](https://open.spotify.com/track/0I5k1YHGYjViMpLK4Yv2aQ) | [Random Soul](https://open.spotify.com/artist/7CDm8EfbpNlHa4HmvFo0bm) | [Music Inside \(2024 Reworks\)](https://open.spotify.com/album/4Y5Hv5onYt3LhTMDmUtACK) | 4:03 |
 | 34 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
-| 35 | [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:26 |
+| 35 | [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:11 |
 | 36 | [John Wick](https://open.spotify.com/track/79CTVnuKWoTXIRsSCjRNdK) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [ANAS](https://open.spotify.com/artist/1Y7jfSPXXcyy9H14XP3gA3) | [John Wick](https://open.spotify.com/album/23srw9mQbsHccC22qbBX4A) | 2:52 |
 | 37 | [Play with Me \- Radio Edit](https://open.spotify.com/track/0atyMimdzpCkyzJeTtmxJX) | [Friendless](https://open.spotify.com/artist/0lrkJSVpKbalJUQKzmsCAv) | [Play with Me \(Radio Edit\)](https://open.spotify.com/album/3HeVjPyynH8N9gN3Cqiykh) | 3:07 |
 | 38 | [Immortal \- David Penn Remix](https://open.spotify.com/track/5hr36Q6bkeK2puaPKzEyUk) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Immortal \(David Penn Remix\)](https://open.spotify.com/album/5XptjSeEBZNhDmZe8YMyg3) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 79 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
 | 80 | [Young & Foolish](https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR) | 2:36 |
 
-Snapshot ID: `MCwzNjIyZjAwMjA2YmY2ZmQxMGZiYmE3NzM4NzJjNTlkYmM4MzUzMDA5`
+Snapshot ID: `MCwwOTE5Nzg5N2E5ZGRiYjZhNGJkOTJhY2M1ZWFkNjU3ZGY0NGM4ODZk`

@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s favorite songs of 2024 plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.
 
-2,962 songs - 7 day 0 hr 59 min
+2,964 songs - 7 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -845,7 +845,7 @@
 | [Fall For You](https://open.spotify.com/track/3koa4RpZbZetFdZZW7WAVl) | [Sophie Ann](https://open.spotify.com/artist/6Jjr2156zVfKimFYobk7Q2) | [Fall For You](https://open.spotify.com/album/60q4mkofIgQ04HCRN9slc6) | 2:58 | 2021-06-26 | 2021-07-11 |
 | [Fall In Lust](https://open.spotify.com/track/77Z5652NjZ8magT7y6lVt1) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Fall In Lust](https://open.spotify.com/album/7FUGotEsF6T8YvHbnMSJHe) | 2:58 | 2022-11-18 | 2022-12-11 |
 | [Fall, Fall, Fall](https://open.spotify.com/track/1X5cqLYl0eBrcNaLY8y9J0) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Fall, Fall, Fall](https://open.spotify.com/album/2UP2OjmTEVOQKQ5zOqXejr) | 4:52 | 2021-12-04 | 2021-12-20 |
-| [Falling](https://open.spotify.com/track/4c2JIiFwqyv33BkKSyAhMj) | [Elle Isadora](https://open.spotify.com/artist/0008im8MRP9d8ogDqxgBKO) | [Falling](https://open.spotify.com/album/3DZY9RNXas30GvPDJWAfUI) | 3:29 | 2024-02-05 |  |
+| [Falling](https://open.spotify.com/track/4c2JIiFwqyv33BkKSyAhMj) | [Elle Isadora](https://open.spotify.com/artist/0008im8MRP9d8ogDqxgBKO) | [Falling](https://open.spotify.com/album/3DZY9RNXas30GvPDJWAfUI) | 3:29 | 2024-02-05 | 2024-02-13 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-07-05 | 2022-07-27 |
 | [Falling by the Wayside](https://open.spotify.com/track/16q1Vnv42GoabfjYbYTaoL) | [Paul Mac Innes](https://open.spotify.com/artist/5TSiuFOzFcUE3caItvpilz) | [Falling by the Wayside](https://open.spotify.com/album/0OySeBvf7gQ9nmVB35Hc9j) | 3:51 | 2022-08-19 | 2022-09-04 |
 | [Falling in Love Staying in Love](https://open.spotify.com/track/42N78W3HCmg2nCg205tSPM) | [Apollo Ace](https://open.spotify.com/artist/1T2A9pOTQTKK2JGYA6MTMQ) | [Falling in Love Staying in Love](https://open.spotify.com/album/7izcazP6BnqTUgs31TVQn2) | 2:23 | 2023-05-26 | 2023-06-17 |
@@ -1523,6 +1523,7 @@
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-06-01 | 2023-07-21 |
 | [LittleMoreTime](https://open.spotify.com/track/1EYkGYKq269W0W7G2T3xCD) | [GEORGE LAWSON](https://open.spotify.com/artist/0yVxLtVSIixK8fCEulP6gv) | [Lacuna Nights](https://open.spotify.com/album/0XoX8uvKdpjMWwmKthJNMQ) | 3:51 | 2023-12-07 | 2023-12-26 |
 | [Live Through](https://open.spotify.com/track/1SWQLFFHoXImQBMHr1O20d) | [Danielle Howle](https://open.spotify.com/artist/47ccQ7hKPvJRyBv97CACE1) | [Live Through](https://open.spotify.com/album/0NRdBgG86kU00fMvkiWCLk) | 2:56 | 2023-09-01 | 2023-09-26 |
+| [Livin' a Dream](https://open.spotify.com/track/7qyFllvLTXpacKanr3y8fB) | [WYFE](https://open.spotify.com/artist/1SSO4sbzquWGKSOpO5FO53), [Fourtuna](https://open.spotify.com/artist/3rQv0qMuHpgSiiGRLDHkyb) | [Do You Ever Wonder?](https://open.spotify.com/album/4ZFKiVwUVPrdHTPBco6ryQ) | 5:40 | 2024-02-12 |  |
 | [Livin' Thing](https://open.spotify.com/track/2scFrEDCFCI6dnD95Aebym) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [ELO WE <3 U](https://open.spotify.com/album/7E3IE4RWQBJb2JfVXnhRHR) | 3:32 | 2023-12-09 | 2023-12-30 |
 | [Living For](https://open.spotify.com/track/03LB8fHbPRvl4MygY4bHcZ) | [Ethan Mark](https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Living For](https://open.spotify.com/album/4AkYY2aJTl2PzydT86Nmmo) | 2:26 | 2022-10-18 | 2022-11-10 |
 | [LIVING FOR THE LOVE](https://open.spotify.com/track/57ZfxwA7OVKLe8V3dr08VR) | [Tariq Gardner & the Evening Star](https://open.spotify.com/artist/2XALigW40uQEpGYttnAMGr), [Cole.Thefirst](https://open.spotify.com/artist/4V01r1HRvqzs0vlGT6llgd) | [GATEWAY DRUG](https://open.spotify.com/album/5DOWI4rFHBVYHFHsfiyIzJ) | 5:43 | 2024-01-04 | 2024-01-12 |
@@ -1837,6 +1838,7 @@
 | [No Me Ves](https://open.spotify.com/track/2LyiWca1jIqGUD0GGro600) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [No Me Ves](https://open.spotify.com/album/6tStrz2JlKWcpcMSuc39gt) | 2:14 | 2022-11-02 | 2022-11-21 |
 | [No Pressure](https://open.spotify.com/track/5AVGyPtW9EKhRvar2ZP925) | [Sultans Court](https://open.spotify.com/artist/1Oq0fBU6CVhqp4JicuSWuZ) | [No Pressure](https://open.spotify.com/album/29XdfK4qlUbEnCXFiKVVju) | 3:54 | 2023-12-08 | 2023-12-30 |
 | [No Such Thing as Normal](https://open.spotify.com/track/0uHuwOM2Z8koeLddFtXr7o) | [The Landing](https://open.spotify.com/artist/0k8OKrLrQaizmJKKtMIs3z) | [No Such Thing as Normal](https://open.spotify.com/album/6HQ4zXHfFv0ViEHraVEwSv) | 3:50 | 2021-10-20 | 2021-11-06 |
+| [No Te Lo Mereces](https://open.spotify.com/track/3egtBfWrAU4tqbYk4LQ4ox) | [Victoria Yoi](https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T) | [No Te Lo Mereces](https://open.spotify.com/album/2vLoBN1rPBUhcWT8wkhiVd) | 3:15 | 2024-02-12 |  |
 | [No Tengas Miedo \- Version Rock](https://open.spotify.com/track/3t4XGuKnvS4zVCfp3bxHsN) | [Senova](https://open.spotify.com/artist/47ziKUSrrbZzpxR8ULeWd9) | [No Tengas Miedo \(Version Rock\)](https://open.spotify.com/album/6qdnvfIsBW9HeUus5tcEtf) | 3:25 | 2024-01-17 | 2024-02-01 |
 | [No Vacancy](https://open.spotify.com/track/6kAZkZAS8wstH370bqw1An) | [Ruby Gilbert](https://open.spotify.com/artist/2Zr2NuboIV3VOb1ensdBBh) | [No Vacancy](https://open.spotify.com/album/5YqR7sRJFnRqS84gYuQtLS) | 3:11 | 2021-04-30 | 2021-05-16 |
 | [No Worries](https://open.spotify.com/track/2T332LRD02r4loxzwY4W48) | [David Shabani](https://open.spotify.com/artist/10tmEpWAvuar7nGsOeqdQN) | [No Worries](https://open.spotify.com/album/6IAn7B6LduDnjHrCnlHhFB) | 3:48 | 2024-01-10 | 2024-01-30 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 111675,
+  "2024-02-13": 111683,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
   "name": "Top 50 - Hong Kong",
@@ -4919,7 +4919,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
@@ -9171,7 +9171,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
@@ -9471,7 +9471,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 177214,
       "name": "\u4e00\u500b\u773c\u795e",
       "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
@@ -10045,7 +10045,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 252746,
       "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
@@ -10121,6 +10121,24 @@
       "duration_ms": 145911,
       "name": "\u4f60\u628a\u6211\u7684",
       "url": "https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY"
+    },
+    {
+      "album": {
+        "name": "\u6700\u611b\u7b11\u8fce\u9f20 (\u8cc0\u5e74\u65b0\u66f2\u52a0\u7cbe\u9078)",
+        "url": "https://open.spotify.com/album/2srAavtinJCSpxv5Q4rla1"
+      },
+      "artists": [
+        {
+          "name": "Twins",
+          "url": "https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "\u4f60\u6700\u7d05",
+      "url": "https://open.spotify.com/track/258rzvqYIdoukZjRmgY1Ra"
     },
     {
       "album": {
@@ -10651,7 +10669,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
@@ -11727,7 +11745,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 225527,
       "name": "\u62b1\u62b1\u7121\u5c3e\u718a",
       "url": "https://open.spotify.com/track/6lfMr5SEeFdpMeIJxw5n1I"
@@ -11871,7 +11889,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 261215,
       "name": "\u6551\u547d\u7a3b\u8349",
       "url": "https://open.spotify.com/track/4WBNWQZR2TCDanKIg95gpT"
@@ -13188,6 +13206,48 @@
     },
     {
       "album": {
+        "name": "Warner Chinese New Year Compilation (\u6b61\u6a02\u5e74\u5e74)",
+        "url": "https://open.spotify.com/album/71TkUcdrLvmTTrSdBOZvcr"
+      },
+      "artists": [
+        {
+          "name": "George Lam",
+          "url": "https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s"
+        },
+        {
+          "name": "David Lui",
+          "url": "https://open.spotify.com/artist/6CexlJ1wj79N50NMxRBfUa"
+        },
+        {
+          "name": "Sally Yeh",
+          "url": "https://open.spotify.com/artist/7Bx0SBZoIX73eywmBcdqFb"
+        },
+        {
+          "name": "Alex To",
+          "url": "https://open.spotify.com/artist/4Do8LbyzJkI0t6c4H4DNrP"
+        },
+        {
+          "name": "Andy Lau",
+          "url": "https://open.spotify.com/artist/2n3uDrupL8UtFSeZhY38MS"
+        },
+        {
+          "name": "Dicky Cheung",
+          "url": "https://open.spotify.com/artist/05U40G1dajZMe9KdTG8LTo"
+        },
+        {
+          "name": "David Ling Jr",
+          "url": "https://open.spotify.com/artist/5ElXLkDzZPQA9fBzBjA9TJ"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "\u795d\u798f\u4f60",
+      "url": "https://open.spotify.com/track/6dhljXSqZqE6kPA23dcSxC"
+    },
+    {
+      "album": {
         "name": "\u795e\u5947\u4e4b\u8def (\u96fb\u5f71\u300a\u5abd\u5abd\u7684\u795e\u5947\u5c0f\u5b50\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/3cQ4veFZMYoako464UeqXV"
       },
@@ -13985,7 +14045,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 199760,
       "name": "\u8ca1\u795e\u5230",
       "url": "https://open.spotify.com/track/0Sv0LeWoprZBzbMoucGcy3"

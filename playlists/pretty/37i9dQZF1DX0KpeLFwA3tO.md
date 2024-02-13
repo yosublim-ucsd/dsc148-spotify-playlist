@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Pissed Jeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,899 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,943 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 |
 | 100 | [Smash The Mirror](https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Smash The Mirror](https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO) | 3:04 |
 
-Snapshot ID: `MCwwMzQ2ZTIyZmU1NTJhMDg1YWJmZTQzY2JlYTFjOTQ5ZDYzY2ZkMGRj`
+Snapshot ID: `MCw3NTkyMGE1NzYzMGVhOWU5MTE1N2JmODM4ZDAwMTczMmNmZjAzYjM0`

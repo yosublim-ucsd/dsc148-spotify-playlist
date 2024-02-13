@@ -3184,6 +3184,28 @@
     {
       "album": {
         "name": "Skin: The Remixes",
+        "url": "https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267200,
+      "name": "Say It (feat. Tove Lo) [Illenium Remix]",
+      "url": "https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml"
+    },
+    {
+      "album": {
+        "name": "Skin: The Remixes",
         "url": "https://open.spotify.com/album/0zHb7F613s95pFWQhgXQ9w"
       },
       "artists": [
@@ -3202,32 +3224,6 @@
       "duration_ms": 267200,
       "name": "Say It - Illenium Remix",
       "url": "https://open.spotify.com/track/0vxudxUod8FTiwE6dYohiH"
-    },
-    {
-      "album": {
-        "name": "Skin: The Remixes",
-        "url": "https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "date_added": "2022-01-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267200,
-      "name": "Say It - Illenium Remix",
-      "url": "https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml"
     },
     {
       "album": {

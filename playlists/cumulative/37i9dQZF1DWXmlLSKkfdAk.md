@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-325 songs - 19 hr 44 min
+326 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Closer](https://open.spotify.com/track/5H6Bc7oEWYuKrwb1pUZWhh) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Closer](https://open.spotify.com/album/4kAAzBoHtNQaOYTTQGQ5YH) | 2:58 | 2021-11-12 |  |
 | [Cold Water](https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Kyle Nachtigal](https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY) | [Cold Water](https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO) | 3:01 | 2021-11-12 |  |
 | [Come As You Are](https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv) | 2:45 | 2021-11-12 | 2023-06-11 |
-| [Come As You Are](https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH) | 2:45 | 2023-04-21 |  |
+| [Come As You Are](https://open.spotify.com/track/3RnqvBMDzSg3LzQytNuwdE) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/2RHroLhDaQLAxNq6BRnKgi) | 2:45 | 2024-01-09 |  |
+| [Come As You Are](https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH) | 2:45 | 2023-04-21 | 2024-02-13 |
 | [Cool Kids/Riptide \(Originally Performed by Echosmith and Vance Joy\)](https://open.spotify.com/track/5jtbbkTh7x4UeMVAvF2KaI) | [Less Is More](https://open.spotify.com/artist/2scCthfq8kpZS50gb8koTD) | [Cool Kids/Riptide \(Originally Performed by Echosmith and Vance Joy\)](https://open.spotify.com/album/4TyGmwiWLbl9sFF8raebWS) | 2:13 | 2021-11-12 | 2022-01-19 |
 | [Crazy \- Radio 1 Live Lounge Session](https://open.spotify.com/track/0Zc71YCZdGl933InVbjEbn) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Promiscuous \(remixes\)](https://open.spotify.com/album/3K5FdtZ8WrCzquTNPoZAIT) | 3:23 | 2021-11-12 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2021-11-12 | 2024-01-10 |

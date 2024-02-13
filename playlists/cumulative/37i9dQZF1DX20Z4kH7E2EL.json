@@ -2089,6 +2089,28 @@
     },
     {
       "album": {
+        "name": "Hot Night",
+        "url": "https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238987,
+      "name": "Hot Night",
+      "url": "https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8"
+    },
+    {
+      "album": {
         "name": "Immersed Elements 07",
         "url": "https://open.spotify.com/album/7EehEfudsjkebuZW5pANS5"
       },
@@ -2210,7 +2232,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 319750,
       "name": "I Go, I Go - 2023 Remix",
       "url": "https://open.spotify.com/track/4oXWuhki3unHr22FK2H0HA"
@@ -2702,7 +2724,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 247991,
       "name": "Lay Low (Argy Remix)",
       "url": "https://open.spotify.com/track/6mqalMj0KU2rpSzgrAvD32"
@@ -3609,6 +3631,28 @@
     },
     {
       "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562061,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/3q3ZVE2oL7tUlarilYUE2Y"
       },
@@ -3660,6 +3704,24 @@
       "duration_ms": 360000,
       "name": "Physically Closed",
       "url": "https://open.spotify.com/track/2CDjr1XkuBgOLIO3I3YWQp"
+    },
+    {
+      "album": {
+        "name": "Cocoon Compilation S",
+        "url": "https://open.spotify.com/album/7dAIB06XezAwD6Mg706lvH"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405610,
+      "name": "Planet XXX",
+      "url": "https://open.spotify.com/track/3vzyI6jeJ86NuRoL5v1fOe"
     },
     {
       "album": {
@@ -4728,7 +4790,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 460985,
       "name": "The Story Continues - Extended Mix",
       "url": "https://open.spotify.com/track/7J7zVc023HlDs9aZBzpHDL"
@@ -4878,7 +4940,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 357088,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Solomun Remix",
       "url": "https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr"
@@ -5050,6 +5112,24 @@
       "duration_ms": 220384,
       "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs) - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/4Ymha30DEUTtZONJXjQefq"
+    },
+    {
+      "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4"
+      },
+      "artists": [
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212782,
+      "name": "Want U - Extended",
+      "url": "https://open.spotify.com/track/47oPT0022xvFqb2eTNy7Uc"
     },
     {
       "album": {

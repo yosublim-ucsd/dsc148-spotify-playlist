@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 396521,
+  "2024-02-13": 396617,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz for breakfast to start your day right.",
   "name": "Good Morning Jazz",
@@ -2144,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
+    },
+    {
+      "album": {
         "name": "Omission",
         "url": "https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm"
       },
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 317112,
       "name": "Root of the Matter",
       "url": "https://open.spotify.com/track/08N0F5H3AsH3w0kh8qeBry"

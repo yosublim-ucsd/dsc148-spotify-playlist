@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "Luz da Luz",
+        "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
+      },
+      "artists": [
+        {
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637600,
+      "name": "Manto de Cristo",
+      "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
+    },
+    {
+      "album": {
         "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
       },

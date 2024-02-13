@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6453,
+  "num_followers": 6455,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTcwYWRiN2U5ODAxNmRhNjQwNjBjM2VjNjc0MzUzOWRmMjYxNjlm",
+  "snapshot_id": "MCw1OGNlMzYwODk4ZTQ3ZWJkYjUyNGQ5MmUwYTMwNDg3Nzc1YTc0NjE5",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/6S327htVJnBi9GGZjUInui"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "White Wind",
         "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
       },
@@ -247,18 +215,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Heng:gar\u00e6",
-        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 244400,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -275,6 +243,22 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -307,6 +291,22 @@
       "duration_ms": 195000,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/6S327htVJnBi9GGZjUInui"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Gee - The First Mini Album",
-        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Way to Go",
-      "url": "https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "SELFISH",
         "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 13",
-        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
+        "name": "Gee - The First Mini Album",
+        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
         }
       ],
-      "duration_ms": 177818,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
+      "duration_ms": 183933,
+      "name": "Way to Go",
+      "url": "https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -683,6 +667,22 @@
       "duration_ms": 206093,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
     },
     {
       "added_at": "2023-11-03 06:14:32",

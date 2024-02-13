@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-455 songs - 20 hr 16 min
+459 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 | 2023-02-24 |  |
 | [bubble beach](https://open.spotify.com/track/7uwZt4cO0n0d0aI3VaiSGf) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [bubble beach](https://open.spotify.com/album/7ASNeFNx3Eg0kYgUHzNAR1) | 3:13 | 2022-10-07 |  |
 | [Business Class](https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Business Class](https://open.spotify.com/album/39RDYR5qrgDJoYlfX3qIrc) | 2:14 | 2022-10-14 |  |
+| [By The Sea](https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII) | [Epulu](https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE) | [By The Sea](https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep) | 2:41 | 2024-02-13 |  |
 | [Bye Felicia!](https://open.spotify.com/track/3DJj5RlFWUokYJ1qjvTZof) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Bye Felicia!](https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf) | 2:27 | 2021-11-10 |  |
 | [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 |  |
 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 | 2022-01-21 | 2023-07-29 |
@@ -153,6 +154,7 @@
 | [For No Reason](https://open.spotify.com/track/4h93amQ2V3qCp5ZMJ6r6lB) | [Temperal Guidance](https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi) | [For No Reason](https://open.spotify.com/album/3YapZf1lBVPmczSuMTnkjx) | 2:19 | 2021-11-10 | 2022-09-09 |
 | [Forest](https://open.spotify.com/track/543qojsmKX5c3QZcxyx7Oc) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [Forest](https://open.spotify.com/album/1tmFrxT1veEgDs1eUGtcM2) | 2:30 | 2022-07-08 |  |
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2021-11-10 | 2022-09-02 |
+| [Foresta](https://open.spotify.com/track/27deYXGhkgSd7glci93wwK) | [Maya Mde](https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2) | [Foresta](https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf) | 2:56 | 2024-02-13 |  |
 | [Forever Yours](https://open.spotify.com/track/6uviz3fvF7MzJobVeJCXsZ) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Forever Yours](https://open.spotify.com/album/0nWeoNfUl2JRU8yWd88KLL) | 4:07 | 2021-11-10 | 2022-09-17 |
 | [Forwards](https://open.spotify.com/track/4zBWSLd2yF6z3hDi292M8Z) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [Forwards](https://open.spotify.com/album/0mu6prS0OkwKyifgO9zAod) | 3:56 | 2021-11-10 | 2022-05-20 |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2021-11-10 | 2023-04-07 |
@@ -166,6 +168,7 @@
 | [Future Love](https://open.spotify.com/track/4exS0JoS1YgAaqdINA6FGS) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Future Love](https://open.spotify.com/album/2SGR9Rhs2ooZtY7Tx7LeV1) | 2:28 | 2022-10-28 |  |
 | [Future Lovers](https://open.spotify.com/track/3SORHgn6Gj7qBzQuZLv7N7) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Move It Slower](https://open.spotify.com/album/5HRAg8TbMGIpE1yJXBLQAL) | 2:28 | 2022-10-14 |  |
 | [gather around](https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f) | [Starzero](https://open.spotify.com/artist/2WmS1I4SYqnO6zLSXMpIlj) | [gather around](https://open.spotify.com/album/3DmutGlmDC8W3Ie9PLQiZ4) | 2:35 | 2021-11-10 | 2022-05-11 |
+| [Genuine](https://open.spotify.com/track/2ShlwGnod4fEJimzZv1tOi) | [Djourney](https://open.spotify.com/artist/3zRxjnGfKpdvQ1JaizZA56) | [Genuine](https://open.spotify.com/album/4jzUjbXORZwQPO5d8Mg0pb) | 2:15 | 2024-02-13 |  |
 | [Get A Grip](https://open.spotify.com/track/3ij4NFa0nre7Y3XFZ9QQyM) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Get A Grip](https://open.spotify.com/album/0PJtdZKqdrQXJmhjZmrVk6) | 2:42 | 2022-06-10 | 2022-09-02 |
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2021-11-10 | 2022-05-11 |
 | [get down under](https://open.spotify.com/track/3zL90QZz5r2dgH5ZRXW4xG) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [get down under](https://open.spotify.com/album/5bhQghUxbrqQy3qC7Baaul) | 1:36 | 2022-09-02 | 2023-07-29 |
@@ -233,6 +236,7 @@
 | [Lightning](https://open.spotify.com/track/0Zl59CK613Aeb6TEoqVTNA) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Lightning](https://open.spotify.com/album/2v1ZMg2udU7qXEsZEsZVWn) | 2:14 | 2023-03-24 |  |
 | [lights out](https://open.spotify.com/track/4VPY9FS6kOmJSBu60bHn32) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [lights out](https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ) | 3:05 | 2023-01-06 |  |
 | [Lightweight](https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN) | [Going North](https://open.spotify.com/artist/7inHxv9DhiskK3UJOU3FXA) | [Lightweight](https://open.spotify.com/album/7FRiFJTmFTnEDbODaZlAZM) | 2:53 | 2022-11-25 |  |
+| [Limestone](https://open.spotify.com/track/2IxHkGERPdZFjN7Q2gqxXv) | [Il Greco](https://open.spotify.com/artist/6akppwCmIdXMHpXWXzYTyp) | [Limestone](https://open.spotify.com/album/47tiW14l56cvqSLUinTdzf) | 2:37 | 2024-02-13 |  |
 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |
 | [lipshells](https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf) | [cowa cowa](https://open.spotify.com/artist/0OslD5KMKoNQvrXv7DR5VC) | [lipshells](https://open.spotify.com/album/5noCjiE5k92zUycUGD0QVq) | 2:52 | 2021-11-10 | 2022-07-08 |
 | [lofiology](https://open.spotify.com/track/4eAY8ptmb2Nx9YNIK9PZss) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [lofiology](https://open.spotify.com/album/02GmJmun9UOWAeHKcjCKbd) | 2:19 | 2021-11-10 |  |
@@ -389,7 +393,7 @@
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2021-11-10 | 2022-09-02 |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-11-10 |  |
 | [Starlight](https://open.spotify.com/track/2yUZCS5EZcYntD023zbKEw) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Starlight](https://open.spotify.com/album/2NXOFQvcObzmqBwFulkPmb) | 2:20 | 2022-07-08 |  |
-| [State of Consciousness](https://open.spotify.com/track/3m5Britq8BKxzcRpiaIk71) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [State of Consciousness](https://open.spotify.com/album/4SaWWICr6sZWlaJgv7X05m) | 1:48 | 2023-08-11 |  |
+| [State of Consciousness](https://open.spotify.com/track/3m5Britq8BKxzcRpiaIk71) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [State of Consciousness](https://open.spotify.com/album/4SaWWICr6sZWlaJgv7X05m) | 1:48 | 2023-08-11 | 2024-02-13 |
 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 | 2022-04-15 | 2023-04-07 |
 | [Sunday Adventures](https://open.spotify.com/track/0VbkuDmoBUtdAAePWnyRP2) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Sunday Adventures](https://open.spotify.com/album/79a2OpVBeeAfdtDi3jm2ic) | 3:09 | 2022-02-10 |  |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2021-11-10 |  |

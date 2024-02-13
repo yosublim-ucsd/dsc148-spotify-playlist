@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 475440,
+  "num_followers": 475505,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjAxZmU3MTc5MGI1NDNmMjFmMGNmN2Q3OTU5NWYwZDI5ZTg5NWY0",
+  "snapshot_id": "MCxjNTUwMTFmYTBjYzVkZjdlZWRjZDc0ZTcxMmRiOGUxYmFjNzk5OGQ5",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "PATCHWERK",
+        "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 141591,
+      "name": "PATCHWERK",
+      "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 188237,
       "name": "Don't Look At Me",
       "url": "https://open.spotify.com/track/3U7mehH6qFWzsDrAljZ7VW"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "PATCHWERK",
-        "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 141591,
-      "name": "PATCHWERK",
-      "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Armatron",
-        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 252603,
-      "name": "Armatron",
-      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 138946,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Armatron",
+        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 252603,
+      "name": "Armatron",
+      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Max Maco Is Dead Right?",
         "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Time Isn't Real",
-        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
+        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
+      "duration_ms": 135529,
+      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 156225,
       "name": "fall apart (with glaive)",
       "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Time Isn't Real",
+        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
-        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        },
-        {
-          "name": "Death Stranding: Timefall",
-          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Sing To Me",
-      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Heavenly Side",
         "url": "https://open.spotify.com/album/5zboD55XbkrZ3JJkvXC2EE"
       },
@@ -1431,34 +1411,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "flowers",
-        "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
+        "name": "LOST IT",
+        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
       },
       "artists": [
         {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
-        }
-      ],
-      "duration_ms": 161309,
-      "name": "flowers",
-      "url": "https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
-      },
-      "artists": [
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
         }
       ],
-      "duration_ms": 206687,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
+      "duration_ms": 166000,
+      "name": "LOST IT",
+      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1479,22 +1447,38 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "LOST IT",
-        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
+        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
       },
       "artists": [
         {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         },
         {
-          "name": "P!X!E",
-          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
         }
       ],
-      "duration_ms": 166000,
-      "name": "LOST IT",
-      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
+      "duration_ms": 189920,
+      "name": "Sing To Me",
+      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "duration_ms": 161309,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 206687,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Failed at Math(s)",
-        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 222105,
-      "name": "Portraits",
-      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/45DgFMUv8WhXWkWjtI03qN"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 213494,
+      "name": "We Are Who We Are",
+      "url": "https://open.spotify.com/track/5DP2aoo37wHvurr9FeNM1W"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/45DgFMUv8WhXWkWjtI03qN"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 213494,
-      "name": "We Are Who We Are",
-      "url": "https://open.spotify.com/track/5DP2aoo37wHvurr9FeNM1W"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
       },
       "artists": [
         {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
         }
       ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+      "duration_ms": 231851,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd"
     }
   ],
   "unique_name": "Alternative Beats",

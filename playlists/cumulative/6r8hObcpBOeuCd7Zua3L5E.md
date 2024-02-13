@@ -4,7 +4,7 @@
 
 > <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on TikTok and around the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Sped up TikTok audios\. Sped up TikTok audios 2023\. Nightcore\. Sped up nightcore.
 
-170 songs - 8 hr 34 min
+171 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-07-18 | 2023-04-15 |
 | [Bulletproof \- Tiborg Remix](https://open.spotify.com/track/6kZiU1GpRB9ukpHXRQROci) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Bulletproof \(Tiborg Remix\)](https://open.spotify.com/album/1Y9ELQbetvtxstnfvoPKId) | 3:27 | 2020-03-31 | 2022-07-19 |
 | [Bust A Move](https://open.spotify.com/track/3IeCYkdKI55mNMl2o4vX0k) | [Young MC](https://open.spotify.com/artist/5n30a5V4ftXNMHCHChmK2h) | [Stone Cold Rhymin'](https://open.spotify.com/album/5epYkQqWldhYysHIH9mrmE) | 4:23 | 2020-03-31 | 2022-07-19 |
+| [By Myself \(feat\. Destroy Lonely\) \- Sped Up](https://open.spotify.com/track/37R5fNqhHvcBOwilspUwHq) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Flotation Device](https://open.spotify.com/album/0TOVzqawc4xCOGwsFTAgWy) | 2:46 | 2024-02-12 |  |
 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2020-03-31 | 2022-07-19 |
 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/5cC2gqSkCz9Eekqbo6i61A) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Can I Call You Tonight? \(sped\-up\)](https://open.spotify.com/album/2pFVM3bOTgNe7HsvcprNl5) | 3:30 | 2022-07-18 | 2022-09-09 |
 | [Cardboard Box \- Sped Up](https://open.spotify.com/track/1Yywnto2PimPZNti7DGDZB) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cardboard Box](https://open.spotify.com/album/63AyqtzaDPQ7EEaSa2irK8) | 2:18 | 2023-02-27 |  |

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-500 songs - 1 day 5 hr 42 min
+501 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,8 @@
 | [Water Melon](https://open.spotify.com/track/0RZhsdFNZR0DZzwPRU28nW) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed) | [Water Melon](https://open.spotify.com/album/0DGbJhNwB9UJeG1oOSDyvi) | 3:27 | 2022-11-11 | 2023-03-07 |
 | [What A Vadivu](https://open.spotify.com/track/5C6vxne9RiZSnIDP25rrqg) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [What A Vadivu](https://open.spotify.com/album/3yuXK9dHWz4XJR8YQKphk9) | 3:28 | 2023-11-06 |  |
 | [Why Penne](https://open.spotify.com/track/1n6M3gie50BzLiCbvCnZoq) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Why Penne](https://open.spotify.com/album/2bccNae2mooe12VEbnh8hN) | 2:46 | 2024-02-09 |  |
-| [Yaadhum kanaa](https://open.spotify.com/track/0zFTloLX0ssZGi0fxBsfNE) | [Balaji Gopinath](https://open.spotify.com/artist/250rmMtHHaMkHNFThTBMmd), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds) | [Yaadhum kanaa](https://open.spotify.com/album/2KrIEuf4HVpE2GN5cgQCdn) | 3:44 | 2023-04-10 |  |
+| [Yaadhum kanaa](https://open.spotify.com/track/0zFTloLX0ssZGi0fxBsfNE) | [Balaji Gopinath](https://open.spotify.com/artist/250rmMtHHaMkHNFThTBMmd), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds) | [Yaadhum kanaa](https://open.spotify.com/album/2KrIEuf4HVpE2GN5cgQCdn) | 3:44 | 2023-04-10 | 2024-02-13 |
+| [Yaadhum kanaa](https://open.spotify.com/track/4jtSol8vIhmCy5pynFQwMu) | [Balaji Gopinath](https://open.spotify.com/artist/250rmMtHHaMkHNFThTBMmd), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds) | [Yaadhum kanaa](https://open.spotify.com/album/5D4U758gf4NoiDYagfZ80Y) | 3:44 | 2023-04-10 |  |
 | [Yaar Aval](https://open.spotify.com/track/26nKSZ9JA35IvycEPU6yRg) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval \- Single](https://open.spotify.com/album/20jBpXqfoQpgpTM0rvSd4i) | 3:10 | 2022-06-09 | 2023-02-07 |
 | [Yaar Aval](https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval](https://open.spotify.com/album/2Qc4Cb9CZRPZVYqgaqsYn1) | 3:10 | 2022-06-09 | 2022-07-29 |
 | [Yaar Solvaaro](https://open.spotify.com/track/6DFAhCjI8WXgEzjdZLBfwv) | [C.B Karty](https://open.spotify.com/artist/0q8QdG0mSd53lLe86M72ix), [Santhosh Subramanian](https://open.spotify.com/artist/7d4tFjDmt8IhOMtudYjIuu) | [Yaar Solvaaro](https://open.spotify.com/album/0DGEWRA09FNgXO3WwrIYy7) | 4:26 | 2022-08-12 | 2022-11-22 |

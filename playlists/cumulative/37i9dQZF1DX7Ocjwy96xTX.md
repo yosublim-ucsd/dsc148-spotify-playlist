@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-273 songs - 16 hr 28 min
+274 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [limewire](https://open.spotify.com/track/28HqSYL38aee5YEqh3zS9m) | [untitled halo](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [limewire](https://open.spotify.com/album/5jCZgZD5ndkOHAJD3u3drI) | 2:28 | 2023-06-02 | 2023-07-22 |
 | [Lips](https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Lips](https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy) | 5:10 | 2023-08-25 | 2023-09-30 |
 | [Lithium](https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Oak](https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr) | 3:27 | 2022-12-01 |  |
+| [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 | 2024-02-12 |  |
 | [Love](https://open.spotify.com/track/1szQmkXiC5hZ3iCkgDctvl) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [Gouldian Finch 5](https://open.spotify.com/album/3FdxkBoB4O86sbVRYeTPsZ) | 2:38 | 2023-08-18 | 2023-08-26 |
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2022-09-02 | 2023-12-06 |
 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-22 | 2023-05-06 |
@@ -226,7 +227,7 @@
 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 | 2023-12-01 | 2024-01-23 |
 | [shutting me out](https://open.spotify.com/track/69vQ28ksF23utGYgq4YhxD) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:26 | 2023-12-05 |  |
 | [Singing To Let England Shake](https://open.spotify.com/track/4WgPnx0VIchYHqhIBK6I7y) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [Singing To Let England Shake](https://open.spotify.com/album/6XvASASymN1EvsH5J3i4G9) | 3:36 | 2022-09-09 | 2023-05-25 |
-| [Slick Rick](https://open.spotify.com/track/4fYjk7xP6yiNrTxRrh27Hl) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:55 | 2023-11-21 |  |
+| [Slick Rick](https://open.spotify.com/track/4fYjk7xP6yiNrTxRrh27Hl) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:55 | 2023-11-21 | 2024-02-13 |
 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 | 2023-09-29 | 2023-12-30 |
 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 | 2023-05-24 | 2023-11-11 |
 | [So Nice](https://open.spotify.com/track/2CUezCxDV2BTpyiRSXqeau) | [Total](https://open.spotify.com/artist/1oprjfdpOCEGVwpSRr2XDH) | [Lava](https://open.spotify.com/album/1Z7KqmX9z5qsEnCAVkvMFU) | 2:43 | 2022-09-30 | 2023-05-25 |

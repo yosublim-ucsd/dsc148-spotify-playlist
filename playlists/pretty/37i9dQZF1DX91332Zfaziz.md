@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91332Zfaziz.md) - [plain]
 
 > Drawn together\. Driven apart\. Listen to the music from and inspired by Normal People, all episodes streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,772 likes - 62 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,856 likes - 62 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91332Zfaziz.md) - [plain]
 | 61 | [Can't Move On](https://open.spotify.com/track/0CAInu1o04upMwcTNyk1IW) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Can't Move On](https://open.spotify.com/album/3pHKOszawkAnbaZ6TWwxbl) | 3:17 |
 | 62 | [Sometimes](https://open.spotify.com/track/3CDCBn481xrZGB2isCWkp9) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Sometimes](https://open.spotify.com/album/0RcwBD2P5YubxRUpeKezTF) | 2:49 |
 
-Snapshot ID: `MCw1M2Q4NzRlMWQ4Mjg5NmU4YTY5ZTU4NTczM2VhY2ExYzgyMDYzYTA1`
+Snapshot ID: `MCw0ZTVhZDE0OTE0OGMwMDJiN2IzMmJiNjM0MjNmNmQ4Mzg0YmEyMjRi`

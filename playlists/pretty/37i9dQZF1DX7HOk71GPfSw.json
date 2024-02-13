@@ -1,12 +1,12 @@
 {
   "description": "glaivepilled",
-  "num_followers": 431618,
+  "num_followers": 431632,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDEyZmIxNjYwNjQ5MDJlODEzM2NmNTFmOGJhY2RjZTY4NGVhZjFk",
+  "snapshot_id": "MCw5YzE0ODNiMjU0NmMzYWM1NzNhNjhhZjMxMGZlOTg5ZDhmOTI2OTgy",
   "tracks": [
     {
       "added_at": "2024-02-09 15:58:51",
@@ -33,6 +33,30 @@
       "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
     },
     {
+      "added_at": "2024-02-12 21:03:59",
+      "album": {
+        "name": "software gore",
+        "url": "https://open.spotify.com/album/3lyCkGXK5OjJsUFaGhSVgf"
+      },
+      "artists": [
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        },
+        {
+          "name": "bod [\u5305\u5bb6\u5df7]",
+          "url": "https://open.spotify.com/artist/1D6VOxRs2bOirIONpA4u70"
+        },
+        {
+          "name": "Glasear",
+          "url": "https://open.spotify.com/artist/4KR1aSNrKFDzmNeibMzGZg"
+        }
+      ],
+      "duration_ms": 142339,
+      "name": "goreblog",
+      "url": "https://open.spotify.com/track/3mgLzpPrgntBfYnxrPuqlP"
+    },
+    {
       "added_at": "2024-01-26 15:53:41",
       "album": {
         "name": "huh",
@@ -49,36 +73,20 @@
       "url": "https://open.spotify.com/track/0uLIQiuVCXBoe2w8n4Thyz"
     },
     {
-      "added_at": "2024-01-22 16:15:30",
+      "added_at": "2024-02-12 21:03:59",
       "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+        "name": "Person (Angel Mix)",
+        "url": "https://open.spotify.com/album/61WZkS5rDvpQkyK3sOifiu"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
         }
       ],
-      "duration_ms": 151015,
-      "name": "lastjune",
-      "url": "https://open.spotify.com/track/1welGULVlPbPc61eiGEELm"
-    },
-    {
-      "added_at": "2024-01-26 15:53:41",
-      "album": {
-        "name": "LIVE, RAFF, LOVE (Act II)",
-        "url": "https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai"
-      },
-      "artists": [
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        }
-      ],
-      "duration_ms": 135197,
-      "name": "Polly Pocket",
-      "url": "https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7"
+      "duration_ms": 222979,
+      "name": "Person - Angel Mix",
+      "url": "https://open.spotify.com/track/5iTzaatezJzsUhX1QjT0Kp"
     },
     {
       "added_at": "2024-01-22 16:15:30",
@@ -95,6 +103,22 @@
       "duration_ms": 199906,
       "name": "Rave Angel",
       "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+    },
+    {
+      "added_at": "2024-01-26 15:53:41",
+      "album": {
+        "name": "LIVE, RAFF, LOVE (Act II)",
+        "url": "https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai"
+      },
+      "artists": [
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        }
+      ],
+      "duration_ms": 135197,
+      "name": "Polly Pocket",
+      "url": "https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7"
     },
     {
       "added_at": "2024-01-26 15:53:41",
@@ -135,22 +159,18 @@
     {
       "added_at": "2024-01-22 16:15:30",
       "album": {
-        "name": "FIRESTARTER",
-        "url": "https://open.spotify.com/album/2YP0iMxce0NzYuF5VcFJx6"
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
       },
       "artists": [
         {
-          "name": "CONNIE",
-          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
-        },
-        {
-          "name": "Izzy Spears",
-          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 266666,
-      "name": "FIRESTARTER",
-      "url": "https://open.spotify.com/track/0oya2EOVDxNkHldoTwoaL6"
+      "duration_ms": 151015,
+      "name": "lastjune",
+      "url": "https://open.spotify.com/track/1welGULVlPbPc61eiGEELm"
     },
     {
       "added_at": "2024-01-26 15:53:41",
@@ -347,6 +367,26 @@
       "duration_ms": 114947,
       "name": "STARING AT THE SUN",
       "url": "https://open.spotify.com/track/7rtUWgeSs798smh0Z3HAuH"
+    },
+    {
+      "added_at": "2024-01-22 16:15:30",
+      "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/2YP0iMxce0NzYuF5VcFJx6"
+      },
+      "artists": [
+        {
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "Izzy Spears",
+          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/0oya2EOVDxNkHldoTwoaL6"
     },
     {
       "added_at": "2024-01-26 15:53:41",

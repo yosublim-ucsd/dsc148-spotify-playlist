@@ -1,12 +1,12 @@
 {
   "description": "\"Bond... James Bond.\" Cover: <a href=\"spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH\">Billie Eilish</a>",
-  "num_followers": 85356,
+  "num_followers": 85368,
   "original_name": "Best of Bond",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg4NzFhMDNiODcxY2FhNzZhNzE3M2FkODcyOGIxYzdhYzA5N2Q2",
+  "snapshot_id": "MCwwMTdiNWQ0MDJiNTlmY2U2NDA5NDA0ZGNlYjk0ODUwNzI3MzFjNmY4",
   "tracks": [
     {
       "added_at": "2022-12-29 15:42:44",
@@ -175,22 +175,18 @@
     {
       "added_at": "2022-12-29 15:42:44",
       "album": {
-        "name": "Thunderball (Original Motion Picture Soundtrack / Remastered 2003)",
-        "url": "https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN"
+        "name": "Movie Night: Famous Soundtracks",
+        "url": "https://open.spotify.com/album/2ryZgGxfvRhpbtIHF2FEAR"
       },
       "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        },
         {
           "name": "John Barry",
           "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
         }
       ],
-      "duration_ms": 183626,
-      "name": "Thunderball (Main Title) - Remastered 2003",
-      "url": "https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia"
+      "duration_ms": 183583,
+      "name": "Main Title - From \"Thunderball\"",
+      "url": "https://open.spotify.com/track/0yaLrtLWGYWVmvvNOlRZDj"
     },
     {
       "added_at": "2022-12-29 15:42:44",

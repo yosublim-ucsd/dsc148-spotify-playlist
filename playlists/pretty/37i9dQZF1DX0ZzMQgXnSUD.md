@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,356 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,368 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 8 | [Goldeneye](https://open.spotify.com/track/528QhCT2v3HgD71RmrSUNW) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Goldeneye](https://open.spotify.com/album/4aBVXvgB75LzBQTbKiauQN) | 4:48 |
 | 9 | [You Only Live Twice \- From "Retrospective: The Music Of Mad Men" Soundtrack](https://open.spotify.com/track/18y85RXNwPsaqTwKPfTqZI) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [You Only Live Twice \(From "Retrospective: The Music Of Mad Men"\)](https://open.spotify.com/album/3zPM0GxJmRNOrSbHqziO2k) | 2:45 |
 | 10 | [From Russia with Love \- Single Version](https://open.spotify.com/track/5dWu3rtTytLVDSkOkTaBVl) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Essential](https://open.spotify.com/album/4JDGHeK69u3Yosp8BvUFJh) | 2:35 |
-| 11 | [Thunderball \(Main Title\) \- Remastered 2003](https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Thunderball \(Original Motion Picture Soundtrack / Remastered 2003\)](https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN) | 3:03 |
+| 11 | [Main Title \- From "Thunderball"](https://open.spotify.com/track/0yaLrtLWGYWVmvvNOlRZDj) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Movie Night: Famous Soundtracks](https://open.spotify.com/album/2ryZgGxfvRhpbtIHF2FEAR) | 3:03 |
 | 12 | [Die Another Day](https://open.spotify.com/track/4NvgRMckw4uzjNn2t7taPe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:36 |
 | 13 | [Another Way to Die](https://open.spotify.com/track/3ODl8J0TZAykdMCtCIO28n) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:22 |
 | 14 | [The Living Daylights](https://open.spotify.com/track/4tWe3Fr8HrQPq2iFOpEGZs) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [The Singles: 1984\-2004](https://open.spotify.com/album/0RfwViNsdcwjUgoZExOir0) | 4:14 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 27 | [On Her Majesty's Secret Service \- Remastered](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 28 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
 
-Snapshot ID: `MCxhMjg4NzFhMDNiODcxY2FhNzZhNzE3M2FkODcyOGIxYzdhYzA5N2Q2`
+Snapshot ID: `MCwwMTdiNWQ0MDJiNTlmY2U2NDA5NDA0ZGNlYjk0ODUwNzI3MzFjNmY4`

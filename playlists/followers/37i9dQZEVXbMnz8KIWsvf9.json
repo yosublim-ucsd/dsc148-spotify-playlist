@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 154631,
+  "2024-02-13": 154657,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Thailand.",
   "name": "Top 50 - Thailand",
@@ -1997,7 +1997,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
@@ -8485,7 +8485,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 246818,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF"

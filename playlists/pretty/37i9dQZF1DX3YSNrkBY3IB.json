@@ -1,12 +1,12 @@
 {
-  "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 74752,
-  "original_name": "Raised on Hip Hop",
+  "description": "Check out these hip-hop classics that are great for the whole family.",
+  "num_followers": 74774,
+  "original_name": "Clean Hip-Hop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjQ3M2RmYmI2YTNlZjM0ZGQxY2ZkMmY5Y2VjNjcwMDdiNjQ1Yzg5",
+  "snapshot_id": "MCw3NzI2NGM1NDBhNzMwOGIzZTc0OTUyYzIxODBkNDUzNWRjOTcyYTZm",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -145,6 +145,30 @@
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
     },
     {
+      "added_at": "2024-02-12 22:06:21",
+      "album": {
+        "name": "Snap Yo Fingers - Single",
+        "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "Snap Yo Fingers",
+      "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
+    },
+    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "I Wish",
@@ -253,6 +277,22 @@
       "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
     },
     {
+      "added_at": "2024-02-12 22:06:21",
+      "album": {
+        "name": "Twelve Eighteen (Part I) [Explicit Version]",
+        "url": "https://open.spotify.com/album/7jDU9nE51kel3vrhztvMrj"
+      },
+      "artists": [
+        {
+          "name": "Lil Rob",
+          "url": "https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6fVCBBlHif6zfqXAEHKJy8"
+    },
+    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "A Wolf In Sheep's Clothing",
@@ -323,38 +363,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Mr. Wendal",
-      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
-    },
-    {
-      "added_at": "2022-01-10 20:50:24",
-      "album": {
-        "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
-        "url": "https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur"
-      },
-      "artists": [
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "Mistadobalina",
-      "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
       },
@@ -367,6 +375,22 @@
       "duration_ms": 177266,
       "name": "The Fresh Prince of Bel-Air",
       "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Mr. Wendal",
+      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -395,6 +419,38 @@
       "duration_ms": 290293,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
+    },
+    {
+      "added_at": "2024-02-12 22:06:21",
+      "album": {
+        "name": "3 Feet High and Rising",
+        "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 229312,
+      "name": "Me Myself and I",
+      "url": "https://open.spotify.com/track/792UwI6utk5DMQUT1KXa5E"
+    },
+    {
+      "added_at": "2022-01-10 20:50:24",
+      "album": {
+        "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
+        "url": "https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur"
+      },
+      "artists": [
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "Mistadobalina",
+      "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -537,6 +593,30 @@
       "url": "https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX"
     },
     {
+      "added_at": "2024-02-12 22:06:21",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/3lQePoIm6iNQIiZkCYxCy0"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 316053,
+      "name": "Slow Jamz",
+      "url": "https://open.spotify.com/track/6lxyoqQJXYpUXM3hc46zX4"
+    },
+    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "Radio",
@@ -551,22 +631,6 @@
       "duration_ms": 327400,
       "name": "I Can't Live Without My Radio",
       "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -603,6 +667,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Holy Intellect (Expanded Edition)",
         "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
@@ -617,98 +697,26 @@
       "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
+      "added_at": "2024-02-12 22:06:21",
       "album": {
-        "name": "2 Hype",
-        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
+        "name": "The Very Best of Death Row",
+        "url": "https://open.spotify.com/album/1lqD5GnInmcLPiRMfRVS22"
       },
       "artists": [
         {
-          "name": "Kid 'N Play",
-          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "Gittin' Funky",
-      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/5Kv0SrABtsIyzCniJvR5ih"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
-          "name": "DJ Jazzy Jeff",
-          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
-        },
-        {
-          "name": "Jazzyfatnastees",
-          "url": "https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 250200,
-      "name": "The Next Movement",
-      "url": "https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Ladies First",
-        "url": "https://open.spotify.com/album/6FrpOdvtCpq4atd48hyLVq"
-      },
-      "artists": [
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        },
-        {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        }
-      ],
-      "duration_ms": 229896,
-      "name": "Ladies First - Radio Edit",
-      "url": "https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
-      },
-      "artists": [
-        {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Monie in the Middle",
-      "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Wipeout (Re-Recorded Versions)",
-        "url": "https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv"
-      },
-      "artists": [
-        {
-          "name": "Fat Boys",
-          "url": "https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt"
-        }
-      ],
-      "duration_ms": 241108,
-      "name": "Wipeout (Re-Recorded Version)",
-      "url": "https://open.spotify.com/track/07CpuTGODTEA9VOjhJuoZ8"
+      "duration_ms": 238426,
+      "name": "Nuthin\u2019 But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/2eBjbrAXdb5WETSm6RNZ6X"
     }
   ],
-  "unique_name": "Raised on Hip Hop",
+  "unique_name": "Clean Hip-Hop Classics",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3YSNrkBY3IB"
 }

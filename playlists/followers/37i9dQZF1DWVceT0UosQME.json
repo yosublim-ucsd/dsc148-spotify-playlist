@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 2914,
+  "2024-02-13": 3013,
   "date_first_scraped": "2024-01-13",
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
   "name": "exams 2024",
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 133200,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk"
@@ -5727,6 +5727,24 @@
       "duration_ms": 112941,
       "name": "No Saintz",
       "url": "https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3"
+    },
+    {
+      "album": {
+        "name": "no way but up",
+        "url": "https://open.spotify.com/album/197jKvvY3xuS1ggGpcEdGW"
+      },
+      "artists": [
+        {
+          "name": "Phresh Milk",
+          "url": "https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106494,
+      "name": "no way but up",
+      "url": "https://open.spotify.com/track/4M7gbh6sluTRP6BXnYpzyz"
     },
     {
       "album": {

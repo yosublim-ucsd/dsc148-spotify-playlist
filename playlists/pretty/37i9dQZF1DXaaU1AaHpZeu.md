@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Irepelusa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,079 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,080 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Fantasma](https://open.spotify.com/track/7bhokUDG4wzy0WPNqNr06P) | [YECTO](https://open.spotify.com/artist/5of6MTLS3IZt5IQpQCLcw1) | [Fantasma](https://open.spotify.com/album/4H6wjbOD9i7jdLRmofifmc) | 3:48 |
 | 50 | [Ganas de llorar](https://open.spotify.com/track/7hP2TwlqfkGFVMyg1XQxaH) | [Sofia Crombie](https://open.spotify.com/artist/5tiuYtBhgNrEenl53i5QdY) | [Ganas de llorar](https://open.spotify.com/album/2Pzksp3XoowbaXfrMc8wI3) | 3:30 |
 
-Snapshot ID: `MCwwMjEzYzI1MGU0NWYwZDFjOTc5MTMxMzkxMzE3ZjdmMjJkNGNhZTVl`
+Snapshot ID: `MCw3ZjU2N2M4NjNjNmM3NGI0Y2UyNDgzNDYzM2I2NDRkOWRmMTkzNTll`

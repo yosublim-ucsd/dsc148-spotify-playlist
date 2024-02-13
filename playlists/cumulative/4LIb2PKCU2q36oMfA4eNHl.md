@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-59 songs - 3 hr 49 min
+60 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,12 +34,13 @@
 | [HER \- Jody Wisternoff & James Grant Edit](https://open.spotify.com/track/0kLgf6MpUKwYkZQAOAe8QZ) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [HER](https://open.spotify.com/album/2c6FQDsHgiRNzXlN3dc71D) | 3:11 | 2023-12-08 |  |
 | [here / present](https://open.spotify.com/track/3p1JAGAqMNUUkM4ABUw9Ih) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [if I can be honest](https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8) | 4:58 | 2023-12-08 |  |
 | [Hold On To You \- Ryan Davis Revisit](https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Hold On To You \(Ryan Davis Revisit\)](https://open.spotify.com/album/1b0ZUmsLKfYcgEyNOVbxof) | 4:40 | 2023-12-08 |  |
+| [Hologram](https://open.spotify.com/track/0yHNtaJ9DQyfMTgNoi2f1Q) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Hologram](https://open.spotify.com/album/1scL7gL8q1pWYHAKxHSbo4) | 4:16 | 2024-02-12 |  |
 | [if I can be honest](https://open.spotify.com/track/67jECssRLcbLlrtlCAaKGY) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [if I can be honest](https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8) | 3:23 | 2023-12-08 |  |
 | [Inner \(for Jen\)](https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [The Sounds Inside Of Me When I Think Of You EP](https://open.spotify.com/album/3oajHb9mhmBvgqXvvhj5Bc) | 5:05 | 2024-02-09 |  |
 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 | 2023-12-08 | 2024-01-13 |
 | [Kyoto \(京都\) \- Lycoriscoris Remix](https://open.spotify.com/track/3rNpzCkiH8H7kvL44T36D1) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Jōhatsu \(蒸発\) \(The Remixes\)](https://open.spotify.com/album/1iDvYexi7CTmtTSSI16vJs) | 3:50 | 2023-12-08 | 2024-01-27 |
 | [La luna \(Flica’s Moonlight Remix\)](https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti) | [D & the Compass](https://open.spotify.com/artist/3ilD695ywPm5CrM65QwoXF), [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [La luna \(Flica's Moonlight Remix\)](https://open.spotify.com/album/3jNccBInH9Dktpo4tvhumR) | 3:09 | 2024-01-19 |  |
-| [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2023-12-08 |  |
+| [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2023-12-08 | 2024-02-13 |
 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 | 2024-01-12 |  |
 | [Longing](https://open.spotify.com/track/2A0fuDHJlRz7NbftxSXmN5) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Longing](https://open.spotify.com/album/63Ab5wSwTgzeKwXZdRBcQb) | 5:26 | 2024-01-26 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-12 |  |

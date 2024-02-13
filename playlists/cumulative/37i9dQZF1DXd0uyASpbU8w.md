@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-2,059 songs - 5 day 20 hr 50 min
+2,061 songs - 5 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1038](https://open.spotify.com/track/6v6yt3bkju4QwXWSQzzyLg) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh) | [1038](https://open.spotify.com/album/5bKcc2tP9pBP4mBS5nr5Bo) | 5:16 | 2024-02-01 | 2024-02-09 |
 | [11:11 Makukhanye](https://open.spotify.com/track/3W8XdI8x69oaLRnsaRAx3h) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [11:11 Makukhanye](https://open.spotify.com/album/2qj9Jzqo14r8wSUNmMvYG5) | 2:18 | 2023-06-08 | 2023-06-16 |
 | [1575](https://open.spotify.com/track/76TSqARh3MKBnVIetYWxCT) | [TeepeeMassoxs](https://open.spotify.com/artist/2a8DW2IIdHIGqdWiCYTvNQ), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2) | [1575](https://open.spotify.com/album/4iQP8LwEgT5LncfmqSZKBm) | 8:31 | 2023-09-28 | 2023-10-08 |
+| [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 | 2024-02-12 |  |
 | [16 Deep](https://open.spotify.com/track/3rcQTGIpEbgXjFdmnxGohC) | [Ganja Beatz](https://open.spotify.com/artist/0FAGhrawx5nRxq2CXj1GDw), [Kaz the Scribe](https://open.spotify.com/artist/53xlbJVviZtAKkaFPsXTXm), [DEEP$](https://open.spotify.com/artist/0YOHUg8mjhJTzLPLHWZWiP), [Manu WorldStar](https://open.spotify.com/artist/4P9liSYQDYgABacn43YzV4) | [16 Deep](https://open.spotify.com/album/4pJFO2NcFV1Y8ChIhEPHle) | 4:00 | 2023-10-12 | 2023-10-24 |
 | [1988](https://open.spotify.com/track/60GeeJt1UxTSbZEleGRDTY) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [1988](https://open.spotify.com/album/2bfvxrn24ZELLxTRi2payd) | 4:04 | 2023-11-09 | 2023-11-18 |
 | [21 Days](https://open.spotify.com/track/5me8xe4o1wVl2usIru4vUS) | [Robin Thirdfloor](https://open.spotify.com/artist/24R1N1mF7GaNn2rcL6hNCh), [Dejot](https://open.spotify.com/artist/6MxbPfU59YKhSMf4UAYbwF) | [21 Days](https://open.spotify.com/album/6VyR6BmyJPFQDtZud9c0yF) | 3:06 | 2024-01-25 | 2024-02-02 |
@@ -1720,6 +1721,7 @@
 | [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 | 2023-12-08 | 2023-12-16 |
 | [TESLA](https://open.spotify.com/track/4NQfLaqLd1Fms4UTkkTj7J) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [TESLA](https://open.spotify.com/album/5mLthYPpxVlV9E6QPlVVZt) | 2:44 | 2023-08-25 | 2023-09-01 |
 | [Testimony](https://open.spotify.com/track/6YJzVBCeKH0sarQEi5rSDk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Testimony](https://open.spotify.com/album/0CNkxTOBTuVNRc3VeO1hl1) | 2:57 | 2023-09-28 | 2023-10-08 |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-12 |  |
 | [Thafaelibanzi](https://open.spotify.com/track/4FKW1V0ePYjsbnwGborwsg) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Thafaelibanzi](https://open.spotify.com/album/6B7eEUn7qB295u7vwp6ZNt) | 4:46 | 2023-10-12 | 2023-10-24 |
 | [Thanda Wena](https://open.spotify.com/track/113g59nN6vT6dlzZJGneVj) | [Junior De Rocka](https://open.spotify.com/artist/71lldVkx3POgVXXTe5Pqoa), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Ntwana\_R](https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS) | [SLANT](https://open.spotify.com/album/17SO3H2tR6XgdAQeSJoBWm) | 6:55 | 2023-05-18 | 2023-05-26 |
 | [Thandaza](https://open.spotify.com/track/19r84EGcFUyTmw7ghVapGT) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Lolo Zozi](https://open.spotify.com/artist/2KbvzMBypmQuh1AMQNuffW) | [Thandaza](https://open.spotify.com/album/5H5n3TMsw27S803Ie5PXVv) | 6:37 | 2023-06-02 | 2023-06-09 |

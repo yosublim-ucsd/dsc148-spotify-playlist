@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-417 songs - 1 day 13 hr 4 min
+418 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 | 2022-02-10 |  |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [It's Beginning to Rain Again](https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N) | 4:47 | 2022-02-10 | 2022-07-29 |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/42qLsVrk3ZjmZbNP4timG3) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Huntress](https://open.spotify.com/album/7zZ3bMGIFKWvGGLFnVorhd) | 4:47 | 2022-02-10 | 2022-11-13 |
+| [Jackie McLean](https://open.spotify.com/track/3ndSiWBGHwkVTbWdjyRUUg) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Solo](https://open.spotify.com/album/5Q1zGU4yYs2L4n0tugxCIa) | 4:10 | 2023-09-29 |  |
 | [Jackie McLean](https://open.spotify.com/track/48ncEf3RYEbRdYduvVcS99) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Solo](https://open.spotify.com/album/56LTK0J3SoObjl424FU7Fe) | 4:10 | 2023-09-29 | 2023-12-24 |
 | [Jangle med](https://open.spotify.com/track/35iQk6C6jQbkXcrc9ZnELN) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Jangle med](https://open.spotify.com/album/65d5Ls33JyVezrajJs51Yx) | 3:47 | 2022-09-23 |  |
 | [Jitterbug Waltz](https://open.spotify.com/track/1ypXqJHbK7e2gxbXUUI5kt) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5Tm4fXny7i9zeHOKABUx2X) | 6:16 | 2022-02-10 | 2022-09-03 |
@@ -184,7 +185,7 @@
 | [Junket](https://open.spotify.com/track/02aiuT3ffmtHtTGtF4A7YE) | [Andrew McCormack](https://open.spotify.com/artist/6PWgeYcTjP4DKnDyhk36D4) | [Live in London](https://open.spotify.com/album/6bxRMUKki8oFpDblIoKE2d) | 6:09 | 2022-02-10 | 2022-07-20 |
 | [Krystall Revisited](https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Krystall Revisited](https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde) | 6:27 | 2022-02-10 |  |
 | [Käkkärämänty](https://open.spotify.com/track/2bQ3deLJ5I8LS9fHrvDigs) | [Jussi Fredriksson Trio](https://open.spotify.com/artist/5o52BOj8untw6hOzTjmRsi) | [Archipelago Sea Tales](https://open.spotify.com/album/4Xsny0csM7kVuQ9iiUoaBl) | 6:52 | 2022-02-10 | 2022-12-03 |
-| [L'Aventino](https://open.spotify.com/track/3gYiUNsqHikK1WbACGQm18) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [L'Aventino](https://open.spotify.com/album/43A04XzVyrDLNXMLoiyZpd) | 6:36 | 2022-04-08 |  |
+| [L'Aventino](https://open.spotify.com/track/3gYiUNsqHikK1WbACGQm18) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [L'Aventino](https://open.spotify.com/album/43A04XzVyrDLNXMLoiyZpd) | 6:36 | 2022-04-08 | 2024-02-13 |
 | [La part des anges](https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:36 | 2022-02-10 | 2022-09-03 |
 | [Largo Desolato](https://open.spotify.com/track/4DIaxINq95Dt91fjPsKAVx) | [Yoko Miwa Trio](https://open.spotify.com/artist/4xfIFGU467tYdyF6thGbLP) | [Largo Desolato](https://open.spotify.com/album/3dSxjrYQCof4mSacuuQlGe) | 6:42 | 2022-02-10 | 2022-09-03 |
 | [Last Steps, First](https://open.spotify.com/track/2swNlkpmNkfR9Nm7EzCrcR) | [Jeff Cosgrove](https://open.spotify.com/artist/3cA8XbbTFynWY8ea883RE8), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [William Parker](https://open.spotify.com/artist/5r65V3tfKsDc3nHfpIl7D0) | [Near Disaster](https://open.spotify.com/album/4bSGDwliZR4IVskpHldJUE) | 9:02 | 2022-02-10 | 2022-07-24 |

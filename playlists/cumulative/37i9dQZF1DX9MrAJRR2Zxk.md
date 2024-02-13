@@ -4,7 +4,7 @@
 
 > Small Island artists taking over the world!
 
-149 songs - 8 hr 59 min
+150 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Fast Wine](https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/1mlDPzy4l8LhGVqNEiopIN) | 3:24 | 2021-10-24 | 2022-07-29 |
 | [Feeling Myself](https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(International Deluxe Explicit\)](https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96) | 3:57 | 2021-10-24 | 2022-07-29 |
 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 | 2021-10-24 |  |
-| [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 | 2023-02-10 |  |
+| [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 | 2023-02-10 | 2024-02-13 |
 | [Fever](https://open.spotify.com/track/4C1Smq2t3MVOPzsUPWW0oX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/5uFk69AGNnLeCyYvnCOmS2) | 3:24 | 2021-10-24 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/6jL9fAnZpIvdS8p9I1ToBR) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 3:53 | 2021-10-24 | 2022-07-29 |
 | [Follow The Leader](https://open.spotify.com/track/3MktEQFErlU3BeJY1pFFU1) | [The Soca Boys](https://open.spotify.com/artist/2Dnfznf0gtIYzVNjihhKn0), [Van B\. King](https://open.spotify.com/artist/5xpiR1Prilw6RgHWfkln2H) | [The Album](https://open.spotify.com/album/17l3FRWlt5LCalspGSbxfk) | 4:14 | 2021-10-24 | 2022-07-17 |
@@ -78,6 +78,7 @@
 | [In2](https://open.spotify.com/track/1hu2dRGo6kxbvc7NuNGD4v) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [In2](https://open.spotify.com/album/3E7xhVj2Ym5XCyS0zBlNJQ) | 4:02 | 2021-10-24 | 2022-07-29 |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2021-10-24 |  |
 | [It Wasn't Me](https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:47 | 2021-10-24 |  |
+| [Jamming](https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:31 | 2023-02-10 |  |
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-10-24 | 2024-02-09 |
 | [Just Got Paid](https://open.spotify.com/track/7aJ5Hx4GXT1pTTrPRkeKv9) | [Johnny Kemp](https://open.spotify.com/artist/2u8hDu5KBMpvneOV8Th3LE) | [Secrets of Flying \(Expanded Edition\)](https://open.spotify.com/album/7fYivc6zLfAukJh5rgPLSz) | 5:31 | 2021-10-24 | 2022-07-20 |
 | [Kingman Ting](https://open.spotify.com/track/3AZyJgeXSMkReCCAnsbj4P) | [Ras\-I](https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9) | [Kingman](https://open.spotify.com/album/3OPDO0rb57drLa7W96bmE7) | 3:03 | 2022-08-18 | 2023-02-11 |

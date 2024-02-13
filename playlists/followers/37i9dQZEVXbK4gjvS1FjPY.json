@@ -1,5 +1,5 @@
 {
-  "2024-02-12": 133305,
+  "2024-02-13": 133310,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Singapore.",
   "name": "Top 50 - Singapore",
@@ -7072,6 +7072,24 @@
     },
     {
       "album": {
+        "name": "Happy\u9f99\u9f99Way",
+        "url": "https://open.spotify.com/album/37iqfFsEq78rMefoEf8mx4"
+      },
+      "artists": [
+        {
+          "name": "Astro Artiste",
+          "url": "https://open.spotify.com/artist/1EauZTwWoWAgah4DxiW6Eu"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220630,
+      "name": "Happy\u9f99\u9f99Way",
+      "url": "https://open.spotify.com/track/6rfNmC2NYj8TKZ8TZyGmtS"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
@@ -7141,6 +7159,24 @@
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
+    },
+    {
+      "album": {
+        "name": "Zhen Huan Xi",
+        "url": "https://open.spotify.com/album/77zg7gTaUceD6BEe8aBxGG"
+      },
+      "artists": [
+        {
+          "name": "M-Girls",
+          "url": "https://open.spotify.com/artist/0dtZP5P4gWqhBmaT3cR6EE"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518582,
+      "name": "He Xin Nian-Ying Chun Hua-Wan Nian Hong-Gong Xi Gng Xi-Da Di Hui Chun",
+      "url": "https://open.spotify.com/track/6rygadcybV5BH4wxQdKr77"
     },
     {
       "album": {
@@ -7941,7 +7977,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 258266,
       "name": "Hymn for the Weekend",
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
@@ -8179,7 +8215,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 173240,
       "name": "I GOT YOU (Original)",
       "url": "https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA"
@@ -8403,7 +8439,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -10449,7 +10485,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -10651,7 +10687,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -11749,7 +11785,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -15725,7 +15761,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -16585,7 +16621,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 152186,
       "name": "Super Lady",
       "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
@@ -18729,7 +18765,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-12",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -20289,7 +20325,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 249586,
       "name": "\u5929\u5929\u597d\u5929",
       "url": "https://open.spotify.com/track/2Cf2X7XDK3yeDpLioM6vWk"
@@ -20391,6 +20427,24 @@
       "duration_ms": 321040,
       "name": "\u600e\u9ebc\u4e86",
       "url": "https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm"
+    },
+    {
+      "album": {
+        "name": "\u5929\u5929\u597d\u5929\u597d\u798f\u6c14",
+        "url": "https://open.spotify.com/album/6fshgZlyva5XbhNcuapkOY"
+      },
+      "artists": [
+        {
+          "name": "MY ASTRO",
+          "url": "https://open.spotify.com/artist/7bmFi3dRcpOeOPbSlxIjlZ"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "\u606d\u559c\u53d1\u8d22",
+      "url": "https://open.spotify.com/track/4SDiO7ffalpSPuxn8dXUwh"
     },
     {
       "album": {
@@ -20675,7 +20729,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 248746,
       "name": "\u798f\u6c14",
       "url": "https://open.spotify.com/track/34TXA0sqlyMPPt2mvaJryV"
