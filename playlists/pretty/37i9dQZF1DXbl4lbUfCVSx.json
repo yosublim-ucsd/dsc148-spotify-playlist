@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 30851,
+  "num_followers": 30856,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTcyNmMwNTBkMzJjNDk0NzNhZWQxNzk5NTEwNDYwMDMwZmRlZmM5",
+  "snapshot_id": "MCwxM2VkMDc1Y2FhMDAwMmNiYWFmMTZjZDIwOWMzYWNiNTQ3ODIxMzg5",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -183,22 +183,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "F\u00f2k T\u00e8t Ou La",
-        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
-      },
-      "artists": [
-        {
-          "name": "Roody Roodboy",
-          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "Kenbe'l La",
-      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "The Very Best Of Jackito (Pou ti moun yo)",
         "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 292362,
       "name": "Je l'aime \u00e0 mourir",
       "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "F\u00f2k T\u00e8t Ou La",
+        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
+      },
+      "artists": [
+        {
+          "name": "Roody Roodboy",
+          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "Kenbe'l La",
+      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 247663,
       "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
       "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2020-06-03 18:17:45",

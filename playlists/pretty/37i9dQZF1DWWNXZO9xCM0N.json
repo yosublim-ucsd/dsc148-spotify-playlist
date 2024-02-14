@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 76678,
+  "num_followers": 76725,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmZjMzMyOGExNzAxOTdjYjIzMTA5NjExZThlMjZlNTQwNzQ0MGRi",
+  "snapshot_id": "MCw2NGM2OTczMjkwODA0OGU5Mzc0Y2ViNWRiNGZkM2MyMjNjZDE3OTlh",
   "tracks": [
     {
       "added_at": "2022-01-11 21:31:49",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Charanga Moderna",
-        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 160115,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "Roberto Roena Y Su Apollo Sound",
         "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 199049,
       "name": "Tu Loco Loco Y Yo Tranquilo",
       "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Acid",
-        "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
+        "name": "El Progreso",
+        "url": "https://open.spotify.com/album/1aWWLbbcL2NK8V3sqWtAZn"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 307173,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr"
+      "duration_ms": 367293,
+      "name": "Guaguanc\u00f3 Del Adios",
+      "url": "https://open.spotify.com/track/0KPajt76dlg67yRg1RlDvC"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "El Progreso",
-        "url": "https://open.spotify.com/album/1aWWLbbcL2NK8V3sqWtAZn"
+        "name": "Acid",
+        "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
       },
       "artists": [
         {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
         }
       ],
-      "duration_ms": 367293,
-      "name": "Guaguanc\u00f3 Del Adios",
-      "url": "https://open.spotify.com/track/0KPajt76dlg67yRg1RlDvC"
+      "duration_ms": 307173,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr"
     },
     {
       "added_at": "2022-01-11 21:31:49",

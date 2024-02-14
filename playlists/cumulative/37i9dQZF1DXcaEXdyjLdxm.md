@@ -4,7 +4,7 @@
 
 > LGBTQIA+ artists like you've never heard before\. Cover: Joy Oladokun
 
-82 songs - 5 hr 6 min
+84 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Brass In Pocket](https://open.spotify.com/track/2esVltp50GeZiNSaUgQ6eD) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/72M2jrnfa3nubQ8W0TYt1v) | 4:01 | 2023-06-01 |  |
 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 | 2021-05-25 |  |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2022-06-01 |  |
-| [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-05-25 |  |
+| [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/48wHLOsYnlfKdMnbhB0KVR) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/1qQmZJt638Nr5xbhsGWQgj) | 4:01 | 2023-06-01 |  |
+| [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-05-25 | 2024-02-14 |
 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 | 2022-06-01 |  |
 | [Consideration \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 2:22 | 2021-05-25 |  |
 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 | 2021-05-25 |  |
@@ -43,7 +44,8 @@
 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0j9H23budFofKvlObjf9o4) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/47NeUjqABCu1kEXNT3zBYp) | 2:51 | 2023-01-20 |  |
 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2mbwAG0wfGJBQR4AH1Ylgt) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/14vae1IgYxB3hpcDuDRgoV) | 2:51 | 2021-05-25 | 2023-05-24 |
 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IwBFpU8nV0pPs4iIR5dmr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/0uW1J7ogGpaRIFLXUQVkMa) | 2:51 | 2021-05-25 | 2023-04-19 |
-| [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2021-05-25 |  |
+| [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2021-05-25 | 2024-02-14 |
+| [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4WxVFeTim6kVU6e3mlysV8) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/1qQmZJt638Nr5xbhsGWQgj) | 4:14 | 2023-06-01 |  |
 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/42SrFsBezRR2t8nGutWuyu) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/47NeUjqABCu1kEXNT3zBYp) | 2:40 | 2023-01-20 |  |
 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4QG9LSMCNvqfiWYav9WuHC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/0uW1J7ogGpaRIFLXUQVkMa) | 2:40 | 2021-05-25 | 2023-04-19 |
 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7vG0AFDMYvlZCDNEmuRkEf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/14vae1IgYxB3hpcDuDRgoV) | 2:40 | 2021-05-25 | 2023-05-24 |

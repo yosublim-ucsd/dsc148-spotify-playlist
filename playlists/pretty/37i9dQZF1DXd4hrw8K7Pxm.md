@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,878 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,883 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 45 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 |
 | 46 | [Happy \(Acoustic\)](https://open.spotify.com/track/1x1gLI1YkA90lPp9QZ9PQQ) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [UnCovered](https://open.spotify.com/album/4MjJg3GMvdo85uZkpInk5D) | 2:36 |
 | 47 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
-| 48 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
+| 48 | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/track/3ioF46MzYIpZYHAf7700ba) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/5kn1D2FuKuSRG98VSrYxnB) | 3:33 |
 | 49 | [I Should've Known Better](https://open.spotify.com/track/1ZwuOZGxT9D1s1xUtsKAd9) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [This Side](https://open.spotify.com/album/22nQdZSid64plYdy5zRHew) | 4:27 |
 | 50 | [Yellow](https://open.spotify.com/track/2wrRcjk6zBa1IcZWOwBAxy) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/5d5Ekx6AcVFzC2lJyVQCbH) | 4:14 |
 | 51 | [When We Were Young](https://open.spotify.com/track/1YVoMqzFOpoDIOKDobMnbf) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [When We Were Young](https://open.spotify.com/album/4KCOBJ333wMPqlZEDemk2w) | 4:34 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 53 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 |
 | 54 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 |
 
-Snapshot ID: `MCw4MmUzZDJkYWM5MWMwYmNkZjQ5ODNhNjY5Mjg2NDE4NDBhY2Y3YTQy`
+Snapshot ID: `MCxlZjdhNTkyNmUxYzAyZTIzZDU3OGZlNTM1MzgxYzc3M2QxZGNmNDgz`

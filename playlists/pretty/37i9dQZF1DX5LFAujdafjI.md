@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > For your pre\-games, afters, spurts of manic cleaning, and everything in between\. Curated by the Portola Festival Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,822 likes - 88 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,897 likes - 88 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 6 | [North Africa](https://open.spotify.com/track/5Hxt6SI3YUaW8oatH5yMAU) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [North Africa](https://open.spotify.com/album/1YHrjXshr4bkzDP9lOwaBu) | 6:02 |
 | 7 | [Goodbye \- Erol Alkan Rework / Edit](https://open.spotify.com/track/0lAlWP7VEoIdwwVL6W6dww) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Goodbye \(Erol Alkan Rework\)](https://open.spotify.com/album/1TmEY1AfhFMbGpOb9Uq3gM) | 4:05 |
 | 8 | [Warning \(feat\. Gappy Ranks\)](https://open.spotify.com/track/0rWsMiknNVW2TxEo0afPUJ) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 1:21 |
-| 9 | [Everybody In The Place \- Fairground Remix](https://open.spotify.com/track/5O0lJp1fbKe7a8Hksc6KL7) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p) | 5:08 |
+| 9 | [Everybody in the Place \- Fairground Remix](https://open.spotify.com/track/5O0lJp1fbKe7a8Hksc6KL7) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p) | 5:08 |
 | 10 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 11 | [Snakes Crawl \- East Village Mix](https://open.spotify.com/track/2cjgYQF4OqfM8Xgl7vV4No) | [Phil Kieran](https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5), [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Snakes Crawl EP](https://open.spotify.com/album/1hc74ZF3XlNoCN4BBCWHIO) | 4:08 |
 | 12 | [Cherry Pop](https://open.spotify.com/track/1H8qdZBtVdTfRx1tdEbscn) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Cherry Pop](https://open.spotify.com/album/2m50rIyoZ8by3xTGiYcaMY) | 4:44 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 87 | [Last Dance \- Single Version](https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Walk Away \- Collector's Edition The Best Of 1977\-1980](https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7) | 3:19 |
 | 88 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 
-Snapshot ID: `MCwzYzkyMmU2MjNlMmZmYmZhY2NmODFhMjJmODI1YzI2ZWMzOTE4ZTU1`
+Snapshot ID: `MCwwYzcxZDA2ZjQyNTc2OTE4NWQxM2NjNDFmYzhiNmUwMDBhMTMxMGY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,364 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,405 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [PSG OM \(QUAND T’ES IVRE\)](https://open.spotify.com/track/1Xzoc0xyurzRuLzHODfDAC) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [PSG OM \(QUAND T’ES IVRE\)](https://open.spotify.com/album/5u8SX1dpN4wONPYmRQu5QH) | 2:16 |
 | 40 | [Vrai visage](https://open.spotify.com/track/4hmupxfWB67RZ95TFyqvOs) | [NTH](https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s) | [Vrai visage](https://open.spotify.com/album/5khBhQxdPVowT9kyGvPaPb) | 1:57 |
 
-Snapshot ID: `MCwwZWQ1NzZjNTk0MzQ5YjY4OGMxMThmOGMxN2YzOWE4ZTlmYzg5ZWEz`
+Snapshot ID: `MCwyMDY5YTBjYTcwM2YwN2NmMDFjMmFlZTMxMzllMzM1NjY1YWExNzVk`

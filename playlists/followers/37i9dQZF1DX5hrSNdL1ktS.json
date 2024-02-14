@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 130876,
+  "2024-02-14": 131074,
   "date_first_scraped": "2022-01-09",
   "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Bellakath en portada ",
   "name": "Reggaet\u00f3n Mexa ",
@@ -3851,7 +3851,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 105312,
       "name": "Independiente",
       "url": "https://open.spotify.com/track/2dxdN5XWeLM1BgbocLLGgw"
@@ -9695,6 +9695,28 @@
       "duration_ms": 203265,
       "name": "Vamos A Cachondear",
       "url": "https://open.spotify.com/track/2TCNp7wRj91Ho1IUnrslr3"
+    },
+    {
+      "album": {
+        "name": "100 % Mexicano",
+        "url": "https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K"
+      },
+      "artists": [
+        {
+          "name": "La Dinastia",
+          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
+        },
+        {
+          "name": "Andres Castillo",
+          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245186,
+      "name": "Vaquero",
+      "url": "https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz"
     },
     {
       "album": {

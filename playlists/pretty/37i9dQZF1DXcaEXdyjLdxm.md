@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 
 > LGBTQIA+ artists like you've never heard before\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,011 likes - 52 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,015 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 | 29 | [Slip Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4LtOPAPRHxFCRqC0gp4i7N) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi) | 2:48 |
 | 30 | [Love Somebody](https://open.spotify.com/track/6dJVRp70guN5aFRFT0htGT) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/72M2jrnfa3nubQ8W0TYt1v) | 5:10 |
 | 31 | [Softly \- Spotify Singles](https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:32 |
-| 32 | [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 |
+| 32 | [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4WxVFeTim6kVU6e3mlysV8) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/1qQmZJt638Nr5xbhsGWQgj) | 4:14 |
 | 33 | [U SHOULD](https://open.spotify.com/track/32eUIMWxykqVBsXeEpcTd3) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 4:17 |
 | 34 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 |
 | 35 | [Go Away \- Spotify Singles](https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:35 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 | 48 | [Los Ageless \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 4:13 |
 | 49 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0j9H23budFofKvlObjf9o4) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/47NeUjqABCu1kEXNT3zBYp) | 2:51 |
 | 50 | [The Joke \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4yJnoVnotlMN9i0nMBeiDz) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 4:19 |
-| 51 | [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 |
+| 51 | [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/48wHLOsYnlfKdMnbhB0KVR) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/1qQmZJt638Nr5xbhsGWQgj) | 4:01 |
 | 52 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 
-Snapshot ID: `MCwwODE5YmY1YzQxOGE3NDNmMzAwMjUwYjkzN2E2OGY4NjY5YzhhYjA2`
+Snapshot ID: `MCxiZmU5YjcwM2M5OWNmMzAzM2ZmM2FjN2ZiMjNmMDVjNzIwNDc2NjFk`

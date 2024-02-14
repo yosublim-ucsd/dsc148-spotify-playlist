@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Néza
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,581 likes - 45 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,585 likes - 45 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 44 | [ORMAI](https://open.spotify.com/track/3M7tqi0Ebb4AoSEhuYaY1f) | [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [ORMAI](https://open.spotify.com/album/2T5LTATAl3rPJIJins2Gws) | 2:07 |
 | 45 | [Federico](https://open.spotify.com/track/4ERrFf4AtLQAcLlsgtv29z) | [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [Federico](https://open.spotify.com/album/4doOQDtIkkjGr2Hz77cjLT) | 3:11 |
 
-Snapshot ID: `MCw2ZjkyZGI2OTYzN2IyNDljYzllYjBkMmI2YmFkYjg5YzY3ZmY5MzA5`
+Snapshot ID: `MCxhNDA0NDZjY2FhZGNjNjY5YmVmM2Q4ODQwNWEzN2VjMmZiM2FjYzJl`

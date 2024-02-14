@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 121791,
+  "2024-02-14": 121789,
   "date_first_scraped": "2022-06-15",
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
   "name": "Escena Electr\u00f3nica Experimental",
@@ -2251,7 +2251,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 265125,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58"
@@ -2273,6 +2273,24 @@
       "duration_ms": 204000,
       "name": "Sacramento",
       "url": "https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO"
+    },
+    {
+      "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/2yBuvBA6n5inzfwS3t39aR"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227317,
+      "name": "Sarita Colonia (Edit)",
+      "url": "https://open.spotify.com/track/1xyL83ASVAiQETQcEWctGc"
     },
     {
       "album": {

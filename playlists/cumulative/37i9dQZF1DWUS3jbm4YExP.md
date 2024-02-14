@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-659 songs - 1 day 23 hr 21 min
+660 songs - 1 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Black Times \- Radio Edit](https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Black Times](https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8) | 4:55 | 2021-10-06 | 2022-04-14 |
 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 | 2024-01-11 |  |
 | [Blowing Up Gates](https://open.spotify.com/track/4u9xudffDc3RObR7Bnkusl) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Blowing Up Gates](https://open.spotify.com/album/4KexPUHmQNbhRY8c0873PS) | 4:22 | 2023-03-31 | 2023-05-13 |
-| [Boogie](https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS II](https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw) | 5:48 | 2023-08-31 |  |
+| [Boogie](https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS II](https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw) | 5:48 | 2023-08-31 | 2024-02-14 |
 | [Boogie](https://open.spotify.com/track/1udnVMUpzoMzVdHI5FnhQO) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS II](https://open.spotify.com/album/6GJ3n96Nj0u2E6YhAngJko) | 5:48 | 2021-10-06 | 2022-10-01 |
 | [Boogie With Your Baby](https://open.spotify.com/track/6eVf9JIPNNEZ9xAwKTG4cx) | [Funkool Orchestra](https://open.spotify.com/artist/4gaQmpOSxtcveUg7jdcC6i), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Boogie With Your Baby](https://open.spotify.com/album/0JRKtByiknT9qvpDQVy3ui) | 4:13 | 2022-09-11 | 2022-11-13 |
 | [Boom!](https://open.spotify.com/track/2gsD0Bf0Bb0UCaSlWenzMD) | [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [John Turrell](https://open.spotify.com/artist/3Odb0uTggeSc8OefBAE3Av) | [My Life at 45, Pt\. 4](https://open.spotify.com/album/6vAvbAt502YomvMJ0Rrh7U) | 3:29 | 2021-10-06 | 2022-04-18 |
@@ -354,8 +354,9 @@
 | [Long in the Tooth](https://open.spotify.com/track/7ETH5mL8eLwdrx0cwQiLk9) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/1WPyaakyltoX2ZdUUCWINv) | 3:41 | 2021-10-06 | 2022-07-29 |
 | [Look Out The Window](https://open.spotify.com/track/05oCYQlSY9j7JSsWcbDHjk) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [UPRISE](https://open.spotify.com/album/4GjHhGjiJZTlctbH6DKp0E) | 3:10 | 2023-06-23 | 2023-07-19 |
 | [Lotus](https://open.spotify.com/track/3oLDvpwu9s6DxzIxNlnETC) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Lotus](https://open.spotify.com/album/1ANXvmfq30QlV1220p71bh) | 3:22 | 2021-10-06 | 2022-07-19 |
-| [Lotus](https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers](https://open.spotify.com/album/3MzZNd1GFSCkb40EBv326G) | 3:24 | 2023-08-07 | 2023-12-13 |
+| [Lotus](https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers](https://open.spotify.com/album/3MzZNd1GFSCkb40EBv326G) | 3:24 | 2023-08-07 |  |
 | [Lotus](https://open.spotify.com/track/6o8TnSHigKVdqxXDVtmbIx) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers \(Doğu Çiçekleri\)](https://open.spotify.com/album/1Z821RvawUQZ5ExkogGKCU) | 3:24 | 2021-10-06 | 2022-07-08 |
+| [Lovin'](https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Lovin'](https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb) | 2:01 | 2024-02-09 |  |
 | [Lupita](https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:42 | 2023-12-20 |  |
 | [Ma'a Ibnat](https://open.spotify.com/track/2PQePG0V7qY5svFvwKoFvF) | [Ouiness](https://open.spotify.com/artist/3OatvQHeTWSnkuKDvvfVnd) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 2:52 | 2021-10-06 | 2022-01-14 |
 | [Macumba de Marea](https://open.spotify.com/track/34NHlhFXYug6lChbveHIVU) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z) | 5:11 | 2022-04-26 | 2022-07-29 |
@@ -435,7 +436,7 @@
 | [Noko Hewon](https://open.spotify.com/track/0lNND4ICbiZEXahwxtl8OX) | [Afrik Bawantu](https://open.spotify.com/artist/2cfMyJQIEEqNhfiqQ24bUW) | [Noko Hewon](https://open.spotify.com/album/5eO68ZD9iOVu08B6LveM11) | 6:34 | 2021-10-06 | 2022-04-27 |
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2021-10-06 | 2023-04-30 |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-06 | 2022-07-29 |
-| [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2023-08-07 |  |
+| [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2023-08-07 | 2024-02-14 |
 | [Nuda Sorgente](https://open.spotify.com/track/23pDTmgAmsHoLfYDHDAowF) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/2G5JH90WW0A6TyE6UxKDiu) | 4:51 | 2021-10-06 | 2022-07-25 |
 | [Ojos Negros](https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Ojos Negros](https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1) | 3:44 | 2021-10-06 | 2022-08-25 |
 | [Ojos Negros](https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/5ZsRHRaOpGEYw9rjJECXR6) | [Ojos Negros](https://open.spotify.com/album/2TQo6pKbGNMHD8G2NmrhQe) | 3:44 | 2023-08-31 | 2023-11-21 |

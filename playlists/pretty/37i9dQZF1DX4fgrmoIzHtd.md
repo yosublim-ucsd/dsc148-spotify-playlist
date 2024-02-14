@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,020 likes - 69 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,033 likes - 69 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 68 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 |
 | 69 | [pocket piano](https://open.spotify.com/track/60UB9mGK9CV1PNXJ836jUQ) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 2:12 |
 
-Snapshot ID: `MCwxYzY1OWVlNjFkNzNhMWNmYzc1NzhkZTMwYjE1ZDRhMjI5MjNkNWQ0`
+Snapshot ID: `MCw5YTdjMGYyM2ZmNjIxNmU5Yzk1ODMwN2EzZjhkNzJmN2FiZjEzMjg5`

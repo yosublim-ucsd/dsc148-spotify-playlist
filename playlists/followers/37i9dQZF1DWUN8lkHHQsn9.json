@@ -1,7 +1,7 @@
 {
-  "2024-02-13": 8111,
+  "2024-02-14": 8126,
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:09GfElZ8wfFoJyaHNbSaan\">Sophie Szklarska</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:0e06gUDSCntc3X6v8mL6kk\">Kamil Kowalski</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -487,7 +487,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 226951,
       "name": "Doce\u0144 mnie",
       "url": "https://open.spotify.com/track/6hefvt4zHSlasqnqWe59tY"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
@@ -822,6 +822,24 @@
     },
     {
       "album": {
+        "name": "dzi\u0119kuj\u0119 nie pij\u0119",
+        "url": "https://open.spotify.com/album/30AhJNPsHBx3TXpJ1WfJWV"
+      },
+      "artists": [
+        {
+          "name": "ania cringe",
+          "url": "https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "dzi\u0119kuj\u0119 nie pij\u0119",
+      "url": "https://open.spotify.com/track/1cxU9NzGl8Fa5mobu7dQzg"
+    },
+    {
+      "album": {
         "name": "Magister",
         "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
       },
@@ -837,6 +855,24 @@
       "duration_ms": 160712,
       "name": "Evangelion",
       "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
+    },
+    {
+      "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97225,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g"
     },
     {
       "album": {
@@ -949,7 +985,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 395000,
       "name": "Girls, Gays, People",
       "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
@@ -989,6 +1025,24 @@
       "duration_ms": 215493,
       "name": "Head in The Sky",
       "url": "https://open.spotify.com/track/5qLtgcbN26a38JV6VY26KY"
+    },
+    {
+      "album": {
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190827,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
     },
     {
       "album": {
@@ -1075,7 +1129,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 251216,
       "name": "Jeszcze mam serce",
       "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
@@ -1147,7 +1201,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 161943,
       "name": "Kiedy Chc\u0119",
       "url": "https://open.spotify.com/track/0pmfleJhXSffwFhcCwU0X4"
@@ -1245,6 +1299,42 @@
       "duration_ms": 169759,
       "name": "Le$bijka",
       "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "album": {
+        "name": "Lesbijski Groove",
+        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Lesbijski Groove",
+      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
+    },
+    {
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179111,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
     },
     {
       "album": {
@@ -1356,6 +1446,28 @@
     },
     {
       "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/3uZavgVWgmIxtjuRvhkUrV"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        },
+        {
+          "name": "Raff J.R.",
+          "url": "https://open.spotify.com/artist/7M5QLYpzgeunQvZiJWMOiy"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/5VOhAoMnrJqSmDYU3uzpjj"
+    },
+    {
+      "album": {
         "name": "Me Me Me EP",
         "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
       },
@@ -1461,7 +1573,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 254436,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
@@ -1609,7 +1721,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 305869,
       "name": "Nieludzie (Ignorance Ha)",
       "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
@@ -1627,7 +1739,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 160836,
       "name": "niem\u00f3wmi",
       "url": "https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc"
@@ -1750,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "Once or Twice",
+        "url": "https://open.spotify.com/album/3jw76MTX5cY9nJGWfzmEde"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "Once or Twice",
+      "url": "https://open.spotify.com/track/4LThfO3v9lOyfgxhDz0Nz0"
+    },
+    {
+      "album": {
         "name": "Organic Love",
         "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
       },
@@ -1815,7 +1945,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Parlez Vous Francais",
       "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
@@ -1881,6 +2011,24 @@
       "duration_ms": 203505,
       "name": "Piruet i salto",
       "url": "https://open.spotify.com/track/2ym23Le3ixHJoEnbtHeB3j"
+    },
+    {
+      "album": {
+        "name": "po m\u0119sku",
+        "url": "https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226893,
+      "name": "po m\u0119sku",
+      "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
     },
     {
       "album": {
@@ -2312,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "romantyzuj\u0119 przesz\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/20IlKsdw4YrL4eMXqnZj9W"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188697,
+      "name": "romantyzuj\u0119 przesz\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/70LuJ7rdBQQlDBzzfIcC2f"
+    },
+    {
+      "album": {
         "name": "Dla nas dom",
         "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
       },
@@ -2471,10 +2637,40 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 159985,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ"
+    },
+    {
+      "album": {
+        "name": "Spicy (Lulu x Uaziuk Remix)",
+        "url": "https://open.spotify.com/album/2clwWQQcD6CTDJK6wSm94L"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        },
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "Spicy (Lulu x Uaziuk Remix)",
+      "url": "https://open.spotify.com/track/4wz4d6QxhgN4GfiN3bFjfA"
     },
     {
       "album": {
@@ -2709,7 +2905,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 200419,
       "name": "Super",
       "url": "https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB"
@@ -2927,7 +3123,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 250208,
       "name": "VITAY - Avtomat Remix",
       "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
@@ -3047,6 +3243,28 @@
       "duration_ms": 168387,
       "name": "Wracam",
       "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+    },
+    {
+      "album": {
+        "name": "Seks Ikona",
+        "url": "https://open.spotify.com/album/4uMCFACvivVJ50Q6l2VG8I"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118956,
+      "name": "Wyruchaj Mi Cip\u0119",
+      "url": "https://open.spotify.com/track/2aK05lGD2BMcJ6dMw0AU45"
     },
     {
       "album": {

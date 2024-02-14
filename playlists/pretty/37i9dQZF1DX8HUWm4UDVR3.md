@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,849 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,859 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 |
 | 50 | [État normal](https://open.spotify.com/track/5gpNCEmwRtF9WmlVc3y9RJ) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [État normal](https://open.spotify.com/album/0JwKhFsPG4KIkGZeQy0YWY) | 2:18 |
 
-Snapshot ID: `MCwzYjgwM2E2Nzk1OGRlMzlkYjk0MTk3YjBmMGU2ZTNlMjBhNjg4Mzky`
+Snapshot ID: `MCwwNzQ5ZDEyMWZiYmI0YTE0N2YyZmNiZDRlMTA3ZDA2OTAyNWQ4MmIy`

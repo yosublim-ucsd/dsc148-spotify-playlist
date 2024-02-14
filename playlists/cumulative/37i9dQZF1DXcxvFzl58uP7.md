@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-923 songs - 1 day 23 hr 56 min
+924 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Huron Disko](https://open.spotify.com/track/56Ydhy30ogSmTKTyDxcirY) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [cartoon therapy](https://open.spotify.com/album/1JvMNlu1GNdxsoBTTdR3AL) | 3:21 | 2021-06-04 | 2022-07-29 |
 | [I Can't Dance](https://open.spotify.com/track/0NOgjn2s5fAGJ2n3OBcei4) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [I Can't Dance](https://open.spotify.com/album/7xCWlgPhIPrKWmqpUaSpDJ) | 3:34 | 2019-09-19 | 2021-05-24 |
 | [i can't sleep](https://open.spotify.com/track/3y3wEiN8vcWl2DxaxL7gNC) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [i can't sleep](https://open.spotify.com/album/1hqF9QEWGcPsmvuX5u99xm) | 2:42 | 2021-06-04 | 2022-04-21 |
+| [i do luv u](https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [i do luv u](https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u) | 2:28 | 2024-01-12 |  |
 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 | 2019-07-30\* | 2023-08-26 |
 | [I Don't Mind](https://open.spotify.com/track/33iMrb3cPhB0xsfa6oe1m1) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [I Don't Mind](https://open.spotify.com/album/3HbhINPL6vHOP6B8M1TPAk) | 2:39 | 2021-05-03 | 2021-05-28 |
 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 | 2020-08-11 | 2021-08-27 |
@@ -807,7 +808,7 @@
 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 | 2022-04-29 | 2023-08-26 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-12-14 |  |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2019-07-30\* | 2021-05-23 |
-| [the way you looked](https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked](https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV) | 4:47 | 2023-04-28 |  |
+| [the way you looked](https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked](https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV) | 4:47 | 2023-04-28 | 2024-02-14 |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-03-04 | 2022-04-17 |
 | [Things](https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Things](https://open.spotify.com/album/17wHZzdt9MISwYibdDDlrX) | 3:19 | 2021-03-05 | 2022-04-18 |
 | [things will be okay](https://open.spotify.com/track/35Feq1SAHCfZRNqdwICtCJ) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [things will be okay](https://open.spotify.com/album/6yKaFwXJAP7LO37E1ugRMX) | 2:14 | 2021-07-02 | 2022-04-14 |

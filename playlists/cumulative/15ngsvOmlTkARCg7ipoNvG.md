@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,671 songs - 1 day 10 hr 55 min
+1,676 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | [Inhale](https://open.spotify.com/track/14uLHjWmzVzUSWURCtXTWz) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:36 | 2022-01-20 |  |
 | [Inner Frost](https://open.spotify.com/track/5CqSikTVudc3u3UQK00MC4) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Minor Trios](https://open.spotify.com/album/0VLF9xirOdJFjSVdZiQ4gt) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Inspire](https://open.spotify.com/track/0LCiqZ3eTBzPUNb4k6F6Je) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Inspire](https://open.spotify.com/album/3v9S2L1xrOAwOFECQi63uh) | 1:00 | 2024-01-15 |  |
+| [Inspire \- Ambient Violin Version](https://open.spotify.com/track/3ozqSZJ4HXijk8JZ8WrxdD) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Inspire \(Ambient Violin Version\)](https://open.spotify.com/album/2s9lPPloy1X2sauQUyHf9S) | 1:00 | 2024-02-13 |  |
 | [Inspire Reimagined](https://open.spotify.com/track/7fHL05CaCEwHiCmifjDrIG) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Ambient Cello Echoes](https://open.spotify.com/album/13Q34vj79HCx2ARhaEYUCC) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Instance](https://open.spotify.com/track/3gH7MJ8mKfrodFIcRjciif) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Nostalgia](https://open.spotify.com/album/09h6orKxpUXHgmDRBt9Z06) | 1:17 | 2022-01-12 |  |
 | [Instance Lullaby](https://open.spotify.com/track/09J7hmvzTRs10UtIiLga6I) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Here](https://open.spotify.com/album/7iNn2dwf5X85GZidRJWUoU) | 1:06 | 2022-02-24 | 2024-01-30 |
@@ -848,6 +849,7 @@
 | [Lost](https://open.spotify.com/track/6a6d6LLm6vt7LDX5T2ibMv) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello, Vol\. 3](https://open.spotify.com/album/7ELrtNsJJkAHObrCoFfh6O) | 1:14 | 2024-02-09 | 2024-02-13 |
 | [Lost Again](https://open.spotify.com/track/3oarKalHVJNfxDxNOeFtF5) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Three Lines](https://open.spotify.com/album/7aY2g4RCd4JQKCSSOkDqhx) | 1:15 | 2024-01-29 |  |
 | [Lost in Forever](https://open.spotify.com/track/0xkqrG91hBMtEvDioqd9XT) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello Reflections](https://open.spotify.com/album/3a4E60s56WkQRylOD84uJB) | 2:24 | 2022-01-12 | 2024-01-30 |
+| [Lost In Light](https://open.spotify.com/track/4UktmFHfL7zuOsrYWCRGmy) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Lost In Light](https://open.spotify.com/album/11GPFpl4G8ReY18859faJK) | 1:00 | 2024-02-13 |  |
 | [Lost In Our Thoughts](https://open.spotify.com/track/7BVe8r6yDehda6s9DLychW) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Moonlight](https://open.spotify.com/album/1gmMOu72TCFyH5rKC9p9Nt) | 1:15 | 2024-01-29 |  |
 | [Lounge Reflections \- Cello Version](https://open.spotify.com/track/26FEUIb5gn1fRloedHLxi0) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Lounge Reflections](https://open.spotify.com/album/5MOuQxhKChGKVoG7Ird7Qb) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Love](https://open.spotify.com/track/0H2U7PcXffuiClQ5fu86Em) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Love](https://open.spotify.com/album/0hMX3IMMFoNpE3S89AqNdc) | 1:17 | 2022-03-25 |  |
@@ -863,6 +865,7 @@
 | [Love In My Heart Arr\. For Cello](https://open.spotify.com/track/06eRuiOdZgKd91HpDwyYmQ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Love In My Heart](https://open.spotify.com/album/3VL4MWCPZCbJvYBH4ij2x4) | 1:01 | 2023-04-23 | 2024-02-13 |
 | [Love In My Heart Arr\. For Solo Piano](https://open.spotify.com/track/77NNel8OPOHfQ5heh3Ky5o) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Love In My Heart](https://open.spotify.com/album/3VL4MWCPZCbJvYBH4ij2x4) | 1:02 | 2023-04-22 | 2024-01-30 |
 | [Love In My Heart Arr\. For Strings](https://open.spotify.com/track/0UvlvcGH0cActLtKLFDvD6) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Love In My Heart Arr\. For Strings](https://open.spotify.com/album/1nWzfF7gVxFyuQ4QRGCzIs) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Love In The Distance](https://open.spotify.com/track/3YqLS5VrRvA1yeMbIRB1Vp) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Love In The Distance](https://open.spotify.com/album/1cAsH99imhVLCRod9vRL22) | 1:00 | 2024-02-13 |  |
 | [Love In The Light](https://open.spotify.com/track/07FVrAmSsMY47qZzsUCW1o) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:03 | 2022-02-03 |  |
 | [Love In Waves](https://open.spotify.com/track/1RykpvkLxvNElbBwWNuf3p) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:02 | 2022-04-20 |  |
 | [Love Is Far Away](https://open.spotify.com/track/3iTyPxqqEf8obSGfn9jvXZ) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello And Violin Preludes](https://open.spotify.com/album/7DrUaPFoYlc0vJZ3dMErA4) | 1:05 | 2024-02-09 | 2024-02-13 |
@@ -931,6 +934,7 @@
 | [Moonlight Trance](https://open.spotify.com/track/1Cwpi9k2BcBRAzBYQeHplB) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello, Vol\. 2](https://open.spotify.com/album/3y0DEFk8odb03r1RXx9r0D) | 1:13 | 2024-02-09 | 2024-02-13 |
 | [Moonshine Arr\. For Cello And Piano](https://open.spotify.com/track/0Eg7oFTySCgBzJ35Kis4vD) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Winter Shadows](https://open.spotify.com/album/2YYMwsK9i3Qz90Kb0jmbF0) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [More](https://open.spotify.com/track/0KF1mJLEkeWveEYzXAuc4j) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [More](https://open.spotify.com/album/7IKok78zcPw1Ec7G5hk8nM) | 1:00 | 2024-01-27 |  |
+| [More \- Ambient Violin Version](https://open.spotify.com/track/1VroPXsxIpH6yasNkjI9xH) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [More \(Ambient Violin Version\)](https://open.spotify.com/album/4mEIaCC4ACTHMSKfbmm9GK) | 1:00 | 2024-02-13 |  |
 | [More Reimagined](https://open.spotify.com/track/6dbli76sy552rueJTzo2pi) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Ambient Cello Echoes](https://open.spotify.com/album/13Q34vj79HCx2ARhaEYUCC) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Morning](https://open.spotify.com/track/6BxMBQtlvEoQk9a51rwQnI) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Morning](https://open.spotify.com/album/4QgJAGgj8sj8ctk70MhqvO) | 1:00 | 2023-11-01 |  |
 | [Morning Arr\. For Harp And Cello](https://open.spotify.com/track/7sH29jhtGMChCID6N77kbJ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Morning Arr\. For Harp And Cello](https://open.spotify.com/album/4bUVYHJSAbraRzQF2HjCFN) | 1:00 | 2023-11-02 |  |
@@ -964,6 +968,7 @@
 | [My Lighthouse](https://open.spotify.com/track/6oakFoRGR4AkbPLhSyJB96) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [My Lighthouse](https://open.spotify.com/album/6cnuMap6VkkhWteEzpm7MY) | 1:50 | 2022-01-12 | 2024-02-13 |
 | [My Love](https://open.spotify.com/track/72SEbDcPbIIZyxBlR5U1jC) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:35 | 2022-01-12 | 2024-01-30 |
 | [My Open Heart](https://open.spotify.com/track/2ty2PfQCfGUaYKnlFM2rsN) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Homeward Bound](https://open.spotify.com/album/2hNoqAr3GbLHwASZS5mmTU) | 1:01 | 2022-04-16 |  |
+| [My Open Heart \- Ambient Cello Version](https://open.spotify.com/track/4GQrUynYm5y8hp6GK5tcnJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [My Open Heart \(Ambient Cello Version\)](https://open.spotify.com/album/5Z7IVIvRPlnqGB6UQ5kggn) | 1:00 | 2024-02-13 |  |
 | [Mysterious Hope](https://open.spotify.com/track/5TIdwYmfkKXkiXB2K4Wlkl) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:02 | 2022-03-02 |  |
 | [Mysterious Skies](https://open.spotify.com/track/2MQQvgp2C2LWxGTPQUDGxc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:45 | 2024-01-29 |  |
 | [Mystery Within](https://open.spotify.com/track/39bVp9knilos2IIKcm2otF) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Mystery Within](https://open.spotify.com/album/7nAchhMFoBJ7ffVp7FRav5) | 1:01 | 2024-02-09 | 2024-02-13 |

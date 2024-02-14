@@ -4,7 +4,7 @@
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-390 songs - 11 hr 25 min
+391 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Brahms Lullaby](https://open.spotify.com/track/6ffUjpr83utMRU2X4BDu63) | [Lucy Bennett](https://open.spotify.com/artist/2gpFIVZUCq1gf8RALTZaWj) | [Brahms Lullaby](https://open.spotify.com/album/6hw4US0vWulw2mwHkI6W2B) | 1:39 | 2023-12-08 |  |
 | [Breathing](https://open.spotify.com/track/4QCKiWC9Q2IMiASCzlAXPv) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Breathing](https://open.spotify.com/album/4O1Q00FDVBKrb7Gw9sbmWe) | 1:34 | 2023-12-08 |  |
 | [Brother John](https://open.spotify.com/track/0Fz2W2KGI7rXDf0HjOhRa7) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Amazing Grace](https://open.spotify.com/album/7tSnOYZYhCkvt1k1l2vkKq) | 2:05 | 2023-12-08 |  |
+| [Bruce the Goat](https://open.spotify.com/track/47IJNymEVbgixhvSxFKC2Z) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Bruce the Goat](https://open.spotify.com/album/7nzrD3m5ThBsl7wjfbjWLM) | 2:48 | 2024-02-09 |  |
 | [Bumblebee](https://open.spotify.com/track/65fSxKtJRjmt0XGDFnACUp) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [Bumblebee](https://open.spotify.com/album/1TfjkMXApV7f5j2yYJtM5B) | 2:29 | 2023-12-08 | 2024-01-11 |
 | [Bumblebee's Song](https://open.spotify.com/track/0X6Y8tfzEVVSouA435bMzO) | [Mia Sander](https://open.spotify.com/artist/0LnIcNhu7arRU9zzbCuYA7) | [Bumblebee's Song](https://open.spotify.com/album/4benOw3tOOgAzTsvOzbPAg) | 1:46 | 2023-12-08 |  |
 | [Butterflies](https://open.spotify.com/track/6911enshoKYsen0CF2rLwq) | [Carlton Howland](https://open.spotify.com/artist/2w3kf88cpyF3SyYN0iGocx) | [Butterflies](https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF) | 1:14 | 2023-12-08 |  |
@@ -112,7 +113,7 @@
 | [Forty Winks](https://open.spotify.com/track/12hsUtXbw42EW5J31xlyWS) | [Layla Heighway](https://open.spotify.com/artist/49OhQZeKEzJ7lg9wy3r7XH) | [Forty Winks](https://open.spotify.com/album/02Nt429fqotbeN3OUb0xxr) | 1:30 | 2023-12-08 |  |
 | [Frances My Furry Friend](https://open.spotify.com/track/0w2QlM4SIRqCUfiwNOGPQ0) | [Joanna Carlton](https://open.spotify.com/artist/7dXo2q3715N1By7UKzdBkN) | [Frances My Furry Friend](https://open.spotify.com/album/4RsU57LZ5ncHr7DfxagMvd) | 1:56 | 2023-12-08 |  |
 | [Frog On A Leaf](https://open.spotify.com/track/1ljnxWnU5FnfBGS7JNtRut) | [Anita Nightingale](https://open.spotify.com/artist/2k7EJjhofUBtbOosFYuiCQ) | [Frog On A Leaf](https://open.spotify.com/album/4NrH1RwY1aQWPxBMrqHxI5) | 1:05 | 2023-12-08 |  |
-| [From Head to Toe](https://open.spotify.com/track/6Qd9yQDg4SSaijJsJYk3dh) | [Bente Schultz](https://open.spotify.com/artist/0Ylc8FsQMFHOfc65S2ykPJ) | [From Head to Toe](https://open.spotify.com/album/6ySkCcqM4M8BCqJFSnmIoD) | 2:05 | 2023-12-08 |  |
+| [From Head to Toe](https://open.spotify.com/track/6Qd9yQDg4SSaijJsJYk3dh) | [Bente Schultz](https://open.spotify.com/artist/0Ylc8FsQMFHOfc65S2ykPJ) | [From Head to Toe](https://open.spotify.com/album/6ySkCcqM4M8BCqJFSnmIoD) | 2:05 | 2023-12-08 | 2024-02-14 |
 | [Fun Adventure](https://open.spotify.com/track/3LwAe77XnL0B49uC6jDVTh) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [Fun Adventure](https://open.spotify.com/album/4r7cP73njueNrU9a95TVhT) | 2:26 | 2023-12-08 |  |
 | [Fuzzy Blanket](https://open.spotify.com/track/2OfEkQFc3cpm3t3a4ztUrj) | [Victoria Kane](https://open.spotify.com/artist/5PiuZN8Y36VoBqEvLuqiuQ) | [Fuzzy Blanket](https://open.spotify.com/album/7bCYGWUWkA1BT8C1m2UH7F) | 1:32 | 2023-12-08 |  |
 | [Gentle Sleep](https://open.spotify.com/track/5pfzZxFw8xBMhgffFsf6ZT) | [Maria Gustavo](https://open.spotify.com/artist/0iTNrCJl7pHmoN50pTNL3t) | [Gentle Sleep](https://open.spotify.com/album/1ZEh612NosVC92JWB0zY7w) | 1:47 | 2023-12-08 |  |

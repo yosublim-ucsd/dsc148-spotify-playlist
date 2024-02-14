@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Girls / Girls / Boys",
+      "url": "https://open.spotify.com/track/2wEjPgOCEczmjlvq60LyQi"
+    },
+    {
+      "album": {
         "name": "Take This to Your Grave",
         "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 192115,
       "name": "Spaghetti Tattoo",
       "url": "https://open.spotify.com/track/3SJxkDKY9w5GF0bpQrVDKy"

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 302336,
+  "num_followers": 302380,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjcwZGJmMTVjMTUyM2QzYzkzZTA3YjMxY2Q3NzkwMjI3YzdlNTk2",
+  "snapshot_id": "MCw4YmQ4OWYwNjZmNzNmNDAyMTY2NGIzMmJiZjMwMTNmNDE1YmViNDdh",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
+    },
+    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Euphories",
@@ -471,22 +487,6 @@
       "duration_ms": 147400,
       "name": "What Are You So Afraid Of",
       "url": "https://open.spotify.com/track/3KSJSi4vJedNzN32HpzGBM"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 217149,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -505,20 +505,20 @@
       "url": "https://open.spotify.com/track/5jgrg6367ewS0BgsP6eIgx"
     },
     {
-      "added_at": "2024-02-09 00:00:00",
+      "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
       "artists": [
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 180033,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
+      "duration_ms": 217149,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Only One Man (with Melody's Echo Chamber)",
         "url": "https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 190840,
       "name": "Only One Man (with Melody's Echo Chamber)",
       "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47"
     },
     {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "number own",
+        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 159032,
+      "name": "number own",
+      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
       "added_at": "2023-09-29 10:51:04",
       "album": {
         "name": "Lost In A Rush Of Emptiness",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "number own",
-        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 159032,
-      "name": "number own",
-      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2024-01-26 00:52:30",
-      "album": {
-        "name": "obliterate me",
-        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 233201,
-      "name": "obliterate me",
-      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1233,20 +1217,20 @@
       "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
+      "added_at": "2024-01-26 00:52:30",
       "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+        "name": "obliterate me",
+        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
       },
       "artists": [
         {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
         }
       ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
+      "duration_ms": 233201,
+      "name": "obliterate me",
+      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1267,6 +1251,22 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2023-07-21 10:37:28",

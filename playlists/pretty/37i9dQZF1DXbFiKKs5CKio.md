@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,119 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,120 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 44 | [Perfeita Demais](https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ) | [R0DR1](https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ) | [Perfeita Demais](https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9) | 3:20 |
 | 45 | [Canela e hortelã](https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Canela e hortelã](https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ) | 3:32 |
 | 46 | [Vapor](https://open.spotify.com/track/3KIOpE72nztAKIeIMgpccc) | [Will Bone](https://open.spotify.com/artist/1JWOHNiAEKiQrqNBqCdmga), [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Vapor](https://open.spotify.com/album/5T3eWmdly9rieFxAy2ngho) | 3:50 |
-| 47 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
-| 48 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
+| 47 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
+| 48 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
 | 49 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
 | 50 | [Noite Sem Fim](https://open.spotify.com/track/6hiFqmAtkWXIDuqDUfm8yI) | [Mixdgroove](https://open.spotify.com/artist/7C9uzbHPDku3N6vZUokNNL) | [Noite Sem Fim](https://open.spotify.com/album/3xOBahgMHPmoopICoD5mzr) | 3:51 |
 
-Snapshot ID: `MCwwZmJkZTY0Y2E5YzU1MjI5YjM3ZjJkMGVhYTdhNTRjMjIzZDZkNzZh`
+Snapshot ID: `MCxiYmI4ZWE0MjQ2NGEzMDIxODUyMDQzNTRlMjhiZDk4ZmZkNTliODEy`

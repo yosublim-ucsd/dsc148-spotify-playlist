@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-295 songs - 14 hr 17 min
+300 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Acquacalda](https://open.spotify.com/track/6dMBQNftw7Pcrg02853Qae) | [Aeolian Islands](https://open.spotify.com/artist/0IP2xuR1mgcLD2xyeA2QTD) | [Acquacalda](https://open.spotify.com/album/2o8vAog28e5fSW2zNMKL8D) | 3:10 | 2021-11-11 | 2022-02-11 |
 | [Adore](https://open.spotify.com/track/7rLY1ca0qavXjgyhDcETEh) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Adore](https://open.spotify.com/album/4y0TWPqptIt5Cy94kUEyfm) | 2:07 | 2023-02-17 |  |
 | [All Now](https://open.spotify.com/track/7AfAtvY4rhcRAnFOtvqiPU) | [Time Lines](https://open.spotify.com/artist/2gckwTYh1Gf4GZ98mzOBfa) | [All Now](https://open.spotify.com/album/1qKCsPWmjirPcP8ZHaevgP) | 2:49 | 2021-11-11 | 2022-01-22 |
+| [All or Nothing](https://open.spotify.com/track/3Cf9izrjH0e6DkhcBgyGdL) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [All or Nothing](https://open.spotify.com/album/3uaq3EMIa7Pe8yUsXAb8E2) | 2:35 | 2024-02-13 |  |
 | [Altitude](https://open.spotify.com/track/1vcSv84ppGJDv6AffZrlB3) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [Altitude](https://open.spotify.com/album/17UfAnbulhLcf2U8v9FnFn) | 2:03 | 2021-11-11 | 2022-02-11 |
 | [Another Shot](https://open.spotify.com/track/1Uc5EFttqhNXqiJsH2vfIs) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Another Shot](https://open.spotify.com/album/5g208I1FL14xlhlnzR4mb5) | 3:17 | 2022-08-16 |  |
 | [Art Nomad](https://open.spotify.com/track/5zXCk4UBemtz8m8edhQ6wN) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Art Nomad](https://open.spotify.com/album/3k5ChCpkVEfV93uIcfhQ1e) | 3:09 | 2022-05-20 | 2023-03-18 |
@@ -93,6 +94,7 @@
 | [Escarpment](https://open.spotify.com/track/5CcHSH8zYIIeqCtLeQDt49) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Escarpment](https://open.spotify.com/album/0bcBdGbBUsCbUVwoiBlzcA) | 2:37 | 2021-11-11 |  |
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2021-11-11 | 2023-02-25 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
+| [Fast Lane](https://open.spotify.com/track/1Px8Qwp440BpyKaP4d6a7h) | [racktor](https://open.spotify.com/artist/2pp14NS0R9fZR1Ih9PvOKI) | [Fast Lane](https://open.spotify.com/album/0ppanrtAHzX9U9fAwlTGGc) | 2:00 | 2024-02-13 |  |
 | [Feel Di Pulse](https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG) | [Cascaix](https://open.spotify.com/artist/7cVHoN5a6NjZ2LC8v0sFvJ) | [Feel Di Pulse](https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr) | 2:07 | 2021-11-11 | 2023-08-25 |
 | [Feelings](https://open.spotify.com/track/1VOht5xMvbnui17cF8zIKC) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/0ZgM365JmtZkBENPy5c7TV) | 2:31 | 2022-07-29 | 2022-09-17 |
 | [Feelings](https://open.spotify.com/track/6BfSu2jmPD8qk4tl3Wre3u) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Feelings](https://open.spotify.com/album/4XhTYWqq6hs3uWBdYDXdyw) | 2:31 | 2021-11-11 | 2022-07-29 |
@@ -194,9 +196,11 @@
 | [noice](https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [noice](https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT) | 1:48 | 2021-11-11 | 2022-09-02 |
 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 | 2022-06-03 |  |
 | [Old Fashioned](https://open.spotify.com/track/50VvyaIar4rnXV1twzQF8j) | [AVEVO](https://open.spotify.com/artist/2NH3ru36Tjtp62Mm3Mz2k3) | [Old Fashioned](https://open.spotify.com/album/5WpXyo5UI39l08h14H3gYe) | 2:39 | 2023-07-21 |  |
+| [Once I Was Blue](https://open.spotify.com/track/5RcrJT6Kj5rkdrYcVSqGQG) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Once I Was Blue](https://open.spotify.com/album/7oSckTig9Rl8YeTP5n1Vi0) | 3:24 | 2024-02-13 |  |
 | [Once More](https://open.spotify.com/track/1IV1l4rbdAFBOHBJTr1icq) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Once More](https://open.spotify.com/album/5S6sjt5S3sVJyUD9JR35Z9) | 2:22 | 2021-11-11 | 2022-04-15 |
 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 | 2021-11-11 |  |
-| [Only You](https://open.spotify.com/track/24Q5fLUIJ6OBv2h4fvzayF) | [Y Factor](https://open.spotify.com/artist/6Y0ggx6f5Fsb6hQF3Ge2tJ) | [Only You](https://open.spotify.com/album/0FNJ08trynaYdVegTEPSo9) | 1:51 | 2023-10-20 |  |
+| [Only You](https://open.spotify.com/track/24Q5fLUIJ6OBv2h4fvzayF) | [Y Factor](https://open.spotify.com/artist/6Y0ggx6f5Fsb6hQF3Ge2tJ) | [Only You](https://open.spotify.com/album/0FNJ08trynaYdVegTEPSo9) | 1:51 | 2023-10-20 | 2024-02-14 |
+| [orange squash](https://open.spotify.com/track/3PVZBH48fCCzE1rhY4UrqV) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [orange squash](https://open.spotify.com/album/5QGSstDQt6un8dwIhPcrGa) | 2:21 | 2024-02-13 |  |
 | [Otra Vez](https://open.spotify.com/track/2o14tGWwxb5aM4V9hFSx9f) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Olivo](https://open.spotify.com/album/4fcDiqGPdWJdZjyXJDmZu1) | 2:51 | 2022-04-15 | 2023-03-04 |
 | [Over and over](https://open.spotify.com/track/6B3yCWrksx9PrjGwu6zDzB) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Over and over](https://open.spotify.com/album/2n98PgBJ7tkXSwNVEKDakd) | 3:45 | 2022-09-16 |  |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2021-11-11 | 2022-09-09 |
@@ -300,6 +304,7 @@
 | [wild tales](https://open.spotify.com/track/5Q7WJVOQdOyr03DnkULrLm) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [wild tales](https://open.spotify.com/album/5Yrb1fhHEmgNeZo608FNF2) | 2:28 | 2022-05-20 | 2022-09-23 |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 | 2023-06-03 |
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-11 |  |
+| [You Make Winter Warm](https://open.spotify.com/track/4HxJ9Kxpaz8JUHQZRQmDYZ) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [You Make Winter Warm](https://open.spotify.com/album/3UIqGVxbKI4t0tJ0v7jshj) | 3:28 | 2024-02-13 |  |
 | [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 2:47 | 2022-01-21 | 2023-06-24 |
 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 | 2023-01-06 |  |
 | [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |

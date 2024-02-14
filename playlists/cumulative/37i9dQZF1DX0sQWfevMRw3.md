@@ -4,7 +4,7 @@
 
 > I NORRLAND ÄR DET FEST!!
 
-968 songs - 1 day 17 hr 10 min
+969 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [U & I](https://open.spotify.com/track/2MAWeEmjE8M8y2ZWFt6OSa) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Jaycee Madoxx](https://open.spotify.com/artist/7gDyK0tueVyVOu4EDAcKZU), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk) | [U & I](https://open.spotify.com/album/1RBh2SEC4tyiBi1IzaQSig) | 2:58 | 2022-01-06 | 2022-07-28 |
 | [Ung full och dum](https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Ung full och dum](https://open.spotify.com/album/0btUOD4njBKXk157NpWBpH) | 2:20 | 2022-09-29 | 2022-12-24 |
 | [UNG FÖR ALLTID](https://open.spotify.com/track/5mnlyEGP3IrdL07yv5TT4R) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [UNG FÖR ALLTID](https://open.spotify.com/album/1kyDlgoYqs2E2bprepRPid) | 2:14 | 2023-07-13 | 2023-09-01 |
+| [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 | 2024-02-13 |  |
 | [UNIDUNK](https://open.spotify.com/track/05flMhHC1if3YNdASWLNYs) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z) | [UNIDUNK](https://open.spotify.com/album/2G4qhLFJh1ryGtXli2Ts95) | 2:26 | 2023-11-09 | 2023-12-01 |
 | [Untz \- Zookeepers Remix](https://open.spotify.com/track/0K8lUzN2gLvo9wmY6wFSU8) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Miles Hi](https://open.spotify.com/artist/41Bz5o8M5l4QarFJfMJYsV), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Untz \(Zookeepers Remix\)](https://open.spotify.com/album/5bGjKPjZg6JSwlznEY1aqL) | 2:10 | 2021-12-16 | 2022-04-22 |
 | [Uppe Hela Natten](https://open.spotify.com/track/6t1VM2Scy6n5911yELH3KT) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Uppe Hela Natten](https://open.spotify.com/album/6kwKhsvbUBtYLnoM4rio5t) | 2:30 | 2022-09-29 | 2023-02-03 |

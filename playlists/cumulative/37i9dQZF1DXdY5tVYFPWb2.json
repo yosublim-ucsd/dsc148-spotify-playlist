@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "All Night (English version)",
+        "url": "https://open.spotify.com/album/4TN32WDHB2BHcXeZyWD1f7"
+      },
+      "artists": [
+        {
+          "name": "Arvin Homa Aya",
+          "url": "https://open.spotify.com/artist/4WcICNhEEm7M00TVCP4Y2P"
+        },
+        {
+          "name": "THE IMAGE",
+          "url": "https://open.spotify.com/artist/7MZGKjtu1K8crIews9Mjfp"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223977,
+      "name": "All Night (English version)",
+      "url": "https://open.spotify.com/track/6LeL6MfbgTF5lqojh2IniG"
+    },
+    {
+      "album": {
         "name": "\u6a39\u5f71",
         "url": "https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye"
       },
@@ -2154,7 +2176,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 228360,
       "name": "Donuts Mind If I Do",
       "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
@@ -2412,7 +2434,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt"
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 183164,
       "name": "I\u2019m falling for you",
       "url": "https://open.spotify.com/track/4pxDypYQKnvqYPpKQYeXUN"
@@ -4859,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "South Penguin",
+        "url": "https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188706,
+      "name": "metro",
+      "url": "https://open.spotify.com/track/394JXxh1q4g3pZKOxO5HLS"
+    },
+    {
+      "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/0LSl6mayhRd9fFCjhjiLVo"
       },
@@ -5135,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "MissU",
+        "url": "https://open.spotify.com/album/0J26JhbyEazpjqQp5mjdCc"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173338,
+      "name": "MissU",
+      "url": "https://open.spotify.com/track/1tg3VgpyHR8YmiNTyHOoaZ"
+    },
+    {
+      "album": {
         "name": "Mo ai ni",
         "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
       },
@@ -5154,6 +5212,24 @@
       "duration_ms": 178673,
       "name": "Mo ai ni",
       "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
+    },
+    {
+      "album": {
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/6OKItWV5A84GNPAYb89MQB"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/1qtPxolE1txs3mY0941zwq"
     },
     {
       "album": {
@@ -6457,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "Play The Game",
+        "url": "https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c"
+      },
+      "artists": [
+        {
+          "name": "CHEMISTRY",
+          "url": "https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206433,
+      "name": "Play The Game",
+      "url": "https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg"
+    },
+    {
+      "album": {
         "name": "TWO",
         "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
       },
@@ -7138,7 +7232,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 185393,
       "name": "Sanzameku",
       "url": "https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz"
@@ -7690,6 +7784,24 @@
       "duration_ms": 192142,
       "name": "Solotrip",
       "url": "https://open.spotify.com/track/4r4nrNB7GJzv77341QycpH"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4m9NCuWfw2kNoAR3OLpGFW"
+      },
+      "artists": [
+        {
+          "name": "RAq",
+          "url": "https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161495,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/0HLWURlbFjeNsdCxUzxbEG"
     },
     {
       "album": {
@@ -8316,7 +8428,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 222255,
       "name": "Summer Ghost",
       "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
@@ -8928,7 +9040,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 231213,
       "name": "Telephone Number",
       "url": "https://open.spotify.com/track/2Xz19t9tqo2xkExORTsNtP"
@@ -9062,7 +9174,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 229906,
       "name": "The Lady",
       "url": "https://open.spotify.com/track/3xRImSHrjR3NvA1z3m5fwL"
@@ -9740,6 +9852,24 @@
       "duration_ms": 282674,
       "name": "VeroVeroCITY",
       "url": "https://open.spotify.com/track/7f0AExSglTFH1AKjd5rP3s"
+    },
+    {
+      "album": {
+        "name": "Want You / Merry-Go-Round",
+        "url": "https://open.spotify.com/album/1Cg0oGrE8oXGgW0C64Oeqe"
+      },
+      "artists": [
+        {
+          "name": "\u967d\u771f",
+          "url": "https://open.spotify.com/artist/6Kn0OX8yBp3EqLM5PaLgN2"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189290,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/2DPxgdqVSrVeath58SUuJN"
     },
     {
       "album": {
@@ -10486,7 +10616,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 216204,
       "name": "\u3044\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
@@ -10848,7 +10978,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 243896,
       "name": "\u3060\u3063\u3066",
       "url": "https://open.spotify.com/track/175C4JA6zfA4kaId3GWmft"
@@ -11026,7 +11156,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 216730,
       "name": "\u307e\u305f\u306d",
       "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
@@ -14412,6 +14542,24 @@
       "duration_ms": 244325,
       "name": "\u7d42\u96fb\u3067\u5e30\u308a\u307e\u3059",
       "url": "https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM"
+    },
+    {
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/4AMhTOFnpqZVUJ8mesBEUj"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236166,
+      "name": "\u7dba\u9e97",
+      "url": "https://open.spotify.com/track/1VEsvrQw1j2hVBcqb13m0Y"
     },
     {
       "album": {

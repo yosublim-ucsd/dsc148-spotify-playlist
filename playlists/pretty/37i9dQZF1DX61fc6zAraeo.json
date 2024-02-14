@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 97220,
+  "num_followers": 97236,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjI4ZDE4Y2RmMGYwNjQxNGI2M2QxZDAxNzQzMDMyYjk2MjIyYmU4",
+  "snapshot_id": "MCw5MjUzZTEwMTk4Mjc4ZjdmN2ExMGM0NTE3MTE3NGNiNDA0ZWE4NzVj",
   "tracks": [
     {
       "added_at": "2024-02-07 14:44:21",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
         "name": "On My Love (New Year Hypaton Remix)",
         "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
       },
@@ -403,22 +423,22 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+        "name": "Location",
+        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 145920,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+      "duration_ms": 142123,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -439,26 +459,6 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 142123,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 150691,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 150691,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 132380,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 132380,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
-        "name": "Same Man",
-        "url": "https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Same Man",
-      "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
+        "name": "Same Man",
+        "url": "https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Same Man",
+      "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/3GaRGIbg3kk7GnvpJRxsFS"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 188809,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/3hhFeE9rlu4PKo1uSVQYBb"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 154831,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
         "name": "Dancing All Alone",
         "url": "https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 186666,
       "name": "Dancing All Alone",
       "url": "https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -1527,6 +1527,30 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
         "name": "Everytime Next To Me (feat. Robin Bengtsson)",
         "url": "https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr"
       },
@@ -1551,30 +1575,6 @@
       "duration_ms": 160949,
       "name": "Everytime Next To Me (feat. Robin Bengtsson)",
       "url": "https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
-      },
-      "artists": [
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2024-02-07 14:44:21",
@@ -1939,30 +1939,6 @@
     {
       "added_at": "2024-02-07 14:44:21",
       "album": {
-        "name": "Stand In Line",
-        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "RYVM",
-          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
-        }
-      ],
-      "duration_ms": 185451,
-      "name": "Stand In Line",
-      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
-    },
-    {
-      "added_at": "2024-02-07 14:44:21",
-      "album": {
         "name": "Nothing In Common",
         "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
       },
@@ -1999,6 +1975,30 @@
       "duration_ms": 142857,
       "name": "To The Floor (Nicky Romero Edit)",
       "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
+    },
+    {
+      "added_at": "2024-02-07 14:44:21",
+      "album": {
+        "name": "Stand In Line",
+        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "duration_ms": 185451,
+      "name": "Stand In Line",
+      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
     }
   ],
   "unique_name": "Power Up!",

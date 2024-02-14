@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Brother, Bring the Sun",
+        "url": "https://open.spotify.com/album/6t3Flungcv9zkoADU6OBkm"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Nothing Fancy",
+      "url": "https://open.spotify.com/track/4dJPijKg7uCZjnblJcnvHB"
+    },
+    {
+      "album": {
         "name": "Remembering: Vol. 1",
         "url": "https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e"
       },

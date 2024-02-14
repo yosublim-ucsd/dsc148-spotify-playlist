@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Nathalie Joachim on cover. Artwork by Thami Nabil",
-  "num_followers": 152743,
+  "num_followers": 152766,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmIwYWUxYjE4Y2NiODIxMmU0ZTQwODhiNDY4ODg1NWMyNjE2YTlj",
+  "snapshot_id": "MCw4YjJhMTIwOGFlMjgzNzZhN2ZmZWI3MmYyZDg3MzUxYTAwM2IzNjVj",
   "tracks": [
     {
       "added_at": "2024-01-24 03:58:32",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "No Way In",
-        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 246125,
-      "name": "No Way In",
-      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Sprig Songs",
@@ -225,20 +209,20 @@
       "url": "https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "In Phases",
-        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
       },
       "artists": [
         {
-          "name": "Azamiah",
-          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 58202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     },
     {
       "added_at": "2023-08-10 05:46:09",
@@ -255,6 +239,22 @@
       "duration_ms": 240250,
       "name": "setar rock",
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "In Phases",
+        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
+      },
+      "artists": [
+        {
+          "name": "Azamiah",
+          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+        }
+      ],
+      "duration_ms": 58202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -287,22 +287,6 @@
       "duration_ms": 287767,
       "name": "Werk",
       "url": "https://open.spotify.com/track/7lXZ2YOqx6Nsx0C5xSfPnZ"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2023-09-15 05:54:20",
@@ -363,6 +347,38 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "lavender's love",
+        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "lavender's love",
+      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "Junkie",
         "url": "https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg"
       },
@@ -393,20 +409,20 @@
       "url": "https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "lavender's love",
-        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
         }
       ],
-      "duration_ms": 160000,
-      "name": "lavender's love",
-      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -423,6 +439,42 @@
       "duration_ms": 123692,
       "name": "YATKAMAN3000",
       "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "wondering dub",
+        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 127015,
+      "name": "wondering dub",
+      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "The Witness",
+        "url": "https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        },
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 423767,
+      "name": "The Witness",
+      "url": "https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -449,24 +501,20 @@
       "url": "https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
+      "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "The Witness",
-        "url": "https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t"
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
       "artists": [
         {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        },
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
         }
       ],
-      "duration_ms": 423767,
-      "name": "The Witness",
-      "url": "https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl"
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -487,22 +535,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "humanus",
         "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
@@ -515,38 +547,6 @@
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "wondering dub",
-        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 127015,
-      "name": "wondering dub",
-      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2024-01-10 04:24:05",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON"
+      },
+      "artists": [
+        {
+          "name": "Sunareht",
+          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
+        },
+        {
+          "name": "Le Dom",
+          "url": "https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P"
+        }
+      ],
+      "duration_ms": 226118,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
         "name": "Diaries Beneath Fragile Glass",
         "url": "https://open.spotify.com/album/6NYmIzDYe3E2XWFmPkw3r4"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 515435,
       "name": "Instinct, Eye and Mind",
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON"
-      },
-      "artists": [
-        {
-          "name": "Sunareht",
-          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
-        },
-        {
-          "name": "Le Dom",
-          "url": "https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P"
-        }
-      ],
-      "duration_ms": 226118,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
     },
     {
-      "added_at": "2023-06-07 12:55:36",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Ghost Box",
@@ -695,6 +679,22 @@
       "duration_ms": 350005,
       "name": "Wichita",
       "url": "https://open.spotify.com/track/1UCMd6FcewF3a0tb6A7IQC"
+    },
+    {
+      "added_at": "2023-06-07 12:55:36",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
       "added_at": "2024-01-10 04:07:01",
       "album": {
         "name": "WALK LIKE",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Arcadian Daze",
         "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 199894,
       "name": "Echo Drift",
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-09-15 05:54:20",
@@ -843,6 +827,22 @@
       "duration_ms": 160693,
       "name": "Ver a Trav\u00e9s de tus Ojos",
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Latency at Villa Medici",
+        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
+      },
+      "artists": [
+        {
+          "name": "Damsel Elysium",
+          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
+        }
+      ],
+      "duration_ms": 706000,
+      "name": "27 Glass Ceilings",
+      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
+    },
+    {
       "added_at": "2024-01-10 04:07:01",
       "album": {
         "name": "if i'm not home : i'm not far away",
@@ -1039,22 +1055,6 @@
       "duration_ms": 297017,
       "name": "The End of What?",
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Latency at Villa Medici",
-        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
-      },
-      "artists": [
-        {
-          "name": "Damsel Elysium",
-          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
-        }
-      ],
-      "duration_ms": 706000,
-      "name": "27 Glass Ceilings",
-      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 229602,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Toquei no Sol",
         "url": "https://open.spotify.com/album/3q1hEZct2ZR75qQMbLTW1d"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 441840,
       "name": "You Do It",
       "url": "https://open.spotify.com/track/7J46lkQn2onLYyg4PtJEJk"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 229602,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
     },
     {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Couversets",
+        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 220819,
+      "name": "Couversets",
+      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
+    },
+    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Huele a Fraude",
@@ -1171,6 +1187,22 @@
       "duration_ms": 84180,
       "name": "Monument to Possibilities",
       "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Penetraci\u00f3n",
+        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
+      },
+      "artists": [
+        {
+          "name": "Isabel Do Diego",
+          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Penetraci\u00f3n",
+      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1195,38 +1227,6 @@
       "duration_ms": 362893,
       "name": "\u00c9coute Au Loin",
       "url": "https://open.spotify.com/track/0roPZdFgmpj7jFe7WstJBK"
-    },
-    {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Couversets",
-        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 220819,
-      "name": "Couversets",
-      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Penetraci\u00f3n",
-        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
-      },
-      "artists": [
-        {
-          "name": "Isabel Do Diego",
-          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Penetraci\u00f3n",
-      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Systemic",
-        "url": "https://open.spotify.com/album/0wKLTaJo6VxqhTXOgt9iFb"
-      },
-      "artists": [
-        {
-          "name": "Divide And Dissolve",
-          "url": "https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "Blood Quantum",
-      "url": "https://open.spotify.com/track/63T2H0pQvsxyVD1ou9xJuz"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Shoegaze 5G",
         "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 210908,
       "name": "The Sandcastle",
       "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Systemic",
+        "url": "https://open.spotify.com/album/0wKLTaJo6VxqhTXOgt9iFb"
+      },
+      "artists": [
+        {
+          "name": "Divide And Dissolve",
+          "url": "https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Blood Quantum",
+      "url": "https://open.spotify.com/track/63T2H0pQvsxyVD1ou9xJuz"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
     },
     {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Peeled",
+        "url": "https://open.spotify.com/album/6xVlRIV4dfG9HxtEbiN4Ut"
+      },
+      "artists": [
+        {
+          "name": "JJ+JS",
+          "url": "https://open.spotify.com/artist/1vjWJg4BeeTL5Y7NrFH8Wj"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "Lily Pad",
+      "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
+    },
+    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "humanus",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "Peeled",
-        "url": "https://open.spotify.com/album/6xVlRIV4dfG9HxtEbiN4Ut"
-      },
-      "artists": [
-        {
-          "name": "JJ+JS",
-          "url": "https://open.spotify.com/artist/1vjWJg4BeeTL5Y7NrFH8Wj"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "Lily Pad",
-      "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
         "name": "Vision Leaks",
         "url": "https://open.spotify.com/album/4q8D03iDVIB8xGpse4HiFj"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 330000,
       "name": "Kiss Your Skin",
       "url": "https://open.spotify.com/track/5npEN3pLaFJefCaZ1X15Ct"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "The 22nd Floor (Live at Maison de la Radio et de la Musique, Paris)",
-        "url": "https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0"
-      },
-      "artists": [
-        {
-          "name": "Joseph Schiano di Lombo",
-          "url": "https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC"
-        }
-      ],
-      "duration_ms": 205655,
-      "name": "Var. 4: Synthesizer - Live at Maison de la Radio et de la Musique, Paris",
-      "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1499,6 +1483,22 @@
       "duration_ms": 215974,
       "name": "The Shuttle Bus",
       "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "The 22nd Floor (Live at Maison de la Radio et de la Musique, Paris)",
+        "url": "https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0"
+      },
+      "artists": [
+        {
+          "name": "Joseph Schiano di Lombo",
+          "url": "https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC"
+        }
+      ],
+      "duration_ms": 205655,
+      "name": "Var. 4: Synthesizer - Live at Maison de la Radio et de la Musique, Paris",
+      "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
     },
     {
       "added_at": "2024-01-10 04:24:05",

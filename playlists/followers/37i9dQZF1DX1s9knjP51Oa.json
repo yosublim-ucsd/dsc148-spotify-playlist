@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 924382,
+  "2024-02-14": 924371,
   "date_first_scraped": "2021-12-21",
   "description": "Relaxing piano to help you find calm and stillness within. ",
   "name": "calm vibes",
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
@@ -835,6 +835,24 @@
       "duration_ms": 194126,
       "name": "Arabesca",
       "url": "https://open.spotify.com/track/2fnmga0QCLLsPW8Es5o29r"
+    },
+    {
+      "album": {
+        "name": "Arbor",
+        "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Arbor",
+      "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
     },
     {
       "album": {
@@ -3344,6 +3362,24 @@
     },
     {
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv"
+    },
+    {
+      "album": {
         "name": "Embrace Me",
         "url": "https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt"
       },
@@ -3481,7 +3517,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 146374,
       "name": "Empty Streets",
       "url": "https://open.spotify.com/track/6NR2SRndDIWZeNzGBwtJBX"
@@ -4187,7 +4223,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 172948,
       "name": "For the Fallen",
       "url": "https://open.spotify.com/track/3yPi2t6916SjRPrb9ZcFK7"
@@ -5019,7 +5055,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 167624,
       "name": "Hiemalis",
       "url": "https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI"
@@ -8271,7 +8307,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 128608,
       "name": "Open Sail",
       "url": "https://open.spotify.com/track/5fOv8ynuVRniCFLQ48grdI"
@@ -9279,7 +9315,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 182022,
       "name": "Reine de nuit",
       "url": "https://open.spotify.com/track/1moVWeNCxcuAsECoLcnvJL"
@@ -11263,7 +11299,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 173161,
       "name": "Symbios",
       "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"

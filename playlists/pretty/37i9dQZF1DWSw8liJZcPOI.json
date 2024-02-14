@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 65098,
+  "num_followers": 65259,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTlkMjUzZDA2MjU0ZmY5MGZiNjJjOTRlMTc1ZGRiMWExNjY5MmRk",
+  "snapshot_id": "MCwwNGMwMjY4NzhmNzk3ZjVkMTM0MGIzNDQ3OTY2YjcxZGEwYTgyYmZl",
   "tracks": [
     {
       "added_at": "2024-02-09 04:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Le Jardin de Monsieur Monet",
-        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
       },
       "artists": [
         {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
         }
       ],
-      "duration_ms": 313973,
-      "name": "Le Jardin de Monsieur Monet",
-      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -659,6 +659,22 @@
       "duration_ms": 121000,
       "name": "No Ball Games (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Le Jardin de Monsieur Monet",
+        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Le Jardin de Monsieur Monet",
+      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -779,6 +795,38 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "The Invisible EP",
+        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 163861,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -795,22 +843,6 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "The Invisible EP",
-        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 163861,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -843,38 +875,6 @@
       "duration_ms": 231921,
       "name": "lodges",
       "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Circle 29",
         "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 236520,
       "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Okno",
         "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 187000,
       "name": "Okno",
       "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1175,6 +1191,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "\u00c9closion",
+        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
+      },
+      "artists": [
+        {
+          "name": "Tony Anderson",
+          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "\u00c9closion",
+      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "A Tiny Ripple That Becomes A Giant Wave",
         "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
       },
@@ -1187,22 +1219,6 @@
       "duration_ms": 210440,
       "name": "A Tiny Ripple That Becomes A Giant Wave",
       "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 183186,
       "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
       "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "\u00c9closion",
-        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "\u00c9closion",
-      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
-      },
-      "artists": [
-        {
-          "name": "Sisulu",
-          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Parkbench",
         "url": "https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 221024,
       "name": "Parkbench",
       "url": "https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
+      },
+      "artists": [
+        {
+          "name": "Sisulu",
+          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
       },
       "artists": [
         {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+      "duration_ms": 244919,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/32qxwUbqj7j9MK4fkiXGPU"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 223326,
       "name": "Waterfelt",
       "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 244919,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/32qxwUbqj7j9MK4fkiXGPU"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Woven Song",
-        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 190283,
-      "name": "Woven Song",
-      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Tranquillant",
         "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 173373,
       "name": "Tranquillant",
       "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Woven Song",
+        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 190283,
+      "name": "Woven Song",
+      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1723,6 +1723,22 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Sweet Coast",
+        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 153041,
+      "name": "Sweet Coast",
+      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1759,22 +1775,6 @@
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Sweet Coast",
-        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 153041,
-      "name": "Sweet Coast",
-      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
     },
     {
       "added_at": "2024-02-09 04:00:00",

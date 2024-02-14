@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 59130,
+  "num_followers": 59138,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzFjMWMyNDAyNWIzMWY5NDYzOWQ3OTE2OWQ4MzNkYzliMGY2YmU2",
+  "snapshot_id": "MCw4OWQxZmY1YzE2NTY4NmY0OGEwMjMzM2Q0Mjg0M2FiZjFmYjdhMmJk",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -511,6 +511,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
       },
       "artists": [
         {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
         }
       ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -567,38 +583,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "\u00a1Oh! Mi Amor",
-        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
-      },
-      "artists": [
-        {
-          "name": "DaJuana Band",
-          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
-        }
-      ],
-      "duration_ms": 318122,
-      "name": "Trato De Asimilar",
-      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Voices from the Border",
         "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 443872,
       "name": "Those People",
       "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "\u00a1Oh! Mi Amor",
+        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
+      },
+      "artists": [
+        {
+          "name": "DaJuana Band",
+          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
+        }
+      ],
+      "duration_ms": 318122,
+      "name": "Trato De Asimilar",
+      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Andamos Huyendo",
-        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
       "artists": [
         {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
         }
       ],
-      "duration_ms": 291647,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -855,18 +855,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+        "name": "Andamos Huyendo",
+        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
       },
       "artists": [
         {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+          "name": "Amanda Tovalin",
+          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
         }
       ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+      "duration_ms": 291647,
+      "name": "Andamos Huyendo",
+      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

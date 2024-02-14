@@ -4,7 +4,7 @@
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-444 songs - 19 hr 18 min
+446 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Ein kurzer Augenblick](https://open.spotify.com/track/5RblS5gGs0nfWBKk153KCN) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Ein kurzer Augenblick](https://open.spotify.com/album/2p8wMElkJei2CSNDEda1GW) | 2:20 | 2023-10-09 |  |
 | [Elevation](https://open.spotify.com/track/741SePkge5anOObH5JLG5r) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Elevation](https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4) | 3:20 | 2023-11-20 |  |
 | [Ellipse](https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Ellipse](https://open.spotify.com/album/3wPhguvaKQPIdvmoc5bkVW) | 2:28 | 2023-10-09 |  |
+| [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-13 |  |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2023-10-09 | 2023-11-07 |
 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 | 2023-10-09 |  |
 | [Enigma](https://open.spotify.com/track/6E3tlk1QjAUzbgguYtVXeM) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Enigma](https://open.spotify.com/album/7Fjxhrg8uaiNiEQI0N7NN9) | 2:43 | 2023-10-09 |  |
@@ -397,6 +398,7 @@
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2023-10-09 |  |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-10-09 |  |
 | [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-23 |  |
+| [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-13 |  |
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2023-10-09 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2023-10-09 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2023-10-09 |  |

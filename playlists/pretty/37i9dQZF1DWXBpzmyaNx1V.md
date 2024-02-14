@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,241 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,245 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 10 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 |
 | 11 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
 | 12 | [Catholic Country](https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:01 |
-| 13 | [Around The Sun](https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:54 |
-| 14 | [Visions](https://open.spotify.com/track/08BgHsJg8f3Z8QJDAqabIA) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [If I Am Only My Thoughts](https://open.spotify.com/album/2wnCHhRVZUFVEiAO79F4XO) | 3:53 |
+| 13 | [Visions](https://open.spotify.com/track/08BgHsJg8f3Z8QJDAqabIA) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [If I Am Only My Thoughts](https://open.spotify.com/album/2wnCHhRVZUFVEiAO79F4XO) | 3:53 |
+| 14 | [Around The Sun](https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:54 |
 | 15 | [Fotografia](https://open.spotify.com/track/4O2tMlIxlgRwmNQDElwIq4) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:49 |
 | 16 | [Thinking Of You](https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 7:00 |
 | 17 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 44 | [Precious Love](https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD) | 4:38 |
 | 45 | [Gens de la nuit](https://open.spotify.com/track/5Qhf6Er2tQ71pluUxFwDqI) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Gens de la nuit](https://open.spotify.com/album/0tCbHlvksNRxJF4JzKD6gh) | 2:57 |
 | 46 | [Step By Step](https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:10 |
-| 47 | [Purple Tones](https://open.spotify.com/track/7zwVwVs7N46n5AsrNvD74b) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 3:26 |
-| 48 | [Power Flower](https://open.spotify.com/track/7lUg8pGTS5p97bB5eB5nPc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Journey Through The Secret Life Of Plants](https://open.spotify.com/album/3LSgLZrSXELqWt5eqb6XMY) | 5:30 |
+| 47 | [Power Flower](https://open.spotify.com/track/7lUg8pGTS5p97bB5eB5nPc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Journey Through The Secret Life Of Plants](https://open.spotify.com/album/3LSgLZrSXELqWt5eqb6XMY) | 5:30 |
+| 48 | [Purple Tones](https://open.spotify.com/track/7zwVwVs7N46n5AsrNvD74b) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 3:26 |
 | 49 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
 | 50 | [Jacaranda](https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jacaranda](https://open.spotify.com/album/574GqifDRYz5907qCC7TgU) | 4:09 |
 
-Snapshot ID: `MCwwNzg0NzA2MTg4NGRkYmU2ZDRkZDk1ZDliZjU2OWQyMDFjNTMzMTdh`
+Snapshot ID: `MCw0NGIxYTliYmRmMDVjMGFkMmUwYTZmMGZlYTFkZDg3YjgwYjE4NDIx`

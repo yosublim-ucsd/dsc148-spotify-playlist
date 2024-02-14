@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Äyanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,425 likes - 77 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,448 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 76 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
 | 77 | [Psycho Bitch](https://open.spotify.com/track/3DRBBbiVNkHlRrfalETplk) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/7mmBqDdCZwqn4g30GAuteH) | 3:07 |
 
-Snapshot ID: `MCwyODdkM2NjM2ZmMTg0MTFjODRjOWExYmY0NzUwMWMyZTdiZWExNjUy`
+Snapshot ID: `MCxmMDM2MjZhYjY4MDY3NWNmZDg3NWM1NjFlZTcyYmMzZjZkNjkyMTAw`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: 1nonly
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,028 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,134 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can't Wake Up \- Remix](https://open.spotify.com/track/6j1TrNeuKkqa3id2H2q00I) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Can't Wake Up \(Remix\)](https://open.spotify.com/album/3ELhsTmzpNjhEpfIGrC8X9) | 3:36 |
 | 2 | [Scars](https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Scars](https://open.spotify.com/album/0m1FGRxM3wEaIxEgqSW5Oq) | 2:27 |
-| 3 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
+| 3 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 |
 | 4 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
 | 5 | [Natural Habitat \(feat\. Ken Carson\)](https://open.spotify.com/track/3s9PhZ3X5NH3Dgrtd4K8lM) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Natural Habitat](https://open.spotify.com/album/4CkICP9DdEovx6lQdLpDj9) | 3:28 |
 | 6 | [SOME THINGS](https://open.spotify.com/track/1nTDUAdKAsABK9BudqjL1M) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [SOME THINGS](https://open.spotify.com/album/2pAZLc3G7vtAKJ4Yq68O27) | 2:35 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 19 | [KNOT](https://open.spotify.com/track/6WXfEhdqPyJIC5bLP4H8xp) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [KNOT](https://open.spotify.com/album/6Xqt8SVSu1BNKtFSUUiUzB) | 2:48 |
 | 20 | [CAN'T STOP NOW](https://open.spotify.com/track/1YmLbryGwdP25VbPqzizbC) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CAN'T STOP NOW](https://open.spotify.com/album/1aMojrUQGbKvNeSYUhKdMk) | 2:49 |
 | 21 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 |
-| 22 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 |
+| 22 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
 | 23 | [Want!](https://open.spotify.com/track/73r0vycW65REpoQLwPsAR4) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Want!](https://open.spotify.com/album/2qlI7ej2XIc2NyaGUEzJPP) | 1:26 |
 | 24 | [GET A GRIP](https://open.spotify.com/track/25I47y2Jo5Ugqkrt4cMlme) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HARSH](https://open.spotify.com/album/1BaMH4GHHOur5Phr8F5ssg) | 1:17 |
 | 25 | [Bobby Boucher](https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Bobby Boucher](https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [DARKSIDE](https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:25 |
 | 100 | [Lil X](https://open.spotify.com/track/4RwPDEWhzlhpcXlzsNyR1X) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Lil X](https://open.spotify.com/album/7pS3lWklO394wo7IqVWorw) | 2:23 |
 
-Snapshot ID: `MCw3MWUxNjc1NTkxYTRhNjgyZDA0MDU1NjlkNGYzNDEzNzA3OTZjZWVh`
+Snapshot ID: `MCw2NTIzNzVkMjQyYjE2MWRhYzg1MGMyMGE2MjU5NTk5YmYxNjNjZWE5`

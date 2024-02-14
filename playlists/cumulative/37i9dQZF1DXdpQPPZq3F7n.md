@@ -4,7 +4,7 @@
 
 > Let these songs be the background score to your love story\. Cover \- Bhediya
 
-213 songs - 15 hr 2 min
+214 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Srivalli](https://open.spotify.com/track/1xkkeOtWvzmhjgLqxMJ3zR) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Pushpa The Rise Part \- 01](https://open.spotify.com/album/5fSvW3ie7cwECAt9h9pgQl) | 3:44 | 2023-03-17 | 2023-05-27 |
 | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr) | 3:44 | 2022-05-19 | 2023-02-14 |
 | [Sukoon Mila](https://open.spotify.com/track/4nydCE0L7G13XLKPzvLlNs) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Mary Kom](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 3:20 | 2022-05-19 | 2023-03-18 |
-| [Suno\- Na Sangemarmar](https://open.spotify.com/track/0RrR3wg4ezBVwm7lyeybir) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Youngistaan](https://open.spotify.com/album/1uHt5HvELZt61uOZrCPuVD) | 3:21 | 2023-05-08 |  |
+| [Suno\- Na Sangemarmar](https://open.spotify.com/track/0RrR3wg4ezBVwm7lyeybir) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Youngistaan](https://open.spotify.com/album/1uHt5HvELZt61uOZrCPuVD) | 3:21 | 2023-05-08 | 2024-02-14 |
+| [Suno\- Na Sangemarmar \(From "Youngistaan\)](https://open.spotify.com/track/2ESscisnKdryn50fPeHd7O) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Dose Arijit Singh](https://open.spotify.com/album/5aRPSAhsXgpXhxRF8q1aLI) | 3:21 | 2024-02-02 |  |
 | [Tera Ban Jaunga](https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:56 | 2022-05-19 |  |
 | [Tera Chehra](https://open.spotify.com/track/3trnNo4KeaUlFuUiV7iRCj) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D) | 4:34 | 2023-10-10 |  |
 | [Tera Fitoor](https://open.spotify.com/track/1YMLgvsQdE27r30q0fsLeV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Genius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RtFFza4brQXoNSv19g1ps) | 5:10 | 2024-01-15 |  |

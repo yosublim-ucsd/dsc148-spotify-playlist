@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Brittany Howard
 
-2,006 songs - 5 day 0 hr 37 min
+2,008 songs - 5 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-12-07 | 2023-02-15 |
 | [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-05-27 | 2022-07-29 |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2019-05-26\* | 2020-01-10 |
+| [Bored](https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 2:55 | 2024-02-13 |  |
 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 | 2023-09-15 | 2024-01-25 |
 | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/track/2TDeIENQbavBr4qfDNIn3l) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/album/2G6Yr38x7zIZgLHkq58Ukf) | 3:01 | 2021-10-10 | 2021-10-16 |
 | [Bottle Rocket](https://open.spotify.com/track/0ANOK8C8kRTR5AKjW3G62V) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 3:10 | 2021-04-20 | 2021-10-05 |
@@ -1016,6 +1017,7 @@
 | [let them know they're on your mind](https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [let them know they're on your mind](https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp) | 3:43 | 2024-02-09 |  |
 | [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-20 | 2023-02-23 |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-22 | 2023-10-03 |
+| [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 | 2024-02-13 |  |
 | [Life Is Not The Same](https://open.spotify.com/track/53tKpMeDRvMq4xKvQzc6Ih) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Life Is Not The Same](https://open.spotify.com/album/79cXZ95WbLImty6k16rvhc) | 3:19 | 2021-09-02 | 2022-04-03 |
 | [Life Lesson \(feat\. Lana Del Rey\)](https://open.spotify.com/track/21B45csd0sMwX5VnAHc4BX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:49 | 2023-08-17 | 2023-09-16 |
 | [Lifeline](https://open.spotify.com/track/78dm8zrEiJ1d0G6IBuiN7m) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Lifeline](https://open.spotify.com/album/0iAfdMQLxhqNyO2bZ7aTLL) | 3:22 | 2023-01-28 | 2023-02-01 |

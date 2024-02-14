@@ -4,7 +4,7 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-91 songs - 5 hr 29 min
+92 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [When We Were Young](https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [When We Were Young](https://open.spotify.com/album/73srYNTUXbpxSTlDwzfV5Q) | 4:34 | 2020-10-16 | 2023-05-14 |
 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 | 2020-10-16 |  |
 | [Wonderwall](https://open.spotify.com/track/3N7wclRSF2D2RT3O27LEOE) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [When We Rise \(Original Television Soundtrack\)](https://open.spotify.com/album/1U15HyG9LIxbSitBJOLGBC) | 4:00 | 2020-10-16 |  |
-| [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2020-10-16 |  |
+| [Wrecking Ball \(Acoustic\)](https://open.spotify.com/track/3ioF46MzYIpZYHAf7700ba) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/5kn1D2FuKuSRG98VSrYxnB) | 3:33 | 2020-10-16 |  |
+| [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2020-10-16 | 2024-02-14 |
 | [Yellow](https://open.spotify.com/track/1qZYM5Jp7zqtjn3nWH4UAz) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/0Rxjl3rKekDtTxantH5LQX) | 4:14 | 2020-10-16 | 2023-02-15 |
 | [Yellow](https://open.spotify.com/track/2wrRcjk6zBa1IcZWOwBAxy) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/5d5Ekx6AcVFzC2lJyVQCbH) | 4:14 | 2020-10-16 |  |
 | [Yellow](https://open.spotify.com/track/6lQgAddTsoie2795TU2Oqa) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/3qTl5f2s43FPr6QBToxM2X) | 4:14 | 2020-10-16 | 2022-11-13 |

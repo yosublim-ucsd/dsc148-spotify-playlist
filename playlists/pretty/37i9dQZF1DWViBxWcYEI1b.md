@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,034 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,035 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 48 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 |
 | 49 | [One Before The One](https://open.spotify.com/track/4zOZN1h568zZf7UoRaZNJr) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One Before The One](https://open.spotify.com/album/6EFWJfLNlrdJ73nhULMcg7) | 2:48 |
 | 50 | [Want You More](https://open.spotify.com/track/5bUUCAdoGDgF3IzfX4mRCd) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Want You More](https://open.spotify.com/album/1MCbSXye5vHrHtU7jcNklY) | 2:52 |
-| 51 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
+| 51 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
 | 52 | [hate myself for loving you](https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [hate myself for loving you](https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5) | 2:56 |
 | 53 | [Anywhere \(with Carla Morrison\)](https://open.spotify.com/track/2urDvtxhUhvAaNjtwks63E) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Anywhere \(with Carla Morrison\)](https://open.spotify.com/album/3DC0ct81LMgXlQqIMwZFb5) | 3:11 |
 | 54 | [Lonely People](https://open.spotify.com/track/2GytDaWfMe09yBJ8KusZPz) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Lonely People](https://open.spotify.com/album/4bNFxdUVVkrmrSLf77im7T) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Otherside](https://open.spotify.com/track/1gEI3oSPZQdmabcY4rlyQk) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:34 |
 | 100 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
 
-Snapshot ID: `MCw3ODY0MmIzOGU3YmYyYzEwZDJlNmQzM2ExYjFlZDU5NDQ4YmJlZjYw`
+Snapshot ID: `MCxiYmUzMWY0ZGZjZjA1OGUwM2FhNzA2NmVlMWQ2MDRmYWZhODg2Y2M1`

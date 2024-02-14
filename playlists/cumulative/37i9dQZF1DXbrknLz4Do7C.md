@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-280 songs - 19 hr 44 min
+281 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Nights In Atlanta](https://open.spotify.com/track/7EAvUiKv3vjNPonp5gwm5l) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Emanuel](https://open.spotify.com/album/2kLyZqFFxBq2wjR8IPUwcE) | 2:25 | 2023-11-29 |  |
 | [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-11-29 |  |
 | [No Hay Otro Amor Igual](https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [No Hay Otro Amor Igual](https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe) | 6:15 | 2023-11-29 |  |
-| [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 | 2023-11-29 |  |
+| [no longer bound](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:53 | 2023-11-29 |  |
+| [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 | 2023-11-29 | 2024-02-14 |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-11-29 |  |
 | [Not Holding Back](https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 12:27 | 2021-12-01 | 2022-12-01 |
 | [On My Own](https://open.spotify.com/track/3SH1GUgYNHGlaUsJ3uLUcB) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0) | [Light Work 3](https://open.spotify.com/album/1GAKDN8I6VKl8NX7LoTyEw) | 4:08 | 2023-11-29 |  |

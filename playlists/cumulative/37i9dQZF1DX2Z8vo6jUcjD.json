@@ -402,10 +402,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 216040,
       "name": "The Brightside",
       "url": "https://open.spotify.com/track/64oQ8vyugS5Mmm4BFakssO"
+    },
+    {
+      "album": {
+        "name": "Come Over When You're Sober, Pt. 1",
+        "url": "https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "The Brightside",
+      "url": "https://open.spotify.com/track/7lbGqBMyCOK43hwY0Kcu7o"
     },
     {
       "album": {
@@ -550,10 +568,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 132226,
       "name": "white tee",
       "url": "https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob"
+    },
+    {
+      "album": {
+        "name": "crybaby",
+        "url": "https://open.spotify.com/album/2tLt6wYVuseWCe6IwDSlTm"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132226,
+      "name": "white tee",
+      "url": "https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh"
     },
     {
       "album": {

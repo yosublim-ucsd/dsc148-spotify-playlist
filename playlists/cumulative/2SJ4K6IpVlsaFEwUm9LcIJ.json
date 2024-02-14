@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "In Phases",
+        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
+      },
+      "artists": [
+        {
+          "name": "Azamiah",
+          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249453,
+      "name": "Celesta",
+      "url": "https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ"
+    },
+    {
+      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -438,6 +456,24 @@
       "duration_ms": 166506,
       "name": "ice",
       "url": "https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp"
+    },
+    {
+      "album": {
+        "name": "Heaven Is a Junkyard",
+        "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164022,
+      "name": "Lux Radio Theatre",
+      "url": "https://open.spotify.com/track/7L6luimnBJ3SRfyf2Ua436"
     },
     {
       "album": {

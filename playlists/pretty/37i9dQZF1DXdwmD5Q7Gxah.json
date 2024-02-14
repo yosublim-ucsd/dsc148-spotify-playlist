@@ -1,12 +1,12 @@
 {
   "description": "all over the place in a good way. cover: declan mckenna",
-  "num_followers": 1135691,
+  "num_followers": 1135861,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2FiYzdkNGY3OGEzZmI4ZjFjNjkzM2E4Y2FiODFmMzdjNGQ5MGY2",
+  "snapshot_id": "MCwzYzJkOGNkZDg2MGFiY2Q1N2E2ODdkYzc3YzRlZjUxMDQwMjMxNmRi",
   "tracks": [
     {
       "added_at": "2024-01-12 03:47:20",
@@ -23,6 +23,38 @@
       "duration_ms": 235821,
       "name": "take yr time",
       "url": "https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx"
+    },
+    {
+      "added_at": "2024-02-13 04:02:46",
+      "album": {
+        "name": "Truth\u2606Truth",
+        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 224385,
+      "name": "Truth\u2606Truth",
+      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
+    },
+    {
+      "added_at": "2024-02-08 17:37:34",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -43,34 +75,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Feeling Good Today",
-        "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
+        "name": "Drank on Accutane",
+        "url": "https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 86169,
-      "name": "Feeling Good Today",
-      "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
-    },
-    {
-      "added_at": "2024-02-08 17:37:34",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+      "duration_ms": 190470,
+      "name": "Drank on Accutane",
+      "url": "https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r"
     },
     {
       "added_at": "2024-01-29 19:24:59",
@@ -139,18 +155,54 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Drank on Accutane",
-        "url": "https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q"
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
       },
       "artists": [
         {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 190470,
-      "name": "Drank on Accutane",
-      "url": "https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r"
+      "duration_ms": 86169,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "duration_ms": 160041,
+      "name": "Second Chances",
+      "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "SOLAR SONATAS VOL. 1",
+        "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "The Celestials!",
+          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
+        }
+      ],
+      "duration_ms": 273604,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
     },
     {
       "added_at": "2024-01-31 18:29:24",
@@ -173,6 +225,22 @@
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     },
     {
+      "added_at": "2024-02-13 21:05:23",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
       "added_at": "2024-02-06 19:13:43",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
@@ -191,18 +259,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "the fundamentals of disappearing",
-        "url": "https://open.spotify.com/album/0ivfjZuBlHazkSzFnCTlfj"
+        "name": "Private Dream",
+        "url": "https://open.spotify.com/album/5fibLuKvZ0N2oiJtixVpiR"
       },
       "artists": [
         {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+          "name": "PROM",
+          "url": "https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb"
         }
       ],
-      "duration_ms": 156035,
-      "name": "noisey",
-      "url": "https://open.spotify.com/track/6JSJfisYVSyQZOEFnWOoXR"
+      "duration_ms": 156774,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/62NdkufjmvpdASBL8KsyB6"
     },
     {
       "added_at": "2024-02-07 18:18:57",
@@ -235,42 +303,6 @@
       "duration_ms": 236720,
       "name": "loner",
       "url": "https://open.spotify.com/track/2Dv7yzt7fk6PIj2PRTLx8e"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Private Dream",
-        "url": "https://open.spotify.com/album/5fibLuKvZ0N2oiJtixVpiR"
-      },
-      "artists": [
-        {
-          "name": "PROM",
-          "url": "https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/62NdkufjmvpdASBL8KsyB6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "SOLAR SONATAS VOL. 1",
-        "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "The Celestials!",
-          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
-        }
-      ],
-      "duration_ms": 273604,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
     },
     {
       "added_at": "2024-01-12 03:47:20",
@@ -353,6 +385,22 @@
       "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "the fundamentals of disappearing",
+        "url": "https://open.spotify.com/album/0ivfjZuBlHazkSzFnCTlfj"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "noisey",
+      "url": "https://open.spotify.com/track/6JSJfisYVSyQZOEFnWOoXR"
+    },
+    {
       "added_at": "2024-02-04 23:59:58",
       "album": {
         "name": "the record",
@@ -431,22 +479,6 @@
       "duration_ms": 189720,
       "name": "What's Love (feat. MUNA)",
       "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        }
-      ],
-      "duration_ms": 160041,
-      "name": "Second Chances",
-      "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
     },
     {
       "added_at": "2024-01-18 19:24:25",

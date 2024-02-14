@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 35310,
+  "num_followers": 35329,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDljNGQ5MjM5YzYwMjFkYmZiNjVhMmJkMWQyOTNkYjMzODM1NzJj",
+  "snapshot_id": "MCxmY2E5ZDY2YjYxZmM1MDA5MTU2NzY1ZGNkZjU3M2MyZGE3YWY2ZTBj",
   "tracks": [
     {
       "added_at": "2024-02-09 00:44:41",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-02-09 00:44:41",
       "album": {
+        "name": "Li\u00ean Kh\u00fac \u0110\u00eam Bu\u1ed3n T\u1ec9nh L\u1ebb, Nh\u1eefng \u0110\u1ed3i Hoa Sim (Asia 283)",
+        "url": "https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
+          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
+        },
+        {
+          "name": "Giang T\u1eed",
+          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Gi\u1ecdt bu\u1ed3n kh\u00f4ng t\u00ean",
+      "url": "https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n"
+    },
+    {
+      "added_at": "2024-02-09 00:44:41",
+      "album": {
         "name": "Xu\u00e2n Tha H\u01b0\u01a1ng Xu\u00e2n L\u1ea1c X\u1ee9",
         "url": "https://open.spotify.com/album/3E7RCcMsmi8kTbTj9n1RS4"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 336255,
       "name": "Chuy\u1ebfn t\u00e0u ho\u00e0ng h\u00f4n",
       "url": "https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN"
-    },
-    {
-      "added_at": "2024-02-09 00:44:41",
-      "album": {
-        "name": "Li\u00ean Kh\u00fac \u0110\u00eam Bu\u1ed3n T\u1ec9nh L\u1ebb, Nh\u1eefng \u0110\u1ed3i Hoa Sim (Asia 283)",
-        "url": "https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng H\u1ed3ng Qu\u1ebf",
-          "url": "https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap"
-        },
-        {
-          "name": "Giang T\u1eed",
-          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Gi\u1ecdt bu\u1ed3n kh\u00f4ng t\u00ean",
-      "url": "https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n"
     },
     {
       "added_at": "2024-02-09 00:44:41",

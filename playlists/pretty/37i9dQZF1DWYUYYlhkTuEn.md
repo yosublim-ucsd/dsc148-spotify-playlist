@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,679 likes - 60 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,724 likes - 60 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Apart](https://open.spotify.com/track/7LeShYiQOXt42vOVQ2GXB8) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Apart](https://open.spotify.com/album/3ERW2r43z54BjvmuKKTs8c) | 4:08 |
-| 2 | [Smek \- Rey&Kjavik Remix](https://open.spotify.com/track/1PyfWp1rg8omX2DOtg65pR) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Smek \(Rey&Kjavik Remix\)](https://open.spotify.com/album/55BVCDc7BpOqS2MbzgO3x6) | 6:06 |
+| 2 | [Smek \- Rey&Kjavik Remix](https://open.spotify.com/track/3EJHAXAPhqKoUppERPCJtT) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Smek \(Rey&Kjavik Remix\)](https://open.spotify.com/album/7Kk2AhZYfBN1OsCthy3XjZ) | 6:06 |
 | 3 | [Yoga](https://open.spotify.com/track/4Bub1jECKbXpix2gnbnu5e) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Yoga](https://open.spotify.com/album/7aZZZ02zfo5uAmVqbqDukr) | 6:19 |
 | 4 | [Kora](https://open.spotify.com/track/0R0xxevjYJFzfel1TZ3BxC) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Kora](https://open.spotify.com/album/4eVjYpn9nlCnRLvp61q9Bf) | 5:09 |
 | 5 | [Circadia](https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Circadia](https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE) | 6:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 59 | [Beautiful Fields](https://open.spotify.com/track/42lAfXPF206dlqzN2v8Y3s) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Beautiful Fields](https://open.spotify.com/album/1MV5RZDGOyn6bFpffuJTKp) | 6:59 |
 | 60 | [sunflower](https://open.spotify.com/track/4pmoV05KcsSw2JnGgTxVea) | [plant milk](https://open.spotify.com/artist/7sdP82BOHQI8W6dT3FSAjc) | [sunflower](https://open.spotify.com/album/73PNYwqdDCfdVJCUl1jaKR) | 2:18 |
 
-Snapshot ID: `MCw5MWMyZTYzYjRmNjlhMjdkMzIxYTNhYjcxYjRkMmQwMjVjMGRiZjQz`
+Snapshot ID: `MCw0Y2E0YjQyNTBmOWFiZjQ4MDIyODc4YTM0MmU0MDk1Y2JiZTY0MzE1`

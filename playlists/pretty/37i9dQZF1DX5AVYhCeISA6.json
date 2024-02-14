@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran \u2728 Cover: KAROL G",
-  "num_followers": 635766,
+  "num_followers": 635760,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzg5ZjRlZDkxMjVkNzc5MGRkZGRjYjUxYWIzNDkzNGU3MDgxMzM3",
+  "snapshot_id": "MCw5N2NhZjBkNDYwNWQ1NmQ1ZTEwMTM4NjJkNjU5YTA1YTgzZmZhMjcx",
   "tracks": [
     {
       "added_at": "2024-01-12 15:44:26",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-01-12 15:44:26",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2024-01-12 15:44:26",
+      "album": {
         "name": "JET_Set.mp3",
         "url": "https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 145919,
       "name": "JET_Set.mp3",
       "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
-    },
-    {
-      "added_at": "2024-01-12 15:44:26",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2024-01-12 15:44:26",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-01-12 15:44:26",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+    },
+    {
+      "added_at": "2024-01-12 15:44:26",
+      "album": {
         "name": "El Renacimiento",
         "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 196461,
       "name": "Bachatica",
       "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
-    },
-    {
-      "added_at": "2024-01-12 15:44:26",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
     }
   ],
   "unique_name": "Inspiring Latinas",

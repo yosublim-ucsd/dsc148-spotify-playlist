@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,284 likes - 106 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,288 likes - 106 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 89 | [然後呢](https://open.spotify.com/track/0OUmRfXfXAhzSx9HYj5SbW) | [魏恩佳](https://open.spotify.com/artist/6wCf5YtXMh00baQjInfWXU) | [然後呢](https://open.spotify.com/album/3ub9hYO69iE1VS1foHCoT4) | 4:28 |
 | 90 | [Beautiful Girl](https://open.spotify.com/track/5kg6z0m4WkO9JscOsmVW6G) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [Beautiful Girl](https://open.spotify.com/album/1OKlkB8VkwCpkPrlwyMALi) | 2:32 |
 | 91 | [愛 轉身](https://open.spotify.com/track/2UlBQOu85X1o04FQ9ljq73) | [Winnie Hsin](https://open.spotify.com/artist/75UZxcclb8ahAZl69xMKLJ) | [愛 轉身](https://open.spotify.com/album/7JL8n0drkRKF4ptAEGE9D9) | 5:21 |
-| 92 | [Slow pace](https://open.spotify.com/track/52UKw02W3IukdlQBASx6Kj) | [kuokang](https://open.spotify.com/artist/6ZLZ3tgPvo205QGMIwgCMS) | [Slow pace](https://open.spotify.com/album/7CdNqUNFzstFc8cEW6xEnD) | 3:44 |
+| 92 | [Slow pace](https://open.spotify.com/track/52UKw02W3IukdlQBASx6Kj) | [郭幼康](https://open.spotify.com/artist/6Iu0WrCZJK1MIhyr3p72Lt) | [Slow pace](https://open.spotify.com/album/7CdNqUNFzstFc8cEW6xEnD) | 3:44 |
 | 93 | [旅徒](https://open.spotify.com/track/4kW2QiG6ihBssg4nI58bBr) | [Control T](https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge) | [旅徒](https://open.spotify.com/album/5nfkPP8P8u3vAx1Uh4GjZI) | 4:40 |
 | 94 | [Fly Away \- TV Size, 《时光代理人》动画收藏集限定曲](https://open.spotify.com/track/4fqs4KfcDUciZ2NClaSYGN) | [饭卡](https://open.spotify.com/artist/4Ak4OMWvPvUb0wIDC4wdfp) | [Fly Away \(TV Size, 《时光代理人》动画收藏集限定曲\)](https://open.spotify.com/album/2IGt0nZJh5Tx7hptxv4us7) | 1:20 |
 | 95 | [同一片天空](https://open.spotify.com/track/2qJI7w14ndNy0FR0F1yrV3) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [同一片天空](https://open.spotify.com/album/0XTk1NNZ9FzZsHBW6yQDDw) | 4:07 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 105 | [在风吹来的方向等着你](https://open.spotify.com/track/5D0nvVgKIsC36ycLtdNZqu) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [在风吹来的方向等着你](https://open.spotify.com/album/3VD6BoceCOUCVI3cWedk3x) | 3:25 |
 | 106 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 |
 
-Snapshot ID: `MCxhMjY4ZGY0MzI0ZGNiMTk3ZmRhMDdlMmMxNjg0NDA4ZGMxZGJkNjc1`
+Snapshot ID: `MCw3OTQ3Nzg1MjVjNTRiYjZhYzM0NjI2ZmY3NjhhNmYzZjlhYjc1YzZh`

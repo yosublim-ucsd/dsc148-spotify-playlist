@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 44046,
+  "num_followers": 44082,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmEzNjljMjFiMmRkNTIyZDAyNTg4ODRjNTUxYjRkZDExOWJlMzIz",
+  "snapshot_id": "MCwyZGQ3MmNhYTg5Y2JkZWVmNjZmYjgyYWRkYjE4ZWNiNDBkZGNlZTRi",
   "tracks": [
     {
       "added_at": "2024-02-12 20:16:34",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
+        "name": "Sensaciones",
+        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 207335,
+      "name": "No Me Sueltes M\u00e1s",
+      "url": "https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj"
+    },
+    {
+      "added_at": "2024-02-12 20:16:34",
+      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
-        "name": "Sensaciones",
-        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
+        "name": "Medio Friends",
+        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
       },
       "artists": [
         {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 207335,
-      "name": "No Me Sueltes M\u00e1s",
-      "url": "https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj"
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
     },
     {
       "added_at": "2024-02-12 20:16:34",
@@ -1091,22 +1107,6 @@
       "duration_ms": 183813,
       "name": "Nagano",
       "url": "https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW"
-    },
-    {
-      "added_at": "2024-02-12 20:16:34",
-      "album": {
-        "name": "Medio Friends",
-        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
     },
     {
       "added_at": "2024-02-12 20:16:34",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Carlota Urdiales",
-          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "COLTRANE",
-      "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
-    },
-    {
-      "added_at": "2024-02-12 20:16:34",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2024-02-12 20:16:34",
+      "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Carlota Urdiales",
+          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "COLTRANE",
+      "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
     },
     {
       "added_at": "2024-02-12 20:16:34",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
       "artists": [
         {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
+      "duration_ms": 162880,
+      "name": "Naturaleza",
+      "url": "https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K"
     }
   ],
   "unique_name": "bes\u00e1ndote <3",

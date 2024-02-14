@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: Giant Rooks
 
-1,514 songs - 3 day 17 hr 46 min
+1,515 songs - 3 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,8 @@
 | [Heather](https://open.spotify.com/track/1GynnHe7NkKNKNTJWaWad4) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Heather](https://open.spotify.com/album/3KMpJb5l1BWnhOjl9fkvHH) | 2:32 | 2022-11-18 | 2023-01-28 |
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-20 | 2024-01-27 |
 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 | 2023-07-22 |
-| [Heavy Bag](https://open.spotify.com/track/46CAGyVBlJamDqx0Ixv8hn) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Heavy Bag](https://open.spotify.com/album/0CUxeAhMHD02xMB3GswK9k) | 2:50 | 2024-02-02 |  |
+| [Heavy Bag](https://open.spotify.com/track/30O4qd2aUuFzyV0TwBDn2u) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Harm's Way](https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM) | 2:50 | 2024-02-09 |  |
+| [Heavy Bag](https://open.spotify.com/track/46CAGyVBlJamDqx0Ixv8hn) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Heavy Bag](https://open.spotify.com/album/0CUxeAhMHD02xMB3GswK9k) | 2:50 | 2024-02-02 | 2024-02-14 |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-02-11 | 2022-05-07 |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-04-01 | 2022-04-23 |
 | [Helen](https://open.spotify.com/track/346NOmo5mIW6qXDzXTbN5Y) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [Everything You Want](https://open.spotify.com/album/2G4KIBuJnEqdA1pMmHkIEy) | 3:35 | 2023-02-10 | 2023-03-11 |

@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Raag Hansadhwani (Live)",
+        "url": "https://open.spotify.com/album/0x0ixMEcuN7Qoa9m0bgYp5"
+      },
+      "artists": [
+        {
+          "name": "Mehtab Ali Niazi",
+          "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574667,
+      "name": "Raag Hansadhwani - Raag - Hansadhwani - Live",
+      "url": "https://open.spotify.com/track/0JQX9g5zVXcqtzJksDF7qD"
+    },
+    {
+      "album": {
         "name": "A Suitable Boy (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2"
       },
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 124833,
       "name": "The Natural Forces - Original Mix",
       "url": "https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB"

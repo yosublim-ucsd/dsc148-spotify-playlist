@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: soraya
 
-260 songs - 20 hr 51 min
+262 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [500 Miles High](https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:55 | 2023-03-21 | 2023-11-22 |
 | [83](https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [83](https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4) | 3:27 | 2022-09-06 | 2022-11-23 |
 | [9 P.M.](https://open.spotify.com/track/2Gqmm2IOcDwUZCsETTdCd7) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [9 P.M.](https://open.spotify.com/album/44wIm9dGMuTJ7Tt1osYmLe) | 3:35 | 2023-10-31 | 2023-12-18 |
-| [A Midsummer Night's Dream](https://open.spotify.com/track/14Ggh4Zw5ry2N1VJhP5La7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [A Midsummer Night's Dream](https://open.spotify.com/album/4zrSXhqiZDjPrUEmq924vY) | 4:04 | 2023-08-22 |  |
+| [A Midsummer Night's Dream](https://open.spotify.com/track/14Ggh4Zw5ry2N1VJhP5La7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [A Midsummer Night's Dream](https://open.spotify.com/album/4zrSXhqiZDjPrUEmq924vY) | 4:04 | 2023-08-22 | 2024-02-14 |
 | [A Monk In Ascending And Descending](https://open.spotify.com/track/6zl6yzOjSebyndp1FwzHWV) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [A Monk In Ascending and Descending](https://open.spotify.com/album/7y6OoPAJOs8ddYeWQ6wtFU) | 8:44 | 2023-07-18 | 2023-10-18 |
 | [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 | 2023-06-13 | 2023-07-08 |
 | [A moving scenery](https://open.spotify.com/track/6VXtbmnkPAHlx9bdPppdiz) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 5:43 | 2023-07-04 | 2023-09-06 |
@@ -74,6 +74,7 @@
 | [Fiction](https://open.spotify.com/track/0iSowMxJqhNn89D6aM3UQ8) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Heart of Tokage](https://open.spotify.com/album/7Do6pM4reRPvvgwKYg6hL9) | 3:42 | 2023-03-21 | 2023-05-17 |
 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 | 2023-02-16 |  |
 | [Flowing Rhyme](https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Flowing Rhyme](https://open.spotify.com/album/4gNAtde98C74XXWrJa5ntF) | 3:25 | 2022-10-18 | 2022-11-03 |
+| [French Girl](https://open.spotify.com/track/16E6FvtMX0TzOPmdYc11pA) | [宮上啓仁](https://open.spotify.com/artist/4nDQOXumR1C0bpbMZMMSxL) | [French Girl \- Erase](https://open.spotify.com/album/6gQ1gGxxXNLEKinyW0746F) | 9:15 | 2024-02-13 |  |
 | [Friends](https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Friends](https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q) | 4:32 | 2023-06-06 | 2023-07-05 |
 | [From dusk till Dawn](https://open.spotify.com/track/0MJNq2lws5DJo7s8TDW3IW) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [Chillin' Spot](https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd) | [From dusk till Dawn](https://open.spotify.com/album/3bMhtS4fNtZKp9909pP7D1) | 4:15 | 2023-12-26 | 2024-01-31 |
 | [Futurez](https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [Futurez](https://open.spotify.com/album/4iK5RotnCqsb4hBtluRXn5) | 4:52 | 2022-10-25 | 2022-12-13 |
@@ -94,7 +95,7 @@
 | [Highway](https://open.spotify.com/track/1ZhpcwddU4zlPvPQswwBz4) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/1FxzDZWgRBjleym2o4dSOa) | 3:36 | 2024-01-30 | 2024-02-01 |
 | [Highway](https://open.spotify.com/track/25BXE8InZQK5CBhP1n7mFm) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/7q4sFyc7TjG2gUIql8O837) | 3:36 | 2024-01-31 |  |
 | [Hilarious](https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL) | 4:03 | 2024-01-09 | 2024-01-11 |
-| [Hilarious](https://open.spotify.com/track/4MCR0GMtMnryCukxwl3ilp) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2nalZQ0dRQRMjwZySTpLK4) | 4:03 | 2024-01-10 |  |
+| [Hilarious](https://open.spotify.com/track/4MCR0GMtMnryCukxwl3ilp) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2nalZQ0dRQRMjwZySTpLK4) | 4:03 | 2024-01-10 | 2024-02-14 |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
 | [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 | 2023-10-17 | 2023-11-22 |
@@ -213,7 +214,7 @@
 | [Two Shadows](https://open.spotify.com/track/6DeMB7zj9PHsErZClrdna5) | [arauchi yu](https://open.spotify.com/artist/04bUFAiWthHUAI5TsPxTlS), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Sisei](https://open.spotify.com/album/4uRAlLzyBxwLHOtBBg6HDV) | 3:41 | 2022-09-06 | 2022-09-15 |
 | [UHOPE](https://open.spotify.com/track/1xUJg0XOmAN7u0Y2YAu7St) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [UHOPE](https://open.spotify.com/album/7q9hNKpqQbGXDeRWkwCmlZ) | 4:23 | 2022-12-20 | 2023-01-25 |
 | [Virtual Insanity](https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s) | [Virtual Insanity](https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg) | 4:47 | 2023-07-25 | 2023-11-22 |
-| [Vision](https://open.spotify.com/track/0dUFkwImsvlSNATlHTSFwG) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Vision](https://open.spotify.com/album/7sHGvHR8nzcuMZC32eW92v) | 4:27 | 2024-01-23 |  |
+| [Vision](https://open.spotify.com/track/0dUFkwImsvlSNATlHTSFwG) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Vision](https://open.spotify.com/album/7sHGvHR8nzcuMZC32eW92v) | 4:27 | 2024-01-23 | 2024-02-14 |
 | [Viva La Vida](https://open.spotify.com/track/62xr9i30Iuca9sRUmyZNPK) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [COVERMIND II](https://open.spotify.com/album/08MiQg3zXdbLxeZuE5YQyU) | 4:25 | 2023-08-01 | 2023-09-06 |
 | [Viva La Vida](https://open.spotify.com/track/2OwGrSOJ6kVbIR7CApbu21) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [UNTITLED](https://open.spotify.com/album/4esApqD9IaEZiquhp43muj) | 4:26 | 2023-08-01 | 2023-08-03 |
 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 | 2022-09-06 | 2023-02-17 |
@@ -242,7 +243,7 @@
 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 | 2022-09-06 |  |
 | [サンダーボルト・メインテーマ用](https://open.spotify.com/track/2kNRdLNryDeX4xBYiKCm02) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [オリジナル・サウンドトラック「機動戦士ガンダム サンダーボルト」](https://open.spotify.com/album/6kSwAMTPlRZNw29XCwK0pu) | 4:13 | 2024-01-31 |  |
 | [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 | 2022-11-15 | 2022-12-14 |
-| [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 | 2023-12-22 |
+| [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 |  |
 | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/track/68Kxl8innv2zWN3epatGk9) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/album/3Ykac9AA0n5R2QiodHXmxq) | 5:12 | 2022-09-27 | 2022-10-26 |
 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 | 2022-09-06 | 2023-01-11 |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-13 | 2022-10-19 |
@@ -267,6 +268,7 @@
 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 | 2022-09-06 |  |
 | [誰でもない街](https://open.spotify.com/track/5vXqyXDZuBnhMUJrScHSvN) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [この退屈な日々を/誰でもない街](https://open.spotify.com/album/6cauGTIpDRN2oVWg1camHO) | 3:34 | 2023-09-12 | 2023-09-14 |
 | [鉄腕アトム](https://open.spotify.com/track/6UmcIu2s1V8oPc19WMTDX6) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [SPEED MUSIC ソクドノオンガク vol\. 7](https://open.spotify.com/album/7cQAnB2XOEOeQkEPvrkkYV) | 3:40 | 2023-01-24 | 2023-02-08 |
+| [風の中で](https://open.spotify.com/track/67NcGPtqj6ZT0dCVK4zjgV) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [風の中で](https://open.spotify.com/album/2WJ1XJ79XYjbPVO7GFZ9Ld) | 4:41 | 2024-02-13 |  |
 | [飛ばしたっしょ](https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [飛ばしたっしょ](https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx) | 3:22 | 2024-01-09 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

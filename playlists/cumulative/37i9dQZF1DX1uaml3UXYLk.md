@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-576 songs - 1 day 12 hr 1 min
+579 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2020-10-20\* | 2020-10-30 |
 | [Alleghanys](https://open.spotify.com/track/3awOKjYfWhKg9MqHZoN831) | [Mitch Oliver](https://open.spotify.com/artist/1ckj2vv3RFouOkfBd8PxiJ) | [Alleghanys](https://open.spotify.com/album/40X8cf3IfXsqsARey9SPie) | 6:41 | 2021-01-21 | 2021-02-20 |
 | [alma \- Frameworks Remix](https://open.spotify.com/track/1GXVgFAp3qlzGc903TnJDE) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [alma \(Frameworks Remix\)](https://open.spotify.com/album/2QuOKdeZG0UgtDxTPZPZU5) | 4:11 | 2020-10-20\* | 2022-04-06 |
+| [Amaworld](https://open.spotify.com/track/1VN6WHqBF2xqPv5w7YvB7T) | [Say3](https://open.spotify.com/artist/1QAhhoqYJHkwJt7YHXrzYj) | [Amaworld](https://open.spotify.com/album/1e9ySllhASnX1T7Lexw3kQ) | 2:22 | 2024-02-13 |  |
 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 | 2022-09-02 |  |
 | [Amethyst](https://open.spotify.com/track/0bKzBkQKXLH6P407vZQIso) | [Popcorn for Purple](https://open.spotify.com/artist/1yoe4BBN2qhhnoAFe6cyyO) | [Amethyst](https://open.spotify.com/album/1R6VTSopwrnckW6GTf9Qet) | 5:28 | 2020-12-24 | 2021-02-20 |
 | [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 | 2023-04-14 |  |
@@ -113,6 +114,7 @@
 | [Coara](https://open.spotify.com/track/1T8MbIsGETrnZjOYZq1LXk) | [Lonov](https://open.spotify.com/artist/3i78jXbtRy4krrgXqMxeVv) | [Rooftops](https://open.spotify.com/album/56PAoGMrDmfqE4Iiwa6VB4) | 5:00 | 2020-10-20\* | 2021-01-07 |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2021-02-20 | 2022-05-11 |
 | [Coffe Stream](https://open.spotify.com/track/7g7OUVpXR4VkPZh7TAm9TW) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Second Floor](https://open.spotify.com/album/4NyAacQTvQf1Qc78nnPUKk) | 1:55 | 2020-10-20\* | 2021-03-25 |
+| [Cold Sun](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Cold Sun / Burning Moon](https://open.spotify.com/album/4yWqjOUu5hLriv3gcAlf3A) | 2:39 | 2024-02-13 |  |
 | [Cold Window](https://open.spotify.com/track/4z69XZxPrMVahmAIR5Ghrw) | [nervous\_testpilot](https://open.spotify.com/artist/7zhakwCorTNUwe17WxD3kh) | [Cold Window](https://open.spotify.com/album/4kykMh5NFYiRSQwrsvCrw5) | 4:24 | 2020-10-20\* | 2021-02-20 |
 | [Collective Minds](https://open.spotify.com/track/6N10x83iNrI0vNERYHCOxH) | [DJ Flat](https://open.spotify.com/artist/0cQgMqUVRqzXspVDS7xWDK) | [Collective Minds](https://open.spotify.com/album/5GOoE1M6EnpYHAGmfbjtIp) | 6:14 | 2021-01-29 | 2021-02-12 |
 | [Connectivity Dub](https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Resonance](https://open.spotify.com/album/1LXSTaP6BPL4ywBG3nZYEd) | 6:46 | 2021-08-25 | 2021-10-16 |
@@ -287,6 +289,7 @@
 | [Lola](https://open.spotify.com/track/7tTL846SbtFK05waG77G0B) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Lola](https://open.spotify.com/album/7EeHCYJmcrBeCM8eKXWeRa) | 6:21 | 2021-06-23 | 2021-08-25 |
 | [Loner](https://open.spotify.com/track/4NAotGx7FH4Q014Eyuub6j) | [Needy Greedy](https://open.spotify.com/artist/1AihmL4bp8NyeuwuEg2IaP) | [Loner](https://open.spotify.com/album/44XvxFk642JZL6e7nN1I6v) | 2:37 | 2023-06-02 |  |
 | [Loose Track](https://open.spotify.com/track/2Pb0kFoTW69caBRsiKN4Z8) | [Chilldine](https://open.spotify.com/artist/5iAKjp62cPdw1BgkXruG4O) | [Loose Track](https://open.spotify.com/album/1ujIEH3wOFopsIAKUTHgnX) | 3:11 | 2022-11-25 |  |
+| [Lost Traces](https://open.spotify.com/track/3hIIu3IWfzTx36Q67XKOTz) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Lost Traces](https://open.spotify.com/album/7rB1l9u8ANMqc9hMbWCf2k) | 4:10 | 2024-02-13 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-12 | 2022-08-05 |
 | [Love And Bass \- Art Alfie Remix](https://open.spotify.com/track/0oodhkRajpYiV6fwDU4jJS) | [Maneten](https://open.spotify.com/artist/2aHZqoxlKM0bQJEkgUVxhC), [Art Alfie](https://open.spotify.com/artist/7g9ewvDvPJxRVRCofG9xRY) | [Love And Bass \(Art Alfie Remix\)](https://open.spotify.com/album/4BwceKAMTvFX6pH9ak5hiu) | 8:50 | 2021-01-15 | 2021-03-06 |
 | [Love funk](https://open.spotify.com/track/73t9mulHQgjAKRccY2qVTf) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Love funk](https://open.spotify.com/album/3ZEKvm1gd0UrBq6lyuRSTD) | 2:02 | 2023-03-10 | 2023-08-12 |

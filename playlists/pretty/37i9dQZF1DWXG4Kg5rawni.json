@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 97673,
+  "num_followers": 97717,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjljYzM2ODMyNWMwZDU3ZDUyNzJiMWY3MmI2NDBjZjNmYThmZDg3",
+  "snapshot_id": "MCwxYTM0M2JiYmQxN2EwMjJlNjBlZGQ3ZjQxZGM3YTRkOWM1NDZjYWY4",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 230878,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Desde o Primeiro Sim",
         "url": "https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 268190,
       "name": "Desde o Primeiro Sim",
       "url": "https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 230878,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Cabelo solto - Playback",
-        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 236251,
-      "name": "Escolhi Te Esperar",
-      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Disse Sim",
         "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 201874,
       "name": "Disse Sim",
       "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 267772,
+      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
+        "name": "Cabelo solto - Playback",
+        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 267772,
-      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
+      "duration_ms": 236251,
+      "name": "Escolhi Te Esperar",
+      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Mulher Realizada",
-        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 257648,
-      "name": "Mulher Realizada",
-      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 303020,
       "name": "A Perfei\u00e7\u00e3o de Deus",
       "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Mulher Realizada",
+        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 257648,
+      "name": "Mulher Realizada",
+      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Onde Est\u00e1 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        },
+        {
+          "name": "Sarah Renata",
+          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+        }
+      ],
+      "duration_ms": 246444,
+      "name": "Onde Est\u00e1 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 127093,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Onde Est\u00e1 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        },
-        {
-          "name": "Sarah Renata",
-          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
-        }
-      ],
-      "duration_ms": 246444,
-      "name": "Onde Est\u00e1 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Um Pedacinho do C\u00e9u",
-        "url": "https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        }
-      ],
-      "duration_ms": 233620,
-      "name": "Um Pedacinho do C\u00e9u",
-      "url": "https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Deus Voc\u00ea e Eu",
         "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 219440,
       "name": "Deus Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Um Pedacinho do C\u00e9u",
+        "url": "https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        }
+      ],
+      "duration_ms": 233620,
+      "name": "Um Pedacinho do C\u00e9u",
+      "url": "https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ"
     },
     {
       "added_at": "2023-07-14 16:56:11",

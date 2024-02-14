@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,319 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,338 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 |
-| 2 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
-| 3 | [Not Bad](https://open.spotify.com/track/4lgb0ZbGN8cme2W8bDV10B) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [Not Bad](https://open.spotify.com/album/1Ohx16zY1YX3fc0zd5b4Vf) | 4:45 |
-| 4 | [きっとね!](https://open.spotify.com/track/1aleydUWuiBfdhxe8CMyV1) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [AINOU](https://open.spotify.com/album/2HC4JdZb7ZqFto0xX4OkMv) | 4:06 |
-| 5 | [Who](https://open.spotify.com/track/5yzQiMQD2Fei3CiXb849MX) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [CATCH](https://open.spotify.com/album/5TtAe1l8OIoCikcgrWhLxV) | 4:49 |
-| 6 | [Kyoto Gardens](https://open.spotify.com/track/4pMa1ovtjpq8kTiTxUGQYU) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Kyoto Gardens](https://open.spotify.com/album/48r9zb2kBSfegLL4HvLE5o) | 2:45 |
-| 7 | [marten](https://open.spotify.com/track/1Ne2In4h9afW7o4jwY015K) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:27 |
-| 8 | [京都](https://open.spotify.com/track/4yzSiZGtwCIa3sku0v60jv) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [日本](https://open.spotify.com/album/3fdYfZ7IpS4oeKcNMK3HL9) | 4:29 |
-| 9 | [untitled](https://open.spotify.com/track/6Pn1Vq9ubtguEO1QaO8DXk) | [The L.B.](https://open.spotify.com/artist/5GY7ls4IK8kxpIPhsdOrDX), [Lin](https://open.spotify.com/artist/4YAz97xFI0XcbVaK3QMuPA) | [untitled](https://open.spotify.com/album/2TRJIEzxHCQzKf5nYydRJf) | 3:08 |
-| 10 | [Belling Cat](https://open.spotify.com/track/4AaUDNce4PKKE2v4IO0ZkF) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [Belling Cat](https://open.spotify.com/album/4yFi2J0Gt55e7E7nhCOrMD) | 3:18 |
-| 11 | [RIVER](https://open.spotify.com/track/6vHD8xxVud6WwOUA09s0g8) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 4:23 |
-| 12 | [深夜高速](https://open.spotify.com/track/6PfPW3miLFk5r95rOCqepY) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 4:21 |
-| 13 | [丸の内サディスティック](https://open.spotify.com/track/6PDL4t1R5m3kYN2qIumKc1) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Love & Groove Delivery](https://open.spotify.com/album/2ybDbV5RhfXim6vLWH2ymt) | 4:03 |
-| 14 | [爆裂パニエさん](https://open.spotify.com/track/31b9RFc5SP5sZ7OQaWnJz7) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [爆裂トリコさん](https://open.spotify.com/album/6RYNu5Ic37J5ulnePficdz) | 3:52 |
-| 15 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
-| 16 | [odoraba dance](https://open.spotify.com/track/25PcIfK0930uCEtJUFKlS0) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [odoraba dance](https://open.spotify.com/album/6ehNFkpq1i9Daa54FmMmhH) | 3:19 |
-| 17 | [two moons](https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk) | 4:10 |
-| 18 | [花時雨](https://open.spotify.com/track/6qyvH9arvY9RYzlwxXiIb3) | [Qyoto](https://open.spotify.com/artist/6iQ3UtYM6LPmprxJEEMFbC) | [花時雨/夏の雪 \(Special Edition\)](https://open.spotify.com/album/6MvMxCvrVR5zwYeGDQiPUy) | 5:29 |
-| 19 | [アイミル](https://open.spotify.com/track/3ovTFZCNLiE263FYsx0YWn) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:48 |
+| 2 | [サテライト](https://open.spotify.com/track/142nSIc5y8DXVfWmxQhQ4b) | [YUNOWA](https://open.spotify.com/artist/1Oi9jYhqRQffDoihkzMon8) | [Phantom](https://open.spotify.com/album/2fyaATeWHevI5dOgQ79oMX) | 4:08 |
+| 3 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
+| 4 | [Not Bad](https://open.spotify.com/track/4lgb0ZbGN8cme2W8bDV10B) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [Not Bad](https://open.spotify.com/album/1Ohx16zY1YX3fc0zd5b4Vf) | 4:45 |
+| 5 | [きっとね!](https://open.spotify.com/track/1aleydUWuiBfdhxe8CMyV1) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [AINOU](https://open.spotify.com/album/2HC4JdZb7ZqFto0xX4OkMv) | 4:06 |
+| 6 | [Who](https://open.spotify.com/track/5yzQiMQD2Fei3CiXb849MX) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [CATCH](https://open.spotify.com/album/5TtAe1l8OIoCikcgrWhLxV) | 4:49 |
+| 7 | [Kyoto Gardens](https://open.spotify.com/track/4pMa1ovtjpq8kTiTxUGQYU) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Kyoto Gardens](https://open.spotify.com/album/48r9zb2kBSfegLL4HvLE5o) | 2:45 |
+| 8 | [marten](https://open.spotify.com/track/1Ne2In4h9afW7o4jwY015K) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:27 |
+| 9 | [京都](https://open.spotify.com/track/4yzSiZGtwCIa3sku0v60jv) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [日本](https://open.spotify.com/album/3fdYfZ7IpS4oeKcNMK3HL9) | 4:29 |
+| 10 | [untitled](https://open.spotify.com/track/6Pn1Vq9ubtguEO1QaO8DXk) | [The L.B.](https://open.spotify.com/artist/5GY7ls4IK8kxpIPhsdOrDX), [Lin](https://open.spotify.com/artist/4YAz97xFI0XcbVaK3QMuPA) | [untitled](https://open.spotify.com/album/2TRJIEzxHCQzKf5nYydRJf) | 3:08 |
+| 11 | [Belling Cat](https://open.spotify.com/track/4AaUDNce4PKKE2v4IO0ZkF) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [Belling Cat](https://open.spotify.com/album/4yFi2J0Gt55e7E7nhCOrMD) | 3:18 |
+| 12 | [RIVER](https://open.spotify.com/track/6vHD8xxVud6WwOUA09s0g8) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 4:23 |
+| 13 | [深夜高速](https://open.spotify.com/track/6PfPW3miLFk5r95rOCqepY) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 4:21 |
+| 14 | [丸の内サディスティック](https://open.spotify.com/track/6PDL4t1R5m3kYN2qIumKc1) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Love & Groove Delivery](https://open.spotify.com/album/2ybDbV5RhfXim6vLWH2ymt) | 4:03 |
+| 15 | [爆裂パニエさん](https://open.spotify.com/track/31b9RFc5SP5sZ7OQaWnJz7) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [爆裂トリコさん](https://open.spotify.com/album/6RYNu5Ic37J5ulnePficdz) | 3:52 |
+| 16 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
+| 17 | [odoraba dance](https://open.spotify.com/track/25PcIfK0930uCEtJUFKlS0) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [odoraba dance](https://open.spotify.com/album/6ehNFkpq1i9Daa54FmMmhH) | 3:19 |
+| 18 | [two moons](https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk) | 4:10 |
+| 19 | [花時雨](https://open.spotify.com/track/6qyvH9arvY9RYzlwxXiIb3) | [Qyoto](https://open.spotify.com/artist/6iQ3UtYM6LPmprxJEEMFbC) | [花時雨/夏の雪 \(Special Edition\)](https://open.spotify.com/album/6MvMxCvrVR5zwYeGDQiPUy) | 5:29 |
 | 20 | [Hananoen](https://open.spotify.com/track/6dZlTcpwGFYp8GAJZ5YVj1) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [Hananoen](https://open.spotify.com/album/4vqiJuqMIxgWmyMAD0enTY) | 3:06 |
 | 21 | [MUSIC!!](https://open.spotify.com/track/6tGF0Xhpl3vX94Kj8GKF5Z) | [Yohei Hamabata](https://open.spotify.com/artist/1drUzjMSbfmFBfTBQGzoNO) | [BIG MUSIC](https://open.spotify.com/album/5HxeS8jvQu8fF4kKwGA7xK) | 5:38 |
 | 22 | [fuwarin](https://open.spotify.com/track/3B7wgtlmTXGfAiMRnq1NmS) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Kamisori Otome](https://open.spotify.com/album/2GatVW3cnHi3riWYrr6rQh) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 49 | [Shinko](https://open.spotify.com/track/5re6UiqS8cjhzvEjSoa591) | [ihatemago](https://open.spotify.com/artist/4SMq39eDgIl79a7W2LFcmT), [Senritsu](https://open.spotify.com/artist/3Lgg4fqIYWtC0kYfYwqfMT) | [Shinko](https://open.spotify.com/album/66KVgNa64HVLJhTVmscg2z) | 3:41 |
 | 50 | [still have us MIDORI](https://open.spotify.com/track/2LOvCykYnLq90xaK02H2C2) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [Quarternote 2nd \- THE BEST OF ODANI MISAKO 1996\-2003 \-DIGITAL EDITION](https://open.spotify.com/album/2PlXlcCWNPv60W9TqMYnC9) | 4:12 |
 
-Snapshot ID: `MCxkOTQ1ZGMwYzcxNWU4ZTNhNTcyYzBhN2M5ODQxZGE4NDBkNTIzN2Qz`
+Snapshot ID: `MCxiMGZmZjMwZjYzMDkzNmVmOWNkMDM0YzAyNjBmNTBiNjgwMDkyNzFj`

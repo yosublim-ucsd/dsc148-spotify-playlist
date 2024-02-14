@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Cloonee",
-  "num_followers": 607562,
+  "num_followers": 607661,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDAyODRiNTg3ZGE0ZTc1YjU3ZDE0MzA3MmNmNTQ2YWZmNjUwZWRm",
+  "snapshot_id": "MCwwODE3NDQ1YjJhMDY3YTBkNzc5ZTYyNzQyNTAzNjJkYjNiZDI0MzIz",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Function",
+        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "The Function",
+      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Ready To Go (My Addiction)",
@@ -995,22 +1011,6 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Function",
-        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "The Function",
-      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1145,26 +1145,6 @@
       "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Me Me Me EP",
-        "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Nala",
-          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
-        }
-      ],
-      "duration_ms": 338446,
-      "name": "Me Me Me",
-      "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Tututu (Radio Edit)",
@@ -1201,22 +1181,6 @@
       "url": "https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Lady (Hear Me Tonight)",
@@ -1235,6 +1199,42 @@
       "duration_ms": 134880,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Me Me Me EP",
+        "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Nala",
+          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        }
+      ],
+      "duration_ms": 338446,
+      "name": "Me Me Me",
+      "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Moonlight",
@@ -1355,6 +1339,22 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1633,26 +1633,6 @@
       "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "The Funk You Want",
-        "url": "https://open.spotify.com/album/6lUIgHmDWEuFJK5q6uIoXx"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
-        }
-      ],
-      "duration_ms": 167163,
-      "name": "The Funk You Want",
-      "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Weeping Willow",
@@ -1671,6 +1651,26 @@
       "duration_ms": 215091,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Funk You Want",
+        "url": "https://open.spotify.com/album/6lUIgHmDWEuFJK5q6uIoXx"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 167163,
+      "name": "The Funk You Want",
+      "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 166625,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Favela Joint",
         "url": "https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 218604,
       "name": "Favela Joint",
       "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 166625,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2137,6 +2137,22 @@
       "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Shake What Yo Mama",
+        "url": "https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Shake What Yo Mama",
+      "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "LALALA",
@@ -2161,20 +2177,44 @@
       "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Shake What Yo Mama",
-        "url": "https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB"
+        "name": "PLAY SOME RECORDS",
+        "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
         }
       ],
-      "duration_ms": 193488,
-      "name": "Shake What Yo Mama",
-      "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
+      "duration_ms": 168983,
+      "name": "PLAY SOME RECORDS",
+      "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2207,46 +2247,6 @@
       "duration_ms": 161250,
       "name": "Diva Drums",
       "url": "https://open.spotify.com/track/6f7fDS9gIPKCNB6MVijLsQ"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Drum Machine",
-        "url": "https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Drum Machine",
-      "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "PLAY SOME RECORDS",
-        "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Dances",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
-        }
-      ],
-      "duration_ms": 168983,
-      "name": "PLAY SOME RECORDS",
-      "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2305,42 +2305,6 @@
       "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "I Know A Place",
-        "url": "https://open.spotify.com/album/1nyd1mlE54h52ZrjpTa1iB"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 185615,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/5mLjx2b0uwuA75KqWBey5N"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Dive In (feat. Notelle)",
-        "url": "https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Dive In (feat. Notelle)",
-      "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Ooh LALA",
@@ -2381,6 +2345,42 @@
       "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Dive In (feat. Notelle)",
+        "url": "https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Dive In (feat. Notelle)",
+      "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "I Know A Place",
+        "url": "https://open.spotify.com/album/1nyd1mlE54h52ZrjpTa1iB"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 185615,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/5mLjx2b0uwuA75KqWBey5N"
+    },
+    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Break Me",
@@ -2395,22 +2395,6 @@
       "duration_ms": 204875,
       "name": "Break Me",
       "url": "https://open.spotify.com/track/3dyVoiP0ILIhXX2M7vLbb4"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Are You Feeling This? / Stay Focused",
-        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        }
-      ],
-      "duration_ms": 166380,
-      "name": "Are You Feeling This?",
-      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2439,6 +2423,22 @@
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Are You Feeling This? / Stay Focused",
+        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "duration_ms": 166380,
+      "name": "Are You Feeling This?",
+      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
     }
   ],
   "unique_name": "Tech House Operator",

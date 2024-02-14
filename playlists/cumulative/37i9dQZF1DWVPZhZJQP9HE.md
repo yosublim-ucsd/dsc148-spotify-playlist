@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-501 songs - 1 day 5 hr 46 min
+502 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Ayyo Saami](https://open.spotify.com/track/7mgiW2UFOMEO08ZKNlDzPg) | [Windy Goonatillake](https://open.spotify.com/artist/5ZytAAlFTBsWXrqbve4qnt), [SANUKA](https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe) | [Ayyo Saami](https://open.spotify.com/album/1F6XP6sxbNiSReKBiddNnL) | 3:22 | 2022-11-10 | 2023-01-11 |
 | [Azhaga Oru Ponna 1 Min Music](https://open.spotify.com/track/7wQP8pNqkPcDxRsKYfBXhe) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Azhaga Oru Ponna 1 Min Music](https://open.spotify.com/album/58U7twYNvQ5UIqAqJxPaXf) | 1:04 | 2023-02-17 | 2023-03-11 |
 | [Azhagaai](https://open.spotify.com/track/1MIPmljysSLID51OCYEVK2) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY) | [Azhagaai](https://open.spotify.com/album/6h0Gms0Q7pWShPRYUEZJI7) | 3:54 | 2022-08-05 | 2023-02-07 |
-| [Azhagaana Vaaname](https://open.spotify.com/track/2X9AwXEdhVITzPQyNIqsxP) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW) | [Azhagaana Vaaname](https://open.spotify.com/album/4fdhheqedEO8H4Axwfw2dF) | 2:55 | 2023-03-29 |  |
+| [Azhagaana Vaaname](https://open.spotify.com/track/2X9AwXEdhVITzPQyNIqsxP) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW) | [Azhagaana Vaaname](https://open.spotify.com/album/4fdhheqedEO8H4Axwfw2dF) | 2:55 | 2023-03-29 | 2024-02-14 |
+| [Azhagaana Vaaname](https://open.spotify.com/track/53X9pbk76O75M6xa5ZnZhM) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW) | [Azhagaana Vaaname](https://open.spotify.com/album/5juUJu0mG22LwFsYJuNAlZ) | 2:55 | 2023-03-29 |  |
 | [Azhagai Oru Matram](https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd) | [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C), [Nirushka Paiva](https://open.spotify.com/artist/5aNpNoS5ntHTUIEvGcCBc7), [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI) | [Azhagai Oru Matram](https://open.spotify.com/album/6GrbtoW90L2SVgNN5a8veW) | 3:13 | 2022-12-23 | 2023-03-22 |
 | [Azhagale](https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf) | [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01), [Ishita Premnath](https://open.spotify.com/artist/6GdS9YEjh6oCoyARskMTt9), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Azhagale](https://open.spotify.com/album/6YhqkTX8SmTCD9C6XZZ7c4) | 3:52 | 2023-01-27 | 2023-07-25 |
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,394 likes - 71 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,527 likes - 71 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 23 | [Ajab Apna Haal Hota](https://open.spotify.com/track/79w1q2K3Hz22ZFFfdlRYkn) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX) | [Ghazals & Thumris From The Musical Heart of Budapest](https://open.spotify.com/album/230wmWIepyGVyO0OW5ptyM) | 3:48 |
 | 24 | [Kaun Aayega Yahan](https://open.spotify.com/track/43ohGfWWEI0dQnBXQ8KyEU) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Unique \- Jagjit Singh](https://open.spotify.com/album/6UAJt94BITRYHDAFBpzRCB) | 6:46 |
 | 25 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
-| 26 | [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 |
+| 26 | [Ishq mein aalaa](https://open.spotify.com/track/2aFHX0cbXZyy6U0zy3G87s) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/60389M2luybJW1gWNTdj8r) | 4:04 |
 | 27 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
 | 28 | [Ajnabi Shehar Mein](https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp) | [Ashok Khosla](https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:33 |
 | 29 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 70 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
 | 71 | [Nazar Mujhse](https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz) | [Ahmed Hussain](https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1), [Mohammed Hussain](https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0) | [The Great Ghazals](https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN) | 7:30 |
 
-Snapshot ID: `MCw0NTIxOTA1YzYzNmM2ODkzYzNjYjM2ZjcwNGI4NmI1MDMzNDc1YjJj`
+Snapshot ID: `MCxiOTQ2YmU3ZWNlZGY5ZTVhZWIwNjRmNWUxMDg1ZDhlZGUyNTZjOGQ2`

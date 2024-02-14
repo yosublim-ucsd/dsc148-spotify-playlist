@@ -2667,6 +2667,52 @@
     },
     {
       "album": {
+        "name": "mumin",
+        "url": "https://open.spotify.com/album/5sjCweO5es6KEnFxoMhR6d"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u96fb\u8133",
+          "url": "https://open.spotify.com/artist/3kuPyFgDUrMNZtxyH4OMWy"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Masayoshi Iimori",
+          "url": "https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU"
+        },
+        {
+          "name": "Native Rapper",
+          "url": "https://open.spotify.com/artist/3wNofqxR3a4Qw0zw5ioQDR"
+        },
+        {
+          "name": "\u306d\u306d\u308b\u306d\u308b(CV:\u82fa\u308a\u306a\u306f\u3080)",
+          "url": "https://open.spotify.com/artist/2wBeeE6ER6taHmSlkTEtHl"
+        },
+        {
+          "name": "\u516b\u6ce2\u96f6\u97f3(CV:yAmmy)",
+          "url": "https://open.spotify.com/artist/0c4cJp0NFSL0IaKLA7OeTw"
+        },
+        {
+          "name": "\u53f6\u30d2\u30ab\u30ea(CV:\u3041\u3043\u3041\u3043)",
+          "url": "https://open.spotify.com/artist/2RQMHd3ciZQhzIBnfNrHg1"
+        },
+        {
+          "name": "\u82fa\u308a\u306a\u306f\u3080",
+          "url": "https://open.spotify.com/artist/3Vu1uwsbXksmZZD2vZeqmZ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "mumin",
+      "url": "https://open.spotify.com/track/0WcQxjHUHUWlFY4uo7zIus"
+    },
+    {
+      "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
       },

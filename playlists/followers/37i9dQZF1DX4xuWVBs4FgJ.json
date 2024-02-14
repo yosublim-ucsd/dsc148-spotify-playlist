@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 1642646,
+  "2024-02-14": 1642946,
   "date_first_scraped": "2021-12-21",
   "description": "The perfect soundtrack to those long nights over dinner",
   "name": "Dinner with Friends",
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 348093,
       "name": "Gamesofluck",
       "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
@@ -4961,6 +4961,24 @@
       "duration_ms": 276498,
       "name": "Real?",
       "url": "https://open.spotify.com/track/1r0bORzz4Ooi8EpFGC6rxe"
+    },
+    {
+      "album": {
+        "name": "Redemption Song (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3tKfzRSjAhQQvbdmI37KQh"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "Redemption Song - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/07zD3s1Xu3fmeV1J8mfVlA"
     },
     {
       "album": {

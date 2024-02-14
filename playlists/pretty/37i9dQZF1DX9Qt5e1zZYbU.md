@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,676 likes - 31 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,686 likes - 31 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 | 21 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 22 | [Teeth](https://open.spotify.com/track/1na0Xt9FOC6tStZo2uhY8R) | [Now, Now Every Children](https://open.spotify.com/artist/5KAqbQU3ysjnYhro2BjiL5) | [In The City EP](https://open.spotify.com/album/2dJeDy1FPO8qGq1gT4lpXE) | 2:48 |
 | 23 | [Rimbaud, Come and Sit For A While](https://open.spotify.com/track/1ShRWt18k9J787eow3aLbZ) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Crying In The Prettiest Places](https://open.spotify.com/album/5ON9itdFujYUliUAlGezJB) | 3:54 |
-| 24 | [Starring](https://open.spotify.com/track/2aeDbtWEBWJ3bjk4wZw1zZ) | [Freelance Whales](https://open.spotify.com/artist/7ucqItQmz1PCNHBFSbr0ki) | [Weathervanes](https://open.spotify.com/album/0isPJRkQrauUgQok8AKKwj) | 3:34 |
+| 24 | [Starring](https://open.spotify.com/track/73w47iG3XBhRsWgkpKRoR9) | [Freelance Whales](https://open.spotify.com/artist/7ucqItQmz1PCNHBFSbr0ki) | [Weathervanes](https://open.spotify.com/album/3ssnLUShiI1hn1N2c2CfeA) | 3:34 |
 | 25 | [グッドバイ \-album version\-](https://open.spotify.com/track/30oddeV4b75MDQ6JvkAXCW) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk) | 7:05 |
 | 26 | [Another Number](https://open.spotify.com/track/4za1ubo1tTBcAVrHEYDAzM) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [The Cribs](https://open.spotify.com/album/0bTPv3NxMIWhoREekojaW8) | 2:53 |
 | 27 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 | 30 | [Tie Me up with Jackets](https://open.spotify.com/track/4ABGT5RsKi6wZfQ9Bxsbal) | [Fight Like Apes](https://open.spotify.com/artist/2VOkiGmdX339sjwVUeYYr4) | [Fight Like Apes and the Mystery of the Golden Medallion](https://open.spotify.com/album/65ArGbPjmM3riA86WmOZgZ) | 2:35 |
 | 31 | [Anti\-Anti](https://open.spotify.com/track/49LwAJvjOP7kEZoCJihnN0) | [Snowden](https://open.spotify.com/artist/6Gb8mAVRq8aK1yfGnfVAg3) | [Anti\-Anti](https://open.spotify.com/album/312J338tGDj3Opad5DJJT4) | 3:55 |
 
-Snapshot ID: `MCxkNWQ5MTNhZmUyNzdlZjc3ZWJiOGViZmQ1ZDI5MmVjZjMzZDU3Nzcw`
+Snapshot ID: `MCwxN2FlYjliZGRjZDRiMzBiODBiYWM2Y2U2OGU1MDgxMDE5MTNjY2U3`

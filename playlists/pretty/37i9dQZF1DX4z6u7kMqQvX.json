@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105328,
+  "num_followers": 105330,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODMzODEyMzYwNTZjYjJlNDMzYzYwMzY1YTdjOTdmNDFiYmM1ZDFl",
+  "snapshot_id": "MCwyMDI4ZmI0MzEwZjI1NWUyM2MzN2YzYWJmMjQ2NmE1OWEwMDBjZjE4",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Una Caricia",
+      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "C\u00f3smica",
         "url": "https://open.spotify.com/album/7ypr3KPhXSttdn4I1kp1qi"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 187514,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Una Caricia",
-      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Por los Dos",
-        "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
+        "name": "Romance de Fin de Semana",
+        "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
       "artists": [
         {
-          "name": "Panda Elliot",
-          "url": "https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve"
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Por los Dos",
-      "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
+      "duration_ms": 275670,
+      "name": "Romance de Fin de Semana",
+      "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
     }
   ],
   "unique_name": "Amor Indie",

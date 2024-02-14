@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Bhediya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,314 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,748 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 33 | [Mere Sohneya](https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:13 |
 | 34 | [Mere Yaaraa \(From "Sooryavanshi"\)](https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Mere Yaaraa \(From "Sooryavanshi"\)](https://open.spotify.com/album/1XO82yE4raeQEBSHxrNuSe) | 4:45 |
 | 35 | [Kaun Tujhe](https://open.spotify.com/track/5T2ZZiBMDGh3TZDUbxg4rV) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 4:01 |
-| 36 | [Suno\- Na Sangemarmar](https://open.spotify.com/track/0RrR3wg4ezBVwm7lyeybir) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Youngistaan](https://open.spotify.com/album/1uHt5HvELZt61uOZrCPuVD) | 3:21 |
+| 36 | [Suno\- Na Sangemarmar \(From "Youngistaan\)](https://open.spotify.com/track/2ESscisnKdryn50fPeHd7O) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Dose Arijit Singh](https://open.spotify.com/album/5aRPSAhsXgpXhxRF8q1aLI) | 3:21 |
 | 37 | [Ik Vaari Aa](https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:34 |
 | 38 | [Paniyon Sa](https://open.spotify.com/track/2si0ZNx4yRbggTvrIom8A2) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Paniyon Sa \(From "Satyameva Jayate"\)](https://open.spotify.com/album/6JsjTQo1PrSQSe7ENpUwXu) | 3:56 |
 | 39 | [Kaise Hua](https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/track/13tg1zpSfWyFQbv09a9LPD) | [Bobby\-Imran](https://open.spotify.com/artist/5HgB3r11CTMckYeopesztP), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/album/376E0BuJNLEggasPjj2MST) | 4:32 |
 | 75 | [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 |
 
-Snapshot ID: `MCw0Mzk5MDQ4ZDNiMjljNTQyNzQ5YzMxYWUzZmI2MTU0YzZlYTEzNjM3`
+Snapshot ID: `MCxiMGJmNDFkN2EyZWI3M2Y5ZjJkZWNiMjg1NWMwMmViOTBjNWVjNmI5`

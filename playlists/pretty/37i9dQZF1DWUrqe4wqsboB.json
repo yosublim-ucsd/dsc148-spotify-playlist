@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Sie7e",
-  "num_followers": 4941,
+  "num_followers": 4945,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWJlOTI5OTRjODk2NTE0YzZjYjI1ZTgyOGVmOWJiNGJlYzlkZDAx",
+  "snapshot_id": "MCw3YzU0NjFlMDc5YzNmOTY0OGVmMzNmMWVmYTM4NTIxNTc0YTk1MmRk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 200232,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Hasta el final",
         "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 187500,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200232,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+        "name": "Circuito por Mil\u00e1n",
+        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
       "artists": [
         {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
         }
       ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+      "duration_ms": 194707,
+      "name": "Circuito por Mil\u00e1n",
+      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Circuito por Mil\u00e1n",
-        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
       "artists": [
         {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
         }
       ],
-      "duration_ms": 194707,
-      "name": "Circuito por Mil\u00e1n",
-      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Cromo Rx",
+        "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
+      "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Me Saben a Miel",
         "url": "https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Cromo Rx",
-        "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
-      "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Toco Madera",
         "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
       },
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "El Hijo de Borik\u00e9n",
+        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
+      },
+      "artists": [
+        {
+          "name": "El Hijo de Borik\u00e9n",
+          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Flow Criollo",
+      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Beso Con Sal",
         "url": "https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 153333,
       "name": "Beso Con Sal",
       "url": "https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "El Hijo de Borik\u00e9n",
-        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
-      },
-      "artists": [
-        {
-          "name": "El Hijo de Borik\u00e9n",
-          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Flow Criollo",
-      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
     },
     {
       "added_at": "2024-01-26 05:00:00",

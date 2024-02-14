@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,009 songs - 2 day 4 hr 53 min
+1,011 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Jinx](https://open.spotify.com/track/3NreeKDKXqET25p7w1UxXZ) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n) | [Jinx](https://open.spotify.com/album/4FVnSnXWuUsL8dD3avOL0h) | 3:30 | 2023-12-08 |  |
 | [Journée de merde.](https://open.spotify.com/track/2GzLKB9LnboEfhKxFHuRfC) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN) | [Journée de merde.](https://open.spotify.com/album/6SITryF4euMgRubCc3slzm) | 3:41 | 2022-12-16 | 2022-12-27 |
 | [Judgment](https://open.spotify.com/track/6cNI4u2l16hLBrbwTV8FMn) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [ARIA VEIL](https://open.spotify.com/artist/545ajuo5TGZsKToAf1CS6j) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 5:14 | 2022-07-01 | 2022-07-29 |
+| [Jungle \- Arcando Remix](https://open.spotify.com/track/3tFq8IZqLaqnZO0rxbcanH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [Jungle \(Remixes\)](https://open.spotify.com/album/1neo0jmhJ3mY4MBMPrTIFa) | 2:43 | 2024-02-13 |  |
 | [JUPITER \- Slow Magic Juno Remix](https://open.spotify.com/track/2m35MFQGUaEJeYlI8C7HBl) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [JUPITER \(Slow Magic Juno Remix\)](https://open.spotify.com/album/0HgzxRbs60fJGk6ynToiOB) | 2:43 | 2022-01-14 | 2022-09-15 |
 | [Just A Game](https://open.spotify.com/track/29HmyW9lUWi4UbuIwrlErO) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [CØRT](https://open.spotify.com/artist/72uc6BIn48ZMOwbS4hMlGU) | [Just A Game](https://open.spotify.com/album/5YIwaeaVvpkxpheIfJQZMj) | 2:17 | 2023-09-25 | 2023-10-28 |
 | [Just Burn VIP \- Message North Remix](https://open.spotify.com/track/6C1cBvvl9waNnkaAxKndPy) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F), [Alter.](https://open.spotify.com/artist/6QbSwCeNaIhbfp1jpZ02nZ), [Message North](https://open.spotify.com/artist/0Ah39SwMEBX3eacVMTGiUm) | [Just Burn VIP \(Message North Remix\)](https://open.spotify.com/album/0N6KZyZ3oTMT8lxZDgURLj) | 3:56 | 2022-05-06 | 2022-06-04 |
@@ -583,6 +584,7 @@
 | [mother, you made my life complete](https://open.spotify.com/track/3qEwztpLxQhnjUN2Scm6dQ) | [MEJKO](https://open.spotify.com/artist/4unbLEffqWDwtD3QZbxXPk) | [mother, you made my life complete](https://open.spotify.com/album/6q1vsrSQPswB9zNWTeLc6m) | 3:49 | 2022-07-21 | 2022-08-20 |
 | [Mountains](https://open.spotify.com/track/3OCP6NDxlpQhFfcKOeZl7r) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Mountains](https://open.spotify.com/album/2ZvTo6EBXqaIct16IL4WDC) | 2:51 | 2022-03-04 | 2022-04-02 |
 | [MOVE](https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [MOVE](https://open.spotify.com/album/1tKXqkiVYgkkfFicEFPjqy) | 2:47 | 2022-01-14 | 2022-09-15 |
+| [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 | 2024-02-13 |  |
 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 | 2023-08-25 | 2023-10-14 |
 | [Multicolore](https://open.spotify.com/track/6KEQoLLr2kXLFKjiAFcxlW) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Multicolore](https://open.spotify.com/album/71FiFt0GL3GWW7FQkvTQfS) | 2:04 | 2022-08-05 | 2022-09-07 |
 | [My Circle](https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [My Circle](https://open.spotify.com/album/4kZIQPP4EbHyEuSBzhnbUi) | 2:39 | 2022-01-28 | 2022-02-26 |

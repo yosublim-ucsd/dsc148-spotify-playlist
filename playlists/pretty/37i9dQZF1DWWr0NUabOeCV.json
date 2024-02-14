@@ -1,12 +1,12 @@
 {
   "description": "Para iniciar la fiesta. \u00a1Salud!",
-  "num_followers": 98,
+  "num_followers": 70,
   "original_name": "Toneras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjhmZmVmODA0N2Q4ZWJmY2IyMzc4MjA1ODdhZTU4NDMxMTY1Y2M4",
+  "snapshot_id": "MCwxNzBkZGM0MWJlZDY3NjQ4NGNlZWUxZTZmMGU2ZDRhNTNiY2NiMGNj",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Mal de Amores",
-        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]",
         "url": "https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 382555,
       "name": "La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
       "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Mal de Amores",
+        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/7rIzHJuN0QshlUAz4sLvMZ"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 224553,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3lVN6SBsQxYwB5crcnfynK"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Pic\u00f3",
         "url": "https://open.spotify.com/album/7kA9ZjLyi8S8rSzJbNR8iL"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 165436,
       "name": "Pic\u00f3",
       "url": "https://open.spotify.com/track/3o51j5414efaBNRoqzu60B"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/7rIzHJuN0QshlUAz4sLvMZ"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 224553,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3lVN6SBsQxYwB5crcnfynK"
     },
     {
       "added_at": "2021-12-14 16:04:58",

@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 452187,
+  "num_followers": 452153,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGM0NWVmMjI1N2I3N2I2MzgzYTIzYmUzZWZhODViMzI3MzBhNzM3",
+  "snapshot_id": "MCwyNWYxZDdjODkzMzA5ZDA0YTBmODRiNDZmOGM5MTgxMmU0YWE1NGZm",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "New York Transit Queen",
-        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 109387,
-      "name": "New York Transit Queen",
-      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Sanguivore",
         "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 133307,
       "name": "feel something (feat. Izzy Spears)",
       "url": "https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "New York Transit Queen",
+        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 109387,
+      "name": "New York Transit Queen",
+      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Invite me, kindly",
-        "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
-      },
-      "artists": [
-        {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
-        }
-      ],
-      "duration_ms": 176933,
-      "name": "High Tea",
-      "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "All The Problems",
         "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Invite me, kindly",
+        "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "High Tea",
+      "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -675,38 +675,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Formal Growth In The Desert",
-        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "No Guilt",
-        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
-      },
-      "artists": [
-        {
-          "name": "PROJECTOR",
-          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
-        }
-      ],
-      "duration_ms": 124120,
-      "name": "No Guilt",
-      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Claw",
         "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
       },
@@ -723,6 +691,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Formal Growth In The Desert",
+        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Cave World (Deluxe)",
         "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 283187,
       "name": "It Ain't Enough",
       "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "No Guilt",
+        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "duration_ms": 124120,
+      "name": "No Guilt",
+      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Down There!",
         "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Hiccup",
-        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN"
       },
       "artists": [
         {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
         }
       ],
-      "duration_ms": 105874,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+      "duration_ms": 146496,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Hiccup",
+        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 105874,
+      "name": "Hiccup",
+      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Gonna Get Better",
         "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
       },
@@ -863,38 +863,6 @@
       "duration_ms": 195694,
       "name": "Gonna Get Better",
       "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
-      },
-      "artists": [
-        {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -915,6 +883,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Nah, That Ain't It / Phone Lines Down",
         "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
       },
@@ -927,6 +911,38 @@
       "duration_ms": 123205,
       "name": "Phone Lines Down",
       "url": "https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Cry Your Eyes Out",
+        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 147475,
+      "name": "Cry Your Eyes Out",
+      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -951,18 +967,18 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Cry Your Eyes Out",
-        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
       "artists": [
         {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
         }
       ],
-      "duration_ms": 147475,
-      "name": "Cry Your Eyes Out",
-      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 179562,
       "name": "my little tony",
       "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
-      },
-      "artists": [
-        {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "MORE UK GRIM",
-        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 213402,
-      "name": "Under The Rules",
-      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "MK Nothing",
         "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 204143,
       "name": "MK Nothing",
       "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "MORE UK GRIM",
+        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 213402,
+      "name": "Under The Rules",
+      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Dubious Goals Committee",
-        "url": "https://open.spotify.com/album/7ADlWHy7sSIq7qSiTCwPe8"
-      },
-      "artists": [
-        {
-          "name": "PROJECTOR",
-          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Dubious Goals Committee",
-      "url": "https://open.spotify.com/track/144Jot5eX2l1y9Q70ZlJPs"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Unlike Me",
         "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Dubious Goals Committee",
+        "url": "https://open.spotify.com/album/7ADlWHy7sSIq7qSiTCwPe8"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Dubious Goals Committee",
+      "url": "https://open.spotify.com/track/144Jot5eX2l1y9Q70ZlJPs"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Left Right Forward",
         "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 175116,
       "name": "Left Right Forward",
       "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "'Til the Wheels Fall Off",
+        "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 213435,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 182243,
       "name": "Fast Pace",
       "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "'Til the Wheels Fall Off",
-        "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 213435,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
     },
     {
       "added_at": "2024-01-19 00:00:00",

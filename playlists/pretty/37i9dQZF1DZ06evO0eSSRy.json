@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0NjIzMTUsMDAwMDAwMDA4N2U4NDgxN2Y0YTI3ZTA0ZWMyNTQwMDlhM2IzMTUwMw==",
+  "snapshot_id": "Mjg0NjM3ODQsMDAwMDAwMDA5NmU5OTFiNzQzMmEzM2MwNDdjYzFjMGFhYTBmNTlmMA==",
   "tracks": [
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "The Luck You Had",
         "url": "https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2"
@@ -57,87 +73,7 @@
       "url": "https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 208974,
-      "name": "Journey of the Prairie King",
-      "url": "https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 189579,
-      "name": "Still There",
-      "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 201534,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 154122,
-      "name": "Sailplane",
-      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 197915,
-      "name": "Archives",
-      "url": "https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
@@ -153,39 +89,7 @@
       "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Stick to Silence",
-        "url": "https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 226456,
-      "name": "Stick to Silence",
-      "url": "https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "7-57",
-      "url": "https://open.spotify.com/track/2WMmoQEfnPoPxi7fHDebnK"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
@@ -196,12 +100,44 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
+      "duration_ms": 208974,
+      "name": "Journey of the Prairie King",
+      "url": "https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 154122,
+      "name": "Sailplane",
+      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
@@ -217,39 +153,7 @@
       "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Marcel and the Prince",
-        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Marcel and the Prince",
-      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 228789,
-      "name": "Party's over, Biff",
-      "url": "https://open.spotify.com/track/07eiHw5s87pBGVrLlXyV2n"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
@@ -260,12 +164,44 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 218334,
-      "name": "Water Doctor",
-      "url": "https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI"
+      "duration_ms": 197915,
+      "name": "Archives",
+      "url": "https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Stick to Silence",
+        "url": "https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 226456,
+      "name": "Stick to Silence",
+      "url": "https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 180736,
+      "name": "7-57",
+      "url": "https://open.spotify.com/track/2WMmoQEfnPoPxi7fHDebnK"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
@@ -281,23 +217,7 @@
       "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 177658,
-      "name": "Adriatic",
-      "url": "https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y"
-    },
-    {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
@@ -308,12 +228,44 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 252169,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ"
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Marcel and the Prince",
+        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Marcel and the Prince",
+      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 228789,
+      "name": "Party's over, Biff",
+      "url": "https://open.spotify.com/track/07eiHw5s87pBGVrLlXyV2n"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
@@ -329,7 +281,71 @@
       "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 218334,
+      "name": "Water Doctor",
+      "url": "https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "Adriatic",
+      "url": "https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 185433,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 252169,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ"
+    },
+    {
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/1NnJQSLLWRdHvWu3ZrwRel"
     },
     {
-      "added_at": "2024-02-12 11:55:47",
+      "added_at": "2024-02-13 12:24:54",
       "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"

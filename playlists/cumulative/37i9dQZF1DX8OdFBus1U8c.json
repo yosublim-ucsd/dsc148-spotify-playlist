@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/4YTYTGCVUhvTj5dErwAGbg"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/4pvagScsAtlcfKm0Mbc8p4"
+    },
+    {
+      "album": {
         "name": "Lokam Mayakathilo",
         "url": "https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS"
       },
@@ -2678,7 +2700,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 130500,
       "name": "Therapara",
       "url": "https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS"

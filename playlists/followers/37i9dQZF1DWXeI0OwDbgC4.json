@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 14119,
+  "2024-02-14": 14147,
   "date_first_scraped": "2023-02-01",
   "description": "Even through heartbreak and pain, God\u2019s love remains. Here are songs that cover the crossroads of hope and heartbreak.",
   "name": "Hope & Heartbreak",
@@ -881,7 +881,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 180307,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/0Cgc9eDY9ce3KBdAQMBEbt"
@@ -1727,6 +1727,24 @@
       "duration_ms": 164831,
       "name": "That's On You",
       "url": "https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f"
+    },
+    {
+      "album": {
+        "name": "The Best For Us",
+        "url": "https://open.spotify.com/album/2mgOV0WTIT3NA8BJyuBLof"
+      },
+      "artists": [
+        {
+          "name": "Constanza Herrero",
+          "url": "https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218633,
+      "name": "The Best For Us",
+      "url": "https://open.spotify.com/track/4sZXUgyS6ZAcnJMwl5ZWGf"
     },
     {
       "album": {

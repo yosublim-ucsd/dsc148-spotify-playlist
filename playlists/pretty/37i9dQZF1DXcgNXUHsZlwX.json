@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 117810,
+  "num_followers": 117845,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGRmNDUzMWJjNmNkMWJhN2I1ZTY2YmI0NTc5NWE3Nzk1YzFkMjhk",
+  "snapshot_id": "MCwzYWEzZTdlNTQxYmFiYzYwYWFmYmE5M2ZkNzZhZDkwNmM5ZmEzZDBi",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Closely",
-      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 215560,
       "name": "L'\u00eele \u00e0 vingt-cinq sous",
       "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Closely",
+      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Carrie",
         "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Elle vit dans les bois",
         "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Dormir dans l'auto",
-        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
-      },
-      "artists": [
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Dormir dans l'auto",
-      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Dormir dans l'auto",
+        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Dormir dans l'auto",
+      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 184680,
       "name": "1000 Bornes",
       "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Fables (The Garden Version)",
         "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 176536,
       "name": "Fables - The Garden Version",
       "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "L'eau vive",
-        "url": "https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0"
-      },
-      "artists": [
-        {
-          "name": "Coco M\u00e9li\u00e8s",
-          "url": "https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX"
-        }
-      ],
-      "duration_ms": 241941,
-      "name": "L'eau vive",
-      "url": "https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "(les) m\u00e9andres de la soif",
-        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
+        "name": "L'eau vive",
+        "url": "https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0"
       },
       "artists": [
         {
-          "name": "Barrdo",
-          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
+          "name": "Coco M\u00e9li\u00e8s",
+          "url": "https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX"
         }
       ],
-      "duration_ms": 153789,
-      "name": "4900$",
-      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+      "duration_ms": 241941,
+      "name": "L'eau vive",
+      "url": "https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "(les) m\u00e9andres de la soif",
+        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
+      },
+      "artists": [
+        {
+          "name": "Barrdo",
+          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
+        }
+      ],
+      "duration_ms": 153789,
+      "name": "4900$",
+      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 205386,
       "name": "Californie",
       "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Et si j'\u00e9tais \u00e0 des ann\u00e9es-lumi\u00e8re",
-        "url": "https://open.spotify.com/album/7IqJ0Tf87Lpi18CaA5SeyO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9drik St-Onge",
-          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "J'ai tout oubli\u00e9",
-      "url": "https://open.spotify.com/track/2VdpK4sQBqAuE4W8BtUYAK"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "M\u00e8res",
         "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Et si j'\u00e9tais \u00e0 des ann\u00e9es-lumi\u00e8re",
+        "url": "https://open.spotify.com/album/7IqJ0Tf87Lpi18CaA5SeyO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "J'ai tout oubli\u00e9",
+      "url": "https://open.spotify.com/track/2VdpK4sQBqAuE4W8BtUYAK"
     },
     {
       "added_at": "2024-01-12 05:01:00",

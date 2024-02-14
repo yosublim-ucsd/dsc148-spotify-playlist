@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Livinho com LUDMILLA e DJ Matt D, Luisa Sonza com MC Kevin o Chris  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,207 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,527 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 24 | [Cintura Covarde \- RIMAR 9](https://open.spotify.com/track/11iqg0I2B90nZ8ujMNIs09) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Cintura Covarde \- RIMAR 9](https://open.spotify.com/album/6KD35aUhvoVAzxcRhVlFzI) | 3:49 |
 | 25 | [Tava Escrito nas Estrelas](https://open.spotify.com/track/5Ejedo1zwSlTyhzXxmq53A) | [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9) | [Tava Escrito nas Estrelas](https://open.spotify.com/album/0s15AkyWGJCQ9tNAZh4O25) | 2:47 |
 | 26 | [Indecisão](https://open.spotify.com/track/0kzVsTQDGfDXMKgMMz3uC9) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8), [MC YAM](https://open.spotify.com/artist/713RF0PdqA0FUbnWBImD8c), [Dj Xuxu](https://open.spotify.com/artist/7tBbA2xGIdbsZH0GGLMZaG) | [Indecisão](https://open.spotify.com/album/3x8S0eJPwVXfmlyD8LReoN) | 2:38 |
-| 27 | [Doce Amargo](https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk) | 2:17 |
+| 27 | [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 |
 | 28 | [Calor da Porr\*](https://open.spotify.com/track/4VhoSzWD5AbihNvMTKevH2) | [GAB](https://open.spotify.com/artist/6Coml1MQ7hDHBeswjwWXEQ), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Calor da Porr\*](https://open.spotify.com/album/4vJnUIK2nUZdcxasbvLLHN) | 2:15 |
 | 29 | [Kissing Strangers](https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3) | 3:08 |
 | 30 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Vai Ter Bololô](https://open.spotify.com/track/2bjNckt0HqkftQGUvpG24n) | [Wawa](https://open.spotify.com/artist/1QfU5JG3tOzCW1OGxs6yUa), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA) | [Vai Ter Bololô](https://open.spotify.com/album/0FVS4GR7P3R9nhXnjJ5Ity) | 2:07 |
 | 50 | [Vem Pro Bloco](https://open.spotify.com/track/6436aUR61iBCNcXcSpMrgI) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [DJ Dodô](https://open.spotify.com/artist/1AwayCNfbReYqh7wm3gqDo) | [Vem Pro Bloco](https://open.spotify.com/album/3l16FLEuDFNV8BYumID7KQ) | 2:19 |
 
-Snapshot ID: `MCw4NDg4NTNhMjE2ZjgxYTE1ZmUyYmI3MjQxMjQzOTQ0ZTNjMmYwMTZi`
+Snapshot ID: `MCw4MzZiYWY5MjE3NDcyMjZjYjgzNmI3Yzc3NTZhZmQxZTRhNTg4ZTdk`

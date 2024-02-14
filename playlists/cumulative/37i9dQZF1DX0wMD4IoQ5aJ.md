@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-307 songs - 16 hr 7 min
+312 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-04-15 | 2023-01-07 |
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2022-04-15 | 2023-01-20 |
 | [My Input](https://open.spotify.com/track/32ANfV6JEwOGNyE4C1qppv) | [Daniel Giserman](https://open.spotify.com/artist/2SVMEVjRQzBxCcSIesRMJK) | [My Input](https://open.spotify.com/album/49euhFKdAYk2ijhh8FnNyi) | 4:23 | 2023-01-13 | 2023-11-18 |
+| [Nature](https://open.spotify.com/track/2dZ4r7VM48lBJs4H5s6CJu) | [Grace Knowles](https://open.spotify.com/artist/0KF59NfFsl8JoWKU4e0YLu) | [Nature](https://open.spotify.com/album/3b3R6AduRxkyFHaV6CuzfU) | 2:10 | 2024-02-13 |  |
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2022-04-15 | 2022-06-10 |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 |  |
 | [new job](https://open.spotify.com/track/0CNDAJO2dkVsIvChFbDZqD) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [new job](https://open.spotify.com/album/6wsIt3yA3Q6XVYZAHql9mk) | 2:07 | 2023-01-13 |  |
@@ -196,6 +197,7 @@
 | [no huzzle](https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo) | [lucy m](https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA) | [no huzzle](https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR) | 2:32 | 2022-06-03 | 2023-01-07 |
 | [No Trip](https://open.spotify.com/track/2EeloLo4CTPRnhLDzSVuyc) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 4:03 | 2022-04-15 |  |
 | [Oak](https://open.spotify.com/track/4kQW1ysBjYl5XePA40NKwT) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Lhotse](https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx) | 5:38 | 2022-07-01 | 2023-01-07 |
+| [Oasis](https://open.spotify.com/track/0GnqFaXN9wyxetnG5SfJiL) | [Cantha](https://open.spotify.com/artist/0h3FVpQkufJmhBwXWkg7KL) | [Oasis](https://open.spotify.com/album/3nOZ5S5b8WPYxoYfKvV2Fi) | 2:16 | 2024-02-13 |  |
 | [Odd Numbers](https://open.spotify.com/track/4yh8kzJGue7ONe9rIrNjns) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [Odd Numbers](https://open.spotify.com/album/5ZMos83Et2B7PmLU36Phge) | 3:16 | 2022-10-07 | 2023-01-07 |
 | [offshore](https://open.spotify.com/track/625WCk8lpyxdQgyN8aJu3d) | [TECHO](https://open.spotify.com/artist/7cLuZ2xmHW5Znuu4jXNpPl) | [offshore](https://open.spotify.com/album/6BfvXlKoifT1TKN3HbeTys) | 3:52 | 2022-09-23 |  |
 | [Offshores](https://open.spotify.com/track/5Qc6qa8gECNH4D8PjrMdYX) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Offshores](https://open.spotify.com/album/4sE90DBI0n7P4Avhm65OIP) | 4:22 | 2022-08-19 |  |
@@ -208,6 +210,7 @@
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2022-04-15 | 2023-02-10 |
 | [Or](https://open.spotify.com/track/2yzrV1oLdwNx5GAemWl7wo) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Or](https://open.spotify.com/album/7iwScAtMlfmT111U0TeCZS) | 2:47 | 2023-04-28 |  |
 | [Osmosis](https://open.spotify.com/track/6GgPl2EbOG69cvo59kETdw) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Osmosis](https://open.spotify.com/album/7gIZQbcjtE5edqwBu9DwMQ) | 3:21 | 2022-11-25 |  |
+| [Other Side](https://open.spotify.com/track/5yv938HW9vK9AWtD4gFUoQ) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Other Side](https://open.spotify.com/album/2Yj9QgLX697TYWnIKDLsfg) | 2:21 | 2024-02-13 |  |
 | [Outsiders](https://open.spotify.com/track/0cys38NXnW2x0Gz3OZDmA4) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [Outsiders](https://open.spotify.com/album/5vYc4BavunFEmUk7cCisLd) | 3:01 | 2022-09-02 | 2023-01-07 |
 | [Over and over](https://open.spotify.com/track/6B3yCWrksx9PrjGwu6zDzB) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Over and over](https://open.spotify.com/album/2n98PgBJ7tkXSwNVEKDakd) | 3:45 | 2022-09-16 |  |
 | [Pacha](https://open.spotify.com/track/68miDOCIpjIJQ32BGLYTvh) | [Of An Age](https://open.spotify.com/artist/5vbszQaOLYBHG5jjVvF4Le) | [Pacha](https://open.spotify.com/album/0g11iftI0EtP389i47OS9d) | 4:13 | 2023-01-13 |  |
@@ -217,6 +220,7 @@
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-15 | 2022-05-20 |
 | [Perfect Circus](https://open.spotify.com/track/08ZBgVEJzJxdEqMf8cE4Tt) | [Vince Voyage](https://open.spotify.com/artist/229yYJk7wWvnJcs9bhJx5N) | [Perfect Circus](https://open.spotify.com/album/5CRwyLx3ogA1XaEqaqJRMe) | 2:06 | 2023-11-24 |  |
 | [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2022-04-15 | 2023-09-23 |
+| [Phonograph](https://open.spotify.com/track/3NmMbYUo3nALZsR1dm6BkF) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Phonograph](https://open.spotify.com/album/2hJc0zCQ3soIAnWqIxwd5G) | 2:19 | 2024-02-13 |  |
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2022-04-15 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2022-05-10 |  |
@@ -297,6 +301,7 @@
 | [Thin Minute](https://open.spotify.com/track/4ocQtMV5xbPtGyCnP0YifT) | [Gloster Gladiator](https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg) | [Thin Minute](https://open.spotify.com/album/5cuS22pdRRHpQnBE9D5baF) | 2:05 | 2024-01-19 |  |
 | [Traffic Lights](https://open.spotify.com/track/3MdKptGeHema5frxISyDAW) | [Slow Ted](https://open.spotify.com/artist/7gU4zqbpqWECGMnox5c9G8) | [Traffic Lights](https://open.spotify.com/album/49axagqRBNCqzBaGCMlmIG) | 3:09 | 2022-06-24 |  |
 | [Transform](https://open.spotify.com/track/5kS0twYx4n48QIc2YgfBSK) | [Little Spoon Bender](https://open.spotify.com/artist/0VMCwUMdk5TvMb57mWXip0) | [Transform](https://open.spotify.com/album/2kDpTWMA7ByrwnyKsMbdxB) | 3:28 | 2022-04-15 | 2023-01-20 |
+| [true self](https://open.spotify.com/track/6YXiRZf9M1irFXIbigT6i7) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [true self](https://open.spotify.com/album/4ft8GDJ6iJl9naJWCJ4PJi) | 2:47 | 2024-02-13 |  |
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2022-04-15 | 2023-01-20 |
 | [Untouched Hours](https://open.spotify.com/track/51qXHSywnVVYGTBzooCbk0) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Layer Cake](https://open.spotify.com/album/2A8BYu3CWlRc0cZ0iN2Oc0) | 4:00 | 2022-12-23 | 2023-01-07 |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2022-04-15 | 2022-06-10 |

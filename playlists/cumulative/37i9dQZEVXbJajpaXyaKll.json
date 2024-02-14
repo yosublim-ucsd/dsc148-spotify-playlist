@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "30 Grados",
+        "url": "https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151441,
+      "name": "30 GRADOS",
+      "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
+    },
+    {
+      "album": {
         "name": "act ii: date @ 8",
         "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
       },
@@ -20,6 +42,40 @@
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
+        "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
+        "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253340,
+      "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
+      "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
     },
     {
       "album": {
@@ -118,7 +174,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
@@ -460,7 +516,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 145658,
       "name": "Donde Te Pillemos Tarara Tarara Rkt",
       "url": "https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF"
@@ -659,6 +715,44 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Hell\u2019s Greatest Dad",
+      "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
+    },
+    {
+      "album": {
         "name": "HOLA PERDIDA",
         "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
       },
@@ -762,7 +856,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 171500,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
@@ -894,6 +988,24 @@
       "duration_ms": 198095,
       "name": "LUNA (Tech House)",
       "url": "https://open.spotify.com/track/4HVc9Vr4d4CNpoBPAAfaoQ"
+    },
+    {
+      "album": {
+        "name": "Luxuria",
+        "url": "https://open.spotify.com/album/16x0n9O5qhUcTc6HCQrKpb"
+      },
+      "artists": [
+        {
+          "name": "ilyLain",
+          "url": "https://open.spotify.com/artist/5rBkeQVlo6s4f9Bl98jSow"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135964,
+      "name": "Luxuria",
+      "url": "https://open.spotify.com/track/1IrkWhOpTGKzZvyZkZ624Y"
     },
     {
       "album": {
@@ -1098,6 +1210,24 @@
       "duration_ms": 144198,
       "name": "Nose Nose (Techengue)",
       "url": "https://open.spotify.com/track/54gY2CYsLvoojKr3tszT2A"
+    },
+    {
+      "album": {
+        "name": "Nosenose",
+        "url": "https://open.spotify.com/album/79RvTCHywKZJB33DHJFluv"
+      },
+      "artists": [
+        {
+          "name": "Tobias Gerard",
+          "url": "https://open.spotify.com/artist/1ReDnqgOhy44VBuE0zvIaB"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131499,
+      "name": "Nosenose",
+      "url": "https://open.spotify.com/track/3AxoJNaWUFI1nwcwMw5gbL"
     },
     {
       "album": {
@@ -1362,7 +1492,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
@@ -1718,7 +1848,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 157021,
       "name": "Ya no me duele :,)",
       "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"

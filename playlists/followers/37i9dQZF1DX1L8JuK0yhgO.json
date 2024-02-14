@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 24433,
+  "2024-02-14": 24437,
   "date_first_scraped": "2023-03-19",
   "description": "\u97f3\u697d\u30e1\u30c7\u30a3\u30a2<a href=\"http://spincoaster.com/\">Spincoaster</a>\u304c\u53b3\u9078\u3057\u305f\u30db\u30c3\u30c8\u306a\u65b0\u66f2\u3092\u6bce\u9031\u6708\u66dc\u65e5\u306b\u304a\u5c4a\u3051\uff01",
   "name": "Monday Spin",
@@ -25219,7 +25219,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 156342,
       "name": "kakattekoi",
       "url": "https://open.spotify.com/track/3dCrIIEsCHXhwHGchZKJ4U"
@@ -57045,6 +57045,24 @@
       "duration_ms": 243578,
       "name": "\u304a\u3088\u3052!\u305f\u3044\u3084\u304d\u304f\u3093",
       "url": "https://open.spotify.com/track/7qUzvGiFT39l0hDbC8ExA2"
+    },
+    {
+      "album": {
+        "name": "LIVE IN YAMADA",
+        "url": "https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj"
+      },
+      "artists": [
+        {
+          "name": "PAZU",
+          "url": "https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q"
+        }
+      ],
+      "date_added": "2024-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156342,
+      "name": "\u304b\u304b\u3063\u3066\u3053\u3044",
+      "url": "https://open.spotify.com/track/2f7waYFxMqr1wOenbTSOlS"
     },
     {
       "album": {

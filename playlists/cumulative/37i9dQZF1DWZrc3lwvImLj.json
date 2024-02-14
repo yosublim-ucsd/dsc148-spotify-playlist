@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/1igYqRLvu6lC4xIJyXSoSa"
@@ -434,6 +434,24 @@
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/54Z5v1xvglyOEh3KWsNsEr"
+    },
+    {
+      "album": {
+        "name": "Something Of An Anthem",
+        "url": "https://open.spotify.com/album/5UgTu259ooAkRvY1XKKRep"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/5ButPVNvHeDH6yYmYBaka2"
     },
     {
       "album": {

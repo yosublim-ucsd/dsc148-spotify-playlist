@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 430797,
+  "num_followers": 430847,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDc4MGI3MzBiZTg1MjkyYzlmNjI2Nzc1YTQzNDQ3MTFiNmM2OTNj",
+  "snapshot_id": "MCxkY2QxMTdiNjdmODdkZWFiNTZmOTMyM2ExYmIwNWM4ZmY2YTY4ZTg0",
   "tracks": [
     {
       "added_at": "2024-01-14 21:03:28",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-14 21:03:28",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 249840,
-      "name": "Live Well",
-      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
-    },
-    {
-      "added_at": "2024-01-14 21:03:28",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
+    },
+    {
+      "added_at": "2024-01-14 21:03:28",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 249840,
+      "name": "Live Well",
+      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
     },
     {
       "added_at": "2024-01-14 21:03:28",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-01-14 21:03:28",
       "album": {
-        "name": "The Summer Isles",
-        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "I Just Love You",
-      "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
-    },
-    {
-      "added_at": "2024-01-14 21:03:28",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2024-01-14 21:03:28",
+      "album": {
+        "name": "The Summer Isles",
+        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "I Just Love You",
+      "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
     },
     {
       "added_at": "2024-01-14 21:03:28",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-01-14 21:03:28",
       "album": {
-        "name": "Palomar Parade",
-        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 215516,
-      "name": "What I Do",
-      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
-    },
-    {
-      "added_at": "2024-01-14 21:03:28",
-      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
+    },
+    {
+      "added_at": "2024-01-14 21:03:28",
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 215516,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
     },
     {
       "added_at": "2024-01-14 21:03:28",
@@ -1783,6 +1783,38 @@
     {
       "added_at": "2024-01-14 21:03:28",
       "album": {
+        "name": "Dark in the City",
+        "url": "https://open.spotify.com/album/3GpYjmjSigXrSRG4aLjyg4"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 250547,
+      "name": "Love & War in Your Twenties",
+      "url": "https://open.spotify.com/track/14uhiVl5NwPDCmlRUgo4l6"
+    },
+    {
+      "added_at": "2024-01-14 21:03:28",
+      "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2024-01-14 21:03:28",
+      "album": {
         "name": "Foxwarren",
         "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
@@ -1807,22 +1839,6 @@
     {
       "added_at": "2024-01-14 21:03:28",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
-    },
-    {
-      "added_at": "2024-01-14 21:03:28",
-      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -1837,36 +1853,20 @@
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
-      "added_at": "2024-01-14 21:03:28",
+      "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
         }
       ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2024-01-14 21:03:28",
-      "album": {
-        "name": "Dark in the City",
-        "url": "https://open.spotify.com/album/3GpYjmjSigXrSRG4aLjyg4"
-      },
-      "artists": [
-        {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
-        }
-      ],
-      "duration_ms": 250547,
-      "name": "Love & War in Your Twenties",
-      "url": "https://open.spotify.com/track/14uhiVl5NwPDCmlRUgo4l6"
+      "duration_ms": 245923,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7"
     },
     {
       "added_at": "2024-01-14 21:03:28",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-01-14 21:03:28",
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 137293,
-      "name": "True North",
-      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
-    },
-    {
-      "added_at": "2024-01-14 21:03:28",
-      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
@@ -2003,6 +1987,22 @@
     {
       "added_at": "2024-01-14 21:03:28",
       "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
+    },
+    {
+      "added_at": "2024-01-14 21:03:28",
+      "album": {
         "name": "C-Sides",
         "url": "https://open.spotify.com/album/446uL6pnfKQw5IIBwV7jMk"
       },
@@ -2015,22 +2015,6 @@
       "duration_ms": 228481,
       "name": "Scotland",
       "url": "https://open.spotify.com/track/3FWWh7YVaOwq1PurKgLWnh"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "County Line",
-        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 245923,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7"
     },
     {
       "added_at": "2024-01-14 21:03:28",
@@ -2083,6 +2067,22 @@
       "duration_ms": 227139,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
+    },
+    {
+      "added_at": "2024-01-14 21:03:28",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     }
   ],
   "unique_name": "wanderlust",

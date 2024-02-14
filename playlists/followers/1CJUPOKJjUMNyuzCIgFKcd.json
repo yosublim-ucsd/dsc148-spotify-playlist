@@ -1,9 +1,27 @@
 {
-  "2024-02-13": 24301,
+  "2024-02-14": 24302,
   "date_first_scraped": "2023-11-08",
   "description": "The freshest Hip Hop and R&amp;B. ",
   "name": "Fresh Out",
   "tracks": [
+    {
+      "album": {
+        "name": "2K24",
+        "url": "https://open.spotify.com/album/32hnABHQ2YeXIwIC4ZtQsg"
+      },
+      "artists": [
+        {
+          "name": "Rmc Mike",
+          "url": "https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141888,
+      "name": "2K24",
+      "url": "https://open.spotify.com/track/7f9mrF0k8Rqagqkfj9fdZR"
+    },
     {
       "album": {
         "name": "40x",
@@ -133,6 +151,24 @@
       "duration_ms": 179712,
       "name": "Big Peach",
       "url": "https://open.spotify.com/track/5HMw8a6zOfzKDh0Azze6sA"
+    },
+    {
+      "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/4v72c9iTHQ6LOuXR78NV1J"
+      },
+      "artists": [
+        {
+          "name": "Neemz",
+          "url": "https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/2siRPAguAOZew7hHLWM8nI"
     },
     {
       "album": {
@@ -563,7 +599,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 239355,
       "name": "DunnHill (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9"
@@ -784,6 +820,24 @@
     },
     {
       "album": {
+        "name": "goin thru sum thangs",
+        "url": "https://open.spotify.com/album/3PhNqGA50KASRtoh3x8YYA"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167015,
+      "name": "goin thru sum thangs",
+      "url": "https://open.spotify.com/track/1WFzyvBz9XCb762uvxHaNe"
+    },
+    {
+      "album": {
         "name": "Goofy",
         "url": "https://open.spotify.com/album/3ej9JUQMr7UbKjUTjQhuJv"
       },
@@ -996,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/5YKZYtxQzL7dgvAHlu5IX1"
+      },
+      "artists": [
+        {
+          "name": "MBNel",
+          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170975,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6XplrO4V3wQ5yhm5o6nz6u"
+    },
+    {
+      "album": {
         "name": "Lake Lanier",
         "url": "https://open.spotify.com/album/4AmS8OoOwlqO8oGF42IsEQ"
       },
@@ -1029,7 +1101,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 158495,
       "name": "Lame",
       "url": "https://open.spotify.com/track/540BWyfZX7HoBXSQrpuxXd"
@@ -1069,7 +1141,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 173496,
       "name": "Like Me (feat. Mozzy)",
       "url": "https://open.spotify.com/track/4wN9nSOyk6tapK8fPXh39M"
@@ -1251,7 +1323,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 108000,
       "name": "Mean Girl Era",
       "url": "https://open.spotify.com/track/1oyhhLwrIeYmreTTzDBAhw"
@@ -1388,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Obviously",
+        "url": "https://open.spotify.com/album/3FUo0QMZ5BPtvVSOhlvQbj"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121165,
+      "name": "Obviously",
+      "url": "https://open.spotify.com/track/5wruY6p3CCjSuR1OCOKrp1"
+    },
+    {
+      "album": {
         "name": "B.O.D.Y.",
         "url": "https://open.spotify.com/album/6Yt1OOOOlIlgoSvZbuM8tA"
       },
@@ -1399,7 +1489,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 128868,
       "name": "OMG",
       "url": "https://open.spotify.com/track/1LbSYc9LielAYE9uBwjp7f"
@@ -1453,7 +1543,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 169411,
       "name": "OUT MY FACE",
       "url": "https://open.spotify.com/track/4nAHsR1LJAX9hSelNHHnef"
@@ -1471,7 +1561,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 127555,
       "name": "Out Tha Way!",
       "url": "https://open.spotify.com/track/6LwbNf2X0NYDIDmxwhd9B6"
@@ -1519,6 +1609,32 @@
       "duration_ms": 112457,
       "name": "Popular Loner",
       "url": "https://open.spotify.com/track/7taCvlPIm7iwAc1fOeusRJ"
+    },
+    {
+      "album": {
+        "name": "Real Original",
+        "url": "https://open.spotify.com/album/4nIbqVJDpB9vJ2Rvxn0eez"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        },
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175385,
+      "name": "Real Original",
+      "url": "https://open.spotify.com/track/7Ja7eefkSXAd12xrbasSl1"
     },
     {
       "album": {
@@ -1861,6 +1977,24 @@
       "duration_ms": 134377,
       "name": "UHN UHN",
       "url": "https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez"
+    },
+    {
+      "album": {
+        "name": "WAKE EM UP",
+        "url": "https://open.spotify.com/album/4qjoG39v1vDKKZegKiMntm"
+      },
+      "artists": [
+        {
+          "name": "Big Moochie Grape",
+          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "WAKE EM UP",
+      "url": "https://open.spotify.com/track/5b9eyzFhqDrxDjySPlGCo7"
     },
     {
       "album": {

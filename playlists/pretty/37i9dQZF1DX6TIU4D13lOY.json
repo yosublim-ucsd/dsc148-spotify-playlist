@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 247886,
+  "num_followers": 247944,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjE5NGQ2NDQzZTExOGFkZDY1NjlkMDZiZmRhMWYwYjNmOWQyNjcz",
+  "snapshot_id": "MCwxNDc4MGIwYTFiMzg0YmU4NGY0MGM2N2VjOGIyZWFiYjYxZmM1OTlj",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Silk Degrees (2023 Remaster)",
-        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 317788,
-      "name": "Lowdown (2023 Remaster)",
-      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/0Co0NZP0lt2Qi7rHZDngxh"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Silk Degrees (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 317788,
+      "name": "Lowdown (2023 Remaster)",
+      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -891,6 +891,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 309018,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "In the Pocket (2019 Remaster)",
         "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 309018,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
     },
     {
       "added_at": "2020-01-07 15:31:11",

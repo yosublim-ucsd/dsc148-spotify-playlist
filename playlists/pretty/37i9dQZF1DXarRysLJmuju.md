@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: 24kGoldn
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,406 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,381 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 54 | [Young & Foolish](https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR) | 2:36 |
 | 55 | [hate myself for loving you](https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [hate myself for loving you](https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5) | 2:56 |
 | 56 | [Narcissistic](https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Narcissistic](https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr) | 2:50 |
-| 57 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
+| 57 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
 | 58 | [Back to Me](https://open.spotify.com/track/6efhAWCL5nLpIHvOwojuMr) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Back to Me](https://open.spotify.com/album/5oVyW0Lsox64SixboTYYYE) | 3:15 |
 | 59 | [Cowgirl \(feat\. Lourdiz\)](https://open.spotify.com/track/15wos7ChIkysPIrX31hwwa) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:36 |
 | 60 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 98 | [Crazy](https://open.spotify.com/track/4MrHylaApgwWavJtwf38bK) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Crazy](https://open.spotify.com/album/2nPU9yXkRsrmPVxxmdsZ0i) | 3:07 |
 | 99 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 |
 
-Snapshot ID: `MCw4Zjk0NmRkN2FhOWNlM2QxNTA1ZjE0NjE1MmQ0NDU2ZjdiNTVkZGIz`
+Snapshot ID: `MCwxNDRhMDBmN2Q1ZTI4MzRiYWJlNzE2MTAxZWFmYzQ0YTdhODk0ZGI0`

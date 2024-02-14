@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Ariel Donato, MC Cabelinho, Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,802 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,798 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 53 | [não dá certo](https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN) | [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [não dá certo](https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq) | 2:39 |
 | 54 | [Caio em Ti](https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV) | [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Caio em Ti](https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF) | 2:35 |
 | 55 | [No Azul do Teu Olhar](https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [No Azul do Teu Olhar](https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd) | 3:21 |
-| 56 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
-| 57 | [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 |
+| 56 | [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 |
+| 57 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
 | 58 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
 | 59 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 60 | [Desliga](https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Desliga](https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Risco de se Apaixonar](https://open.spotify.com/track/1M6puHONy969ZeGYemki1M) | [Marcello Melo Jr.](https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp), [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Risco de se Apaixonar](https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH) | 2:21 |
 | 80 | [Essa Daqui Você Sabe Que É pra Você](https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs) | [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Essa Daqui Você Sabe Que É pra Você](https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO) | 3:13 |
 
-Snapshot ID: `MCw4Mzg2MWViZDk3OWFlNmViNzBiNWMxYjI2ZDFlMGMzODIyMmI1Yjlj`
+Snapshot ID: `MCxjYWM0MzM5MjBmNDNmY2FiZmY0MTNmMDEwYzBhMGE2NmFiYmZmNzVh`

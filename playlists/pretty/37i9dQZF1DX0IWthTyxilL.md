@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,088 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,100 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 35 | [Forest Sounds](https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj) | [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx) | [English Rain and Nature Sounds](https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4) | 3:41 |
 | 36 | [Midnight Sounds](https://open.spotify.com/track/5jhcezlQC1tk8ZL1B9Uuzl) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
 | 37 | [Natural Ambiences](https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb) | [QFT Sounds](https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:09 |
-| 38 | [Rainforest Ambience](https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:55 |
-| 39 | [Calm Forest](https://open.spotify.com/track/4UazPUFk7kiZGPlEXx976Z) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:46 |
+| 38 | [Calm Forest](https://open.spotify.com/track/4UazPUFk7kiZGPlEXx976Z) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:46 |
+| 39 | [Rainforest Ambience](https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:55 |
 | 40 | [Crickets and Forest Sounds for Sleeping Babies](https://open.spotify.com/track/65mac5I0YkFdISbdKyfXGk) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Nature Sounds Music for Sleeping Babies](https://open.spotify.com/album/7sAInasf6UecwfxUZQycXd) | 2:05 |
 | 41 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 |
 | 42 | [Warm Forest At Night](https://open.spotify.com/track/47fWPgl0tDke4qcAQFc4zd) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 49 | [Summer Night](https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:18 |
 | 50 | [Rain & The Rainforest](https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:13 |
 
-Snapshot ID: `MCw4NDEzZDhjYjRkZGI2MGNlNmY2MjZkMzg3NDI5Y2VkMzE3MDYwZjU0`
+Snapshot ID: `MCwxODY1MmE2ZmY3NmE0OWYxOTFhYzBmZDhhMzBlNjgyYTMzYjkzOGZm`

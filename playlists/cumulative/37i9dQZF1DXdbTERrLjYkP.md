@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Rachel Grae
 
-620 songs - 1 day 8 hr 57 min
+622 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Bedroom Floor](https://open.spotify.com/track/2GjPJVgqtF8uSyoedh5Inf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/1UdFJz9ptrLSmsTI87B2Ym) | 4:09 | 2022-08-26 | 2022-10-15 |
 | [Bedroom Floor](https://open.spotify.com/track/5QIIqyaKqjpDisjYNGZlAf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/5S8Ucc9rGzrOTHz3Z4AsgQ) | 4:09 | 2022-08-26 | 2022-09-02 |
 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 | 2022-09-02 | 2022-12-24 |
-| [Behind](https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs) | 3:18 | 2023-12-29 |  |
+| [Behind](https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs) | 3:18 | 2023-12-29 | 2024-02-14 |
+| [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 | 2024-02-09 |  |
 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-11-10 |  |
 | [Between The Lines](https://open.spotify.com/track/78buF26zokb7wFmxzK8P7J) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Between The Lines](https://open.spotify.com/album/3fCkMihwoQJsCmuiOzCeRa) | 2:16 | 2023-09-29 | 2024-01-27 |
 | [Big Star](https://open.spotify.com/track/3lnfzmGxaOSBLc2Hh4M5NT) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Big Star](https://open.spotify.com/album/5M1Y1ppNc7NFFq5b6U0s5K) | 3:00 | 2023-05-12 | 2023-07-15 |
@@ -498,7 +499,8 @@
 | [so fast](https://open.spotify.com/track/2fcixmEODeToeEAVE5ct3f) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [so fast](https://open.spotify.com/album/6djywrn8aN9dvRVS1uz8TH) | 4:09 | 2022-12-16 | 2023-02-25 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
 | [Soft Boy](https://open.spotify.com/track/6rrbZTkpzaV7CaBoSogKHi) | [Wilbur Music](https://open.spotify.com/artist/3ZHaki4MMPDvFsEE4apthg) | [Soft Boy](https://open.spotify.com/album/004syik0RCJkwKCwVX5fpe) | 2:25 | 2022-09-27 | 2022-12-24 |
-| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 |  |
+| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 |  |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2022-01-14 | 2022-03-12 |
 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/1jzM9IcYwaKZZLh1LTSxFc) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [how to get through a breakup](https://open.spotify.com/album/0d4s3UnuE7jVxpxJErAehX) | 3:05 | 2022-09-09 | 2022-11-05 |
 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/3rbOx276Sg54mKg1wtw3TZ) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/6oXh4YBENKSxvNm1qwdwru) | 3:05 | 2022-05-27 | 2022-08-30 |

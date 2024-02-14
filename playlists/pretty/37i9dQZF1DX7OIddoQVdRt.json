@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 624477,
+  "num_followers": 624551,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2QyNDE5MzQ3ZWNlOGY2NGFhYjQ4ZmFlNTE5NTNkZGY0MjlmOTE5",
+  "snapshot_id": "MCw3YmIzOGQwMTc0MWUwYzMyNDc3NGRjZWU3NDBmMzk3YTA2ODhiMmM5",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "We Can't Forget Him",
-        "url": "https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V"
+        "name": "I Got Out",
+        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
       "artists": [
         {
-          "name": "Bobbi Storm",
-          "url": "https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8"
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
         }
       ],
-      "duration_ms": 178201,
-      "name": "We Can't Forget Him",
-      "url": "https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E"
+      "duration_ms": 297653,
+      "name": "I Got Out",
+      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -871,18 +871,34 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "I Got Out",
-        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
+        "name": "We Can't Forget Him",
+        "url": "https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V"
       },
       "artists": [
         {
-          "name": "Bryan Popin",
-          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
+          "name": "Bobbi Storm",
+          "url": "https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8"
         }
       ],
-      "duration_ms": 297653,
-      "name": "I Got Out",
-      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+      "duration_ms": 178201,
+      "name": "We Can't Forget Him",
+      "url": "https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 254163,
+      "name": "Do You Believe In Love?",
+      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -915,22 +931,6 @@
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 254163,
-      "name": "Do You Believe In Love?",
-      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 224136,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "See The Goodness",
-        "url": "https://open.spotify.com/album/6XxMWmuECU2uEEChQXXQEZ"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        },
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 331223,
-      "name": "See The Goodness (feat. Donnie McClurkin)",
-      "url": "https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "No Stressing",
         "url": "https://open.spotify.com/album/6yLyw5SBhG17scBn29pGzP"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 214923,
       "name": "No Stressing",
       "url": "https://open.spotify.com/track/2AqUyHKFz2t28mloKBkosu"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "See The Goodness",
+        "url": "https://open.spotify.com/album/6XxMWmuECU2uEEChQXXQEZ"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        },
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 331223,
+      "name": "See The Goodness (feat. Donnie McClurkin)",
+      "url": "https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "You Kept Me",
+        "url": "https://open.spotify.com/album/2CpcvaCDxcQ31XAP3zP5VD"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 319910,
+      "name": "You Kept Me",
+      "url": "https://open.spotify.com/track/5ax8IDf487EyohGC8v1oF7"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Glory / Stranger",
         "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "You Kept Me",
-        "url": "https://open.spotify.com/album/2CpcvaCDxcQ31XAP3zP5VD"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 319910,
-      "name": "You Kept Me",
-      "url": "https://open.spotify.com/track/5ax8IDf487EyohGC8v1oF7"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Songs From The Writers Pen",
-        "url": "https://open.spotify.com/album/2Xg0nLQxZp5WFzYQfl4Bv1"
-      },
-      "artists": [
-        {
-          "name": "Norman Hutchins",
-          "url": "https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh"
-        }
-      ],
-      "duration_ms": 297290,
-      "name": "Shout Like You Got It",
-      "url": "https://open.spotify.com/track/2FKDnfW7P20BgdH6l9g3Sh"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Angela Moss Poole",
         "url": "https://open.spotify.com/album/2mRhKxYagOrfePiLCoLSqm"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 228019,
       "name": "Speak to the Mountain",
       "url": "https://open.spotify.com/track/1CE3Q5aLGdqreI7rnLPV0C"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Songs From The Writers Pen",
+        "url": "https://open.spotify.com/album/2Xg0nLQxZp5WFzYQfl4Bv1"
+      },
+      "artists": [
+        {
+          "name": "Norman Hutchins",
+          "url": "https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh"
+        }
+      ],
+      "duration_ms": 297290,
+      "name": "Shout Like You Got It",
+      "url": "https://open.spotify.com/track/2FKDnfW7P20BgdH6l9g3Sh"
     },
     {
       "added_at": "2024-02-02 06:37:59",

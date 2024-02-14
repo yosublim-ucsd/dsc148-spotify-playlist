@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 12 | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji) | [Crysto Panda](https://open.spotify.com/artist/3z5uVPKm4ddcD43sK0dxAX), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/album/3tbEc4SFKe31ayuw09YmLD) | 3:00 |
 | 13 | [Go Down](https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [Kent & flosso](https://open.spotify.com/artist/5YBqx5BwozQFujEQLgQWYD), [Coco Finger](https://open.spotify.com/artist/4ybgdjopQNxL1SiwC1P0ib) | [Go Down](https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T) | 3:27 |
 | 14 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 |
-| 15 | [Tumbiza Sound](https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu) | [Eezzy](https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg) | [Tumbiza Sound](https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx) | 3:10 |
-| 16 | [Best Friend](https://open.spotify.com/track/7xZBxRmN04ut0FeOt4IkrW) | [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa), [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [On My Way](https://open.spotify.com/album/3odxvb0YleysbfxNeBomkR) | 3:51 |
+| 15 | [Best Friend](https://open.spotify.com/track/7xZBxRmN04ut0FeOt4IkrW) | [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa), [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [On My Way](https://open.spotify.com/album/3odxvb0YleysbfxNeBomkR) | 3:51 |
+| 16 | [Tumbiza Sound](https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu) | [Eezzy](https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg) | [Tumbiza Sound](https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx) | 3:10 |
 | 17 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
-| 18 | [Wakikuba](https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Tupaate](https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg) | 2:45 |
-| 19 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
+| 18 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
+| 19 | [Wakikuba](https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Tupaate](https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg) | 2:45 |
 | 20 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
 | 21 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
 | 22 | [Izulu](https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Geosteady1](https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Stupid](https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Stupid](https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW) | 3:37 |
 | 50 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
 
-Snapshot ID: `MCw5YzMzYWVjNzZlZWRjMmFjYzNiNmZiNzE0NWM2NzI5OWJlN2EzNjc0`
+Snapshot ID: `MCxjOWE0ODY5YjlkOTRlMmUzYzQ0MjMxNTNjMWQzOTEwNGRmYjdlYjM3`

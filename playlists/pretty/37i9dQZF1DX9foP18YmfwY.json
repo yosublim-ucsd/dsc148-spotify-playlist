@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 320127,
+  "num_followers": 320170,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzRlYzRkOTBhNTRhZTU4NmU3NDY3MTlhMDQ1ZmM1OTU1OGU3YjVj",
+  "snapshot_id": "MCxjMDliNmRhZjU2MzE2ZTk2Zjg5MzY0YTY4MzlkYWZmMGZmODdiMTdj",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -275,22 +275,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Retrovisor",
-        "url": "https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi"
+        "name": "Cheiro de Rosas",
+        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
       },
       "artists": [
         {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         }
       ],
-      "duration_ms": 218378,
-      "name": "Retrovisor",
-      "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
+      "duration_ms": 279835,
+      "name": "Cheiro de Rosas",
+      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -311,18 +307,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Cheiro de Rosas",
-        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
+        "name": "Retrovisor",
+        "url": "https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 279835,
-      "name": "Cheiro de Rosas",
-      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
+      "duration_ms": 218378,
+      "name": "Retrovisor",
+      "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Bom \u00c9 Estarmos Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Gbkne8Pc4zagtDSBM2bk8"
-      },
-      "artists": [
-        {
-          "name": "Leo Mantovani",
-          "url": "https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        },
-        {
-          "name": "Eduardo Cruz",
-          "url": "https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5"
-        }
-      ],
-      "duration_ms": 231219,
-      "name": "Bom \u00c9 Estarmos Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lc2KWi6u3cXMMjMVlBuO6"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 224000,
       "name": "Bom \u00c9 Estarmos Aqui",
       "url": "https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Bom \u00c9 Estarmos Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Gbkne8Pc4zagtDSBM2bk8"
+      },
+      "artists": [
+        {
+          "name": "Leo Mantovani",
+          "url": "https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Eduardo Cruz",
+          "url": "https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5"
+        }
+      ],
+      "duration_ms": 231219,
+      "name": "Bom \u00c9 Estarmos Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lc2KWi6u3cXMMjMVlBuO6"
     },
     {
       "added_at": "2023-12-22 03:00:00",

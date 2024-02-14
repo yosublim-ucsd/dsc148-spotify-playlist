@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Hebron\(변하은\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Old Yearning\(옛그리움\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-487 songs - 1 day 5 hr 0 min
+488 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [The Blue Night Of Jeju Island](https://open.spotify.com/track/5I6MDAsc3nv2BPiiGnLEDI) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [The Blue Night Of Jeju Island](https://open.spotify.com/album/5N0DCNi28CDILaQZ7tYNfU) | 4:05 | 2022-03-31 | 2022-04-28 |
 | [The Cat House 고양이 집](https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [The Cat House 고양이 집](https://open.spotify.com/album/1Dx5d7CPHRQ7228ZCT4aLT) | 3:51 | 2022-03-31 | 2022-04-20 |
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |
-| [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 | 2024-02-07 |  |
+| [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 | 2024-02-07 | 2024-02-14 |
 | [The Night](https://open.spotify.com/track/2ltohL0UlAkNcjImnOggs8) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [O1NE](https://open.spotify.com/album/4wIYn2e6gZ4nRGCnzs1qxZ) | 3:43 | 2022-03-31 | 2022-04-20 |
 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 | 2021-12-10 |  |
 | [The Night With You](https://open.spotify.com/track/5V8x6nU0JEFL6qfbct7P2p) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [The Night With You](https://open.spotify.com/album/1QdF5rkC4uNYWkGqFhGgQQ) | 3:56 | 2022-04-12 | 2022-04-17 |
@@ -410,6 +410,7 @@
 | [Tropical night](https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk) | [여동생](https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1) | [Tropical night](https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK) | 5:11 | 2022-07-08 | 2022-08-10 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-04-12 | 2022-04-21 |
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-03 | 2022-05-12 |
+| [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 | 2024-02-13 |  |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-03-04 | 2022-04-15 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 | 2022-07-29 |
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-03-04 |  |

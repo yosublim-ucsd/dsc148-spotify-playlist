@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-434 songs - 1 day 2 hr 51 min
+435 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Maybe Someday](https://open.spotify.com/track/2DjwsghflIeh6qmfpoy5UI) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Maybe Someday](https://open.spotify.com/album/6onXo7EIPgWuvfkFoVNrAU) | 3:00 | 2022-10-21 | 2022-12-16 |
 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 | 2022-04-13 | 2023-02-24 |
 | [Metaphor](https://open.spotify.com/track/2khytXmfph4aUqGqIHrw70) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Metaphor](https://open.spotify.com/album/1IX1wLeq3fcZuV4IT5Uo6E) | 3:57 | 2023-08-11 | 2024-01-19 |
+| [Metaphor](https://open.spotify.com/track/3GLXZR9wgtNj11nqqD9twA) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Metaphor](https://open.spotify.com/album/5QV1QpqH1f97QaLnWYQECl) | 3:57 | 2024-01-26 |  |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-01-21 | 2023-05-26 |
 | [midnight sun \- reflects / acoustic version](https://open.spotify.com/track/3aMSHc6o4cTJnimrHoNT9k) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 4:55 | 2022-12-16 | 2023-02-03 |
 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-09-29 | 2023-12-04 |
@@ -376,7 +377,7 @@
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |
 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 | 2023-05-26 |  |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2022-01-21 |  |
-| [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-11 |  |
+| [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-11 | 2024-02-14 |
 | [The Great Escape](https://open.spotify.com/track/079es0IsQ1vqH7c1OfWuiN) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [The Great Escape](https://open.spotify.com/album/5p1OZmrKDDhpZKInZGal8q) | 2:50 | 2022-04-13 | 2022-07-17 |
 | [The Last One](https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:50 | 2023-02-10 | 2023-04-22 |
 | [The Last One](https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 3:50 | 2022-04-13 | 2023-02-02 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 84084,
+  "2024-02-14": 84098,
   "date_first_scraped": "2023-09-23",
   "description": "100 Suomi \ud83d\udcaf Kannessa Turisti ja Cledos.",
   "name": "100 Suomi",
@@ -843,6 +843,24 @@
       "duration_ms": 250664,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/1ySufTD0HSLj14eD1rKg66"
+    },
+    {
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/4T8t8uMRKJGzCdkNOouQ7E"
+      },
+      "artists": [
+        {
+          "name": "YB026",
+          "url": "https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202184,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/66Rl0aPYznoVV6i8ctZyrP"
     },
     {
       "album": {

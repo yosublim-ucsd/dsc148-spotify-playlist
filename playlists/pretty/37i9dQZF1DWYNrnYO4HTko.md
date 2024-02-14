@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 951 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 46 | [I've Been Loving You Too Long \- Acoustic](https://open.spotify.com/track/2EuRP3vOw8TC4UdrvfYMeA) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [The Lobbyist](https://open.spotify.com/album/4CLYyen634lYaEdSAXwap4) | 3:53 |
 | 47 | [I've Been Loving You Too Long](https://open.spotify.com/track/3LeLZUoYt3voQCtUjRLkrp) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Soulful](https://open.spotify.com/album/343ADGfYYyoLedMtdH9PIM) | 3:34 |
 | 48 | [I’ve Been Loving You Too Long \- Remastered 2015](https://open.spotify.com/track/3mQIxdBrMkodx4ebTq7i1e) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Roy Orbison: The MGM Years 1965 \- 1973 \(Remastered\)](https://open.spotify.com/album/5l6AFjM8OaWnshRe0Pu4qj) | 3:38 |
-| 49 | [Holdin On](https://open.spotify.com/track/3ohupB1Wm1Cvcyre7rtS9p) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 2:34 |
+| 49 | [Holdin On](https://open.spotify.com/track/6ERjyW3kpEZN9yHpLIRfxC) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 2:34 |
 | 50 | [I Can't Turn You Loose](https://open.spotify.com/track/1ILvOL3iautGoH27ZC7PAy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:33 |
 | 51 | [I Can't Turn You Loose](https://open.spotify.com/track/0kXWXKajsxku8HCJ4OkBga) | [Wayne Cochran](https://open.spotify.com/artist/5Im68TDDcrgUf5i05UnXrl) | [C.C\. & Company \- Soundtrack](https://open.spotify.com/album/6eyuUwKY8RNgEjPQwziqiZ) | 3:59 |
 | 52 | [I Can't Turn You Loose](https://open.spotify.com/track/6fmpeMEiK7M38rL9MSOFF5) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [A New Time \- A New Day](https://open.spotify.com/album/43d24W4xf0thw054t8RQzY) | 4:55 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MCwxMjY1ZWQ2ODljZmU5NDJmMDc4ZTZmMjNhOWVjOTkwN2I0ZmNiNmM2`
+Snapshot ID: `MCw5OGViMmUwYzQyYjgxZjNiZDllOWQzNTRjMGMxZDBjNzIwODk0M2U5`

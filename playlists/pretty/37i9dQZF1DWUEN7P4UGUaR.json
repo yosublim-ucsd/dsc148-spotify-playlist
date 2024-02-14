@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 8649,
+  "num_followers": 8660,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjdhZDU1MGNhYTkwMTY3MDBhMDA4ZDI4YTMxZDI4ZThhZjg4MjU5",
+  "snapshot_id": "MCxlYzQ1MjhiN2QzM2FkMTg0MmNlYjZlNWNiMzVlZmEzMTZjOGRkMzM0",
   "tracks": [
     {
       "added_at": "2024-02-08 16:31:21",
@@ -695,26 +695,18 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Onwanwani",
-        "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
+        "name": "Nkunim (The Victory Song)",
+        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
       },
       "artists": [
         {
-          "name": "Edwin Dadson",
-          "url": "https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Isaiah Fosu-Kwakye Jnr",
-          "url": "https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u"
+          "name": "Carl Clottey",
+          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
         }
       ],
-      "duration_ms": 513913,
-      "name": "Onwanwani",
-      "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
+      "duration_ms": 409432,
+      "name": "Nkunim (The Victory Song)",
+      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -739,18 +731,26 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Nkunim (The Victory Song)",
-        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
+        "name": "Onwanwani",
+        "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
       },
       "artists": [
         {
-          "name": "Carl Clottey",
-          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
+          "name": "Edwin Dadson",
+          "url": "https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Isaiah Fosu-Kwakye Jnr",
+          "url": "https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u"
         }
       ],
-      "duration_ms": 409432,
-      "name": "Nkunim (The Victory Song)",
-      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
+      "duration_ms": 513913,
+      "name": "Onwanwani",
+      "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
+        "name": "Victory Chant",
+        "url": "https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH"
       },
       "artists": [
         {
-          "name": "Irene Logan",
-          "url": "https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz"
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         }
       ],
-      "duration_ms": 321881,
-      "name": "More",
-      "url": "https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn"
+      "duration_ms": 292545,
+      "name": "Victory Chant",
+      "url": "https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB"
     }
   ],
   "unique_name": "Aseda",

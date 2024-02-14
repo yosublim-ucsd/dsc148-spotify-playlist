@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 15911,
+  "num_followers": 15920,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTUwMDJmY2MxMjQ3MWY5YjA0ZGExYWU1NzQ5YzQxMDA1ZmFlMjIy",
+  "snapshot_id": "MCwxM2Y1NWUyZTkwYzc4OGY1NmI3ZDA5MGRiZWYzMjExZmRlZTYwMjg4",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Lucky Day",
-        "url": "https://open.spotify.com/album/4JYMeEAVnEVnJhXe1VZS2b"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Brian & Tony Gold",
-          "url": "https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "Hey Sexy Lady",
-      "url": "https://open.spotify.com/track/4u8IPU322yG7mNrqv89GGL"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 244826,
       "name": "Baby Boy (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Lucky Day",
+        "url": "https://open.spotify.com/album/4JYMeEAVnEVnJhXe1VZS2b"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Brian & Tony Gold",
+          "url": "https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "Hey Sexy Lady",
+      "url": "https://open.spotify.com/track/4u8IPU322yG7mNrqv89GGL"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Music & You",
-        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
-      },
-      "artists": [
-        {
-          "name": "Room 5",
-          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
-        },
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 287226,
       "name": "Rise & Fall (feat. Sting)",
       "url": "https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Music & You",
+        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
+      },
+      "artists": [
+        {
+          "name": "Room 5",
+          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
+        },
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
     },
     {
       "added_at": "2022-02-01 21:20:54",

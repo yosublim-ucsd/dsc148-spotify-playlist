@@ -2,9 +2,9 @@
 
 ### [Pop Live](https://open.spotify.com/playlist/37i9dQZF1DWWnzeQw5ZMfu)
 
-> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
+> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-234 songs - 18 hr 21 min
+235 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [How Am I Supposed To Live Without You \- Bolton Live! Royal Albert Hall, London](https://open.spotify.com/track/6gwepzUdnGY46ZWtQ4iayD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Live At The Royal Albert Hall \(Target Exclusive\)](https://open.spotify.com/album/7uEQNoaQogNu6Ax3CPMu7y) | 4:49 | 2022-04-14 | 2022-07-29 |
 | [How Deep Is Your Love \- Live At The MGM Grand](https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [One Night Only](https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX) | 3:54 | 2022-04-14 |  |
 | [How Will I Know \- Live from The Brit Awards](https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 4:00 | 2022-04-14 |  |
-| [Hung Up \- Live](https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 9:50 | 2023-08-18 |  |
+| [Hung Up \- Live](https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 9:50 | 2023-08-18 | 2024-02-14 |
 | [Hung Up \- Live](https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour \(Live\)](https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm) | 9:50 | 2022-04-14 | 2022-07-29 |
 | [Hunting High And Low \- Live](https://open.spotify.com/track/6jeiWSS6Esw9HSIGF7of2A) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:54 | 2022-04-14 | 2022-07-29 |
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/0uXrseeLQkcjiI1QAmHVPm) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/7ahKxobHI1fMPSbhf9KvyP) | 3:22 | 2022-04-14 | 2022-04-21 |
@@ -232,6 +232,7 @@
 | [Yellow \- Live](https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live 2012](https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m) | 6:51 | 2022-04-29 | 2023-08-19 |
 | [You \- Live](https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:01 | 2022-08-09 |  |
 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-04-14 | 2023-01-06 |
+| [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-02-13 |  |
 | [You Give Me Something \- Live At The Hospital Club](https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 5:00 | 2022-04-14 | 2023-08-19 |
 | [You Need To Calm Down \- Live From Paris](https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down \(Live From Paris\)](https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra) | 3:23 | 2022-04-14 |  |
 | [You're Beautiful \- Live in Ireland](https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 3:38 | 2022-04-14 |  |

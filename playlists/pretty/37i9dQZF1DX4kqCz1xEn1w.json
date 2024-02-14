@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73206,
+  "num_followers": 73195,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmU5NzkyMmU4ODY2ZjE3ZjdiZGEzNmVlY2FhNzNkN2JkODU1NDY0",
+  "snapshot_id": "MCxkNzM2OGI3MzhiZjEyMjZlN2ZjMmE0MmRjMDIzZjY3M2ZhMTUyMGQ3",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -835,22 +835,18 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+        "name": "Just As I Am (A Legacy Of Hymns And Worship)",
+        "url": "https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv"
       },
       "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
         {
           "name": "Kari Jobe",
           "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+      "duration_ms": 356440,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -883,6 +879,26 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "Take Heart (Again)",
         "url": "https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 314493,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Just As I Am (A Legacy Of Hymns And Worship)",
-        "url": "https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 356440,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "How Great",
-        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Praise the King",
-      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Prayers of the Saints (Live)",
         "url": "https://open.spotify.com/album/6vx3WJiAST38dlm8NiRXQR"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 246066,
       "name": "O Lord, My Rock and My Redeemer - Live",
       "url": "https://open.spotify.com/track/5EweZzmxnku4xK98c07Fqc"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "How Great",
+        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 292288,
+      "name": "Praise the King",
+      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
     },
     {
       "added_at": "2023-04-09 08:58:44",

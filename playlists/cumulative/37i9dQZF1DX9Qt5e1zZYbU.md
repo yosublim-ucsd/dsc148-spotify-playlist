@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-35 songs - 2 hr 14 min
+36 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Parks 'n' Recreation](https://open.spotify.com/track/3OsKTBizjyA0WG72nJtsFH) | [Saint Wellesley](https://open.spotify.com/artist/5sMNbIyT8Uzg51gx65UvH6) | [You Don't Know Shit 'Bout](https://open.spotify.com/album/1ySu6uBo7PMgKvGmeuNvVO) | 1:18 | 2023-08-04 | 2023-12-23 |
 | [Rimbaud, Come and Sit For A While](https://open.spotify.com/track/1ShRWt18k9J787eow3aLbZ) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Crying In The Prettiest Places](https://open.spotify.com/album/5ON9itdFujYUliUAlGezJB) | 3:54 | 2023-08-04 |  |
 | [Sorry](https://open.spotify.com/track/4XcXatNtRIItJ08jPiI5XQ) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [Sorry](https://open.spotify.com/album/2egP41bBu2qTOBjNmVDETZ) | 2:44 | 2023-08-04 |  |
-| [Starring](https://open.spotify.com/track/2aeDbtWEBWJ3bjk4wZw1zZ) | [Freelance Whales](https://open.spotify.com/artist/7ucqItQmz1PCNHBFSbr0ki) | [Weathervanes](https://open.spotify.com/album/0isPJRkQrauUgQok8AKKwj) | 3:34 | 2023-08-04 |  |
+| [Starring](https://open.spotify.com/track/2aeDbtWEBWJ3bjk4wZw1zZ) | [Freelance Whales](https://open.spotify.com/artist/7ucqItQmz1PCNHBFSbr0ki) | [Weathervanes](https://open.spotify.com/album/0isPJRkQrauUgQok8AKKwj) | 3:34 | 2023-08-04 | 2024-02-14 |
+| [Starring](https://open.spotify.com/track/73w47iG3XBhRsWgkpKRoR9) | [Freelance Whales](https://open.spotify.com/artist/7ucqItQmz1PCNHBFSbr0ki) | [Weathervanes](https://open.spotify.com/album/3ssnLUShiI1hn1N2c2CfeA) | 3:34 | 2023-08-04 |  |
 | [Teeth](https://open.spotify.com/track/1na0Xt9FOC6tStZo2uhY8R) | [Now, Now Every Children](https://open.spotify.com/artist/5KAqbQU3ysjnYhro2BjiL5) | [In The City EP](https://open.spotify.com/album/2dJeDy1FPO8qGq1gT4lpXE) | 2:48 | 2023-08-04 |  |
 | [The Fall](https://open.spotify.com/track/7pCZMHPwd5Xn8IzDEVITUU) | [Julia Brown](https://open.spotify.com/artist/2oKlKNG9YDt3YCbPbXS2vH) | [An Abundance of B\-sides](https://open.spotify.com/album/2o87h8JS2O1GGhVWmeGsc7) | 1:46 | 2023-08-04 |  |
 | [Tie Me up with Jackets](https://open.spotify.com/track/4ABGT5RsKi6wZfQ9Bxsbal) | [Fight Like Apes](https://open.spotify.com/artist/2VOkiGmdX339sjwVUeYYr4) | [Fight Like Apes and the Mystery of the Golden Medallion](https://open.spotify.com/album/65ArGbPjmM3riA86WmOZgZ) | 2:35 | 2023-08-04 |  |

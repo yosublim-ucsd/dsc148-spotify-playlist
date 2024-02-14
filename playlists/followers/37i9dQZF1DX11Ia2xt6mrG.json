@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 55986,
+  "2024-02-14": 55989,
   "date_first_scraped": "2022-05-13",
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
   "name": "mint MX",
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
@@ -4175,7 +4175,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 190645,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv"

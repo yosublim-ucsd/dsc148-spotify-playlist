@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem MC Livinho com LUDMILLA e DJ Matt D, Luisa Sonza com MC Kevin o Chris  e muito mais!
 
-9,801 songs - 20 day 16 hr 12 min
+9,802 songs - 20 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2592,7 +2592,8 @@
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 | 2023-02-04 |
 | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/track/50IvZsOmgJvxjpELTWFaMa) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/album/4zfoWbjbK5uWArDGCbElnp) | 3:10 | 2023-02-24 | 2023-03-03 |
 | [Doa a Quem Doer](https://open.spotify.com/track/6G7pExYSYFwUAd7YMDBlEg) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Doa a Quem Doer](https://open.spotify.com/album/1GYETjrYy3akwX7OSSl4iV) | 3:08 | 2023-02-24 | 2023-03-03 |
-| [Doce Amargo](https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk) | 2:17 | 2024-02-09 |  |
+| [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 | 2024-02-09 |  |
+| [Doce Amargo](https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk) | 2:17 | 2024-02-09 | 2024-02-14 |
 | [Doce Delírio](https://open.spotify.com/track/2Fv0JOeIkVA2b7lyCtjeb8) | [DINGO](https://open.spotify.com/artist/2sUDjU3jdpKtqxUMn0GRc4) | [Doce Delírio & Desconstrução do Ser](https://open.spotify.com/album/5pexiIOUT5knFic2L23YlI) | 3:12 | 2022-09-23 | 2022-10-01 |
 | [Doce Encanto](https://open.spotify.com/track/4ezwNIQKyUOfxkdCB8Oe7P) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd), [Vico](https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC) | [Doce Encanto](https://open.spotify.com/album/7GmxHyB0mr4qnGfI0Hbfab) | 4:23 | 2023-04-21 | 2023-04-29 |
 | [Doce Veneno](https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Doce Veneno](https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl) | 3:28 | 2022-07-29 | 2022-08-06 |

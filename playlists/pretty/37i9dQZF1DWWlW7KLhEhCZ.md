@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,715 likes - 74 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,724 likes - 74 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Doce Amargo](https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk) | 2:17 |
+| 1 | [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 |
 | 2 | [TROPA DO ZAZA](https://open.spotify.com/track/7M60C46QUgF45y1e77JNsI) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [TROPA DO ZAZA](https://open.spotify.com/album/1O6NWNnND9zAMilImnzl6G) | 2:45 |
 | 3 | [Mais Grana](https://open.spotify.com/track/2rfsmGNkEDXpEGK5pV3QYb) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC), [ttew](https://open.spotify.com/artist/6WJM7nGzGFsVkCp1Y5eNb5) | [Mais Grana](https://open.spotify.com/album/37WXvt7bdjHHYreEFZ7Pys) | 2:12 |
 | 4 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Real Bad Bitch](https://open.spotify.com/track/0umBOSyPMXx2SwaSEuoc6A) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 1:58 |
 | 74 | [Ouro e Joias](https://open.spotify.com/track/67SSejaE7tmF6APksprE5U) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Marvin](https://open.spotify.com/artist/3rmsOEaO3Lp36f2Bmb5Pfj) | [Ouro e Joias](https://open.spotify.com/album/3x8fbgf7jXMw8xzNayzF7f) | 1:55 |
 
-Snapshot ID: `MCxlYWQ1MGJhMmQ5OGE1ZTM3YjIzZGM3MjFmMWM0MmVlOTZmZmYzZDlk`
+Snapshot ID: `MCxmOTRjNzU2MWNhYTdjZGU4OTBjMzVlZWEwNGYwZWY4ZjI3Zjc2OTc2`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-498 songs - 1 day 1 hr 34 min
+499 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bad Girl](https://open.spotify.com/track/6qmT8OZHUbYvwv1hKRK6Sl) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Bad Girl](https://open.spotify.com/album/1250FDbX6wRSmfM8wJk9Wv) | 2:44 | 2023-12-13 |  |
 | [Bad Habit](https://open.spotify.com/track/39LleyvGIy48hCibZROiWD) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit](https://open.spotify.com/album/3lq84tIwKgWOnx0GNg2w1B) | 2:27 | 2023-03-24 | 2023-08-10 |
 | [Bad Habit \- Phonk Version](https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit \(Phonk Version\)](https://open.spotify.com/album/2iG2ou48zBxOk3qH2vT1px) | 1:39 | 2023-04-13 | 2023-08-10 |
+| [Bass Face](https://open.spotify.com/track/5sRe8o0v1CV3p5gFLrGzeH) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bass Face](https://open.spotify.com/album/3sp5KnHFEln5c0nAWZD5kv) | 2:56 | 2024-02-13 |  |
 | [Beam \(ft\. Gabriella\)](https://open.spotify.com/track/0rE2636V6lX6xqlqILnRzS) | [Zeneth](https://open.spotify.com/artist/1Q0zpcJr81syOnC7SnbEGe), [Knoir](https://open.spotify.com/artist/7Knv331TlVGpUA1vRMZxZW), [Gabriella](https://open.spotify.com/artist/6SqSiJfIdigfPGJFq0DW9m) | [Beam \(ft\. Gabriella\)](https://open.spotify.com/album/2AfmqAi8KIlIEDvp98lYcx) | 3:34 | 2022-04-05 | 2023-04-28 |
 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 | 2022-12-28 | 2023-04-28 |
 | [Believe Me](https://open.spotify.com/track/1RtI5pMsCPuxoMzsk9etiE) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [JAMZ](https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ), [SIMONNE](https://open.spotify.com/artist/290WOVLmzJRsj8KJjDIEtD) | [Believe Me](https://open.spotify.com/album/78EOsgCPheBmkCwXtA1nbt) | 3:16 | 2022-08-04 | 2023-04-28 |

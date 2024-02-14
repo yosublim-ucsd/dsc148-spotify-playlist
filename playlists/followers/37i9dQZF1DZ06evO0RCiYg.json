@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 471034,
+  "2024-02-14": 471151,
   "date_first_scraped": "2023-07-29",
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
   "name": "This Is Black Eyed Peas",
@@ -199,7 +199,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 241920,
       "name": "Boom Boom Guetta - David Guetta's Electro Hop Remix",
       "url": "https://open.spotify.com/track/4jpQfNAq0qrCVMsswFbES4"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 225413,
       "name": "XOXOXO",
       "url": "https://open.spotify.com/track/0DS7fFqiQhSDzaVVpDvNQv"

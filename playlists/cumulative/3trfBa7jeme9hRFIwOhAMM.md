@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-143 songs - 7 hr 3 min
+146 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [About Us](https://open.spotify.com/track/6VZbxM7Kj1rQ98HJ6zv30w) | [Charlie Roennez](https://open.spotify.com/artist/6pSJIr64WeGHbSKyQIHBgd), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [A\-Trick](https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW) | [About Us](https://open.spotify.com/album/1HjqDQdjyCe0oJhvGtA6nS) | 2:24 | 2023-09-20 | 2023-12-14 |
 | [About You](https://open.spotify.com/track/3v7zHaByxrRcRIQiImLNtN) | [Aurelios](https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa) | [About You](https://open.spotify.com/album/1qInaVeIVUxnGEbbIyVr1H) | 2:24 | 2023-07-28 | 2023-08-28 |
 | [Acid](https://open.spotify.com/track/2TjsMOYiHCcHC0DvVzdcb0) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [Acid](https://open.spotify.com/album/7m9eInIrvBCl483lectTMn) | 2:25 | 2023-06-26 | 2023-07-14 |
+| [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 | 2024-02-13 |  |
 | [all i need \*](https://open.spotify.com/track/0kmqtv5cXAKg42HceNZfk1) | [Rad Cat](https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f) | [all i need \*](https://open.spotify.com/album/5YQjf0alVpOWuoLRuuwuGy) | 3:03 | 2023-07-06 | 2023-07-15 |
 | [Always Been You](https://open.spotify.com/track/1fkHEzHS9sB9hTVxRwlLAH) | [Boslyk](https://open.spotify.com/artist/1rGIIV4URDuQj5y0FYoL0r) | [Always Been You](https://open.spotify.com/album/7jM1CRuq2XnkgFu8Hh8QOo) | 2:46 | 2023-06-26 | 2023-07-15 |
 | [Apache](https://open.spotify.com/track/2flqR1f6YAi3CUpGkQ7bvt) | [Alenn](https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7), [Event Horizon](https://open.spotify.com/artist/4SEMFplTKKlp8dDnnImaYf) | [Apache](https://open.spotify.com/album/2mtnm2wf8uLYsj923zgykq) | 3:05 | 2023-07-11 | 2023-07-15 |
@@ -112,8 +113,10 @@
 | [Rewind Reverse](https://open.spotify.com/track/7vkfildOmCojeBvfQ836Qi) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Rewind Reverse](https://open.spotify.com/album/61BkSaLZ89EJOzOtPkeeiE) | 4:07 | 2023-06-26 | 2023-07-22 |
 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 | 2024-01-13 |  |
 | [Rhythm Of The House](https://open.spotify.com/track/1HdE5rgE6uELjZdBavnVea) | [Manuals](https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo), [MagiK](https://open.spotify.com/artist/4lHCGfS7hfmctzOHRZ4TZh) | [Rhythm Of The House](https://open.spotify.com/album/1tcZs1bmF6XEYGQOTYSRGG) | 3:01 | 2023-08-27 | 2023-09-26 |
+| [Rhythm Of The Night](https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Rhythm Of The Night](https://open.spotify.com/album/0eIjrRPxXHrZzhQFNxVlOb) | 3:25 | 2024-02-13 |  |
 | [RUSH](https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [RUSH](https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4) | 2:43 | 2023-06-26 |  |
 | [Safari](https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7) | [Safari](https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI) | 2:24 | 2023-07-13 |  |
+| [Samduck](https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR) | [D\-Steal](https://open.spotify.com/artist/6bi3UYlp3xOsZKR87BwR4j), [Castle J](https://open.spotify.com/artist/4q3a3Tyj21xvY85TBpkR6H), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Samduck](https://open.spotify.com/album/0VszkBflaKTagL0NdUKEl7) | 2:19 | 2024-02-13 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-12-11 | 2024-02-03 |
 | [SCREAM MY NAME](https://open.spotify.com/track/6qiGAKi0adwLd9m0Ucncmj) | [DROP DEAD DAN](https://open.spotify.com/artist/4Ehm757OGLRQnrCRyeW0pA), [KingOsiris](https://open.spotify.com/artist/1qdnOsuULHa0BOACCE9eJJ) | [SCREAM MY NAME](https://open.spotify.com/album/1ZpX0o1liNXivuCldcxKcT) | 3:24 | 2023-06-26 | 2023-07-14 |
 | [Seeing Is Believing](https://open.spotify.com/track/3TqmTtE8bP2deIzx7ASnus) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Seeing Is Believing](https://open.spotify.com/album/0zDXBcTRIuKIh7WE8uKSbg) | 3:19 | 2023-06-26 | 2023-08-03 |

@@ -4,7 +4,7 @@
 
 > 
 
-88 songs - 5 hr 7 min
+89 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2020-05-12 |  |
 | [My Love Will Follow You](https://open.spotify.com/track/06PEUqyLumcfAv2Kt7TuKa) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:50 | 2021-09-14 |  |
 | [My Love Will Follow You](https://open.spotify.com/track/6qwfJDqZAnJCIcevQLRnuC) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [My Love Will Follow You](https://open.spotify.com/album/1ytZJZp8tTe72GObKxUOSx) | 3:50 | 2021-03-01 |  |
+| [Nothing Fancy](https://open.spotify.com/track/4dJPijKg7uCZjnblJcnvHB) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Brother, Bring the Sun](https://open.spotify.com/album/6t3Flungcv9zkoADU6OBkm) | 2:48 | 2024-02-13 |  |
 | [Nothing Fancy](https://open.spotify.com/track/4sBgzYKDbtWww4v3pRn1FI) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Remembering: Vol\. 1](https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e) | 3:01 | 2022-06-21 |  |
 | [Nothing Like You](https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Carry on, San Vicente](https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z) | 4:22 | 2020-05-12 |  |
 | [Only Good Will Come of This](https://open.spotify.com/track/0hvtolGCxG6gNMJ2lx7DrZ) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Only Good Will Come of This](https://open.spotify.com/album/32xs2JhqNvv8gWorGiKDwY) | 3:30 | 2021-03-29 |  |

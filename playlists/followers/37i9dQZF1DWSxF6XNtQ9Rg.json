@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 203172,
+  "2024-02-14": 203235,
   "date_first_scraped": "2022-05-12",
   "description": "Solo hit rap da ascoltare in loop. Cover: Sfera Ebbasta",
   "name": "Hit Rap Italiane",
@@ -277,7 +277,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 159840,
       "name": "Auto tedesca",
       "url": "https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK"
@@ -949,6 +949,24 @@
       "duration_ms": 199680,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+    },
+    {
+      "album": {
+        "name": "Cara Italia",
+        "url": "https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244324,
+      "name": "Cara Italia",
+      "url": "https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I"
     },
     {
       "album": {

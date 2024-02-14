@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-75 songs - 3 hr 46 min
+76 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 | 2020-05-15 |  |
 | [The Struggle](https://open.spotify.com/track/7kBP4kOVgeAv7NWcpowA4y) | [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz), [KID SOMETHING](https://open.spotify.com/artist/0ZUzov4ewXiJRz0uO2DiLO) | [The Struggle](https://open.spotify.com/album/67HP7rGmoX7rZGAFEC41Uc) | 3:31 | 2020-08-13 |  |
 | [Vilified](https://open.spotify.com/track/1zlxmKxBTo0vZebDNl3WWs) | [Even Rude](https://open.spotify.com/artist/5b6NZkhncbICzEVWlQVzqq) | [Superabsorbent](https://open.spotify.com/album/1bPRVSF2bCP7Tpakdp7u2T) | 3:30 | 2020-06-08 |  |
-| [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 | 2020-07-28 |  |
+| [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 | 2020-07-28 | 2024-02-14 |
+| [West Coast](https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/2s9Ar63LYOp0XUOscyIz9M) | 3:22 | 2020-07-28 |  |
 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 | 2020-05-15 |  |
 | [You](https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:06 | 2020-05-15 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,198 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,259 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 | 22 | [A2Z](https://open.spotify.com/track/4TPot2zdZDMXE8J8nkmvW3) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 2:40 |
 | 23 | [On tha linë](https://open.spotify.com/track/37nYSBS0MfRCm913QwCCYo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:34 |
 | 24 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 |
-| 25 | [white tee](https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 2:12 |
+| 25 | [white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/2tLt6wYVuseWCe6IwDSlTm) | 2:12 |
 | 26 | [My Favorite Fish](https://open.spotify.com/track/5EytpNhHiwfmy2oJN8J3Vx) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Where Polly People Go to Read](https://open.spotify.com/album/5FEmLiapygMzGwrsjQ02vF) | 3:35 |
 | 27 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
 | 28 | [Denver](https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 | 49 | [YAKUZA TIES](https://open.spotify.com/track/0dIfSEyjNJsdTzJKdBC2co) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 1:56 |
 | 50 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:40 |
 
-Snapshot ID: `MCxmNTgyNjgwNGQwYTViZDQ0ZTZiNjYyMTg3OTUwNzVmNjQxOTkxNTVk`
+Snapshot ID: `MCw0OGE3YzM3NGVmYmE5ZGE3ZTQ4YTc2YTMyOTI4NWY2MzQwMWEyY2Fi`

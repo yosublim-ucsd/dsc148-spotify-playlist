@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,223 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,486 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [Beautiful Stranger](https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 4:17 |
 | 50 | [Sundown \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:33 |
 
-Snapshot ID: `Mjg0NjIzMTYsMDAwMDAwMDBhZWYyMmM2Y2MxNjM3MWI3MWU1N2IxNGUyOTQ4MDhlMA==`
+Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA2ZDAxZTYyYWJkNmM1OTg2NmVhZGE4OGZjZjUwYWUyYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,387 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,395 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,14 +122,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 112 | [Vivir En Pecado](https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD) | [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA) | [Vivir En Pecado](https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC) | 3:12 |
 | 113 | [A Donde Vamos](https://open.spotify.com/track/3e7FMqkF9F8j6dBhAgU4wp) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:17 |
 | 114 | [Ya Te Sabes el Camino](https://open.spotify.com/track/3AG4eFRB1GMrsaLkuK7zqk) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Mi Vicio y Mi Adiccion](https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG) | 3:30 |
-| 115 | [Quien Diria](https://open.spotify.com/track/6475jkYbHpgq3tV2yL1jOS) | [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Quien Diria](https://open.spotify.com/album/5NWwmuIWkyidQIvUePq3By) | 3:36 |
-| 116 | [Pa' No Extrañarte Tanto](https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 3:14 |
+| 115 | [Pa' No Extrañarte Tanto](https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 3:14 |
+| 116 | [Quien Diria](https://open.spotify.com/track/6475jkYbHpgq3tV2yL1jOS) | [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Quien Diria](https://open.spotify.com/album/5NWwmuIWkyidQIvUePq3By) | 3:36 |
 | 117 | [Besos En Pastillas](https://open.spotify.com/track/6UJO5osd30MTaDJlg8VQBs) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Queriéndote Más](https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2) | 2:57 |
 | 118 | [Me Gustaría](https://open.spotify.com/track/1l44mO5rUAzgwDgR4YfSnJ) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Más Enamorada Con Banda](https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6) | 2:30 |
 | 119 | [Voy A Calar Con Otra Boca](https://open.spotify.com/track/6ygoH1PdSWZfPxpzaSJqcd) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Kikin y Los Astros](https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx) | [Voy A Calar Con Otra Boca](https://open.spotify.com/album/49WoR58Afq8N0ovC7OlJD9) | 3:04 |
 | 120 | [Arrodillate](https://open.spotify.com/track/4Nv3atBnoqfT1Mrj9M40Nk) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK) | 3:24 |
-| 121 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
-| 122 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 |
+| 121 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 |
+| 122 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
 | 123 | [No Quieren](https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 2:18 |
 | 124 | [El Shake \(feat\. Las Cumbia Girls\)](https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Las Cumbia Girls](https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:03 |
 | 125 | [Te Descuidaste](https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Chicas Malas](https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e) | 3:35 |
@@ -148,10 +148,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 138 | [Llegas](https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:22 |
 | 139 | [No Puedo Darte Menos](https://open.spotify.com/track/2em9WevgxT2oXktDaAVHI7) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Generación Maquinaria Est\. 2006](https://open.spotify.com/album/6Pf97TrBo0r2qO5Wcx1J6r) | 2:45 |
 | 140 | [La Mejor Versión de Mi](https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:41 |
-| 141 | [Con Todo Y Tus Mañas](https://open.spotify.com/track/3jSddRSaL6KayUkv6LeOH9) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Con Todo Y Tus Mañas](https://open.spotify.com/album/6jAd2KoInbzlQkxxEmXypB) | 3:26 |
-| 142 | [Cómo Que No Te Conozco](https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [No Tienes Remedio](https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M) | 3:13 |
-| 143 | [Amor Puro](https://open.spotify.com/track/0vm73PVeE1qthY2YyjS0S0) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:45 |
-| 144 | [Ya Dime Que Si](https://open.spotify.com/track/5gzB3sL0O440Bo9D9KVLhf) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Sigue Al Frente](https://open.spotify.com/album/6tGZQPLo8mDEiVs1yD5sBr) | 2:39 |
+| 141 | [Cómo Que No Te Conozco](https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [No Tienes Remedio](https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M) | 3:13 |
+| 142 | [Con Todo Y Tus Mañas](https://open.spotify.com/track/3jSddRSaL6KayUkv6LeOH9) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Con Todo Y Tus Mañas](https://open.spotify.com/album/6jAd2KoInbzlQkxxEmXypB) | 3:26 |
+| 143 | [Ya Dime Que Si](https://open.spotify.com/track/5gzB3sL0O440Bo9D9KVLhf) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Sigue Al Frente](https://open.spotify.com/album/6tGZQPLo8mDEiVs1yD5sBr) | 2:39 |
+| 144 | [Amor Puro](https://open.spotify.com/track/0vm73PVeE1qthY2YyjS0S0) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:45 |
 | 145 | [Para Siempre](https://open.spotify.com/track/1H1MOSnAIVLImWFDlIFYjW) | [SuenaTron](https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4) | [Para Siempre](https://open.spotify.com/album/0l0tiUZGSfNroO6vuFSuzl) | 4:08 |
 | 146 | [Que la Quieran](https://open.spotify.com/track/0oLrcolw7yV23WL5ppnMIp) | [Los De La Corona](https://open.spotify.com/artist/1zN8223xpqskBClxZG32Jw), [Francisco Chan](https://open.spotify.com/artist/3Oy3bSMncht3I8MgrDwv0Z) | [Que la Quieran](https://open.spotify.com/album/7MmnatJ6aSMaZb36CY5s2Q) | 3:06 |
 | 147 | [Si Tú Fueras Mía](https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN) | [Norteño 4.5](https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY) | [Y Lo Que Le Sigue](https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo) | 3:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Si Te Ven Conmigo](https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:25 |
 | 150 | [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 |
 
-Snapshot ID: `MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx`
+Snapshot ID: `MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5`

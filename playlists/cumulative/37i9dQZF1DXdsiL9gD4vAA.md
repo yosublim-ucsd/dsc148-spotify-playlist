@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-136 songs - 12 hr 49 min
+137 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
 | [Is Kadar Aap](https://open.spotify.com/track/2uVSOIZX1e86caQnmB7xNt) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/27sYpj3X5BGEwhZmwZv7d2) | 5:58 | 2023-12-12 |  |
 | [Is Nahin Ka](https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Lafzon Ke Darmiyaan](https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE) | 4:34 | 2023-10-16 |  |
-| [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 | 2023-04-18 |  |
+| [Ishq mein aalaa](https://open.spotify.com/track/2aFHX0cbXZyy6U0zy3G87s) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/60389M2luybJW1gWNTdj8r) | 4:04 | 2024-02-09 |  |
+| [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 | 2023-04-18 | 2024-02-14 |
 | [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/0zFdmEPDnsVO8bmLzmFdBr) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 6:43 | 2022-07-26 | 2023-08-23 |
 | [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/1348F6iZc4KCF7NtZv4TUx) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [One Night Stand \(Bhangra Songs\)](https://open.spotify.com/album/1c62tmFjmhmVUT4N7tDHjE) | 6:42 | 2021-12-01 | 2022-07-29 |
 | [Ishqe Noo Ched Na Bethi \(feat\. Ravi Bal\)](https://open.spotify.com/track/6JLys64rusA6N1yo2FlIFO) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [Ravi Bal](https://open.spotify.com/artist/4RorHT1vXP7Z6n3x1xzmv9) | [Long Drive Remixes](https://open.spotify.com/album/1VzGFgbgtwEz0ad8UE83QC) | 6:42 | 2022-11-09 | 2022-11-14 |

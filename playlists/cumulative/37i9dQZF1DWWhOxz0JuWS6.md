@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-530 songs - 1 day 14 hr 22 min
+531 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 | 2020-12-08 |  |
 | [Bullet The Blue Sky](https://open.spotify.com/track/12w7q5JN7tf22TzQtQiiBN) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:31 | 2020-12-08 |  |
 | [Burn in Hell](https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 4:43 | 2020-12-08 |  |
-| [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Crazy from the Heat](https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE) | 2:51 | 2020-12-08 |  |
+| [California Girls](https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Crazy from the Heat](https://open.spotify.com/album/2CLt8z7ozftRAx6I37C7rE) | 2:51 | 2020-12-08 | 2024-02-14 |
 | [Can't Happen Here](https://open.spotify.com/track/6c6PblxgdrYEULpt65p8tO) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:57 | 2020-12-08 | 2022-07-29 |
 | [Can'tcha Say \(You Believe In Me\) / Still In Love](https://open.spotify.com/track/7bMo7aljgbqpiOMSkwgkEN) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 5:12 | 2020-12-08 | 2022-07-27 |
 | [Cat People \(Putting Out Fire\) \- 2018 Remaster](https://open.spotify.com/track/25ceFvWSaI3zoy9hhNYDqu) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 5:09 | 2020-12-08 | 2022-11-13 |
@@ -237,6 +237,7 @@
 | [Last Night](https://open.spotify.com/track/6hOCmsiGjQaS27iiLe2t0i) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:51 | 2020-12-08 |  |
 | [Lawyers in Love](https://open.spotify.com/track/26lCNg8WekUoDbLhEbUyXZ) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Lawyers in Love](https://open.spotify.com/album/3nTuwTk2Gss075xnGnXtU3) | 4:19 | 2020-12-08 | 2022-07-29 |
 | [Lay Your Hands On Me](https://open.spotify.com/track/4oNktvBDV8PNZqZh6MgwZ3) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:58 | 2020-12-08 | 2022-07-26 |
+| [Legs \(2008 Remaster\)](https://open.spotify.com/track/11oBg7EA3BgPLWrIx4Rv7D) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:33 | 2022-11-17 |  |
 | [Legs \- 2008 Remaster](https://open.spotify.com/track/7t6CAWplijBj4sdl0q3z0e) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:33 | 2020-12-08 | 2024-02-10 |
 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 | 2020-12-08 |  |
 | [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 | 2020-12-08 | 2023-11-23 |

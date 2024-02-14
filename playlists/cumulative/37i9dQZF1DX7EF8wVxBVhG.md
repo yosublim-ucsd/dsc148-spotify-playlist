@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-292 songs - 14 hr 52 min
+296 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [190 Hz Beta Sinus](https://open.spotify.com/track/0bwAJrLpsXo7aHBxG2fnNO) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 2:02 | 2021-02-03 | 2021-03-10 |
 | [200 Hz \- 250 Hz Gamma Drone](https://open.spotify.com/track/6ZpnVExLgleeWslKjvGVhx) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:26 | 2019-05-26\* | 2022-03-19 |
 | [30 Hz Gamma](https://open.spotify.com/track/0giLh5A1qhQHLP68sH96Ub) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:22 | 2019-05-26\* | 2020-12-15 |
+| [432 Hz Tellus Heartbeat](https://open.spotify.com/track/3jZtP1Fbf4WO45BuCClXQJ) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [432 Hz Tellus Heartbeat](https://open.spotify.com/album/3F6z3CdXwUdmEytOcDOdIf) | 2:45 | 2024-02-13 |  |
 | [432hz Gamma Waves](https://open.spotify.com/track/6PZ30RDmMNcgNwTrQEO86m) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [432hz Gama Waves](https://open.spotify.com/album/5hXNqqanZ7b8fXcOhzznRA) | 3:25 | 2021-04-10 | 2021-09-02 |
 | [50 Hz Gamma](https://open.spotify.com/track/1MIz2SmiVMvdQ62N8su8H0) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:10 | 2019-05-26\* | 2022-08-23 |
 | [528 Hz Tranquil Movement](https://open.spotify.com/track/3Yr2H92JZYghHGHApR2Y3E) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [528 Hz Tranquil Movement](https://open.spotify.com/album/6t5ZI4pjEPPM7TMBLza3Rg) | 2:30 | 2024-01-24 |  |
@@ -171,6 +172,7 @@
 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-01-13 |  |
 | [Conception](https://open.spotify.com/track/0YZSPagJQcp2t1qlZZoFuW) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B), [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Conception](https://open.spotify.com/album/4DmBExlFUISgPtR4rxz5ie) | 2:08 | 2023-10-13 |  |
 | [Connection Alpha 10Hz](https://open.spotify.com/track/4D32XPyh0L8GX07mUDwaoe) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Connection Alpha 10Hz](https://open.spotify.com/album/2o33M5zBgQWCniGBpU2jbb) | 2:34 | 2023-01-24 |  |
+| [Cortex Rejuvenation 285 Hz](https://open.spotify.com/track/0ddNn86lIO7EHUlZogHAdN) | [Solfonia Bliss](https://open.spotify.com/artist/5ZCCivqbuWNWLeUWqcJ56h) | [Cortex Rejuvenation 285 Hz](https://open.spotify.com/album/1S6k1X61MbiWNePiaiPWrc) | 3:15 | 2024-02-13 |  |
 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 | 2021-04-22 |  |
 | [Creative State of Mind \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 2:47 | 2021-03-25 |  |
 | [Creature](https://open.spotify.com/track/6Vd4pngwOAsq3mDsiW3fKC) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Drones and Beats](https://open.spotify.com/album/4dqxnmrsRlZcjJOkRgP3FD) | 3:40 | 2019-05-26\* | 2021-03-10 |
@@ -182,6 +184,7 @@
 | [Deep Ocean \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/6hYIZ3STECmS3aIZFY9sGF) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 2:56 | 2021-02-24 | 2022-03-19 |
 | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/642iNBukUtBt3u10jgisRs) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/album/1UwvIQl5GRpwbPzo0V7bHR) | 3:03 | 2021-08-05 |  |
 | [Deepstate Beta](https://open.spotify.com/track/5JQjeTD8twwbKEAuhtdZsM) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Trillion](https://open.spotify.com/album/3BaMhE7o0DPZDcogIVoCB9) | 3:10 | 2021-08-18 |  |
+| [Delta Scribe](https://open.spotify.com/track/5neKlqSv2txl3ai2OTWJfl) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Delta Scribe \(model 2.58\)](https://open.spotify.com/album/0rrkOPWPNrvM79MPzSuJSw) | 2:58 | 2024-02-13 |  |
 | [Dreams \- Alpha Sinus 105 Hz \- 107 Hz](https://open.spotify.com/track/7mudqKvibtfNDLwKVs46Wl) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Alpha Sinus Therapy](https://open.spotify.com/album/4bhxlTMGlBXf5W96IEdPl7) | 3:03 | 2022-05-26 |  |
 | [Driver of Time](https://open.spotify.com/track/2VpBxikEAc1jm1CPdrxYMl) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:36 | 2019-05-26\* | 2020-12-03 |
 | [emerging roots \- Alpha Sinus 81Hz \- 89Hz](https://open.spotify.com/track/7JwG4QGEMVEJT1yyqLYlmv) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 4:23 | 2021-06-18 |  |
@@ -287,6 +290,7 @@
 | [Strings Drone Alpha 257Hz \- 265Hz](https://open.spotify.com/track/00p7AIp2Y5iNg3QrMYpGDW) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Drones](https://open.spotify.com/album/61U6duTreheP36EenAHyVx) | 2:25 | 2021-09-02 |  |
 | [Study Drone](https://open.spotify.com/track/05KUQBN6Kewi1X4XIdGTzV) | [Sonic Lab](https://open.spotify.com/artist/0UJY3iGsud9VYG9W3MmTYS) | [Beta 14\-30 Hz Sinus Drones](https://open.spotify.com/album/71eyN1hnNtrx8BMrStFd6T) | 3:24 | 2019-05-26\* | 2021-06-04 |
 | [Sun salutations \- Gamma Sinus](https://open.spotify.com/track/42Dri0LyczZglaXKep1A9H) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:37 | 2021-02-03 | 2023-07-29 |
+| [Suspended in Time 528Hz](https://open.spotify.com/track/2AlSl9svSZiPOz8HLGzehn) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Suspended in Time 528Hz](https://open.spotify.com/album/3wkXTVe5vEYlmdOg47BgNs) | 3:10 | 2024-02-13 |  |
 | [The Alpha Cycle 110Hz \- 119Hz](https://open.spotify.com/track/6M2rghYZkAl2DgTMtOinuC) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Soaking in Binaural](https://open.spotify.com/album/3msRxAwJuC451ZywXpNW2L) | 2:41 | 2021-09-02 |  |
 | [The Process \(Beta Waves\)](https://open.spotify.com/track/1cJ3wyU5cwNv2CjZWK75uM) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2020-03-12 | 2021-10-21 |
 | [Theta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/3dw2xpPQnX1K5dvUETLDY7) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:33 | 2021-09-29 | 2021-10-01 |

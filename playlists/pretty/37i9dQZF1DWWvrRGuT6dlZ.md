@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Islandeer\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,374 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,375 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 6 | [Tired](https://open.spotify.com/track/2SzqIB76prOWeCztmlu9hi) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Tired](https://open.spotify.com/album/28j8ncaZLKane8IMKDRsFX) | 3:04 |
 | 7 | [Must Be Nice](https://open.spotify.com/track/7napoy64U99Dttc8YXQUv6) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Must Be Nice](https://open.spotify.com/album/0UFs6Suo1e8EVPDT6Uesbg) | 3:26 |
 | 8 | [Lessons](https://open.spotify.com/track/3mV5e0s5D7EXlA0dnc5w4q) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lessons](https://open.spotify.com/album/1z27FzbTQkuJedFVzXoIyV) | 4:28 |
-| 9 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
+| 9 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
 | 10 | [Can't Find Me](https://open.spotify.com/track/1q6WBM2eCetMnrz6LMMM16) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Can't Find Me](https://open.spotify.com/album/1bZO1PXSiQmIPwcaJWQAqJ) | 2:30 |
 | 11 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
 | 12 | [In My Head \- Journal Sarahaeyo OST](https://open.spotify.com/track/3g71szrAvU2dj31nHh51Se) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [Arena Wan](https://open.spotify.com/artist/3Um1pus2tvJ9cOSti2nURR) | [In My Head \(Journal Sarahaeyo OST\)](https://open.spotify.com/album/0R1gxriO6uKGL4GIrFF6av) | 3:09 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 119 | [Anxiety](https://open.spotify.com/track/3VY294BowMa8tWNu1MrVg9) | [Naomi G](https://open.spotify.com/artist/26QQ1WkFkynFLtkcTULKLP) | [Anxiety](https://open.spotify.com/album/3hPck6L3LHzRBeLZuHZx1K) | 2:27 |
 | 120 | [Delorean](https://open.spotify.com/track/6GLuYP7cXv91HyyPUy7jdq) | [Perry](https://open.spotify.com/artist/6xmUouQAgFHw0sIiIdBf0L), [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [Delorean](https://open.spotify.com/album/6w97lrGzG41UxqiP53rhmj) | 3:30 |
 
-Snapshot ID: `MCw0ZDcwN2I0ZWFkNDM0MzQ1MDA3MGZjMjk2MjI2OTEwYWYyNzYxMGU5`
+Snapshot ID: `MCwwMWMzNTc5NDFlYzAwNmFkZDgxZDdiMDlmM2JkNmIwZThiZDY0ZGVj`

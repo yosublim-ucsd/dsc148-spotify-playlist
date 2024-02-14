@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 15436,
+  "num_followers": 15449,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjdkOTJiMjdmMWRjMGUxMTA1NDk3MGY0ZmE4MjZmMWFiZmRkMDIx",
+  "snapshot_id": "MCxmNmE0ZTgyZGVjMzlhMGJlY2IxZWI0ZTEwZDI5YWZlZTc4ZTRlZWNj",
   "tracks": [
     {
       "added_at": "2024-02-08 22:08:18",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-02-08 22:08:18",
       "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 217209,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
+    },
+    {
+      "added_at": "2024-02-08 22:08:18",
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
-    },
-    {
-      "added_at": "2024-02-08 22:08:18",
-      "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 217209,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
     },
     {
       "added_at": "2024-02-08 22:08:18",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-02-08 22:08:18",
       "album": {
+        "name": "Un D\u00eda De Estos",
+        "url": "https://open.spotify.com/album/7GYjoCpQw3PHkcfAVmpNzL"
+      },
+      "artists": [
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 149955,
+      "name": "Un D\u00eda De Estos",
+      "url": "https://open.spotify.com/track/7rsRu5kV7CMuVGJulafxLs"
+    },
+    {
+      "added_at": "2024-02-08 22:08:18",
+      "album": {
         "name": "Lejos De Todo",
         "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 204500,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
-    },
-    {
-      "added_at": "2024-02-08 22:08:18",
-      "album": {
-        "name": "Un D\u00eda De Estos",
-        "url": "https://open.spotify.com/album/7GYjoCpQw3PHkcfAVmpNzL"
-      },
-      "artists": [
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        }
-      ],
-      "duration_ms": 149955,
-      "name": "Un D\u00eda De Estos",
-      "url": "https://open.spotify.com/track/7rsRu5kV7CMuVGJulafxLs"
     },
     {
       "added_at": "2024-02-08 22:08:18",

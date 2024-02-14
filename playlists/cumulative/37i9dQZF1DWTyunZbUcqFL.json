@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 228035,
       "name": "\u30a2\u30a4\u30df\u30eb",
       "url": "https://open.spotify.com/track/3ovTFZCNLiE263FYsx0YWn"
@@ -778,6 +778,24 @@
       "duration_ms": 343248,
       "name": "\u30aa\u30fc\u30ed\u30e9",
       "url": "https://open.spotify.com/track/6ApWNvN5MRk5MdyDoxoOh0"
+    },
+    {
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/2fyaATeWHevI5dOgQ79oMX"
+      },
+      "artists": [
+        {
+          "name": "YUNOWA",
+          "url": "https://open.spotify.com/artist/1Oi9jYhqRQffDoihkzMon8"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "\u30b5\u30c6\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/142nSIc5y8DXVfWmxQhQ4b"
     },
     {
       "album": {

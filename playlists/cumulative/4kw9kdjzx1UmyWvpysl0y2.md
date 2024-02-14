@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-656 songs - 1 day 13 hr 59 min
+657 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [September Nights](https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Together As One](https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv) | 3:58 | 2023-09-01 | 2023-12-14 |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-11-19 | 2022-02-05 |
 | [Shadow \- Acoustic](https://open.spotify.com/track/4zhtUqtROlgV1RYSm9Fk2D) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow \(Acoustic\)](https://open.spotify.com/album/240Kl4TuM2QTwUNs4CJb3o) | 2:55 | 2021-11-23 | 2022-02-26 |
-| [Shadow Of A Doubt](https://open.spotify.com/track/0AwHF7s6EaX2cTDOvKCe7f) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Fagin](https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV), [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Shadow Of A Doubt](https://open.spotify.com/album/2cS8m6qoyA62n92HZI0vW3) | 2:52 | 2023-10-31 |  |
+| [Shadow Of A Doubt](https://open.spotify.com/track/0AwHF7s6EaX2cTDOvKCe7f) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Fagin](https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV), [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Shadow Of A Doubt](https://open.spotify.com/album/2cS8m6qoyA62n92HZI0vW3) | 2:52 | 2023-10-31 | 2024-02-14 |
 | [Shadow Settles](https://open.spotify.com/track/6mZ1ymTDdQSUUYkYoj8mD8) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Shadow Settles](https://open.spotify.com/album/0vwc9eYpRD229CD7Hqi3nB) | 3:36 | 2022-04-08 | 2022-06-18 |
 | [Shadowblade](https://open.spotify.com/track/6tyfFtThdu7pYvDs2uRcjT) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Shadowblade](https://open.spotify.com/album/1aX6eK8WqLSwPh7LTbgLJz) | 4:15 | 2022-01-27 | 2022-04-08 |
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
@@ -608,6 +608,7 @@
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
 | [Turn It Up \- Slushii & Afinity VIP](https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Turn It Up \(Slushii & Afinity VIP\)](https://open.spotify.com/album/76T0t1HbJ8nNieSaJ8nKLb) | 3:58 | 2023-12-08 |  |
 | [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 | 2023-06-21 |
+| [Turning](https://open.spotify.com/track/1syjpaCUrigJLbsdvBL2g6) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Turning](https://open.spotify.com/album/10alSsU3B9fySetvtSSoyR) | 3:40 | 2024-02-13 |  |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-03-24 | 2023-06-20 |
 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 | 2024-01-29 |  |

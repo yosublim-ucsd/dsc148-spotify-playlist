@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 84950,
+  "num_followers": 84964,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2RjZTAzYjc4NmQ2ZTMzMTc2NDBjYTRhNjg3MDI4NGI4M2M4YjIz",
+  "snapshot_id": "MCxkOGVhNjljYzQ1NWM2NmIxNzg1MDA1ZjA2ZWQ2Yzk5MGFhYzQyYWQz",
   "tracks": [
     {
       "added_at": "2024-01-02 19:51:49",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Apre bal la",
+        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
+      },
+      "artists": [
+        {
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 237362,
+      "name": "Apre bal la",
+      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Liki Tiki",
         "url": "https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 195000,
       "name": "Liki Tiki",
       "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Apre bal la",
-        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
-      },
-      "artists": [
-        {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
-        },
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 237362,
-      "name": "Apre bal la",
-      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -703,6 +703,38 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "TRANSITIONS EP",
+        "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 170550,
+      "name": "Guava",
+      "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -727,22 +759,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
       },
@@ -759,34 +775,6 @@
       "duration_ms": 142040,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Rap ap rete Rap",
-        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Medjy",
-          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
-        },
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        },
-        {
-          "name": "Steves J Bryan",
-          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
-        }
-      ],
-      "duration_ms": 236923,
-      "name": "Si Yo Vle",
-      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -815,18 +803,30 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "TRANSITIONS EP",
-        "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
+        "name": "Rap ap rete Rap",
+        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
       "artists": [
         {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Medjy",
+          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        },
+        {
+          "name": "Steves J Bryan",
+          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
         }
       ],
-      "duration_ms": 170550,
-      "name": "Guava",
-      "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
+      "duration_ms": 236923,
+      "name": "Si Yo Vle",
+      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Premye Fwa",
+        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
+      },
+      "artists": [
+        {
+          "name": "DANOLA",
+          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Premye Fwa",
+      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Chante ap ret chante",
         "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 253208,
       "name": "Bay Vag",
       "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Premye Fwa",
-        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
-      },
-      "artists": [
-        {
-          "name": "DANOLA",
-          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Premye Fwa",
-      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Manyen'l",
         "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 209777,
       "name": "Manyen'l",
       "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Fanm d'Ayiti",
         "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 194976,
       "name": "Nou Pare",
       "url": "https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1675,6 +1659,22 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Foli",
-        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Foli",
-      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 195692,
       "name": "On va pas baisser les bras",
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Foli",
+        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Foli",
+      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1895,38 +1895,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        },
-        {
-          "name": "Z The Vibe Doctor",
-          "url": "https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh"
-        },
-        {
-          "name": "Benny D",
-          "url": "https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu"
-        },
-        {
-          "name": "Machi",
-          "url": "https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy"
-        },
-        {
-          "name": "Julian Mendoza",
-          "url": "https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Te revoir",
         "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
       },
@@ -1939,6 +1907,22 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Donzo City",
+        "url": "https://open.spotify.com/album/4kabcIjP9PbnEoE7NyPMrP"
+      },
+      "artists": [
+        {
+          "name": "DonLex",
+          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "KASE",
+      "url": "https://open.spotify.com/track/3GBkdyO9o0BOVcK3djHNx2"
     }
   ],
   "unique_name": "Haitian Heat",

@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 229460,
+  "2024-02-14": 229607,
   "date_first_scraped": "2022-01-09",
   "description": "Cumbias de anta\u00f1o para bailar.",
   "name": "Cumbias Viejitas",
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 167013,
       "name": "Cozumel",
       "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
@@ -3467,7 +3467,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "Paloma Mensajera",
       "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
@@ -4040,6 +4040,24 @@
     },
     {
       "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "album": {
         "name": "Sabros\u00f3n",
         "url": "https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt"
       },
@@ -4051,7 +4069,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 174236,
       "name": "Sabros\u00f3n",
       "url": "https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE"

@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: anaïs
 
-1,304 songs - 2 day 19 hr 43 min
+1,305 songs - 2 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [diva](https://open.spotify.com/track/6L2FkHd9GinXEduRuOxsnb) | [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4) | [diva](https://open.spotify.com/album/68axks0gxugGgooNn9G8pz) | 2:56 | 2022-04-05 | 2022-05-04 |
 | [DIY](https://open.spotify.com/track/53Z2zCWThTRBr1x7EfCI93) | [SATARII](https://open.spotify.com/artist/0ysIoJftcmrTkNW0YIrNps) | [DIY](https://open.spotify.com/album/2Fon1y8yP0kwqRUbc19sBr) | 2:47 | 2022-04-05 | 2022-05-04 |
 | [DJ in Berlin](https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [DJ in Berlin](https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w) | 2:46 | 2023-05-02 | 2023-06-07 |
+| [DLIT \(die Liebe ist tot\)](https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce) | 2:46 | 2024-02-14 |  |
 | [DMs](https://open.spotify.com/track/3SWHOSTh2cyledTEtOyzAk) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [DMs](https://open.spotify.com/album/1GrSsPWvJlutbq9tWGgx9n) | 2:23 | 2022-11-07 | 2022-12-01 |
 | [Do It Anyway](https://open.spotify.com/track/46WfoHmp8CsgECJ14JkRzW) | [Taia Dya](https://open.spotify.com/artist/1j5C5FI4k5YuyrOSsxIeoc) | [Do It Anyway](https://open.spotify.com/album/5xjrLChsR9sFgODn5NbFPT) | 2:30 | 2023-11-07 | 2023-11-30 |
 | [Does She Know You?](https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt) | [metty](https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW) | [Does She Know You?](https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95) | 2:31 | 2022-11-07 | 2022-12-01 |
@@ -765,7 +766,7 @@
 | [müde](https://open.spotify.com/track/71I89sp3uzWIWq9BGHZQTv) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [müde](https://open.spotify.com/album/4MAkTfejQZEuVORff0WeYF) | 3:25 | 2022-08-02 | 2022-09-07 |
 | [Nacht](https://open.spotify.com/track/6Ftms87OnMFLOiLwpnnrJQ) | [Liyah](https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR) | [Nacht](https://open.spotify.com/album/1nwa9dSC4fh2j36HDaEATi) | 2:28 | 2022-08-02 | 2022-09-07 |
 | [Nachtaktiv](https://open.spotify.com/track/0e7VyaUvSUXefd4my1Wifm) | [MAINY](https://open.spotify.com/artist/4fcB3mjAqgDvfWakGocY6o) | [Nachtaktiv](https://open.spotify.com/album/6VmMLYC5NZVIkGBny4FvQs) | 2:27 | 2022-01-04 | 2022-02-02 |
-| [Nachtschicht](https://open.spotify.com/track/6dZQIPaOrXhTpa1oeNDBul) | [LilliPop](https://open.spotify.com/artist/7EufW3ixxDt2WINimC99kG) | [Nachtschicht](https://open.spotify.com/album/1FKYDYwYef2G7KSJI7Wxir) | 2:21 | 2024-02-06 |  |
+| [Nachtschicht](https://open.spotify.com/track/6dZQIPaOrXhTpa1oeNDBul) | [LilliPop](https://open.spotify.com/artist/7EufW3ixxDt2WINimC99kG) | [Nachtschicht](https://open.spotify.com/album/1FKYDYwYef2G7KSJI7Wxir) | 2:21 | 2024-02-06 | 2024-02-14 |
 | [Naja, geht so](https://open.spotify.com/track/0zCcadCOSGHjomAlAun1mQ) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Naja, geht so](https://open.spotify.com/album/65QSLQ96sJG8ylmNrRy3BM) | 3:07 | 2022-05-31 | 2022-07-06 |
 | [narcissistic brain](https://open.spotify.com/track/471izAznueozJKIOax70bU) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [narcissistic brain](https://open.spotify.com/album/5OLoGreS9Ja506fg1xyfBt) | 3:13 | 2023-07-04 | 2023-08-02 |
 | [Nearly to the End](https://open.spotify.com/track/1jDqTmWI61O6frPRiK23K3) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Nearly to the End](https://open.spotify.com/album/4Gtl2P5U86fdLY8PoLaXO4) | 3:12 | 2023-07-04 | 2023-08-02 |

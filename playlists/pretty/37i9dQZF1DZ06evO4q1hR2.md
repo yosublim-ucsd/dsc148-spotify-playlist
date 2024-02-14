@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,430 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,456 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Ataca y Atrapa](https://open.spotify.com/track/6wyrC6ockDrREoAxiV0qm7) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:24 |
 | 50 | [Esperanza Valero](https://open.spotify.com/track/6YERvxBDNRxomS8A4YYR8i) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Profundamente](https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i) | 2:16 |
 
-Snapshot ID: `Mjg0NjIzMTUsMDAwMDAwMDA1MGJlNmEzN2I3Mzc3ZmE0ZDAwNzY5NGVjZjI1YWU2ZQ==`
+Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBhYzBhZGJkNjA1MjViYzU0OWQ0ZjI2OGQ4ZmU4ZDE4NA==`

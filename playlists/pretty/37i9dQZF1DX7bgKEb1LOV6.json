@@ -1,13 +1,29 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 651475,
+  "num_followers": 651495,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmYwNTk3M2MyNGQ5NmJlOTY3YTI4NzE0ZWI2Y2YyYWI5MzQzNGVi",
+  "snapshot_id": "MCw2NTAzYjNkZDc3M2ZlYWQ5MzBiZGI5MDBiN2Y5OGRkZGY5MTAxMzQ1",
   "tracks": [
+    {
+      "added_at": "2024-02-13 08:59:37",
+      "album": {
+        "name": "TEN - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Nightwalker",
+      "url": "https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR"
+    },
     {
       "added_at": "2024-01-16 03:25:17",
       "album": {

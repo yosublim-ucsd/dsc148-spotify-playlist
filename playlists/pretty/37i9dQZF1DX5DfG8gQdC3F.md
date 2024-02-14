@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from USHER, Kacey Musgraves, Noah Kahan, Little Simz, Forest Blakk and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,211 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,261 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bike Dream](https://open.spotify.com/track/0pg1rByVA1R5YFMMwCglVZ) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Bike Dream](https://open.spotify.com/album/3iKPE0lxcCIBfNACrZy04L) | 3:13 |
 | 100 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 |
 
-Snapshot ID: `MCw0Y2VmZTljYzJkMTFjOGQ0MDhhM2Y1ZjMwMDc2N2ExMjY3OWIyMjUw`
+Snapshot ID: `MCw3YTBmNmNmMGE3MTgyN2I4ZDVmMmI3YzkzOWEyNDMxMmUyNTlhODM5`

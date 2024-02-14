@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,539 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,535 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 31 | [Single](https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Single](https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW) | 2:58 |
 | 32 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 |
 | 33 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
-| 34 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
-| 35 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
+| 34 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
+| 35 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
 | 36 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 |
 | 37 | [El Rey De La Rapidas](https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [El Rey De La Rapidas](https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa) | 2:29 |
 | 38 | [VISAJE](https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [VISAJE](https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb) | 2:47 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 69 | [Grave Digger \(with Southside\)](https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 3:02 |
 | 70 | [Neymar \- Remix](https://open.spotify.com/track/1pkfnn0nqvaBaoiT29pvwF) | [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Diley](https://open.spotify.com/artist/2xnEIFXI7V22eccHVveexp) | [Neymar \(Remix\)](https://open.spotify.com/album/4p4nlwIbNxYl0CUqNwgpUQ) | 3:08 |
 | 71 | [Trending](https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:02 |
-| 72 | [Mi Vicio \- Remix](https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 4:44 |
-| 73 | [Manhattan](https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Manhattan](https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN) | 2:10 |
+| 72 | [Manhattan](https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Manhattan](https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN) | 2:10 |
+| 73 | [Mi Vicio \- Remix](https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 4:44 |
 | 74 | [Muévelo Lento](https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Muévelo Lento](https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m) | 3:02 |
 | 75 | [Anfetamina](https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Anfetamina](https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n) | 3:56 |
 | 76 | [Nosotros](https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Nosotros](https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [7D](https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [7D](https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS) | 3:56 |
 | 100 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
 
-Snapshot ID: `MCwxZGQ1Zjc4Mzg3MTM0MWEwOTllNTM1ZjAzNDg2ZjY3NThhMjMzMWI5`
+Snapshot ID: `MCwyNDBmZmJlYmVmOTY0ZGMzYWZmZDNmMmI5OTAxNmQ3YWU0OTA2MzIw`

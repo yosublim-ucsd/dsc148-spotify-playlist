@@ -4,13 +4,14 @@
 
 > minha carne é de carnaval, meu coração é igual
 
-54 songs - 3 hr 24 min
+55 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Luz De Tieta](https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Axé Bahia](https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ) | 3:14 | 2023-03-06 |  |
 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 | 2023-03-06 |  |
 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 | 2023-03-06 |  |
+| [Alo Paixao](https://open.spotify.com/track/23WC3lIxCNoVoe00MTyE1T) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara \- O melhor De Banda Eva](https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa) | 4:02 | 2023-03-06 |  |
 | [Apesar De Você](https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [MPB4](https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 3:55 | 2023-03-06 |  |
 | [Aquele Abraço](https://open.spotify.com/track/7CjSjWTdVPD0ov82Qz55Xb) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilberto Gil \(1969\)](https://open.spotify.com/album/53eqd316Rs3te41yGRovYz) | 5:23 | 2023-03-06 |  |
 | [Arrastão da Alegria](https://open.spotify.com/track/6cmU865RAVndrwunpzHR96) | [Monobloco](https://open.spotify.com/artist/4EU2koSlyxLmiyslykCis5) | [Arrastão Da Alegria](https://open.spotify.com/album/2S7tOIgfoeuihol8fl534X) | 3:55 | 2023-03-06 |  |
@@ -21,7 +22,7 @@
 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 | 2023-03-06 |  |
 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 | 2023-03-06 |  |
 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 | 2023-03-06 |  |
-| [Bloco do Prazer](https://open.spotify.com/track/6PkvVJOKenUc7a2qf9QhQH) | [Orquestra Frevo do Mundo](https://open.spotify.com/artist/2uuKaLGFQ9uEylFFVFLoEB), [Duda Beat](https://open.spotify.com/artist/07XkKhhpOu0V6aM0HNddVG) | [Orquestra Frevo do Mundo, Vol.1](https://open.spotify.com/album/45hycSMRKTDF076FI5dsmJ) | 3:32 | 2023-03-06 |  |
+| [Bloco do Prazer](https://open.spotify.com/track/6PkvVJOKenUc7a2qf9QhQH) | [Orquestra Frevo do Mundo](https://open.spotify.com/artist/2uuKaLGFQ9uEylFFVFLoEB), [Duda Beat](https://open.spotify.com/artist/07XkKhhpOu0V6aM0HNddVG) | [Orquestra Frevo do Mundo, Vol.1](https://open.spotify.com/album/45hycSMRKTDF076FI5dsmJ) | 3:32 | 2023-03-06 | 2024-02-14 |
 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 | 2023-03-06 |  |
 | [Caetano Veloso](https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Coração](https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX) | 3:21 | 2023-03-06 |  |
 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 | 2023-03-06 |  |

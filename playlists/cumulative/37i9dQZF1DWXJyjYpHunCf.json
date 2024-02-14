@@ -4118,10 +4118,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 206250,
       "name": "My Home",
       "url": "https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF"
+    },
+    {
+      "album": {
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q"
     },
     {
       "album": {

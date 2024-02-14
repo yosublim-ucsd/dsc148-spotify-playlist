@@ -1,7 +1,7 @@
 {
-  "2024-02-13": 100426,
+  "2024-02-14": 100993,
   "date_first_scraped": "2023-09-22",
-  "description": "for the baddies",
+  "description": "for the baddies this valentine's day.",
   "name": "ALLURE",
   "tracks": [
     {
@@ -57,6 +57,24 @@
       "duration_ms": 270363,
       "name": "Animals",
       "url": "https://open.spotify.com/track/2n1Go55RzCD8pvnEmA6HGO"
+    },
+    {
+      "album": {
+        "name": "Be Quiet And Drive (Far Away) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187189,
+      "name": "Be Quiet And Drive (Far Away)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "album": {
@@ -388,6 +406,32 @@
     },
     {
       "album": {
+        "name": "...And Everything In Between",
+        "url": "https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        },
+        {
+          "name": "Scott LePage",
+          "url": "https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270546,
+      "name": "Die On The Cross Of The Martyr",
+      "url": "https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W"
+    },
+    {
+      "album": {
         "name": "DISDAIN",
         "url": "https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO"
       },
@@ -637,6 +681,24 @@
       "duration_ms": 224106,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H"
+    },
+    {
+      "album": {
+        "name": "Lonely Day - Spotify Singles",
+        "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lonely Day - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
     },
     {
       "album": {
@@ -1135,6 +1197,24 @@
       "duration_ms": 224320,
       "name": "Vermilion, Pt. 2",
       "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219759,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
     },
     {
       "album": {

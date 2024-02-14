@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2142415,
+  "num_followers": 2142387,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYxMTAyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYxMTg4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Lieb mich",
         "url": "https://open.spotify.com/album/4274V2AE7IA8tSkhpEGNip"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4C9bsG159VjOQe0g1RgMi9"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Fettes Q",
-        "url": "https://open.spotify.com/album/4JNEX0FgXfXzYHdwcAPBH8"
-      },
-      "artists": [
-        {
-          "name": "Querbeat",
-          "url": "https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Nie mehr Fastelovend",
-      "url": "https://open.spotify.com/track/7AAcQMV6Uw3YXt9TTx4b6r"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
@@ -89,7 +73,27 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "schwarzer toyota",
         "url": "https://open.spotify.com/album/3jqLPA1NJbCGkZIBLNaW1k"
@@ -113,47 +117,23 @@
       "url": "https://open.spotify.com/track/6zV5WGrUYlR2i4AiaKfrKN"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "Fettes Q",
+        "url": "https://open.spotify.com/album/4JNEX0FgXfXzYHdwcAPBH8"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Querbeat",
+          "url": "https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4"
         }
       ],
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
+      "duration_ms": 208773,
+      "name": "Nie mehr Fastelovend",
+      "url": "https://open.spotify.com/track/7AAcQMV6Uw3YXt9TTx4b6r"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "FUK SUMN",
-      "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
@@ -173,43 +153,43 @@
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Another Vibe (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3"
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
@@ -237,7 +217,43 @@
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Another Vibe (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "sonnenbank.mp3",
         "url": "https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb"
@@ -269,43 +285,7 @@
       "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "F\u00fcr immer Fr\u00fchling",
-        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
-      },
-      "artists": [
-        {
-          "name": "soffie",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "F\u00fcr immer Fr\u00fchling",
-      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 115238,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -329,43 +309,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Viva Express 5.0",
-        "url": "https://open.spotify.com/album/22XeMrOFGzeCmL28kQrVkM"
-      },
-      "artists": [
-        {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Et jitt kei Wood",
-      "url": "https://open.spotify.com/track/7mJMGgkyR0XSyd44svaD4P"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 295471,
-      "name": "BACK TO ME",
-      "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -401,23 +345,7 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -437,7 +365,55 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Viva Express 5.0",
+        "url": "https://open.spotify.com/album/22XeMrOFGzeCmL28kQrVkM"
+      },
+      "artists": [
+        {
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Et jitt kei Wood",
+      "url": "https://open.spotify.com/track/7mJMGgkyR0XSyd44svaD4P"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
@@ -469,43 +445,7 @@
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Stimmungsmacher",
-        "url": "https://open.spotify.com/album/1nX6bKbe4khw0QFg5xsDNu"
-      },
-      "artists": [
-        {
-          "name": "Querbeat",
-          "url": "https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4"
-        }
-      ],
-      "duration_ms": 215769,
-      "name": "Guten Morgen Barbarossaplatz",
-      "url": "https://open.spotify.com/track/385lgFqvuFryjdlYzTF4fP"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "PAID",
-      "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "DORFDiSKO ZWEi",
         "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
@@ -525,227 +465,7 @@
       "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Prinzessin",
-        "url": "https://open.spotify.com/album/3pNfKNPABB9UMd305QW224"
-      },
-      "artists": [
-        {
-          "name": "H\u00f6hner",
-          "url": "https://open.spotify.com/artist/6A9b0JlSJF0KxCddzOTGiA"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Prinzessin",
-      "url": "https://open.spotify.com/track/0Q1PL9xAcw9clycu7f8YGw"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Komet",
-        "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
-      },
-      "artists": [
-        {
-          "name": "Udo Lindenberg",
-          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
-        },
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 167356,
-      "name": "Komet",
-      "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 111458,
-      "name": "BURN",
-      "url": "https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "KEYS TO MY LIFE",
-      "url": "https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 185110,
-      "name": "TALKING",
-      "url": "https://open.spotify.com/track/3qnbLYCLzKvGIQXFyopS2H"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "DO IT",
-      "url": "https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Viva Express 5.0",
-        "url": "https://open.spotify.com/album/22XeMrOFGzeCmL28kQrVkM"
-      },
-      "artists": [
-        {
-          "name": "Kasalla",
-          "url": "https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Pirate",
-      "url": "https://open.spotify.com/track/4rZCs12mDDseNSfpOIu5rc"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Karneval 2023 \u2013 K\u00f6lsche Party Hits",
-        "url": "https://open.spotify.com/album/1O6Cz1yb2WfT56I6sNivYU"
-      },
-      "artists": [
-        {
-          "name": "Brings",
-          "url": "https://open.spotify.com/artist/5uRfU4LuGDkxzZ86uCXQY8"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "K\u00f6lsche Jung - Party Edit",
-      "url": "https://open.spotify.com/track/5WsBHZRPeXLmZTaIOZbB1e"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 145785,
-      "name": "PAPERWORK",
-      "url": "https://open.spotify.com/track/3IoAMvGFYzM05B64h7qmdf"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Schwarzes Herz",
-        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 136360,
-      "name": "H\u00e4sslich",
-      "url": "https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "auf alles!",
-        "url": "https://open.spotify.com/album/7lPbz3Xjf60vqzgdCHp2OG"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "Nizi19",
-          "url": "https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg"
-        }
-      ],
-      "duration_ms": 122640,
-      "name": "auf alles!",
-      "url": "https://open.spotify.com/track/1Jygol1XrhFzX9XJJY2IcA"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -761,39 +481,43 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
-        "name": "Us der Stadt met K",
-        "url": "https://open.spotify.com/album/4qgSvmgxUTvB5vws7OaC1c"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
       "artists": [
         {
-          "name": "Kasalla",
-          "url": "https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 234786,
-      "name": "Stadt met K",
-      "url": "https://open.spotify.com/track/48dosoGX5Bey5mk6BhCgKM"
+      "duration_ms": 115238,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
-        "name": "Leev Marie",
-        "url": "https://open.spotify.com/album/0GKP1k0w7mYKlhAfEiqc9D"
+        "name": "Schwarzes Herz",
+        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
       },
       "artists": [
         {
-          "name": "Paveier",
-          "url": "https://open.spotify.com/artist/0F3lC4Bfyf7mKrkCiXPAaO"
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
         }
       ],
-      "duration_ms": 262240,
-      "name": "Leev Marie",
-      "url": "https://open.spotify.com/track/6te4u5fA8mtW1DYoB9YV4t"
+      "duration_ms": 136360,
+      "name": "H\u00e4sslich",
+      "url": "https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
@@ -813,63 +537,119 @@
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+        "name": "Komet",
+        "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
       },
       "artists": [
         {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 108573,
-      "name": "DTMS",
-      "url": "https://open.spotify.com/track/0B6Ibm1BDUqh6KxV1t5GtW"
-    },
-    {
-      "added_at": "2024-02-12 10:21:28",
-      "album": {
-        "name": "9 bis 9",
-        "url": "https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb"
-      },
-      "artists": [
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
         },
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
         }
       ],
-      "duration_ms": 131587,
-      "name": "9 bis 9",
-      "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
+      "duration_ms": 167356,
+      "name": "Komet",
+      "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 295471,
+      "name": "BACK TO ME",
+      "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Stimmungsmacher",
+        "url": "https://open.spotify.com/album/1nX6bKbe4khw0QFg5xsDNu"
+      },
+      "artists": [
+        {
+          "name": "Querbeat",
+          "url": "https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4"
+        }
+      ],
+      "duration_ms": 215769,
+      "name": "Guten Morgen Barbarossaplatz",
+      "url": "https://open.spotify.com/track/385lgFqvuFryjdlYzTF4fP"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "auf alles!",
+        "url": "https://open.spotify.com/album/7lPbz3Xjf60vqzgdCHp2OG"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Nizi19",
+          "url": "https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg"
+        }
+      ],
+      "duration_ms": 122640,
+      "name": "auf alles!",
+      "url": "https://open.spotify.com/track/1Jygol1XrhFzX9XJJY2IcA"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 111458,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Prinzessin",
+        "url": "https://open.spotify.com/album/3pNfKNPABB9UMd305QW224"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6hner",
+          "url": "https://open.spotify.com/artist/6A9b0JlSJF0KxCddzOTGiA"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Prinzessin",
+      "url": "https://open.spotify.com/track/0Q1PL9xAcw9clycu7f8YGw"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "Ms. Jackson",
         "url": "https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln"
@@ -885,7 +665,7 @@
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "WONDERFUL LIFE",
         "url": "https://open.spotify.com/album/3dAGTCVoLXIZrBvgY2tsEB"
@@ -913,31 +693,39 @@
       "url": "https://open.spotify.com/track/5Tpojb1ynbO0MgfAwgDza5"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
       "album": {
-        "name": "The Highlights (Deluxe)",
-        "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna)",
-      "url": "https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB"
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Karneval 2023 \u2013 K\u00f6lsche Party Hits",
+        "url": "https://open.spotify.com/album/1O6Cz1yb2WfT56I6sNivYU"
+      },
+      "artists": [
+        {
+          "name": "Brings",
+          "url": "https://open.spotify.com/artist/5uRfU4LuGDkxzZ86uCXQY8"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "K\u00f6lsche Jung - Party Edit",
+      "url": "https://open.spotify.com/track/5WsBHZRPeXLmZTaIOZbB1e"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "BUSINESS STRAIGHT",
         "url": "https://open.spotify.com/album/6zOaTkMG61UOgHnmbDat53"
@@ -957,7 +745,63 @@
       "url": "https://open.spotify.com/track/5Cb7uEN2BM9t0Y5FjEq9ga"
     },
     {
-      "added_at": "2024-02-12 10:21:28",
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "9 bis 9",
+        "url": "https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb"
+      },
+      "artists": [
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        }
+      ],
+      "duration_ms": 131587,
+      "name": "9 bis 9",
+      "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 108573,
+      "name": "DTMS",
+      "url": "https://open.spotify.com/track/0B6Ibm1BDUqh6KxV1t5GtW"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Viva Express 5.0",
+        "url": "https://open.spotify.com/album/22XeMrOFGzeCmL28kQrVkM"
+      },
+      "artists": [
+        {
+          "name": "Kasalla",
+          "url": "https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Pirate",
+      "url": "https://open.spotify.com/track/4rZCs12mDDseNSfpOIu5rc"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -972,9 +816,149 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 276986,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/4202KkXGtULRsbRocWSw09"
+      "duration_ms": 225000,
+      "name": "DO IT",
+      "url": "https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "PAID",
+      "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Us der Stadt met K",
+        "url": "https://open.spotify.com/album/4qgSvmgxUTvB5vws7OaC1c"
+      },
+      "artists": [
+        {
+          "name": "Kasalla",
+          "url": "https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S"
+        }
+      ],
+      "duration_ms": 234786,
+      "name": "Stadt met K",
+      "url": "https://open.spotify.com/track/48dosoGX5Bey5mk6BhCgKM"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "MONEY ON THE DASH - Diplo Remix",
+        "url": "https://open.spotify.com/album/6tQbwu7HWigKSOVuQOa0os"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/3qvtq4bMd0gcNcNecYhvvg"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "XV RR Edition",
+        "url": "https://open.spotify.com/album/0Nopg4zcWmvHXHLHMosDSp"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 136988,
+      "name": "Liebe Gr\u00fcsse",
+      "url": "https://open.spotify.com/track/4mVnqNiw2Kf5AHj9j0KD6u"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Leev Marie",
+        "url": "https://open.spotify.com/album/0GKP1k0w7mYKlhAfEiqc9D"
+      },
+      "artists": [
+        {
+          "name": "Paveier",
+          "url": "https://open.spotify.com/artist/0F3lC4Bfyf7mKrkCiXPAaO"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "Leev Marie",
+      "url": "https://open.spotify.com/track/6te4u5fA8mtW1DYoB9YV4t"
+    },
+    {
+      "added_at": "2024-02-13 23:37:00",
+      "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     }
   ],
   "unique_name": "Top 50 - Germany",

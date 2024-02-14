@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 74535,
+  "2024-02-14": 74643,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Tunnel Vision",
@@ -3426,6 +3426,28 @@
     },
     {
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Undercatt",
+          "url": "https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373453,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ"
+    },
+    {
+      "album": {
         "name": "Human Robot",
         "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
       },
@@ -6301,7 +6323,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 203155,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"

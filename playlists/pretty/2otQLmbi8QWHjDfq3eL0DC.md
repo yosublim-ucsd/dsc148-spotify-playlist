@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,355,577 likes - 100 songs - 4 hr 42 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,355,490 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 97 | [Don't Play by the Rules](https://open.spotify.com/track/58PyYwBXk5933MqJdmjQDn) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Don't Play by the Rules](https://open.spotify.com/album/4U69qf0FGOA4nD95iiP4cz) | 2:43 |
 | 98 | [Praise Me \(feat\. Stefi Novo\)](https://open.spotify.com/track/4A4OFV3OWOi46aQ3Hw0cs0) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Stefi Novo](https://open.spotify.com/artist/3key79uXViuXxdyOgRfoTo) | [Praise Me \(feat\. Stefi Novo\)](https://open.spotify.com/album/4vVgunQxEOEwlogDQTv3f7) | 2:41 |
 | 99 | [Feel Your Lovin'](https://open.spotify.com/track/0lwYzmHvA5RVKWYsNnKQ48) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Feel Your Lovin'](https://open.spotify.com/album/6itlnneZqTTW0LWjl9AUlf) | 2:50 |
-| 100 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/5N8fHHJVfI4a00nEoj9UyH) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
+| 100 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
 
 Snapshot ID: `MzUyNywxODkwZWFkMmY1NDQzNWQyNTRmMWUxMTQ5NDIzZjhmMmMyYjU2OGE3`

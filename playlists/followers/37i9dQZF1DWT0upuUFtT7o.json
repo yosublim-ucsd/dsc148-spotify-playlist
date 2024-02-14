@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 206230,
+  "2024-02-14": 206347,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Hana Eid",
   "name": "Fresh Finds Indie",
@@ -36045,10 +36045,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 170213,
       "name": "Train Full of Gasoline",
       "url": "https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD"
+    },
+    {
+      "album": {
+        "name": "Harm's Way",
+        "url": "https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "Train Full of Gasoline",
+      "url": "https://open.spotify.com/track/59bZ9ljtDTsYJZZqgGHQNW"
     },
     {
       "album": {

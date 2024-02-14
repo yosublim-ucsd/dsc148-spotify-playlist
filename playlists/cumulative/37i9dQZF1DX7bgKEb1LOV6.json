@@ -2251,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "TEN - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "Nightwalker",
+      "url": "https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR"
+    },
+    {
+      "album": {
         "name": "NCT #127 Regulate - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S"
       },

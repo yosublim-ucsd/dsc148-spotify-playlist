@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 972857,
+  "2024-02-14": 972884,
   "date_first_scraped": "2023-03-20",
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Saiko, Lola Indigo",
   "name": "Pop con \u00d1",
@@ -297,7 +297,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 158917,
       "name": "ALICANTINA",
       "url": "https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn"
@@ -323,6 +323,24 @@
       "duration_ms": 166388,
       "name": "alto ah\u00ed",
       "url": "https://open.spotify.com/track/1kAwAe6ubWffQwjucRnqy0"
+    },
+    {
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "album": {
@@ -759,7 +777,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 146219,
       "name": "Brillos Platino",
       "url": "https://open.spotify.com/track/0sg2A4gp3zMgjRqloSg4cM"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 212984,
       "name": "Estrellas y Fantasmas",
       "url": "https://open.spotify.com/track/1kSOnjrlR3JAuP2buX6d1I"
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
@@ -3673,7 +3691,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 177272,
       "name": "LOLITA",
       "url": "https://open.spotify.com/track/5i1FOXsvB6ITPZZm4dyLgq"
@@ -3803,7 +3821,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 163401,
       "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE"
@@ -4047,7 +4065,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 164351,
       "name": "Me Enamoro",
       "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
@@ -4751,7 +4769,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 174580,
       "name": "Ni 1 Complejo",
       "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
@@ -5057,7 +5075,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 181840,
       "name": "Olvid\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
@@ -5075,7 +5093,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 198666,
       "name": "Otra vez",
       "url": "https://open.spotify.com/track/2CxOABw2Ji81eLASxMbu0Y"
@@ -5451,6 +5469,28 @@
       "duration_ms": 237525,
       "name": "PLAYA DEL INGL\u00c9S",
       "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+    },
+    {
+      "album": {
+        "name": "PLIS",
+        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
     },
     {
       "album": {
@@ -5944,6 +5984,28 @@
     },
     {
       "album": {
+        "name": "Rotos",
+        "url": "https://open.spotify.com/album/1OGl64dIotP5N5tIvamqvO"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        },
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231361,
+      "name": "Rotos",
+      "url": "https://open.spotify.com/track/5XT6pcum5po3KqmQ9Rwg7Y"
+    },
+    {
+      "album": {
         "name": "Salitre",
         "url": "https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8"
       },
@@ -6145,6 +6207,28 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "album": {
+        "name": "Si no fuera por ti",
+        "url": "https://open.spotify.com/album/5rYq6aRlL38zL8ZGHkNHZT"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171593,
+      "name": "Si no fuera por ti",
+      "url": "https://open.spotify.com/track/4tgJisrpPVo6VUpz9gLrDK"
     },
     {
       "album": {
@@ -7425,6 +7509,24 @@
       "duration_ms": 138937,
       "name": "Vidas Pasadas",
       "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
+    },
+    {
+      "album": {
+        "name": "VITALICIO",
+        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "VITALICIO",
+      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
     },
     {
       "album": {

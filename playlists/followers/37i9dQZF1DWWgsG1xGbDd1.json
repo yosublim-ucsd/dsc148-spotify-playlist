@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 130620,
+  "2024-02-14": 130707,
   "date_first_scraped": "2021-12-29",
   "description": "You feel the sun on your face. ",
   "name": "Vintage Vibes: Sunny Reggae",
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 213893,
       "name": "Positive Vibration",
       "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
@@ -1875,6 +1875,24 @@
       "duration_ms": 181693,
       "name": "Truth And Rights",
       "url": "https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 64692,
+  "2024-02-14": 64709,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Ashwin Vinayagamoorthy",
   "name": "Tamil Indie",
@@ -10793,10 +10793,36 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 224456,
       "name": "Yaadhum kanaa",
       "url": "https://open.spotify.com/track/0zFTloLX0ssZGi0fxBsfNE"
+    },
+    {
+      "album": {
+        "name": "Yaadhum kanaa",
+        "url": "https://open.spotify.com/album/5D4U758gf4NoiDYagfZ80Y"
+      },
+      "artists": [
+        {
+          "name": "Balaji Gopinath",
+          "url": "https://open.spotify.com/artist/250rmMtHHaMkHNFThTBMmd"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Kalyani Nair",
+          "url": "https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224456,
+      "name": "Yaadhum kanaa",
+      "url": "https://open.spotify.com/track/4jtSol8vIhmCy5pynFQwMu"
     },
     {
       "album": {

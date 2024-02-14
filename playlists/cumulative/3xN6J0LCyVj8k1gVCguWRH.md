@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s favorite songs of 2024 plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.
 
-2,964 songs - 7 day 1 hr 8 min
+2,966 songs - 7 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Drift Away](https://open.spotify.com/track/11YWR8tzDTR2P4KZ3lAySj) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Throwback Tunes: 70s](https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s) | 3:54 | 2019-09-29\* | 2021-11-19 |
 | [Driftin away](https://open.spotify.com/track/4aclkqp2dw6jFrgK8D0TJg) | [Donty](https://open.spotify.com/artist/0ZxTq85uqZbmwj6NxcTapu) | [Driftin away](https://open.spotify.com/album/3p7NOOgCc0zxKt6oLfLkkB) | 3:01 | 2023-03-15 | 2023-04-03 |
 | [Drink a Little Drink](https://open.spotify.com/track/0jrheUfWaaTWT8nUCPHki7) | [Mateo y Las Manos Pesadas](https://open.spotify.com/artist/0CfBBPSfkZu946h1aeKReF) | [48](https://open.spotify.com/album/6lPjaOASs4FLNPiIHEtDVU) | 4:07 | 2023-08-05 | 2023-08-28 |
+| [Drink My Problems Away](https://open.spotify.com/track/5rFJzOEel7sMIe49f7KsXT) | [Yung LC](https://open.spotify.com/artist/39dFqypP9TcTjylb6s5N7U) | [Before I Changed](https://open.spotify.com/album/0P8vCdYBk5QNW2jkYBdRvW) | 1:52 | 2024-02-13 |  |
 | [Drink The River](https://open.spotify.com/track/79DYCnC5S7lhCwo1rKIwoM) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 3:35 | 2023-12-29 |  |
 | [Drown](https://open.spotify.com/track/2ez57JQdgRiEe4RTyACyku) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Drown](https://open.spotify.com/album/45ZBG4cB5HwxxzMN8Tv66n) | 2:15 | 2022-05-20 | 2022-06-05 |
 | [Drown](https://open.spotify.com/track/1oxPEOFAqkzKyv6XwNtIFz) | [Will Wallace](https://open.spotify.com/artist/1w4xMYzzViAQQ2bG0PnLo7) | [Drown](https://open.spotify.com/album/68FGziuVSjpId4NK22crrL) | 3:00 | 2022-11-25 | 2022-12-17 |
@@ -1472,6 +1473,7 @@
 | [Let Me In](https://open.spotify.com/track/67G9IGuvKc5Jgd3kY6RRQV) | [KTJ & CARLY](https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M) | [Identity](https://open.spotify.com/album/4v2mOUcpnCXjFhEs83iSEz) | 2:56 | 2021-01-08 | 2021-01-23 |
 | [Let Me In](https://open.spotify.com/track/570YCt3EGWHzTA3xJOjm87) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Let Me In](https://open.spotify.com/album/5P7BfrJBSd4FbkF2HQBInA) | 4:23 | 2021-08-28 | 2021-09-13 |
 | [Let Me Love You](https://open.spotify.com/track/5vpp846OXBKGz4XDulo9dR) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A) | [How Love Begins](https://open.spotify.com/album/72nqtsaJv9daffcqNxaznF) | 3:40 | 2023-08-11 | 2023-09-01 |
+| [Let Me Love You](https://open.spotify.com/track/0xw0kgg29aQEEcP71zbDu8) | [TXMMY LI](https://open.spotify.com/artist/64eWTFHULnDzKiDVldPrWd) | [Let Me Love You](https://open.spotify.com/album/2IHS88OgQWRtOUpHx4LFE0) | 3:29 | 2024-02-13 |  |
 | [Let the Honey Out](https://open.spotify.com/track/6MqJrOoukjku4ezwHsJLbO) | [Paytra](https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg) | [Let the Honey Out](https://open.spotify.com/album/2pfUeuC12wJSiCMB2ug4V1) | 3:13 | 2023-01-20 | 2023-02-11 |
 | [Let's Bring It Back Now](https://open.spotify.com/track/1rXWcHpy4xdO6r3F4MVJk7) | [Wallace](https://open.spotify.com/artist/5jebytWqkaqDB6fY1ITSJ8), [Racha](https://open.spotify.com/artist/1WHjx9GKGwHx3gVxp1E0xT) | [Let's Bring It Back Now](https://open.spotify.com/album/1Fcl5LrpgAMeOsmtbG3lP1) | 2:24 | 2023-08-25 | 2023-09-26 |
 | [Let's Dance](https://open.spotify.com/track/1mnTVNTscUyXdWPSFbtKqa) | [Olivia Wik](https://open.spotify.com/artist/0c0MqoCHQ6dIxqJUZwhEwn) | [Let's Dance](https://open.spotify.com/album/4DWjaWAQX77Z042zeh4jLO) | 3:05 | 2022-04-08 | 2022-04-24 |

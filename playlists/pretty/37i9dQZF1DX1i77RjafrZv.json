@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316398,
+  "num_followers": 316436,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNjMWIzMzRlZTY0ZjNiNGViYzhkYjlmYzBmMzc5ZDhiYTM5ZjNj",
+  "snapshot_id": "MCxjZGE3MTU2ZTFkOWQ0NmZmMDllY2JjZjk0YTU4ZWI1YzYzNzk3MmIy",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Zen",
-        "url": "https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa"
+        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
+        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
       },
       "artists": [
         {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+          "name": "Damien Sargue",
+          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        {
+          "name": "Joy Esther",
+          "url": "https://open.spotify.com/artist/5yIbkMHQyrQ5eNWaFtlXpX"
         }
       ],
-      "duration_ms": 210360,
-      "name": "Un point c'est toi",
-      "url": "https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v"
+      "duration_ms": 171866,
+      "name": "Aimer - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
+      "url": "https://open.spotify.com/track/12x3erRdPdMLrCY4vPMLq1"
     }
   ],
   "unique_name": "French Kiss",

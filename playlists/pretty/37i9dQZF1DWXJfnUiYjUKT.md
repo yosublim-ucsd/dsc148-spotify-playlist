@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,320 likes - 98 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,334 likes - 98 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 79 | [YEH](https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [YEH](https://open.spotify.com/album/2dQCBUYuCOoEbrrU4HzDbd) | 2:14 |
 | 80 | [Show You Sum](https://open.spotify.com/track/2k5OxKbU1wAv12ynwbKYFS) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Show You Sum](https://open.spotify.com/album/47BA0iMbK2yGOU4a7ACVGJ) | 3:42 |
 | 81 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
-| 82 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/5N8fHHJVfI4a00nEoj9UyH) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
+| 82 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
 | 83 | [Me Against My Head](https://open.spotify.com/track/7CDQfxlivFpECBbv240tAw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me Against My Head](https://open.spotify.com/album/0tmn7v8vBOhVIksEpxJ2uh) | 3:20 |
 | 84 | [How To Cry](https://open.spotify.com/track/4Xsexlmx4TkLOMM77UBLWX) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [How To Cry](https://open.spotify.com/album/0dZwtjjRwy863oEFkuCaSx) | 2:37 |
 | 85 | [Purple Land](https://open.spotify.com/track/5qrHETjgWMxAKFgtwLh7c7) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Purple Land](https://open.spotify.com/album/6nCsKsiwHD56q1t9SLcBUP) | 4:53 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Drank on Accutane](https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Drank on Accutane](https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q) | 3:10 |
 | 98 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
 
-Snapshot ID: `MCw4MzEyNTIzMGE5ODI3MDFkNmU5Y2ExOGYzNzQ2OTA5Zjg4NDA0MjQ2`
+Snapshot ID: `MCwwMzg3OWEyZTQzZDYzMTQ4MjhiOTEyYTIzMGZjMTE3YWJiOTdmM2Y0`

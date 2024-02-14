@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 345970,
+  "2024-02-14": 346020,
   "date_first_scraped": "2022-04-14",
   "description": "Cherish the day with these low-key favorites.",
   "name": "Easy Acoustic",
@@ -1317,6 +1317,24 @@
       "duration_ms": 271999,
       "name": "heartbeat",
       "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
+    },
+    {
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC"
     },
     {
       "album": {
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 221847,
       "name": "Silence - Acoustic",
       "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"

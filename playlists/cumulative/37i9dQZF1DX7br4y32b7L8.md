@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-338 songs - 17 hr 1 min
+339 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Smooth Operator \- Deep House Version](https://open.spotify.com/track/1JkERmjS5D99OmbjzInL1Z) | [Musique Boutique](https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC) | [Deep Factory Vol\. 3](https://open.spotify.com/album/2Dhp4iGHZ1GqiT63CYaZ7j) | 3:41 | 2023-06-12 | 2023-06-17 |
 | [Smooth Operator \- Deep House Version](https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8) | [Musique Boutique](https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC) | [Smooth Operator](https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp) | 3:41 | 2023-05-31 | 2023-12-15 |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-05-24 | 2023-06-01 |
+| [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-13 |  |
 | [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2024-01-10 |  |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-05-09 | 2023-07-11 |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-06-26 | 2024-01-26 |

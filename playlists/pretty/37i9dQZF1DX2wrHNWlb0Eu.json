@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 103854,
+  "num_followers": 103919,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTY3ZGQ1Yzc0NmIzYzc1MmM1ZTk1ZDM5N2U4ZjY4YjlmMGNlODY3",
+  "snapshot_id": "MCxkY2QyOWRkZGNhOTJkZWRhYmU2MDYwNzc1NGE4MmIzMWEzMjJmZTE3",
   "tracks": [
     {
       "added_at": "2024-02-12 17:00:05",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
-        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
-      },
-      "artists": [
-        {
-          "name": "Palmy",
-          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
-        }
-      ],
-      "duration_ms": 207705,
-      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
         "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 215238,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
       "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
+        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
+      },
+      "artists": [
+        {
+          "name": "Palmy",
+          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "duration_ms": 207705,
+      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
         "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/5hjS0mLBF0f59Cq71mgjDe"
       },
@@ -806,31 +822,11 @@
         {
           "name": "Billkin",
           "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        },
-        {
-          "name": "PP Krit",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
         }
       ],
-      "duration_ms": 199333,
-      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
-      "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
+      "duration_ms": 237772,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -939,22 +935,6 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
         "url": "https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB"
       },
@@ -967,22 +947,6 @@
       "duration_ms": 192615,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
       "url": "https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
-        "name": "Are You Serious?",
-        "url": "https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 219740,
-      "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
-      "url": "https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -1011,18 +975,38 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+        "name": "Are You Serious?",
+        "url": "https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR"
       },
       "artists": [
         {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
         }
       ],
-      "duration_ms": 238000,
-      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
+      "duration_ms": 219740,
+      "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        },
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
+      "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -1043,6 +1027,22 @@
       "duration_ms": 198787,
       "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "nerd eye view",
-        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
+        "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
+        "url": "https://open.spotify.com/album/6kUC35lsX2YfYKvqA4Kmkw"
       },
       "artists": [
         {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
         }
       ],
-      "duration_ms": 207480,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
-      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
+      "duration_ms": 266000,
+      "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
+      "url": "https://open.spotify.com/track/4tBWxgyjEPmZOKDSwLTGXt"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
-        "url": "https://open.spotify.com/album/6kUC35lsX2YfYKvqA4Kmkw"
+        "name": "nerd eye view",
+        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
       },
       "artists": [
         {
-          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
-          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
         }
       ],
-      "duration_ms": 266000,
-      "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
-      "url": "https://open.spotify.com/track/4tBWxgyjEPmZOKDSwLTGXt"
+      "duration_ms": 207480,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
     },
     {
       "added_at": "2024-02-12 17:00:05",

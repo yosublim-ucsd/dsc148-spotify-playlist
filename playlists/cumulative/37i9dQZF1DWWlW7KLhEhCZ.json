@@ -7470,7 +7470,7 @@
     {
       "album": {
         "name": "Doce Amargo",
-        "url": "https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk"
+        "url": "https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG"
       },
       "artists": [
         {
@@ -7489,6 +7489,32 @@
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Doce Amargo",
+      "url": "https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM"
+    },
+    {
+      "album": {
+        "name": "Doce Amargo",
+        "url": "https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-14",
       "duration_ms": 137739,
       "name": "Doce Amargo",
       "url": "https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r"

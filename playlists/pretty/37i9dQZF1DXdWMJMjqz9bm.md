@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,647 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,649 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 16 | [Throwing Parties](https://open.spotify.com/track/6EDJUMi6j6GwcOgkK3bICo) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Throwing Parties](https://open.spotify.com/album/5i7EkzpzKG2lfQn0gozp8d) | 3:02 |
 | 17 | [Ashin' Blunts \(feat\. Arden Jones\)](https://open.spotify.com/track/1W3bGB7MjO9ka88Vffmfq9) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Ashin’ Blunts \(feat\. Arden Jones\)](https://open.spotify.com/album/5jhlUotsAqL2I31M7f1Ui7) | 2:18 |
 | 18 | [Fear Of Flying \(feat\. Aminé & beabadoobee\)](https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fear Of Flying \(feat\. Aminé & beabadoobee\)](https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e) | 2:11 |
-| 19 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 |
+| 19 | [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 |
 | 20 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 | 21 | [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 |
 | 22 | [she's wild'](https://open.spotify.com/track/6qdwAVEI7Uo5xLj7XH3yd5) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [she's wild'](https://open.spotify.com/album/4C9KqRDbBuRxXApiIXBtNM) | 2:34 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 62 | [Bartender](https://open.spotify.com/track/3nAz0OCzeiGbUudc8kXKar) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The People's Champ](https://open.spotify.com/album/1FguQss7XFrc5w7KWL2sc9) | 2:56 |
 | 63 | [freak](https://open.spotify.com/track/7o6FydJ4BiJCVfEQvjFvKG) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:25 |
 | 64 | [MIAMI](https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP), [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [MIAMI](https://open.spotify.com/album/4mt0kFeuQ5kchPiAwsPArF) | 3:12 |
-| 65 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 |
+| 65 | [just friends](https://open.spotify.com/track/4W3SnqDKLvyRAFKDfCjSWM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:59 |
 | 66 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 |
 | 67 | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ) | 3:20 |
 | 68 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 |
 | 100 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 |
 
-Snapshot ID: `MCw1NGM4ODQ4YTFiOGJlZjEyM2I2M2ZjOTk2MDRiOTFmMjExNjA3MGI0`
+Snapshot ID: `MCxmMThjMDE5ZmMxMDFhNmM0YzA2ZDBmOGEzODNmZGEwNDcwMGYxNTY3`

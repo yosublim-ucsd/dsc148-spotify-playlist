@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-302 songs - 19 hr 2 min
+303 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [My Heart](https://open.spotify.com/track/1Nz03FaIkw1fJQ5VuIy3iV) | [Francesca Blanchard](https://open.spotify.com/artist/5nr9aC1q4Iu3i4hYOiRiNf) | [My Heart](https://open.spotify.com/album/50VgiVRZj0tLxPTPU6V7al) | 3:16 | 2022-02-25 |  |
 | [My Heart](https://open.spotify.com/track/3OP6suu7DnnBbAugofZ3QG) | [Francesca Blanchard](https://open.spotify.com/artist/5nr9aC1q4Iu3i4hYOiRiNf) | [My Heart](https://open.spotify.com/album/6JrjsP5gTul3KwGvhXBron) | 3:16 | 2021-07-30 | 2022-07-29 |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2021-07-30 |  |
-| [Mystik](https://open.spotify.com/track/5BLRxxzmsarOfxmEjyLCL3) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/5k4PBOleT4GGZy8DCnyYYw) | 4:11 | 2022-02-25 |  |
+| [Mystik](https://open.spotify.com/track/19WeBawnubKv6SrpLFYFOD) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/7yLpAKcRUNLER99I5nAWr3) | 4:11 | 2023-06-09 |  |
+| [Mystik](https://open.spotify.com/track/5BLRxxzmsarOfxmEjyLCL3) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/5k4PBOleT4GGZy8DCnyYYw) | 4:11 | 2022-02-25 | 2024-02-14 |
 | [Mystik](https://open.spotify.com/track/6lbO4gMtw21GgPL3eWScDy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/0d7LDKJc2IGjCmFv850VCN) | 4:11 | 2021-07-30 | 2022-07-29 |
 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 | 2021-07-30 | 2022-07-29 |
 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 | 2022-02-25 |  |

@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-107 songs - 5 hr 50 min
+108 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Hard to Handle \- 2001 Remaster](https://open.spotify.com/track/34eaklDr2vqwS8L3LZvEB6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [History of the Grateful Dead, Vol\. 1 \(Bear's Choice\)](https://open.spotify.com/album/5AShxlldX1DRSejBuyZmSG) | 6:15 | 2021-10-01 |  |
 | [Hard To Handle \- Live](https://open.spotify.com/track/19t8vEZJ1MJVgseKoxReXI) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Live In Las Vegas](https://open.spotify.com/album/36DandM0gqb1R6cNagnSLa) | 2:28 | 2021-10-01 |  |
 | [Hard To Handle \- Live In New Orleans / 1991](https://open.spotify.com/track/5xoWWp0HdXcSiybbU8pfSE) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Live! \(Live In New Orleans / 1991\)](https://open.spotify.com/album/6qQ9kfQ2IVuDwTJAEGtXc7) | 3:38 | 2021-10-01 |  |
-| [Holdin On](https://open.spotify.com/track/3ohupB1Wm1Cvcyre7rtS9p) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 2:34 | 2021-10-01 |  |
+| [Holdin On](https://open.spotify.com/track/3ohupB1Wm1Cvcyre7rtS9p) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 2:34 | 2021-10-01 | 2024-02-14 |
+| [Holdin On](https://open.spotify.com/track/6ERjyW3kpEZN9yHpLIRfxC) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 2:34 | 2021-10-01 |  |
 | [I Can't Turn You Loose](https://open.spotify.com/track/1ILvOL3iautGoH27ZC7PAy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:33 | 2021-10-01 |  |
 | [I Can't Turn You Loose](https://open.spotify.com/track/6fmpeMEiK7M38rL9MSOFF5) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [A New Time \- A New Day](https://open.spotify.com/album/43d24W4xf0thw054t8RQzY) | 4:55 | 2021-10-01 |  |
 | [I Can't Turn You Loose](https://open.spotify.com/track/0kXWXKajsxku8HCJ4OkBga) | [Wayne Cochran](https://open.spotify.com/artist/5Im68TDDcrgUf5i05UnXrl) | [C.C\. & Company \- Soundtrack](https://open.spotify.com/album/6eyuUwKY8RNgEjPQwziqiZ) | 3:59 | 2021-10-01 |  |

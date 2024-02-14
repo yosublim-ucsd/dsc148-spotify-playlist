@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Les Champs d'Afrique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,734 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,792 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 39 | [En Haut](https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X) | [En Haut](https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F) | 2:52 |
 | 40 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 
-Snapshot ID: `MCw3NzRhZmEyMjk0ZmE3NTczOTQ4NzAxYTZiYjUwNTA0ZmE1YjIwYjIx`
+Snapshot ID: `MCwyNTJjZjUwYWZmNjNiOTgwODc5NjQ2ZTc4YmJiODQyZmM5NDA4ZDVk`

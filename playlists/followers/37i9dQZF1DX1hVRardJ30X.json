@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 583789,
+  "2024-02-14": 583791,
   "date_first_scraped": "2021-12-28",
   "description": "All-new releases by Latin artists! Cover: Danny Ocean",
   "name": "New Music Friday Latin",
@@ -29320,7 +29320,7 @@
     },
     {
       "album": {
-        "name": "Dejarte Ir (feat. Piso 21)",
+        "name": "Dejarte Ir",
         "url": "https://open.spotify.com/album/2X1owjKL4rFAqmzrtvIFjf"
       },
       "artists": [
@@ -29337,7 +29337,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176081,
-      "name": "Dejarte Ir (feat. Piso 21)",
+      "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ"
     },
     {
@@ -40072,24 +40072,6 @@
     },
     {
       "album": {
-        "name": "Escapat\u00e9",
-        "url": "https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc"
-      },
-      "artists": [
-        {
-          "name": "Nevi",
-          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
-        }
-      ],
-      "date_added": "2024-02-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165881,
-      "name": "Escapat\u00e9",
-      "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
-    },
-    {
-      "album": {
         "name": "eScoRpi\u00d3n :)",
         "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
       },
@@ -40167,6 +40149,24 @@
       "duration_ms": 166662,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1jtlQznvROmiq3b3gulGzE"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e1pate",
+        "url": "https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc"
+      },
+      "artists": [
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165881,
+      "name": "Esc\u00e1pate",
+      "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
     },
     {
       "album": {

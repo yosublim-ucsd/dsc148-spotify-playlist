@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-920 songs - 1 day 17 hr 43 min
+921 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,8 +737,9 @@
 | [Spine \(with Lil Peep\)](https://open.spotify.com/track/00yfNiEDFfRYkMeV2PbyxM) | [Gab3](https://open.spotify.com/artist/0Yt7UjpW2AJojjZrgGysUl), [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Ready To Rave?](https://open.spotify.com/album/4ivoSSaDbpTga7YvcLWtAh) | 2:03 | 2022-01-13 | 2022-07-28 |
 | [Squash](https://open.spotify.com/track/4XCcz4Rdswrhg09Wk9D6QX) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Squash](https://open.spotify.com/album/3SZVjeca9ZVB7dXTzQp6HR) | 2:03 | 2021-03-26 | 2023-10-14 |
 | [SQUINTSOYOUCANSEE](https://open.spotify.com/track/5aPiJMXxWf17SGdpH0U73P) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [SQUINTSOYOUCANSEE](https://open.spotify.com/album/7HLIUYvUumcqB7THQL4zCv) | 2:45 | 2023-03-03 | 2023-03-10 |
+| [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 | 2024-02-02 |  |
 | [Star Shopping](https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/1dEpGPZONvmwYlE2jDOWOM) | 2:22 | 2020-12-13\* | 2022-10-13 |
-| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2022-10-07 |  |
+| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2022-10-07 | 2024-02-14 |
 | [Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv) | [SALEM](https://open.spotify.com/artist/09CJcG6ndtL82D8x9VxaeT) | [Fires In Heaven](https://open.spotify.com/album/1G9NXS6bwV9JHeaCNETAFI) | 2:48 | 2022-01-28 | 2022-02-12 |
 | [Starfire \(Teen Titans\)](https://open.spotify.com/track/3sVxmnZEQO3L589itv1uik) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [Starfire \(Teen Titans\)](https://open.spotify.com/album/15xP9FxiV8it3gJ9ro08Rm) | 2:04 | 2021-02-27 | 2023-10-14 |
 | [STARING AT THE SKY](https://open.spotify.com/track/4KpKyRFwN0gcwj58Uqjv7q) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:25 | 2021-10-22 | 2021-12-21 |

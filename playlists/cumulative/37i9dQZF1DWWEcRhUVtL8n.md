@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Del Water Gap & Holly Humberstone
 
-1,761 songs - 3 day 20 hr 49 min
+1,763 songs - 3 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 | 2021-11-12 | 2022-04-07 |
 | [Blood Sugar](https://open.spotify.com/track/60iDIlOnohKwxEKW8yGdXg) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Blood Sugar](https://open.spotify.com/album/2UdbPu3HA7s9HljWGZAkA9) | 3:07 | 2020-10-13\* | 2022-04-15 |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-02 |  |
+| [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-13 |  |
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-08-06 | 2022-04-13 |
 | [BLOOM](https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [BLOOM](https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN) | 3:26 | 2023-06-16 | 2023-08-18 |
 | [Bloom \- Remix](https://open.spotify.com/track/1WWXRNfFhZWbLD3jGcC8T0) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp), [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Birthday Boy \(Party Favors\)](https://open.spotify.com/album/2ZjzdxS9GOQn9IEdOmWen1) | 3:48 | 2020-11-20 | 2021-02-28 |
@@ -475,7 +476,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
-| [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 |  |
+| [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-02-14 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
 | [easy](https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [easy](https://open.spotify.com/album/4d579OmXKgovYV9JhdaTyz) | 2:10 | 2022-11-04 | 2022-11-12 |
@@ -987,6 +988,7 @@
 | [make believe](https://open.spotify.com/track/5cBco0HKWcHygJPIjuJAKz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [make believe](https://open.spotify.com/album/5li4Bm415QWjC3EB0Ozrke) | 2:34 | 2021-08-07 | 2021-10-16 |
 | [Make of It](https://open.spotify.com/track/1JhAUdnlUyUqZocC2mvpwH) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Make of It](https://open.spotify.com/album/3XUQkz7PDrkyWbxgUSFgYO) | 2:35 | 2021-09-24 | 2022-04-13 |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-10-02 | 2022-06-15 |
+| [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-13 |  |
 | [Make You Mine](https://open.spotify.com/track/6E6DXpiRT7ZgQzdYlBjWd4) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Make You Mine](https://open.spotify.com/album/5gGh7FZcnDw316kTGP0iYO) | 3:44 | 2020-10-20 | 2020-10-21 |
 | [Makes Me Happy](https://open.spotify.com/track/6doD2ZsNXzxHNXag1BAAuY) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Makes Me Happy](https://open.spotify.com/album/0GeVuYV8Dy2pTHpuDR3IH0) | 2:52 | 2022-01-28 | 2022-07-26 |
 | [Malibu 1992](https://open.spotify.com/track/0nMqu5vN44GNv8UOQxmBJK) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 5:41 | 2022-01-18 | 2022-02-26 |
@@ -1543,7 +1545,7 @@
 | [Talking to Myself](https://open.spotify.com/track/7t5uiTZNaSrQpTvs7fonmK) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Talking to Myself](https://open.spotify.com/album/6wkNeJH60FfISXiYHA6cpo) | 3:51 | 2020-10-20 | 2021-06-03 |
 | [Tangerine](https://open.spotify.com/track/4qzAGRJuc6vOZ7Jsf2wA5W) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Tangerine](https://open.spotify.com/album/0EU7Ds5lLkvyuxgC7jJFFJ) | 2:55 | 2020-10-20 | 2021-05-28 |
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2021-05-04 | 2021-05-26 |
-| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 |  |
+| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 | 2024-02-14 |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-24 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-18 | 2022-04-21 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-11-26 |

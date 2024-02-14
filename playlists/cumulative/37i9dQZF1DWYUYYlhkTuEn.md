@@ -4,7 +4,7 @@
 
 > Let's flow to the beats of downtempo deep house.
 
-60 songs - 6 hr 5 min
+61 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 | 2023-11-10 |  |
 | [skyfall](https://open.spotify.com/track/3B62DUR5leOfv6vhoQPqpD) | [bonifaz](https://open.spotify.com/artist/0ytEeOfpWZBbGsCQvq1drN) | [skyfall](https://open.spotify.com/album/0zhAm4bsZpGYGGPARCMKAL) | 5:09 | 2023-11-10 |  |
 | [Slow Movement](https://open.spotify.com/track/5eWL1TgZnvv1sQm5ZLnwww) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Slow Movement](https://open.spotify.com/album/2cs7ncxwKkPejM7pfE6wTQ) | 5:19 | 2023-11-10 |  |
-| [Smek \- Rey&Kjavik Remix](https://open.spotify.com/track/1PyfWp1rg8omX2DOtg65pR) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Smek \(Rey&Kjavik Remix\)](https://open.spotify.com/album/55BVCDc7BpOqS2MbzgO3x6) | 6:06 | 2023-11-10 |  |
+| [Smek \- Rey&Kjavik Remix](https://open.spotify.com/track/1PyfWp1rg8omX2DOtg65pR) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Smek \(Rey&Kjavik Remix\)](https://open.spotify.com/album/55BVCDc7BpOqS2MbzgO3x6) | 6:06 | 2023-11-10 | 2024-02-14 |
+| [Smek \- Rey&Kjavik Remix](https://open.spotify.com/track/3EJHAXAPhqKoUppERPCJtT) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Smek \(Rey&Kjavik Remix\)](https://open.spotify.com/album/7Kk2AhZYfBN1OsCthy3XjZ) | 6:06 | 2024-02-08 |  |
 | [sunflower](https://open.spotify.com/track/4pmoV05KcsSw2JnGgTxVea) | [plant milk](https://open.spotify.com/artist/7sdP82BOHQI8W6dT3FSAjc) | [sunflower](https://open.spotify.com/album/73PNYwqdDCfdVJCUl1jaKR) | 2:18 | 2024-02-08 |  |
 | [Tankwa Town](https://open.spotify.com/track/55kDJdv7pymmG4URJlVTYR) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [The Arc of Tension](https://open.spotify.com/album/6m8yu8ytRnnxy395MbA80U) | 7:33 | 2023-11-10 |  |
 | [Uroboros](https://open.spotify.com/track/6niycFFZQRazmAXnsqS68T) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Uroboros](https://open.spotify.com/album/2auGNCYlRgdJDaA6R3eJta) | 4:45 | 2023-11-10 |  |

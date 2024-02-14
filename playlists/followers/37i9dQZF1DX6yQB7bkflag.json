@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 116370,
+  "2024-02-14": 116382,
   "date_first_scraped": "2024-01-20",
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Madison Beer",
   "name": "Pop Rising Indonesia",
@@ -1403,10 +1403,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 157241,
       "name": "lavender",
       "url": "https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP"
+    },
+    {
+      "album": {
+        "name": "lavender (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "lavender (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7"
     },
     {
       "album": {

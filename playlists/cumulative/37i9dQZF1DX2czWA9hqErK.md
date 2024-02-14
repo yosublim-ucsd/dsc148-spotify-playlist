@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-597 songs - 1 day 9 hr 30 min
+599 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-29 | 2022-10-13 |
 | [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 | 2022-10-11 | 2023-05-28 |
 | [My Generation](https://open.spotify.com/track/6hNjbG7duJDrYxyKfvWArE) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [My Generation](https://open.spotify.com/album/2qBMe3EKMi3tZbykJJwrW7) | 4:19 | 2022-03-25 | 2022-07-19 |
-| [My Home](https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R) | 3:26 | 2023-10-24 |  |
+| [My Home](https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R) | 3:26 | 2023-10-24 | 2024-02-14 |
 | [My Oh My](https://open.spotify.com/track/2okt1sEb4uh6OkLJ4cgMWx) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [My Oh My](https://open.spotify.com/album/2Ch5romj95XcP2lXYRXfYS) | 2:39 | 2021-12-16 | 2022-03-09 |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-08-02 | 2023-05-17 |
 | [Nashville](https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 5:16 | 2022-03-29 | 2022-04-16 |
@@ -476,6 +476,7 @@
 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 | 2021-12-16 | 2022-03-26 |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 |  |
 | [Slipped](https://open.spotify.com/track/6a9OPk7BiR3lnKtNxNQhrr) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Slipped](https://open.spotify.com/album/40XHakx2A8ZnHqbJf4q3Xw) | 3:11 | 2022-01-17 | 2022-03-09 |
+| [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 | 2024-02-09 |  |
 | [Slow Motion](https://open.spotify.com/track/5Oo2adPyAEyyiUgVUinvUV) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Slow Motion](https://open.spotify.com/album/4gh52dSbYMWshTBwsB4lSj) | 3:05 | 2022-03-25 | 2022-06-19 |
 | [Slowly](https://open.spotify.com/track/4Q3sVNzOHPZRijeORiAxia) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Slowly](https://open.spotify.com/album/1MmWUjcJzazvFlXZmAAGm9) | 3:49 | 2021-12-16 | 2022-02-21 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-03 | 2024-01-27 |
@@ -484,7 +485,8 @@
 | [Sober](https://open.spotify.com/track/1wKPXYDPDSO4czPZlyZffn) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Sober](https://open.spotify.com/album/67HtuVVvU61JwYnW7oeXpe) | 3:00 | 2022-01-25 | 2022-07-28 |
 | [Sober](https://open.spotify.com/track/5r1OZrTjYsi6uu8qIBP6Jr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sober](https://open.spotify.com/album/5pwoiSaHQG9I7aPNsgZIcZ) | 3:14 | 2021-12-16 | 2022-01-17 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-03-29 | 2023-09-13 |
-| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-21 |  |
+| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-21 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 |  |
 | [somebody](https://open.spotify.com/track/44qxpRkE9t5xutQB6zCpTF) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [i wonder if you wonder](https://open.spotify.com/album/3Mz1DFcunKLU3ki7iVX26t) | 3:45 | 2021-12-16 | 2022-10-12 |
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-24 | 2023-11-22 |
 | [Someday](https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Someday](https://open.spotify.com/album/62ZCpVRnSLUpGikEBQgNKF) | 3:01 | 2022-03-25 | 2022-10-01 |

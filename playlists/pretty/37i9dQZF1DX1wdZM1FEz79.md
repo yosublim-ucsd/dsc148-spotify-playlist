@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Hebron\(변하은\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Old Yearning\(옛그리움\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,369 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,419 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 |
+| 1 | [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 |
 | 2 | [when the dawn comes](https://open.spotify.com/track/2tscQs2pvCjOUwJM9FNwD5) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [when the dawn comes](https://open.spotify.com/album/3NJP5JyWrfAYiTEseYvyrm) | 3:11 |
 | 3 | [Strange Stroll](https://open.spotify.com/track/31T7mn1xbeV4G9JxP44koG) | [Yuna Bae](https://open.spotify.com/artist/69WlUWV5wRqG9YfRHe4pso) | [Strange Stroll](https://open.spotify.com/album/6CF7msQNpDwc6ZZN285Xl4) | 4:16 |
 | 4 | [소중한 사람](https://open.spotify.com/track/6fLU2bijVBUZtG3bCY6Ffl) | [한세영](https://open.spotify.com/artist/3UpDjV6j4gsRntwhmDHly5) | [소중한 사람](https://open.spotify.com/album/33YIzft9BfwBVc09lduiIm) | 4:06 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
 | 52 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 
-Snapshot ID: `MCxjODFlYzY5ODUwYjk0OTRkMGZkOTRkNjM5NzUyNWFjOTAzMTU3ZWY3`
+Snapshot ID: `MCxlODA0MjY4MDcyMjA0ODAzZWRmN2RkZjJlNDcwZGNmZGI0YTg5ZTEx`

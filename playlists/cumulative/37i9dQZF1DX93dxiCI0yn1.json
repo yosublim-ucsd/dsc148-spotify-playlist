@@ -1089,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "HOT BOYZ",
+        "url": "https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133818,
+      "name": "HOT BOYZ",
+      "url": "https://open.spotify.com/track/6dOwdgtWFX9KEFM59qK5Xu"
+    },
+    {
+      "album": {
         "name": "HOUSE PARTY",
         "url": "https://open.spotify.com/album/0xg94ljK0x1DCvBOVbLuLH"
       },

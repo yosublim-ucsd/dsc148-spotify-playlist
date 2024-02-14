@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-223 songs - 11 hr 46 min
+224 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/track/5ZEp8HXjcsJVVfy88V9LfC) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Bella](https://open.spotify.com/artist/7JPv4d46znI7x7VOkdHNAa) | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/album/3WQxcltWctIEvmvdqK9gHG) | 2:33 | 2023-04-16 | 2023-07-21 |
 | [Heat](https://open.spotify.com/track/2jiqurufki36TQmtpoFSwu) | [Rebh Singh](https://open.spotify.com/artist/09LFFWvZNlVVlxLdpTonrC) | [Heat](https://open.spotify.com/album/6JQlLXlbrXbdd0YGKRufkr) | 1:57 | 2023-11-09 | 2023-12-07 |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-29 | 2023-06-02 |
+| [Here to Rule](https://open.spotify.com/track/59UjVsciK1MazaY2r8jDfK) | [Madhakaala Brar](https://open.spotify.com/artist/795ZMlNN8jjVfrv32qm6Iv), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [Here to Rule](https://open.spotify.com/album/22Nj90V18JkQiezrpBhWFa) | 3:57 | 2024-02-13 |  |
 | [HipHop](https://open.spotify.com/track/2P93lGrpCAYBsRDkwTAJUR) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [HipHop](https://open.spotify.com/album/6HVA3RkFCgLUNPzWU8vPjX) | 2:37 | 2023-04-28 | 2023-06-02 |
 | [Hola Amigo](https://open.spotify.com/track/19pHSvXUwErAXFktkvYMk9) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:46 | 2023-08-29 |  |
 | [Hona Hi Tha](https://open.spotify.com/track/3ezm3DukK26vagWIIPvmgS) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [dilliboy](https://open.spotify.com/artist/37KYCGXSG8pWVFC0fQbWoh) | [MEEN](https://open.spotify.com/album/0x8LEMRVAJWEdX6cGEcJeu) | 4:22 | 2023-05-12 |  |
@@ -186,7 +187,7 @@
 | [SAARI SAARI RAAT](https://open.spotify.com/track/3MeNlgFQHyVMhATxsJEN2g) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [SAARI SAARI RAAT](https://open.spotify.com/album/0pCFes7vyy7vavgedlkwYv) | 2:49 | 2023-03-29 | 2023-04-17 |
 | [Sab Kuch](https://open.spotify.com/track/4wZ9N55zJvZbsi868fb3Wt) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Sab Kuch](https://open.spotify.com/album/1xqZjW5tYNPApXAZRu8VVf) | 2:20 | 2023-12-13 | 2024-01-13 |
 | [Samajh Rahi Hai](https://open.spotify.com/track/680FKrGby9wBLFIzY2MFf9) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Samajh Rahi Hai](https://open.spotify.com/album/1k8V6kgfwZp4Bx7IyqzTQ4) | 2:53 | 2023-08-10 |  |
-| [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 | 2023-03-29 |  |
+| [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 | 2023-03-29 | 2024-02-14 |
 | [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-29 |  |
 | [Second Day Of School](https://open.spotify.com/track/0suHYhqXOeGDXg26tqL2UJ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 4:05 | 2023-06-23 |  |
 | [Shaitaani](https://open.spotify.com/track/0EgLqhEB0POPpRc7DT8cMs) | [MC Muztafa](https://open.spotify.com/artist/2cZCopDe1yTOmNXdQS3cG6), [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE) | [Shaitaani](https://open.spotify.com/album/6isIWro6HXcOXTxydHzLGn) | 2:43 | 2023-04-16 | 2023-06-02 |

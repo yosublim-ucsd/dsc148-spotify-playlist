@@ -4,7 +4,7 @@
 
 > Aquí está la música de Fanático, la serie de Netflix.
 
-19 songs - 1 hr 2 min
+20 songs - 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Diablos](https://open.spotify.com/track/7oILlqkIKl0mNBN4k8eaSG) | [Quimera](https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi) | [Diablos](https://open.spotify.com/album/0k79I6niA0AMFCEuLw8pJ9) | 2:58 | 2022-07-12 |  |
 | [DO RE MI](https://open.spotify.com/track/4FGilCQ82RQkus5jy6Gf6X) | [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS) | [DO RE MI](https://open.spotify.com/album/3OWOr8BSPtkYVNOm5ID5a2) | 2:20 | 2022-07-12 |  |
 | [Drone Logic](https://open.spotify.com/track/7JRN5xOUIrnI4crUMOt6X4) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 7:09 | 2022-07-12 |  |
-| [Good Bad Times](https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx) | 3:18 | 2022-07-12 |  |
+| [Good Bad Times](https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx) | 3:18 | 2022-07-12 | 2024-02-14 |
+| [Good Bad Times](https://open.spotify.com/track/3x1PdN9Q9IV8bhnTvjI7LA) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/0wMjCryZt5T86RcKOIfeUV) | 3:18 | 2022-07-12 |  |
 | [Hazmelo otra vez](https://open.spotify.com/track/5jiY8WuRWiTkqxx9BuarTQ) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Hazmelo otra vez](https://open.spotify.com/album/5ASfNk4fX8qHojJZ3zaUdT) | 2:09 | 2022-07-12 |  |
 | [No Quiero Tu Respeto](https://open.spotify.com/track/3uaWc9gGGgh4fsW6yNQZt0) | [Sander Wazz](https://open.spotify.com/artist/3O2ALOTlfmlMCabLD6YVcb) | [No Quiero Tu Respeto](https://open.spotify.com/album/5idgk0UouCDDB1MIHYMvcr) | 3:19 | 2022-07-12 |  |
 | [Para Que No Duela](https://open.spotify.com/track/2CX2vf8md18bXf53T6whla) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Goa](https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh) | [Alcohol & Sullivans](https://open.spotify.com/album/0ttHxWekHBnNNzjPsyXS86) | 2:52 | 2022-07-12 |  |

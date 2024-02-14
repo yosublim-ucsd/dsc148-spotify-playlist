@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="spotify:artist:181bsRPaVXVlUKXrxwZfHK">Megan Thee Stallion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,899 likes - 64 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,955 likes - 64 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 35 | [Beat It](https://open.spotify.com/track/292VIEU184tvEQZs078qwX) | [GBaby Chef](https://open.spotify.com/artist/2QsVdFDTfUZDAGCcuPSCb3) | [ON GOD](https://open.spotify.com/album/0IULJ9DSDmldUP1FFHVfD7) | 2:26 |
 | 36 | [How Far Will I Go](https://open.spotify.com/track/4ncYcTdHKitoQD0Tl9QGdh) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW), [StarTheOnly1](https://open.spotify.com/artist/26w6ju9nUgkrOeyoUpGcQu) | [No Time to Cry, Vol\. 3](https://open.spotify.com/album/3uA0kcmIcIailGhrhr9cQv) | 4:16 |
 | 37 | [Running Home](https://open.spotify.com/track/6EyqWhpNwQFRAwAFUjPrsQ) | [Billyracxx](https://open.spotify.com/artist/6S4PaG0wJvZOUPxbnrvN4O), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Running Home](https://open.spotify.com/album/3eHl9FNsv51mkVqcnTmcCL) | 1:42 |
-| 38 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 |
+| 38 | [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 |
 | 39 | [First Class](https://open.spotify.com/track/6AfWb30zxst5E61s94m19j) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Stuck in Motion](https://open.spotify.com/album/02ZZ5x1ceoDV8hv7UQ7r8b) | 4:31 |
 | 40 | [misunderstood](https://open.spotify.com/track/3S7uLIpYgj20JdZrkhoFsx) | [AJ McQueen](https://open.spotify.com/artist/5yQzq87Fu3ZTADxVWwWoj7) | [misunderstood](https://open.spotify.com/album/6skd3vFOC6WlQfq5p8SmtP) | 3:54 |
 | 41 | [From Tha Back 2](https://open.spotify.com/track/2qm1EwnWTU8al0dNtsPNbp) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [From Tha Back 2](https://open.spotify.com/album/07m2l00gTakuTbiMYwwjMc) | 2:47 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 63 | [Swangin' Glass](https://open.spotify.com/track/1W1xIjbH4GyA33FMQicGOL) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Swangin' Glass](https://open.spotify.com/album/7JWPGp4cjmFp6LaAiV6YJ6) | 3:12 |
 | 64 | [EXCESSIVE CELEBRATION](https://open.spotify.com/track/1cyqKDC2Wdz5GhIT6AIyBV) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Ochocinco](https://open.spotify.com/artist/4KdKJI82m303dLW4RYZCuT) | [EXCESSIVE CELEBRATION](https://open.spotify.com/album/3q0giSaERc2Gfk9bK00FM5) | 1:09 |
 
-Snapshot ID: `MCxlODJiMzRmYmY2ZTE1ZGMwYzRjMGVlZDZjNzhkYjc1MzQzYjhmY2Vm`
+Snapshot ID: `MCwxMWI3MGRlOTg4YWJhNDdlNGE3MTcyODdmZGIwYTIzNWFhN2I0NzBk`

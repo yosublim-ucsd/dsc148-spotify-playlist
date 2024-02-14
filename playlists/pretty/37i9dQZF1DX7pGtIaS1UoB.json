@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 94045,
+  "num_followers": 94058,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGRiZjRjNDUyOTA3ZmI2OGM2Y2I5NjAyN2Q5NmMwZTIwZDBmMjM5",
+  "snapshot_id": "MCw4YTNjN2M4YjQ0ZGZiZjE2MTA4NTgwOWI3MTFhZDg2YjhhZjMzZjE0",
   "tracks": [
     {
       "added_at": "2024-02-12 08:41:32",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 177757,
-      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
         "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
         "url": "https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 195328,
       "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
       "url": "https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
+        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 177757,
+      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
-        "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        },
-        {
-          "name": "\u8a31\u744b\u752f",
-          "url": "https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "\u9ecf\u9ecf (feat. \u8a31\u744b\u752f)",
-      "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 201150,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
+        "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
+        "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        },
+        {
+          "name": "\u8a31\u744b\u752f",
+          "url": "https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "\u9ecf\u9ecf (feat. \u8a31\u744b\u752f)",
+      "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        }
-      ],
-      "duration_ms": 221443,
-      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
         "name": "\u5206\u4f60\u4e00\u534a",
         "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u4f60\u597d\u55ce?",
-        "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
+        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
       },
       "artists": [
         {
-          "name": "\u9b4f\u5609\u7469 Arrow Wei",
-          "url": "https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO"
-        },
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
-          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
         }
       ],
-      "duration_ms": 226317,
-      "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
-      "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
+      "duration_ms": 221443,
+      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -739,6 +719,26 @@
       "duration_ms": 213240,
       "name": "\u9760\u8fd1\u4e00\u9ede\u9ede",
       "url": "https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
+        "name": "\u4f60\u597d\u55ce?",
+        "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
+      },
+      "artists": [
+        {
+          "name": "\u9b4f\u5609\u7469 Arrow Wei",
+          "url": "https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO"
+        },
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
+          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
+        }
+      ],
+      "duration_ms": 226317,
+      "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
+      "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
+        "name": "\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60 (\u96fb\u8996\u539f\u8072\u5e36)",
+        "url": "https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem"
+      },
+      "artists": [
+        {
+          "name": "\u5143\u82e5\u85cd",
+          "url": "https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK"
+        },
+        {
+          "name": "Daikyu Wu",
+          "url": "https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg"
+        }
+      ],
+      "duration_ms": 255097,
+      "name": "\u5fc3\u9858\u4fbf\u5229\u8cbc",
+      "url": "https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
-        "name": "\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60 (\u96fb\u8996\u539f\u8072\u5e36)",
-        "url": "https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem"
-      },
-      "artists": [
-        {
-          "name": "\u5143\u82e5\u85cd",
-          "url": "https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK"
-        },
-        {
-          "name": "Daikyu Wu",
-          "url": "https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg"
-        }
-      ],
-      "duration_ms": 255097,
-      "name": "\u5fc3\u9858\u4fbf\u5229\u8cbc",
-      "url": "https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u6211\u6703\u5f88\u611b\u4f60",
-        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
+        "name": "\u5fc3\u5f15\u529b",
+        "url": "https://open.spotify.com/album/5oy4TAALay9YdGkPP292sS"
       },
       "artists": [
         {
-          "name": "\u67cf\u9716PoLin",
-          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+          "name": "\u738b\u4fca\u51f1",
+          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 215978,
-      "name": "\u6211\u6703\u5f88\u611b\u4f60",
-      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
+      "duration_ms": 257785,
+      "name": "\u5fc3\u5f15\u529b",
+      "url": "https://open.spotify.com/track/57izWRQXkuKYpQ4RHNYi24"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u5fc3\u5f15\u529b",
-        "url": "https://open.spotify.com/album/5oy4TAALay9YdGkPP292sS"
+        "name": "\u6211\u6703\u5f88\u611b\u4f60",
+        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
       },
       "artists": [
         {
-          "name": "\u738b\u4fca\u51f1",
-          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
         }
       ],
-      "duration_ms": 257785,
-      "name": "\u5fc3\u5f15\u529b",
-      "url": "https://open.spotify.com/track/57izWRQXkuKYpQ4RHNYi24"
+      "duration_ms": 215978,
+      "name": "\u6211\u6703\u5f88\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
-      },
-      "artists": [
-        {
-          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
-          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
-        }
-      ],
-      "duration_ms": 206669,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
         "name": "\u6c27\u5316\u6c22",
         "url": "https://open.spotify.com/album/21ZxcTSff8GoFutdIzzCoL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 135000,
       "name": "\u6c27\u5316\u6c22",
       "url": "https://open.spotify.com/track/2D4N00Ouvj4GxUEsE6ht0B"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
+          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+        }
+      ],
+      "duration_ms": 206669,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
     },
     {
       "added_at": "2024-02-12 08:41:32",

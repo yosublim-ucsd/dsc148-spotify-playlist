@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Dooram",
+        "url": "https://open.spotify.com/album/7lt4WELBY6unUEaS1S89W0"
+      },
+      "artists": [
+        {
+          "name": "Aravind Chandrasekhar",
+          "url": "https://open.spotify.com/artist/5WCtTjYGnQT0zeflxOyPKw"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96613,
+      "name": "Dooram",
+      "url": "https://open.spotify.com/track/73JZxTtYEusW3W7sJgkvdc"
+    },
+    {
+      "album": {
         "name": "En Sadhai",
         "url": "https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1"
       },

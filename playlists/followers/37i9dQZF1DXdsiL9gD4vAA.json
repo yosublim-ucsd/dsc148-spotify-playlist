@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 88394,
+  "2024-02-14": 88527,
   "date_first_scraped": "2021-12-28",
   "description": "Let these contemplative couplets take you away.",
   "name": "Golden Ghazals",
@@ -1963,6 +1963,24 @@
     {
       "album": {
         "name": "Pyar Se Pyar Karna",
+        "url": "https://open.spotify.com/album/7xmy9BWCQ17YuI4YnKyfgo"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257488,
+      "name": "Pyar Se Pyar Karna",
+      "url": "https://open.spotify.com/track/1RnADvAIf4ALR1z0Hej0cX"
+    },
+    {
+      "album": {
+        "name": "Pyar Se Pyar Karna",
         "url": "https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2"
       },
       "artists": [
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 257488,
       "name": "Pyar Se Pyar Karna",
       "url": "https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX"
@@ -2541,10 +2559,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 309288,
       "name": "Zid",
       "url": "https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew"
+    },
+    {
+      "album": {
+        "name": "Zid",
+        "url": "https://open.spotify.com/album/2x4a52pauzSvhQnCI9DY6a"
+      },
+      "artists": [
+        {
+          "name": "Yogita Godbole",
+          "url": "https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309288,
+      "name": "Zid",
+      "url": "https://open.spotify.com/track/08PBtue3SWYVlZqfbvQIE9"
     },
     {
       "album": {

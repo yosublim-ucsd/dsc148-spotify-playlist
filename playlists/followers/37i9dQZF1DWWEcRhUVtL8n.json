@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 1688548,
+  "2024-02-14": 1688632,
   "date_first_scraped": "2020-10-13",
   "description": "New and approved indie pop. Cover: Del Water Gap & Holly Humberstone",
   "name": "Indie Pop",
@@ -28496,6 +28496,24 @@
     },
     {
       "album": {
+        "name": "Taste of Metal",
+        "url": "https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Taste of Metal",
+      "url": "https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F"
+    },
+    {
+      "album": {
         "name": "TE EXTRA\u00d1O Y LO SIENTO...",
         "url": "https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP"
       },
@@ -31815,7 +31833,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 206625,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/4UmLhlLUJKQQNr8glsPkKC"

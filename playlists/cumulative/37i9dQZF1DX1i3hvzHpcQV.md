@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Leo
 
-114 songs - 6 hr 52 min
+115 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs) | 3:10 | 2023-07-06 |  |
 | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F) | 3:57 | 2022-08-05 |  |
 | [Kannukkulle \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/4WDya8Mau5wuqLnaNr2Ct0) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kannukkulle \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/1037FVZhNjSNArYGGcRIxU) | 3:52 | 2022-09-20 | 2022-10-04 |
+| [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 | 2024-02-13 |  |
 | [Kurumugil \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/5e2eJl3qNNGWllzSFCYrad) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kurumugil \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/3QbblpY2hZM0cEhAs3baV7) | 3:38 | 2022-09-20 | 2023-04-19 |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-11-15 | 2023-04-19 |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |

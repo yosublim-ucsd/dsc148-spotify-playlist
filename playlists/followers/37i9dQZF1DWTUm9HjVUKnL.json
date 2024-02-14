@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 218727,
+  "2024-02-14": 218742,
   "date_first_scraped": "2022-01-25",
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
   "name": "Spotify Singles: Complete Collection",
@@ -1603,6 +1603,24 @@
       "duration_ms": 197328,
       "name": "Be Kind To Me - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/6jcPLlygnVZ4ZUfinbtVIn"
+    },
+    {
+      "album": {
+        "name": "Be Quiet And Drive (Far Away) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187189,
+      "name": "Be Quiet And Drive (Far Away)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "album": {
@@ -11405,6 +11423,24 @@
       "duration_ms": 178794,
       "name": "Location - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7jwZYPS8reDirsT4Mvqpui"
+    },
+    {
+      "album": {
+        "name": "Lonely Day - Spotify Singles",
+        "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lonely Day - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
     },
     {
       "album": {

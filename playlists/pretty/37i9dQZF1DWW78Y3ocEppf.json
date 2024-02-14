@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43238,
+  "num_followers": 43237,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz",
+  "snapshot_id": "MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "DOWN BAD",
-      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Pretty Conversation",
@@ -1131,6 +1115,22 @@
       "duration_ms": 144000,
       "name": "Man on Fire",
       "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "DOWN BAD",
+      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1169,26 +1169,6 @@
       "url": "https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Scars II",
-        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Just Like Me",
@@ -1207,6 +1187,26 @@
       "duration_ms": 150361,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Asylum",
@@ -1291,22 +1307,6 @@
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1473,6 +1473,22 @@
       "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
     },
     {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "Blame Yourself",
+      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Maddest Hoes",
@@ -1491,22 +1507,6 @@
       "duration_ms": 154105,
       "name": "Maddest Hoes",
       "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
-    },
-    {
-      "added_at": "2023-09-01 04:55:52",
-      "album": {
-        "name": "I'M THE PROBLEM",
-        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
-      },
-      "artists": [
-        {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "Blame Yourself",
-      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
-    },
-    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Take II",
@@ -1643,6 +1627,22 @@
       "duration_ms": 128506,
       "name": "For The Girls",
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1713,6 +1713,22 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "From Me, To Me",
@@ -1743,22 +1759,6 @@
       "duration_ms": 175151,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
-      },
-      "artists": [
-        {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
-        }
-      ],
-      "duration_ms": 143903,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
     }
   ],
   "unique_name": "Some Kinda Way",

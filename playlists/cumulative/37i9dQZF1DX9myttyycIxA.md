@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Madi Diaz
 
-1,161 songs - 2 day 17 hr 55 min
+1,162 songs - 2 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,6 +997,7 @@
 | [That I Won't Do](https://open.spotify.com/track/3mZnzp5DzIxmnSYrUBME8b) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [That I Won't Do](https://open.spotify.com/album/1YrYPr2CJZztg9s3RdUdNo) | 2:42 | 2021-11-12 | 2022-04-28 |
 | [That's The Way I Like It](https://open.spotify.com/track/52cNGf7Bw8cykQ74snRoaw) | [Lily Konigsberg](https://open.spotify.com/artist/0C0xVsusgtna2fFBSPQzQS) | [That's The Way I Like It](https://open.spotify.com/album/4Qc7to2x5jIZH5aCZVXukA) | 2:03 | 2021-08-27 | 2022-04-27 |
 | [That's What Everybody Said](https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [That's What Everybody Said](https://open.spotify.com/album/1wGTHTrbX8SulQLoJtjeTk) | 3:10 | 2021-10-08 | 2022-04-21 |
+| [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 | 2024-02-13 |  |
 | [The Burned Down Dairy Queen](https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 3:08 | 2022-09-19 | 2023-01-21 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-28 |
 | [The Detail](https://open.spotify.com/track/1eVNSUm4POzvNUa9IqiltN) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [The Detail](https://open.spotify.com/album/43OoHqzqkT2tWRoj1hohdz) | 4:29 | 2021-06-11 | 2022-09-03 |

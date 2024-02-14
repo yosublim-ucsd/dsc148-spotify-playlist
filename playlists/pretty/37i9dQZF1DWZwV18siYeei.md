@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 
 > Summer classics from yesteryear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,387 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,420 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
-| 2 | [Holdin On](https://open.spotify.com/track/3ohupB1Wm1Cvcyre7rtS9p) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 2:34 |
+| 2 | [Holdin On](https://open.spotify.com/track/6ERjyW3kpEZN9yHpLIRfxC) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 2:34 |
 | 3 | [One Summer](https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Edge](https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF) | 3:42 |
 | 4 | [You're the Voice](https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 5:00 |
 | 5 | [Red Red Wine](https://open.spotify.com/track/2w2VYhW71lUiP7MI2CCt8P) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Unplugged](https://open.spotify.com/album/7DBOS9oECfWfGwzbO7PY6m) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 | 79 | [That Word \(L.O.V.E.\)](https://open.spotify.com/track/6EEhP8TSpMTuIJ3jxPnBTx) | [Rockmelons](https://open.spotify.com/artist/4a8lth8CeT9IQYFWAwXJCx) | [Form One Planet](https://open.spotify.com/album/0Hr5pYpc4oW2drfD62oqMr) | 4:09 |
 | 80 | [Steal My Sunshine](https://open.spotify.com/track/2GRnDQCkcN6BoujfUgywOW) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [GO Music From The Motion Picture](https://open.spotify.com/album/2jDYpkR8306SzqpZzzNVZr) | 4:08 |
 
-Snapshot ID: `MCw0OTI1YTI5MTQwZDVlMzQ5NmJkZTA3OTQ4NTg4NTMyYmZkNjYxYWI1`
+Snapshot ID: `MCwyYTc2MzZiNTdjZjQwMDNmNTgxNTA1YTg5MGQwOTg3OTlhZmY1MWU2`

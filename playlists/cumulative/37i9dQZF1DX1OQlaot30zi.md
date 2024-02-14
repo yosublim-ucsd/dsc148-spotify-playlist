@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Il Tre, Geolier, Ghali, Artie 5ive e tanti altri.
 
-3,029 songs - 5 day 17 hr 20 min
+3,030 songs - 5 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1261,6 +1261,7 @@
 | [Il coraggio di dirti](https://open.spotify.com/track/18FcA4logPoWj73sYqanLU) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Questo non è un cane](https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY) | 2:46 | 2022-09-15 | 2022-09-30 |
 | [IL DIAVOLO STA NEL DETTAGLIO](https://open.spotify.com/track/0nmFFpmkBHLn7nMwIQ38vf) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [IL DIAVOLO STA NEL DETTAGLIO](https://open.spotify.com/album/6btbLW4VhWY1U02ZibolbT) | 2:33 | 2023-01-12 | 2023-01-20 |
 | [Il Doc 3 \(feat\. Tony Effe, Slings & MamboLosco\)](https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Il Doc 3 \(feat\. Tony Effe, Slings & MamboLosco\)](https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk) | 3:31 | 2023-02-14 | 2023-03-31 |
+| [Il Doc 4 \(feat\. Ernia, Emis Killa & Niky Savage\)](https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Il Doc 4 \(feat\. Ernia, Emis Killa & Niky Savage\)](https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8) | 3:36 | 2024-02-13 |  |
 | [Il giardino di pietra](https://open.spotify.com/track/3zN6kFrCubWF1EffYz5Jsp) | [Primo](https://open.spotify.com/artist/1CO6gl6tx1Ter4PZKKE2NT), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [El Micro De Oro \(2023 Edition\)](https://open.spotify.com/album/4duu8JGsZGKpeB6oI1vjuA) | 3:30 | 2023-06-15 | 2023-06-23 |
 | [Il Lungo Viaggio](https://open.spotify.com/track/2u4M59kSJu8FgoHOEg4qgB) | [Al Castellana](https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Il Lungo Viaggio](https://open.spotify.com/album/5pBR0lNjj02gNnEpW4m0HL) | 4:02 | 2022-06-16 | 2022-06-24 |
 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 | 2023-04-06 | 2023-05-05 |

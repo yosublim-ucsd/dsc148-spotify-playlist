@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
+    },
+    {
+      "album": {
         "name": "A Swingin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"

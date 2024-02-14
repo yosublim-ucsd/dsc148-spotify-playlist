@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,886 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,908 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 79 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
 | 80 | [Young & Foolish](https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR) | 2:36 |
 
-Snapshot ID: `MCwwOTE5Nzg5N2E5ZGRiYjZhNGJkOTJhY2M1ZWFkNjU3ZGY0NGM4ODZk`
+Snapshot ID: `MCwzNjIyZjAwMjA2YmY2ZmQxMGZiYmE3NzM4NzJjNTlkYmM4MzUzMDA5`

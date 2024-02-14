@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 41807,
+  "num_followers": 41827,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTYxMzBjYmE2OWMzNjkzYjY5ZTQ3OTY4NDc2Y2Q2YTc3OWFmYTky",
+  "snapshot_id": "MCxhOGIzNjFhMzJjNWQ3N2FkNDQwMmQ4MDEwM2U5MzRlZmY2YTkyYjBm",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "La Verdad de Joe Arroyo",
-        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 270626,
-      "name": "Yamulemau",
-      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Desde Puerto Rico A Nueva York",
         "url": "https://open.spotify.com/album/1vqHcNBGzfBymZFfceTcML"
       },
@@ -943,18 +923,42 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
+        "name": "La Verdad de Joe Arroyo",
+        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "Yamulemau",
+      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
       },
       "artists": [
         {
           "name": "Johnny Pacheco",
           "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 502920,
-      "name": "El Fais\u00e1n",
-      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
+      "duration_ms": 246720,
+      "name": "La Esencia Del Guaguanc\u00f3",
+      "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
       },
       "artists": [
         {
           "name": "Johnny Pacheco",
           "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 246720,
-      "name": "La Esencia Del Guaguanc\u00f3",
-      "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
+      "duration_ms": 502920,
+      "name": "El Fais\u00e1n",
+      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
     },
     {
       "added_at": "2023-02-13 22:55:50",

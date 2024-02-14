@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Brandon Nembhard\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,191 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,231 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Cool](https://open.spotify.com/track/4VXp7nrIktWwSQCsHtJdw5) | [Joely June](https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j) | [Cool](https://open.spotify.com/album/4MwJeWVLpONURioQjiV3mr) | 3:55 |
 | 100 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
 
-Snapshot ID: `MCxkNjlhZjM2MmYxMzk2M2MxYmQyYzNkNTQ5NjkxNDIxNTVlMTAyNjg4`
+Snapshot ID: `MCwzZWY2MjNjMmQ0ZmMxZThlOTk0YzhiODRiZjIwZmIyZTIyMTFhN2Yz`

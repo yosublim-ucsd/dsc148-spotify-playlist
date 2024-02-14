@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-193 songs - 11 hr 15 min
+194 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Nectar](https://open.spotify.com/track/0yWIL3sx36cPUrsj4w82zL) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:18 | 2021-12-16 |  |
 | [New Axis](https://open.spotify.com/track/1qExTKTJfeYGNkSy2kl3Ak) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 2:11 | 2021-12-16 | 2022-07-29 |
 | [New Axis](https://open.spotify.com/track/2VUZziJusn2sBa1iMn9YGn) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 2:11 | 2021-12-16 |  |
+| [Nightwalker](https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [TEN \- The 1st Mini Album](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) | 3:24 | 2024-02-13 |  |
 | [No Longer](https://open.spotify.com/track/3eIFdn5DUUO4CNcpbc8aQw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 4:58 | 2021-12-16 | 2023-05-03 |
 | [NonStop](https://open.spotify.com/track/23a4qKSwqUK70S8GnXa0Js) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:24 | 2021-12-16 | 2023-05-03 |
 | [NonStop](https://open.spotify.com/track/2mAimBqtgLqzwxcQgaap6x) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round – The 2nd Album Repackage](https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee) | 3:24 | 2021-12-16 | 2022-07-29 |

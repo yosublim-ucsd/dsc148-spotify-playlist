@@ -4,11 +4,12 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 18 min
+61 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All Is Full Of Love](https://open.spotify.com/track/6igs0Bpazd8H8VM8tJZaHB) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/12xYo4U9LASuSrxTjFYpBW) | 4:46 | 2023-11-10 |  |
+| [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 | 2024-02-13 |  |
+| [All Is Full Of Love](https://open.spotify.com/track/6igs0Bpazd8H8VM8tJZaHB) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/12xYo4U9LASuSrxTjFYpBW) | 4:46 | 2023-11-10 | 2024-02-14 |
 | [All We Are](https://open.spotify.com/track/70eo8KLj0DFdbis2QYfas0) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 4:43 | 2023-12-15 | 2023-12-18 |
 | [Ancestress](https://open.spotify.com/track/08sEEy8n3kkCDBjZdYZ4GV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Sindri Eldon](https://open.spotify.com/artist/7MrUhoxTFdz4HWkm0VIooA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 7:17 | 2023-11-10 | 2024-01-30 |
 | [Army Of Me](https://open.spotify.com/track/5zRuPOBoe38AjACFMsxkof) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 3:54 | 2023-11-10 |  |

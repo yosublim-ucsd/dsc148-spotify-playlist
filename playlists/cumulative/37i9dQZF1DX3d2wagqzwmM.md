@@ -2,7 +2,7 @@
 
 ### [Big Room Dance](https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM)
 
-> Big rooms and big sounds\. Cover: Hardwell & Afrojack
+> Big rooms and big sounds\. Cover: Maddix
 
 404 songs - 21 hr 24 min
 

@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-633 songs - 1 day 12 hr 32 min
+635 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Ghazaleh](https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Ghazaleh](https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9) | 2:35 | 2023-05-04 | 2024-01-11 |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-11-15 | 2022-11-22 |
 | [Goulou Amine](https://open.spotify.com/track/2DM4pswuIVG3qFuayz6R5a) | [Asmaa Bassite](https://open.spotify.com/artist/3M26ulb3cwk9qglRwt9SEa) | [Goulou Amine](https://open.spotify.com/album/5D2y2JGnRHybPkvll0ShbF) | 4:04 | 2021-12-23 | 2022-03-02 |
+| [Habbeitak](https://open.spotify.com/track/5sWtbEcIpGB0FLzERXf113) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI), [OBADA Q](https://open.spotify.com/artist/12YFoLfEdYUglaGcUeU6ty) | [Habbeitak](https://open.spotify.com/album/78Q7pQRA2J1QEIg1NGYgWw) | 2:57 | 2024-02-13 |  |
 | [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 | 2023-07-14 | 2024-01-11 |
 | [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 | 2023-05-01 |
 | [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-11-15 | 2023-04-11 |
@@ -264,6 +265,7 @@
 | [Kalam El Hob](https://open.spotify.com/track/6lE3VAWIsaXGw4H67spRsp) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Kalam El Hob](https://open.spotify.com/album/6h3n3RjjTLFtcRzpppOUoO) | 3:46 | 2023-06-16 | 2024-01-11 |
 | [Kam Marra](https://open.spotify.com/track/0cawWyQZDZheOScU3xR5jr) | [Tania Kassis](https://open.spotify.com/artist/793k10CpQo36RQJyL7rGDi) | [Kam Marra](https://open.spotify.com/album/6DixtSWrxYingKM0PHuG11) | 4:01 | 2022-03-01 | 2022-07-28 |
 | [Kam Sanah](https://open.spotify.com/track/7MrMMG6dvOkQAFeumvAAew) | [Wajd](https://open.spotify.com/artist/4InPJuxYYDsMGmPd9xTmoc) | [Kam Sanah](https://open.spotify.com/album/1MsJWBTQ6bRlJXwxIiUBkC) | 3:26 | 2021-12-23 | 2022-03-01 |
+| [KAN](https://open.spotify.com/track/0bG4e13MjolDszR22Qfub9) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [KAN](https://open.spotify.com/album/2S5ec3ra7ZXHnVTkqDgJQ2) | 2:32 | 2024-02-13 |  |
 | [Kan Ya Ma Kan](https://open.spotify.com/track/7pSIxWwue7kcqomsmaltbT) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Kan Ya Ma Kan](https://open.spotify.com/album/6pOn8wrzid7Vjj2SwWT0Lv) | 4:36 | 2022-11-15 | 2023-05-13 |
 | [Kathaab](https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Kathaab](https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o) | 4:50 | 2023-07-21 | 2023-09-19 |
 | [kawabes](https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [uncl](https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6) | [Kawabes](https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW) | 2:43 | 2023-09-28 | 2023-12-09 |

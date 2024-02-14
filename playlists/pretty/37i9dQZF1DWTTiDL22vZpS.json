@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 21965,
+  "num_followers": 21982,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmJlYjUzZDcyMzBkMGRlY2Y0NzQxYzA3ZWRhZTQ5ZWJhYzdkMTEx",
+  "snapshot_id": "MCwzMzA3NDIyYTdjM2EyNGYyODk5NTUxMTc4NWIzODUyOGY4NjVmY2I4",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 188400,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -627,6 +627,30 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "SIN MIRAR (Midnight Generation Remix)",
+        "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "SIN MIRAR - Midnight Generation Remix",
+      "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -683,22 +707,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Terciopelo",
-        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Terciopelo",
-      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Injusto",
         "url": "https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd"
       },
@@ -731,26 +739,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "SIN MIRAR (Midnight Generation Remix)",
-        "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
+        "name": "Terciopelo",
+        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
       },
       "artists": [
         {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        },
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
         }
       ],
-      "duration_ms": 292880,
-      "name": "SIN MIRAR - Midnight Generation Remix",
-      "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
+      "duration_ms": 178064,
+      "name": "Terciopelo",
+      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ritmo Natural",
-        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
-      },
-      "artists": [
-        {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Ritmo Natural",
-      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 211281,
       "name": "Gobi\u00e9rname",
       "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Ritmo Natural",
+        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Ritmo Natural",
+      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -951,22 +951,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+          "name": "MNKYBSNSS",
+          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
         }
       ],
-      "duration_ms": 205462,
-      "name": "Leche de Tigre",
-      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+      "duration_ms": 235000,
+      "name": "Mi Necedad",
+      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -987,18 +983,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
       "artists": [
         {
-          "name": "MNKYBSNSS",
-          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Mi Necedad",
-      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
+      "duration_ms": 205462,
+      "name": "Leche de Tigre",
+      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
     },
     {
       "added_at": "2024-02-09 05:00:00",

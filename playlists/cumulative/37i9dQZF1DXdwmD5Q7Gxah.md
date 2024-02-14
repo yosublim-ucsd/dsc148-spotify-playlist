@@ -4,7 +4,7 @@
 
 > all over the place in a good way\. cover: declan mckenna
 
-2,608 songs - 5 day 20 hr 25 min
+2,609 songs - 5 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-04 | 2022-04-16 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |
 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 | 2023-01-18 | 2023-03-25 |
-| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2022-09-23 | 2023-03-07 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2022-09-23 |  |
 | [End of Beginning](https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:39 | 2022-09-23 | 2022-10-13 |
 | [End of Days](https://open.spotify.com/track/3DI2uDfbIBrLPkHV9yxvVf) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [FUNNY BONE](https://open.spotify.com/album/4Urq1dEC7ZM94KoabRX3P2) | 2:46 | 2021-09-04 | 2021-10-06 |
 | [End Of The World](https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:40 | 2023-03-17 |  |
@@ -2389,6 +2389,7 @@
 | [True Love](https://open.spotify.com/track/7dAebAx3nuX2lea0yIETh5) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/08uPxu5CvOBN1r265LGqAK) | 4:11 | 2021-11-20 | 2022-01-08 |
 | [Truman](https://open.spotify.com/track/4bANgTflMHwX1p08mazG45) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Truman](https://open.spotify.com/album/6Xa0GCko4t23SZQDaLc6Qj) | 3:28 | 2021-05-06 | 2021-12-02 |
 | [Trust Fall](https://open.spotify.com/track/7m0dDmoOZlAFiiauud1HBd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Trust Fall / Just Like A Movie](https://open.spotify.com/album/6zSMEHTEV2vvOBaNJD1jLg) | 3:21 | 2019-09-06 | 2019-09-27 |
+| [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-13 |  |
 | [Trying To Find Us](https://open.spotify.com/track/1K2tarXuo0RtA1VeeRkiuT) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Trying To Find Us](https://open.spotify.com/album/1J9ubeevJRYrJgNDwkTpjA) | 2:32 | 2022-08-05 | 2022-09-15 |
 | [Tubthumping](https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv) | 4:38 | 2022-06-24 | 2022-08-06 |
 | [Tuethday](https://open.spotify.com/track/5Bne2idW8XpKfErI8wkCkc) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [baby a](https://open.spotify.com/artist/2uhZyZ7WgPEdEAk7FhKwsB) | [Tuethday](https://open.spotify.com/album/66lxxHJ1UCrFa6teqzHyZf) | 3:07 | 2020-09-04 | 2021-01-12 |

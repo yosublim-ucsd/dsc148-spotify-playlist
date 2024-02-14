@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,394 likes - 41 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,408 likes - 41 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 21 | [Área 51](https://open.spotify.com/track/0k70HfFx7rqehJDmYk8FKh) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:45 |
 | 22 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 |
 | 23 | [1972 \(Intro\)](https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 1:07 |
-| 24 | [NÃO VAMOS DESISTIR](https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [NÃO VAMOS DESISTIR](https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc) | 4:05 |
-| 25 | [Sinto Muito Baby](https://open.spotify.com/track/2lYxvijVdMI2BypfDcbUEC) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2) | [Gordão Chefe](https://open.spotify.com/album/7smhjQ669H4bokR2oE9GeV) | 5:31 |
+| 24 | [Sinto Muito Baby](https://open.spotify.com/track/2lYxvijVdMI2BypfDcbUEC) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2) | [Gordão Chefe](https://open.spotify.com/album/7smhjQ669H4bokR2oE9GeV) | 5:31 |
+| 25 | [NÃO VAMOS DESISTIR](https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [NÃO VAMOS DESISTIR](https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc) | 4:05 |
 | 26 | [From Hell do Céu](https://open.spotify.com/track/0uYM8AjQwRsVUCPWwZ9Oqb) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:57 |
 | 27 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 |
 | 28 | [Sangue de Free](https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Sangue de Free](https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1) | 3:30 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 40 | [Mic Masters](https://open.spotify.com/track/5mVvDreTJ956BQHYBQ0b3E) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ogi](https://open.spotify.com/artist/5tQCsrqxW41tECpfMWbm4j) | [Bendito](https://open.spotify.com/album/7K34wocIiDx0k9ptLTwCaC) | 4:20 |
 | 41 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
 
-Snapshot ID: `Mjg0NjIzMTUsMDAwMDAwMDBlMTNmYmRlYmU2ODBjNjRjZGRjOGI1ZmM0MDA5NDA5Ng==`
+Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA2MWUzZTQ4OWZmNTgxMmFhMTk5NGVhNThlNmZkY2Q2ZA==`

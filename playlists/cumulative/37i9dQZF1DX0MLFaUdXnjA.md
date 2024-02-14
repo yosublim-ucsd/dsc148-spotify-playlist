@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Laufey
 
-1,576 songs - 3 day 12 hr 48 min
+1,577 songs - 3 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1233,7 +1233,8 @@
 | [Soldier](https://open.spotify.com/track/0P7hldeLJsslU345SbZi5R) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Soldier](https://open.spotify.com/album/6JjICXfflptDGRm6GR7cgx) | 3:44 | 2020-04-26\* | 2020-07-18 |
 | [Soldier On](https://open.spotify.com/track/0V01yTfop4BLy47GByghwM) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Soldier On](https://open.spotify.com/album/3QBTFoQEAqcpUKG8YVD61X) | 4:25 | 2021-02-26 | 2021-06-05 |
 | [Soldiers](https://open.spotify.com/track/7BwuuLN0Fcvd8OSMFw4cd9) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Soldiers](https://open.spotify.com/album/5Ec2cine5I7z9tUjKnqyhC) | 3:01 | 2020-09-18 | 2020-10-09 |
-| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 |  |
+| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 | 2023-12-09 |
 | [somebody](https://open.spotify.com/track/1nfZQZS2CZ2Qo2vpMsiM0V) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [somebody](https://open.spotify.com/album/7I2PzKBbu7zDcVDybsr2Rj) | 2:56 | 2021-03-14 | 2021-06-26 |
 | [SOMEBODY](https://open.spotify.com/track/0HeiYo9WwMT8ujirrWzarf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [SOMEBODY](https://open.spotify.com/album/5aGeJx3pPmu3uAiX3tP5D5) | 2:44 | 2021-10-23 | 2022-04-29 |

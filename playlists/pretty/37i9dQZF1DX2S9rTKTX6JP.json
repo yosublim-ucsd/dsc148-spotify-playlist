@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 669704,
+  "num_followers": 669761,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2NhZjIyNzY5OTg4ZjFlYjllNTU1YjgyN2YzY2NjZWRmYzc5NDM3",
+  "snapshot_id": "MCw5MTQxYjQwYjg1YWIxNjA2MDJjZjA2YWYyNGY1YjRjOTIwMTA1NDMz",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -367,7 +367,7 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Be Quiet And Drive (Far Away) [Spotify Singles]",
+        "name": "Be Quiet and Drive (Far Away) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
       "artists": [
@@ -377,7 +377,7 @@
         }
       ],
       "duration_ms": 187189,
-      "name": "Be Quiet And Drive (Far Away)",
+      "name": "Be Quiet and Drive (Far Away)",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Fashion Nugget",
-        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
-      },
-      "artists": [
-        {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/6bGjpzX1wMp0NYX3ZiPUnf"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 228948,
       "name": "The Best",
       "url": "https://open.spotify.com/track/4DsxMZjoeXSI3dpQC0kCOj"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Temple of Love (feat. VV)",
-        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
-        }
-      ],
-      "duration_ms": 204759,
-      "name": "Temple of Love (feat. VV)",
-      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Temple of Love (feat. VV)",
+        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
+        }
+      ],
+      "duration_ms": 204759,
+      "name": "Temple of Love (feat. VV)",
+      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1571,18 +1571,34 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
+        "name": "Burn the Ships",
+        "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Blacktop Mojo",
+          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
         }
       ],
-      "duration_ms": 321040,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
+      "duration_ms": 265476,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Age Of Ignorance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Age Of Ignorance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 249411,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
+      "duration_ms": 321040,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1647,22 +1663,6 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Burn the Ships",
-        "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
-      },
-      "artists": [
-        {
-          "name": "Blacktop Mojo",
-          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
-        }
-      ],
-      "duration_ms": 265476,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Punk Goes Pop, Vol. 6",
         "url": "https://open.spotify.com/album/1l6S45U20fiob98cV6siw8"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 204653,
       "name": "Royals",
       "url": "https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Decade II: Rock & Acoustic",
         "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
       },
@@ -1915,18 +1899,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Dirt Soundtrack",
-        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 188133,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
+      "duration_ms": 206133,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1943,6 +1927,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2043,26 +2043,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 259188,
-      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -2091,6 +2071,26 @@
       "duration_ms": 177413,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 259188,
+      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "WILLOW: Live At Electric Lady",
-        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 123733,
-      "name": "Bag Lady / Split - Live",
-      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "WILLOW: Live At Electric Lady",
+        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "Bag Lady / Split - Live",
+      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
     },
     {
       "added_at": "2024-02-12 05:08:07",

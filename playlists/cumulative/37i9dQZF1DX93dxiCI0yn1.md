@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-119 songs - 5 hr 49 min
+120 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hentou](https://open.spotify.com/track/2XYm2ozeqdTVDn3AfVC9ir) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/5kRY3ZglYMF8AevPp8imUZ) | 4:18 | 2023-11-28 |  |
 | [Higher \- Remix](https://open.spotify.com/track/5ziiPlHiZWgexfYDWaMfMS) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [Higher \(Remix\)](https://open.spotify.com/album/6egmg7oo4uDNKDYDUXSkR2) | 3:56 | 2023-10-24 |  |
 | [Higher Level](https://open.spotify.com/track/3Fv6BRLfY01M29GsGSw8uC) | [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ), [Vinnie!](https://open.spotify.com/artist/5um8FTSWNYzkbjKHi3gY96) | [Higher Level](https://open.spotify.com/album/2XcCgMuXmFJ9hSIWsbMm4t) | 2:57 | 2023-10-24 |  |
+| [HOT BOYZ](https://open.spotify.com/track/6dOwdgtWFX9KEFM59qK5Xu) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof) | 2:13 | 2024-02-13 |  |
 | [HOUSE PARTY](https://open.spotify.com/track/1J994y1srEqIJm6JXUAaD5) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [HOUSE PARTY](https://open.spotify.com/album/0xg94ljK0x1DCvBOVbLuLH) | 2:40 | 2023-10-24 |  |
 | [I DO](https://open.spotify.com/track/5hwwilTd3N9Jp1jKRtXbnu) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [I'M THE ONE](https://open.spotify.com/album/76DsDJp2KJHjDiJ8y5QjgX) | 2:36 | 2023-10-24 |  |
 | [Illusion](https://open.spotify.com/track/2oR84LycL2vWKAgV5AQXI5) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd), [Ariel Mirai](https://open.spotify.com/artist/0pDbLIfV03U6nJwNIyHhio) | [VHS](https://open.spotify.com/album/4XZbB9vUhQHqCWs6tECjW1) | 2:36 | 2023-10-24 |  |

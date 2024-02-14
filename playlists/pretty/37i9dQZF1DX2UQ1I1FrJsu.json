@@ -1,12 +1,12 @@
 {
   "description": "natural wine vibes, because wine not? | Photo: Stir Crazy LA ",
-  "num_followers": 43887,
+  "num_followers": 44011,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmNhYzMyNGM4YTgwZGNiZmM2NTJkNjkzOWM0OWQxNTIwNzdiMDQw",
+  "snapshot_id": "MCw0YjNhMjkxYTZjNzAwYThjNDkxOTQ4MjU5ZTVkZTNhODM1Y2EzMzM1",
   "tracks": [
     {
       "added_at": "2024-01-08 17:56:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "Dragonball Durag",
-      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "Dragonball Durag",
+      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
         "name": "Huli Ka",
         "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 95000,
       "name": "Death of the Phone Call",
       "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -711,22 +727,6 @@
       "duration_ms": 256560,
       "name": "Corcovado (Quiet Nights Of Quiet Stars)",
       "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -799,6 +799,54 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "All I Really Want Is You",
+      "url": "https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -823,54 +871,6 @@
       "duration_ms": 167533,
       "name": "The Girl From Ipanema - Single Version",
       "url": "https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "All I Really Want Is You",
-      "url": "https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 73235,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
         "name": "Queen Alone",
         "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 209106,
       "name": "Cool Cat - Remastered 2011",
       "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 73235,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
         "name": "Cruisin to the Park",
         "url": "https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 212487,
       "name": "Cruisin to the Park",
       "url": "https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-08 17:56:55",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "Come Live With Me",
-      "url": "https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT"
-    },
-    {
-      "added_at": "2024-01-08 17:56:55",
-      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 161500,
       "name": "Highschool Lover",
       "url": "https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH"
+    },
+    {
+      "added_at": "2024-01-08 17:56:55",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "Come Live With Me",
+      "url": "https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT"
     },
     {
       "added_at": "2024-01-08 17:56:55",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/4q91GjZYQAZWICmRaOu04F"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Best For You and Me",
-        "url": "https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Best For You and Me",
-      "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
-    },
-    {
       "added_at": "2024-01-08 17:56:55",
       "album": {
         "name": "Manga",
@@ -1583,6 +1567,22 @@
       "duration_ms": 264413,
       "name": "Afeto",
       "url": "https://open.spotify.com/track/6Y9ajxGefBUK9pMbT0C8gv"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Best For You and Me",
+        "url": "https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Best For You and Me",
+      "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
     },
     {
       "added_at": "2024-01-08 17:56:55",

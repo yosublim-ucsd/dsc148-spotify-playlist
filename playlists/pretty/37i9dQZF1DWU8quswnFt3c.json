@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Loredana Bert\u00e8",
-  "num_followers": 904333,
+  "num_followers": 904279,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1",
+  "snapshot_id": "MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx",
   "tracks": [
     {
       "added_at": "2024-02-07 13:26:59",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "f\u00e1bula",
-        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 243724,
-      "name": "Sial",
-      "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 152186,
       "name": "Super Lady",
       "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 243724,
+      "name": "Sial",
+      "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
+        "name": "\u6837\u5b50 (\u7535\u89c6\u5267\u300a\u8981\u4e45\u4e45\u7231\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/10f2wE7uWe8on1ujqTy4o9"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 246352,
+      "name": "\u6837\u5b50 - \u7535\u89c6\u5267\u300a\u8981\u4e45\u4e45\u7231\u300b\u4e3b\u9898\u66f2",
+      "url": "https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
         "name": "Reworks",
         "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 231986,
       "name": "Fyge - Reworks",
       "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
-        "name": "\u6837\u5b50 (\u7535\u89c6\u5267\u300a\u8981\u4e45\u4e45\u7231\u300b\u4e3b\u9898\u66f2)",
-        "url": "https://open.spotify.com/album/10f2wE7uWe8on1ujqTy4o9"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 246352,
-      "name": "\u6837\u5b50 - \u7535\u89c6\u5267\u300a\u8981\u4e45\u4e45\u7231\u300b\u4e3b\u9898\u66f2",
-      "url": "https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Melatonin)",
+        "url": "https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
+      "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 237127,
       "name": "G\u00f6nl\u00fcm\u00fcn Balkonu",
       "url": "https://open.spotify.com/track/1F0bRB1uo9a8uMO5RrQBd8"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
-        "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Melatonin)",
-        "url": "https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t"
-      },
-      "artists": [
-        {
-          "name": "Praesun",
-          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
-      "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "\"I\"",
-        "url": "https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww"
-      },
-      "artists": [
-        {
-          "name": "Anna hisbbuR",
-          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "I can\u2019t be you",
-      "url": "https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 194615,
       "name": "liar",
       "url": "https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "\"I\"",
+        "url": "https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "I can\u2019t be you",
+      "url": "https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX"
     },
     {
       "added_at": "2024-02-07 13:26:59",

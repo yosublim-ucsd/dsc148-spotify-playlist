@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 6344,
+  "num_followers": 6425,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTc3YzU3YTE5NmQzMjMwNjc3MWMxYTM0MzFiMzFjMTc1NmJiYWI5",
+  "snapshot_id": "MCw2Nzk2OTJiZDg2ZDQzN2MxNGNmMDhjOWRiYjIzZDRiMmU0OGMxZmNh",
   "tracks": [
     {
       "added_at": "2024-01-29 08:33:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 224786,
       "name": "The Emotion",
       "url": "https://open.spotify.com/track/03YZnK3XQWKpvo9TyNZzXf"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Cat And Mouse",
-      "url": "https://open.spotify.com/track/4aZirFFDJlUUuvhpjY5cAH"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Cat And Mouse",
+      "url": "https://open.spotify.com/track/4aZirFFDJlUUuvhpjY5cAH"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 269323,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Chris Cornell (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 345626,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 269323,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 323093,
+      "name": "The Love Still Held Me Near",
+      "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 263253,
       "name": "Just the Way I'm Feeling",
       "url": "https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
-        "name": "The Love Still Held Me Near",
-        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 323093,
-      "name": "The Love Still Held Me Near",
-      "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
     }
   ],
   "unique_name": "hAngOvEr fRiEnDLy rOcK",

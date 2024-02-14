@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,431 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,464 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 12 | [C'est Magnifique](https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:36 |
 | 13 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:02 |
 | 14 | [Just One Of Those Things](https://open.spotify.com/track/07KWDsIcRU6r5Ej273QCY3) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 2:15 |
-| 15 | [Let's Do It \(Let's Fall in Love\)](https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [In the Land of Hi\-Fi](https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX) | 2:37 |
-| 16 | [What Is This Thing Called Love](https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:36 |
+| 15 | [What Is This Thing Called Love](https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:36 |
+| 16 | [Let's Do It \(Let's Fall in Love\)](https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [In the Land of Hi\-Fi](https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX) | 2:37 |
 | 17 | [You've Got That Thing](https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 3:23 |
 | 18 | [Don't Look At Me That Way](https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:59 |
 | 19 | [Begin The Beguine \- Alternate Take](https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:15 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 51 | [Paris Loves Lovers](https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Carole Richards](https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 2:43 |
 | 52 | [I Am Loved](https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:25 |
 | 53 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
-| 54 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
+| 54 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
 | 55 | [Rosalie](https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 2:49 |
-| 56 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
+| 56 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
 | 57 | [Why Can't You Behave?](https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 9](https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj) | 3:17 |
 | 58 | [Why Don't We Try Staying Home?](https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 4:26 |
 | 59 | [Rap Tap on Wood](https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 
-Snapshot ID: `MCwwNDVjMTdjZmFiYTJmMDI4OGY0NmEyNWU1NDBkMGVlNzdlZGMyOTRl`
+Snapshot ID: `MCxkNDY5NzFlY2M3ZjdiYWYzNWY0NGRiY2UwNjNjZTIzZmFiOTE1ZWFm`

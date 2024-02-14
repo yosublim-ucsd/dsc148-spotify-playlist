@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 3652426,
+  "2024-02-14": 3652743,
   "date_first_scraped": "2019-05-26",
   "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
   "name": "Brain Food",
@@ -3007,7 +3007,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 277000,
       "name": "Dawn Aura",
       "url": "https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS"
@@ -6558,6 +6558,24 @@
     },
     {
       "album": {
+        "name": "Chain Reaction at Dusk",
+        "url": "https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Helix III",
+      "url": "https://open.spotify.com/track/5oE4vo4oz0s9xMcxqmLUdW"
+    },
+    {
+      "album": {
         "name": "Her Future Ghost",
         "url": "https://open.spotify.com/album/5xS0N6lgpiyxKbbiop7eTS"
       },
@@ -7255,7 +7273,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 265378,
       "name": "In the Hills",
       "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
@@ -7829,7 +7847,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 336000,
       "name": "Knows No End",
       "url": "https://open.spotify.com/track/3I0YRqrBMoA4DAlK3MKj34"
@@ -13847,7 +13865,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 271807,
       "name": "Sun Tickles",
       "url": "https://open.spotify.com/track/52UtKsQplzV4d5s36xEZXv"
@@ -16949,6 +16967,24 @@
       "duration_ms": 339955,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX"
+    },
+    {
+      "album": {
+        "name": "Yip, Yip, Yip",
+        "url": "https://open.spotify.com/album/0rk3qC18ghOoB7M4ge5kyO"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/0Jdoa0h7JwqZIxuRbddFAD"
     },
     {
       "album": {

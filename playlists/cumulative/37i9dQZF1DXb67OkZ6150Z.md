@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-429 songs - 1 day 2 hr 20 min
+430 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Don't Speak](https://open.spotify.com/track/5GFOBEhxOYCG2yM8vBgtdD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [A Change Is Gonna Come \(U.S\. Release\)](https://open.spotify.com/album/1PI1juIuPm3zq1nIOBJl5S) | 4:43 | 2021-03-12 | 2022-04-10 |
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2021-03-12 | 2022-08-10 |
 | [Don't You Want Me](https://open.spotify.com/track/6gREYnl1rgTBE06YIDZheT) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3) | 3:19 | 2021-03-12 | 2022-07-23 |
-| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 |  |
+| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 | 2024-02-14 |
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-17 | 2023-04-29 |
 | [Dreams](https://open.spotify.com/track/5RWbKDWHNFzmGar0rIiEev) | [JST FRNDS](https://open.spotify.com/artist/7liK6kUh6nKLH7NpvU1PLQ) | [Dreams](https://open.spotify.com/album/524NcQjDgENatNMySqXIde) | 4:21 | 2021-03-12 | 2022-06-10 |
 | [Dreams](https://open.spotify.com/track/5Ppp9IJc7xKMImEhwBTR0n) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/0SSyy4oYR6KxnQN8bPeK6r) | 4:19 | 2021-03-12 | 2022-04-21 |
@@ -335,7 +335,8 @@
 | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/track/0864RUJfVHsr25hM5pxonl) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/album/30HFiTr4QBg533rhuDXYw1) | 3:51 | 2021-03-12 | 2022-04-21 |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2021-03-12 |  |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2021-03-19 | 2023-01-14 |
-| [Sweater Weather](https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Sweater Weather](https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl) | 2:35 | 2023-02-10 |  |
+| [Sweater Weather](https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Sweater Weather](https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl) | 2:35 | 2023-02-10 | 2024-02-14 |
+| [Sweater Weather](https://open.spotify.com/track/3S02YEgOBrf2pCD36VrOcf) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Sweater Weather](https://open.spotify.com/album/1lWAsvXz2BANFtqUzDiFug) | 2:35 | 2023-10-13 |  |
 | [Sweater Weather \(Acoustic\)](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Sweater Weather \(Acoustic\)](https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG) | 2:30 | 2021-03-12 | 2023-07-21 |
 | [Sweet Child o' Mine](https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o' Mine](https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90) | 5:02 | 2021-03-12 | 2022-08-10 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 | 2021-03-12 | 2022-04-20 |
@@ -374,7 +375,7 @@
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-03-12 | 2022-08-10 |
 | [Time After Time](https://open.spotify.com/track/3HDZQxaCWGJPw3fVVmFGIO) | [Cigar Cigarette](https://open.spotify.com/artist/6WGuOKz6ZtJRcioWOMy9My), [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Time After Time](https://open.spotify.com/album/66GlghGOJDomu7fXWrkEWo) | 4:19 | 2021-04-19 | 2022-04-11 |
 | [Time Out of Mind](https://open.spotify.com/track/495mG0890vzv6TGc4Fltxd) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Time Out of Mind](https://open.spotify.com/album/3RQ11zU2MBm5mz5xEHXGRB) | 3:39 | 2021-03-12 | 2022-07-18 |
-| [Time Out of Mind](https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Private Sunshine](https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7) | 3:39 | 2023-10-13 | 2024-02-09 |
+| [Time Out of Mind](https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Private Sunshine](https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7) | 3:39 | 2023-10-13 |  |
 | [To Love Somebody](https://open.spotify.com/track/3cvy4tBUqyobzmY6RuwA72) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [To Love Somebody](https://open.spotify.com/album/6DYLccj0e1SPoIYOWyua3c) | 3:34 | 2022-05-20 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/1DNHSNJIRaA9AI6KBHXmSq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V), [Matthew Logan Vasquez](https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG) | [To Ramona](https://open.spotify.com/album/6jsZz2IA32nYjLDh5JqNwE) | 5:08 | 2021-04-02 | 2022-06-22 |
 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2021-03-12 | 2023-08-09 |

@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-106 songs - 7 hr 3 min
+107 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Duck N’ Dodge](https://open.spotify.com/track/6pGmdibZoXSNbU4n9QX1lB) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV) | 3:36 | 2023-06-23 |  |
 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 | 2021-07-30 |  |
 | [Gold](https://open.spotify.com/track/2BEqkiPEzz4tYul7V0SGxW) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Gold](https://open.spotify.com/album/3TO7DNWI1fhBnPtjw0afJ5) | 4:31 | 2021-07-30 |  |
-| [Heaven Bent](https://open.spotify.com/track/0bjTW3zBohWdYy2z1Sf5hJ) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 6:47 | 2021-07-30 |  |
+| [Heaven Bent](https://open.spotify.com/track/0bjTW3zBohWdYy2z1Sf5hJ) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 6:47 | 2021-07-30 | 2024-02-14 |
 | [Heaven Bent](https://open.spotify.com/track/3UnOgOZkTRvlmfUcTHzvc6) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/6G895evPj3YPFAp7SZtEAg) | 6:47 | 2021-07-30 | 2022-07-29 |
+| [Heaven Bent](https://open.spotify.com/track/43X40H5c6YX3yglq8MKt38) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/4jy7lQVm86yCpTkUcIx2JN) | 6:47 | 2023-09-29 |  |
 | [Heaven Sent](https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:52 | 2021-07-30 |  |
 | [Henry Nearly Killed Me \(It's a Shame\)](https://open.spotify.com/track/3WlKwc0STwk7MYHyn2FjXm) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 4:22 | 2021-07-30 |  |
 | [Honeysuckle Reel](https://open.spotify.com/track/6AvLsGpRX9GEej0zB7evfj) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:02 | 2021-07-30 |  |

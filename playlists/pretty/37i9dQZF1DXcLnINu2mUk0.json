@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay e Julinho Ksd.",
-  "num_followers": 43154,
+  "num_followers": 43172,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTU0OWQ1ZTcwZTY2OTM0YmE0MzliMmNkMWRhMThiZWQ1MDFlNDE1",
+  "snapshot_id": "MCwzNTkwM2FhYWZmNzUxMzNmNjAzMDUwNzQ2MDA1YTliM2RkN2FlZWVi",
   "tracks": [
     {
       "added_at": "2024-02-09 00:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
-        "name": "Por Enquanto",
-        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "Por Enquanto",
-      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "Por Enquanto",
+        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "Por Enquanto",
+      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -439,22 +439,22 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
-        "name": "M\u00f3nica",
-        "url": "https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG"
+        "name": "Brutos Diamantes",
+        "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
         },
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 192500,
-      "name": "M\u00f3nica",
-      "url": "https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g"
+      "duration_ms": 176320,
+      "name": "Brutos Diamantes",
+      "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -499,22 +499,22 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
-        "name": "Brutos Diamantes",
-        "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
+        "name": "M\u00f3nica",
+        "url": "https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG"
       },
       "artists": [
         {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         },
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Brutos Diamantes",
-      "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
+      "duration_ms": 192500,
+      "name": "M\u00f3nica",
+      "url": "https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 185684,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
         "name": "00 Fala Bonito",
         "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
@@ -631,22 +611,6 @@
       "duration_ms": 212093,
       "name": "00 Fala Bonito",
       "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 208068,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -671,22 +635,18 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 189578,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0"
+      "duration_ms": 208068,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -707,6 +667,46 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 189578,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
         "name": "19.2k",
         "url": "https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K"
       },
@@ -723,30 +723,6 @@
       "duration_ms": 193200,
       "name": "Ride (feat. B\u00e1rbara Bandeira)",
       "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 209150,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -787,6 +763,30 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 209150,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
         "name": "VOLTA",
         "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 241565,
       "name": "VOLTA",
       "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -887,26 +887,6 @@
       "duration_ms": 257500,
       "name": ".Sais e Minerais",
       "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -1003,6 +983,26 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-02-09 00:00:00",
       "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n"
+      },
+      "artists": [
+        {
+          "name": "Silly",
+          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Heran\u00e7a",
+      "url": "https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg"
+    },
+    {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 217959,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
-    },
-    {
-      "added_at": "2024-02-09 00:00:00",
-      "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n"
-      },
-      "artists": [
-        {
-          "name": "Silly",
-          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Heran\u00e7a",
-      "url": "https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg"
     },
     {
       "added_at": "2024-02-09 00:00:00",

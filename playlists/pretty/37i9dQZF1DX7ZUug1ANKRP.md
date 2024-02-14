@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: HBz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803,026 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803,281 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [The Love](https://open.spotify.com/track/3XijPEn57kQXslTicIpy5J) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [The Love](https://open.spotify.com/album/4kG9LIFl6dYNUSLjABjTbV) | 2:21 |
 | 50 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
 
-Snapshot ID: `MCw2ZGE4MjZjZGJiYjQyZjM5NjU1NGE0MWQ5ZDc5NDExYTg1OGUxYmRl`
+Snapshot ID: `MCw5YTlhMzc4ZjRhNGI0NzgxNjhhZTYzYTAwNDBkYTMwY2I3ZTcyMTIx`

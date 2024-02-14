@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Cold Sun / Burning Moon",
+        "url": "https://open.spotify.com/album/4yWqjOUu5hLriv3gcAlf3A"
+      },
+      "artists": [
+        {
+          "name": "Cushy",
+          "url": "https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159142,
+      "name": "Cold Sun",
+      "url": "https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt"
+    },
+    {
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy"
       },
@@ -4253,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Move In Space",
+        "url": "https://open.spotify.com/album/4jr2jgt1PkVXXQcf8iiGXO"
+      },
+      "artists": [
+        {
+          "name": "Midnight Side Eye",
+          "url": "https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Move In Space",
+      "url": "https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp"
+    },
+    {
+      "album": {
         "name": "Myst",
         "url": "https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv"
       },
@@ -4906,6 +4942,24 @@
       "duration_ms": 161102,
       "name": "Peaceful Nature",
       "url": "https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql"
+    },
+    {
+      "album": {
+        "name": "Peach Perfect",
+        "url": "https://open.spotify.com/album/4WqfKyacXs3iVH1F8TliOq"
+      },
+      "artists": [
+        {
+          "name": "Monsieur S\u00e9millon",
+          "url": "https://open.spotify.com/artist/1R9RaHyXcL3HUOh0Nbcwq3"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139750,
+      "name": "Peach Perfect",
+      "url": "https://open.spotify.com/track/7K6gOJzKCvjPy8CFcvNJ0Y"
     },
     {
       "album": {
@@ -6178,7 +6232,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 112149,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw"

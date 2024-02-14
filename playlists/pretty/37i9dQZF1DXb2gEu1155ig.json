@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 75391,
+  "num_followers": 75444,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWRjYTNjMDc5MGY3OTRmMWMyZmEzMjM5Mzc3NDExNzBlYWM0N2Fh",
+  "snapshot_id": "MCxiMjY3MGJjYzY3ZWI5ZTNlZGRlOWM3ZTMxOGJhODI1NmQ0YTllMWVh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:44:23",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "Bailando Bien Con...",
+        "url": "https://open.spotify.com/album/2M7tRxi6Tev1wi65YlEptV"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/0Vu0dWhxAoin5w2WgMl01i"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "El Aut\u00e9ntico e Imbatible",
         "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 124604,
       "name": "El Pipiripau",
       "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Bailando Bien Con...",
-        "url": "https://open.spotify.com/album/2M7tRxi6Tev1wi65YlEptV"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/0Vu0dWhxAoin5w2WgMl01i"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
       },
       "artists": [
         {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
         }
       ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
+      "duration_ms": 199807,
+      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -747,34 +747,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
       },
       "artists": [
         {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 199807,
-      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
-      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Puros Vatos...Choca Y Rebota",
-        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Mentirosa (Eres Mentirosa)",
-      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -791,6 +775,22 @@
       "duration_ms": 226960,
       "name": "Sorbito De Champana",
       "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Puros Vatos...Choca Y Rebota",
+        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
+      },
+      "artists": [
+        {
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Mentirosa (Eres Mentirosa)",
+      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Ritmo, Sol y Arena",
-        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Acapulco Tropical",
-      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 171546,
       "name": "La Boa",
       "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Rel\u00e1mpago De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Un Amor Como El M\u00edo",
+      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Rel\u00e1mpago De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
+        "name": "Ritmo, Sol y Arena",
+        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
       },
       "artists": [
         {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Un Amor Como El M\u00edo",
-      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
+      "duration_ms": 147866,
+      "name": "Acapulco Tropical",
+      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Cozumel",
-      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Quen Pompo",
         "url": "https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 146860,
       "name": "Quen Pompo",
       "url": "https://open.spotify.com/track/4Gu5KSinsMNv4KTkCNVa7G"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+      },
+      "artists": [
+        {
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Cozumel",
+      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "De Quen Chon",
-        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 168803,
-      "name": "De Quen Chon",
-      "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Mis 14 Exitos De Oro",
         "url": "https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 186800,
       "name": "La Hierba Se Mov\u00eda",
       "url": "https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "De Quen Chon",
+        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "De Quen Chon",
+      "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 163921,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "El Ritmo De Chico Che Y La Crisis",
         "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 150674,
       "name": "Donde Te Agarro el Temblor",
       "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 163921,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Coleccion De Oro Puro",
-        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
-      },
-      "artists": [
-        {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "La Cumbia Sampuesana",
-      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
         "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 190426,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Coleccion De Oro Puro",
+        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
+      },
+      "artists": [
+        {
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "La Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
     },
     {
       "added_at": "2024-01-04 23:44:23",

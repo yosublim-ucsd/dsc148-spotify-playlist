@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: oceanfromtheblue\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: BIBI\)
 
-661 songs - 1 day 11 hr 33 min
+662 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 | 2023-02-20 | 2023-03-10 |
 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 | 2022-06-23 | 2022-07-10 |
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-07-29 |  |
+| [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-13 |  |
 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 | 2022-04-19 |  |
 | [BDBD](https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [BDBD](https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6) | 2:38 | 2023-07-21 | 2023-07-25 |
 | [Be Okay \(Feat\. nobody likes you pat, Sonny Zero\)](https://open.spotify.com/track/7nSk5xQBnGdg46SneEbM1f) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Midsummer](https://open.spotify.com/album/4qFlDvHc9wb2kWJTuXT6I1) | 3:25 | 2022-04-22 | 2022-06-14 |
@@ -97,7 +98,7 @@
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-08 |  |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-09-30 | 2022-10-06 |
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-21 | 2023-08-05 |
-| [Body \(Feat\. Sik\-K\)](https://open.spotify.com/track/079SEIMEJQsLIaE8QYqvCh) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Sorry I’m Late](https://open.spotify.com/album/4jAS9dmF3PQmns8L00w3bv) | 2:55 | 2024-02-06 |  |
+| [Body \(Feat\. Sik\-K\)](https://open.spotify.com/track/079SEIMEJQsLIaE8QYqvCh) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Sorry I’m Late](https://open.spotify.com/album/4jAS9dmF3PQmns8L00w3bv) | 2:55 | 2024-02-06 | 2024-02-14 |
 | [Bonnie & Clyde](https://open.spotify.com/track/2395WKvJwfuqPBgsyC5k9C) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [American Gothic](https://open.spotify.com/album/6e7McZxhV5in98Ai5gTfnJ) | 3:12 | 2022-04-19 | 2022-07-29 |
 | [Boyhood \(Feat\. VVON, DANA\)](https://open.spotify.com/track/4mjHZGcLuttpM6upxu35mP) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [DANA](https://open.spotify.com/artist/2XcNpF7crTNlL3XEoU4PT9) | [Ones left behind](https://open.spotify.com/album/5F12jY2brlUyryOPSzxCiG) | 2:58 | 2023-05-03 | 2023-05-16 |
 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-09-28 | 2022-10-01 |

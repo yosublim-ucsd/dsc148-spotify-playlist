@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Stereo Wall
 
 184 songs - 11 hr 49 min
 

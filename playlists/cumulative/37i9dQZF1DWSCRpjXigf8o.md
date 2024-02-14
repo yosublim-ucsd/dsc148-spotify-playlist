@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-506 songs - 1 day 6 hr 58 min
+508 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-15 | 2023-03-27 |
 | [The World](https://open.spotify.com/track/3qwvykvzhdTkg7QE6JIcxp) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 3:06 | 2023-03-23 | 2023-09-17 |
 | [The World](https://open.spotify.com/track/5tVq3U1jHqxLmE5EbF7Ly9) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 3:06 | 2023-09-14 |  |
+| [The Yonder](https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/7IiryjEryXiL3wRNWItITE) | 2:33 | 2024-02-13 |  |
 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 | 2022-10-20 | 2023-09-06 |
 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 | 2023-09-05 |  |
 | [There's No Mountain](https://open.spotify.com/track/4ynFaUX7qRKXhkXh0fFtPz) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [There's No Mountain](https://open.spotify.com/album/6azMJlkRruwDwFfsYJ5DTd) | 4:09 | 2023-09-19 | 2023-10-06 |
@@ -437,10 +438,11 @@
 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 | 2022-12-15 | 2023-01-27 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-28 |  |
 | [Who Needs You \- Special Edition](https://open.spotify.com/track/2HyvRCnFAX65gKsxwyPV5O) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Who Needs You \(Special Edition\)](https://open.spotify.com/album/0RVpXQpLUYpnfVS3FENm9y) | 3:17 | 2023-04-20 | 2023-12-13 |
-| [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 | 2023-10-17 |  |
+| [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 | 2023-10-17 | 2024-02-14 |
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-04-21 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/1U64mXSOAvEaz4sRyQPNpb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Soulklassiker](https://open.spotify.com/album/55lqkJnXgVUl1mZcnU52zY) | 2:57 | 2022-11-08 | 2022-11-13 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2022-10-20 |  |
+| [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-02-13 |  |
 | [You Don't Call Me Anymore](https://open.spotify.com/track/1O2HBnIhhNJx4xRe3oDFZF) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [You Don't Call Me Anymore](https://open.spotify.com/album/5z3JEwnU21eNIpxyuWhkgV) | 2:57 | 2023-03-07 | 2023-03-25 |
 | [You Don't Have To Cry](https://open.spotify.com/track/2fmsxiX567SCvCPfW0LLix) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd), [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [You Don't Have To Cry](https://open.spotify.com/album/0Rkvjqjr9haCZ70w2uAQug) | 4:34 | 2023-02-28 | 2023-03-15 |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-25 | 2023-08-25 |
@@ -469,7 +471,7 @@
 | [バラード気分](https://open.spotify.com/track/4XQ95yHjkLVfPFdEQW6P0X) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [ハザードオブラブ](https://open.spotify.com/album/4mnLjBxlCFOlMLs017DURJ) | 3:58 | 2023-11-28 | 2023-11-30 |
 | [ブラスバンド \- Remastered](https://open.spotify.com/track/4qdmJJsYlpnRxdCWTkRhaE) | [豪起](https://open.spotify.com/artist/4dlhWjRj1R2K9PcfSzQQVQ) | [ブラスバンド \(Remastered\)](https://open.spotify.com/album/02Tgubit8DqujEzmTN8EY6) | 4:02 | 2023-01-24 | 2023-02-15 |
 | [ブルーグラス](https://open.spotify.com/track/7Lp7f1LepstiBcED0WZHXb) | [the hollows](https://open.spotify.com/artist/4WfM6bTmKWlemJydz5SHTA), [田中カズ](https://open.spotify.com/artist/57Gil4buf0JDxk8h29FGUw) | [ブルーグラス](https://open.spotify.com/album/2vkRImsgwYenvjNrw0c2Jw) | 4:28 | 2023-02-14 | 2023-03-01 |
-| [ペイジ](https://open.spotify.com/track/63WCRjLt6NqgwtXxwExYat) | [MU\-FU](https://open.spotify.com/artist/2n5x1QfkGTOAg8cPGYoCWL), [Tomu Takahashi](https://open.spotify.com/artist/7xT6MuvLyrZ26dtmicRmKB) | [ペイジ](https://open.spotify.com/album/0xIi5tBFo1oB3Q2bbVpk6e) | 3:54 | 2024-02-08 |  |
+| [ペイジ](https://open.spotify.com/track/63WCRjLt6NqgwtXxwExYat) | [MU\-FU](https://open.spotify.com/artist/2n5x1QfkGTOAg8cPGYoCWL), [Tomu Takahashi](https://open.spotify.com/artist/7xT6MuvLyrZ26dtmicRmKB) | [ペイジ](https://open.spotify.com/album/0xIi5tBFo1oB3Q2bbVpk6e) | 3:54 | 2024-02-08 | 2024-02-14 |
 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 | 2022-10-20 | 2022-11-09 |
 | [マリーアン](https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [マリーアン](https://open.spotify.com/album/2KOYRhDdqcjpzL6c80EUHS) | 2:37 | 2023-10-10 | 2023-11-01 |
 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 | 2024-01-23 |  |

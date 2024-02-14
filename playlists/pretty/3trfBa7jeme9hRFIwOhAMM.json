@@ -6,7 +6,7 @@
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTUzNSxmZTdlZjdiNjU3MjdjMDQwMWI4NWMyZTNhMzAzYzY2OWM4ODE3ZmQ2",
+  "snapshot_id": "MTU0Miw2NTQ4ZmUzNDE2YTBhNGM2ZjhjZmY2ZmRhNjAwZjQ0Y2Q0NDRlMmQz",
   "tracks": [
     {
       "added_at": "2024-02-12 15:09:26",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
+      "added_at": "2024-02-13 18:57:51",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/0eIjrRPxXHrZzhQFNxVlOb"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 205045,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF"
+    },
+    {
       "added_at": "2024-02-12 15:09:26",
       "album": {
         "name": "Kill The Lights",
@@ -63,6 +79,30 @@
       "duration_ms": 200451,
       "name": "Kill The Lights",
       "url": "https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK"
+    },
+    {
+      "added_at": "2024-02-13 18:57:16",
+      "album": {
+        "name": "All Day, All Night",
+        "url": "https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "All Day, All Night",
+      "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -249,6 +289,30 @@
       "url": "https://open.spotify.com/track/30H1BOmD8WUzW6DI81QByu"
     },
     {
+      "added_at": "2024-02-13 18:49:30",
+      "album": {
+        "name": "Samduck",
+        "url": "https://open.spotify.com/album/0VszkBflaKTagL0NdUKEl7"
+      },
+      "artists": [
+        {
+          "name": "D-Steal",
+          "url": "https://open.spotify.com/artist/6bi3UYlp3xOsZKR87BwR4j"
+        },
+        {
+          "name": "Castle J",
+          "url": "https://open.spotify.com/artist/4q3a3Tyj21xvY85TBpkR6H"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Samduck",
+      "url": "https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR"
+    },
+    {
       "added_at": "2024-02-12 15:09:26",
       "album": {
         "name": "365",
@@ -339,6 +403,26 @@
       "duration_ms": 165333,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4RMOH93IUkNUjEKcvZCzq0"
+    },
+    {
+      "added_at": "2024-02-12 15:09:26",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2dfEiUJrWhC2htzLr4MsVo"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "The Frontier",
+          "url": "https://open.spotify.com/artist/0JwymukVmFtZeyMWWfzwrV"
+        }
+      ],
+      "duration_ms": 190650,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/58CTyLzYaWEQXnBbJeALxM"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -747,26 +831,6 @@
       "duration_ms": 160430,
       "name": "Make Amends (feat. Kyan Palmer)",
       "url": "https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL"
-    },
-    {
-      "added_at": "2024-02-12 15:09:26",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2dfEiUJrWhC2htzLr4MsVo"
-      },
-      "artists": [
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        },
-        {
-          "name": "The Frontier",
-          "url": "https://open.spotify.com/artist/0JwymukVmFtZeyMWWfzwrV"
-        }
-      ],
-      "duration_ms": 190650,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/58CTyLzYaWEQXnBbJeALxM"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

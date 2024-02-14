@@ -4169,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "gentleman",
+        "url": "https://open.spotify.com/album/6ZxqNUJWovT4o7RldR0FH9"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "gentleman",
+      "url": "https://open.spotify.com/track/1AJRoIsfo0UjJwWm7IPZGo"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4"
       },
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 277978,
       "name": "LUSTER",
       "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
@@ -9045,6 +9063,24 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146014,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
+    },
+    {
+      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -9370,6 +9406,28 @@
       "duration_ms": 138666,
       "name": "probably",
       "url": "https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np"
     },
     {
       "album": {
@@ -11266,7 +11324,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 125130,
       "name": "stricta",
       "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
@@ -13312,7 +13370,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"

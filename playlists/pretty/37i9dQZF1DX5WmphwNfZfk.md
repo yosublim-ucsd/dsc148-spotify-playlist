@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aqyila
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,953 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,961 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 30 | [Ain't You](https://open.spotify.com/track/7yTVwl7gjKjiZJcyrcK6GE) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ain't You](https://open.spotify.com/album/5ajGSLZVzKx3NmKMPGiFhw) | 2:36 |
 | 31 | [Can't Be a Friend](https://open.spotify.com/track/1cDJRRbIJAf0pF3pIzEWq7) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Can't Be a Friend](https://open.spotify.com/album/2x0OZkL3g1sQpMcGu3JCMB) | 2:37 |
 | 32 | [Possibly Alaska](https://open.spotify.com/track/19bsT8H336P233OI5XF4Do) | [Maddison Krebs](https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF) | [Possibly Alaska](https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B) | 4:15 |
-| 33 | [Millionth Time](https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Millionth Time](https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6) | 2:41 |
-| 34 | [Playground](https://open.spotify.com/track/0CHxU4Tu8pYaqbIcBMMKov) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 2:45 |
+| 33 | [Deeper Than](https://open.spotify.com/track/1bYZBYoByapdkzprIjpbzH) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [Deeper Than](https://open.spotify.com/album/7xuq0hvVbugjDC4e5CHboL) | 3:11 |
+| 34 | [Millionth Time](https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Millionth Time](https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6) | 2:41 |
 | 35 | [DBD](https://open.spotify.com/track/56w3BkZjlr0KXzCqJiQkfm) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [DBD](https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P) | 2:05 |
 | 36 | [Easy](https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:08 |
 | 37 | [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Pas très perspicace](https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Pas très perspicace](https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi) | 2:34 |
 | 50 | [Something to Say](https://open.spotify.com/track/21RJz7znPM43wrY2YgvShG) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [Something to Say](https://open.spotify.com/album/4BuafPOZec9nBs2PFWLy62) | 4:07 |
 
-Snapshot ID: `MCwzYjI1NzNmYTFjNWQwZGNhZGFkN2I0M2QzMWM5NjBmMmI3OTUwN2Qw`
+Snapshot ID: `MCw3ZWNiZjczYTRlY2UxZjZmMThhYjliNTE1NGI1ZmYyNGEwYmMyMWM2`

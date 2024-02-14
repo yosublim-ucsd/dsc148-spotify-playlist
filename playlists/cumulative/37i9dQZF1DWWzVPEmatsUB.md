@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-383 songs - 23 hr 7 min
+384 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,8 +159,9 @@
 | [I Love You More](https://open.spotify.com/track/37kIyAeNHhcDoLaNiGvmDO) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [I Love You More](https://open.spotify.com/album/0EviMK1a9IrssnruybawEt) | 3:18 | 2020-10-17 | 2022-04-16 |
 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2022-01-07 | 2023-02-18 |
 | [I Still Believe](https://open.spotify.com/track/47aAH3c3HRieyzGgNYKwbD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [The Truth Band](https://open.spotify.com/artist/4GbHPjVShDQOc5EaFPOoiw) | [Are You Ready](https://open.spotify.com/album/4hmFq4PqAHHO5I9kGQz6cK) | 4:24 | 2020-10-17 | 2022-04-21 |
+| [I Think It's You](https://open.spotify.com/track/10RdiY6mHq40y6JfMm5iek) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Daylight](https://open.spotify.com/album/20pY9EnEZVp4jTtFPQU9aN) | 3:37 | 2023-09-01 |  |
 | [I Think It’s You](https://open.spotify.com/track/1gHum0iZPs3EIftsWA1fey) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Daylight](https://open.spotify.com/album/54gsb9kVm2J8i2M7raLNph) | 3:37 | 2022-06-24 | 2022-07-02 |
-| [I Think It’s You](https://open.spotify.com/track/5063zWIUKknkMJ7D9GbGSG) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Daylight](https://open.spotify.com/album/0ygqqR1cPZ8w0ZlHsjvqEu) | 3:37 | 2022-07-01 |  |
+| [I Think It’s You](https://open.spotify.com/track/5063zWIUKknkMJ7D9GbGSG) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Daylight](https://open.spotify.com/album/0ygqqR1cPZ8w0ZlHsjvqEu) | 3:37 | 2022-07-01 | 2024-02-14 |
 | [I Tried](https://open.spotify.com/track/5TODWaaMr4UqqcMkd6z2GX) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [I Tried](https://open.spotify.com/album/5ynHtHk3iepL4frUdcKGG9) | 3:15 | 2020-10-17 | 2022-04-21 |
 | [I Tried](https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [After All](https://open.spotify.com/album/24gkn5s8FRrzke3fjt2GmK) | 3:15 | 2020-10-17 | 2023-02-04 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 |  |

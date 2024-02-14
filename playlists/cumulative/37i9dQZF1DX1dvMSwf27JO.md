@@ -4,7 +4,7 @@
 
 > music to get fly to ft Zendaya at Paris Fashion Week.
 
-510 songs - 1 day 3 hr 50 min
+511 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2022-09-13 | 2022-10-08 |
 | [Grab The Phone](https://open.spotify.com/track/5QZUWJvDWJqSgXPFhB01uQ) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [All Day Gentle Hold !](https://open.spotify.com/album/1BRyY6DlapTBq48ytvfY10) | 2:05 | 2022-09-13 | 2022-10-08 |
 | [Gravity](https://open.spotify.com/track/4IR1ACM7QnpToR5zCzxrVs) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [For My Own Sake](https://open.spotify.com/album/32qrX9uorcYSQkd8P6iE7M) | 2:38 | 2022-02-16 | 2024-02-04 |
+| [Gravity](https://open.spotify.com/track/730VcX0fDB9NDeuXB0PbtL) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [For My Own Sake](https://open.spotify.com/album/3SScH6k1ngWnC1B4Qanjm2) | 2:38 | 2023-10-04 |  |
 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2023-03-03 |  |
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-18 | 2022-04-16 |
 | [Happiness](https://open.spotify.com/track/3G9l0CsH7HCkr0SqDE1juj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 5:03 | 2022-09-13 | 2022-10-08 |
@@ -391,7 +392,7 @@
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2021-08-05 | 2022-07-02 |
 | [See Through](https://open.spotify.com/track/0TixoQNorYcPqJro7a7L3t) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/19U7uimektA9B78KaLaydy) | 2:30 | 2022-09-13 | 2022-10-08 |
 | [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 5:15 | 2023-03-03 | 2023-09-06 |
-| [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 |  |
+| [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 | 2024-02-14 |
 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 | 2021-08-05 | 2022-09-15 |
 | [SEX APPEAL](https://open.spotify.com/track/2iu4WYCPQrdQjXZkN8Phsm) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [SEX APPEAL](https://open.spotify.com/album/4yGL3n9vlgnXshM55VqXtU) | 2:28 | 2022-08-12 | 2022-08-31 |
 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 | 2022-08-03 | 2023-09-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,824 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,827 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 27 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 | 28 | [Committed](https://open.spotify.com/track/7144KnV7H7I0aCTA3t9Pw4) | [Unsane](https://open.spotify.com/artist/2C3gpQ0UMPjrOQ4FYdylRS) | [Occupational Hazard](https://open.spotify.com/album/18WsSzvy8wk1phCQqmC9dg) | 2:42 |
 | 29 | [Police Truck](https://open.spotify.com/track/6M4yg3BknyHmRnsvlkuHD5) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 2:24 |
-| 30 | [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 |
+| 30 | [West Coast](https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/2s9Ar63LYOp0XUOscyIz9M) | 3:22 |
 | 31 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 |
 | 32 | [Blitzkrieg Bop \- 2001 Remaster](https://open.spotify.com/track/2hrF1aiAFGa7bWgt2qhyrc) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 2:12 |
 | 33 | [Fight Like A Brave](https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Uplift Mofo Party Plan](https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 74 | [Non Compos Mentis](https://open.spotify.com/track/1GS9WWgNkqhR45YcdGPnBW) | [Haiku D'Etat](https://open.spotify.com/artist/5yLqc0R4cy4fVot8LuEkj4) | [Haiku D'Etat](https://open.spotify.com/album/45zWOfhF7pA5aIfkWypsnz) | 4:11 |
 | 75 | [Hush](https://open.spotify.com/track/75PrH413lre392eFKHl3tw) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/4T1jD9iMVHc8fAW3IcvEPo) | 3:55 |
 
-Snapshot ID: `MCw2M2M1M2JmMzc3ZDk3OWYzMzdkNGU2YTMyN2M2MTEzZjM3OWE1YzE2`
+Snapshot ID: `MCwyN2FmZGUxN2RhODhiN2M3ZTBkMTQ0N2NhODY3ZjcyMzM1N2U4OTE0`

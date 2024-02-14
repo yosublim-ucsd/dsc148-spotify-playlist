@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,839 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,843 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [He Is Exalted](https://open.spotify.com/track/1hVqIbX3UyHC5gKb8rR6Xw) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Clean](https://open.spotify.com/album/7p00s4Ck6FW4cXMTkCZbah) | 3:30 |
 | 50 | [You Know Everything \(Psalm 139\) \- Live](https://open.spotify.com/track/6en45FpokCU2UHfZqtfKeY) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 3:28 |
 
-Snapshot ID: `Mjg0NjIzMTYsMDAwMDAwMDBlZmRlMTA2ODU1MjBlZmNjNGYwNTc4YjliYTMxODk2MA==`
+Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAxMTllZTZkMDQ4NDBhNjU4YTM0ZDdhNTY0MmRiZGY2Yw==`

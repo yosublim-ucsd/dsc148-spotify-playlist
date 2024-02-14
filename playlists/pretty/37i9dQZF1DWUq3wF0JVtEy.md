@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,241 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,295 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 86 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 |
 | 87 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 |
 | 88 | [What You Got](https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [What You Got](https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh) | 2:40 |
-| 89 | [Welcome To The Future](https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Welcome To The Future](https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb) | 2:52 |
-| 90 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 |
-| 91 | [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 |
-| 92 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 |
-| 93 | [Losing My Head](https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Losing My Head](https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz) | 3:09 |
+| 89 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 |
+| 90 | [Welcome To The Future](https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Welcome To The Future](https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb) | 2:52 |
+| 91 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 |
+| 92 | [Losing My Head](https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Losing My Head](https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz) | 3:09 |
+| 93 | [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 |
 | 94 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
 | 95 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 |
 | 96 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 |
 | 97 | [Free My Mind](https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/1W09O51MifKfx4XAl851q9) | 2:51 |
-| 98 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 |
-| 99 | [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 |
+| 98 | [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 |
+| 99 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 |
 | 100 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
 
-Snapshot ID: `MCwzMTc2ZWI4ODYzYTA3NjVhMjVkOGM3ZWNmZTQwN2RiNjA2ZGVkNGVh`
+Snapshot ID: `MCxjZmVlYTYxZjBjNTAyMTllNTQyZDNiYWYzMDFhZDkyOWU4ZDZjYTEz`

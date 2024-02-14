@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-348 songs - 19 hr 55 min
+349 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj) | 3:13 | 2021-12-16 | 2023-11-03 |
 | [Carefree](https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Carefree](https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA) | 3:10 | 2021-12-16 |  |
 | [Careful](https://open.spotify.com/track/5KNq33xonNuXuzGyIBvhrs) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Careful](https://open.spotify.com/album/3SQQEUw8a9AR1Bt47ZO1Jg) | 2:11 | 2021-12-16 | 2022-11-21 |
-| [Careful](https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Haiku](https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9) | 2:11 | 2022-12-15 |  |
+| [Careful](https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Haiku](https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9) | 2:11 | 2022-12-15 | 2024-02-14 |
 | [Casa Lopez](https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Casa Lopez](https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9) | 4:03 | 2023-02-09 |  |
 | [Chapter 7 \(feat\. Ty\)](https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Ty](https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj) | [Chapter 7](https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI) | 4:47 | 2022-02-18 |  |
 | [Chase It](https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6), [Eerf Evil](https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP), [Outrageous Claims](https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:05 | 2023-05-16 |  |
@@ -189,6 +189,7 @@
 | [Keisha's & Brenda's](https://open.spotify.com/track/0gXMmD1UrC6TwySAbc8GJR) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Under Twenty Five](https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb) | 2:06 | 2022-01-13 | 2022-07-20 |
 | [KING](https://open.spotify.com/track/7s4V6in43JXuOqzUuOSvTZ) | [K\. Sparks](https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe) | [King](https://open.spotify.com/album/6ALU7PFAI0wB5vWENYz5oP) | 3:05 | 2021-12-16 | 2022-11-21 |
 | [Kintsugi](https://open.spotify.com/track/5NJ9CQaSeAsqCQO228Ytl0) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:28 | 2022-04-11 | 2022-04-19 |
+| [Kodak Moment](https://open.spotify.com/track/2QwKdnmCxJY3ybI8wuWGIc) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [Kodak Moment](https://open.spotify.com/album/4tzrbyeYsShVhUkgUnZVKR) | 3:43 | 2024-02-09 |  |
 | [Laid Back](https://open.spotify.com/track/0JFfA9et5gGZKWtwEQknF7) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK) | [Laid Back](https://open.spotify.com/album/3Hg5Imq7gXBC239p6xqrbf) | 3:19 | 2021-12-16 | 2022-07-29 |
 | [Laid Back](https://open.spotify.com/track/4ol5yijURde62kN9JOV35E) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK) | [Fonografie](https://open.spotify.com/album/0RnwCZYkpbdVnodYGVYY7T) | 3:19 | 2022-07-28 | 2022-11-21 |
 | [Laid Back](https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK) | [Fonografie](https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu) | 3:19 | 2022-12-15 |  |

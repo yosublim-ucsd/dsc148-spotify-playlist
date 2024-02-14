@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 607562,
+  "2024-02-14": 607661,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring Cloonee",
   "name": "Tech House Operator",
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 191250,
       "name": "Bad Bassline",
       "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
@@ -9417,6 +9417,32 @@
       "duration_ms": 177958,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/3LCmWRVsEDSwB4Q16Z3EYF"
+    },
+    {
+      "album": {
+        "name": "Freedom (Body Ocean Remix)",
+        "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Freedom - Body Ocean Remix",
+      "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
       "album": {

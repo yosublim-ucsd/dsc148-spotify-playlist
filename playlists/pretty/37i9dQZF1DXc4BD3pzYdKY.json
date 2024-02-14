@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
-  "num_followers": 148457,
+  "num_followers": 148520,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTEyYTJiNjJiYzI4ZmJkZmE2YmY2OTM4OWE4Zjk5MDAzNTc1Yzk3",
+  "snapshot_id": "MCw4ZGMwOTIxNGIxMDg4ZDQ0OTVmMGQ3NTEwM2VmNzU5ZmViMjg4OGE2",
   "tracks": [
     {
       "added_at": "2024-02-09 07:39:09",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "Love Like That",
         "url": "https://open.spotify.com/album/1ewhccVD32md195nWwLG3u"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 123375,
       "name": "God Had Other Plans",
       "url": "https://open.spotify.com/track/1vRmUeWtU33b7NbNnpPhLc"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "High Noon",
         "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 130679,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Bought By The Blood",
+        "url": "https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz"
+      },
+      "artists": [
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Bought By The Blood",
+      "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "IN MY ROOM",
         "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Bought By The Blood",
-        "url": "https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz"
-      },
-      "artists": [
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Bought By The Blood",
-      "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 196578,
       "name": "Potential",
       "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "Summer TKE",
+        "url": "https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH"
+      },
+      "artists": [
+        {
+          "name": "TKE3",
+          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Price",
+      "url": "https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1127,22 +1143,6 @@
       "duration_ms": 234320,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Summer TKE",
-        "url": "https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH"
-      },
-      "artists": [
-        {
-          "name": "TKE3",
-          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Price",
-      "url": "https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "WHATEVER HAPPENED TO KJ-52?",
-        "url": "https://open.spotify.com/album/6D1B9GHaZ4pYWpUnc5KARH"
-      },
-      "artists": [
-        {
-          "name": "KJ-52",
-          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "BETTER THAN YOU",
-      "url": "https://open.spotify.com/track/2STMnpnc6UFhRYE0vmxBxN"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 147910,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "WHATEVER HAPPENED TO KJ-52?",
+        "url": "https://open.spotify.com/album/6D1B9GHaZ4pYWpUnc5KARH"
+      },
+      "artists": [
+        {
+          "name": "KJ-52",
+          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "BETTER THAN YOU",
+      "url": "https://open.spotify.com/track/2STMnpnc6UFhRYE0vmxBxN"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "KEEPER",
+        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
+      },
+      "artists": [
+        {
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "KEEPER",
+      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "The Prodigal Son",
         "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 168539,
       "name": "Church",
       "url": "https://open.spotify.com/track/5BDfG3jEUMcKplrlZ9dkQc"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "KEEPER",
-        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
-      },
-      "artists": [
-        {
-          "name": "Amar",
-          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
-        },
-        {
-          "name": "Vianca \"The Grace\"",
-          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "KEEPER",
-      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Steve Austin",
         "url": "https://open.spotify.com/album/7AOKuoJt2Rk58ADL73Dlvc"
       },
@@ -1643,46 +1659,6 @@
       "duration_ms": 149538,
       "name": "Steve Austin",
       "url": "https://open.spotify.com/track/7yCIngefnxTlVztCrcFiTZ"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "9 to 5",
-        "url": "https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC"
-      },
-      "artists": [
-        {
-          "name": "Ace Clark",
-          "url": "https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "WE MISSED YOU",
-        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
-      },
-      "artists": [
-        {
-          "name": "Coop",
-          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
-        },
-        {
-          "name": "Swaizy",
-          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Poetic Pain",
-      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1707,6 +1683,26 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "WE MISSED YOU",
+        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
+      },
+      "artists": [
+        {
+          "name": "Coop",
+          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
+        },
+        {
+          "name": "Swaizy",
+          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Poetic Pain",
+      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Against The Cosmic Powers",
         "url": "https://open.spotify.com/album/0bCphzyujUHkBHvzNAsmG4"
       },
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Ace Clark",
+          "url": "https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+      "duration_ms": 170322,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Dreams Don't Have Deadlines",
+        "url": "https://open.spotify.com/album/7qiaDWqCWiYjCSwJEcjW45"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 159469,
+      "name": "MOUNTAINS",
+      "url": "https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Fire Fall",
         "url": "https://open.spotify.com/album/4qJ0oAgJeBxTbZQdYjEML1"
       },
@@ -1843,34 +1859,26 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Soul Cry",
-        "url": "https://open.spotify.com/album/4ppS7GojMEEePL0JHStmJ6"
+        "name": "Never Leave Me",
+        "url": "https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0"
       },
       "artists": [
         {
-          "name": "Errol Allen",
-          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
-        }
-      ],
-      "duration_ms": 153669,
-      "name": "Soul Cry",
-      "url": "https://open.spotify.com/track/6n5sIJ6cA7KpVrtLNU0pOk"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Dreams Don't Have Deadlines",
-        "url": "https://open.spotify.com/album/7qiaDWqCWiYjCSwJEcjW45"
-      },
-      "artists": [
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
         }
       ],
-      "duration_ms": 159469,
-      "name": "MOUNTAINS",
-      "url": "https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD"
+      "duration_ms": 198461,
+      "name": "Never Leave Me",
+      "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
     }
   ],
   "unique_name": "The Flow",

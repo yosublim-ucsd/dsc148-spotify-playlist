@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,293 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,297 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Me Deixa](https://open.spotify.com/track/7nmPP9MYKOhDZa8eQP4pMY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Deixa](https://open.spotify.com/album/1rnBqFFqGQz5rJn0sIGDPk) | 3:56 |
 | 50 | [A Cura Tá no Coração](https://open.spotify.com/track/35ZFS434PZDDofT9AXK62y) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Cura Tá no Coração](https://open.spotify.com/album/2kbAHf5ae9v2LWfWup43QH) | 3:48 |
 
-Snapshot ID: `Mjg0NjIzMTYsMDAwMDAwMDBlNzVlODEzY2Y1ZDkzMTljZjEyYzkzN2M0YjFiN2QyYw==`
+Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBlNDk3NDQyMTZiOTJjMmMwMjI0NTUyMzdiOGMyNDNhMQ==`

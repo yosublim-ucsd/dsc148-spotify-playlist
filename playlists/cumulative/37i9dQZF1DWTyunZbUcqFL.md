@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-55 songs - 4 hr 8 min
+56 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [かすみ草](https://open.spotify.com/track/6RFfqTMpNjpwK8S6gl5sn3) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [かすみ草](https://open.spotify.com/album/2wxCcvQSILpEQOpvel2bWn) | 4:14 | 2024-02-06 |  |
 | [きっとね!](https://open.spotify.com/track/1aleydUWuiBfdhxe8CMyV1) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [AINOU](https://open.spotify.com/album/2HC4JdZb7ZqFto0xX4OkMv) | 4:06 | 2024-01-16 |  |
 | [みまちがい](https://open.spotify.com/track/106MVOWcSInpn518DDKh6P) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [みまちがい](https://open.spotify.com/album/47AE25PbERBrFO857MmDFG) | 4:08 | 2023-11-21 |  |
-| [アイミル](https://open.spotify.com/track/3ovTFZCNLiE263FYsx0YWn) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:48 | 2023-11-21 |  |
+| [アイミル](https://open.spotify.com/track/3ovTFZCNLiE263FYsx0YWn) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:48 | 2023-11-21 | 2024-02-14 |
 | [アブサン](https://open.spotify.com/track/15T8Cgslf1egP4NX3KVmKP) | [Greecelove](https://open.spotify.com/artist/4Tv5ODUYO9KGuLmv2KtJ9A) | [無・無・無・無・無](https://open.spotify.com/album/7r2MtOjyJKmrZjpaUZ59MG) | 3:35 | 2023-11-21 |  |
 | [オーロラ](https://open.spotify.com/track/6ApWNvN5MRk5MdyDoxoOh0) | [toggle](https://open.spotify.com/artist/6CGPuICwE9tU5mZyGDtTeB) | [オーロラ / 帰ろう \- Single](https://open.spotify.com/album/3iAMo6dnNoILyyvBjaSeE3) | 5:43 | 2023-11-21 |  |
+| [サテライト](https://open.spotify.com/track/142nSIc5y8DXVfWmxQhQ4b) | [YUNOWA](https://open.spotify.com/artist/1Oi9jYhqRQffDoihkzMon8) | [Phantom](https://open.spotify.com/album/2fyaATeWHevI5dOgQ79oMX) | 4:08 | 2024-02-13 |  |
 | [メリーゴーランド](https://open.spotify.com/track/72VxnVlmdTNy5gePW3udEA) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [メリーゴーランド](https://open.spotify.com/album/614bxz7OLT117PPV9fssCJ) | 4:07 | 2023-11-21 |  |
 | [ロックンロール](https://open.spotify.com/track/6p78WwlWLHnTTxCXJfbJAN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [アンテナ](https://open.spotify.com/album/33msjdmr793xfoWcbCA8HD) | 4:10 | 2023-11-21 | 2024-01-14 |
 | [丸の内サディスティック](https://open.spotify.com/track/6PDL4t1R5m3kYN2qIumKc1) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Love & Groove Delivery](https://open.spotify.com/album/2ybDbV5RhfXim6vLWH2ymt) | 4:03 | 2023-11-21 |  |

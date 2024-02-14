@@ -1,12 +1,12 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 68035,
+  "num_followers": 68127,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjc2MzkzNmFiNmNhYTBjMzM4ZWRhNGU3ZmM5N2M5YTk1NjJiZjNl",
+  "snapshot_id": "MCwzMjMyMjI1MGYxNTg3NGU1MzMzNTljOWQwZDJmMzMxMmY4OWJmMzUz",
   "tracks": [
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Serie De Colecci\u00f3n 15 Autenticos \u00c9xitos",
-        "url": "https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI"
-      },
-      "artists": [
-        {
-          "name": "Los Muecas",
-          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Una Sola Ca\u00edda",
-      "url": "https://open.spotify.com/track/4oJxSefLxw6t1mjqEJcXsr"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 206066,
       "name": "Pecado Mortal",
       "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Serie De Colecci\u00f3n 15 Autenticos \u00c9xitos",
+        "url": "https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI"
+      },
+      "artists": [
+        {
+          "name": "Los Muecas",
+          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Una Sola Ca\u00edda",
+      "url": "https://open.spotify.com/track/4oJxSefLxw6t1mjqEJcXsr"
     },
     {
       "added_at": "2023-11-06 20:37:56",

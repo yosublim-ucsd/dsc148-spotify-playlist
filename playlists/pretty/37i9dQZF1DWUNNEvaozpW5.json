@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
-  "num_followers": 570349,
+  "num_followers": 570397,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmRmYTY2MGNhNzg0Y2U5MzNhNDE4MmRlMGVkMTE1OTI0NGJlMTVl",
+  "snapshot_id": "MCw4Zjc0ODUwMzJlMmE5YWU4YjcxNTI0NjExYWZlMGQ2Mjc1MzVkZDA2",
   "tracks": [
     {
       "added_at": "2024-02-09 09:18:56",
@@ -256,7 +256,7 @@
           "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 207706,
+      "duration_ms": 208101,
       "name": "El D\u00eda Que T\u00fa Te Marches",
       "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
     },
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "Negociando gasolina",
-        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 208839,
-      "name": "Buscando en la basura",
-      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
+        "name": "Negociando gasolina",
+        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 208839,
+      "name": "Buscando en la basura",
+      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
         "name": "Veo Veo Mamoneo",
         "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 243040,
       "name": "Masculino singular",
       "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2024-02-09 09:18:56",

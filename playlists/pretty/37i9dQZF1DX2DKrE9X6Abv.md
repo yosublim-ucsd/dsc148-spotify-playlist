@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain](/playlists/plain/37i9dQZF1DX2DKrE9X6Abv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2DKrE9X6Abv)
 
-### [\*end credits](https://open.spotify.com/playlist/37i9dQZF1DX2DKrE9X6Abv)
+### [end credits](https://open.spotify.com/playlist/37i9dQZF1DX2DKrE9X6Abv)
 
 > pov: you're in the edit
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,964 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,966 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 84 | [Writer](https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:01 |
 | 85 | [Outro](https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:07 |
 
-Snapshot ID: `MCw4MTg4MWU5ZjlkNTFiZmZhYTUxOTYxMzk5MGIyNGMxZjY5ODJjODRj`
+Snapshot ID: `MCxlY2YwYzVjYTczNDM2NjFmNDg2NTAwMzMwOTU1ODlmYmJiOGZlMzU3`

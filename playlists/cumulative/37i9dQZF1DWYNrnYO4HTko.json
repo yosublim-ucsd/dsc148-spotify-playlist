@@ -730,10 +730,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 154414,
       "name": "Holdin On",
       "url": "https://open.spotify.com/track/3ohupB1Wm1Cvcyre7rtS9p"
+    },
+    {
+      "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154414,
+      "name": "Holdin On",
+      "url": "https://open.spotify.com/track/6ERjyW3kpEZN9yHpLIRfxC"
     },
     {
       "album": {

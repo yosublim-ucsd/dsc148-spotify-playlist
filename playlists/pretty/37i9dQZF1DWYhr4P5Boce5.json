@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 201137,
+  "num_followers": 201157,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGY0OTQ3Y2MwMzc2MTgwN2RmZmQwODE4YWU2YTNjMTAzZGZiYWI1",
+  "snapshot_id": "MCw4ZjFjM2EyOTkwNmM0ZDY3ZTlhMTE2YzlhNzhkNmFlOWU2ZDliYjU1",
   "tracks": [
     {
       "added_at": "2024-02-05 17:58:02",
@@ -147,18 +147,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Cover Sessions, Vol. 4",
-        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
+        "name": "Perfectly Loved",
+        "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 216612,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550"
+      "duration_ms": 203683,
+      "name": "Perfectly Loved",
+      "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -179,22 +183,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Perfectly Loved",
-        "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
+        "name": "Cover Sessions, Vol. 4",
+        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
       },
       "artists": [
         {
-          "name": "Rachael Lampa",
-          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
-        },
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
         }
       ],
-      "duration_ms": 203683,
-      "name": "Perfectly Loved",
-      "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
+      "duration_ms": 216612,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
+        "name": "This Kind Of Love",
+        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
       },
       "artists": [
         {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 210372,
-      "name": "Dancing in the Minefields",
-      "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
+      "duration_ms": 184640,
+      "name": "This Kind Of Love",
+      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "This Kind Of Love",
-        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "This Kind Of Love",
-      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/6yMRfivaE9J89s9gvS4Mfi"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 175266,
       "name": "First Love",
       "url": "https://open.spotify.com/track/06AAsD9gLcedyXipo6IROq"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Dancing in the Minefields",
+      "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Meant to Be",
-        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Meant to Be",
-      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Another Song About Love",
-      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Fifteen",
-        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
       "artists": [
         {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
         }
       ],
-      "duration_ms": 237573,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1667,6 +1651,22 @@
       "duration_ms": 242746,
       "name": "Together",
       "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Fifteen",
+        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Britt Nicole (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Fallin In Love",
+      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Church Girls Love R&B - Girls Trip ll",
         "url": "https://open.spotify.com/album/6v5VS3app0uhJ8NLXuZ0jY"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 132000,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Britt Nicole (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Fallin In Love",
-      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "BEBECITA SHAWTY",
-        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
-      },
-      "artists": [
-        {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "BEBECITA SHAWTY",
-      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "You Got It",
         "url": "https://open.spotify.com/album/4Occb1qba04U62lIRLbzlF"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 180800,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "BEBECITA SHAWTY",
+        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "BEBECITA SHAWTY",
+      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2247,46 +2247,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/3j0qFagoLanhV9upwHLv93"
-      },
-      "artists": [
-        {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 173861,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
-      },
-      "artists": [
-        {
-          "name": "AO1 Collective",
-          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
-        },
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "a thousand shores (acoustic)",
         "url": "https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg"
       },
@@ -2303,6 +2263,26 @@
       "duration_ms": 259893,
       "name": "a thousand shores - acoustic",
       "url": "https://open.spotify.com/track/3ntWYBpmifeLpuKcXpMzqd"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3j0qFagoLanhV9upwHLv93"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 173861,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2339,6 +2319,26 @@
       "duration_ms": 198000,
       "name": "Only Time Will Tell",
       "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
+      },
+      "artists": [
+        {
+          "name": "AO1 Collective",
+          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Far Kingdom // Summer Sessions",
+        "url": "https://open.spotify.com/album/3iKuyGRbczWDnigOalSaq7"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Band of Gold // Summer Sessions",
+      "url": "https://open.spotify.com/track/4kwsg89ymfCXPPt4VdjsmJ"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Soul and Fire",
         "url": "https://open.spotify.com/album/21YGpglvEEaYRLN0e4MG7Q"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 218454,
       "name": "IOU",
       "url": "https://open.spotify.com/track/042ILs7k3vS7HDtUgBU8nl"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Far Kingdom // Summer Sessions",
-        "url": "https://open.spotify.com/album/3iKuyGRbczWDnigOalSaq7"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Band of Gold // Summer Sessions",
-      "url": "https://open.spotify.com/track/4kwsg89ymfCXPPt4VdjsmJ"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 180428,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/5R38BeQeBmVPzBTrvU24po"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Me + You = Pi",
         "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 169846,
       "name": "Me + You = Pi",
       "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 180428,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/5R38BeQeBmVPzBTrvU24po"
     },
     {
       "added_at": "2024-02-05 17:58:02",

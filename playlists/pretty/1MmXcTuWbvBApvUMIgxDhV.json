@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 6664,
+  "num_followers": 6677,
   "original_name": "Date Night At Home",
   "owner": {
     "name": "Dave Barnes",
     "url": "https://open.spotify.com/user/thedavebarnes"
   },
-  "snapshot_id": "Mjc5LGRlZmI1ZTIxMzlmM2ExNGVkYmU4NzA4ZmJhMjQ1NGMyY2YxNmRkODU=",
+  "snapshot_id": "MjkwLDhjMzUyOTk1NzYxOTVmYTllMmZhYmQyZDc4MTA3YzM0MjlkNmU4ZGU=",
   "tracks": [
     {
       "added_at": "2020-05-12 20:35:03",
@@ -39,6 +39,54 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/52FKX00U3PnzrBQmbMTB8b"
+    },
+    {
+      "added_at": "2023-12-13 15:32:09",
+      "album": {
+        "name": "Recently",
+        "url": "https://open.spotify.com/album/02nO8sjDUtPC1tPsKMdSPg"
+      },
+      "artists": [
+        {
+          "name": "Matt Wertz",
+          "url": "https://open.spotify.com/artist/6JVRYNneRsYNInT4TNr5vU"
+        }
+      ],
+      "duration_ms": 240701,
+      "name": "Recently",
+      "url": "https://open.spotify.com/track/0BHGsqVtDlTIZwNoE1RoMB"
+    },
+    {
+      "added_at": "2022-06-21 20:59:07",
+      "album": {
+        "name": "Remembering: Vol. 1",
+        "url": "https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 226244,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/25D6zIyudIsXSlDMy84d2Z"
+    },
+    {
+      "added_at": "2021-06-17 16:39:26",
+      "album": {
+        "name": "Love? Songs",
+        "url": "https://open.spotify.com/album/0UVHZWTkF9nlZBYWb4WVM0"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/5PT88kzZEjOlIQqXtdxfq3"
     },
     {
       "added_at": "2024-02-10 21:15:27",
@@ -89,22 +137,6 @@
       "url": "https://open.spotify.com/track/71uW8vimjz7N9045bcoyC8"
     },
     {
-      "added_at": "2023-11-07 14:07:46",
-      "album": {
-        "name": "Featherbrained Wealth Motel",
-        "url": "https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 138948,
-      "name": "I Don't Like Sleeping Without You",
-      "url": "https://open.spotify.com/track/19GG2n6ATXDTqUfoMpwfUl"
-    },
-    {
       "added_at": "2020-05-12 20:38:47",
       "album": {
         "name": "Brown Eyed Lover",
@@ -119,54 +151,6 @@
       "duration_ms": 238819,
       "name": "Brown Eyed Lover",
       "url": "https://open.spotify.com/track/2fewvKX1SzRMfNdQDnyoQj"
-    },
-    {
-      "added_at": "2022-06-21 20:59:07",
-      "album": {
-        "name": "Remembering: Vol. 1",
-        "url": "https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 226244,
-      "name": "God Gave Me You",
-      "url": "https://open.spotify.com/track/25D6zIyudIsXSlDMy84d2Z"
-    },
-    {
-      "added_at": "2023-12-13 15:32:09",
-      "album": {
-        "name": "Recently",
-        "url": "https://open.spotify.com/album/02nO8sjDUtPC1tPsKMdSPg"
-      },
-      "artists": [
-        {
-          "name": "Matt Wertz",
-          "url": "https://open.spotify.com/artist/6JVRYNneRsYNInT4TNr5vU"
-        }
-      ],
-      "duration_ms": 240701,
-      "name": "Recently",
-      "url": "https://open.spotify.com/track/0BHGsqVtDlTIZwNoE1RoMB"
-    },
-    {
-      "added_at": "2020-08-17 23:16:27",
-      "album": {
-        "name": "This Thing Called Living",
-        "url": "https://open.spotify.com/album/6VtxEWVdKRHUyRnrtC3K7r"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "You, Dear",
-      "url": "https://open.spotify.com/track/7pO8ZYgR52OTF2xmEa22wM"
     },
     {
       "added_at": "2021-06-17 16:38:14",
@@ -189,20 +173,36 @@
       "url": "https://open.spotify.com/track/3nlE0lXdkLubW5WdsJdbqZ"
     },
     {
-      "added_at": "2021-06-17 16:39:26",
+      "added_at": "2020-08-17 23:16:27",
       "album": {
-        "name": "Love? Songs",
-        "url": "https://open.spotify.com/album/0UVHZWTkF9nlZBYWb4WVM0"
+        "name": "This Thing Called Living",
+        "url": "https://open.spotify.com/album/6VtxEWVdKRHUyRnrtC3K7r"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
         }
       ],
-      "duration_ms": 189600,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/5PT88kzZEjOlIQqXtdxfq3"
+      "duration_ms": 187124,
+      "name": "You, Dear",
+      "url": "https://open.spotify.com/track/7pO8ZYgR52OTF2xmEa22wM"
+    },
+    {
+      "added_at": "2023-11-07 14:07:46",
+      "album": {
+        "name": "Featherbrained Wealth Motel",
+        "url": "https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 138948,
+      "name": "I Don't Like Sleeping Without You",
+      "url": "https://open.spotify.com/track/19GG2n6ATXDTqUfoMpwfUl"
     },
     {
       "added_at": "2020-05-12 20:38:34",
@@ -1227,6 +1227,22 @@
       "duration_ms": 226826,
       "name": "I Will Always Be Yours",
       "url": "https://open.spotify.com/track/4m1lB7qJ78VPYsQy7RoBcU"
+    },
+    {
+      "added_at": "2024-02-13 20:45:49",
+      "album": {
+        "name": "Brother, Bring the Sun",
+        "url": "https://open.spotify.com/album/6t3Flungcv9zkoADU6OBkm"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Nothing Fancy",
+      "url": "https://open.spotify.com/track/4dJPijKg7uCZjnblJcnvHB"
     },
     {
       "added_at": "2021-05-13 16:49:27",

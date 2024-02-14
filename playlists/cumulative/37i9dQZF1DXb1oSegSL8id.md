@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-108 songs - 5 hr 42 min
+109 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Fila Anda \- Ao Vivo](https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:57 | 2023-01-03 |  |
 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 | 2023-01-03 |  |
 | [Acaso](https://open.spotify.com/track/5AeydY71HZkZQ5dRHU9bHG) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Piseiro Atualizado](https://open.spotify.com/album/3idY4AEprTpacZXWLQyHgn) | 3:20 | 2023-01-03 |  |
+| [Adorei](https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Adorei](https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb) | 2:59 | 2023-11-17 |  |
 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 | 2023-01-03 |  |
 | [Alô Ambev \(Segue Sua Vida\) \- Ao Vivo](https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Mais Beijos Ao Vivo](https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT) | 2:49 | 2023-01-03 |  |
 | [Alô Ex\-Amor \- Ao Vivo](https://open.spotify.com/track/08I9PzelbafWeXufyvKL3S) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Alô Ex\-Amor \(Ao Vivo\)](https://open.spotify.com/album/5D84Xvu0CAC3JFKWqm3uvb) | 3:17 | 2023-01-03 |  |
@@ -32,7 +33,7 @@
 | [Bebi Liguei \- Ao Vivo](https://open.spotify.com/track/3RbXsVQr4jeTxvT35Hssq3) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:39 | 2023-01-03 |  |
 | [Bebi Minha Bicicleta \(Coração Falido\) \- Ao Vivo](https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Bebi Minha Bicicleta \(Coração Falido\) \(ao Vivo\)](https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP) | 2:59 | 2023-01-03 | 2024-01-05 |
 | [Cansar Você](https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Cansar Você](https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK) | 2:56 | 2023-01-03 |  |
-| [Carona do Amor / Shortinho Saint\-Tropez / Novos Tempos](https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Churrasquinho Menos É Mais, Vol\. 2](https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv) | 6:21 | 2023-01-03 |  |
+| [Carona do Amor / Shortinho Saint\-Tropez / Novos Tempos](https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Churrasquinho Menos É Mais, Vol\. 2](https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv) | 6:21 | 2023-01-03 | 2024-02-14 |
 | [Carreira Solo \- Ao Vivo](https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:35 | 2023-01-03 | 2024-02-05 |
 | [Cheia de Manias](https://open.spotify.com/track/1XNdu4czbxZ9tdVOhDtI4M) | [Raça Negra](https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt) | [Grandes Sucessos](https://open.spotify.com/album/7oEbEk1KjiSx4VyYeCZXum) | 3:31 | 2023-01-03 |  |
 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 | 2023-01-03 |  |

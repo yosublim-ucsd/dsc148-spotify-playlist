@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=bchBwM8pSMCVV6k2W385Cw">Joshua Baraka</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq?si=OQUaJQCHS8WoWWwL08BgKA">Loyz</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,657 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,662 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dreams](https://open.spotify.com/track/1feOZXx1nAvxmkf4KKgmhI) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 3:06 |
-| 2 | [I'm Late](https://open.spotify.com/track/1CKF1IRTQ6IpguGRWVuYJ7) | [Loyz](https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq) | [I'm Late](https://open.spotify.com/album/0uaRB2AQwTbVW5cLaKCZOs) | 2:33 |
+| 1 | [I'm Late](https://open.spotify.com/track/1CKF1IRTQ6IpguGRWVuYJ7) | [Loyz](https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq) | [I'm Late](https://open.spotify.com/album/0uaRB2AQwTbVW5cLaKCZOs) | 2:33 |
+| 2 | [Dreams](https://open.spotify.com/track/1feOZXx1nAvxmkf4KKgmhI) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 3:06 |
 | 3 | [4am](https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4am](https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD) | 3:11 |
 | 4 | [Day One](https://open.spotify.com/track/3YzUIlfLuv53ssSn8YCtyQ) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Day One](https://open.spotify.com/album/3H51Qj4Aty2rnlM7hHS0vY) | 3:11 |
 | 5 | [Space Roof](https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [Space Roof](https://open.spotify.com/album/7oCvqhcoi5BuXuVZSukM9R) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 |
 | 50 | [Ndo Livhuwa](https://open.spotify.com/track/5ECBbluQXHq9cstS7dOex0) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Given Da Chief](https://open.spotify.com/artist/4LhhZtFrNLid7dqnqIy0QV) | [Ndo Livhuwa](https://open.spotify.com/album/5h3inLRt9hyAfBLGXLtosY) | 5:12 |
 
-Snapshot ID: `MCwyMWZlODRmYjgzZTkxMDRkMTI1MDU1OTc5MmYzZjI5ODIwNzhlNGMw`
+Snapshot ID: `MCw5YzZiZjQ4YmI4N2ZkMDBhYTg0ZDI3NzI2NmUxYWRlN2RmNzFiOWE1`

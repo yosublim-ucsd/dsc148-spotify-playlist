@@ -1953,6 +1953,32 @@
     },
     {
       "album": {
+        "name": "Unfoggy Sight",
+        "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        },
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260560,
+      "name": "Unfoggy Sight",
+      "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
+    },
+    {
+      "album": {
         "name": "Up to the nines",
         "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
       },
@@ -2102,7 +2128,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 247360,
       "name": "YOUR RHAPSODY",
       "url": "https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD"

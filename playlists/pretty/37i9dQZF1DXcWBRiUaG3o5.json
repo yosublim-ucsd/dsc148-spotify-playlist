@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1271379,
+  "num_followers": 1271356,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQyZGRjOTYyZGM4Y2E0ZTdjOGViOTgxMzRiYzNjZDI5ZTg4ZWQy",
+  "snapshot_id": "MCw3ODBmZmEyN2UzNjdkZmUyOWMxMzhkM2FjMjEzYmJkOGVmZDA4OWE3",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
-      },
-      "artists": [
-        {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Fortune - Acoustic",
-      "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 264452,
       "name": "Motion Sickness (Demo - Bonus Track)",
       "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Fortune - Acoustic",
+      "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Colder Heavens - EP",
         "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -643,6 +643,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Nocturne - EP",
+        "url": "https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Nocturne - EP",
-        "url": "https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 155062,
+      "name": "The Moons Detriment",
+      "url": "https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 241946,
       "name": "Silk (feat. Thelma Plum)",
       "url": "https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 155062,
-      "name": "The Moons Detriment",
-      "url": "https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Tragedy Reel",
+        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 338639,
       "name": "Stop Your Tears",
       "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Tragedy Reel",
-        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
-      },
-      "artists": [
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Year In The Kingdom",
-        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
-      },
-      "artists": [
-        {
-          "name": "J. Tillman",
-          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Howling Light",
-      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Back to Love",
-        "url": "https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5"
+        "name": "Year In The Kingdom",
+        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
       },
       "artists": [
         {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
         }
       ],
-      "duration_ms": 231120,
-      "name": "Back to Love",
-      "url": "https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI"
+      "duration_ms": 214640,
+      "name": "Howling Light",
+      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Back to Love",
+        "url": "https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Back to Love",
+      "url": "https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi"
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
       "artists": [
         {
-          "name": "Pete Josef",
-          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 240340,
-      "name": "Sunny Side Up",
-      "url": "https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7"
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     }
   ],
   "unique_name": "Evening Acoustic",

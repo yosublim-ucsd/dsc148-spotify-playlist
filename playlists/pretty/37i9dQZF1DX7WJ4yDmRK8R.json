@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 369731,
+  "num_followers": 369816,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWU0Y2QxOGMzODMxN2MxMTk1N2MwMzBmZTU2ZDRjMDE4ZDkyYzcx",
+  "snapshot_id": "MCxhMWExYjU0YzhlYmJmMmY0ZTFiZTY2MDM4ZTcxODFlMDBjOGQ1Y2I3",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "The Best Of Us For The Rest Of Us",
         "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Big Daddy Multitude (2010 Re-Issue)",
-        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Mr. Smiley",
-      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Duck and Cover",
         "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 121666,
       "name": "Road Rash",
       "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Big Daddy Multitude (2010 Re-Issue)",
+        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Mr. Smiley",
+      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Too Much Pressure",
-        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
-      },
-      "artists": [
-        {
-          "name": "The Selecter",
-          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Too Much Pressure",
-      "url": "https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 143166,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Too Much Pressure",
+        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Too Much Pressure",
+      "url": "https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Middle Finger",
         "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "In Black And White",
-        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
       "artists": [
         {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 137960,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+        "name": "In Black And White",
+        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Life Won't Wait",
-      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+      "duration_ms": 137960,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "A Good Day for the Damned",
-        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
-      },
-      "artists": [
-        {
-          "name": "Jaya The Cat",
-          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 170800,
       "name": "Don't Let the Bastards Grind You Down",
       "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "A Good Day for the Damned",
+        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
+      },
+      "artists": [
+        {
+          "name": "Jaya The Cat",
+          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Evildoers Beware!",
-        "url": "https://open.spotify.com/album/0ZF8cAEXlbQNTF7fQM1gPe"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1xvnm1ufz1gjM3vOu9T8V5"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Evildoers Beware!",
+        "url": "https://open.spotify.com/album/0ZF8cAEXlbQNTF7fQM1gPe"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1xvnm1ufz1gjM3vOu9T8V5"
     },
     {
       "added_at": "2024-01-19 06:00:00",

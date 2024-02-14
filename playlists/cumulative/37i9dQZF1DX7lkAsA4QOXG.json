@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Late Night Herbie Hancock",
+        "url": "https://open.spotify.com/album/6gnhEM1JLltKA6ophLSrDF"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/6O0FfT5Bug1jwow4fjgm4B"
+    },
+    {
+      "album": {
         "name": "A Day In The Life: Impressions Of Pepper",
         "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 282737,
       "name": "Bullet With Butterfly Wings",
       "url": "https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B"

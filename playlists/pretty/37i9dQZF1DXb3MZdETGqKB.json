@@ -1,13 +1,53 @@
 {
   "description": "All new, all blues. Cover: Gary Clark Jr.",
-  "num_followers": 145988,
+  "num_followers": 146016,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjhjMjM3ZTJiODU4ZDI0ZGNiNmU3MTZmNGIyMDFkYTBlMTdkYjI1",
+  "snapshot_id": "MCxmMTU3OTFhMWY5YmE4NmU1YzNjNmFmY2VkNGE1MmVkZGU4MmE1ZjBl",
   "tracks": [
+    {
+      "added_at": "2024-02-13 18:01:41",
+      "album": {
+        "name": "Run For Cover",
+        "url": "https://open.spotify.com/album/0Lz7mQyFpcf4a7GSokAOps"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 173803,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/3fXOZy6tSY2rc0EiS4VE6o"
+    },
+    {
+      "added_at": "2024-02-13 18:01:41",
+      "album": {
+        "name": "Strange Times",
+        "url": "https://open.spotify.com/album/72Jr6CcXW3iKlyI3Dc0Vmp"
+      },
+      "artists": [
+        {
+          "name": "Omar Coleman",
+          "url": "https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Eric Benny Bloom",
+          "url": "https://open.spotify.com/artist/5iaAaY9BB6p5HFHdE8G0Ao"
+        }
+      ],
+      "duration_ms": 299200,
+      "name": "Crazy About You",
+      "url": "https://open.spotify.com/track/0rsOjOujuzph8cXH3ba7Ea"
+    },
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
@@ -1621,22 +1661,6 @@
       "url": "https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "The Bartholomew Songs",
-        "url": "https://open.spotify.com/album/24cBWx1hlT9GUBZBOJjcal"
-      },
-      "artists": [
-        {
-          "name": "Maggie Koerner",
-          "url": "https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe"
-        }
-      ],
-      "duration_ms": 232886,
-      "name": "If I Die",
-      "url": "https://open.spotify.com/track/2qvaNzPEW25IuKwrM4hNOU"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Mansplaining",
@@ -1767,26 +1791,6 @@
       "duration_ms": 162821,
       "name": "Can't Judge a Book By It's Cover",
       "url": "https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Biggest Little Secret",
-        "url": "https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN"
-      },
-      "artists": [
-        {
-          "name": "Amber Woodhouse",
-          "url": "https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ"
-        },
-        {
-          "name": "Wilderwater",
-          "url": "https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "Biggest Little Secret",
-      "url": "https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw"
     }
   ],
   "unique_name": "Nu-Blue",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=0sjVWfxTQe6yBJa9p0wMig>Abbey Ojomu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,458 likes - 99 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,493 likes - 99 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [Praise You](https://open.spotify.com/track/3OCjr7dR2Gj5G7EDAuNoIy) | [Blessing Oghie](https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn) | [Praise You](https://open.spotify.com/album/0coafqDwin3oqBT1PeRP4C) | 3:52 |
 | 99 | [right on time](https://open.spotify.com/track/76k4FjyawxbCKQB6iZgSz7) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [right on time](https://open.spotify.com/album/5BV4LwixG89LDAmMsXaj5q) | 2:35 |
 
-Snapshot ID: `MCxkMzc1ZDc0MmE0OTgzOGNiOTEwYzc0MGY4NzMwMzdmNjk4NmY3YzZk`
+Snapshot ID: `MCw1MmUxNTIxMTBlMzM3OWQzZThjYmUwZmZiMjg0N2ZjYmViZjgzYjI0`

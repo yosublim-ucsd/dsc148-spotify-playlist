@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Beleza Rara - O melhor De Banda Eva",
+        "url": "https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242173,
+      "name": "Alo Paixao",
+      "url": "https://open.spotify.com/track/23WC3lIxCNoVoe00MTyE1T"
+    },
+    {
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -282,7 +300,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 212500,
       "name": "Bloco do Prazer",
       "url": "https://open.spotify.com/track/6PkvVJOKenUc7a2qf9QhQH"

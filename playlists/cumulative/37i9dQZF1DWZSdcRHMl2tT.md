@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-411 songs - 20 hr 39 min
+414 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 | 2022-07-15 |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2022-04-05 | 2022-05-20 |
 | [COCKTAILS & COCONUTS](https://open.spotify.com/track/6WQFL3SRK8eHviCbX6D7xK) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [BUNGALOW ANTHEM](https://open.spotify.com/album/0SEbWWn9LjHvSMBY4FXCPG) | 2:32 | 2023-11-14 |  |
+| [Cold Sun](https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Cold Sun / Burning Moon](https://open.spotify.com/album/4yWqjOUu5hLriv3gcAlf3A) | 2:39 | 2024-02-13 |  |
 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 | 2023-04-28 |  |
 | [Come With Me](https://open.spotify.com/track/2778ucz8lkSP0Efmol7VO0) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Come With Me](https://open.spotify.com/album/5DqD3yuOiuaWyArTzCErwl) | 3:02 | 2022-05-27 | 2022-07-01 |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2022-04-05 |  |
@@ -242,6 +243,7 @@
 | [mountain](https://open.spotify.com/track/2ESkSYaMnGAUy8gDba6Yg5) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4FuF8OKCgjUFDV3OdEbus9) | 1:54 | 2022-10-28 | 2023-03-30 |
 | [mountain](https://open.spotify.com/track/3uZy1y9JuMAGTtBwCqKMt1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/1WsIywiW8a84ekqfvcsMot) | 1:54 | 2022-07-29 | 2022-11-20 |
 | [mountain](https://open.spotify.com/track/6JtMovP0UgsvVVf1vASe6E) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4GeP2NS4IWAa9gf24uAz6W) | 1:54 | 2023-03-16 | 2023-07-29 |
+| [Move In Space](https://open.spotify.com/track/3DpZoWO5g77GIDp3aGWHEp) | [Midnight Side Eye](https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3) | [Move In Space](https://open.spotify.com/album/4jr2jgt1PkVXXQcf8iiGXO) | 2:54 | 2024-02-13 |  |
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-04-05 |  |
 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 | 2022-04-05 | 2022-07-29 |
 | [Naxos Sunset](https://open.spotify.com/track/0qriqL4uIcM7tSRvd2nsbF) | [Pink Villa](https://open.spotify.com/artist/4PtcKLZL32MSk0wzcJM2mk) | [Naxos Sunset](https://open.spotify.com/album/4joPms8KMyzOsh9tY4MLdb) | 2:11 | 2023-11-14 |  |
@@ -278,6 +280,7 @@
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-05 |  |
 | [Passing By](https://open.spotify.com/track/28lMyaJBMmgvw4Cn4OvoeH) | [Monday Motive](https://open.spotify.com/artist/4bCmFKZPJZBIZeQ5qVzIyN) | [Passing By](https://open.spotify.com/album/7tj4fpjyhDvNyPgp76Zhlb) | 3:05 | 2022-04-05 | 2022-07-29 |
 | [Peaceful Nature](https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql) | [Qeeo](https://open.spotify.com/artist/6E5CtHXk5zbfF6bmi6oVAE) | [Sunny Girl](https://open.spotify.com/album/7kjXdIPtoAKaKnfNkLRgs8) | 2:41 | 2022-04-05 | 2022-06-10 |
+| [Peach Perfect](https://open.spotify.com/track/7K6gOJzKCvjPy8CFcvNJ0Y) | [Monsieur Sémillon](https://open.spotify.com/artist/1R9RaHyXcL3HUOh0Nbcwq3) | [Peach Perfect](https://open.spotify.com/album/4WqfKyacXs3iVH1F8TliOq) | 2:19 | 2024-02-13 |  |
 | [Peachess](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Peachess](https://open.spotify.com/album/0nSvJfCCj7OTvGGhjGysyw) | 2:51 | 2022-08-19 |  |
 | [Pictures](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Pictures](https://open.spotify.com/album/4xgDVe0RqOtwegdGP21AFR) | 2:55 | 2022-07-22 |  |
 | [Pinkland](https://open.spotify.com/track/3NrEA3JQTvVFfy6BMPy8EH) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 5:29 | 2022-04-15 | 2022-07-22 |
@@ -347,7 +350,7 @@
 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 | 2022-04-05 |  |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2022-04-05 |  |
 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-04-05 |  |
-| [Strawberry](https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Strawberry](https://open.spotify.com/album/40jbMwX71uTzhMKgCtxVyD) | 1:52 | 2024-01-19 |  |
+| [Strawberry](https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Strawberry](https://open.spotify.com/album/40jbMwX71uTzhMKgCtxVyD) | 1:52 | 2024-01-19 | 2024-02-14 |
 | [Street Spiritz](https://open.spotify.com/track/1WUpnPChiUlbXUTRLTQTQn) | [Lo & Fozzi](https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW) | [Street Spiritz](https://open.spotify.com/album/5QczpcElPjhWavkrkyBDEs) | 3:46 | 2022-04-05 | 2022-05-20 |
 | [suddenly](https://open.spotify.com/track/2In6PrEuJro3m27l29YTG3) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4bKj6LaBsp7wog0ZeYro6j) | 3:35 | 2022-10-28 | 2022-12-14 |
 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 | 2022-07-29 | 2022-11-20 |

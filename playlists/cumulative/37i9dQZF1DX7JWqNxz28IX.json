@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
+  "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, kid vice)",
   "name": "ragazzo triste",
   "tracks": [
     {
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
@@ -4000,7 +4000,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 129854,
       "name": "Semiminime",
       "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
@@ -4054,7 +4054,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 137137,
       "name": "setiva",
       "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
@@ -4384,6 +4384,24 @@
     {
       "album": {
         "name": "Star Shopping",
+        "url": "https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Star Shopping",
+      "url": "https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"
+    },
+    {
+      "album": {
+        "name": "Star Shopping",
         "url": "https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD"
       },
       "artists": [
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -4416,6 +4434,24 @@
       "duration_ms": 89832,
       "name": "sto bene, a volte",
       "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
+    },
+    {
+      "album": {
+        "name": "strappami la pelle a morsi",
+        "url": "https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139157,
+      "name": "strappami la pelle a morsi",
+      "url": "https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9"
     },
     {
       "album": {

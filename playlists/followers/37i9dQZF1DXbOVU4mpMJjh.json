@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 808987,
+  "2024-02-14": 809032,
   "date_first_scraped": "2022-04-20",
   "description": "Relax to gentle vocal and instrumental Jazz.",
   "name": "Jazz Relax",
@@ -9556,6 +9556,24 @@
     },
     {
       "album": {
+        "name": "Let's Have Lunch at the Counter",
+        "url": "https://open.spotify.com/album/3YcoF3yc2mpOsBCBO1dOwE"
+      },
+      "artists": [
+        {
+          "name": "Bridgerton Vail",
+          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Let's Have Lunch at the Counter",
+      "url": "https://open.spotify.com/track/7GsguN3kbzxm2n4kCEbXUf"
+    },
+    {
+      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -16135,7 +16153,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 185323,
       "name": "That Lingering Feeling",
       "url": "https://open.spotify.com/track/3hCYV3GlOiuywPLW6zchgr"

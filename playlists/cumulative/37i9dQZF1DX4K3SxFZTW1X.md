@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-53 songs - 2 hr 46 min
+54 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-09-01 |  |
 | [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 | 2023-09-01 |  |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2023-09-01 |  |
-| [white tee](https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 2:12 | 2023-09-01 |  |
+| [white tee](https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 2:12 | 2023-09-01 | 2024-02-14 |
+| [white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/2tLt6wYVuseWCe6IwDSlTm) | 2:12 | 2023-09-01 |  |
 | [YAKUZA TIES](https://open.spotify.com/track/0dIfSEyjNJsdTzJKdBC2co) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 1:56 | 2023-09-01 |  |
 
 \*This playlist was first scraped on 2023-09-02. Prior content cannot be recovered.

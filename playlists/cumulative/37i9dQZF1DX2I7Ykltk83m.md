@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-375 songs - 22 hr 48 min
+376 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Crystal Ball](https://open.spotify.com/track/5ss3wJBeekHuiFyGKqdzhz) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [Edge Of Time](https://open.spotify.com/album/0c4suoLZVkKVYDTsXtKANs) | 4:07 | 2022-04-01 | 2022-07-17 |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2022-05-20 |  |
 | [damn](https://open.spotify.com/track/7b65panSasCPOujs0KQ9bQ) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [damn](https://open.spotify.com/album/11TthQBZYjLQWEO544pC3y) | 4:21 | 2021-11-14 | 2022-07-29 |
-| [Dear Arkansas Daughter](https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8) | 5:52 | 2023-06-26 |  |
+| [Dear Arkansas Daughter](https://open.spotify.com/track/3MOFjpuUDhYCAXYcjYb3FI) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/5FTbfiQJOsb6WvZY9xMSM2) | 5:52 | 2023-10-27 |  |
+| [Dear Arkansas Daughter](https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8) | 5:52 | 2023-06-26 | 2024-02-14 |
 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 | 2021-11-14 | 2022-07-29 |
 | [Destroyer](https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL) | 3:12 | 2022-05-20 |  |
 | [Destroyer](https://open.spotify.com/track/4V7NFI2JLLJcZnGgJpIYXQ) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/5GFULjIyZ5Yf02OE2sKrPJ) | 3:12 | 2021-11-14 | 2022-07-26 |

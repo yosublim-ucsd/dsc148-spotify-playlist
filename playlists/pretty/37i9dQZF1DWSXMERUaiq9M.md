@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,327 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,575 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 39 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
 | 40 | [4Ever](https://open.spotify.com/track/3CdW8qNnxEtnn3yy3SkHFb) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [4Ever](https://open.spotify.com/album/3fJ1EFpVELMmCNZ4QbKmo5) | 2:45 |
 | 41 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
-| 42 | [My Little White Pony](https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel) | 4:59 |
-| 43 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 |
-| 44 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 |
+| 42 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 |
+| 43 | [My Little White Pony](https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel) | 4:59 |
+| 44 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 |
 | 45 | [90s Baby](https://open.spotify.com/track/6yBBevO7I1HTgUcNMSPbis) | [AREA ØNE](https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK), [Niotech](https://open.spotify.com/artist/6a3jFv7dkvf9HWPD5wjkof) | [90s Baby](https://open.spotify.com/album/2l6173A8dMuQ7RyR16VMb3) | 5:15 |
 | 46 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 |
 | 47 | [Who is Batman?](https://open.spotify.com/track/6a9x9suzLuuv6UcdU7f5g7) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F) | [Who is Batman?](https://open.spotify.com/album/7CzqcjaP8zcHeShZZ9i2hZ) | 4:04 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 71 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 | 72 | [Can't Forget U](https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx) | [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Can't Forget U](https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8) | 1:56 |
 | 73 | [No Air](https://open.spotify.com/track/2gs6SQlgCap3dW1nLm8WNb) | [FZA](https://open.spotify.com/artist/2H6aOJ4VEbPsFr8OD3KWg2) | [No Air](https://open.spotify.com/album/4gFzlb733pLB8lT6cfjHwn) | 3:21 |
-| 74 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
-| 75 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 |
+| 74 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 |
+| 75 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
 
-Snapshot ID: `MCw1YzNlNGUwNGY5YWE5OGZiODk2MjVmZmI5YTY4YWZmMTAxOTQ0ZWQz`
+Snapshot ID: `MCxmOTllMzRlNWNlNDU3NDNmZjYzNmE1YWNjZTU3M2ZhMmQ5NTZkNmNm`

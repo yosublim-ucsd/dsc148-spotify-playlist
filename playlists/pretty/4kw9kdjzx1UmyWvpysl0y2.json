@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126433,
+  "num_followers": 126436,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU1NiwyMzkyM2FjN2E1YmMxMDVkYTgzZDRkZmFjNWU5OThhOWJkYzU4MzNk",
+  "snapshot_id": "NDU1OSw5YzY5MjRmODFkNzQ5NmU4MGY3ZmU3MmY5OWM5NDEzN2ZiMzE5ZjE1",
   "tracks": [
+    {
+      "added_at": "2024-02-13 09:57:01",
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/10alSsU3B9fySetvtSSoyR"
+      },
+      "artists": [
+        {
+          "name": "Faodail",
+          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
+        }
+      ],
+      "duration_ms": 220614,
+      "name": "Turning",
+      "url": "https://open.spotify.com/track/1syjpaCUrigJLbsdvBL2g6"
+    },
     {
       "added_at": "2024-02-12 19:33:28",
       "album": {
@@ -1123,30 +1139,6 @@
       "duration_ms": 163200,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/3suSF65zOkTbdxe4Rqq4fl"
-    },
-    {
-      "added_at": "2023-10-31 14:58:38",
-      "album": {
-        "name": "Shadow Of A Doubt",
-        "url": "https://open.spotify.com/album/2cS8m6qoyA62n92HZI0vW3"
-      },
-      "artists": [
-        {
-          "name": "LAR",
-          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
-        },
-        {
-          "name": "Fagin",
-          "url": "https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV"
-        },
-        {
-          "name": "Marg Pappas",
-          "url": "https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Shadow Of A Doubt",
-      "url": "https://open.spotify.com/track/0AwHF7s6EaX2cTDOvKCe7f"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

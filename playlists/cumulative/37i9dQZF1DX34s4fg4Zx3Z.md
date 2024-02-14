@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-1,494 songs - 3 day 15 hr 29 min
+1,498 songs - 3 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Gương](https://open.spotify.com/track/2TyQWAOJjGSoCzgM7iVwWi) | [An Thiện](https://open.spotify.com/artist/4zmJvzP4zvw8easnYnXEmx) | [Gương](https://open.spotify.com/album/3zFO74q3Y46FFPDS4eTPvC) | 3:52 | 2023-05-22 | 2023-06-05 |
 | [Gương Thần](https://open.spotify.com/track/2g7Ben609e1RQsPCy87Lp1) | [Sona](https://open.spotify.com/artist/350AkrG58FEwakiQekOcZz) | [Gương Thần](https://open.spotify.com/album/4lLGuRaqGxMpN3v0woKEYT) | 3:19 | 2022-09-22 | 2022-09-28 |
 | [Gặp Gỡ Muộn Màng](https://open.spotify.com/track/1gKJc9BVCaRuLT6XXzhSJa) | [Đinh Uyên](https://open.spotify.com/artist/2Zb2MjCUIj7trrYFrnUDDq) | [Gặp Gỡ Muộn Màng](https://open.spotify.com/album/3ZbsoV57Kn4ExSNxO9Zloj) | 5:02 | 2022-10-06 | 2023-03-05 |
+| [Gọi cho anh](https://open.spotify.com/track/0ipp9Y0rEvepLb4WA2DRyT) | [SuperC](https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo) | [The Game](https://open.spotify.com/album/6YqsEnoZwUyrjFIZ1EsNtc) | 2:33 | 2024-02-14 |  |
 | [Gọi Cho Anh](https://open.spotify.com/track/0xJGa0K3KvrlpMZsdzeayG) | [Thai Son](https://open.spotify.com/artist/1JEYPHTPWUuKR38zPFW7IW) | [HOTPOT](https://open.spotify.com/album/2TVD6DSUbNed2M7Ebb0pkl) | 3:29 | 2022-01-26 | 2022-02-09 |
 | [Gọi về quá khứ](https://open.spotify.com/track/53iJfbwdUS7RXiW6gw3H9d) | [da/md](https://open.spotify.com/artist/3rfioXxHtUmA66MpuKdozJ) | [Gọi về quá khứ](https://open.spotify.com/album/1RZEGdjLoqy6lbRGMcxOn3) | 3:27 | 2023-11-23 | 2023-11-30 |
 | [Gửi Chúng Ta Của Thời Gian Ấy](https://open.spotify.com/track/4zBwI3oID39SfX1Lf1bSO4) | [Nhâm Nhựt Vân](https://open.spotify.com/artist/4srmDZhTFeLBiyE4coHJRi) | [Gửi Chúng Ta Của Thời Gian Ấy](https://open.spotify.com/album/77fWGqh3T6nci4j3zcnZL6) | 4:23 | 2022-05-24 | 2022-06-17 |
@@ -1252,6 +1253,7 @@
 | [Tại Sao Không Nói](https://open.spotify.com/track/1N4T4aZm8lIEAqL2oSafId) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [Tại Sao Không Nói](https://open.spotify.com/album/3rTrGvjT9ZMERZqLPlWVBh) | 4:49 | 2023-05-16 |  |
 | [Tại Sao Lòng Vòng](https://open.spotify.com/track/6yTAqa3VKX9kYKjFjXOrWA) | [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Tại Sao Lòng Vòng](https://open.spotify.com/album/5GALPxkR2SfEIbWwe10DRz) | 2:46 | 2022-07-13 | 2022-08-14 |
 | [tản mạn.](https://open.spotify.com/track/2x1yZYCoFEgz3nfoOBgvWn) | [Tommy](https://open.spotify.com/artist/1KU8k8INXcG3XixOeNXPCW) | [tản mạn.](https://open.spotify.com/album/6zunXP86r6mca3KeeASn2H) | 2:10 | 2022-01-06 | 2022-01-21 |
+| [Tảo Cua](https://open.spotify.com/track/5GtuIVekoRvdiPrqtUamPE) | [UYN](https://open.spotify.com/artist/7B221wMn0hUKAdVIhHFn3X), [AK49](https://open.spotify.com/artist/0PsYNWoA9eUOHO4VUOSp8F), [Xám](https://open.spotify.com/artist/0OzWJ833Wac4o3SAh38s7i) | [Tảo Cua](https://open.spotify.com/album/4Cy2WTxnmB59y1OyfVrzD8) | 3:37 | 2024-02-14 |  |
 | [Tầm Mây](https://open.spotify.com/track/7N1A56PSiLbVmM99wc4ngA) | [Wi](https://open.spotify.com/artist/60PIKpF8i5rUdvycHpWpAd), [Rum](https://open.spotify.com/artist/2FzQt1F2hU6M2h0w9AZ6kT) | [Tầm Mây](https://open.spotify.com/album/64HN4C5hYaK0KW4BvVKgn4) | 4:02 | 2023-03-04 | 2023-04-09 |
 | [Tập](https://open.spotify.com/track/5xMFav8sLFOCk9n94foNHp) | [Tylr Without E](https://open.spotify.com/artist/0AchXzEWwA0gdl4NgDilRa), [Wee](https://open.spotify.com/artist/6A2e3Sd5N2GczFJyzm0gFi), [TFlash](https://open.spotify.com/artist/6BhstfPnEBoR7CstNIxovs) | [Tập](https://open.spotify.com/album/7KsKh3iew0Wgz0mIrBDBPm) | 5:22 | 2023-11-22 | 2023-11-30 |
 | [Tỉnh!!!](https://open.spotify.com/track/1xZG2hHl4eWUBuUDMPnNMz) | [Thamz](https://open.spotify.com/artist/1J3gv3qQ2oZlgknBdqh7st) | [Tỉnh!!!](https://open.spotify.com/album/4yeKEtT6jnl3lU2iE7m1LB) | 3:19 | 2022-02-07 | 2022-02-22 |
@@ -1332,6 +1334,7 @@
 | [về nhà ăn cơm](https://open.spotify.com/track/0p5IsaYs1NORTYm9sGdoVE) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Phanh nèe](https://open.spotify.com/artist/7Gw2yW6mWrj0IEDhW9WOQE) | [về nhà ăn cơm](https://open.spotify.com/album/6G0NSG8Qhh94UlJypARzFx) | 4:20 | 2022-06-16 | 2023-01-06 |
 | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/track/2hm0zneWHp95ahOp3tZ4id) | [Bơ](https://open.spotify.com/artist/14Hk06CVNkpu9cvTvUQivi), [D Aces](https://open.spotify.com/artist/60tSwWmk52m7UJXoVDLqYa) | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/album/0DdZXBHIEpZL9wSw876uM4) | 4:39 | 2023-06-07 | 2023-06-30 |
 | [Vị Son Môi](https://open.spotify.com/track/07COmDP7r58Oxd1StzcsaB) | [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1) | [Vị Son Môi](https://open.spotify.com/album/2w9o4LzSgNXR4hUpyzEAgO) | 4:10 | 2022-10-06 | 2023-03-10 |
+| [Vớ Vẩn](https://open.spotify.com/track/3ZPFZihOWSpSmDyQQZHMtp) | [H2N](https://open.spotify.com/artist/1YGubsONDzyJQMvWpirChb) | [Vớ Vẩn](https://open.spotify.com/album/5T6iNhsjL3tY0Xn9qUnbAn) | 2:47 | 2024-02-14 |  |
 | [Với em anh là gì? \- Sang](https://open.spotify.com/track/4rKQB0uvS6Mdvcv1quHFiB) | [\#SSdaRealest](https://open.spotify.com/artist/10wPOKgSR6fBgohk23b226), [Tr.M](https://open.spotify.com/artist/533XALivP2buJd5Ghsm38o) | [Với em anh là gì? \- Sang](https://open.spotify.com/album/57VIdaDXnPMx991FfPKgyu) | 4:17 | 2023-07-06 | 2023-07-27 |
 | [Vợ Nhặt](https://open.spotify.com/track/33GPvxvDxXbKtiEVWo7P8J) | [Thai Son](https://open.spotify.com/artist/1JEYPHTPWUuKR38zPFW7IW) | [Vợ Nhặt](https://open.spotify.com/album/7dlfUANvzCVKBhufDs2VHK) | 3:08 | 2023-06-21 | 2023-07-07 |
 | [waduroi](https://open.spotify.com/track/0ogs3mXxSzhTE3lCNhbYJj) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [waduroi](https://open.spotify.com/album/7xCynua5lTFmOk2tCEIwLk) | 2:14 | 2023-10-13 | 2023-11-17 |
@@ -1422,6 +1425,7 @@
 | [Điều Chưa Nói](https://open.spotify.com/track/5pkhVHF0CJDORwSRVHLupv) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [ScripB](https://open.spotify.com/artist/0ZRXxeevIDp4TZ7RRd9nPm) | [Điều Chưa Nói](https://open.spotify.com/album/6hmNhO3Gw54qhlPE6w5pCv) | 3:25 | 2022-07-23 | 2022-09-09 |
 | [Điều Em Không Muốn Nghe](https://open.spotify.com/track/7yvvZbAEKJl47we9pxOYPv) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Điều Em Không Muốn Nghe](https://open.spotify.com/album/7MzA26h6anYI8Mr8pc8vMV) | 3:30 | 2023-06-13 | 2023-06-30 |
 | [ĐIỀU HÒA](https://open.spotify.com/track/45Hg3PGC23Zb2Gbsuushgc) | [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1) | [ĐIỀU HÒA](https://open.spotify.com/album/0svrU99Yv1BWQlIDfjMuq7) | 3:26 | 2022-06-16 | 2022-06-27 |
+| [Điểm Giao Cuối](https://open.spotify.com/track/7jps4UzACj1VAySbMacgxG) | [502 Ocean](https://open.spotify.com/artist/0Kt6VpEHduO4ONq6f8rSTg) | [Những Kẻ Vãng Lai](https://open.spotify.com/album/7c2iZYptziED42ho9LEo0K) | 4:11 | 2024-02-14 |  |
 | [điệu valse cuối](https://open.spotify.com/track/2vgHb85Gk8xtTKt4VcmkNZ) | [Hekii](https://open.spotify.com/artist/6WMFJ9mRl9DUqzrXzfMqzD) | [điệu valse cuối](https://open.spotify.com/album/0LB7u3QQPGsJrTXhvFt3b7) | 3:57 | 2023-09-18 | 2023-11-24 |
 | [Đom Đóm Và Ánh Trăng](https://open.spotify.com/track/7rjtVVhH6jq8Z0VTRokukb) | [Foo](https://open.spotify.com/artist/3PjOP4SqB2RsVLENwXJEEK) | [Đom Đóm Và Ánh Trăng](https://open.spotify.com/album/2YrRmoECIgQf8FMqcUbJsJ) | 4:50 | 2022-01-20 | 2022-01-29 |
 | [Đoạn Tuyệt Nàng Đi \- Remix Version](https://open.spotify.com/track/1AZjDUHNSHOymow3bmddj6) | [Phát Huy T4](https://open.spotify.com/artist/2Nzh0EMg4e4y7yo9yZB8cB) | [Đoạn Tuyệt Nàng Đi \(Remix Version\)](https://open.spotify.com/album/7hB1fKudViwpFNjRyWyI0C) | 2:43 | 2022-03-25 | 2022-04-08 |

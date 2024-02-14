@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-159 songs - 11 hr 7 min
+160 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Chiripaatu](https://open.spotify.com/track/049lmlc3unN6EyPyTcmmHe) | [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI), [Gopikrishnan S Kurup](https://open.spotify.com/artist/3pNvwcpWqhSxLDAc65GCWp) | [Chiripaatu](https://open.spotify.com/album/2kJGjzcGpZE9vgyv3CKmAu) | 4:00 | 2023-10-10 |  |
 | [Chiriye Chiriye](https://open.spotify.com/track/3cFiMWOmoBPnv8bCsKj75O) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Chiriye Chiriye](https://open.spotify.com/album/5w4BOdik9aFINcA9tHsT6X) | 4:31 | 2023-06-19 | 2023-07-28 |
 | [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 | 2023-10-10 |  |
+| [Dooram](https://open.spotify.com/track/73JZxTtYEusW3W7sJgkvdc) | [Aravind Chandrasekhar](https://open.spotify.com/artist/5WCtTjYGnQT0zeflxOyPKw) | [Dooram](https://open.spotify.com/album/7lt4WELBY6unUEaS1S89W0) | 1:36 | 2024-02-13 |  |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 |  |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 |  |
 | [Eppo Varuvaro + Kimkim](https://open.spotify.com/track/306LQyajNTdFu8kfzF2suV) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3), [Remya Vinayakumar](https://open.spotify.com/artist/5r5NmEm8qG0QsBas0EKKjI) | [Eppo Varuvaro + Kimkim](https://open.spotify.com/album/0oWPcz6SiFyEUTAC1UXnHa) | 3:57 | 2023-10-06 |  |

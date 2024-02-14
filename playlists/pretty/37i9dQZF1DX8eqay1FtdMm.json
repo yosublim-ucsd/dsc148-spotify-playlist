@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Seo Ja Yeong(\uc11c\uc790\uc601)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 330112,
+  "num_followers": 330450,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTdmZTc3ODQ1Njg0NzI2ZjFhZDYwZjkzN2E1OGY4NDY0YjM4MTk4",
+  "snapshot_id": "MCxkYzM3N2YyMjI0ZTQ3OWNmM2QxYzVmYjAzYzFlZmExOWVmNjRhNDc2",
   "tracks": [
     {
       "added_at": "2024-02-08 10:34:13",
@@ -659,38 +659,6 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
-      },
-      "artists": [
-        {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
-        "name": "v o K a l audio liner",
-        "url": "https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 3550,
-      "name": "Lim Jae Beum - v o K a l (KR)",
-      "url": "https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -711,6 +679,22 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
+        "name": "v o K a l audio liner",
+        "url": "https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "duration_ms": 3550,
+      "name": "Lim Jae Beum - v o K a l (KR)",
+      "url": "https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 260607,
       "name": "Gift",
       "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
+        "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Aching",
+      "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
         "name": "Alley",
         "url": "https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
-        "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Aching",
-      "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "I'll Always Be With You",
-      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
         "name": "18 again, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 244213,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "I'll Always Be With You",
+      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
         "name": "Chocolate, Pt.5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 221746,
       "name": "Just Look for you",
       "url": "https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
         "name": "Way - SM STATION",
         "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-08 10:34:13",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -1599,6 +1599,22 @@
       "duration_ms": 174990,
       "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "added_at": "2024-02-08 10:34:13",
+      "album": {
+        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 234269,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
     },
     {
       "added_at": "2024-02-08 10:34:13",
@@ -1663,22 +1679,6 @@
       "duration_ms": 231775,
       "name": "Fall in Fall",
       "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
-    },
-    {
-      "added_at": "2024-02-08 10:34:13",
-      "album": {
-        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 234269,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
     }
   ],
   "unique_name": "v o K a l",

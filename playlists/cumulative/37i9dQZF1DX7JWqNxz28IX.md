@@ -2,9 +2,9 @@
 
 ### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> canzoni tristi per chi ha un cuore così 💔  \(in cover, tenth sky\)
+> canzoni tristi per chi ha un cuore così 💔  \(in cover, kid vice\)
 
-253 songs - 11 hr 19 min
+255 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [S3TA](https://open.spotify.com/track/1bKBBH3hN1K6CQDxYeJkjo) | [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [S3TA](https://open.spotify.com/album/5bO1FbK1UwMM2L4jiehiu3) | 2:28 | 2022-08-12 | 2023-03-25 |
 | [SadBoy](https://open.spotify.com/track/2DmvxboSu3mTzH3EAuH4Qb) | [GiorniTristi](https://open.spotify.com/artist/0KjmZKo6Rhw4m4MaFlVVUa) | [GiorniTristi](https://open.spotify.com/album/6YnvedyyHCeeS25arKSZo2) | 2:41 | 2022-06-02 | 2022-08-13 |
 | [sai che...](https://open.spotify.com/track/1SIyOWhf9qKSWKqPhH1eDd) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/5bPdHI6oH0MCokMEYsYtsD) | 2:40 | 2022-04-21 | 2023-02-25 |
-| [sai che...](https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b) | 2:40 | 2023-02-23 | 2024-01-19 |
+| [sai che...](https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b) | 2:40 | 2023-02-23 |  |
 | [SBAGLI](https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [SBAGLI](https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg) | 2:38 | 2023-06-14 | 2023-11-28 |
 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 | 2022-04-21 |  |
 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 | 2023-10-27 |  |
@@ -208,10 +208,10 @@
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 | 2022-04-21 | 2023-02-25 |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Testa e cuore](https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ) | 3:04 | 2023-02-23 |  |
 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 | 2022-07-14 |  |
-| [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 | 2023-01-20 |  |
+| [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 | 2023-01-20 | 2024-02-14 |
 | [Semprerosa](https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Semprerosa](https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F) | 3:20 | 2023-02-23 |  |
 | [senza te](https://open.spotify.com/track/6FzDpbUfMipKnZHvk4egh2) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [senza te](https://open.spotify.com/album/7ee5kaFMWyI7Wpnr0LHMNL) | 2:38 | 2023-11-09 | 2023-12-14 |
-| [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-08 |  |
+| [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-08 | 2024-02-14 |
 | [Settembre](https://open.spotify.com/track/4ABnknUDNQsm24C9ZhwlLG) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Settembre](https://open.spotify.com/album/1QQalKla8lTJZSLEoPBhir) | 2:11 | 2022-06-13 | 2023-01-13 |
 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 | 2022-04-21 |  |
 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 | 2024-01-18 |  |
@@ -229,8 +229,10 @@
 | [Sparire](https://open.spotify.com/track/3dy1WuMuli2MphMv6Tyti1) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [MELA MARCIA](https://open.spotify.com/album/7tdF0W54CrLK0Dxssdpxjq) | 3:06 | 2023-06-14 |  |
 | [Specchi](https://open.spotify.com/track/1seJdr8PNY73ppjIrqr5Xa) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Specchi](https://open.spotify.com/album/3awT0joWawF2xycVuA37un) | 2:46 | 2022-12-05 | 2023-05-15 |
 | [SPECCHIO \(interludio\)](https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 1:31 | 2022-09-08 |  |
-| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2024-01-18 |  |
+| [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 | 2024-02-13 |  |
+| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2024-01-18 | 2024-02-14 |
 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 | 2022-04-21 |  |
+| [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2024-02-13 |  |
 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-02-21 |  |
 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 | 2024-01-18 |  |
 | [TI ODIO \(MI AMOR\)](https://open.spotify.com/track/1k07XFzPw7bh1YwW20MAwT) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [TI ODIO \(MI AMOR\)](https://open.spotify.com/album/4eIZvgQF67it2Xni2orYUw) | 2:23 | 2022-12-08 | 2023-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV?si=NrdMWwm6TeOsn9HqNK5q8w">Loren Kramar</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,106 likes - 70 songs - 4 hr 13 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,107 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

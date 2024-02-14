@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,357 songs - 2 day 11 hr 37 min
+1,358 songs - 2 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Blickar](https://open.spotify.com/track/1GNZf9aTlK398eDtaEkURs) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:49 | 2023-04-19 | 2023-06-09 |
 | [Blicky](https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Blicky](https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl) | 2:28 | 2023-01-26 | 2023-03-25 |
 | [BLIND](https://open.spotify.com/track/5BHlYrNR9p68siAtuHs0Uh) | [bergis](https://open.spotify.com/artist/1WqjeyURqigJHtqogSRaPm) | [BLIND](https://open.spotify.com/album/33GFAg6SjyzJRF8dSxAfGY) | 2:30 | 2023-04-14 | 2023-04-28 |
-| [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 | 2023-09-28 |  |
+| [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 | 2023-09-28 | 2024-02-14 |
 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 | 2023-07-06 | 2023-11-10 |
 | [Bliså](https://open.spotify.com/track/4kOPgc5LwN9mX4tIS2QE3t) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 | 2023-05-11 | 2023-10-20 |
 | [Bloccboi](https://open.spotify.com/track/1O1zCd6e5eZ5HF2YrUhfzw) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Roman](https://open.spotify.com/artist/6nSyvCv3zRnxU9Q3QUNBrZ) | [Bloccboi](https://open.spotify.com/album/0KsY7EfbeWHNv4F53kYzH6) | 2:21 | 2023-08-03 | 2023-10-06 |
@@ -551,6 +551,7 @@
 | [HIT](https://open.spotify.com/track/6cxsZBG6pyWdwFvsuvRLcN) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [HIT](https://open.spotify.com/album/5H1qCWg1kaLodR8GAPlhkr) | 2:29 | 2022-07-14 | 2022-09-23 |
 | [Hitta Hem](https://open.spotify.com/track/577AWkjiOVpmf2Ir2UemJT) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Hitta Hem](https://open.spotify.com/album/7A2aIyc3nbnn1JoMCDiinS) | 2:24 | 2024-01-04 |  |
 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 | 2023-10-19 |  |
+| [Hjärta Till Is](https://open.spotify.com/track/1WzTOTQCJvZJfZhf4cAa6u) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/1U6RDxP0HsRlgXN9YErYp1) | 2:57 | 2024-02-13 |  |
 | [Hold Me Down](https://open.spotify.com/track/2QiljLrPi93yW7X9zegdKo) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Hold Me Down](https://open.spotify.com/album/0XqSpgSZzeCS9PwW7qWwV5) | 2:28 | 2022-12-15 | 2023-03-04 |
 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 | 2023-12-14 |  |
 | [Homicide](https://open.spotify.com/track/1Vnuzbfuj8WCwK5QWEBKZD) | [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [Homicide](https://open.spotify.com/album/2XIuHPp2PdrbKjD6COSolz) | 2:48 | 2023-05-25 | 2023-06-09 |
@@ -1237,7 +1238,7 @@
 | [TSM](https://open.spotify.com/track/1qLHJiRgdNgJ3JB2cdM6sl) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2024-02-01 |  |
 | [Tuffa tider](https://open.spotify.com/track/1s2xrw5OxHe0sSEB3lvS1o) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Tuffa tider](https://open.spotify.com/album/0QsXISQRbTpD8FDobIIFuV) | 2:58 | 2022-06-02 | 2022-07-26 |
 | [Tugga](https://open.spotify.com/track/1fXLBeukz094BCY5VZVKba) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [Tugga](https://open.spotify.com/album/3mQWvd9ekROANcFCloKAlL) | 2:24 | 2023-08-17 | 2023-11-17 |
-| [Tugga med demoner](https://open.spotify.com/track/68mX4diVsOZvhHOsZnco8u) | [CENTI](https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq), [LENN](https://open.spotify.com/artist/4HHfUYBRiuWw4zy4BQU78G) | [Tugga med demoner](https://open.spotify.com/album/21oA2KidqX5yvAW4oNy9Lw) | 2:39 | 2023-09-21 |  |
+| [Tugga med demoner](https://open.spotify.com/track/68mX4diVsOZvhHOsZnco8u) | [CENTI](https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq), [LENN](https://open.spotify.com/artist/4HHfUYBRiuWw4zy4BQU78G) | [Tugga med demoner](https://open.spotify.com/album/21oA2KidqX5yvAW4oNy9Lw) | 2:39 | 2023-09-21 | 2024-02-14 |
 | [Tunnel Vision](https://open.spotify.com/track/2KQPzBXxmHQl199HuQnZEk) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [Tunnel Vision](https://open.spotify.com/album/0rfy3rlobZ2akhpVhN6RP4) | 1:56 | 2023-10-19 | 2023-12-08 |
 | [Turbo S](https://open.spotify.com/track/0DEpDFlJZmU0mdOu8LKTzd) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 1:41 | 2023-02-27 | 2023-03-10 |
 | [TURN](https://open.spotify.com/track/6j5QuG4MlwvSgSY0D6DMRI) | [LKay](https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [TURN](https://open.spotify.com/album/0ynIkR95qfhpCK0KAFbe8l) | 2:43 | 2023-08-31 | 2024-01-12 |

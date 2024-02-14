@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 162339,
+  "2024-02-14": 163101,
   "date_first_scraped": "2022-04-19",
   "description": "All your favorite Disney songs wrapped up with love!",
   "name": "Disney Love Songs",
@@ -305,6 +305,32 @@
       "duration_ms": 144826,
       "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198933,
+      "name": "At All Costs",
+      "url": "https://open.spotify.com/track/4N4v3rrdciX3s5cQUohY6I"
     },
     {
       "album": {
@@ -635,6 +661,24 @@
       "duration_ms": 177880,
       "name": "Can You Feel the Love Tonight - From \"The Lion King\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/1CQWhOlFQFn3je1Q05SDAm"
+    },
+    {
+      "album": {
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
     },
     {
       "album": {
@@ -1021,6 +1065,28 @@
       "duration_ms": 139440,
       "name": "I Won't Say (I'm In Love) - From \"Hercules\"",
       "url": "https://open.spotify.com/track/4p9nwYUhmGYmfIDYCmAdzQ"
+    },
+    {
+      "album": {
+        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
+      },
+      "artists": [
+        {
+          "name": "Adriana Caselotti",
+          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
+        },
+        {
+          "name": "Harry Stockwell",
+          "url": "https://open.spotify.com/artist/2tCELGtX6ikbBFQomLSCRp"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186693,
+      "name": "I'm Wishing / One Song",
+      "url": "https://open.spotify.com/track/35yv66uP9q34KpJ4eix9E3"
     },
     {
       "album": {
@@ -1670,6 +1736,28 @@
     },
     {
       "album": {
+        "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
+      },
+      "artists": [
+        {
+          "name": "Ilene Woods",
+          "url": "https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj"
+        },
+        {
+          "name": "Mike Douglas",
+          "url": "https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344973,
+      "name": "Reception At The Palace / So This Is Love",
+      "url": "https://open.spotify.com/track/5R0oa0GOwH8pjWMYyDxQ9M"
+    },
+    {
+      "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack/Season 2)",
         "url": "https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM"
       },
@@ -2297,6 +2385,24 @@
       "duration_ms": 248586,
       "name": "When I Look At You",
       "url": "https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy"
+    },
+    {
+      "album": {
+        "name": "Toy Story Favorites",
+        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"
     },
     {
       "album": {

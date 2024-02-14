@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 1181187,
+  "2024-02-14": 1182003,
   "date_first_scraped": "2022-05-30",
   "description": "Ultimate 101 Punjabi Hits with Shubh",
   "name": "Punjabi 101",
@@ -4575,7 +4575,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 111000,
       "name": "Rang Kala",
       "url": "https://open.spotify.com/track/28nV777UfgMKXkvP4b9szK"
@@ -5239,6 +5239,28 @@
       "duration_ms": 155161,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
+    },
+    {
+      "album": {
+        "name": "Beyond Boundaries",
+        "url": "https://open.spotify.com/album/2lD2VU5oNe74oRBTPUjYMF"
+      },
+      "artists": [
+        {
+          "name": "Inder Chahal",
+          "url": "https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk"
+        },
+        {
+          "name": "Sharry Nexus",
+          "url": "https://open.spotify.com/artist/6IBgPtPR61L7ICdiuuT5EC"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Sohna Lagdaa",
+      "url": "https://open.spotify.com/track/64tSU526NVdDUX7kfqhD2d"
     },
     {
       "album": {

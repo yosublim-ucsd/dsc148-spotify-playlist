@@ -1725,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173178,
+      "name": "no longer bound",
+      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
+    },
+    {
+      "album": {
         "name": "no longer bound",
         "url": "https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A"
       },
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 173195,
       "name": "no longer bound",
       "url": "https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh"

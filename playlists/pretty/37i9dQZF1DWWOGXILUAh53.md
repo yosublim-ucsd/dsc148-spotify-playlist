@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Sophie Ellis\-Bextor
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,183 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,245 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 59 | [I Can’t Be The Only One](https://open.spotify.com/track/7GOo87JXSvaZued7ICTp3A) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Can’t Be The Only One](https://open.spotify.com/album/2O6fjlU6SK9FX4bl5jq5fJ) | 2:51 |
 | 60 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 |
 
-Snapshot ID: `MCw5MzM5MjgzZDhhYWRiNmUzYmRmYzM1NjZlZGQ0OWVlYzBmYjA4MTNm`
+Snapshot ID: `MCw2OWZkY2M2OTA2NWEyOGU1ZjZkZjRlMmE3MzYxNmI5YmY0ZGJiYTY0`

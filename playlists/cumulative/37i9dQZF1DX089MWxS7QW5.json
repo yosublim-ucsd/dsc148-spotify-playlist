@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: JMIN)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: ONLEE)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -4438,6 +4438,28 @@
       "duration_ms": 230560,
       "name": "Sool (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
+    },
+    {
+      "album": {
+        "name": "Spi-cy (feat. Soo-Yeony)",
+        "url": "https://open.spotify.com/album/5wSgsjV4Wb93tcuM75oIEC"
+      },
+      "artists": [
+        {
+          "name": "ONLEE",
+          "url": "https://open.spotify.com/artist/673y8xDyKRPiixhztTAOIR"
+        },
+        {
+          "name": "Soo-Yeony",
+          "url": "https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Spi-cy (feat. Soo-Yeony)",
+      "url": "https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n"
     },
     {
       "album": {

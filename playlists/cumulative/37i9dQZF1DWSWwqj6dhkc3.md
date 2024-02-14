@@ -4,7 +4,7 @@
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-78 songs - 4 hr 33 min
+79 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Battle Lines](https://open.spotify.com/track/0ErpngN7msRMzOybuOj4X6) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Battle Lines](https://open.spotify.com/album/42aWQU8pO4KLq2aNwidEZS) | 4:14 | 2022-06-29 |  |
 | [Blow Up](https://open.spotify.com/track/7dNqszkx1prIf0m33E8gDw) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [With Julia](https://open.spotify.com/album/655WhvyaxwMG6PryGpCoTz) | 5:15 | 2022-06-29 |  |
 | [Caliente](https://open.spotify.com/track/03SvKB0OtgAh7C44cMQZHx) | [Duddi Wallace](https://open.spotify.com/artist/6FKV48glHG8QUpYGBnSSwj), [Black Bee](https://open.spotify.com/artist/0d5GsQYotMQwdRKbQ5lXMr) | [Caliente](https://open.spotify.com/album/5aqDtSj16MgiAkIatxlQZM) | 3:38 | 2022-06-29 |  |
-| [Can I Go On](https://open.spotify.com/track/33kTpZiXOEs9yQrSzn0cV5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/6ArjrXMlLegKiAPOp34K58) | 3:30 | 2022-06-29 |  |
+| [Can I Go On](https://open.spotify.com/track/33kTpZiXOEs9yQrSzn0cV5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/6ArjrXMlLegKiAPOp34K58) | 3:30 | 2022-06-29 | 2024-02-14 |
+| [Can I Go On](https://open.spotify.com/track/3BZxzGjJdXXfp4uquDlHxe) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/4KQlQyPKHNR04xTBwHosuK) | 3:30 | 2022-06-29 |  |
 | [Casa Tomada](https://open.spotify.com/track/3fcmvAXF3yz6QrJTBEnHzI) | [Karen Koltrane](https://open.spotify.com/artist/3YYPLxlWg7tCoWHJT5Ltv9) | [Plantas de Interior](https://open.spotify.com/album/6If1Nf1dYZXoQhcUHEMQsR) | 3:16 | 2022-06-29 |  |
 | [Chup Chup](https://open.spotify.com/track/47xZ4kPQh82LSMBwCXLGZJ) | [Australian Blonde](https://open.spotify.com/artist/5jbvTNkLBE4W1wQlDzHgxU) | [Pizza Pop](https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df) | 2:27 | 2022-06-29 |  |
 | [Coco Zoot Suit](https://open.spotify.com/track/11w5ozJm4xU3AKcWOqycJQ) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Pachuco](https://open.spotify.com/album/2k79RYvhGM1YUQiyZAWm0Y) | 3:37 | 2022-06-29 |  |

@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JMIN\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ONLEE\)
 
-295 songs - 16 hr 27 min
+296 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Song For You](https://open.spotify.com/track/3crzIsiwlNfd7KsQ0NDSuY) | [Meijee](https://open.spotify.com/artist/4c1XgZSY8wkkEWeqb4bSHF) | [Song For You](https://open.spotify.com/album/05oeV9MVUR4vWtRQj7Ur7T) | 3:21 | 2024-01-08 |  |
 | [Song for You](https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Thanks For Nothing](https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk) | 3:11 | 2023-11-14 |  |
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 | 2023-01-21 |
+| [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n) | [ONLEE](https://open.spotify.com/artist/673y8xDyKRPiixhztTAOIR), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/album/5wSgsjV4Wb93tcuM75oIEC) | 3:09 | 2024-02-13 |  |
 | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb) | 3:12 | 2023-11-06 |  |
 | [Strike](https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF) | [HANYE](https://open.spotify.com/artist/76Qu3bKsPh71Tzt5Sj2DQL) | [Strike](https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t) | 4:24 | 2022-12-13 | 2023-04-28 |
 | [Stuck in](https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Stuck in](https://open.spotify.com/album/6QG23BFWlIJxcweb1nU0Rv) | 3:34 | 2023-01-18 | 2023-08-18 |

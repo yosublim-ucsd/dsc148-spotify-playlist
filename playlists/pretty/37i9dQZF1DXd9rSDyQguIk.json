@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1223540,
+  "num_followers": 1223972,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDcyNTRkZWVmZTkxMTM3MDQ0MjcwYjgwMzY0NWU4ZWE5NjAyYjNk",
+  "snapshot_id": "MCxiNTI2YmQ2ZmM3MTRlMWZjZmU4YThiNDhmNjY0MWNiYmE0NTU3MmVl",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Scratch My Back",
-      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Somebody Loan Me A Dime (Remastered)",
         "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 176747,
       "name": "Somebody Loan Me A Dime - Remastered",
       "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 156397,
-      "name": "Crosscut Saw - Mono Mix",
-      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Bad News Is Coming",
@@ -659,6 +643,22 @@
       "duration_ms": 182826,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Legendary Modern Recordings",
         "url": "https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 190920,
       "name": "Boogie Chillen'",
       "url": "https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Call It Stormy Monday",
-      "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -903,6 +887,22 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Call It Stormy Monday",
+      "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -935,6 +935,22 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "Best Of Slim Harpo",
         "url": "https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 252133,
       "name": "Short Dressed Woman",
       "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Ain't Got Nobody",
-      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Best Of Duke-Peacock Blues",
-        "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
       "artists": [
         {
-          "name": "Larry Davis",
-          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
+      "duration_ms": 215800,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
     }
   ],
   "unique_name": "Blues Classics",

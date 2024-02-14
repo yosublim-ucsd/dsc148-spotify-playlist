@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 6232,
+  "2024-02-14": 6231,
   "date_first_scraped": "2021-12-28",
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Giol\u00ec & Assia in cover! \u2728",
   "name": "GLOW Italia",
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 161312,
       "name": "Hands On Me",
       "url": "https://open.spotify.com/track/5HZgrygoh8tjdHqyLROobo"
@@ -3009,10 +3009,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 203624,
       "name": "LA POLICE",
       "url": "https://open.spotify.com/track/1cTi2HkrcMPbyVoqzNUqwr"
+    },
+    {
+      "album": {
+        "name": "La rabbia non ti basta",
+        "url": "https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189406,
+      "name": "La rabbia non ti basta",
+      "url": "https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu"
     },
     {
       "album": {
@@ -3255,7 +3273,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 137016,
       "name": "Limiti",
       "url": "https://open.spotify.com/track/340ADpMLhgu8uFdo2RTwmT"
@@ -4107,7 +4125,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 196347,
       "name": "OMD",
       "url": "https://open.spotify.com/track/3WM7TcLTJxAbixBjKztVBa"
@@ -5007,7 +5025,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 218709,
       "name": "S.T.A.R.",
       "url": "https://open.spotify.com/track/05cY2YCQeXQ1Mn2Iui62ws"
@@ -5774,6 +5792,24 @@
     },
     {
       "album": {
+        "name": "Te e Me",
+        "url": "https://open.spotify.com/album/5E4afLGhqs9xcuhYyjxFuZ"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "Te e Me",
+      "url": "https://open.spotify.com/track/6koVfWb4Vl7FxQY3SLEPlA"
+    },
+    {
+      "album": {
         "name": "I\u2019m Calling You From My Dreams",
         "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
       },
@@ -5843,6 +5879,24 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "album": {
+        "name": "The Point Of Living",
+        "url": "https://open.spotify.com/album/2G0rmcFmdmnb9oevoSWFgp"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "The Point Of Living",
+      "url": "https://open.spotify.com/track/6x2csnE4Cr1cuJSHmwBdJi"
     },
     {
       "album": {
@@ -6147,6 +6201,24 @@
       "duration_ms": 159960,
       "name": "Una zebra a pois / Tintarella di luna",
       "url": "https://open.spotify.com/track/7sM1bg8NrTRwoSY4CRbF1X"
+    },
+    {
+      "album": {
+        "name": "Veleno Maledetto",
+        "url": "https://open.spotify.com/album/7BpGVSbjObJdfgnephRkbs"
+      },
+      "artists": [
+        {
+          "name": "MYDRAMA",
+          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170390,
+      "name": "Veleno Maledetto",
+      "url": "https://open.spotify.com/track/71KbGQ9rR8oHJaxW1LhK4q"
     },
     {
       "album": {

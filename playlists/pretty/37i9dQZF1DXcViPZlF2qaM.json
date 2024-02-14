@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 56673,
+  "num_followers": 56700,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODk3YWU5NDgxNThmMTEwNjk3NTQyY2Y0ODA2MTczMjc4Y2U5MjVj",
+  "snapshot_id": "MCxhMDE4OWVmYzUxMjFiMTkyZjMxMDNiNjFiMGQ4ZWFhNmY3OTUzYTVm",
   "tracks": [
     {
       "added_at": "2021-10-16 00:59:30",
@@ -1025,24 +1025,20 @@
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
-      "added_at": "2022-09-02 06:00:17",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+        "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+      "duration_ms": 145506,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
     },
     {
       "added_at": "2022-06-02 20:34:36",

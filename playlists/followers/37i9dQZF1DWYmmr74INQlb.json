@@ -1,7 +1,7 @@
 {
-  "2024-02-13": 4619006,
+  "2024-02-14": 4620083,
   "date_first_scraped": "2021-12-21",
-  "description": "The most essential R&B songs from the '00s. Cover: Alicia Keys",
+  "description": "The most essential R&B songs from the '00s. Cover: Keyshia Cole",
   "name": "I Love My '00s R&B",
   "tracks": [
     {
@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 226440,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 284160,
       "name": "Diary (feat. Tony! Toni! Tone! & Jermaine Paul)",
       "url": "https://open.spotify.com/track/25xwg5ja3flBKxselUfH3A"

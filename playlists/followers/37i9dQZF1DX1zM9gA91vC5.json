@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 226013,
+  "2024-02-14": 226001,
   "date_first_scraped": "2020-08-14",
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
   "name": "Concentra\u00e7\u00e3o Perfeita",
@@ -12699,7 +12699,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 166857,
       "name": "Semele",
       "url": "https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q"
@@ -16761,6 +16761,24 @@
       "duration_ms": 141000,
       "name": "Windows",
       "url": "https://open.spotify.com/track/2mfV2cjYcEnBmqjT1qih83"
+    },
+    {
+      "album": {
+        "name": "winter waltz",
+        "url": "https://open.spotify.com/album/5zMCgImeWbDPD2UFb1s96h"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171871,
+      "name": "winter waltz",
+      "url": "https://open.spotify.com/track/4OrNJsI46x4VvX6VXfJHEW"
     },
     {
       "album": {

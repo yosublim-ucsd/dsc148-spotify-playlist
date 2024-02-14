@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Barbi Recanati",
-  "num_followers": 37905,
+  "num_followers": 37915,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODFlMTI2NzZhMmVkNjljZjdkMzFjZDllMjczNjYxNmI3ZWRlM2Zl",
+  "snapshot_id": "MCxkYTE4ZjQ3NDY3YzYyZjJmNTMzYjM3MzNkYzM2MmFkODFjNjVhZDQ2",
   "tracks": [
     {
       "added_at": "2024-01-18 22:08:26",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 229842,
       "name": "A 1200 Km",
       "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "La Ma\u00f1ana Siguiente",
         "url": "https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
         "name": "Prender un Fuego",
         "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
       "artists": [
         {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 190165,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Fuego Artificial",
-        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 183088,
-      "name": "En Invierno",
-      "url": "https://open.spotify.com/track/3i0uMKGh0Q0LQxZAVcS9Gv"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Seremos Primavera",
         "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
       },
@@ -375,8 +343,24 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Piedra del \u00c1guila",
-        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Fuego Artificial",
+        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
       },
       "artists": [
         {
@@ -384,9 +368,25 @@
           "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 194470,
-      "name": "Piedra del \u00c1guila",
-      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+      "duration_ms": 183088,
+      "name": "En Invierno",
+      "url": "https://open.spotify.com/track/3i0uMKGh0Q0LQxZAVcS9Gv"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 205704,
+      "name": "Carapaz\u00f3n",
+      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 205704,
-      "name": "Carapaz\u00f3n",
-      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "NOVIOS IMAGINARIOS",
         "url": "https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00"
       },
@@ -487,8 +471,40 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Mi Playa",
+      "url": "https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Dopelganga",
+        "url": "https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 245645,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Piedra del \u00c1guila",
+        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
       },
       "artists": [
         {
@@ -496,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+      "duration_ms": 194470,
+      "name": "Piedra del \u00c1guila",
+      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -515,22 +531,6 @@
       "duration_ms": 283380,
       "name": "Desordenar",
       "url": "https://open.spotify.com/track/2Pha6dxvBxVmwwpGkwjWRb"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Mi Playa",
-      "url": "https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Dopelganga",
-        "url": "https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 245645,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Lo M\u00e1s Cercano a Caer",
         "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
       },
@@ -615,6 +599,26 @@
       "duration_ms": 173313,
       "name": "Antes de que Olvide",
       "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Nada Salvaje (En Vivo Estadio Obras)",
+        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 278984,
+      "name": "Nada Salvaje (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -647,6 +651,22 @@
       "duration_ms": 203792,
       "name": "No Te Perdono",
       "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -727,26 +747,6 @@
       "duration_ms": 262057,
       "name": "Esto Que Me Pasa",
       "url": "https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
-        "name": "Nada Salvaje (En Vivo Estadio Obras)",
-        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 278984,
-      "name": "Nada Salvaje (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Fantas\u00eda",
-        "url": "https://open.spotify.com/album/470v1dAErj4vs7FFwqswMS"
+        "name": "Mujer Contra Mujer",
+        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
       },
       "artists": [
         {
-          "name": "Sol Marianela",
-          "url": "https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD"
+          "name": "Sandra & Celeste",
+          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
         }
       ],
-      "duration_ms": 144265,
-      "name": "Fantas\u00eda",
-      "url": "https://open.spotify.com/track/5pwjdeZNeYDmLYX2NtLhBO"
+      "duration_ms": 229373,
+      "name": "Mujer Contra Mujer",
+      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Mujer Contra Mujer",
-        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/470v1dAErj4vs7FFwqswMS"
       },
       "artists": [
         {
-          "name": "Sandra & Celeste",
-          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+          "name": "Sol Marianela",
+          "url": "https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD"
         }
       ],
-      "duration_ms": 229373,
-      "name": "Mujer Contra Mujer",
-      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+      "duration_ms": 144265,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/5pwjdeZNeYDmLYX2NtLhBO"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
+        "name": "Atasco",
+        "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 226195,
+      "name": "Atasco",
+      "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
         "name": "Batalla Naval",
         "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 146668,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
-        "name": "Atasco",
-        "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 226195,
-      "name": "Atasco",
-      "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
     },
     {
       "added_at": "2024-01-18 22:08:26",

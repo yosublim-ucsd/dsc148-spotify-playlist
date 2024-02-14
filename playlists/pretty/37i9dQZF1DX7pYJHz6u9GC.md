@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,399 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,382 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 49 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
 | 50 | [Christmas Children](https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [The Beautiful Day](https://open.spotify.com/album/3kGxAL9kbsUAkqY9S9mRzI) | 4:32 |
 
-Snapshot ID: `MCw2MWU1NTA3MDZlYTBlODg1M2FhOTYzNmM3YzkwZDcxMDZhZmVhOWZi`
+Snapshot ID: `MCxlYWI3ZjY1M2VkMzMxMGMzZjAyMjJkYzI4M2JkNTFlZWM2MjgxZmU2`

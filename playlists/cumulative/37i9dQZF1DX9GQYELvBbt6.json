@@ -896,7 +896,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 146588,
       "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
       "url": "https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt"
@@ -1462,6 +1462,28 @@
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "album": {
+        "name": "\u795e\u69d8\u306e\u904b\u547d\u8ad6",
+        "url": "https://open.spotify.com/album/1Weuos0rHJFN3IcTcRTkDg"
+      },
+      "artists": [
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
+        },
+        {
+          "name": "The Burning Deadwoods",
+          "url": "https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267778,
+      "name": "\u795e\u69d8\u306e\u904b\u547d\u8ad6",
+      "url": "https://open.spotify.com/track/0wgTyizl02IVoz88j2zOs4"
     },
     {
       "album": {

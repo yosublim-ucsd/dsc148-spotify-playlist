@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,934 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,965 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 5 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 |
 | 6 | [Time \- feat\. Jules Buckley](https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Time \(feat\. Jules Buckley\)](https://open.spotify.com/album/77wNbVUueAga2P28GqHovW) | 5:10 |
 | 7 | [Cappadocia](https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Cappadocia](https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C) | 4:42 |
-| 8 | [Beyond Control](https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 5:32 |
-| 9 | [In Your Arms](https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [In Your Arms](https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi) | 5:33 |
+| 8 | [In Your Arms](https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [In Your Arms](https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi) | 5:33 |
+| 9 | [Beyond Control](https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 5:32 |
 | 10 | [Afterglow](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Afterglow](https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb) | 6:35 |
 | 11 | [Dance with My Ghost \(feat\. Elderbrook\)](https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 4:06 |
 | 12 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 |
 | 60 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
 
-Snapshot ID: `MCxlMTA4MzZiMDc5NzJmZTY3MmIxN2RhMTIyNDI5OWZjNTY2MmFmMTQ2`
+Snapshot ID: `MCwzYmIxODE4YTU1MTJjMzIyOTE0ZWFmMDhmNmI3ZTQxMjdjNDM0Yjli`

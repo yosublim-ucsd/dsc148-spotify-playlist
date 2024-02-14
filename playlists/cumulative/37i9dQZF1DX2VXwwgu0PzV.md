@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC?si=DW1Vl\_CaRPa2Mqw5bzIa9Q">Oba Reengy</a>
 
-561 songs - 1 day 8 hr 52 min
+562 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Gods Love](https://open.spotify.com/track/4CKeG9hcOwkqcWGDo104xI) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Gods Love](https://open.spotify.com/album/4Sh9MI3Q4ihCssCvd25e1o) | 3:16 | 2023-05-26 | 2023-07-07 |
 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2023-02-02 |  |
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-09-15 | 2023-12-15 |
-| [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-01-19 |  |
+| [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-01-19 |  |
+| [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-01-19 | 2024-02-14 |
 | [GOOD GOOD GOD](https://open.spotify.com/track/3tMVmejZwzphx1kjnWqYLw) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [GOOD GOOD GOD](https://open.spotify.com/album/7D12vNVnTLlF3GIhTgKLPl) | 3:09 | 2023-04-07 | 2023-06-16 |
 | [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2023-04-21 | 2023-06-23 |
 | [Goodmorning](https://open.spotify.com/track/3EXwLpshVaUyEEb4n3H9mD) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Goodmorning](https://open.spotify.com/album/2sTiylr8bMA5w4vB9o0bEu) | 1:40 | 2024-02-02 |  |

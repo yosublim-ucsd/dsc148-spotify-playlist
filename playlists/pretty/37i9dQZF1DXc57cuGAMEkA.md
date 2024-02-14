@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。BAD HOP, USHER, Zara Larsson, Conan Gray, 新しい学校のリーダーズ and more! Cover: BAD HOP
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,470 likes - 72 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,473 likes - 72 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [ON THE LINE](https://open.spotify.com/track/5e8saCEDfJ2szwaG5gTLwI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW EP](https://open.spotify.com/album/666rdJ8snX6R5lT24Owcau) | 2:30 |
 | 72 | [One Without the Other](https://open.spotify.com/track/7Brog3UEWvvH0SePifthzY) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF) | 2:36 |
 
-Snapshot ID: `MCwzMjMxNzc2MGYxNDBmNmIzNjVjYmIyYjcxMjYwYjBkNTM4ODI4MjU5`
+Snapshot ID: `MCw5MDRkZTg0NjAyMzg4YTk5NDlmYWYxYjQwODIwMzIxZGY0MTU5NzEx`

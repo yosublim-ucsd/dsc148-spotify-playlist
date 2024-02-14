@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,075 likes - 30 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,074 likes - 30 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 29 | [Nightmare feat\. Kizuna](https://open.spotify.com/track/3a6bh9lIlWQrbepwggW6kq) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH), [キズナ](https://open.spotify.com/artist/3ivoNDU9tOTa2R7XqiIFFk) | [Nightmare feat\. Kizuna](https://open.spotify.com/album/1DEkyCkFvd2kT3DKPhXT6M) | 3:13 |
 | 30 | [Super Sonic Girl](https://open.spotify.com/track/2Hiiy3oTMeqQg5hLQLw4bJ) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Super Sonic Girl](https://open.spotify.com/album/2riAHViLvNHM09LsZuYyFl) | 3:01 |
 
-Snapshot ID: `MCxiZWVlZGMzOGVlMTMxMzQxODU4ODQyOGNkMDA5ZDk4YzhlNDlmNGU0`
+Snapshot ID: `MCw5Mzk0MzNkOTEzM2IxNTNhY2JlY2VjYWRlODRiY2MwYjBiYmNjNDE2`

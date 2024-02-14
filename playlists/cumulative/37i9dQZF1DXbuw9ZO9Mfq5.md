@@ -4,7 +4,7 @@
 
 > Nominated songs & artists for the 54th Annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, 10/20/23 at 8 pm and 10 pm ET exclusively on TBN & the TBN app! Cover: Host <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-137 songs - 10 hr 21 min
+138 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Never Be Defeated \(feat\. Vincent Bohanan\)](https://open.spotify.com/track/1hxEoYuj2K46BdAEcV7wEk) | [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb), [Vincent Bohanan](https://open.spotify.com/artist/6Ku6p0A13GQdfSomanEsZC) | [Never Be Defeated](https://open.spotify.com/album/1WZVo0Y7oIXSlQhI6rXY0A) | 13:05 | 2021-08-24 | 2023-09-27 |
 | [Never Lost](https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:10 | 2021-08-24 | 2023-09-27 |
 | [New Day](https://open.spotify.com/track/46QYmqFNxnhX6bUXAbZijq) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day \(Wake Up Remix\)](https://open.spotify.com/album/441VZMZvvrwgv6LOXNhvEl) | 3:01 | 2023-09-26 |  |
-| [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-09-26 |  |
+| [no longer bound](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:53 | 2023-09-26 |  |
+| [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-09-26 | 2024-02-14 |
 | [Nubes](https://open.spotify.com/track/3lKlApf4R2kgiD9Lim9dMZ) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Nubes](https://open.spotify.com/album/3MSk7DD57l7CqyCIZl6hVQ) | 4:03 | 2023-09-26 |  |
 | [One Name](https://open.spotify.com/track/5pzlVZuRk1Qn5iTLsRtez0) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm), [The Sound](https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz) | [One Name](https://open.spotify.com/album/7i2m9b34XEkgeAEbUywS9w) | 3:38 | 2023-09-26 |  |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0ediELnQ9rvSUKIRJQKxn1) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 9:19 | 2023-09-26 |  |

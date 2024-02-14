@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,676 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,663 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 55 | [Avenida Maruípe](https://open.spotify.com/track/5oV6CZy572puAUE31ic6cI) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 3:46 |
 | 56 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 |
 | 57 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
-| 58 | [Ø Tirø](https://open.spotify.com/track/5M1xqajeOF4oiU32waRk0P) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Ø Tirø](https://open.spotify.com/album/5wd6SinPpoaLCDuw18Fn3g) | 4:23 |
+| 58 | [Ø TirØ \- Aø ViVø](https://open.spotify.com/track/5M1xqajeOF4oiU32waRk0P) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Ø TirØ \- Aø ViVø](https://open.spotify.com/album/5wd6SinPpoaLCDuw18Fn3g) | 4:23 |
 | 59 | [Diz Pra Mim](https://open.spotify.com/track/5HdSXcnJZXf871r9Om6Ra0) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:33 |
 | 60 | [Outro Lugar \(feat\. Badauí\) \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
 | 61 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Me Ajude a Viver](https://open.spotify.com/track/7L6QuFxG9TlYxHpPHuMQ8x) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Invencível](https://open.spotify.com/album/189MgpvZ73UEJ7jHxtIYRM) | 3:36 |
 | 75 | [Último Clichê](https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Último Clichê](https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE) | 2:49 |
 
-Snapshot ID: `MCxkMTM2NTc5OTdlMmQ2ODM1OTU1NTRlYzg0ODg1MGVmMTY3YjRmYjlk`
+Snapshot ID: `MCxhMGZhNzc4YmRlODk0MmU5ZWNmYjIzY2Q3Y2NhMGRjZDRjNzdhMTYw`

@@ -4,7 +4,7 @@
 
 > rock at its loudest \- turn it up ⬆️ Cover: HARDY
 
-1,088 songs - 2 day 17 hr 5 min
+1,089 songs - 2 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Dance With My Demons \(feat\. The Score\)](https://open.spotify.com/track/0sHK5UJRZhUKWbcSeLZPha) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP), [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Dance With My Demons EP](https://open.spotify.com/album/1wiN698F4pEAtQv8ZkvZX1) | 3:49 | 2022-02-25 | 2022-10-08 |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-10-21 | 2023-01-14 |
 | [Dark Days \(feat\. Jeris Johnson\)](https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Dark Days \(feat\. Jeris Johnson\)](https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO) | 2:50 | 2022-03-04 | 2022-10-08 |
+| [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-13 |  |
 | [Dark Side](https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ) | 2:57 | 2022-01-14 | 2022-09-17 |
 | [Dark Thoughts](https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Dark Thoughts](https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT) | 4:08 | 2023-09-22 | 2023-12-02 |
 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-05-12 | 2023-07-15 |

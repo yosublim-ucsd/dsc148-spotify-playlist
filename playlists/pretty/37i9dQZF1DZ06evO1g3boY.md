@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,979 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,992 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Manifesto \(feat\. Lenine & Emicida\)](https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Eu Sou a Maré Viva](https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe) | 4:34 |
 | 50 | [A Chapa é Quente \- Ao Vivo](https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:52 |
 
-Snapshot ID: `Mjg0NjIzMTUsMDAwMDAwMDBmMGQyNGI4M2Y1ZmFmMWQ5MGFhMDdjYjgyYjQ5MTBiYQ==`
+Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAxMzY4ZjU5M2UyMWM2NjQ5MzUzZjgyMDQ1NDY4M2RlNg==`

@@ -4,7 +4,7 @@
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 2 min
+36 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [In Case You Didn't Know](https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:04 | 2023-04-02 |  |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:06 | 2023-04-02 | 2024-01-12 |
 | [Last](https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 | 2023-04-02 |  |
-| [Love Lifted Me Up](https://open.spotify.com/track/1eleJrs2gUPqDpSRKCfXF3) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:11 | 2023-04-02 |  |
+| [Love Lifted Me Up](https://open.spotify.com/track/1eleJrs2gUPqDpSRKCfXF3) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:11 | 2023-04-02 | 2024-02-14 |
 | [Mighty to Love](https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:02 | 2023-04-02 |  |
+| [My God Fights For Me \(feat\. Austin French & Nickie Conley\)](https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU), [Nickie Conley](https://open.spotify.com/artist/5oCYtRBPryG7fs2gq6aqo1) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:40 | 2024-02-13 |  |
 | [My Story Your Glory \- Micah Tyler Collab Version](https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [My Story Your Glory \(Expanded Edition\)](https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD) | 3:08 | 2023-11-10 |  |
 | [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 | 2023-04-02 |  |
 | [New Today](https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:20 | 2023-04-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest 60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,093 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,136 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 5 | [Say It Loud \- I'm Black And I'm Proud \- Pts.1 & 2](https://open.spotify.com/track/6uPuweWZXRKhP2i9sBmun4) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Say It Loud \- I'm Black And I'm Proud](https://open.spotify.com/album/3vNuxh79Nz0zpdYOtD7gXM) | 4:46 |
 | 6 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 7 | [Potatoe Mash](https://open.spotify.com/track/5YdMKQEtVQG03RkRDNXGq4) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Ike & Tina Turner’s Kings Of Rhythm Dance](https://open.spotify.com/album/0uaK7DLos0cAZe4GxkLgKC) | 2:17 |
-| 8 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
+| 8 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 9 | [Love Man](https://open.spotify.com/track/16dz1n3ctolQbuZPtvHVqH) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Love Man](https://open.spotify.com/album/5K3FfkoIozJuEOhiwOm5SR) | 2:19 |
 | 10 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
 | 11 | [Twenty Five Miles](https://open.spotify.com/track/0vstoapfzoOlqD8zurG2uJ) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [25 Miles](https://open.spotify.com/album/1M4ZJAYy0baYzSsqCgfNNO) | 3:18 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MCw2MzFkNzdiMzI2NTlhN2Y3NTIyMDIyZWE3ZTQxYzZmOWQ3ODUwOTY4`
+Snapshot ID: `MCxmNTVjYjAxMjkyMGRkMThjMGFiOTc1NGJkMTU4Njk1YWI0OWJjMDFh`

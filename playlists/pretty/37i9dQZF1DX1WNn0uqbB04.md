@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,270 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,268 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 39 | [SOLO](https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:33 |
 | 40 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
 | 41 | [Plano Secuencia](https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 4:12 |
-| 42 | [Veinte Veinte](https://open.spotify.com/track/7ubSJ86N9Lzzt3qYL58ZNV) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:48 |
-| 43 | [Madrugada](https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Revolución Beat](https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK) | 3:54 |
+| 42 | [Madrugada](https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Revolución Beat](https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK) | 3:54 |
+| 43 | [Veinte Veinte](https://open.spotify.com/track/7ubSJ86N9Lzzt3qYL58ZNV) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:48 |
 | 44 | [Piazzojazz](https://open.spotify.com/track/7jxmEREf58Pq2a34p7urqH) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ), [Federico Lechner](https://open.spotify.com/artist/5tEyp8bbcmlvlJHfGqzKui), [Hernan hock](https://open.spotify.com/artist/218kMSXSeUCGA6qnhj4BTV), [Antonio Miguel](https://open.spotify.com/artist/12WYaGwaAQfZF0hyTJgDDm), [Andrés Litwin](https://open.spotify.com/artist/2By1V9ksNozsu4QKLCQRve) | [Obstinado](https://open.spotify.com/album/7suichuH4uRGvVt3b5lUZ2) | 4:48 |
 | 45 | [Milonga Sentimental](https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Lautaro Greco](https://open.spotify.com/artist/54ob6kM8grbO4ymojmp804) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:38 |
 | 46 | [Dos Gardenias](https://open.spotify.com/track/56weCAI0spznGe7zzHW2Zd) | [La Milonga](https://open.spotify.com/artist/4na1NgMIN3rJvlBqjCsSKT) | [Tango Y Bolero Con Flamencura](https://open.spotify.com/album/4osukm8dToowskd09AtGi1) | 5:49 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 67 | [Kirón Tango](https://open.spotify.com/track/7IHzhCcYunBzdLXKKawyrt) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Sudestada Tango Lounge 2](https://open.spotify.com/album/3iNJRIotoqncIRI0fwY2pv) | 4:55 |
 | 68 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
 | 69 | [La Gloria](https://open.spotify.com/track/2442ZJTb6I1AnuBu7AQqEs) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Tango 3.0](https://open.spotify.com/album/5iPPI8CcvZYhaf34VQC9P5) | 3:47 |
-| 70 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 |
+| 70 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 
-Snapshot ID: `MCxkYTY2MmEwZTRjYzcxYTVkNDQzMWNmMTI1OWY3ZThjYTA4NmYyNmZk`
+Snapshot ID: `MCxjMTllYjU4ZjA1MzBiOThmYmIxOWM5YTBkYTI5OTQyZmFmNzZiMDE3`

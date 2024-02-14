@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 180443,
+  "num_followers": 180684,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjg4NjUyNGUxM2Y4NTg3ZDVlN2VkMTE4NDYzMTExOTA3ZWM2NWUy",
+  "snapshot_id": "MCxlZTJiOGUxOTMyOWY4ZTQ3ZWZlNmNiNTlmNjc3NDE4ZjM4NWYwMTkz",
   "tracks": [
     {
       "added_at": "2024-02-07 07:56:32",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Sudden Burst Of Energy",
-        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
-    },
-    {
-      "added_at": "2024-02-07 07:56:32",
-      "album": {
         "name": "My One And Only One",
         "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 217843,
       "name": "Una Mas",
       "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
+    },
+    {
+      "added_at": "2024-02-07 07:56:32",
+      "album": {
+        "name": "Sudden Burst Of Energy",
+        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Autumn Day",
-      "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
-    },
-    {
-      "added_at": "2024-02-07 07:56:32",
-      "album": {
         "name": "Chill Factor",
         "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 270840,
-      "name": "West Coast Coolin'",
-      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
+      "duration_ms": 274466,
+      "name": "Autumn Day",
+      "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -591,6 +575,22 @@
       "duration_ms": 291520,
       "name": "You Read My Mind",
       "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
+    },
+    {
+      "added_at": "2024-02-07 07:56:32",
+      "album": {
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "West Coast Coolin'",
+      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
-    },
-    {
-      "added_at": "2024-02-07 07:56:32",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
         }
       ],
-      "duration_ms": 263960,
-      "name": "Pop's Cool Groove",
-      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Pop's Cool Groove",
+      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
+    },
+    {
+      "added_at": "2024-02-07 07:56:32",
+      "album": {
         "name": "On Top Of Your Game",
         "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 244874,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
-    },
-    {
-      "added_at": "2024-02-07 07:56:32",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 299640,
       "name": "Always There (feat. Jeff Golub)",
       "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
+    },
+    {
+      "added_at": "2024-02-07 07:56:32",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
-      },
-      "artists": [
-        {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
-        }
-      ],
-      "duration_ms": 311322,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
-    },
-    {
-      "added_at": "2024-02-07 07:56:32",
-      "album": {
         "name": "Send One Your Love",
         "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 269573,
       "name": "Vinyl",
       "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+    },
+    {
+      "added_at": "2024-02-07 07:56:32",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 311322,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
-    },
-    {
-      "added_at": "2024-02-07 07:56:32",
-      "album": {
         "name": "Ready to Play",
         "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 303973,
       "name": "Catnap",
       "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+    },
+    {
+      "added_at": "2024-02-07 07:56:32",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Out'a Nowhere",
+      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
+    },
+    {
+      "added_at": "2024-02-07 07:56:32",
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Out'a Nowhere",
-      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -1327,18 +1343,22 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
       "artists": [
         {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
+      "duration_ms": 253815,
+      "name": "Just One Wish",
+      "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -1359,22 +1379,18 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+        "name": "Club 1600",
+        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Club 1600",
+          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
         }
       ],
-      "duration_ms": 253815,
-      "name": "Just One Wish",
-      "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
+      "duration_ms": 283000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -1407,22 +1423,6 @@
       "duration_ms": 325800,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
-    },
-    {
-      "added_at": "2024-02-07 07:56:32",
-      "album": {
-        "name": "Club 1600",
-        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
-      },
-      "artists": [
-        {
-          "name": "Club 1600",
-          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2024-02-07 07:56:32",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-02-07 07:56:32",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
     },
     {
       "added_at": "2024-02-07 07:56:32",

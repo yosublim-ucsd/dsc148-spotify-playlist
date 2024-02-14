@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 116502,
+  "2024-02-14": 116529,
   "date_first_scraped": "2023-05-19",
   "description": "Hindi hai, Indie hai! Cover- Utsavi Jha",
   "name": "hIndies",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Aise Ho Tum",
       "url": "https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0"
@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 237529,
       "name": "Mera Ishq",
       "url": "https://open.spotify.com/track/0mIpoTx5eetKSdr6YEbu3H"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Mason x Princess Superstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,393 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,404 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 18 | [All Night](https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [gritney](https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d) | [All Night](https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ) | 3:15 |
 | 19 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 |
 | 20 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
-| 21 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/5N8fHHJVfI4a00nEoj9UyH) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
+| 21 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
 | 22 | [Next To You](https://open.spotify.com/track/6tVGbFF95Oz4F2pGK9RXXD) | [mood.wav](https://open.spotify.com/artist/31i6svYbJf8dvqCC8iP7UN), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Next To You](https://open.spotify.com/album/3T3akPqhq7T70mRDt6s2cK) | 2:10 |
 | 23 | [Turn It All Around](https://open.spotify.com/track/4aAXD6qYiPMXqIO2tcAbo3) | [RICZA](https://open.spotify.com/artist/7jKi2gN4aS9PqKw9QAPMIG), [GRHHH](https://open.spotify.com/artist/0Nxi8lK4ujPl9gMviGj7TQ), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Turn It All Around](https://open.spotify.com/album/4er7Vijfkv3xtSlKRv0OKs) | 3:02 |
 | 24 | [Gaze Riddim](https://open.spotify.com/track/5Xq7NJfg5tS5qBG1iW0k9Z) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Justri](https://open.spotify.com/artist/538AGkkV4ipbxcHx47TvxA) | [Gaze Riddim](https://open.spotify.com/album/5Xzat1xqYPrvGcntlRUIgN) | 2:32 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 97 | [Miroir Miroir \- Romain Garcia Remix](https://open.spotify.com/track/0Ysm1TAJq3jUFPHbOGN9lL) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Miroir Miroir \(Romain Garcia Remix\)](https://open.spotify.com/album/673Tkd2JZXQ0ZshjTK6S0e) | 3:29 |
 | 98 | [YIN & YANG](https://open.spotify.com/track/4oXrLiCY9XLYMEuZ1drI1t) | [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo), [ALY$HIA](https://open.spotify.com/artist/38sMetc66ave6OQSpl1BW3) | [YIN & YANG](https://open.spotify.com/album/2oaODUP1pNIc4babSl3ivd) | 2:08 |
 
-Snapshot ID: `MCxmMDBmNmQ4NjUxNjUxZDEzZWViMTRmNDE0ZjNiNmJkOTExYzgxNTIw`
+Snapshot ID: `MCw1YjkzNTg3OTAwMjlmZjc4MzU3YWIyMzY5MTE3YzkzODExNTVlNjY0`

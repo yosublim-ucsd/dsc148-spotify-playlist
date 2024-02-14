@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114600,
+  "num_followers": 114607,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDU3MmZhYzI4N2M0ZTNhYmI1MTczNTM2MWVmM2Y5OWYxMDZkYzll",
+  "snapshot_id": "MCw5MmY1YTI3NGZhNGEzNGMyOWM2NmY2OGIyNGY4NTI2YzQ4MGY5M2Qz",
   "tracks": [
     {
       "added_at": "2024-02-04 07:36:46",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        }
-      ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        }
+      ],
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     },
     {
       "added_at": "2024-02-04 07:36:46",

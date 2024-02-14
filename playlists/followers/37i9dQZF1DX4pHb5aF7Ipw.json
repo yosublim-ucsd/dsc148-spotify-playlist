@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 37861,
+  "2024-02-14": 37863,
   "date_first_scraped": "2023-03-30",
   "description": "Fresh Punjabi Rap. Cover:  Sikander Kahlon",
   "name": "Burrh Rap",
@@ -941,6 +941,32 @@
     {
       "album": {
         "name": "LKLG",
+        "url": "https://open.spotify.com/album/2qUfXrDzmrfkvoUn7sJxn4"
+      },
+      "artists": [
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "QUAKE World",
+          "url": "https://open.spotify.com/artist/40U1tcKh3xQ2kLo2QNoYIQ"
+        },
+        {
+          "name": "Levl9ne",
+          "url": "https://open.spotify.com/artist/2VRLihnvWF8a28nJBXfmdB"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201351,
+      "name": "LKLG",
+      "url": "https://open.spotify.com/track/0fkgAhvWsDOzQpLjJafDka"
+    },
+    {
+      "album": {
+        "name": "LKLG",
         "url": "https://open.spotify.com/album/6pSyw1UabD2d7XUcffFuzN"
       },
       "artists": [
@@ -959,7 +985,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 201351,
       "name": "LKLG",
       "url": "https://open.spotify.com/track/4M5WhMWntRfnKaHF38DsTb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,654 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,727 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
 
-Snapshot ID: `MCw4NmNhODFiNjhlYzkzOGY1OGRhMTVmNWVjNWNlYjU4MjhjNjY0ZjVi`
+Snapshot ID: `MCw0N2ZhN2YwMjM5N2VmYmZhMDBhOGY4NzYxZGYxZWUwNDRjNmFhNWVk`

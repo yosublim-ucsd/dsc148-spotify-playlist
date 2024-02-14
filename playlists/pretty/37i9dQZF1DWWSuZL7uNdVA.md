@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Nothing But Thieves au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,837 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,854 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 |
 | 50 | [Facade](https://open.spotify.com/track/0LOWGAqGt7dqnYOQzQqEJP) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [I Didn't Mean To Make It This Far](https://open.spotify.com/album/1zCG65ywBOBezPyY0epCQK) | 3:49 |
 
-Snapshot ID: `MCwyNDZiODM2YjlmNzNjNjNiYjhhYzJmNmNlMGNmY2ZlODNiNmU3YWI5`
+Snapshot ID: `MCw0ZTk1NmEwMGIxMDkxNWFhYTZlMTMyYWE1MmRhZjE5NTUzZWY0MjRk`

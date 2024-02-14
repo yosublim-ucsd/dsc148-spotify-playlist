@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,185 likes - 42 songs - 3 hr 7 min
+[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,184 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Right Time](https://open.spotify.com/track/1ygl1hhDhUoLDeInUgySPn) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Right Time](https://open.spotify.com/album/50GqIBJiO21dYZHHV5ZZX7) | 3:35 |
 | 2 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
 | 3 | [You Are](https://open.spotify.com/track/3fS8JMnxqxDDMld1aMetAY) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Right Time](https://open.spotify.com/album/50GqIBJiO21dYZHHV5ZZX7) | 3:35 |
-| 4 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
+| 4 | [Mirazh](https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Mirazh](https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A) | 3:25 |
 | 5 | [Nice Guy](https://open.spotify.com/track/56kBBf0vm8HTaNuy9DL5gv) | [Soolver](https://open.spotify.com/artist/4TQYtWb6zxq4NDkjTPhb63) | [Nice Guy](https://open.spotify.com/album/6puTQBREqmyk28SZLtgSSh) | 4:00 |
-| 6 | [Mirazh](https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Mirazh](https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A) | 3:25 |
+| 6 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
 | 7 | [Afraid of the Time \- Vocal Mix 2024](https://open.spotify.com/track/4KaPsqrGROPtVMxj4In3vj) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Unknown](https://open.spotify.com/album/2ZrdUOOU4vr66riT9aJ4Kc) | 3:47 |
 | 8 | [Sleeptalker \(Victor Ruiz Remix\)](https://open.spotify.com/track/7m3fOGdTBcEhQN6h1sGd5H) | [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Sleeptalker \(Victor Ruiz Remix\)](https://open.spotify.com/album/12ji1FLT7DJVY0uOBhW7fN) | 7:13 |
 | 9 | [Losing Control](https://open.spotify.com/track/49PPCNvdhzgw31o5mJoK7P) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [Real High Real Fast](https://open.spotify.com/album/5Ee8rfKjcdDF6alZNiQv1s) | 3:47 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 | 41 | [This Is Why \- Radio Edit](https://open.spotify.com/track/03wdmJSjGOKyPjyDyi174l) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:36 |
 | 42 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
 
-Snapshot ID: `MTg3NSxkMTI5Njc0NzllMjdiMzRkZTMwYmI1MjRkODZhN2UyNzljNjk4YWUw`
+Snapshot ID: `MTg3Nyw2YmIyYmQ3MTBiYjkyYmI2YTdjYjQ4NTFhZTU2MTVmM2E5YjcyYmM1`

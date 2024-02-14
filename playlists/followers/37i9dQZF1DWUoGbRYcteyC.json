@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 1951349,
+  "2024-02-14": 1951429,
   "date_first_scraped": "2021-12-28",
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
   "name": "Amor Amor",
@@ -1416,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "el afortunado",
+        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+    },
+    {
+      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg"
       },
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 132788,
       "name": "La Que Yo Amo",
       "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"

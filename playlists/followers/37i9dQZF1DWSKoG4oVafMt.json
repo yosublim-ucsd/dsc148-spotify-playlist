@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 167516,
+  "2024-02-14": 167709,
   "date_first_scraped": "2021-12-28",
   "description": "The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu",
   "name": "Punjabi Pyar",
@@ -6083,7 +6083,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 156279,
       "name": "Jahli Aashiq",
       "url": "https://open.spotify.com/track/6TRI2VjSv6T5MTYo0uhnqD"
@@ -9143,6 +9143,28 @@
       "duration_ms": 167115,
       "name": "Mehak Teri (From \"Shakaar Paare\")",
       "url": "https://open.spotify.com/track/3YRcrJaXVPPvrAakD6aflb"
+    },
+    {
+      "album": {
+        "name": "Mehboob Ji (From \"Shayar\")",
+        "url": "https://open.spotify.com/album/1wUaHrEIpp4nYyQu67LhFj"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Beat Minister",
+          "url": "https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375333,
+      "name": "Mehboob Ji (From \u201cShayar\u201d)",
+      "url": "https://open.spotify.com/track/1dvsqSAmcfFIydNY7d8S77"
     },
     {
       "album": {

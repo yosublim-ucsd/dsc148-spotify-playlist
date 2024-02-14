@@ -4,7 +4,7 @@
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g">Turnstile's'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-35 songs - 2 hr 2 min
+36 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [All There Is](https://open.spotify.com/track/2sfFReyan3wvKdfcuKjhSi) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 2:54 | 2023-09-01 |  |
 | [Arm Around You](https://open.spotify.com/track/2EXf9tMz0d8jpSFFEo22fv) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Calling Out Of Context](https://open.spotify.com/album/0cJ39KJ52lQ2tnZUyy299i) | 6:32 | 2023-09-01 |  |
 | [Be a Toy](https://open.spotify.com/track/1rqVob8GLwcVIuBQEHA6aV) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Spring Songs](https://open.spotify.com/album/4cLYG7fp8Z7OyzlSEV6HED) | 3:04 | 2023-09-01 |  |
-| [beamer boy](https://open.spotify.com/track/16dlDlLW9Uv8lmIUvAXAjG) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/1f2lbyCzddJsLaMdcXDFwW) | 3:23 | 2023-09-01 |  |
+| [beamer boy](https://open.spotify.com/track/16dlDlLW9Uv8lmIUvAXAjG) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/1f2lbyCzddJsLaMdcXDFwW) | 3:23 | 2023-09-01 | 2024-02-14 |
+| [beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/3T8uEFa8W2HkpDAI7ap0z8) | 3:23 | 2023-09-01 |  |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2023-09-01 |  |
 | [Destiny](https://open.spotify.com/track/3G3zUnmwnBHFC5UtlbLSQc) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Destiny](https://open.spotify.com/album/03j399ZcmkaoIIW57fZV8f) | 2:20 | 2023-09-01 | 2023-10-13 |
 | [Destiny](https://open.spotify.com/track/7h7k4bYY9gdAC3S7BIWpYK) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Looking Through The Shades](https://open.spotify.com/album/3sKBPdPT9GZhC3cHmaWEJC) | 2:20 | 2023-09-01 |  |

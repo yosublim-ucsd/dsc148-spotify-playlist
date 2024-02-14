@@ -1,12 +1,12 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 456186,
+  "num_followers": 456240,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTBmZTM5NTVlNjA0NWJmN2M1OTFhYTAzODdiOGY3ZWZhOGM2OTYz",
+  "snapshot_id": "MCxjODY4MDVkYzAxMzI3MGE2YWI4NzhkYjFkZDAyMWMyNDM1MjU1NzU1",
   "tracks": [
     {
       "added_at": "2021-11-26 03:18:52",
@@ -135,6 +135,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/0DZzKcLYWbYU6RFdeH65gU"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Vem Meu Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3QU53FPxXoULbgdjEh7vrD"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Sambabook Dona Ivone Lara, Vol. 2",
         "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -291,18 +291,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Ao Vivo",
-        "url": "https://open.spotify.com/album/0DZzKcLYWbYU6RFdeH65gU"
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
       "artists": [
         {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Vem Meu Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3QU53FPxXoULbgdjEh7vrD"
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Mist\u00e9rio do Planeta",
-      "url": "https://open.spotify.com/track/3TAMiM8XFmU9vFd333pgRh"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 192870,
       "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Mist\u00e9rio do Planeta",
+      "url": "https://open.spotify.com/track/3TAMiM8XFmU9vFd333pgRh"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "O Canto da Cidade",
         "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 204093,
       "name": "O Canto da Cidade",
       "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "S\u00e9rie Acervo - Martinho Da Vila",
-        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Hoje \u00c9 Dia De Festa",
         "url": "https://open.spotify.com/album/4CGL4rqypX9EGhPcXcDqlp"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 296640,
       "name": "Faixa Amarela",
       "url": "https://open.spotify.com/track/3Rp4m03mbhlYgIeSWNP9xm"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "S\u00e9rie Acervo - Martinho Da Vila",
+        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Swing de Campo Grande",
-      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Afrociberdelia",
         "url": "https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Swing de Campo Grande",
+      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Um dos Poetas do Samba",
         "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 201666,
       "name": "O Feij\u00e3o de Dona Nen\u00e9m",
       "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Pr\u00f3xima Parada",
-        "url": "https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "\u00c0 Francesa",
-      "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -915,18 +899,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Umas E Outras",
-        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
+        "name": "Pr\u00f3xima Parada",
+        "url": "https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
         }
       ],
-      "duration_ms": 220453,
-      "name": "Jorge Maravilha",
-      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
+      "duration_ms": 247200,
+      "name": "\u00c0 Francesa",
+      "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -943,6 +927,22 @@
       "duration_ms": 123760,
       "name": "A Voz do Morro",
       "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Umas E Outras",
+        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Jorge Maravilha",
+      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Gal Canta Caetano",
-        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
+        "name": "Samba de Raiz - Ao Vivo",
+        "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Samba De Raiz",
+          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
         }
       ],
-      "duration_ms": 284160,
-      "name": "Vaca Profana",
-      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+      "duration_ms": 195573,
+      "name": "Vou Festejar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
     }
   ],
   "unique_name": "Festa Brasileira",

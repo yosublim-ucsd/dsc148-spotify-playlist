@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 
 > Curated by Dan Levy\. Watch Good Grief now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,548 likes - 22 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,627 likes - 22 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 | 21 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
 | 22 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg) | 4:08 |
 
-Snapshot ID: `MCw1NjcxOGQxNTgzYjdhNWZmNWRmMmY2ZDE4ZjY3NmQwNmFiNzA1MGNj`
+Snapshot ID: `MCxiZjE1NjY5ZGNmZjIzOTI5NWYzMWY3OGMyZGM2NzRkYTA2YzUyMjIw`

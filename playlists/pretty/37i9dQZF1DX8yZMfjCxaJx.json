@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Beto Vega, Edgardo Nu\u00f1ez, Antonin Padilla en portada.",
-  "num_followers": 210287,
+  "num_followers": 210363,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yzg2YjdhYzJlMTE2MzFiMWQxNjBkNzRhNzc2OThlZDAwZGIyMjhk",
+  "snapshot_id": "MCw0OWNjNGI4ZDY1MDY3NDAyMThlNmZjM2YyZmVmOWQ3NzE5ODIwODk4",
   "tracks": [
     {
       "added_at": "2024-02-09 06:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Serafin Zambada",
-        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 128933,
-      "name": "Seraf\u00edn Zambada",
-      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Fresas De La Capital",
         "url": "https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 173397,
       "name": "Fresas De La Capital",
       "url": "https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Serafin Zambada",
+        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 128933,
+      "name": "Seraf\u00edn Zambada",
+      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "El De La Defender Blanca",
-        "url": "https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "El De La Defender Blanca",
-      "url": "https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Yo Soy El Bueno (En Vivo)",
         "url": "https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 176613,
       "name": "Yo Soy El Bueno - En Vivo",
       "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "El De La Defender Blanca",
+        "url": "https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "El De La Defender Blanca",
+      "url": "https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Vida Recia (En Vivo)",
+        "url": "https://open.spotify.com/album/44VBDrpn41Vy7FDceUSrsy"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 268434,
+      "name": "Vida Recia (En Vivo)",
+      "url": "https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "B\u00e9lico X Siempre",
         "url": "https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj"
       },
@@ -1403,42 +1423,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "El Chavo Felix",
-        "url": "https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA"
-      },
-      "artists": [
-        {
-          "name": "Kirri Enigma",
-          "url": "https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X"
-        }
-      ],
-      "duration_ms": 167890,
-      "name": "El Chavo Felix",
-      "url": "https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Vida Recia (En Vivo)",
-        "url": "https://open.spotify.com/album/44VBDrpn41Vy7FDceUSrsy"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 268434,
-      "name": "Vida Recia (En Vivo)",
-      "url": "https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "El Jessy",
         "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 199041,
       "name": "El Jessy",
       "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "El Chavo Felix",
+        "url": "https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA"
+      },
+      "artists": [
+        {
+          "name": "Kirri Enigma",
+          "url": "https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X"
+        }
+      ],
+      "duration_ms": 167890,
+      "name": "El Chavo Felix",
+      "url": "https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE"
     }
   ],
   "unique_name": "Corridos Chakalosos",

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Glixen
 
-543 songs - 1 day 11 hr 8 min
+545 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-02-27 | 2023-06-07 |
 | [bb](https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [bb](https://open.spotify.com/album/5lZGM1KnsNUviOenuiil1h) | 2:41 | 2023-02-09 | 2023-08-05 |
 | [Be My Best](https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [Be My Best](https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB) | 4:11 | 2024-01-03 |  |
+| [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) \[Spotify Singles\]](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 | 2024-02-13 |  |
 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 | 2022-12-15 | 2023-05-10 |
 | [Beauty \- Bonus Track](https://open.spotify.com/track/3uROaybnOXpcvQrv47ChcN) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure \(10th Anniversary Edition\)](https://open.spotify.com/album/2WSCMIIjNRdYTGvko0E6xS) | 6:09 | 2023-06-23 | 2023-09-02 |
 | [Become](https://open.spotify.com/track/6MxpGNjoKliUlyW9HbKBrH) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh), [Soko](https://open.spotify.com/artist/4Q3f2YYH4gQxWFS3WY5G3j) | [Happening](https://open.spotify.com/album/1AFBK10RHCuXnHXaTgyonQ) | 3:50 | 2023-02-17 | 2023-08-12 |
@@ -312,6 +313,7 @@
 | [Like Stars In The Firmament](https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Like Stars In The Firmament](https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU) | 5:24 | 2023-12-01 |  |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-31 | 2022-09-29 |
 | [Lips](https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Lips](https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy) | 5:10 | 2023-08-23 | 2023-10-21 |
+| [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 | 2024-02-13 |  |
 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-12-08 |  |
 | [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 | 2024-01-12 |  |
 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 | 2022-12-15 | 2023-06-24 |

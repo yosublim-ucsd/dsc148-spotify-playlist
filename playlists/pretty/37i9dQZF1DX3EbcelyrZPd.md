@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Lava Lava
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,636 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,704 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 74 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 |
 | 75 | [Nawaza](https://open.spotify.com/track/3yWfiWRv51tuYlAzh7KHSO) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nawaza](https://open.spotify.com/album/5d2lTlDVkULcfTMS7JoWYz) | 3:54 |
 
-Snapshot ID: `MCw0YjMwZjA5MWM1MzIxZThkZmQ3NDRlODVjMzg5MmVjYWRlMDVhMWVk`
+Snapshot ID: `MCxiNWZlMmMxZmVhMWU4NzMwNmYwNzZkODE5NGM5OGQ4NTEyNzIxOTEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,534 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,624 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Faces](https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Cut Velvet](https://open.spotify.com/album/6d1QycrvQbPhpsWv4cBuiU) | 2:21 |
 | 100 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 |
 
-Snapshot ID: `MCwyNDFjMzE0ZDU4YjI4YjYxMzA5Y2I1Y2EzMDgzYmQwOTU0YWZkOWNm`
+Snapshot ID: `MCxmNzZjN2M3NmMwN2UwNTZkYjQzYjlmMzZhYzhiMDE2ODlmOGY2MDJh`

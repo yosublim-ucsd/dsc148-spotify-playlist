@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: SHANK
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-711 songs - 1 day 14 hr 5 min
+713 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 | 2024-01-17 |
 | [I Want to Be Wrong](https://open.spotify.com/track/55kk1gFvPshLGQi9rW3si6) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [A Tribute To NO USE FOR A NAME](https://open.spotify.com/album/3RHnxCI12A7417md6Fsc5l) | 2:41 | 2022-06-21 | 2022-07-18 |
 | [I want to go out](https://open.spotify.com/track/0lrSr2OCVLI3JTs20Eytod) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [I want to go out](https://open.spotify.com/album/5RzoB8xXx2PZ6D7ZEXLjlW) | 3:23 | 2023-03-21 | 2023-03-29 |
-| [I Won't Turn Off My Radio](https://open.spotify.com/track/0SyfvSgnnOh4i3CsRWEPe1) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Sentimental Trash](https://open.spotify.com/album/3pOthAOTliJLDooq7EQ1pT) | 3:33 | 2023-12-19 |  |
+| [I Won't Turn Off My Radio](https://open.spotify.com/track/0SyfvSgnnOh4i3CsRWEPe1) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Sentimental Trash](https://open.spotify.com/album/3pOthAOTliJLDooq7EQ1pT) | 3:33 | 2023-12-19 | 2024-02-14 |
 | [I Won't Turn Off My Radio](https://open.spotify.com/track/3S5wLtvGJJlPMaMHuYxWiu) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Sentimental Trash](https://open.spotify.com/album/0MkMu4in0oa1AYsGX10O3C) | 3:33 | 2022-05-12 | 2022-07-28 |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 | 2023-12-17 |
 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 | 2023-12-19 |  |
@@ -369,7 +369,7 @@
 | [ROLLIE](https://open.spotify.com/track/3gt8pHDISoVa9oqaUn7SVn) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [EXPLORING OF THE SPACE](https://open.spotify.com/album/1snGcjfyD9oSQdOcUsr6NG) | 2:56 | 2022-05-19 | 2023-01-04 |
 | [ROSSOMAN](https://open.spotify.com/track/1OdL36eXdoWhN7HaaDLUIv) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN](https://open.spotify.com/album/2G0498MGtXceWoTlTmnJMK) | 3:59 | 2022-05-12 | 2022-07-22 |
 | [Sadness Is Over](https://open.spotify.com/track/2eT5hxlWXRal174NX8YrFA) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Sadness Is Over](https://open.spotify.com/album/5ZqzhJQEyLdHcPdtqDWUEx) | 2:43 | 2023-08-17 | 2023-09-13 |
-| [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 |  |
+| [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 | 2024-02-14 |
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 | 2023-10-31 |  |
@@ -461,6 +461,7 @@
 | [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 | 2024-01-04 |  |
 | [The Gift](https://open.spotify.com/track/7DTQOBUV8zMErJfPkf4zVr) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd) | 2:22 | 2022-05-19 | 2022-07-26 |
 | [THE NIGHT WITHOUT A STAR](https://open.spotify.com/track/5mqKM1gPH7247hZoE6Q0NR) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [EVERLASTING](https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D) | 2:56 | 2022-05-12 | 2022-07-25 |
+| [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 | 2024-02-13 |  |
 | [THE SOOTHING](https://open.spotify.com/track/3N56UMx9kEOzx97maRtHZY) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [THE SOOTHING](https://open.spotify.com/album/2gjSsAWMvLkhZbzHayDjrs) | 2:41 | 2022-05-12 | 2022-07-14 |
 | [The Sound Of Our Love](https://open.spotify.com/track/51VBY0UywtABoLmQVcexnu) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Father And Me](https://open.spotify.com/album/43nUn3KuZGmrkYRYMOCstZ) | 3:02 | 2023-08-15 | 2023-08-18 |
 | [The Wristband of THE HIGH\-LOWS at My Parents' House](https://open.spotify.com/track/7pCrcx296Mz5B7FLRsHSkt) | [LETEPATHYS](https://open.spotify.com/artist/6mrp4Qwn9ekWEK73Vct3BM) | [Endangered Species](https://open.spotify.com/album/1QQpRsMfOvBk9kzIXJfhxz) | 1:14 | 2022-08-16 | 2022-09-15 |
@@ -487,7 +488,7 @@
 | [Urakan.rana](https://open.spotify.com/track/0JlCdu2HaoYgHT7UyUnMFI) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Urakan.rana](https://open.spotify.com/album/5hJ0MgDtFocwjJjinGlvxT) | 1:05 | 2022-11-01 | 2022-11-14 |
 | [Urakan.rana](https://open.spotify.com/track/0tqLtqLqRIPtKnnLOA8fSo) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Delicious!!](https://open.spotify.com/album/6T5ufASjVqhNKD5soGjTvQ) | 1:05 | 2022-11-01 | 2022-11-16 |
 | [USUAL THINGS](https://open.spotify.com/track/6tswheUnXPiqniiAEMa9o8) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [WRAINBOW](https://open.spotify.com/album/1A2wV5V15wivdfxrRkR4ZZ) | 2:55 | 2022-05-17 | 2022-07-24 |
-| [Uzu](https://open.spotify.com/track/3KWXWZe1VeRJScoCbstAxk) | [OWl](https://open.spotify.com/artist/0maedf6L3q44shFk35Bs9Y) | [Uzu](https://open.spotify.com/album/3LTuVnJeZG3rXkGFC23J9k) | 2:56 | 2023-12-26 |  |
+| [Uzu](https://open.spotify.com/track/3KWXWZe1VeRJScoCbstAxk) | [OWl](https://open.spotify.com/artist/0maedf6L3q44shFk35Bs9Y) | [Uzu](https://open.spotify.com/album/3LTuVnJeZG3rXkGFC23J9k) | 2:56 | 2023-12-26 | 2024-02-14 |
 | [UZUMAKI](https://open.spotify.com/track/5h41AZgRSFewUHIRl5rz72) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz), [WORSTRASH](https://open.spotify.com/artist/6NQKZrJy0f4GVdBXfs6m4p) | [UZUMAKI](https://open.spotify.com/album/4Z2rLymOwHWmb6FqOKKsux) | 2:10 | 2024-01-04 |  |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-12 | 2024-01-10 |
 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2022-07-27 |
@@ -551,6 +552,7 @@
 | [しあわせになる](https://open.spotify.com/track/0LeFkyQOiMMyeiUpuhL2HF) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [しあわせになる](https://open.spotify.com/album/5d6jAVVrGPqrXOHeDZTeyJ) | 1:29 | 2022-05-24 | 2022-07-15 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 | 2024-01-25 |  |
 | [その羅針盤](https://open.spotify.com/track/6cPCs9eghvxx4hMKvLT7U0) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [その羅針盤](https://open.spotify.com/album/3p7JjQ91l4lG4Xtcc5dDb2) | 3:46 | 2022-05-17 | 2022-07-23 |
+| [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 | 2024-02-13 |  |
 | [ちょ](https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:15 | 2022-05-19 |  |
 | [つばさ](https://open.spotify.com/track/6UVsdfH8fHX2oYEfpQJ5NV) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 4:33 | 2022-05-12 | 2023-01-06 |
 | [なぜ今日天気が悪い](https://open.spotify.com/track/6TorBlsYdhjPchFOZDyt95) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [なぜ今日天気が悪い](https://open.spotify.com/album/55B3St6M2drUy59u67UABa) | 2:54 | 2023-07-13 | 2023-07-15 |
@@ -567,7 +569,7 @@
 | [アンダイイングロックンロール](https://open.spotify.com/track/0CuGdMFTSacKYJuZEIzxMK) | [AIR SWELL](https://open.spotify.com/artist/0k1XY7YS3ggrZu8UeyNlUo) | [アンダイイングロックンロール](https://open.spotify.com/album/09iqf2C8Gw5JvChHnC8otU) | 2:49 | 2022-05-19 | 2022-07-28 |
 | [イエスマン](https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [イエスマン](https://open.spotify.com/album/0PmeaCohxjFdC7wyzQc8S1) | 2:54 | 2022-05-24 | 2022-07-21 |
 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-16 | 2022-09-15 |
-| [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 | 2024-01-17 |
+| [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 |  |
 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-04 | 2023-07-12 |
 | [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 | 2023-07-06 |
 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 | 2022-05-12 |  |

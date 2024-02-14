@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1004,
+  "num_followers": 1005,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzMzYWVjNzZlZWRjMmFjYzNiNmZiNzE0NWM2NzI5OWJlN2EzNjc0",
+  "snapshot_id": "MCxjOWE0ODY5YjlkOTRlMmUzYzQ0MjMxNTNjMWQzOTEwNGRmYjdlYjM3",
   "tracks": [
     {
       "added_at": "2023-11-24 04:39:56",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Tumbiza Sound",
-        "url": "https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "Tumbiza Sound",
-      "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3odxvb0YleysbfxNeBomkR"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Tumbiza Sound",
+        "url": "https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg"
+        }
+      ],
+      "duration_ms": 190772,
+      "name": "Tumbiza Sound",
+      "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Bango",
         "url": "https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Tupaate",
-        "url": "https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "Wakikuba",
-      "url": "https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "Know God",
         "url": "https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 202031,
       "name": "Know God",
       "url": "https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Tupaate",
+        "url": "https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ"
     },
     {
       "added_at": "2023-11-24 04:39:56",

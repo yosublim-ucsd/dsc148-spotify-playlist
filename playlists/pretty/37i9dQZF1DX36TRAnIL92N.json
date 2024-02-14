@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 283403,
+  "num_followers": 283783,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTM1ODQ0MDNjOTMyMGQ2MzI0ZWUwYTY1NGFkYWQzNWQ5Y2U3ZTE4",
+  "snapshot_id": "MCw0Yjg3MTNlZTAxYWZjZGRkYmU2NGM2ZGFhY2U5YzQxZWM3ZmVmZjM3",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
-      },
-      "artists": [
-        {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
-        }
-      ],
-      "duration_ms": 276357,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Injection (Original Mix)",
         "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
-      },
-      "artists": [
-        {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
-        }
-      ],
-      "duration_ms": 271729,
-      "name": "Affection - Radio Edit",
-      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Club Vibes Part 05",
         "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 271729,
+      "name": "Affection - Radio Edit",
+      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
     },
     {
       "added_at": "2024-01-26 05:00:00",

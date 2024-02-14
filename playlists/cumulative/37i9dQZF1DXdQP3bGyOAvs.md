@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-349 songs - 17 hr 14 min
+352 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Coeur d'Alene](https://open.spotify.com/track/4n6xA65ah6i8QoHVcHraaR) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Coeur d'Alene](https://open.spotify.com/album/2U9W6kKQmuqlMxnzYKIeIB) | 2:24 | 2023-09-22 |  |
 | [Cold Chicken Broth](https://open.spotify.com/track/4umQVG7mrvk6CryTwfZZWC) | [Amber Tones](https://open.spotify.com/artist/4YoPOnNyqEMmqU518n8G81) | [Cold Chicken Broth](https://open.spotify.com/album/5ZUmqbZYxODZXaPWnrAc1a) | 2:38 | 2023-11-17 |  |
 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 | 2023-04-28 |  |
+| [Cooking](https://open.spotify.com/track/7jUPFQuuEgrmae7d3nsHVO) | [frotteee](https://open.spotify.com/artist/2mKzge5uoouLNQlK8kzzVp) | [Cooking](https://open.spotify.com/album/5ZDE91xtdyjMFqQJBXaxEc) | 2:18 | 2024-02-13 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2022-05-20 |  |
 | [Coral Beach](https://open.spotify.com/track/0aymtzpvO3QufAK2MbSBHd) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Coral Beach](https://open.spotify.com/album/6aR9tPyi2VE3f1rQo9dy2j) | 2:45 | 2022-05-20 | 2022-10-07 |
 | [Corridors](https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Corridors](https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam) | 3:11 | 2022-09-09 |  |
@@ -304,6 +305,7 @@
 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 | 2022-05-20 |  |
 | [stand me](https://open.spotify.com/track/3iKh3jXoEIkgF2kIMVAlCX) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [stand me](https://open.spotify.com/album/7oIs0cixveS2hwbI6rWOp3) | 2:58 | 2022-09-23 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2022-05-20 | 2023-08-05 |
+| [Stardust](https://open.spotify.com/track/2U2vyEv7hcR36ptANAoWLp) | [Lauren Que](https://open.spotify.com/artist/7DQiNBj7qfmV8s5Z0HmOLW) | [Stardust](https://open.spotify.com/album/5vSeJNRX90P0xLUpj4AZQo) | 2:06 | 2024-02-13 |  |
 | [Stellar Bomb](https://open.spotify.com/track/1uyZR0MR3AKiUJD55PJs8A) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Stellar Bomb](https://open.spotify.com/album/3Qr158I4WE250jcb1FWRuD) | 2:54 | 2022-10-07 |  |
 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-05-20 |  |
 | [Strobe Alley](https://open.spotify.com/track/5d2xWaXb7Wyu0T9fSUPwJa) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Strobe Alley](https://open.spotify.com/album/0eigUdryKClncsWngNi64B) | 4:20 | 2022-05-20 | 2022-06-10 |
@@ -318,6 +320,7 @@
 | [Surface](https://open.spotify.com/track/3cYoFTvBceHnBJrepK9zoC) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:49 | 2022-05-20 |  |
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-09-09 |
 | [Swirls](https://open.spotify.com/track/3d3lF5sNvkYHe8oL7tDJtH) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Swirls](https://open.spotify.com/album/0ejb8K42cu7odeMxx7OvaT) | 2:38 | 2023-08-18 |  |
+| [Tandem](https://open.spotify.com/track/48rCs4RdHkOTgaNpdd6vk8) | [Nicki Smith](https://open.spotify.com/artist/1KzteKoMHprB1bbwycKM9N) | [Tandem](https://open.spotify.com/album/4hXSbMigLYxO3ISe33tpIq) | 2:14 | 2024-02-13 |  |
 | [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
 | [Tell Me It's Not Over](https://open.spotify.com/track/4Ul7JjcgyD8BmIZkloRlKu) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Tell Me It's Not Over](https://open.spotify.com/album/6lzQfNbnGiljpubcYSFdhQ) | 3:05 | 2022-09-16 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-05-20 | 2022-06-03 |

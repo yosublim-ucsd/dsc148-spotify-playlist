@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: DK
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,082 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,123 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LTNS](https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga) | [DK](https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF) | [LTNS](https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm) | 3:42 |
 | 2 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Pre\-Release Single \[Stuck In The Middle\]](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
 | 3 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 |
-| 4 | [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 |
-| 5 | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31) | 3:20 |
-| 6 | [Slowly \(feat\. Heize\)](https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Slowly \(feat\. Heize\)](https://open.spotify.com/album/1vmkLxU1BKfTDImiWtAhb9) | 3:15 |
-| 7 | [One Day](https://open.spotify.com/track/5TvzBJWwU6L1MaWYcpVdx3) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [One Day](https://open.spotify.com/album/2rfrtvdyqwMHPLrwUnqMQA) | 4:55 |
-| 8 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
+| 4 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
+| 5 | [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 |
+| 6 | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31) | 3:20 |
+| 7 | [Slowly \(feat\. Heize\)](https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Slowly \(feat\. Heize\)](https://open.spotify.com/album/1vmkLxU1BKfTDImiWtAhb9) | 3:15 |
+| 8 | [One Day](https://open.spotify.com/track/5TvzBJWwU6L1MaWYcpVdx3) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [One Day](https://open.spotify.com/album/2rfrtvdyqwMHPLrwUnqMQA) | 4:55 |
 | 9 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 |
 | 10 | [What kind of future](https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [What kind of future](https://open.spotify.com/album/1S46HO8uCleN4pov8D3bGL) | 3:51 |
 | 11 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 |
 | 50 | [BYOB \(bring your own best friend\)](https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Billlie 'BYOB \(bring your own best friend\)'](https://open.spotify.com/album/4k9r7qGZQi1kLGMWlyn8Xl) | 2:38 |
 
-Snapshot ID: `MCxkNmZkODJiMGJjMjU3MTU3ZmQyYmJmYjc5MmYyYTgwMmYwYTE0NTM4`
+Snapshot ID: `MCwzMGRhNWY0YTg1ZDlmZmY3ZGM2ZjdiN2UwZGZjYzkxODc5NDI5Y2Nj`

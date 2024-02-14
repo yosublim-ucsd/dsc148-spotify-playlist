@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,023 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,984 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 39 | [Dear Santa](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:58 |
 | 40 | [Grey Christmas](https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.2\] Grey Christmas](https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7) | 3:28 |
 | 41 | [Mr\. Snowman](https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Peppermint Tea](https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ) | 3:31 |
-| 42 | [The Winter's Tale](https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) | 4:19 |
-| 43 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |
+| 42 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |
+| 43 | [The Winter's Tale](https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) | 4:19 |
 | 44 | [Candy Cane](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:24 |
 | 45 | [Must Have Love](https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [MUST HAVE](https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO) | 3:16 |
 | 46 | [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 63 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
 | 64 | [The Magic of Christmas Time](https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 2:47 |
 | 65 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 |
-| 66 | [Because It's Christmas](https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) | 3:45 |
-| 67 | [My Winter Trip](https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Winter Trip](https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci) | 4:11 |
+| 66 | [My Winter Trip](https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Winter Trip](https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci) | 4:11 |
+| 67 | [Because It's Christmas](https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [The Winter's Tale](https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v) | 3:45 |
 | 68 | [Everyday Christmas](https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 3:08 |
 | 69 | [Happy Christmas](https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [YAOKI Project part.1](https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9) | 4:03 |
 | 70 | [Let Me Know \- Bonus Track](https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Another Sad Love Song](https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE) | 3:04 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 90 | [Special Christmas](https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ), [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw), [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [2016 United Cube Project Part 1](https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla) | 3:48 |
 | 91 | [Beautiful Winter](https://open.spotify.com/track/5iN9cgIpMlm6nfi6zRG8HR) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [I LOVE WINTER](https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k) | 3:32 |
 | 92 | [Save Our Christmas](https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 4:29 |
-| 93 | [One More Christmas \- English Version](https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [One More Christmas](https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp) | 3:32 |
-| 94 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 |
-| 95 | [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 |
+| 93 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 |
+| 94 | [Winter's Glow](https://open.spotify.com/track/6ZQ18l5lfQxCPXr5aLwW1h) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Winter's Glow](https://open.spotify.com/album/3XujYn9KX1atnDjVatumH4) | 3:05 |
+| 95 | [One More Christmas \- English Version](https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [One More Christmas](https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp) | 3:32 |
 | 96 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
-| 97 | [Winter's Glow](https://open.spotify.com/track/6ZQ18l5lfQxCPXr5aLwW1h) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Winter's Glow](https://open.spotify.com/album/3XujYn9KX1atnDjVatumH4) | 3:05 |
+| 97 | [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 |
 | 98 | [Mr\. Santa](https://open.spotify.com/track/5sKVq8eZao43FmumueYClP) | [LUNCH](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) | [Mr\. Santa](https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5) | 3:19 |
 | 99 | [White Christmas](https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O) | [LeeBoram \(seeya\)](https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Baekyebin](https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW) | [White Christmas](https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR) | 3:47 |
 | 100 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 |
 
-Snapshot ID: `MCxkYmE2ZTY2OWE3YTdhY2MwMjVhOTBmNmYzOTlhNWJlOWM0NjY0MmM0`
+Snapshot ID: `MCw1MmNkYTAxZDVhMjUxNGFhMThiMWI2NDhjN2I4Yjk1NGUxYTJhOGEx`

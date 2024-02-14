@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 17505,
+  "num_followers": 17519,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzlkMzg5YWVkMDc1Yjk5YTAzZWI3Y2VhNGY1OWYwNzk2YzcyYzAw",
+  "snapshot_id": "MCwzMGFhNzcwM2E2MzIxN2Q5NzkzOGI0ZWVmODA0ZDY2OTViY2RhMzQ2",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Culo Arabe",
+        "url": "https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT"
+      },
+      "artists": [
+        {
+          "name": "DJ Tona",
+          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
+        },
+        {
+          "name": "Kareem the Press",
+          "url": "https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm"
+        }
+      ],
+      "duration_ms": 195736,
+      "name": "Culo Arabe",
+      "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Jordan Flight",
         "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 159923,
       "name": "Jordan Flight",
       "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Culo Arabe",
-        "url": "https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT"
-      },
-      "artists": [
-        {
-          "name": "DJ Tona",
-          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
-        },
-        {
-          "name": "Kareem the Press",
-          "url": "https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm"
-        }
-      ],
-      "duration_ms": 195736,
-      "name": "Culo Arabe",
-      "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -2047,30 +2047,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Barby Bellaka",
-        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
-      },
-      "artists": [
-        {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Barby Bellaka",
-      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "SUPER ESTRELLAS",
         "url": "https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe"
       },
@@ -2095,6 +2071,30 @@
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Barby Bellaka",
+        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Barby Bellaka",
+      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -2203,26 +2203,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Paleta",
-        "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
+        "name": "OG CITY",
+        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
       },
       "artists": [
         {
-          "name": "Ceaese",
-          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         },
         {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 161216,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
+      "duration_ms": 241341,
+      "name": "No Traje Naki",
+      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF?si=0Nmwl3bvRHyUGyKCVacoVQ">ThxSoMch's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-31 songs - 2 hr 8 min
+33 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 | 2024-02-09 |  |
 | [Red Bottom Sky](https://open.spotify.com/track/7wgnq5xJ4elWgKBASBKbZt) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/10iGXFl7sNkUDjIPLRA8Ym) | 5:03 | 2024-02-09 |  |
 | [Return of the "G"](https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:49 | 2024-02-09 |  |
-| [The Brightside](https://open.spotify.com/track/64oQ8vyugS5Mmm4BFakssO) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/6GkrA9XjOpEFkep0TIfFB8) | 3:36 | 2024-02-09 |  |
+| [The Brightside](https://open.spotify.com/track/64oQ8vyugS5Mmm4BFakssO) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/6GkrA9XjOpEFkep0TIfFB8) | 3:36 | 2024-02-09 | 2024-02-14 |
+| [The Brightside](https://open.spotify.com/track/7lbGqBMyCOK43hwY0Kcu7o) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/70LJ28NE9LV93xF2z6PiyN) | 3:36 | 2024-02-09 |  |
 | [The Killing Moon](https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 5:48 | 2024-02-09 |  |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2024-02-09 |  |
 | [WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 4:11 | 2024-02-09 |  |
@@ -37,7 +38,8 @@
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:18 | 2024-02-09 |  |
 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 | 2024-02-09 |  |
 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 | 2024-02-09 |  |
-| [white tee](https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 2:12 | 2024-02-09 |  |
+| [white tee](https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 2:12 | 2024-02-09 | 2024-02-14 |
+| [white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/2tLt6wYVuseWCe6IwDSlTm) | 2:12 | 2024-02-09 |  |
 | [Тоска](https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:09 | 2024-02-09 |  |
 
 \*This playlist was first scraped on 2024-02-10. Prior content cannot be recovered.

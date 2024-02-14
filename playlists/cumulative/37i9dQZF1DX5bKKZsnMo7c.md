@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Jagwar Twin
 
-329 songs - 17 hr 45 min
+330 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-11-20 |  |
 | [Fuck It](https://open.spotify.com/track/6n4dJjCThR7Gb9A5DXr1xj) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck It](https://open.spotify.com/album/4JGzX9sAYsqg0mOp0pegoA) | 1:48 | 2022-05-17 | 2022-07-25 |
 | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck The Supreme Court \(Rant Song\)](https://open.spotify.com/album/462TZxbkxvWlvQrxHk8iAN) | 2:50 | 2022-07-07 | 2022-11-30 |
-| [Funny Bunny](https://open.spotify.com/track/41iwYZWC9wiyOqeEigSywk) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5) | [Primordial Archive](https://open.spotify.com/album/0En2jb4HUcJM57qWctnLNR) | 2:17 | 2023-12-29 |  |
+| [Funny Bunny](https://open.spotify.com/track/41iwYZWC9wiyOqeEigSywk) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5) | [Primordial Archive](https://open.spotify.com/album/0En2jb4HUcJM57qWctnLNR) | 2:17 | 2023-12-29 | 2024-02-14 |
 | [Gambling Addiction](https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Gambling Addiction](https://open.spotify.com/album/7FgOugktlsg4ODTM29jMzP) | 2:47 | 2022-05-17 | 2022-07-25 |
 | [Genesis](https://open.spotify.com/track/49nE8KUUvy7LGJG1kKqheT) | [Benjamin Clementine](https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z) | [Genesis](https://open.spotify.com/album/4yojiZOEenXhf4nPO8EPLq) | 2:28 | 2022-09-02 | 2022-12-10 |
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-28 |
@@ -218,6 +218,7 @@
 | [My Time](https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP) | [bo en](https://open.spotify.com/artist/1EotkJocwHvhFOAsoOj1jJ) | [Pale Machine](https://open.spotify.com/album/1a2UnYDnfK25QJKfgHNHnu) | 5:13 | 2022-05-17 | 2022-06-25 |
 | [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 | 2023-05-19 | 2023-11-01 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-12 | 2023-04-29 |
+| [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 | 2024-02-13 |  |
 | [News At 9](https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:13 | 2022-06-07 | 2022-12-10 |
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-05-17 | 2022-07-29 |
 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 | 2022-05-17 | 2022-06-07 |

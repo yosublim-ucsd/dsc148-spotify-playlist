@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 430797,
+  "2024-02-14": 430847,
   "date_first_scraped": "2021-12-21",
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
   "name": "wanderlust",
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
@@ -3867,6 +3867,24 @@
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245923,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-698 songs - 2 day 7 hr 9 min
+699 songs - 2 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Never Will I Marry](https://open.spotify.com/track/2bOUrmH6OljKtXOLjvVEU8) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:19 | 2022-10-27 |  |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2022-10-27 | 2024-01-26 |
 | [Night Dreamer \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:15 | 2023-08-30 |  |
+| [Night Lights](https://open.spotify.com/track/7jGGHvY9NqG8uSgnbqNF82) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Walkman Jazz : Gerry Mulligan](https://open.spotify.com/album/6S6PvrkZJLydWWV7569wLw) | 4:52 | 2024-02-01 |  |
 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 | 2022-10-27 |  |
 | [Now's The Time](https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 3:01 | 2022-10-27 |  |
 | [Nuttville](https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Roar Of '74](https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd) | 4:50 | 2022-10-27 | 2023-06-19 |
@@ -473,7 +474,7 @@
 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 | 2022-10-27 |  |
 | [Petite Fleur](https://open.spotify.com/track/2ALXKyI9lB1HoIwJh7I2v0) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [Les Années Bechet](https://open.spotify.com/album/6MSDPMpPCInQbgW8xHDilS) | 3:18 | 2022-10-27 |  |
 | [Plaisir D'Amour](https://open.spotify.com/track/6a73OkTQ4v6XQp9HQyJxg4) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [A Paris](https://open.spotify.com/album/5lANN9hQYnITPzRPZxjYPw) | 3:10 | 2022-10-27 | 2023-06-04 |
-| [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 | 2024-02-01 |  |
+| [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 | 2024-02-01 | 2024-02-14 |
 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 | 2022-10-27 |  |
 | [Poinciana](https://open.spotify.com/track/4lyupu0V7V9CoKhH52sfS8) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Poinciana](https://open.spotify.com/album/34GHm1Z27zI3SfqAzqSPmM) | 4:33 | 2022-10-27 | 2024-01-05 |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/283h1iiG7BVoKvTVAr5bSc) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 5:29 | 2022-10-27 |  |

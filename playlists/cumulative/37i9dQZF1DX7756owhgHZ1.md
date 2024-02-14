@@ -4,7 +4,7 @@
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-83 songs - 4 hr 33 min
+84 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo) | 4:50 | 2022-06-07 |  |
 | [The Number of the Beast \- 1998 Remaster](https://open.spotify.com/track/7z9UU7eamD9OQvGhOJ4R4l) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/2BfXz1uwKCFaD5TddCWITq) | 4:50 | 2022-06-07 | 2023-11-05 |
 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 4:50 | 2022-06-07 | 2023-11-03 |
-| [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 | 2022-06-07 |  |
+| [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 | 2022-06-07 | 2024-02-14 |
+| [West Coast](https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/2s9Ar63LYOp0XUOscyIz9M) | 3:22 | 2022-06-07 |  |
 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 | 2022-06-07 |  |
 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 | 2022-06-07 |  |
 | [Wish](https://open.spotify.com/track/3z3bcIS2CBJ5pqWQjKPiIo) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:21 | 2022-06-07 |  |

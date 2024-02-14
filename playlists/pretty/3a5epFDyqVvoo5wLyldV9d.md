@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 754 songs - 2 day 10 hr 31 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 755 songs - 2 day 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -762,5 +762,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 752 | [Peace On Earth](https://open.spotify.com/track/3xm3OnerPVFh8X5l7skbLd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/6vqY4CxUewSHoLPi2G0s99) | 7:43 |
 | 753 | [プラスティック・バンブー](https://open.spotify.com/track/25uY66kafpxMsuOkjwC9Vl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [フェイヴァリット・ヴィジョンズ](https://open.spotify.com/album/1DzapgwUNFMJTNtyLtzhTJ) | 6:31 |
 | 754 | [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 |
+| 755 | [Ansumana](https://open.spotify.com/track/7HYUvtCD0BklQbtf6hoRjk) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/2MCLTuwWCBLuWaI91DRpVP) | 5:25 |
 
-Snapshot ID: `ODQ2LGJhZWUyY2UyZGI0MjAyNjhiMTYwMDc3ZjczYmMzMjVlOGQwYjNkYmM=`
+Snapshot ID: `ODQ3LDI3MGY2MzQ0MjliMjZhNzAwMjFmYTMzNjFjZjJiMGIwY2RkMmQ3M2I=`

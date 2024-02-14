@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 69444,
+  "num_followers": 69470,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDk3NmUyZmY4MmI4Y2QyNjExYWY4ZGU3NjU1YmYyZjMwYzVjMjBh",
+  "snapshot_id": "MCw4YzIyYTM3YTIwYzdkMDFlNmE1ZDFjMTczNzI1NzQ1ZTMwZDFlMGEz",
   "tracks": [
     {
       "added_at": "2024-02-02 08:16:52",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-02 08:16:52",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 381640,
-      "name": "Hush - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
-    },
-    {
-      "added_at": "2024-02-02 08:16:52",
-      "album": {
         "name": "Clubhouse",
         "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 425480,
       "name": "Devilette",
       "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
+    },
+    {
+      "added_at": "2024-02-02 08:16:52",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 381640,
+      "name": "Hush - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
     },
     {
       "added_at": "2024-02-02 08:16:52",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-02-02 08:16:52",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+      "duration_ms": 439866,
+      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
     },
     {
       "added_at": "2024-02-02 08:16:52",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-02-02 08:16:52",
       "album": {
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+    },
+    {
+      "added_at": "2024-02-02 08:16:52",
+      "album": {
         "name": "Lee-Way",
         "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 729613,
       "name": "Midtown Blues",
       "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
-    },
-    {
-      "added_at": "2024-02-02 08:16:52",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 439866,
-      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
     },
     {
       "added_at": "2024-02-02 08:16:52",

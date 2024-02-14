@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 13543,
+  "2024-02-14": 13548,
   "date_first_scraped": "2024-01-30",
   "description": "This is J Boog. The essential tracks, all in one playlist.",
   "name": "This Is J Boog",
@@ -515,6 +515,40 @@
     {
       "album": {
         "name": "Liki Tiki (Reggae Remix)",
+        "url": "https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250105,
+      "name": "Liki Tiki - Reggae Remix",
+      "url": "https://open.spotify.com/track/6QQK85nnBzFxRyW4qkMHHY"
+    },
+    {
+      "album": {
+        "name": "Liki Tiki (Reggae Remix)",
         "url": "https://open.spotify.com/album/3vu3P7k95GmGbcihFAPNf3"
       },
       "artists": [
@@ -541,7 +575,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 250105,
       "name": "Liki Tiki - Reggae Remix",
       "url": "https://open.spotify.com/track/7ffWg1aiz44kiCF6wtvypd"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 614523,
+  "num_followers": 614542,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYxMTAyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYxMTg4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "UNGA & FRIA",
         "url": "https://open.spotify.com/album/07w87eimESXFgxpCI191vp"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Lean & $prite",
         "url": "https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Inga \u00e4nglar (Na na na)",
         "url": "https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "SOVA",
+      "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "L\u00e5t Mig Va",
         "url": "https://open.spotify.com/album/678gU1iWVNcgTstct030O3"
@@ -97,55 +113,7 @@
       "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "FOR THOSE WHO BELIEVED",
-        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "SOVA",
-      "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "30 under 30",
-        "url": "https://open.spotify.com/album/7DRt4eLn3btxQF8KSYSol1"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 179969,
-      "name": "30 under 30",
-      "url": "https://open.spotify.com/track/3atoN74BRD90F3NRo4uhUo"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -161,7 +129,23 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
@@ -181,59 +165,23 @@
       "url": "https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+        "name": "30 under 30",
+        "url": "https://open.spotify.com/album/7DRt4eLn3btxQF8KSYSol1"
       },
       "artists": [
         {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
         }
       ],
-      "duration_ms": 140046,
-      "name": "Djurens vaggvisa",
-      "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
+      "duration_ms": 179969,
+      "name": "30 under 30",
+      "url": "https://open.spotify.com/track/3atoN74BRD90F3NRo4uhUo"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "Hela v\u00e4rlden v\u00e4ntar",
-        "url": "https://open.spotify.com/album/4YVvgDE041taOlLbD1QEIT"
-      },
-      "artists": [
-        {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
-        }
-      ],
-      "duration_ms": 183991,
-      "name": "Hela v\u00e4rlden v\u00e4ntar",
-      "url": "https://open.spotify.com/track/0KnatBv9CtD7s3LMFfJiAm"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "Upp och ner och hit och dit med Babblarna",
-        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
-      },
-      "artists": [
-        {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -249,7 +197,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "In Memory Of Some Stand Up Guys",
         "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
@@ -265,7 +213,7 @@
       "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -285,39 +233,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "Vapen & ammunition",
-        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
-      },
-      "artists": [
-        {
-          "name": "kent",
-          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "P\u00e4rlor",
-      "url": "https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "FOR THOSE WHO BELIEVED",
-        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/1Po4yqRfd8FywRnbv5XQfR"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -337,75 +253,7 @@
       "url": "https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "Ahumma",
-        "url": "https://open.spotify.com/album/14NOxOFVGIJaZWXBS5zpTe"
-      },
-      "artists": [
-        {
-          "name": "C-Joe",
-          "url": "https://open.spotify.com/artist/2relalSIlRWsTuc6YMXG7l"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Ahumma",
-      "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "FOR THOSE WHO BELIEVED",
-        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 137475,
-      "name": "MISSTAG",
-      "url": "https://open.spotify.com/track/1b7bQd3afjl4E3koDn1MxK"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 115238,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "Astronaut - Spotify Singles",
-        "url": "https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 139054,
-      "name": "Astronaut - Spotify Singles",
-      "url": "https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -425,23 +273,91 @@
       "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "Ikv\u00e4ll Igen",
-        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 137727,
-      "name": "Ikv\u00e4ll Igen",
-      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
+      "duration_ms": 140046,
+      "name": "Djurens vaggvisa",
+      "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/1Po4yqRfd8FywRnbv5XQfR"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "Vapen & ammunition",
+        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "P\u00e4rlor",
+      "url": "https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 137475,
+      "name": "MISSTAG",
+      "url": "https://open.spotify.com/track/1b7bQd3afjl4E3koDn1MxK"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
+      },
+      "artists": [
+        {
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Best\u00e4mda Kliv",
         "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
@@ -457,7 +373,7 @@
       "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
@@ -481,7 +397,23 @@
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "Astronaut - Spotify Singles",
+        "url": "https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 139054,
+      "name": "Astronaut - Spotify Singles",
+      "url": "https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Tid & Tro",
         "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
@@ -497,7 +429,7 @@
       "url": "https://open.spotify.com/track/3Je6X9MikiAZqi7x7Wfu0t"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -513,7 +445,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -537,7 +469,39 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "MIRAKEL",
+      "url": "https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "You Love Who You Love",
+      "url": "https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -557,55 +521,59 @@
       "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "B\u00e4ttre nu (The Wedding)",
-        "url": "https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6"
+        "name": "Hela v\u00e4rlden v\u00e4ntar",
+        "url": "https://open.spotify.com/album/4YVvgDE041taOlLbD1QEIT"
       },
       "artists": [
         {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
         }
       ],
-      "duration_ms": 204157,
-      "name": "B\u00e4ttre nu (The Wedding)",
-      "url": "https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG"
+      "duration_ms": 183991,
+      "name": "Hela v\u00e4rlden v\u00e4ntar",
+      "url": "https://open.spotify.com/track/0KnatBv9CtD7s3LMFfJiAm"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "FOR THOSE WHO BELIEVED",
-        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 191688,
-      "name": "MIRAKEL",
-      "url": "https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ"
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 185743,
-      "name": "You Love Who You Love",
-      "url": "https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl"
+      "duration_ms": 115238,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -625,23 +593,7 @@
       "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "FOR THOSE WHO BELIEVED",
-        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "LEGACY",
-      "url": "https://open.spotify.com/track/6Oc6hi5JyL1Q4M3GruTr9H"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Jeg vil ha (Parlamentet)",
         "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
@@ -661,67 +613,55 @@
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "B\u00e4ttre nu (The Wedding)",
+        "url": "https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
         }
       ],
-      "duration_ms": 174083,
-      "name": "KEYS TO MY LIFE",
-      "url": "https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W"
+      "duration_ms": 204157,
+      "name": "B\u00e4ttre nu (The Wedding)",
+      "url": "https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "Ikv\u00e4ll Igen",
+        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 195117,
-      "name": "PAID",
-      "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
+      "duration_ms": 137727,
+      "name": "Ikv\u00e4ll Igen",
+      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 185110,
-      "name": "TALKING",
-      "url": "https://open.spotify.com/track/3qnbLYCLzKvGIQXFyopS2H"
+      "duration_ms": 210989,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/6Oc6hi5JyL1Q4M3GruTr9H"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -737,7 +677,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Minns du? (feat. Thomas Stenstr\u00f6m)",
         "url": "https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ"
@@ -757,39 +697,39 @@
       "url": "https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/0PkpQD4vonvpNtb5Tx7C7D"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 177045,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/1bNHljyfq75Hcl2selYvLH"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+        "name": "Leylas World",
+        "url": "https://open.spotify.com/album/5WC5WvmybgtCEuFdr0kQMW"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+      "duration_ms": 189183,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/6IgMLWNcxP1vONuQSIDEpk"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -809,7 +749,39 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 222489,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -829,26 +801,82 @@
       "url": "https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 195117,
+      "name": "PAID",
+      "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "Leylas World",
-        "url": "https://open.spotify.com/album/5WC5WvmybgtCEuFdr0kQMW"
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "Ahumma",
+        "url": "https://open.spotify.com/album/14NOxOFVGIJaZWXBS5zpTe"
+      },
+      "artists": [
+        {
+          "name": "C-Joe",
+          "url": "https://open.spotify.com/artist/2relalSIlRWsTuc6YMXG7l"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "Ahumma",
+      "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
+    },
+    {
+      "added_at": "2024-02-13 23:36:50",
+      "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
       },
       "artists": [
         {
@@ -856,45 +884,25 @@
           "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 189183,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/6IgMLWNcxP1vONuQSIDEpk"
+      "duration_ms": 184077,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/4oAkKXSmKLe5cerbNrJOwR"
     },
     {
-      "added_at": "2024-02-12 10:21:19",
+      "added_at": "2024-02-13 23:36:50",
       "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 222489,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
-    },
-    {
-      "added_at": "2024-02-12 10:21:19",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 160373,
-      "name": "Somna",
-      "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     }
   ],
   "unique_name": "Top 50 - Sweden",

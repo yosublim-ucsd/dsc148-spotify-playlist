@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 4522,
+  "2024-02-14": 4531,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -57,6 +57,28 @@
       "duration_ms": 190240,
       "name": "Black Siemens",
       "url": "https://open.spotify.com/track/3mhA3HuRldiEtTvCpJ2Act"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
     },
     {
       "album": {
@@ -147,6 +169,28 @@
       "duration_ms": 103311,
       "name": "F*CK OFF",
       "url": "https://open.spotify.com/track/0w9ZBj1sdjzemjX2E8WONY"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
     },
     {
       "album": {
@@ -373,7 +417,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
@@ -537,7 +581,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 173625,
       "name": "\u0437\u0430\u043f\u0440\u0435\u0442\u0438\u0442\u044c",
       "url": "https://open.spotify.com/track/5VMcfQhuB2irnbuSDlaxpS"
@@ -759,7 +803,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 204900,
       "name": "\u043d\u0435\u043c\u0435\u0440\u0435\u043d\u043e",
       "url": "https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM"
@@ -955,7 +999,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 210465,
       "name": "\u041f\u044b\u044f\u043b\u0430",
       "url": "https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u"
@@ -1049,7 +1093,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 145217,
       "name": "\u0421\u043f\u043e\u0439",
       "url": "https://open.spotify.com/track/4h64grHEML9fbatKjFVHXr"
@@ -1163,7 +1207,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 161073,
       "name": "\u0425\u041e\u0427\u0423 18+",
       "url": "https://open.spotify.com/track/5x39VMQPsF1wDgLyhUSZYP"

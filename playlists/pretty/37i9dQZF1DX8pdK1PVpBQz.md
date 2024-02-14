@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Gold Fang\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,071 likes - 84 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,077 likes - 84 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 83 | [Take What You Want](https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o) | 4:05 |
 | 84 | [\(GREAT\) DAY OUTSIDE](https://open.spotify.com/track/5tQeIFsTuEYmhihpW0NBqn) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4), [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [\(GREAT\) DAY OUTSIDE](https://open.spotify.com/album/2bELYJAmathf5m3OTPlVh8) | 2:50 |
 
-Snapshot ID: `MCw0NWNkZDc5ZDI0YmE2MTU2MjMyZDQ4ZGJmNjVlYWFiZWVlMjA1Mjkx`
+Snapshot ID: `MCxhYjkyN2Y4ODAzMDQ0YzM2YTNlMGJiNjFkNzA1NTcxNWExODc4NDhk`

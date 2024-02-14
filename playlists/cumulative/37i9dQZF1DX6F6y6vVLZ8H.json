@@ -1356,10 +1356,28 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 202573,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc"
+    },
+    {
+      "album": {
+        "name": "Too",
+        "url": "https://open.spotify.com/album/2s9Ar63LYOp0XUOscyIz9M"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys"
     },
     {
       "album": {

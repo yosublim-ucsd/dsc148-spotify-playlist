@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 47054,
+  "2024-02-14": 47162,
   "date_first_scraped": "2023-02-24",
   "description": "indie tunes with country experimentation featuring music from Waxahatchee ",
   "name": "Indie Twang",
@@ -21,6 +21,24 @@
       "duration_ms": 84741,
       "name": "(dream)",
       "url": "https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC"
+    },
+    {
+      "album": {
+        "name": "16 CARRIAGES",
+        "url": "https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233521,
+      "name": "16 CARRIAGES",
+      "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Marshmello and HOL!",
-  "num_followers": 976275,
+  "num_followers": 976297,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTNhOGM5ZDM5ZWQ4ZDI4MGU4Nzc3NWIwYTE4NWNkNWJjYzBlODcw",
+  "snapshot_id": "MCxlYWY1YzQ2NTM3NTIwZGI1YzliOGJlYTVhYmM0NDhhMjE0NzNiZDhk",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1233,26 +1233,6 @@
       "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "F.Y.U.",
-        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 161708,
-      "name": "F.Y.U.",
-      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Mind Pluck",
@@ -1271,6 +1251,26 @@
       "duration_ms": 270857,
       "name": "Mind Pluck",
       "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "F.Y.U.",
+        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 161708,
+      "name": "F.Y.U.",
+      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Don't Look Down (Hold On)",
-        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Don't Look Down (Hold On)",
-      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -1399,6 +1375,26 @@
       "duration_ms": 235200,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1463,22 +1459,42 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+        "name": "Don't Look Down (Hold On)",
+        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Don't Look Down (Hold On)",
+      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Omnidirectional",
+        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
       },
       "artists": [
         {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
+      "duration_ms": 222608,
+      "name": "Omnidirectional",
+      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1571,22 +1587,6 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Omnidirectional",
-        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 222608,
-      "name": "Omnidirectional",
-      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1821,6 +1821,22 @@
       "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
+    },
+    {
       "added_at": "2023-12-15 05:13:07",
       "album": {
         "name": "Mind Control",
@@ -1839,22 +1855,6 @@
       "duration_ms": 198000,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-12-15 05:13:07",
@@ -2017,6 +2017,26 @@
       "url": "https://open.spotify.com/track/72b38XDyJAjCjXBT8hQizD"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
+      },
+      "artists": [
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Fight or Flight",
@@ -2055,26 +2075,6 @@
       "duration_ms": 198582,
       "name": "Libre",
       "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "RAVEN",
-        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
-      },
-      "artists": [
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "RAVEN",
-      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Ayumu Imazu
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,960 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,993 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [UP TO ME!](https://open.spotify.com/track/0DmNijje9yn7c7yMdjMrmx) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/0lV4NlGwWTO1ufKtLQDDfU) | 3:29 |
 | 50 | [fuyu ga sugitara](https://open.spotify.com/track/3VBOu2YNXP2nav4tarq7Ws) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [fuyu ga sugitara](https://open.spotify.com/album/7ApemSByPg78zmcga7T9h5) | 2:17 |
 
-Snapshot ID: `MCwxMGI5MjgyYjczNTM1NzI0ZWY4ZDIyMDExZjc4NzZmMmFmMDQyYjIy`
+Snapshot ID: `MCw5M2Y4MDFiM2ExYWY5NGFkYmViYjliMTM2YmIwNWI0ZDYxODI3Y2Zm`

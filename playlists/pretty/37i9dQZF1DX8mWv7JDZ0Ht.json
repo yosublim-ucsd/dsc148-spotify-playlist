@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Nairo",
-  "num_followers": 433706,
+  "num_followers": 433707,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGI3YjFmMmRjZmZiMDczYjgxNDkwMGU5OThlYzYyY2EzODZjYzJh",
+  "snapshot_id": "MCw3YTdlNmM4YTc2N2ZhN2EzOTQ2Y2UzZTI4MmNiNGZlODMwNzI4ZDYz",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -439,26 +439,26 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Meu Tom",
-        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
+        "name": "Pecadinho",
+        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
       "artists": [
         {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
         },
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         },
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
         }
       ],
-      "duration_ms": 203896,
-      "name": "Massagem",
-      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
+      "duration_ms": 126000,
+      "name": "Pecadinho",
+      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -483,26 +483,26 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Pecadinho",
-        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
+        "name": "Meu Tom",
+        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
       },
       "artists": [
         {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
         },
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         },
         {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Pecadinho",
-      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
+      "duration_ms": 203896,
+      "name": "Massagem",
+      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Em Voc\u00ea",
         "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 142750,
       "name": "Em Voc\u00ea",
       "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "mapa da mina",
         "url": "https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Planeta Para",
         "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 141452,
       "name": "Planeta Para",
       "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -899,22 +915,6 @@
       "duration_ms": 145131,
       "name": "O Que Eu Devia Ter Vivido",
       "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1295,42 +1295,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Tenta",
-        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        },
-        {
-          "name": "Annalu",
-          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Tenta",
-      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Dezembro",
-        "url": "https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Dezembro",
-      "url": "https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
       },
@@ -1355,8 +1319,44 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+        "name": "Dezembro",
+        "url": "https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Dezembro",
+      "url": "https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Tenta",
+        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        },
+        {
+          "name": "Annalu",
+          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Tenta",
+      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
       "artists": [
         {
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Morena Surreal",
+        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
+      },
+      "artists": [
+        {
+          "name": "Enry Sanches",
+          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
+        }
+      ],
+      "duration_ms": 214676,
+      "name": "Morena Surreal",
+      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Brincando De Amor",
         "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
       },
@@ -1507,24 +1523,8 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Morena Surreal",
-        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
-      },
-      "artists": [
-        {
-          "name": "Enry Sanches",
-          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
-        }
-      ],
-      "duration_ms": 214676,
-      "name": "Morena Surreal",
-      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
       "artists": [
         {
@@ -1532,9 +1532,9 @@
           "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-02-09 03:00:00",

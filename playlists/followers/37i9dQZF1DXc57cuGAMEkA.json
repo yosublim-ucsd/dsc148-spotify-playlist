@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 101470,
+  "2024-02-14": 101473,
   "date_first_scraped": "2023-02-01",
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002BAD HOP, USHER, Zara Larsson, Conan Gray, \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba and more! Cover: BAD HOP",
   "name": "New Music Friday Japan",
@@ -23900,7 +23900,7 @@
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206250,
+      "duration_ms": 191015,
       "name": "Get Lower",
       "url": "https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg"
     },
@@ -36257,10 +36257,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 157241,
       "name": "lavender",
       "url": "https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP"
+    },
+    {
+      "album": {
+        "name": "lavender (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "lavender (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7"
     },
     {
       "album": {

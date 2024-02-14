@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: RAYE
 
-1,005 songs - 2 day 7 hr 35 min
+1,006 songs - 2 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,7 +808,8 @@
 | [So Happy It Hurts](https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K) | 3:35 | 2021-12-17 | 2022-02-12 |
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-12-17 | 2022-03-26 |
 | [Solo](https://open.spotify.com/track/5YQD7zkta5gX6vuRQTT66C) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Solo](https://open.spotify.com/album/62hlYv1QeYsu3XbERS24Fn) | 3:35 | 2021-12-17 | 2022-04-09 |
-| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-24 |  |
+| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-24 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 |  |
 | [Somebody](https://open.spotify.com/track/1022OEsnbmreeHJA3vFp2L) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Somebody](https://open.spotify.com/album/0ZdevVwOV3JyROfiKjtZgW) | 3:51 | 2021-12-17 | 2022-04-02 |
 | [Somebody Else](https://open.spotify.com/track/7oPx8sHqaifEvFlqQ48CB2) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Somebody Else](https://open.spotify.com/album/475WKj7pnoZ1bjU9JLwcla) | 2:53 | 2023-06-23 | 2023-09-09 |
 | [Somebody First](https://open.spotify.com/track/4V29VOY4hJvJbjuVXBXzSG) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:44 | 2023-08-25 | 2023-12-09 |

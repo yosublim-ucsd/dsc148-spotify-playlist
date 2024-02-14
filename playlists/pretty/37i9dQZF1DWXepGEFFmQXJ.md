@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,342 likes - 86 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,416 likes - 86 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 85 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
 | 86 | [Never Give Up On A Good Time](https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Never Give Up On A Good Time](https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA) | 3:17 |
 
-Snapshot ID: `MCwxZjIxYmUzODBjZDU1ZDU5NzNlYzU2NzNmNTA0MzNkODE4OWRlM2E1`
+Snapshot ID: `MCw4MDkwMzY5YWFhMzY1ZGU4YzA1MzAzMDEzMTdlYzE1ODQ4ZTkwMTc0`

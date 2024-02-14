@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchuN2Ji3UAB.md) - [plain]
 
 > Les classiques de la Motown à faire découvrir à vos enfants
 
-[Spotify](https://open.spotify.com/user/spotify) - 704 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchuN2Ji3UAB.md) - [plain]
 | 47 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 48 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 |
 | 49 | [You Keep Me Hangin' On](https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes Sing Holland, Dozier, Holland](https://open.spotify.com/album/5BrLn546krr08d9UvOj73k) | 2:43 |
-| 50 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
+| 50 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 51 | [Get Ready \- Single Version](https://open.spotify.com/track/5F6XsffCcDXwJmJXiuPRle) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [Fill Your Head: The Studio Albums 1969\-1974](https://open.spotify.com/album/4hQkBc4Nq3fOYpie0WhK2s) | 2:46 |
 | 52 | [You've Really Got A Hold On Me \- Alternate Stereo Mix](https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [OOO Baby Baby: The Anthlogy](https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4) | 3:12 |
 | 53 | [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchuN2Ji3UAB.md) - [plain]
 | 56 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 | 57 | [Ain't Nothing Like The Real Thing](https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:18 |
 
-Snapshot ID: `MCxjNTVmOWMwYzhhMzQ3MTEzODk5MDA2NGIzYzFhM2ZjNjUzZDE1YWZh`
+Snapshot ID: `MCw5MTNjMTNmZjc3ODk3YTE3ZDI3NjY3YmZlNjI4ZjdkNTZiNThlNzJm`

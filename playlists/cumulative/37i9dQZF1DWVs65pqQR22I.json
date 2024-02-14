@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Coal Echoes",
+        "url": "https://open.spotify.com/album/2PZtXdEG5eM6FPA8Ztontj"
+      },
+      "artists": [
+        {
+          "name": "Dream Fuzz",
+          "url": "https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287184,
+      "name": "Coal Echoes",
+      "url": "https://open.spotify.com/track/06CZdio4eDdkdTPEZeFfiZ"
+    },
+    {
+      "album": {
         "name": "Black Noise Relaxing Waves",
         "url": "https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ"
       },
@@ -1424,6 +1442,24 @@
       "duration_ms": 146250,
       "name": "Dark Black Noise",
       "url": "https://open.spotify.com/track/6fKY0nJXLdIvYGQyumBQlV"
+    },
+    {
+      "album": {
+        "name": "Dark Hush",
+        "url": "https://open.spotify.com/album/675UQ53G2AYPsYylfbv6hF"
+      },
+      "artists": [
+        {
+          "name": "Hum Humming",
+          "url": "https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290899,
+      "name": "Dark Hush",
+      "url": "https://open.spotify.com/track/1LtorEiDsyFpvmvnAqhsOo"
     },
     {
       "album": {
@@ -1824,7 +1860,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 125573,
       "name": "Focused Black Noise",
       "url": "https://open.spotify.com/track/4706E26ijxiFCGJAC8RbRi"
@@ -2022,7 +2058,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 151250,
       "name": "Infrasound (Black Noise)",
       "url": "https://open.spotify.com/track/0IwBvFqcZQ2FjpZR4VngnT"
@@ -2173,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Midnight Silence",
+        "url": "https://open.spotify.com/album/7rRW3i0emEEVql5gOt5Sf1"
+      },
+      "artists": [
+        {
+          "name": "The Inceptionists",
+          "url": "https://open.spotify.com/artist/6paFuX94JPUGBwVheWFqhT"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297215,
+      "name": "Midnight Silence",
+      "url": "https://open.spotify.com/track/2xVm2H30XJhlUDLfAr9EeE"
+    },
+    {
+      "album": {
         "name": "Black Noise For Focus",
         "url": "https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg"
       },
@@ -2249,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal Lull",
+        "url": "https://open.spotify.com/album/1u96mfr5Xz9rVMNgiXuKSQ"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Phasers",
+          "url": "https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277896,
+      "name": "Nocturnal Lull",
+      "url": "https://open.spotify.com/track/0f7cq7DmTnuF19y2fOvATD"
+    },
+    {
+      "album": {
         "name": "BLK NSE 001",
         "url": "https://open.spotify.com/album/7K8USBKZ0t2g6IMH8ekIkQ"
       },
@@ -2314,7 +2386,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 170870,
       "name": "Peaceful Darkness - Black Noise",
       "url": "https://open.spotify.com/track/7AKssyLSWIQaWyZ1NQAgHn"

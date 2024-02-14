@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Pierre Garnier au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,217,390 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,218,156 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
 | 50 | [La symphonie des éclairs \- Edit](https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:58 |
 
-Snapshot ID: `MCxiYmUzZWRjYmM3ZWRjNzBlMjUyNDJlNWNlZTI2OGI3OGE3MmRlYWI0`
+Snapshot ID: `MCwyMTk1Y2E2MjIyMzlkNWY2M2U5ODI4YWZjYjZjMWM1NGVjNmE3ZWIx`

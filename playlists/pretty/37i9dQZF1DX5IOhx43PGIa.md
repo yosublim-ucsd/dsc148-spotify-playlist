@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Emei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,486 likes - 150 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,539 likes - 150 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 71 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 |
 | 72 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 |
 | 73 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 |
-| 74 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 |
-| 75 | [Sunny](https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k) | 3:31 |
+| 74 | [Sunny](https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k) | 3:31 |
+| 75 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 |
 | 76 | [Lovegod](https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lovegod](https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7) | 3:08 |
 | 77 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 |
 | 78 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
 | 79 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 |
-| 80 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
-| 81 | [buttons! \(with Knock2\)](https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:59 |
+| 80 | [buttons! \(with Knock2\)](https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:59 |
+| 81 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
 | 82 | [最後一次心碎](https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [去妳的假日](https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv) | 2:48 |
 | 83 | [Right About Love](https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB) | [Kevin Chung](https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2) | [Right About Love](https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk) | 2:02 |
 | 84 | [Falling In Love](https://open.spotify.com/track/03c2bluectSWUWsIRbSpjB) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Falling In Love](https://open.spotify.com/album/4RDu4REbJHnc4rgvulKdUs) | 2:25 |
@@ -112,11 +112,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 102 | [love of my life](https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [love letters to u \(EP\)](https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox) | 2:37 |
 | 103 | [see you in hell](https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [see you in hell](https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM) | 2:52 |
 | 104 | [WORLD STOP TURNING \(feat\. Warren Hue\)](https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WORLD STOP TURNING \(feat\. Warren Hue\)](https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x) | 4:08 |
-| 105 | [2.0](https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [2.0](https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2) | 2:46 |
-| 106 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 |
-| 107 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
+| 105 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 |
+| 106 | [Water Worship Pray](https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Water Worship Pray](https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo) | 3:11 |
+| 107 | [2.0](https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [2.0](https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2) | 2:46 |
 | 108 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
-| 109 | [Water Worship Pray](https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Water Worship Pray](https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo) | 3:11 |
+| 109 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
 | 110 | [House on a Hill](https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY) | 3:18 |
 | 111 | [Broken Up](https://open.spotify.com/track/5z0j8PhvQ6PEUZ2ZM5DvtI) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Broken Up](https://open.spotify.com/album/2oU7BEeQU8bLsAH2p6F4sI) | 3:06 |
 | 112 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [HSB](https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [HSB](https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ) | 2:34 |
 | 150 | [Love Bites](https://open.spotify.com/track/3jUeRyAxFkC7OAoUMGOlhk) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [Love Bites](https://open.spotify.com/album/2WOuUAtBrDEJOiDUnorXqL) | 2:58 |
 
-Snapshot ID: `MCw3YTg4NzlmM2FkYWJhMjJkYjQ3ZmJhMDM3YjhjZDcxZDljMjFmYTc1`
+Snapshot ID: `MCwwZDMzOGQ1NTNlMzI4ZDc0ZDllZTdiY2EyYmU4YWY5MTNjYmE3OTA2`

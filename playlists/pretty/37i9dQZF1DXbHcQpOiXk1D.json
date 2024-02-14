@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Sophie Faith",
-  "num_followers": 306468,
+  "num_followers": 306487,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGQ4NTQ2NTg4ZTE4Yjc2YjE2NjczYmVkNjM1M2Y5MTc5NzgwYTM1",
+  "snapshot_id": "MCxjMjM0MGEwNDExNjIxNzZiNzBhZGMyMWE0NDU0YmRiN2FhOWM3MTEy",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -43,30 +43,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/6Hew2wHi3fBiGGLaBxYRtu"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
-        },
-        {
-          "name": "Simon Dufour",
-          "url": "https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw"
-        }
-      ],
-      "duration_ms": 110869,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/6Sn8gX7ls3ub1mKEpvBD5S"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv"
       },
@@ -87,6 +63,30 @@
       "duration_ms": 69000,
       "name": "Ruby Smiles",
       "url": "https://open.spotify.com/track/5ippVyDzVqQO0NjXGO7Pi2"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "The Duke",
+        "url": "https://open.spotify.com/album/6Hew2wHi3fBiGGLaBxYRtu"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "Simon Dufour",
+          "url": "https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw"
+        }
+      ],
+      "duration_ms": 110869,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/6Sn8gX7ls3ub1mKEpvBD5S"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/1ogAD0gX8Bp0lfPyqYBy8s"
     },
     {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Everything Is Going to Be OK",
-        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 76659,
-      "name": "You're Stronger Than You Think",
-      "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"
-    },
-    {
       "added_at": "2024-02-02 13:50:02",
       "album": {
         "name": "Be Myself",
@@ -311,6 +295,22 @@
       "duration_ms": 227835,
       "name": "Be Myself",
       "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 76659,
+      "name": "You're Stronger Than You Think",
+      "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
+      },
+      "artists": [
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 302822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
-      },
-      "artists": [
-        {
-          "name": "Kay Young",
-          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Sample The Sky",
-        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 247102,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 247102,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 221409,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
     },
     {
       "added_at": "2024-01-12 11:23:55",
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/2Duy6YtXSEmkUCW9mLby8V"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 213851,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0SlsuBILHxJwfzboGXIufK"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
+      },
+      "artists": [
+        {
+          "name": "TIANNA",
+          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
+        }
+      ],
+      "duration_ms": 162307,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1243,18 +1243,34 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
       },
       "artists": [
         {
-          "name": "TIANNA",
-          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 162307,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Mother Tongue",
+        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
+      },
+      "artists": [
+        {
+          "name": "Maya Law",
+          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
+        }
+      ],
+      "duration_ms": 204217,
+      "name": "Mother Tongue",
+      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1275,22 +1291,6 @@
       "duration_ms": 322812,
       "name": "Chasing Days - Sam Redmore Remix",
       "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Mother Tongue",
-        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
-      },
-      "artists": [
-        {
-          "name": "Maya Law",
-          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
-        }
-      ],
-      "duration_ms": 204217,
-      "name": "Mother Tongue",
-      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
-      },
-      "artists": [
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Fragile Eyes",
         "url": "https://open.spotify.com/album/2G9G69vAI4Ek21msHECI0E"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
+      },
+      "artists": [
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+        }
+      ],
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Voice Notes",
         "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 277026,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Hide To Seek",
-        "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 286890,
-      "name": "Hide To Seek",
-      "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1435,6 +1419,22 @@
       "duration_ms": 199786,
       "name": "Feel Enough",
       "url": "https://open.spotify.com/track/7dweAZYkDTp5zbkWoLyWyg"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Hide To Seek",
+        "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 286890,
+      "name": "Hide To Seek",
+      "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"
     }
   ],
   "unique_name": "Jazz UK",

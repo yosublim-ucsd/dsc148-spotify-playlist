@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aqyila
 
-1,516 songs - 3 day 5 hr 44 min
+1,517 songs - 3 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [December](https://open.spotify.com/track/1mXGajS1lGOU7GHZuOIVYk) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Other Way Home](https://open.spotify.com/album/18LCsG2QzCUtQhtP3p34yd) | 4:25 | 2022-09-02 | 2022-10-08 |
 | [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-10-07 | 2023-02-04 |
 | [Deeper](https://open.spotify.com/track/2NmdWFK6MLcZodptogUsXQ) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Deeper](https://open.spotify.com/album/7dYYNHaVWVhseftcKyPB38) | 3:45 | 2023-11-10 | 2023-11-30 |
+| [Deeper Than](https://open.spotify.com/track/1bYZBYoByapdkzprIjpbzH) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [Deeper Than](https://open.spotify.com/album/7xuq0hvVbugjDC4e5CHboL) | 3:11 | 2024-02-13 |  |
 | [DEFENDER](https://open.spotify.com/track/1MFz62BDFCPhVuMAELPDf6) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [DEFENDER](https://open.spotify.com/album/6b6ykEktEnuGJ4jQUvTyWX) | 3:13 | 2023-10-06 | 2023-11-11 |
 | [Deja Vu](https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk) | [Deja Vu](https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP) | 7:28 | 2022-11-11 | 2022-12-01 |
 | [Dem Dead Freestyle](https://open.spotify.com/track/5OC2lRBDNEJOxqWvsqijRk) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb) | [Dem Dead Freestyle](https://open.spotify.com/album/1WJZ4TdjmpUzgtmzWvKI6h) | 1:50 | 2023-05-05 | 2023-06-03 |
@@ -1001,7 +1002,7 @@
 | [Play By Play](https://open.spotify.com/track/0fkgg7EwHGTvqcJnvUqXmp) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 2:37 | 2022-09-02 | 2022-10-08 |
 | [play pretend](https://open.spotify.com/track/6o57AIzE0pc13pmcTkLt2B) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [play pretend](https://open.spotify.com/album/5kUD0Q7aS1jf0ZBfUdXdo2) | 2:26 | 2022-02-04 | 2022-03-05 |
 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 | 2022-05-06 | 2022-06-04 |
-| [Playground](https://open.spotify.com/track/0CHxU4Tu8pYaqbIcBMMKov) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 2:45 | 2024-02-02 |  |
+| [Playground](https://open.spotify.com/track/0CHxU4Tu8pYaqbIcBMMKov) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 2:45 | 2024-02-02 | 2024-02-14 |
 | [Pluto](https://open.spotify.com/track/1yZ5C5664QgxBtmdOtX0V5) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Pluto](https://open.spotify.com/album/7ouFPNHH7wa7kqHaLD2GIm) | 3:39 | 2023-02-03 | 2023-03-04 |
 | [Poison Ivy](https://open.spotify.com/track/2UnIW0DQShzvsojtzGeF16) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Poison Ivy](https://open.spotify.com/album/3ssj5GjOwObWF7eiAoYUl0) | 3:57 | 2022-11-11 | 2022-12-01 |
 | [Polite \(feat\. Malokyo\)](https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Malokyo](https://open.spotify.com/artist/3xLrKqOIgw2kuEdaB1eWs6) | [Polite \(feat\. Malokyo\)](https://open.spotify.com/album/5rLswFt7tvu4Zh4rq2Yndt) | 3:19 | 2022-02-04 | 2022-03-05 |

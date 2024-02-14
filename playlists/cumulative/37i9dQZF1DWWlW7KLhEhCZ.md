@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo
 
-1,040 songs - 1 day 23 hr 33 min
+1,041 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Do Crime a Fama, Pt\. 2](https://open.spotify.com/track/14zQ00XTzatD4H55V66khI) | [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Do Crime a Fama, Pt\. 2](https://open.spotify.com/album/3g6L35XpGmQhLThKFCVUCO) | 3:04 | 2023-11-17 | 2023-12-02 |
 | [Do lado de cá](https://open.spotify.com/track/41ngGfqMD5R6NydSjUP1Y7) | [Cinquenta](https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb) | [Do lado de cá](https://open.spotify.com/album/7EZ6B5vctZQur5cA6cEdrb) | 2:44 | 2022-09-02 | 2023-01-21 |
 | [Do Outro Lado](https://open.spotify.com/track/4R1V7PVYjFDnH0Bl1rdu3q) | [Zambrota](https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [KarpaBeats](https://open.spotify.com/artist/6D3sLCYbKtRoLsjmdFbdTh) | [Do Outro Lado](https://open.spotify.com/album/4anLlRss9R1m3qdiIy9UEb) | 2:41 | 2023-10-06 | 2023-10-28 |
-| [Doce Amargo](https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk) | 2:17 | 2024-02-09 |  |
+| [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 | 2024-02-09 |  |
+| [Doce Amargo](https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk) | 2:17 | 2024-02-09 | 2024-02-14 |
 | [Doente de Amor](https://open.spotify.com/track/3Xh7yWSduG8Jl3CMYeAeAk) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Doente de Amor](https://open.spotify.com/album/01aK5tuEUfVgI7BEi7H2Mx) | 2:01 | 2023-11-17 |  |
 | [DOMINICANA](https://open.spotify.com/track/5tOoWYZ0G9YFqiteziCtzI) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [DOMINICANA](https://open.spotify.com/album/7mdplTcZJQnNK2KzR2sVco) | 2:16 | 2023-10-13 | 2023-11-25 |
 | [Dominó](https://open.spotify.com/track/7cYAE74uGy0ggBLilqvjxn) | [Psych](https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1) | [Dominó](https://open.spotify.com/album/1iDKJPSsQbElS3M1jY8hMR) | 2:39 | 2022-07-01 | 2023-03-04 |

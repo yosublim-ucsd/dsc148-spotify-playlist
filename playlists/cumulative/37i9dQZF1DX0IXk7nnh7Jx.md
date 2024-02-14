@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-512 songs - 1 day 6 hr 30 min
+514 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [God's Chosen](https://open.spotify.com/track/5nFpreEo4jY59tkTvfOV8L) | [Nachaash](https://open.spotify.com/artist/3SEoxo9gwUVcF3KZr6GRPd), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Louie Tha Profit](https://open.spotify.com/artist/5eUQnfTE8fExL2zpmPZ4uA) | [God's Chosen](https://open.spotify.com/album/0e52Ku1wajjrMXozW3f847) | 3:07 | 2024-01-26 |  |
 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 | 2020-12-18 | 2022-09-19 |
 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 | 2020-12-18 | 2023-02-19 |
-| [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-01-26 |  |
+| [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-01-26 |  |
+| [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-01-26 | 2024-02-14 |
 | [Good God](https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Good God](https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj) | 2:42 | 2023-02-24 | 2023-05-04 |
 | [Good God](https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:42 | 2023-04-21 | 2023-12-02 |
 | [Good God](https://open.spotify.com/track/5j9qyTzGm87m41stQi6i4w) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Good God](https://open.spotify.com/album/1eNFSWubs0WkDEme69zu4j) | 2:40 | 2023-04-07 |  |
@@ -433,7 +434,8 @@
 | [Taxi](https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Taxi](https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n) | 2:40 | 2023-04-07 |  |
 | [Telephone](https://open.spotify.com/track/7eL7RLdVokaOBzjfIs5zMH) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Telephone](https://open.spotify.com/album/5S0PU8GSg4yQdvrwZPllC0) | 3:01 | 2020-12-18 | 2022-07-29 |
 | [Testimony](https://open.spotify.com/track/5aYxzXhFNBdznGlzdEGg8z) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Second Wind](https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr) | 3:00 | 2023-11-03 | 2024-01-27 |
-| [Thank You](https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV) | 2:24 | 2023-11-03 |  |
+| [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 | 2024-01-26 |  |
+| [Thank You](https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV) | 2:24 | 2023-11-03 | 2024-02-14 |
 | [Thankful](https://open.spotify.com/track/69q1KdBZVBregb4xdX8XmL) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Thankful](https://open.spotify.com/album/0wGBYAIS4m9j1wDX4RCbyG) | 3:14 | 2023-03-18 | 2023-03-23 |
 | [That Feel](https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [That Feel](https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z) | 2:43 | 2023-12-01 |  |
 | [THAT'S WHAT I BELIEVE](https://open.spotify.com/track/4axmmCsHDChtKd2JdnD3OL) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [THAT'S WHAT I BELIEVE](https://open.spotify.com/album/0qKj76842Qf6U8uFYD8KZW) | 4:22 | 2023-02-19 | 2023-10-13 |

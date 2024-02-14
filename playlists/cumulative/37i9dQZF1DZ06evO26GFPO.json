@@ -1061,6 +1061,28 @@
     },
     {
       "album": {
+        "name": "Harmonia #AMSM (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4xagqZnst5qSrmIQ0WS0IT"
+      },
+      "artists": [
+        {
+          "name": "XANDDY HARMONIA",
+          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136481,
+      "name": "Sacanagenzinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ZjyyujX7GqzGqWO8bLUKY"
+    },
+    {
+      "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },

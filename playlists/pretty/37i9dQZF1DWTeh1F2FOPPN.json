@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 57491,
+  "num_followers": 57554,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTNhZTUxYTU3NzBjMDRjZjk4NWZmZDYwODhiYjIxZGE1NDI2YWJl",
+  "snapshot_id": "MCw5MDkyNWRjMjQyNTQ3ODgzODk4M2RiMDJiZTdlNzc0YjllOGIxZmU2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 261800,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Honey For Wounds",
-        "url": "https://open.spotify.com/album/6rAjOLYMgyddMcP8LLJLcl"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 394029,
-      "name": "Table For One",
-      "url": "https://open.spotify.com/track/2hQ2Ux2pzBEd20mCyLHvx8"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Naked & Warm",
         "url": "https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 292226,
       "name": "My Imagination",
       "url": "https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Honey For Wounds",
+        "url": "https://open.spotify.com/album/6rAjOLYMgyddMcP8LLJLcl"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 394029,
+      "name": "Table For One",
+      "url": "https://open.spotify.com/track/2hQ2Ux2pzBEd20mCyLHvx8"
     },
     {
       "added_at": "2022-10-01 16:54:27",

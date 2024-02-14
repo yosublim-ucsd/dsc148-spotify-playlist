@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,541 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,545 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Valeria \(Canción de la Serie Original de Netflix\)](https://open.spotify.com/track/2LNPdVlNTZS3qn9qC7RgR2) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Valeria \(Canción de la Serie Original de Netflix\)](https://open.spotify.com/album/0dvNjjhU34sgtUtv94it6i) | 4:13 |
-| 2 | [Can I Go On](https://open.spotify.com/track/33kTpZiXOEs9yQrSzn0cV5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/6ArjrXMlLegKiAPOp34K58) | 3:30 |
+| 2 | [Can I Go On](https://open.spotify.com/track/3BZxzGjJdXXfp4uquDlHxe) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/4KQlQyPKHNR04xTBwHosuK) | 3:30 |
 | 3 | [Emergency](https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency EP](https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J) | 2:49 |
 | 4 | [Basic Instinct](https://open.spotify.com/track/5E0pS3sXgWdQZMKChqYXHE) | [The Acid](https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR) | [Liminal](https://open.spotify.com/album/1cMYjuN71NCON0vlQyTgJM) | 4:49 |
 | 5 | [We're Never Coming Home](https://open.spotify.com/track/41ExyRHV6Yib5ZsqIroFMn) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [These Things Take Time](https://open.spotify.com/album/3BRCtUxoDikSSrOFyCvT7q) | 3:47 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 75 | [Voilà](https://open.spotify.com/track/7z9b9sw3k2ov3fO6YHKLHO) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Voilà](https://open.spotify.com/album/7asKOioOiNZUhL5JiQs30H) | 2:25 |
 | 76 | [Everybody Hurts](https://open.spotify.com/track/1keQQqma4XPBRL1e6USd7Z) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:36 |
 
-Snapshot ID: `MCxmNzE5M2Q5MTIzZGMzN2Y1OTIwNTIxMDQ3NzFkYjJiOGZjYzI1Mzk2`
+Snapshot ID: `MCxhNzgyY2Y2ZTM1N2Y3MmM0M2Q1MGQ1NmFiNzY1ZDdiZDNiOTYzNTM4`

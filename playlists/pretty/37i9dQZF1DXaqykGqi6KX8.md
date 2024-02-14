@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,094 likes - 30 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,149 likes - 30 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 10 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
 | 11 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |
 | 12 | [Ankh](https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd) | [Scarab](https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4) | [Blinding the Masses](https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr) | 5:00 |
-| 13 | [Son of Muhieddine](https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1) | [Acyl](https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F) | [Aftermath](https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq) | 5:36 |
-| 14 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
+| 13 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
+| 14 | [Son of Muhieddine](https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1) | [Acyl](https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F) | [Aftermath](https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq) | 5:36 |
 | 15 | [Lay chafi](https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm) | [Betweenatna](https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT) | [Betweenatna](https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8) | 4:02 |
 | 16 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
 | 17 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
 | 30 | [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 |
 
-Snapshot ID: `MCw5MWQ4MzBiMDMxNjg4NmFlZDMyZTllZmY2MGQyYWE0N2IyZDc1MzAy`
+Snapshot ID: `MCwwM2VmODAwM2QyMTk4ZDE5MzdjNTUzMTFhNjI1NWFiOTdlMDUxMWIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,751 likes - 60 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,831 likes - 60 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 26 | [Call Me](https://open.spotify.com/track/3YmZ8V92nqVKx6u1lohFCC) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Wind](https://open.spotify.com/album/0WarGVGAHMzf6DgCfz3pbC) | 4:28 |
 | 27 | [Dream in the Mist](https://open.spotify.com/track/0BNXz3hTDmx2vtvzz2g9MB) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Dream in Dream](https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX) | 6:59 |
 | 28 | [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 |
-| 29 | [カラビンカ](https://open.spotify.com/track/01qQCFLCKuqF7R5PoJ0PVW) | [林英哲](https://open.spotify.com/artist/3l3wxRsemRJJs8NJCGNXqa), [高田みどり](https://open.spotify.com/artist/2RDPdsGKmvFZMRhMlDPalI) | [風の使者](https://open.spotify.com/album/5nZfxg5qKuTqfLflyqoIXE) | 8:11 |
+| 29 | [Bitsummer](https://open.spotify.com/track/7CTUtBYUjFSLtk97ZpEaTL) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z), [Rinko](https://open.spotify.com/artist/36IKnQFNBrUs7GrgO6KuhD) | [Bitsummer](https://open.spotify.com/album/4RSVUUq6KsWDCLeTjMSFny) | 2:46 |
 | 30 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 |
 | 31 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
 | 32 | [The Funeral Of A Woman Whose Soul Is Trapped In The Sun](https://open.spotify.com/track/1aQ6vO6CMwt2nlCSXONTxN) | [The Giver Of Illness](https://open.spotify.com/artist/37YmX9qvLVI6m4zpgvtmch), [Ak'chamel](https://open.spotify.com/artist/1Z5IieYbGZIqcn875Xy626) | [The Totemist](https://open.spotify.com/album/1WnP9EHin0bCWBFwQbJVbZ) | 7:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 59 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 |
 | 60 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 
-Snapshot ID: `MCxjYjY4ZjE2MDM5MDdjYjMzNjcwNTAxZGNhZWNkOGFiMWI1NDliYzVm`
+Snapshot ID: `MCxhYmJhYTcyMDFkNjUwMTI4NGQzNmZlZmY2ZWY0ZGVmOGNmMTkzNWRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,701 likes - 93 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,825 likes - 93 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 92 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
 | 93 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 |
 
-Snapshot ID: `MCxhYTlkYmZhZDc3NDc1MjQ4NTU1YzMxMzBkMTZkZGIyZTM5YmRjZjQ1`
+Snapshot ID: `MCxjOGZmOWIyZWI3MWMyOTgyNjc5N2EzYzQ5MGQ2MWUwOTNiZGNiNWYz`

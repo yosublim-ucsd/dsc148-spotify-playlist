@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-108 songs - 7 hr 46 min
+109 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 | 2020-11-25 |  |
 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 | 2020-11-25 |  |
 | [Red Road Soul](https://open.spotify.com/track/066Dx92oWS0hI10RzJEItj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG) | [Red Road Soul](https://open.spotify.com/album/1KEbOLz0XhCP7l0GFjeA3Y) | 5:15 | 2020-11-25 | 2022-07-28 |
-| [Salvation](https://open.spotify.com/track/4va2tNNWYut7ycFZ2zjvTk) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Salvation](https://open.spotify.com/album/2rJJUaHPFt7uyS8qE7wrbR) | 4:19 | 2023-01-03 |  |
+| [Salvation](https://open.spotify.com/track/3QGTaRZJQTB5C1aKBNmnqq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Flow State](https://open.spotify.com/album/6EN8PtrmSzYfybaZQYYaOc) | 4:19 | 2023-01-03 |  |
+| [Salvation](https://open.spotify.com/track/4va2tNNWYut7ycFZ2zjvTk) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Salvation](https://open.spotify.com/album/2rJJUaHPFt7uyS8qE7wrbR) | 4:19 | 2023-01-03 | 2024-02-14 |
 | [Seem to Freeze](https://open.spotify.com/track/2Ee6LsCt7ovWvwu61K6voM) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK), [Emma Lucia](https://open.spotify.com/artist/4PJTjDzOI3rxJ9HTZ1u2AA) | [Electric River](https://open.spotify.com/album/2NR1dCNlwpdPMu6WWet3s2) | 3:31 | 2020-11-25 | 2022-07-29 |
 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 | 2020-11-25 | 2023-01-04 |
 | [Sometimes I](https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW) | 6:17 | 2020-11-25 | 2022-07-29 |

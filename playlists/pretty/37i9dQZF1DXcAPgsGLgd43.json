@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3902,
+  "num_followers": 3907,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQwZWI5MGRiYjUzZjUyYzYyYWFmMjUwMmUyNDI2ZTVkOTNiMjY3",
+  "snapshot_id": "MCxiOTY5YWYzZDBiZWY5OGU4OTgzYTYyNmQ3YjQ3ZDlkZjM3NDdiNzJm",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Balan\u00e7a",
-        "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
-      },
-      "artists": [
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Balan\u00e7a",
-      "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Senta Relaxa",
         "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 180014,
       "name": "Senta Relaxa",
       "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Balan\u00e7a",
+        "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Balan\u00e7a",
+      "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1595,18 +1595,30 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
+        "name": "Cuarto Oscuro / BAQ Spicy",
+        "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
       },
       "artists": [
         {
-          "name": "Alex Now (ES)",
-          "url": "https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf"
+          "name": "Presi On",
+          "url": "https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp"
+        },
+        {
+          "name": "Renate",
+          "url": "https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        },
+        {
+          "name": "Pacho Carnaval",
+          "url": "https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
+      "duration_ms": 236129,
+      "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
+      "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1623,6 +1635,22 @@
       "duration_ms": 197209,
       "name": "Gitrox",
       "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
+      },
+      "artists": [
+        {
+          "name": "Alex Now (ES)",
+          "url": "https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1679,34 +1707,6 @@
       "duration_ms": 153750,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Cuarto Oscuro / BAQ Spicy",
-        "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
-      },
-      "artists": [
-        {
-          "name": "Presi On",
-          "url": "https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp"
-        },
-        {
-          "name": "Renate",
-          "url": "https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F"
-        },
-        {
-          "name": "Augusto Yepes",
-          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
-        },
-        {
-          "name": "Pacho Carnaval",
-          "url": "https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
-      "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
     },
     {
       "added_at": "2024-02-09 05:00:00",

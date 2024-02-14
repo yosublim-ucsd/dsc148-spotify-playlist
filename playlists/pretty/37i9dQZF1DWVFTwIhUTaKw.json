@@ -1,12 +1,12 @@
 {
   "description": "La sensibilidad a flor de piel.",
-  "num_followers": 65525,
+  "num_followers": 65550,
   "original_name": "C\u00e1ncer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmRjNGZhNTk2YzMzODZjYTY2N2JlZjIwYTNjMjM2MzA5YjViY2Ey",
+  "snapshot_id": "MCwyMmQ0YjFhZTE2ZTA3MzhkZTMzY2M4ZjU3YWI3OGM4ZjMwZGYxYTVh",
   "tracks": [
     {
       "added_at": "2021-06-18 00:37:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2021-06-18 00:37:00",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
+    },
+    {
+      "added_at": "2021-06-18 00:37:00",
+      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 259146,
       "name": "Hijo de la Luna",
       "url": "https://open.spotify.com/track/7g3g2sqevicvurLTZ75JTA"
-    },
-    {
-      "added_at": "2021-06-18 00:37:00",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
     }
   ],
   "unique_name": "C\u00e1ncer",

@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413934,
+  "num_followers": 413921,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2",
+  "snapshot_id": "MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
         }
       ],
-      "duration_ms": 121607,
-      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
       },
       "artists": [
         {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
+      "duration_ms": 121607,
+      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
     },
     {
       "added_at": "2023-10-05 08:00:00",

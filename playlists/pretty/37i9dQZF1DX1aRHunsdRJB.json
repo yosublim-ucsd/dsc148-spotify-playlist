@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10437,
+  "num_followers": 10438,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjM4YzM1ZWQyMzIzN2RjMjNiMDE4MjdhOWQ3MDZjZWVkODg0NzMx",
+  "snapshot_id": "MCxiMDhiNDFhZGM2NGI4OWUwYmEwMWI0YmIzM2U1OGRiZGI3MmZlZDc0",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1163,26 +1163,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Toatin Riddim",
-        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
       },
       "artists": [
         {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
         },
         {
-          "name": "Nessa Preppy",
-          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
-        },
-        {
-          "name": "Team Foxx",
-          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 116375,
-      "name": "Toat No Feelings",
-      "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1207,22 +1203,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stink Behavior",
-        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
+        "name": "Toatin Riddim",
+        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
       "artists": [
         {
-          "name": "Teddy Rhymez",
-          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
         },
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        },
+        {
+          "name": "Team Foxx",
+          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Stink Behavior",
-      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
+      "duration_ms": 116375,
+      "name": "Toat No Feelings",
+      "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
     },
     {
       "added_at": "2022-02-24 18:00:00",

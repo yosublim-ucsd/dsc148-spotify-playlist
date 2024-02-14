@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562878,
+  "num_followers": 562948,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTI0ZjVhYWZlMGI0NmNmMGUwZGNhMjhjNzI4ZjI2NGMxN2U4NDE4",
+  "snapshot_id": "MCxiNWRmZTk2ZGI2NjNmMzc5MjM0MWQ3MWIwY2RhNzQzNTIxNWUxODVh",
   "tracks": [
     {
       "added_at": "2023-12-06 09:41:58",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
+        "name": "I Love You 3000",
+        "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 209734,
+      "name": "I Love You 3000",
+      "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "8 Tahun",
-        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
-      },
-      "artists": [
-        {
-          "name": "Adhitia Sofyan",
-          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
-        }
-      ],
-      "duration_ms": 287453,
-      "name": "Sesuatu Di Jogja",
-      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "Riuh",
         "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "I Love You 3000",
-        "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
+        "name": "8 Tahun",
+        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
         }
       ],
-      "duration_ms": 209734,
-      "name": "I Love You 3000",
-      "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
+      "duration_ms": 287453,
+      "name": "Sesuatu Di Jogja",
+      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
     },
     {
       "added_at": "2023-12-06 09:41:58",

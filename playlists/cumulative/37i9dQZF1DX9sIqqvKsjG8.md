@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-824 songs - 1 day 11 hr 14 min
+826 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Elmo Dawn](https://open.spotify.com/track/5TS35gt7vTSBTUmYHlEq3R) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Elmo Dawn](https://open.spotify.com/album/2K80M3knP4pZoYgIdVOJxk) | 2:00 | 2021-12-07 | 2022-05-06 |
 | [Elysian](https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Oversoul](https://open.spotify.com/album/5GPrxmIXNWxWUirGs5GxSq) | 3:19 | 2021-12-07 | 2022-02-02 |
 | [Elysium](https://open.spotify.com/track/2XtkXvXNsqpTBddG6W4dkA) | [Reese Willis](https://open.spotify.com/artist/4iw6QArXcxuKkS1v2mo47u) | [Elysium](https://open.spotify.com/album/55W5st1xVSvmwGKR5xWkms) | 2:19 | 2021-12-07 | 2022-05-06 |
+| [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-13 |  |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2021-12-07 | 2022-03-02 |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2021-12-07 | 2022-10-05 |
 | [Enigma](https://open.spotify.com/track/6E3tlk1QjAUzbgguYtVXeM) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Enigma](https://open.spotify.com/album/7Fjxhrg8uaiNiEQI0N7NN9) | 2:43 | 2022-01-17 | 2023-03-09 |
@@ -720,6 +721,7 @@
 | [The What If](https://open.spotify.com/track/3qgA4uyqdQLpYLCeTtouQS) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The What If](https://open.spotify.com/album/2wgsNYjUj2zE2K6WdK9AFj) | 3:30 | 2022-09-12 | 2023-09-30 |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-05-19 |  |
 | [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-23 |  |
+| [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-13 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2021-12-07 | 2022-10-14 |
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2023-02-13 |  |
 | [Time Lapse](https://open.spotify.com/track/7xVyUAYKQ2a2Z8509J2EI3) | [Reece Marshburn](https://open.spotify.com/artist/2qzyY3Znnk0VZka0UQ9Zqk) | [Time Lapse](https://open.spotify.com/album/1DjuJspUziskT5uTPrJtVB) | 2:58 | 2022-04-20 | 2023-09-23 |

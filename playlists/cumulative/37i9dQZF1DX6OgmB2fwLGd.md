@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-945 songs - 1 day 14 hr 31 min
+946 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 | 2023-07-21 | 2023-12-12 |
 | [Genesis](https://open.spotify.com/track/3mcV7PBgaeX9a6TWqgiNzt) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Genesis](https://open.spotify.com/album/3IAtz770qd9AW1zXDIWUNx) | 2:33 | 2022-05-27 | 2022-07-19 |
 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 | 2023-12-15 |  |
+| [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 | 2024-02-13 |  |
 | [Get TF Out My Face](https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Get TF Out My Face](https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv) | 2:13 | 2021-12-10 | 2021-12-27 |
 | [GFU!](https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [GFU!](https://open.spotify.com/album/2CG9sQtUBAhvncyYrUAIGA) | 1:22 | 2023-09-22 | 2023-10-21 |
 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 | 2023-03-29 | 2023-08-05 |
@@ -717,7 +718,7 @@
 | [RICH SCHOLAR](https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [RICH SCHOLAR](https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om) | 1:58 | 2023-06-16 | 2023-12-12 |
 | [RICK DENIMS](https://open.spotify.com/track/6uqcUT0cuNiMrZb480CpTA) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [RICK DENIMS](https://open.spotify.com/album/1W9OMYGaUq8X1zkK2o35L4) | 2:24 | 2024-01-04 |  |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/7qAyWILStEa7VkjF00kXas) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/album/7bf7m2qiQ2EhNSnAQfgwOb) | 2:10 | 2024-01-24 |  |
-| [Rick Rubin](https://open.spotify.com/track/5NOOxxawp4MU1remSX2eJQ) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Lil Pump 2 Deluxe](https://open.spotify.com/album/0xfbrQStjGicZ7WR2iXMXN) | 2:02 | 2023-09-22 |  |
+| [Rick Rubin](https://open.spotify.com/track/5NOOxxawp4MU1remSX2eJQ) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Lil Pump 2 Deluxe](https://open.spotify.com/album/0xfbrQStjGicZ7WR2iXMXN) | 2:02 | 2023-09-22 | 2024-02-14 |
 | [RIDE THE WAVE!](https://open.spotify.com/track/5W8s7MrKDEk1j9gtD0TeQm) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [RIDE THE WAVE!](https://open.spotify.com/album/1qROXmq8dciE3jPJgyKlke) | 2:03 | 2023-01-13 | 2023-02-15 |
 | [Righteous](https://open.spotify.com/track/6pzXbWt70WzfOXp6xfbQWr) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/4wKiLDuvLSKBtWyez67oSG) | 2:43 | 2022-08-12 | 2022-09-17 |
 | [Righteous](https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS) | 2:43 | 2022-08-12 | 2023-06-24 |

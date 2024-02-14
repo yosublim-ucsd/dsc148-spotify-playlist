@@ -3670,7 +3670,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 200933,
       "name": "From Fate",
       "url": "https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H"
@@ -8466,7 +8466,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 236200,
       "name": "Otowa",
       "url": "https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD"
@@ -12447,6 +12447,24 @@
     },
     {
       "album": {
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238534,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "album": {
         "name": "Venus Line",
         "url": "https://open.spotify.com/album/1mJo7rsbEzsFGIeVzuume4"
       },
@@ -13594,7 +13612,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 243667,
       "name": "\u304a\u30fc\u308b\u30fb\u3056\u30fb\u3084\u3093\u3050\u30fb\u304e\u30fc\u304f\u3059",
       "url": "https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ"
@@ -15016,6 +15034,24 @@
       "duration_ms": 250000,
       "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
       "url": "https://open.spotify.com/track/55H19piKezaPeqrTDbjHcO"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30ec\u30f3\u30b8",
+        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
     },
     {
       "album": {
@@ -16918,6 +16954,24 @@
       "duration_ms": 252546,
       "name": "\u30d2\u30c8\u30df\u30ca\u30ab",
       "url": "https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30c8\u30ea\u30ce\u591c - from CrosSing",
+        "url": "https://open.spotify.com/album/2eBtB6yN4jRfMe9zER6af3"
+      },
+      "artists": [
+        {
+          "name": "\u6e15\u4e0a \u821e",
+          "url": "https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "\u30d2\u30c8\u30ea\u30ce\u591c - from CrosSing",
+      "url": "https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl"
     },
     {
       "album": {

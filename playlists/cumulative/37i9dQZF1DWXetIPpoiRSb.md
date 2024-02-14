@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Bea and her Business
 
-1,282 songs - 2 day 16 hr 36 min
+1,283 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1002,7 +1002,8 @@
 | [Sociopath](https://open.spotify.com/track/6UtHBJDGixsNioxZkzNTdJ) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Sociopath](https://open.spotify.com/album/7tMPltBcIw6chvPQiPsphn) | 2:33 | 2021-04-10 | 2021-05-22 |
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-11-13 | 2022-02-19 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-04 | 2022-05-07 |
-| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 |  |
+| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 |  |
 | [SOMEBODY](https://open.spotify.com/track/0HeiYo9WwMT8ujirrWzarf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [SOMEBODY](https://open.spotify.com/album/5aGeJx3pPmu3uAiX3tP5D5) | 2:44 | 2021-10-23 | 2022-02-12 |
 | [Somebody Else](https://open.spotify.com/track/25XifMcAWmG4K6g6QB2fY9) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [The Final Pieces \- EP](https://open.spotify.com/album/7LZVsIexGt6SBzLyn9YMZU) | 3:37 | 2020-10-13\* | 2020-11-14 |
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2022-05-28 |

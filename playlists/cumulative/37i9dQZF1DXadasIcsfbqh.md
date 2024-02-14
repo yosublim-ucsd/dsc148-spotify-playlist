@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Dylan Scott
 
-273 songs - 14 hr 18 min
+274 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Reverse](https://open.spotify.com/track/6MNZfNhi2LWFuzgDIqthPE) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Reverse](https://open.spotify.com/album/2xP0omB0n36TyI6w2eZysm) | 2:53 | 2023-03-24 | 2023-04-22 |
 | [Ride The Wave](https://open.spotify.com/track/6hTSmdJNg2kFGrNAZdkYzR) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Three Months Two Streets Down](https://open.spotify.com/album/1cr1I3hZtfMzf4EXOMk2r1) | 2:53 | 2023-06-30 | 2024-01-27 |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-29 | 2023-03-26 |
+| [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science / You Don’t Love Me](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 | 2024-02-09 |  |
 | [Runnin \(with JP Saxe\)](https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:26 | 2023-03-03 | 2024-01-20 |
 | [Save Me The Trouble](https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:20 | 2023-09-30 |  |
 | [Say It First](https://open.spotify.com/track/1rIzZXLoXTMXif9IKAoqvc) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Say It First](https://open.spotify.com/album/6icFOHKNtZPLyUimlFFCSA) | 3:20 | 2021-12-17 | 2022-05-26 |
@@ -215,7 +216,7 @@
 | [Somewhere Cool With You](https://open.spotify.com/track/2F29A4pp7XDo9X4sunH4LZ) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Somewhere Cool With You](https://open.spotify.com/album/1aUS3qejwUaANXTHdJRiT0) | 2:48 | 2021-12-17 | 2022-10-08 |
 | [Sorry](https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Russell Dickerson](https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8) | 3:08 | 2022-11-04 | 2023-07-29 |
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-12-17 |  |
-| [Still Blue](https://open.spotify.com/track/62vpsN08w8XSO73994WT7a) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Still Blue](https://open.spotify.com/album/6B8HBAbpcpOT5eOvmauebn) | 3:39 | 2023-07-07 |  |
+| [Still Blue](https://open.spotify.com/track/62vpsN08w8XSO73994WT7a) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Still Blue](https://open.spotify.com/album/6B8HBAbpcpOT5eOvmauebn) | 3:39 | 2023-07-07 | 2024-02-14 |
 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2022-01-07 | 2023-03-12 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-12-17 |  |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-10 |  |

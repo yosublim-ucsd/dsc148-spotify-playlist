@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/3sp5KnHFEln5c0nAWZD5kv"
+      },
+      "artists": [
+        {
+          "name": "Jonth",
+          "url": "https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176474,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/5sRe8o0v1CV3p5gFLrGzeH"
+    },
+    {
+      "album": {
         "name": "Beam (ft. Gabriella)",
         "url": "https://open.spotify.com/album/2AfmqAi8KIlIEDvp98lYcx"
       },

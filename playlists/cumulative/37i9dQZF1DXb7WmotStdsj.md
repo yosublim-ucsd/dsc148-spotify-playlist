@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-188 songs - 15 hr 27 min
+189 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Jarima Iliktrouniya](https://open.spotify.com/track/20tf9xOw4V0y0wHgoLfTE7) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Jarima Iliktrouniya](https://open.spotify.com/album/5SnCFCzvjA7TxYg8KHI7FO) | 4:41 | 2021-10-19 |  |
 | [Je T'aime Je T'aime](https://open.spotify.com/track/2HZ7AzDhgUpwBS2VSeC3k8) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Je T'aime Je T'aime](https://open.spotify.com/album/0SnMz2VhIOZmpqM5urAJi3) | 4:13 | 2022-09-20 | 2023-03-23 |
 | [Je t'aime Nabghik](https://open.spotify.com/track/0zfjT2rhnfNNU6fxU5VXZI) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Je t'aime Nabghik](https://open.spotify.com/album/5REaPr2bCKjE4spQvIJDdX) | 5:01 | 2021-10-19 | 2022-09-21 |
-| [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 | 2021-10-19 |  |
+| [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 | 2021-10-19 | 2024-02-14 |
 | [Khalinahalkom](https://open.spotify.com/track/4aKGsTXCnWaQbizUAzm79Z) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Akil Sghir](https://open.spotify.com/artist/0yY561ap6MKDzXlCf07O4p) | [Khalinahalkom](https://open.spotify.com/album/76nZsAEWzZRo3riJWGigqz) | 4:15 | 2021-10-19 | 2023-01-07 |
 | [Khalini Khalini \- Remix](https://open.spotify.com/track/0iUkqgXwK50tprCzFwsrKL) | [Cheb Midou](https://open.spotify.com/artist/79rdsoSMXU2asEnE50Qtol), [DJ Psyico](https://open.spotify.com/artist/7KrPKqkApWnECIUoouaQxY) | [Khalini Khalini \(Remix\)](https://open.spotify.com/album/49bqbVlUrDRPOgHIfwYe9Z) | 3:24 | 2021-10-19 | 2022-09-21 |
 | [Khatira Khatira](https://open.spotify.com/track/1ANh0Pyrr6axtL5PhoRqPh) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Halaou Laou](https://open.spotify.com/album/6lFGyoekQTFfltRpxY7Bpd) | 9:42 | 2022-10-25 | 2024-02-13 |
@@ -187,6 +187,7 @@
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-01-24 |  |
 | [شوفو لامور مدار فيا](https://open.spotify.com/track/3c58Jl3ddpirlnR6mkEiED) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [شوفو لامور مدار فيا](https://open.spotify.com/album/1PTe3yvpsDEAOpN06oB0jv) | 3:06 | 2023-09-25 | 2023-10-21 |
 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 | 2023-07-12 |
+| [عشقها فات الحدود](https://open.spotify.com/track/2hI4PLjRtD6p9aeuwNIsqf) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [عشقها فات الحدود](https://open.spotify.com/album/7ngjklnX34oPZfnulpA0dB) | 5:10 | 2024-02-13 |  |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 |  |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 | 2023-12-30 |

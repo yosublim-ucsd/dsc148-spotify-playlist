@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-663 songs - 1 day 9 hr 25 min
+665 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-07-20 | 2023-08-08 |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-24 | 2023-04-13 |
 | [Den sista sången](https://open.spotify.com/track/5KHO2Rsilm7Nq9Wr8TxmnN) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [En annan jag](https://open.spotify.com/album/5IScUyxaPLwT91UoEm4aXn) | 2:45 | 2023-09-14 | 2024-01-05 |
-| [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 | 2023-10-19 |  |
+| [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 | 2023-10-19 | 2024-02-14 |
 | [Det mesta regnar bort](https://open.spotify.com/track/7coCwMI4TaMaF08vJPZuce) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Det mesta regnar bort](https://open.spotify.com/album/3Uq12qpAnhRiAWhcoFVKJH) | 2:56 | 2023-01-19 | 2023-04-21 |
 | [Det Är Jag Inte Du](https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Det Är Jag Inte Du](https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7) | 2:21 | 2023-04-20 | 2023-07-14 |
 | [Det Är Slut](https://open.spotify.com/track/04QgZlzLxbu9YNEjYIpUPU) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Ingen Aning Vart Jag Landar](https://open.spotify.com/album/3N8DSgKPVNUoit6kBArz01) | 2:36 | 2022-08-25 | 2022-10-28 |
@@ -523,7 +523,8 @@
 | [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-03-24 | 2022-05-04 |
 | [Soldat](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Soldat](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 | 2023-08-17 | 2023-11-14 |
 | [Solen](https://open.spotify.com/track/3y3atUjUSfSxEpM1LEN00h) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Solen](https://open.spotify.com/album/3OuuDKDCCgbDALjhbHr0lR) | 3:37 | 2023-08-10 | 2023-09-22 |
-| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 |  |
+| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-13 |  |
 | [SOM DOM](https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [SOM DOM](https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN) | 2:21 | 2021-12-16 | 2022-03-18 |
 | [Som En Vän](https://open.spotify.com/track/7z3aLAMvGk5Dmn0c3iA2cb) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Som En Vän](https://open.spotify.com/album/7mpQIRGwiQ65MPGWnxWXNl) | 2:57 | 2023-05-25 | 2023-07-01 |
 | [Som ett minne blott](https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Som ett minne blott](https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE) | 3:11 | 2022-08-18 | 2022-11-06 |
@@ -604,6 +605,7 @@
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2022-09-29 | 2022-10-13 |
 | [Undantag](https://open.spotify.com/track/4d3rs5OWMhPHqlIF0a84e2) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Undantag](https://open.spotify.com/album/05dS0ORh6c7UBKdIqyJwVV) | 2:39 | 2023-06-08 | 2023-06-16 |
 | [Under någon ny](https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Under någon ny](https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA) | 4:07 | 2023-02-09 | 2023-09-15 |
+| [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 | 2024-02-13 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 | 2023-02-10 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-02 | 2023-04-21 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-03-31 | 2022-04-15 |

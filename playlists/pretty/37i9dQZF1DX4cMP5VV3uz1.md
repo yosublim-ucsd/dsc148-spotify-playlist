@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,588 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,635 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 |
 | 75 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
 
-Snapshot ID: `MCw4MDNhYzZkODExYmZiOGM1ODYzMDI1N2VkMDc4NjQ5NjQ4ZmMwOTFm`
+Snapshot ID: `MCwxN2MzOGY0ZmNhN2YyOGMzNDJmNWUwN2VlNDc5OGYwYzY1ZTU3YWQ0`

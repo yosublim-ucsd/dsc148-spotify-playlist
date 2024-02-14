@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-947 songs - 1 day 22 hr 49 min
+949 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [God Thing](https://open.spotify.com/track/2IteCPOu0uca1rbS6WIpRe) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Free Me](https://open.spotify.com/album/3vfQ8n48uKN1fuSvHhsJjJ) | 3:02 | 2021-12-11 | 2022-01-31 |
 | [God's Eyes](https://open.spotify.com/track/2lHRuImyzXNKwzy4pau98R) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [God's Eyes](https://open.spotify.com/album/6OK5AWd7zWg4wJrY3dPrMe) | 3:05 | 2023-08-25 |  |
 | [Good](https://open.spotify.com/track/2h9g51rIjlARNw3Mm24xby) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Dj Mike](https://open.spotify.com/artist/0Fq48TUDMWLaNIKFUjnapH) | [Good](https://open.spotify.com/album/3TWOsWcp8STcz4jP1mgnpY) | 2:58 | 2023-01-27 | 2024-01-20 |
-| [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-02-09 |  |
+| [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-09 |  |
+| [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 | 2024-02-09 | 2024-02-14 |
 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 | 2023-01-27 | 2023-02-06 |
 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 | 2022-04-29 | 2022-07-23 |
 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 | 2022-08-06 | 2023-08-26 |
@@ -557,6 +558,7 @@
 | [Never Going Back](https://open.spotify.com/track/3Xda2Z3ETpCPMdbeUXNudm) | [R\. Collins](https://open.spotify.com/artist/5Eh9luUDjUQ0p8xHTCLVps), [Gospel Mike](https://open.spotify.com/artist/5g4I1KLrf2pMfzQWrRwyqL) | [Never Going Back](https://open.spotify.com/album/4WbkrnBsjpdDZ75agVs6ar) | 3:37 | 2021-12-11 | 2022-02-02 |
 | [Never Going Back](https://open.spotify.com/track/44NLMWMljj6VGNIzOfwsDt) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ) | [Never Going Back](https://open.spotify.com/album/74yRPHHckBZoCjGZAmCNKb) | 2:52 | 2022-11-04 | 2022-11-12 |
 | [Never Leave Me](https://open.spotify.com/track/750IEpoifcy2HeUbZdBtuM) | [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [Ray Yung](https://open.spotify.com/artist/0zZb8rW9zsevcZi72WM9RJ) | [Keep It Kingdom](https://open.spotify.com/album/3MlxrwLeigcp0s9GMBwEAH) | 4:45 | 2022-04-29 | 2022-08-07 |
+| [Never Leave Me](https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Never Leave Me](https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0) | 3:18 | 2024-02-09 |  |
 | [Never Scared](https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt) | 3:16 | 2022-08-06 | 2022-09-15 |
 | [New Day](https://open.spotify.com/track/5DPZx70S847lrn640OizK3) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day](https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H) | 3:01 | 2022-07-17 | 2023-08-26 |
 | [New Level](https://open.spotify.com/track/28YWHjBQY8Thn65P7wnF4O) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [New Level](https://open.spotify.com/album/4aA8CI2CJv5gffAePjQAOe) | 2:36 | 2022-02-04 | 2022-03-13 |
@@ -754,7 +756,7 @@
 | [Solar System](https://open.spotify.com/track/1o09rPw5I0M9W9AD1z0Qoz) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Solar System](https://open.spotify.com/album/3xPjq2CgQ1pVPcopuTd7Z5) | 2:57 | 2022-02-04 | 2022-04-27 |
 | [Some Mud Mud](https://open.spotify.com/track/5ee2r5Iy9PkyIkfsomb97Y) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [theBeatbreaker](https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu) | [Some Mud Mud](https://open.spotify.com/album/4VPgVqmIQaKSnyWhGkVviF) | 3:22 | 2022-10-01 | 2022-11-08 |
 | [Sometimes](https://open.spotify.com/track/1cmqxqiWgwqtsYxvoUn0Fp) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Sometimes](https://open.spotify.com/album/1AAi03LpzSCM7qGEvimhHw) | 3:13 | 2021-12-11 | 2022-02-03 |
-| [Soul Cry](https://open.spotify.com/track/6n5sIJ6cA7KpVrtLNU0pOk) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [Soul Cry](https://open.spotify.com/album/4ppS7GojMEEePL0JHStmJ6) | 2:33 | 2024-02-09 |  |
+| [Soul Cry](https://open.spotify.com/track/6n5sIJ6cA7KpVrtLNU0pOk) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [Soul Cry](https://open.spotify.com/album/4ppS7GojMEEePL0JHStmJ6) | 2:33 | 2024-02-09 | 2024-02-14 |
 | [Soul In It](https://open.spotify.com/track/2WimSKacu4RwTvFFOaTy44) | [Sky](https://open.spotify.com/artist/0tXniHPF2ejud7O2UFSveR), [Slim Breeze](https://open.spotify.com/artist/1ibBhu6C8al6XTkWG3j5Z8) | [Ministry And Music 3](https://open.spotify.com/album/2IZSbLDn9AjrtUisohDyZ2) | 2:49 | 2022-05-28 | 2022-07-13 |
 | [Soul Trap](https://open.spotify.com/track/3oUj6nEXcl777P126zeAeP) | [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Soul Trap](https://open.spotify.com/album/41OKESQ9zqf6NT4RapoYMj) | 2:28 | 2021-12-11 | 2022-03-13 |
 | [Spare A Dollar](https://open.spotify.com/track/0B8ktOpKDPtiqA9TGVHuLj) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Spare A Dollar](https://open.spotify.com/album/2qvyLCBDxKOvPGsrNScYd9) | 2:38 | 2021-12-11 | 2022-02-13 |

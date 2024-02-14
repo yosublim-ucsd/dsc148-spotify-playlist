@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Latto\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,244 likes - 97 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,225 likes - 97 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 96 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 |
 | 97 | [I'm The Type](https://open.spotify.com/track/24zmKlJp1LlIRpagSbMaRY) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [chief wuk](https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:36 |
 
-Snapshot ID: `MCwwZjRhMDY0M2E5ZjA1NDQ4ZjQyNzg4YWMwMDhkNjdlMjQ5ZmM2MzNm`
+Snapshot ID: `MCxhMDQ0MmVhZDYzZjdlNjEzMmJjMjFmMWU2OWRmNTMxMDQyZDdhZDlh`

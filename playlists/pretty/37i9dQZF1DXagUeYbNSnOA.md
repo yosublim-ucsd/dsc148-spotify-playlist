@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring gabiboi & Jaze\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,708 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,727 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [desvanecer](https://open.spotify.com/track/1o1QDz33rOzKTPfqAiKPKF) | [muerte sin fin](https://open.spotify.com/artist/0dYPAO9jTMDcrL7CtSuKHJ) | [msf \(i\)](https://open.spotify.com/album/5OsH9BCjziw8vQXKlwNkLF) | 7:49 |
 | 50 | [S](https://open.spotify.com/track/30ghOYdKMhyQWB3z8Nu4tA) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [ECDYSIS](https://open.spotify.com/album/49fHV6gmYe5veZvrjOH0S4) | 1:26 |
 
-Snapshot ID: `MCxlNDBkYTg3NDk3YzFlYTljYWM5YzU4OGIxMGMwZmY0NWNjZDVhZjQ3`
+Snapshot ID: `MCxhZDg4MzQwOTk3YWQxMzI5NWI3MTQ3N2VmNzE2ZmFmZWIyODdkYWU5`

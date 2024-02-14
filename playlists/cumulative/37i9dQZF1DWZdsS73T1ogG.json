@@ -11559,6 +11559,32 @@
     },
     {
       "album": {
+        "name": "Fast Charge",
+        "url": "https://open.spotify.com/album/6BuvMMYeOhTridUrvvC3na"
+      },
+      "artists": [
+        {
+          "name": "Siggy",
+          "url": "https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg"
+        },
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        },
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194620,
+      "name": "Mi Pel\u00edcula",
+      "url": "https://open.spotify.com/track/7MLAll4lwWevUDT8tHULDR"
+    },
+    {
+      "album": {
         "name": "Mi Peor Error",
         "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
       },
@@ -12937,7 +12963,7 @@
     },
     {
       "album": {
-        "name": "NOCHE DE M\u00c1S",
+        "name": "NOCHES DE M\u00c1S",
         "url": "https://open.spotify.com/album/7KLwy8lR8NIK7VkUGpacU1"
       },
       "artists": [
@@ -12950,7 +12976,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158400,
-      "name": "NOCHE DE M\u00c1S",
+      "name": "NOCHES DE M\u00c1S",
       "url": "https://open.spotify.com/track/1l1pPdqaINEgZDE0nVV2ED"
     },
     {
@@ -16476,7 +16502,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 181076,
       "name": "Se Cans\u00f3",
       "url": "https://open.spotify.com/track/7wAgHMlG5DyyElIfBAjyQk"

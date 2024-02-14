@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 350023,
+  "num_followers": 350059,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDE5ZmZlOGNkOGMyMDkxODk3OTIyMmI3MmQzZTUxNTgzYzgyZTUz",
+  "snapshot_id": "MCw0NGFlMmIzY2FmZTliMDBhYzVlNjEwNDRmZDZhYjAxZDJmMzU2MDNi",
   "tracks": [
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
+        "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
+        "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 171752,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
+      "duration_ms": 208692,
+      "name": "Let\u2019s Go Home Together",
+      "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
     }
   ],
   "unique_name": "Feelgood Pop",

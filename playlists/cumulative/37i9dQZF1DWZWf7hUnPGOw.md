@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-272 songs - 16 hr 29 min
+273 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [O Christmas Tree](https://open.spotify.com/track/5XM9gjSRcg3g2wAcIMINZy) | [Alyssa Mei](https://open.spotify.com/artist/1VnGjWia3qntCt6U85yTA7) | [O Christmas Tree](https://open.spotify.com/album/6MmOWTLFPU1VVf5p1s7Gdg) | 2:46 | 2023-11-30 |  |
 | [Ode to LBC](https://open.spotify.com/track/0NA4W3IO9LNJ0s5KRIM3FB) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/1oQ8HKieZSMapORo82MC6i) | 3:03 | 2022-07-22 |  |
 | [Ode to LBC](https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u) | 3:03 | 2022-07-22 | 2022-12-01 |
-| [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2022-07-22 |  |
+| [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 | 2023-11-30 |  |
+| [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2022-07-22 | 2024-02-14 |
 | [Oh My Stars](https://open.spotify.com/track/65D1Gw34nZZpjfcZPmOBwY) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [The Ladder](https://open.spotify.com/album/0oiW40jJHbCnTHIfG1yTaL) | 5:02 | 2022-07-22 |  |
 | [On My Way Home](https://open.spotify.com/track/44y71LA72zHm2SgMjfMN5v) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:50 | 2022-07-22 | 2023-03-23 |
 | [On My Way Home](https://open.spotify.com/track/4Pz4O7gnkdGh60uxa8QzNj) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:50 | 2022-07-22 |  |

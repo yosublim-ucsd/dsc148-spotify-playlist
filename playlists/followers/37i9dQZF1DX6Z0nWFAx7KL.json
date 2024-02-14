@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 47723,
+  "2024-02-14": 47727,
   "date_first_scraped": "2022-09-17",
   "description": "You can dance or chill.",
   "name": "Dance Chill",
@@ -963,7 +963,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 154137,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
@@ -2737,7 +2737,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 142363,
       "name": "Oasis de Gafsa",
       "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
@@ -3309,7 +3309,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 162393,
       "name": "STAY",
       "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
@@ -3521,7 +3521,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 136800,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
@@ -3675,7 +3675,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"

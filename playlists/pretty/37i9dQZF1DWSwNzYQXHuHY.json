@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9760,
+  "num_followers": 9764,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTgyNjY0YzU5ODIyNDJmZWJiNmUwNTZlZWU3MDc2M2ViNTE2N2Zh",
+  "snapshot_id": "MCw2MjEyYTZkOTFiMWM3ZGNlNWIzMWRlYmJhYzkzZDJkMDRlMDFjMWMz",
   "tracks": [
     {
       "added_at": "2024-01-08 09:00:08",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-01-08 09:00:08",
+      "album": {
         "name": "What are we (Feat. PARK JIWON of fromis_9)",
         "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 178226,
       "name": "What are we (Feat. PARK JIWON of fromis_9)",
       "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
-    },
-    {
-      "added_at": "2024-01-08 09:00:08",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2024-01-08 09:00:08",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
-    },
-    {
-      "added_at": "2024-01-08 09:00:08",
-      "album": {
         "name": "Sequence : 7272",
         "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 215346,
       "name": "Pop? Pop!",
       "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
+    },
+    {
+      "added_at": "2024-01-08 09:00:08",
+      "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2024-01-08 09:00:08",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
       "artists": [
         {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
         }
       ],
-      "duration_ms": 170746,
-      "name": "Say I Love U",
-      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "added_at": "2024-01-08 09:00:08",

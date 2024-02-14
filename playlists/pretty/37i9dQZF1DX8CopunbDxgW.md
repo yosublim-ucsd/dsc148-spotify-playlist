@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Lemaitre
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,463 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,482 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TIME](https://open.spotify.com/track/6FmHBsg5PRHDPFsgFhJ8Mo) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [RED](https://open.spotify.com/album/2jIJCOsEw7moLau0blN9p3) | 4:05 |
+| 1 | [Time](https://open.spotify.com/track/6FmHBsg5PRHDPFsgFhJ8Mo) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [RED](https://open.spotify.com/album/2jIJCOsEw7moLau0blN9p3) | 4:05 |
 | 2 | [Everything + Nothing \(feat\. Barney Bones\)](https://open.spotify.com/track/6WPTuvAWWhCG7WhvSy4qTp) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Everything + Nothing \(feat\. Barney Bones\)](https://open.spotify.com/album/7KvrBon215XCI3CUoMyRws) | 2:32 |
 | 3 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 |
 | 4 | [Behaviour](https://open.spotify.com/track/3CpKyUeoJTV3MdbwGbSAed) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Behaviour](https://open.spotify.com/album/3mayNyKEbNAuIizCaGhSC3) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Desire](https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Desire](https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW) | 3:12 |
 | 100 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
 
-Snapshot ID: `MCxmMzQzMGQ4NmFmODAyM2ZmNzIwMzc4MTIyNDU3ZWVkY2IzZmE4ZDc3`
+Snapshot ID: `MCw4NzNlOWFjNDYyMTA4Mjc3YWY1ZTc5MTRjNGViODRhYTMwMzk4OTJl`

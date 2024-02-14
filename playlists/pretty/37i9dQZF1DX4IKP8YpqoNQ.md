@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,910 likes - 100 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,918 likes - 100 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 66 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 3:45 |
 | 67 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 |
 | 68 | [I Keep Forgettin' \(Live\)](https://open.spotify.com/track/2plDIEBv98sy230M3cnPim) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Live on Soundstage](https://open.spotify.com/album/2ANkOj6QpvXQkqZhJCcdHA) | 4:33 |
-| 69 | [That's Life \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:07 |
-| 70 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/3bQo8cXqDZ2F9QWEaLindv) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/13FOULXj0WhEf5Zn4ETHS0) | 3:11 |
+| 69 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/3bQo8cXqDZ2F9QWEaLindv) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/13FOULXj0WhEf5Zn4ETHS0) | 3:11 |
+| 70 | [That's Life \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:07 |
 | 71 | [Cruisin' \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 6:38 |
 | 72 | [Let's Get It On \- Live At The London Palladium/1976](https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live At The London Palladium](https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU) | 6:21 |
 | 73 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 95 | [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 |
 | 96 | [I Plan to Stay a Believer \- Live at The Bitter End, NYC](https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:16 |
 | 97 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 |
-| 98 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
-| 99 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 8:04 |
+| 98 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 8:04 |
+| 99 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
 | 100 | [Add To Me \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 3:40 |
 
-Snapshot ID: `MCwzN2JkMmNiMDc4MTliNWM4MDU3ZGI2ZjAyOWJkYWI3OGQxYjc3NmYx`
+Snapshot ID: `MCw1MGM2ZGZmNjNmYjdjYTM4OTQ2Mjg3MGE2OTE4ZmNjYTMwMTI1ZTE4`

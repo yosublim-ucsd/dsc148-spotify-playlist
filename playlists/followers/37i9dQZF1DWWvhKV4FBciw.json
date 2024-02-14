@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 1684943,
+  "2024-02-14": 1685364,
   "date_first_scraped": "2022-05-14",
   "description": "A selection of the greatest funk & soul records ever made.",
   "name": "Funk & Soul Classics",
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
@@ -2883,7 +2883,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 195133,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"

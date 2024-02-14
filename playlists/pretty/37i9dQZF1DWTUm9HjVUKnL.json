@@ -1,17 +1,33 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 218727,
+  "num_followers": 218742,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGJkYzNiNjIzM2QwY2E4NjU2YjU0NzZmOGE1ZTMxOTg3Nzk1MTNk",
+  "snapshot_id": "MCxkMDQwZGE1ZGZmZGFhY2MxZGMyZGI4ZWEzOWIxNWJlOTJkNDRlM2I2",
   "tracks": [
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Live from Spotify Studios",
+        "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 176055,
+      "name": "You Could Start A Cult - Live from Spotify Studios",
+      "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"
+    },
     {
       "added_at": "2024-02-12 18:30:03",
       "album": {
-        "name": "Be Quiet And Drive (Far Away) [Spotify Singles]",
+        "name": "Be Quiet and Drive (Far Away) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
       "artists": [
@@ -21,7 +37,7 @@
         }
       ],
       "duration_ms": 187189,
-      "name": "Be Quiet And Drive (Far Away)",
+      "name": "Be Quiet and Drive (Far Away)",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
@@ -9532,7 +9548,7 @@
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS"
+        "url": "https://open.spotify.com/album/1qQmZJt638Nr5xbhsGWQgj"
       },
       "artists": [
         {
@@ -9542,13 +9558,13 @@
       ],
       "duration_ms": 241717,
       "name": "Charity - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K"
+      "url": "https://open.spotify.com/track/48wHLOsYnlfKdMnbhB0KVR"
     },
     {
       "added_at": "2023-10-02 17:57:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS"
+        "url": "https://open.spotify.com/album/1qQmZJt638Nr5xbhsGWQgj"
       },
       "artists": [
         {
@@ -9558,7 +9574,7 @@
       ],
       "duration_ms": 254880,
       "name": "Houses - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa"
+      "url": "https://open.spotify.com/track/4WxVFeTim6kVU6e3mlysV8"
     },
     {
       "added_at": "2023-10-02 17:57:02",

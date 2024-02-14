@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,386 likes - 65 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,418 likes - 65 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 19 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 |
 | 20 | [Deep Love](https://open.spotify.com/track/6SKThyaFX1OQKL4CmOmvO6) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Deep Love](https://open.spotify.com/album/3fJb3ILnfIJlTGbavZZPPy) | 3:57 |
 | 21 | [Heaven Sent](https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:52 |
-| 22 | [Heaven Bent](https://open.spotify.com/track/0bjTW3zBohWdYy2z1Sf5hJ) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 6:47 |
+| 22 | [Heaven Bent](https://open.spotify.com/track/43X40H5c6YX3yglq8MKt38) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/4jy7lQVm86yCpTkUcIx2JN) | 6:47 |
 | 23 | [Darkwater](https://open.spotify.com/track/6ym2fufsRInM3WzIdIqsOw) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Darkwater](https://open.spotify.com/album/5LZVAYPoQPQDMsMEMXSRmj) | 4:46 |
 | 24 | [She Took a Gamble](https://open.spotify.com/track/0LzMVEtDRKTQ2WlIVUXT8s) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Way Out I'll Wander](https://open.spotify.com/album/1b6Q0enFSwYs4FiOrbgpEQ) | 3:15 |
 | 25 | [Little Jose](https://open.spotify.com/track/4t8HYOqorDEhyVGHHxCmXw) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie \(Spotify Exclusive Version\)](https://open.spotify.com/album/1aey7yOQZ0QUM5CI3FF1dT) | 1:59 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 64 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 65 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MCxlMGU0YTM4ZTc0YTQ0YzFhYWRjOGMxZDEyODYwNGI4MGFlOTk3YmIz`
+Snapshot ID: `MCw0YzA1YmU1NzNjZWVjNGI2ZmZlMjdlYmJmNzg3Y2E4MzU1NGM0ZGRm`

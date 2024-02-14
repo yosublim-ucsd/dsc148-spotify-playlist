@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-422 songs - 1 day 2 hr 6 min
+423 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Ice Storm \- Psalm Trees Remix](https://open.spotify.com/track/0ZH8t0H6ndj9bsiW7AEFmR) | [Flyjack](https://open.spotify.com/artist/0YuChxoDEqioiZgb9X3vlD), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Ice Storm \(Psalm Trees Remix\)](https://open.spotify.com/album/7vDZIMhhr9z36jtFjW4ZK1) | 3:00 | 2022-04-14 | 2023-03-21 |
 | [Ice\-free](https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Norbakken](https://open.spotify.com/artist/330550E6AXRr7jHSLX1GPd) | [Harbour](https://open.spotify.com/album/7rzUSG7h8pGwMOCvXAiGai) | 3:08 | 2022-02-17 | 2023-03-14 |
 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 | 2022-02-17 | 2023-03-21 |
+| [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 |  |
 | [Impulse](https://open.spotify.com/track/2OpCTTrEinags4toAT5od9) | [Dave Mackay](https://open.spotify.com/artist/0OP43xZYPF7td5hkJr0dsi), [Antoine Katz](https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC), [A.G\. Steele](https://open.spotify.com/artist/7sxBhnfmspbyVVgwXBJa74) | [Three: Vol\. 3 \[Utopia\]](https://open.spotify.com/album/7nhGyrXgeOc0wiadovp4YG) | 4:13 | 2022-03-17 | 2023-03-21 |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2023-03-20 |  |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2023-03-20 |  |
@@ -261,7 +262,7 @@
 | [Odyssey](https://open.spotify.com/track/7rzaogj4Be9bXCV7rGgRgT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Welcome to the Hills](https://open.spotify.com/album/2o2tNVIRBR0BH4RlLm4qLO) | 3:44 | 2022-02-17 | 2022-04-23 |
 | [Olivia Benson](https://open.spotify.com/track/4uOjcnam6f6tq4c6mlvC8W) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 4:01 | 2022-02-17 | 2023-03-21 |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-03-20 |  |
-| [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 | 2023-03-20 |  |
+| [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 | 2023-03-20 | 2024-02-14 |
 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 | 2023-09-22 |  |
 | [One Day We'll Meet Again](https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [One Day We'll Meet Again](https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3) | 4:00 | 2023-03-20 |  |
 | [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 | 2023-05-11 | 2024-02-13 |

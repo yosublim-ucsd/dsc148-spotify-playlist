@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,819 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,830 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 61 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 |
 | 62 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 6:25 |
 | 63 | [Yo Te Amo A Ti](https://open.spotify.com/track/578QxCzsWlrHJrXaZGOpwY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [TINI \(Martina Stoessel\) \[Deluxe Edition\]](https://open.spotify.com/album/2pFtQ4nD1Dq1ESF4w7wk3Q) | 3:39 |
-| 64 | [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2w4DP2LlOb7vmnzy2eflE4) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 7:10 |
-| 65 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
+| 64 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
+| 65 | [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2w4DP2LlOb7vmnzy2eflE4) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 7:10 |
 | 66 | [Do You Like It](https://open.spotify.com/track/5vk4PI0V98SKhD6zMjIQLC) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:35 |
 | 67 | [How Does It Make You Feel](https://open.spotify.com/track/7ptEC3PSdXZ8530GoESqm3) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:36 |
 | 68 | [New Love](https://open.spotify.com/track/1KARZZIAZxCCiUpLD7Wv4D) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:31 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 98 | [Déjà Vu](https://open.spotify.com/track/1cXStSHado9926qLHI2J61) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Made Of](https://open.spotify.com/album/42GK52roNA9gAe8aLvC5zt) | 2:57 |
 | 99 | [Juke Joint Love](https://open.spotify.com/track/2O7uT2VtjHhV0EvKYSxI5Y) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:03 |
 
-Snapshot ID: `Mjg0NjMxNzAsMDAwMDAwMDBhM2JiYjRmYzgxNTlmYjg0MGYwYmNkYThmZDkxOWI2OQ==`
+Snapshot ID: `Mjg0NjQ2MTAsMDAwMDAwMDA2MjJlNjE4ZDdjMTM5OGQ2NGZlYzQyN2Y4OTcyOGVjOQ==`

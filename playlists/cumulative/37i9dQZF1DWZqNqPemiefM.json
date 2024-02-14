@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Bitsummer",
+        "url": "https://open.spotify.com/album/4RSVUUq6KsWDCLeTjMSFny"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        },
+        {
+          "name": "Rinko",
+          "url": "https://open.spotify.com/artist/36IKnQFNBrUs7GrgO6KuhD"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Bitsummer",
+      "url": "https://open.spotify.com/track/7CTUtBYUjFSLtk97ZpEaTL"
+    },
+    {
+      "album": {
         "name": "Blessing day",
         "url": "https://open.spotify.com/album/6EUviBJfmgJuMzxpsPqWi8"
       },
@@ -9774,7 +9796,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 491166,
       "name": "\u30ab\u30e9\u30d3\u30f3\u30ab",
       "url": "https://open.spotify.com/track/01qQCFLCKuqF7R5PoJ0PVW"

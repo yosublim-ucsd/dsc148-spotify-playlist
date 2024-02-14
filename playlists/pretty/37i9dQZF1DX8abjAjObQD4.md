@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 725 likes - 68 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 68 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 6 | [Every Time the Sun Comes Up – Live from Spotify NYC](https://open.spotify.com/track/1cKih5nX9Era2wDjkG8DWB) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Spotify Sessions](https://open.spotify.com/album/6i9AX3K3l4YSKLMlelYbqH) | 4:12 |
 | 7 | [Wildfire \- Live](https://open.spotify.com/track/0PVTCqBYECg1iqxOwYLP2I) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Austin City Limits Live At The Moody Theater](https://open.spotify.com/album/2mVo8SPzDL8AySVg7ikOL4) | 6:41 |
 | 8 | [Heartbeats \- Live](https://open.spotify.com/track/7jddYTraXSN0GPxFxDmnb5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [The String Theory](https://open.spotify.com/artist/6gT9lfBqZ1R9BrSEuB09E1) | [Live In Europe](https://open.spotify.com/album/6lEMowwswvl955V51sNm88) | 2:55 |
-| 9 | [By and By \- Live](https://open.spotify.com/track/2CRRodIXF6xBPgIw8TmvV8) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Live from Newport Music Hall](https://open.spotify.com/album/3L3MtBSFX6iv3SoshnfG9a) | 4:59 |
+| 9 | [By and By \- Live](https://open.spotify.com/track/3cZesFsDHkrutl5xe10RjG) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Live from Newport Music Hall](https://open.spotify.com/album/7wt8GphbEaLEAOTWvPG8r2) | 4:59 |
 | 10 | [Scarborough Fair / Canticle \- Live at Carnegie Hall, New York, NY \- November 1969](https://open.spotify.com/track/5Jyvfm1u1mXxlnu2CDXfKF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:54 |
 | 11 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 |
 | 12 | [Hallelujah \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/6BZFeMHjTzzNLwJGirNDzJ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 9:15 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 62 | [Be Here Now \(Live\)](https://open.spotify.com/track/2gl6frcaWZ4QqdGqqf2zve) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 6:16 |
 | 63 | [Chinese Satellite \- Live From Sound City](https://open.spotify.com/track/4A0HztYIT8xANwwTQxAFp0) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Chinese Satellite \(Live From Sound City\)](https://open.spotify.com/album/5llvMUjEVcdJoqtqw7hLoR) | 3:54 |
 | 64 | [Love More \(feat\. Bryce Dessner & Aaron Dessner\)](https://open.spotify.com/track/1bvL2SmIBJNs35uoBxWFGs) | [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf) | [MusicNOW: 10 Years](https://open.spotify.com/album/26GNxJ7RAWqGQ127XZddT1) | 5:50 |
-| 65 | [Dusty Trails \- Live from Spotify House SXSW '16](https://open.spotify.com/track/5Mcl5heog3AgSEzDl5YvjZ) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Spotify Sessions](https://open.spotify.com/album/7rtwFSH6qYX3XWgixcPKTy) | 5:14 |
+| 65 | [Dusty Trails \- Live from Spotify House SXSW '16](https://open.spotify.com/track/3e6KfPjCkSDMwPfEI5pJPH) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Spotify Sessions](https://open.spotify.com/album/7emdl8Yi1ynvODvh20Eneg) | 5:14 |
 | 66 | [All Your Favorite Bands \(Live From An Evening With Dawes\)](https://open.spotify.com/track/2OPFkmOev87CEcpqvZKgcS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Live](https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a) | 4:29 |
 | 67 | [I Went to the Store One Day \- Live from the Hamburg Elbphilharmonie on August 8, 2019](https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Off\-Key in Hamburg](https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU) | 4:31 |
 | 68 | [Fur Coat Blues \(Live\)](https://open.spotify.com/track/0bgx8MHo22ea3yrmRqHBTi) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Live from Largo at the Coronet Theatre](https://open.spotify.com/album/12o0UlVSlCIYE1l2LvL2SW) | 4:01 |
 
-Snapshot ID: `MCwwMTRiMWY5NzY5MDgzZTVjYjMxMTY3ZGJjZjlhZjgxMmI5ODA5NGJl`
+Snapshot ID: `MCxjNTU1OTVjOWYzMDJmZmQ0YTQ0NWEyNzZmMGM5NzY2NmRiYTliMjVm`

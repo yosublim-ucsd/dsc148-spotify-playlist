@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 1400,
+  "2024-02-14": 1400,
   "date_first_scraped": "2022-05-30",
   "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
   "name": "This Is Clara Rockmore",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 153026,
       "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5vPIY9UAHmOux60VpRV26j"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 272306,
       "name": "Adagio from Cantata 156 - Opening Commentary",
       "url": "https://open.spotify.com/track/3gEiwlj4eSYmqBNjqHimD1"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 424453,
       "name": "Bachianas brasileiras No. 5, W389: I. \u00c1ria (Arr. for Theremin & Cello Ensemble)",
       "url": "https://open.spotify.com/track/3uXjk6sfXIC9oLLCjrmNtM"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 236413,
       "name": "Nocturne in C-Sharp Minor, B. 49 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/4sWMZ7MWDd2OZCD9FIEEos"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 127720,
       "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/2yQgxybv78OmXgcHxttdDp"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 264280,
       "name": "Theremin Concerto: Pastorale",
       "url": "https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E"

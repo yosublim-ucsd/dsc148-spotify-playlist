@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-11,811 songs - 25 day 11 hr 49 min
+11,812 songs - 25 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1720,6 +1720,7 @@
 | [Carousel](https://open.spotify.com/track/6wI8ZvzcMazKexWm6cfVoU) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Carousel](https://open.spotify.com/album/7FNXhhpjDuYfLjiazQ4ivA) | 2:12 | 2023-02-16 | 2023-02-24 |
 | [Carried Away \- From the “Lyle Lyle Crocodile” Original Motion Picture Soundtrack](https://open.spotify.com/track/7GsdXZI26fL2mFqAhGDGZr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Lyle, Lyle, Crocodile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kchX1pzbXOv6VRpd7vu5G) | 3:46 | 2022-10-07 | 2022-10-14 |
 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 | 2023-09-07 | 2023-09-15 |
+| [Carrusel](https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Carrusel](https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6) | 2:23 | 2024-02-09 |  |
 | [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 | 2022-11-03 | 2022-11-11 |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2023-11-17 | 2023-12-09 |
 | [Carry On](https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM) | [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Carry On](https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o) | 2:34 | 2023-01-13 | 2023-01-20 |
@@ -10400,7 +10401,7 @@
 | [Tillbaks för dig](https://open.spotify.com/track/6nRO9EVCTFyzzXZLnHjgqr) | [MIKAELA](https://open.spotify.com/artist/3xRLWk7VxMCfgxCiLGCHoP) | [Tillbaks för dig](https://open.spotify.com/album/1IJWD8kTOjDAxsNSLtYeKE) | 3:13 | 2023-05-11 | 2023-05-19 |
 | [TILLS NU](https://open.spotify.com/track/7zr8W8DvAt5dNytak2hlZm) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [TILLS NU](https://open.spotify.com/album/78OHWJJW41qtp4fddukbaP) | 2:52 | 2024-02-08 |  |
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-21 | 2022-04-29 |
-| [TIME](https://open.spotify.com/track/6FmHBsg5PRHDPFsgFhJ8Mo) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [RED](https://open.spotify.com/album/2jIJCOsEw7moLau0blN9p3) | 4:05 | 2024-02-08 |  |
+| [Time](https://open.spotify.com/track/6FmHBsg5PRHDPFsgFhJ8Mo) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [RED](https://open.spotify.com/album/2jIJCOsEw7moLau0blN9p3) | 4:05 | 2024-02-08 |  |
 | [Time](https://open.spotify.com/track/5s4ggn6uay9HvQu8R0fcDK) | [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Time](https://open.spotify.com/album/68O8oas8G8LutlLOaaKeDF) | 3:05 | 2022-08-12 | 2022-08-19 |
 | [Time](https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1) | [Time](https://open.spotify.com/album/6qdTXzg7QJaI98wzYagK7H) | 5:40 | 2023-12-21 | 2023-12-30 |
 | [TIME](https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [CROOK](https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC) | 4:14 | 2023-03-16 | 2023-03-25 |

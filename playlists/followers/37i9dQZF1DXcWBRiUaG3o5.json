@@ -1,5 +1,5 @@
 {
-  "2024-02-13": 1271379,
+  "2024-02-14": 1271356,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your night easy and light with this acoustic mix.",
   "name": "Evening Acoustic",
@@ -3178,6 +3178,24 @@
     },
     {
       "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi"
+      },
+      "artists": [
+        {
+          "name": "Pete Josef",
+          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240340,
+      "name": "Sunny Side Up",
+      "url": "https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7"
+    },
+    {
+      "album": {
         "name": "Sweet Return",
         "url": "https://open.spotify.com/album/6a46bNZuzbYWmibkRmOZ87"
       },
@@ -4041,7 +4059,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-13",
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"

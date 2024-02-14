@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,169 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,198 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 17 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 |
 | 18 | [Here and Now](https://open.spotify.com/track/5lsMyHFs19kw0jYNP0MNKK) | [The Ernies](https://open.spotify.com/artist/1kNq8yT2S4lD5jetHxcyug) | [Meson Ray](https://open.spotify.com/album/2JHRbAV8L0f6P6cbZItoI2) | 3:30 |
 | 19 | [Vilified](https://open.spotify.com/track/1zlxmKxBTo0vZebDNl3WWs) | [Even Rude](https://open.spotify.com/artist/5b6NZkhncbICzEVWlQVzqq) | [Superabsorbent](https://open.spotify.com/album/1bPRVSF2bCP7Tpakdp7u2T) | 3:30 |
-| 20 | [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 |
+| 20 | [West Coast](https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/2s9Ar63LYOp0XUOscyIz9M) | 3:22 |
 | 21 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 |
 | 22 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
 | 23 | [Sedona](https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Junk Rock](https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J) | 3:09 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MCxlYTY1MmUyMGU3NWE0MDhjNTQ4N2VmYjRmZWRiNDc2NTU0YzQzODYw`
+Snapshot ID: `MCw2NTAyNDg4MDNjYmZhNmY3NzQ0Y2U4MDBmNDEyOGQ0ZGE3ZTc3ZmQ2`

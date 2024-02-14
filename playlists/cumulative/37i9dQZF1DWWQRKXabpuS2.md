@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:نوال الكويتية
 
-310 songs - 21 hr 16 min
+312 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A3eesh Elyoum](https://open.spotify.com/track/3eSG8kCHjXHcXb5THol7Ch) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [A3eesh Elyoum](https://open.spotify.com/album/0ruoI8m2TFS6oiodKiEwPy) | 4:31 | 2022-09-16 | 2023-03-25 |
 | [Abghani](https://open.spotify.com/track/2dCjWuh8bNEU0gkWrlUbvD) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Abghani](https://open.spotify.com/album/6BPDqnmk4okiP45OUTQo6F) | 3:55 | 2023-12-29 |  |
 | [Abiha Mn Allah](https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Abiha Mn Allah](https://open.spotify.com/album/2L7BvhoQ39OAFx6CPITA7r) | 4:11 | 2023-06-13 | 2023-12-30 |
+| [Adaaj Ghanaj](https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Adaaj Ghanaj](https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns) | 4:30 | 2024-02-13 |  |
 | [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-15 | 2023-06-14 |
 | [Ahebak](https://open.spotify.com/track/7wtj1YsnPgGCPylmzLma4Z) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Ahebak](https://open.spotify.com/album/0zwZJrDmw6WZkYi54FPiUA) | 4:33 | 2022-05-01 | 2022-11-08 |
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-06-28 | 2023-01-13 |
@@ -222,14 +223,15 @@
 | [Thekrak \(16\)](https://open.spotify.com/track/4rLXGSQ0IwvAb5Hye9Rixj) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Thekrak \(16\)](https://open.spotify.com/album/7gT2MAtewnaohs143iyPjK) | 4:39 | 2022-09-14 | 2022-09-30 |
 | [Thekrak \(16\)](https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:39 | 2022-09-28 | 2023-01-21 |
 | [This Is Our Time](https://open.spotify.com/track/0yG7cff6yTcV58dVgAr8NB) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Mayssa Karaa](https://open.spotify.com/artist/1IsHfx3tpJaUzDNRbMULzU) | [This Is Our Time](https://open.spotify.com/album/5iKUOQN1GjVQ7nYFk9VZHI) | 4:06 | 2021-12-23 | 2022-02-11 |
-| [Tkhawfni](https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Tkhawfni](https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX) | 5:00 | 2023-07-24 |  |
-| [Tmmor Jarhi](https://open.spotify.com/track/2kGTKsmne0Cpq3IWHOUGOi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Tmmor Jarhi](https://open.spotify.com/album/48gEAuMdpxSycv3wpFJc8O) | 4:23 | 2023-07-27 |  |
+| [Tkhawfni](https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Tkhawfni](https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX) | 5:00 | 2023-07-24 | 2024-02-14 |
+| [Tmmor Jarhi](https://open.spotify.com/track/2kGTKsmne0Cpq3IWHOUGOi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Tmmor Jarhi](https://open.spotify.com/album/48gEAuMdpxSycv3wpFJc8O) | 4:23 | 2023-07-27 | 2024-02-14 |
 | [Turfaa Alaqlam](https://open.spotify.com/track/4Z92Zmai7hrj1vPXDTCQhU) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Turfaa Alaqlam](https://open.spotify.com/album/33mq4MlA3VmNjKprtJENbU) | 4:40 | 2023-12-29 |  |
 | [Wa Melha Wa Zenah](https://open.spotify.com/track/365AtYjRoVs31lH6eLfsOQ) | [Faissal Ben Khalid](https://open.spotify.com/artist/3n0tXmQ0nInop0zTYGfYSZ) | [Wa Melha Wa Zenah](https://open.spotify.com/album/5zWcspJbXEb1dSwhcIAUsk) | 3:51 | 2021-12-23 | 2022-06-04 |
 | [Wahshni](https://open.spotify.com/track/7qXJDw6ucdCPRPXYSDRdBX) | [Essa Alwad](https://open.spotify.com/artist/5EZ7zMZU3c0JMHq0yczerM) | [Wahshni](https://open.spotify.com/album/6NHVn2BIPCjj5mHuWLqLKV) | 4:03 | 2022-06-02 | 2022-11-15 |
 | [Walhat Wjet](https://open.spotify.com/track/6SHgMFXfzUdJg71xZqzAeJ) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Walhat Wjet](https://open.spotify.com/album/3K5AxP8THalYPGOuzJk1UA) | 2:22 | 2021-12-23 | 2022-06-04 |
 | [Waqaf Lahfatk](https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Methan](https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC) | [Waqaf Lahfatk](https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI) | 4:44 | 2023-10-03 |  |
 | [Wayn Ma Wayn](https://open.spotify.com/track/1kqMk4SFhqjURfdHaZHP5k) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Wayn Ma Wayn](https://open.spotify.com/album/527Um3zJpKjclamlE7OGuS) | 3:16 | 2022-03-03 | 2022-08-13 |
+| [Wbass Wallah](https://open.spotify.com/track/0tO10FXwItxlccWS8d2WoZ) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Wbass Wallah](https://open.spotify.com/album/52dHi6cYaYewGLsEJxtTH6) | 4:03 | 2024-02-13 |  |
 | [Weddi Aeref](https://open.spotify.com/track/2zpd1Epv2gf5MUTtMCuaMv) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Weddi Aeref](https://open.spotify.com/album/0GGhAFHqI12OYD0TX0frVl) | 4:04 | 2021-12-23 | 2022-05-14 |
 | [Wesh Fini](https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Wesh Fini](https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR) | 3:11 | 2023-07-27 | 2024-02-10 |
 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-11-17 | 2023-05-26 |

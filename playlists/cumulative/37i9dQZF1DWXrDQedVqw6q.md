@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-169 songs - 7 hr 56 min
+174 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,14 @@
 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 | 2023-02-08 |
 | [Arpegio D](https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8) | [The Zapan](https://open.spotify.com/artist/4uUjj6DgZwg15yMXzoHlg0) | [Arpegio D](https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa) | 2:02 | 2022-03-21 | 2022-05-06 |
 | [Artemis](https://open.spotify.com/track/7vnEWOMLuZLpkbJk8HFuus) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Artemis](https://open.spotify.com/album/4lmVb8zknEw7BpRaLkc6mQ) | 2:25 | 2022-03-21 |  |
+| [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 | 2024-02-14 |  |
 | [At Ease](https://open.spotify.com/track/0EkXqaHCTYzqJm3rsbYe58) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 3:18 | 2022-03-21 |  |
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2022-03-21 |  |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2022-03-21 |  |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2022-03-21 |  |
 | [Birth of Light](https://open.spotify.com/track/03TniK8y3htqfMNq88Bqwz) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Birth of Light](https://open.spotify.com/album/15HR5PQfvYni3ybglJgxQS) | 1:54 | 2022-03-21 | 2023-07-29 |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2022-03-21 |  |
+| [Bliss](https://open.spotify.com/track/79AKOkbYO8Qd8NMTZpSFzI) | [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [This Moment Now](https://open.spotify.com/album/20kjkEG7bfr22uJcEj0JCA) | 4:07 | 2024-02-14 |  |
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2022-03-21 |  |
 | [buzz](https://open.spotify.com/track/7cEfMa4xuTRegIALvQKWvl) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [buzz](https://open.spotify.com/album/4KK8nCZ99exTrZ5HMx5J9w) | 2:05 | 2023-11-24 |  |
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2022-03-21 |  |
@@ -111,6 +113,7 @@
 | [Quietude](https://open.spotify.com/track/5gHgNdqNDpPWdFnPp5RAdo) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [Quietude](https://open.spotify.com/album/62Xuc4vGeWKWxx2Phv60Ld) | 3:48 | 2024-01-24 |  |
 | [Rest Your Soul](https://open.spotify.com/track/2J0E98htocXNbw8f5GLahx) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Solitude](https://open.spotify.com/album/6SNOMXRBFNzL18Xo96PmD6) | 3:35 | 2022-03-21 |  |
 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 | 2022-03-21 |  |
+| [Sacred Alchemy](https://open.spotify.com/track/7rJMMlb0WFlfTt96o9nmWN) | [Lucia Lopez](https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X) | [Sacred Alchemy](https://open.spotify.com/album/2x5CIkNAszdckZInOtl4zn) | 2:26 | 2024-02-14 |  |
 | [Saga Menuette](https://open.spotify.com/track/3EwA8gI0oi0vtmIBZBjGRQ) | [Marie Depauw](https://open.spotify.com/artist/3YrkixibPYT9i5JliqmLK7) | [Saga Menuette](https://open.spotify.com/album/0h1xKYfHHxyIEUKQDie39S) | 1:51 | 2022-03-21 | 2023-07-29 |
 | [Saga Of Me](https://open.spotify.com/track/3gc5hmuRFBI2Vnd3Owjsok) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Saga Of Me](https://open.spotify.com/album/4NkpuGYcUFAb1QZulZlUcL) | 2:34 | 2022-03-21 |  |
 | [Sanctuary](https://open.spotify.com/track/07faNDmHpfee71OHyar3F4) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Sanctuary](https://open.spotify.com/album/3s7wjADNC8XLgZSedXwozE) | 2:53 | 2022-03-21 | 2022-09-07 |
@@ -132,6 +135,7 @@
 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2022-03-21 |  |
 | [Staying Safe](https://open.spotify.com/track/3uokV7euVTekwkO5SzFpnK) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Staying Safe](https://open.spotify.com/album/60dIOyOzwfUnHjnanDTQaZ) | 3:18 | 2022-03-21 |  |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2022-03-21 | 2022-08-13 |
+| [Sublime Worlds](https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [Sublime Worlds](https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o) | 2:26 | 2024-02-14 |  |
 | [Sum Of The Parts](https://open.spotify.com/track/1eaeklJFnNjG203g72IKuj) | [Dana Kiley](https://open.spotify.com/artist/0o3CUUalrv4PcKlVTcUvBO) | [Sum Of The Parts](https://open.spotify.com/album/3JMRUEN6Mq7BxBotzuyPue) | 2:18 | 2022-03-21 | 2023-07-15 |
 | [Summer](https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Summer](https://open.spotify.com/album/7elTnjhpbDAbtO2LYKdd1f) | 2:47 | 2022-07-08 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2022-03-21 |  |
@@ -165,6 +169,7 @@
 | [Unknown](https://open.spotify.com/track/0CBVAaE1crsiQgrYui9qEg) | [DREAMY charlie](https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808) | [Spectrum](https://open.spotify.com/album/3HUqYyfkP0i5CqCAf2m1dM) | 2:33 | 2022-03-21 |  |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2022-03-21 | 2023-07-29 |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2022-03-21 | 2022-05-06 |
+| [Velvet Stills](https://open.spotify.com/track/1gUN01HfuzSG2OZpbuQ4be) | [Ana Costa](https://open.spotify.com/artist/3PXd3y6WyVDbpmIUHtrTbu) | [Velvet Stills](https://open.spotify.com/album/0HgmMD6baTPinbd8pwifBC) | 2:26 | 2024-02-14 |  |
 | [Violet Illusion](https://open.spotify.com/track/2owgy2BLBfzhszYsdkYZEc) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Violet illusion](https://open.spotify.com/album/6g9FrS4LYp5tgX29nLnFT7) | 4:25 | 2022-03-21 |  |
 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 | 2022-03-21 |  |
 | [Watching Dew Drops](https://open.spotify.com/track/1AXcLYTinsU5mUI2xObiQJ) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:00 | 2022-03-21 | 2023-07-29 |

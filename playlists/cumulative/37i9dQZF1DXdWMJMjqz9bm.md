@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-613 songs - 1 day 4 hr 2 min
+615 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,8 @@
 | [Jenny](https://open.spotify.com/track/1xipoyu49i67F7kM6GLRBY) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Jenny](https://open.spotify.com/album/2CBcNQze7xZTpNRiTyJ5cT) | 2:10 | 2021-11-16 | 2022-02-26 |
 | [Johnny D](https://open.spotify.com/track/5rLKasnwdMsum1BOb5t3In) | [DYLVN](https://open.spotify.com/artist/1wtLdgT2rz2Ddp30cDotFm) | [Johnny D](https://open.spotify.com/album/1p2mNsTJJPzac5pOf1Yyjt) | 1:51 | 2023-03-03 |  |
 | [Just Be You](https://open.spotify.com/track/0baJ0dpMNqtQMKYYFpvtAY) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Just Be You](https://open.spotify.com/album/5hiWu3iJHqGv1bNDaGwarc) | 3:06 | 2023-04-26 |  |
-| [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 | 2023-04-28 |  |
+| [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 | 2023-04-28 | 2024-02-14 |
+| [just friends](https://open.spotify.com/track/4W3SnqDKLvyRAFKDfCjSWM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:59 | 2024-01-12 |  |
 | [Just Like That](https://open.spotify.com/track/3vRSduRquXh9U5EvRB7mS7) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Just Like That](https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU) | 3:11 | 2022-09-02 | 2022-11-30 |
 | [Keys](https://open.spotify.com/track/1kCI0UC3E0gwtOVdgyukFD) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Keys](https://open.spotify.com/album/38tcHYIBDdOtJB0hh7XiHe) | 2:52 | 2022-02-25 | 2022-06-04 |
 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 | 2022-04-22 | 2022-05-20 |
@@ -385,7 +386,8 @@
 | [Nonfiction](https://open.spotify.com/track/5RqEk0GE6SG6OlkU9YO2LO) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Nonfiction](https://open.spotify.com/album/6hvewHei5ApnrOPrfGp1uq) | 2:21 | 2023-02-03 | 2023-07-04 |
 | [Not A Beanie](https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Not A Beanie](https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v) | 2:16 | 2023-03-17 | 2023-11-11 |
 | [Not Another Summer Jam](https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [High More Often](https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb) | 2:41 | 2023-06-30 |  |
-| [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 | 2023-08-18 |  |
+| [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 | 2023-08-18 | 2024-02-14 |
+| [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 | 2024-01-12 |  |
 | [NOTHING IS REAL](https://open.spotify.com/track/6bzQq9ucC73NrFeycJGkkQ) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [NOTHING IS REAL](https://open.spotify.com/album/2iWRrUK85hwDRSaBT35BFX) | 2:23 | 2022-10-28 | 2022-11-30 |
 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 | 2023-04-28 |  |
 | [nothing to lose](https://open.spotify.com/track/1FjHCIhGZNXkuYQGziT3p4) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [nothing to lose](https://open.spotify.com/album/70ZI0zWLDEQP4MTB0ONVCA) | 1:14 | 2022-05-06 | 2022-07-23 |

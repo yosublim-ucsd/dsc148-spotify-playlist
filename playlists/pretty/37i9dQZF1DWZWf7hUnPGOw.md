@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,173 likes - 226 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,193 likes - 226 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 88 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 89 | [Home to You](https://open.spotify.com/track/1Xc92bNvk3V2BM0B2592pj) | [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc) | [The Old Pinole Sessions](https://open.spotify.com/album/6g8PQl8NdCJy3sMgDFppLX) | 3:30 |
 | 90 | [My Luck Stays the Same](https://open.spotify.com/track/68QIkPqPCNKhHHghlDf7I0) | [Joe Marson](https://open.spotify.com/artist/4nFQ7IhLVK3MsKRjhq9LKi) | [Someday Soon](https://open.spotify.com/album/0CCA7zvQfoKpEqww7OhUfA) | 4:51 |
-| 91 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
+| 91 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 |
 | 92 | [Things Won't Return](https://open.spotify.com/track/1kS3tEfUGOXe3tDyhA9Cu0) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Day Rage](https://open.spotify.com/album/6k6bjI5nUXq8Oenlg7Glgi) | 2:52 |
 | 93 | [Battle](https://open.spotify.com/track/562unnYUADErsgCUy76JiP) | [hunnybunny](https://open.spotify.com/artist/1mR4Ye4Id0Vk14SQS7M54m) | [Battle](https://open.spotify.com/album/4q5AcEjTYSih2NJ7Pzg4G7) | 3:37 |
 | 94 | [Here I Come Edge \- Main Mix](https://open.spotify.com/track/72iqd0364DOXYs0djzHYtx) | [Michael Edward Hightower](https://open.spotify.com/artist/5WnleJQVlhXY4VsgWbftor) | [Coming Home](https://open.spotify.com/album/3tD9c1POeK7ixRwTnj4jZk) | 3:00 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 225 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 226 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCwyOTViMzY2YTBkY2VkMjJjZmYwZjEyNGM0MjA0MjM3ZGI4YjU1YzRk`
+Snapshot ID: `MCwwZmM5MzczZDM1MTA4NzY2NTFjZTJkNjUxMDVjZmY1ZDlkZTU0ZWRm`

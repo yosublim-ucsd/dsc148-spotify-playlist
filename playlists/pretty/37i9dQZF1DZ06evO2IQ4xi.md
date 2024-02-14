@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,758 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,761 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 31 | [I Don’t Trust You! \(Ft\. Doechii & Junii\)](https://open.spotify.com/track/4OVWjNpeKOg5x9dDTy9BPy) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Junii](https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun) | [Porches](https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy) | 5:15 |
 | 32 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
 | 33 | [Weekend](https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 1:26 |
-| 34 | [Pms](https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 4:37 |
+| 34 | [Truth](https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Leo Conoza](https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 3:12 |
 | 35 | [God](https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:36 |
-| 36 | [Truth](https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Leo Conoza](https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 3:12 |
+| 36 | [Pms](https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 4:37 |
 
-Snapshot ID: `Mjg0NjIzMTUsMDAwMDAwMDAzMzcyOGY1MTM5MDE2YjkxYzFmODgzZTJmMzcwMTQ0Zg==`
+Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBjNTQwMTMyN2Q2M2ViZmFhMjgyMmZlNmZjYzJlNjYzOQ==`
