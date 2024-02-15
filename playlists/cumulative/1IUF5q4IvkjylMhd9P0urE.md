@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-511 songs - 1 day 5 hr 38 min
+512 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Cornerstone](https://open.spotify.com/track/6NWvDFXmxgBs4q6ewekTBp) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [DIN](https://open.spotify.com/album/7vMMp3n6xYQwBgOEkbpJwF) | 3:56 | 2023-08-03 | 2023-12-08 |
 | [Counterfeit](https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 | 2023-07-03 | 2023-12-08 |
 | [Crunchy](https://open.spotify.com/track/1miHWIbwsyrbYuoLg6UNKn) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW) | [Sax Skank / Crunchy](https://open.spotify.com/album/0JmqnoGA0zCVMnQtWI2P4b) | 3:31 | 2023-04-13 |  |
+| [Cry Without End](https://open.spotify.com/track/7Hds52K1esifSDfhz0cOq5) | [SAM MORTON](https://open.spotify.com/artist/3AUG2k8d0nEovQT9uleNPq), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Cry Without End](https://open.spotify.com/album/7vclFJ0yPNcegXkKY1eM60) | 3:44 | 2024-02-14 |  |
 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 | 2022-10-10 | 2022-12-20 |
 | [D 4 N](https://open.spotify.com/track/2qBLm8T8vfrB4ckc9yByhi) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [D 4 N](https://open.spotify.com/album/0wrQNZzeksleaKfKGc92NH) | 5:25 | 2023-08-03 |  |
 | [Daddy](https://open.spotify.com/track/7FOaukJwvpts8X2g48kXSi) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Daddy](https://open.spotify.com/album/5wI4yxpS20ZASlkALcKN2z) | 4:06 | 2023-03-15 | 2023-07-04 |

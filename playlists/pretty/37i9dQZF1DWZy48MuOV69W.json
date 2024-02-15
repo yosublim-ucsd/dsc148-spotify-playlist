@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73643,
+  "num_followers": 73632,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzFmZDJiMjkwYjk5NDY4Y2RlN2M5MmU3YTFlOWU3YjlhZDNjMjMw",
+  "snapshot_id": "MCwyZWNjMjRhNmNhYzk2OWFjOWUzMWVkOGZkMWM1NTFmN2JjYTVlOTZl",
   "tracks": [
     {
       "added_at": "2023-12-19 12:10:20",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Merry Christmas from Jos\u00e9 James",
         "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
@@ -267,34 +283,18 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
+        "name": "Bing's Gold Records - The Original Decca Recordings",
+        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 256443,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+      "duration_ms": 183000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Bing's Gold Records - The Original Decca Recordings",
-        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 183000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
+      "duration_ms": 256443,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
     },
     {
       "added_at": "2023-12-19 12:10:20",

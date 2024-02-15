@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 637500,
       "name": "Jbmmrfs",
       "url": "https://open.spotify.com/track/6HldULoIwRMd20WycIU7Ru"
@@ -6574,6 +6574,28 @@
       "duration_ms": 149000,
       "name": "Today I Learned What Makes Bugs Sick and How To Tie My Shoelaces",
       "url": "https://open.spotify.com/track/4EfpRkLUsPCdGfhq7em1iz"
+    },
+    {
+      "album": {
+        "name": "Tactile Interactions",
+        "url": "https://open.spotify.com/album/6VBEEzxhkrp83NCC0fUUWN"
+      },
+      "artists": [
+        {
+          "name": "J Foerster",
+          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+        },
+        {
+          "name": "N KRAMER",
+          "url": "https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349999,
+      "name": "Tone",
+      "url": "https://open.spotify.com/track/3ebMskcExv0qzOCQ1MZDIu"
     },
     {
       "album": {

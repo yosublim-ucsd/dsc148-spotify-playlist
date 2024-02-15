@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 2553872,
+  "2024-02-15": 2554428,
   "date_first_scraped": "2021-12-28",
   "description": "Energy tracks to get your beast mode on.",
   "name": "Beast Mode Hip-Hop",
@@ -1123,6 +1123,28 @@
       "duration_ms": 146597,
       "name": "CAN'T TOUCH THIS",
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
     },
     {
       "album": {
@@ -2677,7 +2699,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 174915,
       "name": "HOME",
       "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"

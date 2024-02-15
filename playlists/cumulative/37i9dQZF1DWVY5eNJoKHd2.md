@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating
 
-405 songs - 1 day 1 hr 18 min
+406 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2022-01-20 | 2023-11-11 |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-05-20 | 2022-05-25 |
 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 | 2021-12-16 | 2023-07-22 |
+| [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-14 |  |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-17 | 2023-04-01 |
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-29 | 2023-07-01 |
 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 | 2022-04-12 | 2022-04-20 |
@@ -180,7 +181,7 @@
 | [Innerbloom \(Radio Edit\)](https://open.spotify.com/track/7aOXQ9XfYm5pUNJnk6BOHE) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Innerbloom \(The Remixes\)](https://open.spotify.com/album/0wghImWgt6RztVZR5ZEXYe) | 3:58 | 2021-12-16 | 2022-04-13 |
 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2021-12-16 | 2022-04-19 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-11 | 2023-05-24 |
-| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-12 |  |
+| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-12 | 2024-02-15 |
 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 | 2023-03-06 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-06-01 |  |
 | [Jukebox Joints \(feat\. Joe Fox & Kanye West\)](https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 5:23 | 2022-05-18 | 2022-07-21 |

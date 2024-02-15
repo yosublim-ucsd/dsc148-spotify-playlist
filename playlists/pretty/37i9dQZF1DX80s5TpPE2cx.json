@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
-  "num_followers": 8564,
+  "num_followers": 8580,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2Q4MWNkMzdjYmM2MzYyOTYzNGEzNjM1MzdmMDQxNGE3ZTIzNWE5",
+  "snapshot_id": "MCw0ZmVjMTlmYjYyNTEzZDdiNDUyZjFlNzMxNTk2ZTFkZDljOWFkMjY0",
   "tracks": [
     {
       "added_at": "2024-02-09 00:02:00",
@@ -979,6 +979,26 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
+        "name": "Insert Project Name",
+        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Amaa Rae",
+          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Whoa!",
+      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
         "name": "La Meme Tape",
         "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 201115,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
-        "name": "Insert Project Name",
-        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Amaa Rae",
-          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Whoa!",
-      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
     },
     {
       "added_at": "2024-02-09 00:02:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-02-09 00:02:00",
       "album": {
-        "name": "Lagos (Everyday)",
-        "url": "https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide"
-      },
-      "artists": [
-        {
-          "name": "GMK",
-          "url": "https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G"
-        },
-        {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lagos (Everyday)",
-      "url": "https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH"
-    },
-    {
-      "added_at": "2024-02-09 00:02:00",
-      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 226173,
       "name": "Work",
       "url": "https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI"
+    },
+    {
+      "added_at": "2024-02-09 00:02:00",
+      "album": {
+        "name": "Lagos (Everyday)",
+        "url": "https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G"
+        },
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lagos (Everyday)",
+      "url": "https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH"
     },
     {
       "added_at": "2024-02-09 00:02:00",

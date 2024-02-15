@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Lukas Agustinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,873 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,398 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 22 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 |
 | 23 | [A Reforma](https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [A Reforma](https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ) | 5:20 |
 | 24 | [Yeshua](https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.1\)](https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY) | 8:42 |
-| 25 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 |
+| 25 | [Quarto Secreto](https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Quarto Secreto](https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87) | 5:07 |
 | 26 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 |
-| 27 | [Quarto Secreto](https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Quarto Secreto](https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87) | 5:07 |
+| 27 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 |
 | 28 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 |
 | 29 | [Está Tudo Bem](https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Está Tudo Bem](https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs) | 5:52 |
 | 30 | [Bondade De Deus](https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Bondade De Deus](https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4) | 4:55 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 63 | [O Amor Tem Um Nome \- Ao Vivo](https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [O Amor Tem Um Nome \(Ao Vivo\)](https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2) | 7:07 |
 | 64 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
 | 65 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 |
-| 66 | [Pra Sempre YHWH](https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Pra Sempre YHWH](https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO) | 7:33 |
-| 67 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 |
+| 66 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 |
+| 67 | [Pra Sempre YHWH](https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Pra Sempre YHWH](https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO) | 7:33 |
 | 68 | [Senhor dos Exércitos \- Ao Vivo](https://open.spotify.com/track/6zeA7gTkx0Cttexj4XOiHr) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Senhor dos Exércitos \(Ao Vivo\)](https://open.spotify.com/album/3A18e58JoJ0SItSd62SVoG) | 4:41 |
 | 69 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 |
 | 70 | [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCw4YzYwNWZmYzAwOTUyZjAyNzJlMzFlNzg0MWYyMmQyNmEzY2JmNTUy`
+Snapshot ID: `MCw0ODVhODVjN2M2N2JlNTY2YTZiZGMwZDNjN2RjZjgxZjVkYjhmZjIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,911 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,916 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 21 | [Don't Take The Money \(feat\. Lorde\) \- MTV Unplugged](https://open.spotify.com/track/25wTebB8ECapFHWRPywpYR) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [MTV Unplugged](https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J) | 3:27 |
 | 22 | [How Deep Is Your Love \- Live At The MGM Grand](https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [One Night Only](https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX) | 3:54 |
 | 23 | [god is a woman \- live](https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:33 |
-| 24 | [Angels](https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Live At Knebworth](https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq) | 5:55 |
-| 25 | [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 |
-| 26 | [In The Stars \- Live Version](https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Live Version\)](https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc) | 4:15 |
+| 24 | [In The Stars \- Live Version](https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Live Version\)](https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc) | 4:15 |
+| 25 | [Angels](https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Live At Knebworth](https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq) | 5:55 |
+| 26 | [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 |
 | 27 | [ME! \- Live From Paris](https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [ME! \(Live From Paris\)](https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7) | 3:33 |
 | 28 | [Don't Start Now \- Live in LA Remix](https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now \(Live in LA Remix\)](https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx) | 5:40 |
 | 29 | [Waiting On the World to Change \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 3:50 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 59 | [Havana \- Live](https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Havana \(Live\)](https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6) | 4:08 |
 | 60 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |
 | 61 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 |
-| 62 | [Sing \- Live and in Session](https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 5:19 |
-| 63 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
+| 62 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
+| 63 | [Sing \- Live and in Session](https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 5:19 |
 | 64 | [Goodbye Yellow Brick Road \- Live](https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:18 |
 | 65 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 |
 | 66 | [Before You Go \- Live from Brixton Academy, London, 2019](https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 |
 | 100 | [No One \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 6:53 |
 
-Snapshot ID: `MCwxOGJmNWZlMmE0OThiZTQ2YmE5MDg3MjhjYmM4MzJmNTIzZTMwYzcx`
+Snapshot ID: `MCw1YTZkZmIwOWE1YWFiZDE1ZDIxZGNlZmRmMDVhZjE2YzBjN2EyODQx`

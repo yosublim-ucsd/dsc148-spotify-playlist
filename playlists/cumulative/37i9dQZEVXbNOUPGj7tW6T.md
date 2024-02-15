@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-539 songs - 1 day 6 hr 19 min
+540 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-11-25 |  |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2021-04-09 | 2021-09-09 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-06-27 | 2022-05-08 |
-| [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 | 2023-05-22 |  |
+| [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 | 2023-05-22 | 2024-02-15 |
+| [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2024-02-14 |  |
 | [Ameaça](https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Ameaça](https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w) | 3:08 | 2021-12-07 | 2022-06-01 |
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2023-12-11 |  |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-07 | 2022-09-17 |

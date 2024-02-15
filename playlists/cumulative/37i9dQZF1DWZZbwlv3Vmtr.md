@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-882 songs - 1 day 10 hr 17 min
+883 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Bonafide Bars](https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Bonafide Bars](https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP) | 2:29 | 2023-01-20 |  |
 | [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 |  |
-| [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 |  |
+| [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 | 2024-02-15 |
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 | 2023-11-17 |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
 | [Buena Vista](https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Telica](https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc) | [Buena Vista](https://open.spotify.com/album/7aMySGhfU7O2JzlvjO1jXl) | 2:16 | 2022-04-15 | 2023-10-13 |
@@ -771,6 +771,7 @@
 | [The News](https://open.spotify.com/track/1Spod3yKAoenrvhOHKCSeU) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/4fECS0VAlJDNSAsuG6G4X7) | 2:28 | 2022-11-11 | 2023-11-17 |
 | [The News](https://open.spotify.com/track/74dl7BgtaxeIT6d3jtowxH) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/0O0rYYaWAvXRRdXz3cKAbM) | 2:28 | 2022-05-13 | 2022-11-20 |
 | [the promenade](https://open.spotify.com/track/5RF13R5Ke9QggWAjQhJLXk) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [train legs](https://open.spotify.com/album/2IRJlhzadkFBiNBWE8bt6x) | 2:03 | 2022-04-15 | 2023-07-20 |
+| [The Return](https://open.spotify.com/track/6plHV3oQN20BmAracIOUe5) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [The Return](https://open.spotify.com/album/7iR2WVooAnVND6Ho31wMxa) | 2:36 | 2024-02-09 |  |
 | [The Special](https://open.spotify.com/track/0clBXqkR2kqIhkAGdSnSHB) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [The Special](https://open.spotify.com/album/1lrQMnWVHOHBXEWw231jCK) | 2:01 | 2022-05-13 | 2023-07-20 |
 | [The Switch](https://open.spotify.com/track/79pbGSryQzEqI97ydfig8Q) | [Knuckles & Tails](https://open.spotify.com/artist/2KUPQ8T5999f2EoqJ5VczV) | [The Switch](https://open.spotify.com/album/318fCjjJxB1lxUOunFD5RY) | 2:53 | 2022-04-15 | 2022-06-10 |
 | [The Truth](https://open.spotify.com/track/5FQippF8g8Nb5n7Gd9e2x3) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [The Truth](https://open.spotify.com/album/59p5oWiIgoqKdaJuVrrgap) | 2:20 | 2022-04-15 | 2023-10-13 |

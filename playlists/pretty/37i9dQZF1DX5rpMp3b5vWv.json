@@ -1,12 +1,12 @@
 {
   "description": "Game time.",
-  "num_followers": 198216,
+  "num_followers": 198541,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjUxNTk3MWEzY2FiMWJmM2QyNThlMjFjOGMzZjQ3NzBiZmZkMDhi",
+  "snapshot_id": "MCw2MzhmM2ZkZTZmNTM2YWJiYzA0YTE4MjY1OTg3MWQ5NGZmZGU2NjFj",
   "tracks": [
     {
       "added_at": "2023-12-28 18:28:27",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -167,26 +183,6 @@
       "duration_ms": 193591,
       "name": "Glock In My Lap",
       "url": "https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -227,18 +223,22 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "Street Gossip",
-        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 154023,
-      "name": "Pure Cocaine",
-      "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
         "name": "FUTURE",
         "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 204600,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 154023,
+      "name": "Pure Cocaine",
+      "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
     },
     {
       "added_at": "2023-12-28 18:28:27",

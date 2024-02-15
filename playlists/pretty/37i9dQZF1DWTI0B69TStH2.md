@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:4y2gAgEWSOw7AG93lm9dGq">Promyki</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,655 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,709 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Widok Na Sens](https://open.spotify.com/track/7KeYr9fmHhfSsvh5ZG2j61) | [MARCIN LUTZ](https://open.spotify.com/artist/4UwRIvjGCT0dkTTwBbKyk0), [Basia Kurdej\-Szatan](https://open.spotify.com/artist/7MgD5foehZldvzuMJRE1Kq) | [Widok Na Sens](https://open.spotify.com/album/52ofYetfbx89zy4NUGmCxb) | 3:57 |
 | 100 | [Kiedy milczysz](https://open.spotify.com/track/3bCdb061MEJlLvWLGkj2YU) | [Agata Świrska](https://open.spotify.com/artist/2QRkPHlyngaEY1mrTVluZp) | [Kiedy milczysz](https://open.spotify.com/album/6avMCXg6DVKOK1jBgiK0Hv) | 3:00 |
 
-Snapshot ID: `MCwyNGRlYjc5ZGNiZGY4MzhlMDhmNGZkMTc4NDc3MzlmZWUyYTA1ZWQ4`
+Snapshot ID: `MCxjYTk4Y2JhMjg4MTljNmU3MTYxYmZmMDY1MGFjM2ViMmUyMGY5ODhm`

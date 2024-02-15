@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 188003,
+  "num_followers": 188002,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGEyMDAzMjkzZDQ4M2ExZjYxNzQ1MDQ1ZTU3ZTI2ZDQ3NDU1ZWUz",
+  "snapshot_id": "MCwzY2NkNmNmMzhlYjg3ZmY0NmZiNzllNDU1ODhjOGU2ZTRmY2VlZjVi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Poetry In Motion",
-        "url": "https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "The Essential Fishbone",
         "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 199626,
       "name": "Ma and Pa",
       "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Poetry In Motion",
+        "url": "https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "duration_ms": 229464,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 121360,
+      "name": "Stoked - Remastered 2001",
+      "url": "https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Piloto Autom\u00e1tico",
         "url": "https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 185328,
       "name": "Piloto Autom\u00e1tico",
       "url": "https://open.spotify.com/track/739RpxxbLVj7YQz2wGJcE1"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 121360,
-      "name": "Stoked - Remastered 2001",
-      "url": "https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd"
     },
     {
       "added_at": "2023-07-28 03:01:00",

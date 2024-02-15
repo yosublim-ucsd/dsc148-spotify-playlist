@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 
 > Puras rolitas pa' destapar un bote y empinar el codo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,589 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,646 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,9 +109,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 99 | [GPI](https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [GPI](https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9) | 2:34 |
 | 100 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 |
 | 101 | [El Ruido De Tus Zapatos](https://open.spotify.com/track/3VhupipSGvOXrNrNvUwhs1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 4:25 |
-| 102 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 |
-| 103 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 |
-| 104 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
+| 102 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 |
+| 103 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 |
+| 104 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 | 105 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
 | 106 | [No Quiero Perderte](https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH) | 2:39 |
 | 107 | [M.L.P](https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [M.L.P](https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1) | 3:31 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 109 | [Amor Limosnero](https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 3:40 |
 | 110 | [Solo Un Dia \(Ahora Te Amo\)](https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 3:23 |
 | 111 | [900 Cigarros](https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [900 Cigarros](https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS) | 2:03 |
-| 112 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
+| 112 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
 | 113 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
 | 114 | [Alma Enamorada](https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 2:52 |
 | 115 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 117 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
 | 118 | [Te Deseo Lo Mejor](https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Deseo Lo Mejor](https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc) | 2:20 |
 | 119 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
-| 120 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 |
-| 121 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
+| 120 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
+| 121 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 |
 | 122 | [Las Monjitas](https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Corridos Perrones 1](https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I) | 4:32 |
 | 123 | [Sin Evidencias](https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:57 |
 | 124 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
 | 125 | [El Final de Nuestra Historia](https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE) | 3:28 |
 
-Snapshot ID: `MCwyM2RiMTJkOGVlNjZlZmE3NGRkMzY3ZTczZGNiNjFkMzA0Njc5NGQ1`
+Snapshot ID: `MCwxYjA3ZDM3ZTAxMWRhYjE5OGIyYWYwYmViMmQwN2JjYzExNDBhNjk5`

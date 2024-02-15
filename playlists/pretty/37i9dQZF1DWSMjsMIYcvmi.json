@@ -1,12 +1,12 @@
 {
   "description": "Press play, feel motivated and grind hard throughout your work day.",
-  "num_followers": 20040,
+  "num_followers": 20048,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjAwYWM1MmE2NzkyYTIzMDZkYzNlMjBhMWMxZGI1Y2UzNDRlYTlh",
+  "snapshot_id": "MCwzYmE2ZGE3MWJhN2YzYjFlODA0MWM4MDczMWQ3ZjkwNDQyOTJhNTBl",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -772,8 +772,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 176960,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
     },
     {
       "added_at": "2023-11-23 23:00:00",

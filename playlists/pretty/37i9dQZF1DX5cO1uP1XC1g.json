@@ -1,12 +1,12 @@
 {
   "description": "The biggest Arabic hits all in one place. Cover:  Tamer Ashour",
-  "num_followers": 516371,
+  "num_followers": 516507,
   "original_name": "Yalla ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjY2MGEyZjljYmJiZmU1MGNhNmM4NmZkOTA1YmM2NjI5NzY1NmUz",
+  "snapshot_id": "MCw4NzQ3MmM3YTkyMmI2ZmIyOWQ1YTM2NTZhMjEzMzk2MTAwZmIxZDc5",
   "tracks": [
     {
       "added_at": "2024-02-01 11:44:21",
@@ -123,30 +123,6 @@
     {
       "added_at": "2024-02-01 11:44:21",
       "album": {
-        "name": "Tek Tek (feat. MHD)",
-        "url": "https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "YAM",
-          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Tek Tek (feat. MHD)",
-      "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
-    },
-    {
-      "added_at": "2024-02-01 11:44:21",
-      "album": {
         "name": "Asheq Majnoon",
         "url": "https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc"
       },
@@ -231,26 +207,42 @@
     {
       "added_at": "2024-02-01 11:44:21",
       "album": {
-        "name": "Di Mochkila",
-        "url": "https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK"
+        "name": "Lehqt Nafsy",
+        "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
       },
       "artists": [
         {
-          "name": "Oualid",
-          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 192926,
+      "name": "Fouq",
+      "url": "https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz"
+    },
+    {
+      "added_at": "2024-02-01 11:44:21",
+      "album": {
+        "name": "Tek Tek (feat. MHD)",
+        "url": "https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         },
         {
-          "name": "Norel",
-          "url": "https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t"
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         },
         {
           "name": "YAM",
           "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
         }
       ],
-      "duration_ms": 145783,
-      "name": "Di Mochkila",
-      "url": "https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3"
+      "duration_ms": 161506,
+      "name": "Tek Tek (feat. MHD)",
+      "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
     },
     {
       "added_at": "2024-02-01 11:44:21",
@@ -375,6 +367,30 @@
     {
       "added_at": "2024-02-01 11:44:21",
       "album": {
+        "name": "Di Mochkila",
+        "url": "https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Norel",
+          "url": "https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "duration_ms": 145783,
+      "name": "Di Mochkila",
+      "url": "https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3"
+    },
+    {
+      "added_at": "2024-02-01 11:44:21",
+      "album": {
         "name": "\u0627\u064a\u0647 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 \u062f\u064a",
         "url": "https://open.spotify.com/album/4zuku3m8svJHhlHGylFIpJ"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2024-02-01 11:44:21",
       "album": {
-        "name": "Ba3tzrlek",
-        "url": "https://open.spotify.com/album/4JDSRQMIQdhad4iatxB5bU"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 249802,
-      "name": "Ba3tzrlek",
-      "url": "https://open.spotify.com/track/4pnApCJBljUP7YQdCxGEbI"
-    },
-    {
-      "added_at": "2024-02-01 11:44:21",
-      "album": {
         "name": "Bel Ahlam",
         "url": "https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-02-01 11:44:21",
       "album": {
-        "name": "Lehqt Nafsy",
-        "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fouq",
-      "url": "https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz"
-    },
-    {
-      "added_at": "2024-02-01 11:44:21",
-      "album": {
         "name": "\u062f\u0644\u0639\u0646\u0627 \u0643\u062a\u064a\u0631",
         "url": "https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1"
       },
@@ -483,30 +467,6 @@
       "duration_ms": 172866,
       "name": "\u062f\u0644\u0639\u0646\u0627 \u0643\u062a\u064a\u0631",
       "url": "https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM"
-    },
-    {
-      "added_at": "2024-02-01 11:44:21",
-      "album": {
-        "name": "Kolo Falso",
-        "url": "https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        },
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        },
-        {
-          "name": "Esaad Younis",
-          "url": "https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ"
-        }
-      ],
-      "duration_ms": 178088,
-      "name": "Kolo Falso",
-      "url": "https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX"
     },
     {
       "added_at": "2024-02-01 11:44:21",
@@ -611,6 +571,22 @@
     {
       "added_at": "2024-02-01 11:44:21",
       "album": {
+        "name": "Ba3tzrlek",
+        "url": "https://open.spotify.com/album/4JDSRQMIQdhad4iatxB5bU"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 249802,
+      "name": "Ba3tzrlek",
+      "url": "https://open.spotify.com/track/4pnApCJBljUP7YQdCxGEbI"
+    },
+    {
+      "added_at": "2024-02-01 11:44:21",
+      "album": {
         "name": "Qalbi",
         "url": "https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 199586,
       "name": "Zarzour",
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
+    },
+    {
+      "added_at": "2024-02-01 11:44:21",
+      "album": {
+        "name": "Kolo Falso",
+        "url": "https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        },
+        {
+          "name": "Esaad Younis",
+          "url": "https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ"
+        }
+      ],
+      "duration_ms": 178088,
+      "name": "Kolo Falso",
+      "url": "https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX"
     },
     {
       "added_at": "2024-02-01 11:44:21",

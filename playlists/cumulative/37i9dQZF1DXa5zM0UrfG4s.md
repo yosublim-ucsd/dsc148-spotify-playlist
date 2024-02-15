@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-342 songs - 15 hr 45 min
+343 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Fylla](https://open.spotify.com/track/4Z3bunErRzsxqLpSjDJHVB) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Fylla](https://open.spotify.com/album/6esBn6xhL1lVMukCtScch5) | 2:33 | 2021-12-16 | 2022-07-24 |
 | [Fylla på fjället](https://open.spotify.com/track/3jkMUudtktfS8uEXZWpdll) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Fylla på fjället](https://open.spotify.com/album/66OVGhMeiP7JPwkygu3PVg) | 2:00 | 2022-02-24 | 2022-07-14 |
 | [Fylleangst](https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Fylleangst](https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74) | 1:58 | 2022-07-21 | 2022-09-23 |
-| [FYRA SMÅ RAGGERS](https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [FYRA SMÅ RAGGERS](https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg) | 1:41 | 2023-12-12 |  |
+| [FYRA SMÅ RAGGERS](https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [FYRA SMÅ RAGGERS](https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg) | 1:41 | 2023-12-12 | 2024-02-15 |
 | [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 | 2023-01-26 |  |
 | [Født til å ragge](https://open.spotify.com/track/45GmUDEid9EZ6YA4nFjY0f) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Født til å ragge](https://open.spotify.com/album/3hHG7LGyNe2lgEsKhbFk9m) | 2:27 | 2021-12-16 | 2022-04-20 |
 | [Gamle helter](https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Gamle helter](https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl) | 3:28 | 2022-03-03 | 2022-07-29 |
@@ -321,6 +321,7 @@
 | [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/12b3VQAefRu3rAFj0uZwdC) | 3:23 | 2023-06-27 | 2023-09-22 |
 | [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/3VERP2rb6wFy5Qf8J2pcff) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/1f1PdO6xQRI8nU32xDd0oq) | 3:23 | 2023-09-21 |  |
 | [Två Tölver](https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Två Tölver](https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp) | 2:18 | 2022-10-15 | 2022-11-16 |
+| [Ung full och Dum](https://open.spotify.com/track/4AtH9rAzuWbPZfYciY4ZIu) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:20 | 2024-02-08 |  |
 | [Ung full och dum](https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Ung full och dum](https://open.spotify.com/album/0btUOD4njBKXk157NpWBpH) | 2:20 | 2022-02-03 | 2022-07-26 |
 | [Unkarsvisa](https://open.spotify.com/track/5cahfdirvDllSTqi4dIArN) | [Gunnar Fjeldseth Band](https://open.spotify.com/artist/6IB3AURFYan3pLv4fFJblt) | [Det Er Hælj](https://open.spotify.com/album/7njZWyee7fcCok23SIcOde) | 3:23 | 2022-03-31 | 2022-04-20 |
 | [Uppe Hela Natten](https://open.spotify.com/track/6t1VM2Scy6n5911yELH3KT) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Uppe Hela Natten](https://open.spotify.com/album/6kwKhsvbUBtYLnoM4rio5t) | 2:30 | 2022-06-16 | 2022-07-20 |

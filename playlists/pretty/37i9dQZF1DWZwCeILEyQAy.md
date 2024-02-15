@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Monaleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,036 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,023 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 34 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
 | 35 | [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 |
 | 36 | [Last Laugh](https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last Laugh](https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng) | 2:55 |
-| 37 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 |
-| 38 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
+| 37 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
+| 38 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 |
 | 39 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 | 40 | [FINE AS CAN BE \(feat\. Latto\)](https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:32 |
 | 41 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [Sexyy Red For President](https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
 | 50 | [Courtesy Of A Rich Nigga](https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Courtesy Of A Rich Nigga](https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB) | 3:17 |
 
-Snapshot ID: `MCxiYmM4OGE4OTE5YWU2ZDI5ZDY4YzI5OGNjY2YzZjY4OWJjNjlkNGU4`
+Snapshot ID: `MCw0YzFkZWM5MzY0ZDRlN2M0YTEwYWIwMGI1ZTc2Mjk4ZTYwNTQ2NTA1`

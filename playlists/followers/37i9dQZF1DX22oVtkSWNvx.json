@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 337667,
+  "2024-02-15": 337707,
   "date_first_scraped": "2023-04-02",
   "description": "A smooth nostalgia trip through the 80s.",
   "name": "Unwind 80s",
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
@@ -893,6 +893,24 @@
       "duration_ms": 225280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Talkin' Bout a Revolution",
+      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
     },
     {
       "album": {

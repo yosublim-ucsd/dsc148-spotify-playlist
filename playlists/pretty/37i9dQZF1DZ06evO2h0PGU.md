@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,272 likes - 48 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,276 likes - 48 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,24 +14,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 4 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
 | 5 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll \(A\-Trak Remix\)](https://open.spotify.com/album/4IZSrYZHALLavs8TTndGiV) | 6:23 |
 | 6 | [Gold Lion](https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:07 |
-| 7 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 |
-| 8 | [Soft Shock](https://open.spotify.com/track/4Ku70eDzBKu5EP3oH7Ki9v) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:53 |
+| 7 | [Soft Shock](https://open.spotify.com/track/4Ku70eDzBKu5EP3oH7Ki9v) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:53 |
+| 8 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 |
 | 9 | [Sacrilege](https://open.spotify.com/track/2pQZ9g4vaFNXO42kMe8e3w) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 3:50 |
 | 10 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
-| 11 | [Pin](https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:00 |
-| 12 | [Hysteric](https://open.spotify.com/track/0sYM2UAQhOvrFGj9C3HARt) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:50 |
+| 11 | [Hysteric](https://open.spotify.com/track/0sYM2UAQhOvrFGj9C3HARt) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:50 |
+| 12 | [Pin](https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:00 |
 | 13 | [Turn Into](https://open.spotify.com/track/4IzJ8gIh9paZfeoN4D0Ah4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 4:05 |
 | 14 | [Fleez](https://open.spotify.com/track/65w1d96FbYPmccz3ZdNOdA) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 3:58 |
-| 15 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
-| 16 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 |
+| 15 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 |
+| 16 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
 | 17 | [Way Out](https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:51 |
 | 18 | [Blacktop](https://open.spotify.com/track/7qcfqmg6Zf1uwdlVR2ocpP) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:23 |
-| 19 | [Rich](https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:36 |
-| 20 | [Modern Romance](https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:11 |
+| 19 | [Modern Romance](https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:11 |
+| 20 | [Rich](https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:36 |
 | 21 | [Cheated Hearts](https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:58 |
 | 22 | [Lovebomb](https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 5:06 |
-| 23 | [Black Tongue](https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:59 |
-| 24 | [Down Boy](https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:53 |
+| 23 | [Down Boy](https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:53 |
+| 24 | [Black Tongue](https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:59 |
 | 25 | [Phenomena](https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 4:10 |
 | 26 | [Different Today](https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:27 |
 | 27 | [Despair](https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:48 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 47 | [Mystery Girl](https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:57 |
 | 48 | [Bang](https://open.spotify.com/track/0KFsVUp01T2sCFnoP53Yuy) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 3:09 |
 
-Snapshot ID: `Mjg0NjM3ODUsMDAwMDAwMDBmMTBhZGU0YmFjYzI5ZDBmZTJiNDNlODM3NDZiZDdmZQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBjYzc4MmE2YjMxMTA1NGYxMGIzOTQ3ODVmOTcwODRkNw==`

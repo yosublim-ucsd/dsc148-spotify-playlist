@@ -56,7 +56,7 @@
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-11-21 |  |
 | [でも、](https://open.spotify.com/track/1eiflYv62PGfglEC0Dc9rH) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛℃](https://open.spotify.com/album/5d9Z5IN5TO2Z8PI5i6VfGS) | 2:59 | 2023-12-12 | 2023-12-14 |
 | [なないろ](https://open.spotify.com/track/1k1zTwX433BlwP6FLOPBpD) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/2sUrTKjCG9KpLfORi8v87S) | 4:19 | 2023-11-21 | 2023-12-13 |
-| [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 | 2023-11-21 | 2024-02-14 |
+| [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 | 2023-11-21 |  |
 | [ひかりのあと](https://open.spotify.com/track/1O4fQNBqrJobEphruJJyjk) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [ひかりのあと / skip](https://open.spotify.com/album/0fWCvzwQ1YZD1qaxCEN54n) | 4:41 | 2023-11-21 | 2024-01-17 |
 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 | 2023-11-21 |  |
 | [エウレカ](https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [エウレカ](https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz) | 3:04 | 2023-11-21 | 2024-01-10 |
@@ -94,7 +94,7 @@
 | [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 | 2024-01-10 |  |
 | [融解sink](https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:03 | 2023-11-21 | 2024-01-24 |
 | [誰も愛せない人](https://open.spotify.com/track/5ahkofqf1BnGivr8HTKwrG) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:20 | 2023-11-21 | 2023-11-29 |
-| [谺する](https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [谺する](https://open.spotify.com/album/5rneoMxGzl8AKW3Pqxj11O) | 5:00 | 2024-01-30 |  |
+| [谺する](https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [谺する](https://open.spotify.com/album/5rneoMxGzl8AKW3Pqxj11O) | 5:00 | 2024-01-30 | 2024-02-15 |
 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 | 2024-01-23 | 2024-02-07 |
 
 \*This playlist was first scraped on 2023-11-25. Prior content cannot be recovered.

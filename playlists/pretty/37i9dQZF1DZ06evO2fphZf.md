@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thuy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,785 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,792 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 47 | [Hands on Me](https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Cr Crucial](https://open.spotify.com/artist/2e8j9kR0sPHsN60RtwxBlI) | [Hands on Me](https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws) | 3:08 |
 | 48 | [Reasons](https://open.spotify.com/track/3BEOKlFeiFCEFrfqTVH53F) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Reasons \(feat\. Thuy\) \- Single](https://open.spotify.com/album/0SEahu9fVx9ivOEuqgDSki) | 3:24 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBlYWZkZDY2NGE3MTI1Njg0MzBhMmIzMzU5NWRjM2QzNw==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA0MjliNTUxOTIzODVmZTE2NDBjMGM2OGM2NjVjZmQ5MA==`

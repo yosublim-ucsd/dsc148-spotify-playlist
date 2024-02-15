@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,710 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,760 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 42 | [Best Friend \- Remix](https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [Best Friend \(Remix\)](https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe) | 4:14 |
 | 43 | [TTG \(feat\. Kevin Gates\)](https://open.spotify.com/track/28u9JaFwO7GX2YNARkq37P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 2:52 |
 | 44 | [Christopher Walking](https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:10 |
-| 45 | [Atlantic City](https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Jericho](https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU) | 5:14 |
-| 46 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
+| 45 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
+| 46 | [Atlantic City](https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Jericho](https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU) | 5:14 |
 | 47 | [Purple Reign](https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:01 |
 | 48 | [All I Ever Wanted](https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Double Up](https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW) | 4:02 |
 | 49 | [Picture Me Rollin'](https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Danny Boy](https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga), [Syke](https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm), [C\-PO](https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:14 |
 | 50 | [No Smoke](https://open.spotify.com/track/57IRaiAB4hBZu3gnNVZC0v) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 2:40 |
 
-Snapshot ID: `MCxhZTFhNDU1MTMzMDlmYzdlNDExZTFmYjdjMDRkNDNkYTVjZDIzOGYz`
+Snapshot ID: `MCxmNjhjMWVlNzU3MGFhNGRlNDE4NjUyZWY3NDEzNzRiY2NmOWY4OWQ1`

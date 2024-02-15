@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,994 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,022 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 42 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 |
 | 43 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 |
 | 44 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
-| 45 | [A Pill to Crush](https://open.spotify.com/track/7auPqljdHNJQdfGmoIJv8T) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Salvation](https://open.spotify.com/album/751bmMkkdlXg6wRtVnAKyn) | 3:41 |
-| 46 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
+| 45 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
+| 46 | [A Pill to Crush](https://open.spotify.com/track/7auPqljdHNJQdfGmoIJv8T) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Salvation](https://open.spotify.com/album/751bmMkkdlXg6wRtVnAKyn) | 3:41 |
 | 47 | [Hold](https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Fingertips](https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO) | 4:06 |
 | 48 | [Younger](https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:33 |
 | 49 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 50 | [Girls Your Age](https://open.spotify.com/track/3wchQBokK9IDtoYrw14gpK) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Transviolet](https://open.spotify.com/album/6nlhWBxBwgtwH80zCK8djC) | 3:28 |
 
-Snapshot ID: `MCw4ZDYyMGJlNzBhZWFlY2M2MDk0YzdmNmFmYjMxM2UyOGYwYjIyOTYx`
+Snapshot ID: `MCw4ZjAwNDE2ZTZjMTBkMmIzN2EzZDQ4ODE3ODI3MGZkMGFmMWUxMjlm`

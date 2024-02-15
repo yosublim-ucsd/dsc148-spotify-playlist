@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,270 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,327 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,19 +51,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 41 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
 | 42 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 |
 | 43 | [Lost It \- Medicine Place Remix](https://open.spotify.com/track/3y4Gf3Dp0HVzJnFYHhT8V0) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Medicine Place](https://open.spotify.com/artist/5zKQqXKkTQAe5C9LqEQvNm) | [Lost It \(Remixed\)](https://open.spotify.com/album/0rv3P4AUuSqXPsbAuedEqg) | 3:25 |
-| 44 | [Acid](https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:45 |
-| 45 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
+| 44 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
+| 45 | [Acid](https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:45 |
 | 46 | [Only You](https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV) | 3:36 |
 | 47 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 48 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
 | 49 | [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 |
-| 50 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
-| 51 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
-| 52 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
-| 53 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
+| 50 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
+| 51 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
+| 52 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
+| 53 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
 | 54 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
-| 55 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 |
-| 56 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 |
+| 55 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 |
+| 56 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 |
 | 57 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 |
 | 58 | [This Sound](https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Kaya](https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k) | [This Sound](https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws) | 4:17 |
 | 59 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
 | 70 | [Barrington](https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk) | 3:41 |
 
-Snapshot ID: `MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz`
+Snapshot ID: `MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy`

@@ -4,7 +4,7 @@
 
 > layan je
 
-74 songs - 4 hr 53 min
+75 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cinta Kayangan](https://open.spotify.com/track/6tQTAykORuJWmUl3k4Zip5) | [Razzuan Rosli](https://open.spotify.com/artist/6AXBN0Gn3bUlb1fk5wfZAp) | [Cinta Kayangan](https://open.spotify.com/album/1bhVDSSOr85fZIxGs8T6OH) | 3:47 | 2024-01-25 | 2024-02-02 |
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2024-01-18 |  |
 | [Cukup](https://open.spotify.com/track/5SMGZ6CPYxaOPrmvlpIMVt) | [Rizal Rasid](https://open.spotify.com/artist/0N5dq4m7PRgUGNGdOtuGh8) | [Cukup](https://open.spotify.com/album/5uHSHjT7tQz4NkooJtsiUn) | 3:45 | 2024-01-18 | 2024-01-26 |
+| [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2024-02-01 |  |
 | [Darah](https://open.spotify.com/track/4PK0MXzzC7iz7ygDCQn5Xj) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Darah](https://open.spotify.com/album/1fSHmbA2mAVQhLAZSZmNTO) | 3:29 | 2024-01-18 | 2024-01-26 |
 | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz) | 4:39 | 2024-01-18 |  |
 | [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 | 2024-01-18 |  |
@@ -33,7 +34,7 @@
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2024-01-18 |  |
 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 | 2024-02-01 |  |
 | [Kau Buat Aku](https://open.spotify.com/track/6M3Exry9bC7ZZle6691Dqh) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Kau Buat Aku](https://open.spotify.com/album/1UgQUFV7xMjA5T4PQs24kv) | 2:55 | 2024-02-01 |  |
-| [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 | 2024-01-25 |  |
+| [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 | 2024-01-25 | 2024-02-15 |
 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 | 2024-01-18 |  |
 | [Kukira Hanya Lagu](https://open.spotify.com/track/37lt8ItlvPlHFg6V5pYzih) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Kukira Hanya Lagu](https://open.spotify.com/album/1cDf5UybBdkY64gV4F1EjA) | 3:35 | 2024-01-25 | 2024-02-02 |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-01 |  |

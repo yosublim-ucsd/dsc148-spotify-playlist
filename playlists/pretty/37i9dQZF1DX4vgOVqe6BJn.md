@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,321 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,357 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 72 | [Payback \(feat\. Knucks\)](https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Payback \(feat\. Knucks\)](https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA) | 2:44 |
 | 73 | [Hurt Me](https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/2VNYTjbqZ3rc3AZ4TrKFJw) | 3:23 |
 | 74 | [Skelele](https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skelele](https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI) | 3:23 |
-| 75 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
-| 76 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 |
-| 77 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
-| 78 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
-| 79 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
-| 80 | [Choose A Life](https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Life Is Infinite](https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq) | 3:26 |
+| 75 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 |
+| 76 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
+| 77 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
+| 78 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
+| 79 | [Choose A Life](https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Life Is Infinite](https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq) | 3:26 |
+| 80 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
 | 81 | [Season](https://open.spotify.com/track/6nM0Mxdc0VUTzqbBY0wk4H) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Full Court Press](https://open.spotify.com/album/4MLxuO3jk1GYUfJIMYMZCS) | 3:07 |
 | 82 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 |
 | 83 | [M.I.A.](https://open.spotify.com/track/0TYNJMOUjuW2JrnxF8SSkR) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [M.I.A](https://open.spotify.com/album/0xKMieAM4MSkfFJkw1nRYq) | 3:10 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 | 104 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 
-Snapshot ID: `MCwzMzYyYjVkMzk3OWQ1YTFiOWQ3YWY3YmNmOWQzY2FkN2EyZjkwOWE1`
+Snapshot ID: `MCw1Yjc5OTIwY2Y2NTRjMGM4MDJlMzZjNmM1NGY4NjRiMjZjMjA2ZDhh`

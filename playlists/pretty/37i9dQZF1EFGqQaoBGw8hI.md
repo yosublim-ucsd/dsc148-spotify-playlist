@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,617 likes - 576 songs - 1 day 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,621 likes - 576 songs - 1 day 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 185 | [Take This Dirty Water](https://open.spotify.com/track/7LzDPiPVJAXwk2gHkwbpTv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:24 |
 | 186 | [Voyeur](https://open.spotify.com/track/2RdAw1XJ6wfz26XqLgwuWE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:16 |
 | 187 | [Tell Me When The Whistle Blows](https://open.spotify.com/track/0R0uyYbcCmkhDG3mDPq6Jn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:20 |
-| 188 | [Weight of the World](https://open.spotify.com/track/06mmWLzmOBJCEheQiVtT6p) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [Pigeon John and the Summertime Pool Party](https://open.spotify.com/album/18x1c1FezqvcG50aEbTYh9) | 3:38 |
-| 189 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
+| 188 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
+| 189 | [Weight of the World](https://open.spotify.com/track/06mmWLzmOBJCEheQiVtT6p) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [Pigeon John and the Summertime Pool Party](https://open.spotify.com/album/18x1c1FezqvcG50aEbTYh9) | 3:38 |
 | 190 | [I've Got 2 Wings](https://open.spotify.com/track/4FWVE1N9ikA1dTcUwT9T8q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:35 |
 | 191 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 |
 | 192 | [No Shoe Strings On Louise](https://open.spotify.com/track/2eeyCYseTMNhUVjOHvsJEc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:29 |
@@ -585,4 +585,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 575 | [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 |
 | 576 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 
-Snapshot ID: `Mjg0NjQ2MDAsMDAwMDAwMDBhZTUzOTczYWQwZTQ3NWQ5MTllNDNlYTAxN2M5ZjYxMA==`
+Snapshot ID: `Mjg0NjYwNDAsMDAwMDAwMDA5YTUwZWRlZDdkNDA3Y2M3Yzk0NjhjNWMzN2QzN2MzMA==`

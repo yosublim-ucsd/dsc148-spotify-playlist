@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-193 songs - 14 hr 34 min
+194 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Jaded](https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Reality Testing](https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK) | 4:49 | 2022-02-03 |  |
 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 | 2023-11-13 |  |
 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 | 2022-02-03 | 2023-12-16 |
+| [Kilika](https://open.spotify.com/track/3W2uJ9jgY0l55Rs1BCmgTu) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/0X0yNR4beqvHw4HtqNfj1g) | 4:44 | 2024-01-19 |  |
 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 | 2022-02-03 |  |
 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 | 2022-02-03 |  |
 | [KODOMOTACHI](https://open.spotify.com/track/4tLaYku0oFYiq3PsznaQwQ) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 4:06 | 2022-02-03 | 2022-07-29 |
@@ -198,7 +199,7 @@
 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 | 2022-02-03 |  |
 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 | 2022-02-03 |  |
 | [You and I](https://open.spotify.com/track/47PdEZPuwJ1wOBCVexAm5O) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw) | 4:03 | 2022-02-03 | 2022-07-29 |
-| [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 | 2022-02-03 |  |
+| [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 | 2022-02-03 | 2024-02-15 |
 | [♥](https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:17 | 2022-02-03 | 2023-11-14 |
 | [♥](https://open.spotify.com/track/3PMyRSdnhCmXeP93bF89XG) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4) | 3:17 | 2022-02-03 | 2023-02-07 |
 

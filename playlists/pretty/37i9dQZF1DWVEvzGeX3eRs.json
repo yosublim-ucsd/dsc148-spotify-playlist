@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2609393,
+  "num_followers": 2609767,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmFkOTFmY2NkODJhNWIxOWFjZjljNWUxYTEwYjIyY2YzNTQyMDJk",
+  "snapshot_id": "MCwzNmUwMGMwZDM0ZTg5YWRhZmYyYTBjYTMyMzMxZjJmN2UwNGVjMWUz",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Tony! Toni! Tone'! Greatest Hits",
@@ -247,6 +231,22 @@
       "duration_ms": 271200,
       "name": "Anniversary",
       "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+        "name": "Chillin'",
+        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "Force M.D.'s",
+          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
         }
       ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+      "duration_ms": 234053,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -483,34 +483,18 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Chillin'",
-        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
       "artists": [
         {
-          "name": "Force M.D.'s",
-          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 234053,
-      "name": "Tender Love",
-      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
-      },
-      "artists": [
-        {
-          "name": "Troop",
-          "url": "https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "All I Do Is Think of You",
-      "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -527,6 +511,22 @@
       "duration_ms": 294866,
       "name": "For You I Will",
       "url": "https://open.spotify.com/track/2b29qJRy4asbQNFjPO96XC"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
+      },
+      "artists": [
+        {
+          "name": "Troop",
+          "url": "https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "All I Do Is Think of You",
+      "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "The Gap Band III",
-        "url": "https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 340933,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "The Show, The After Party, The Hotel",
@@ -691,6 +675,22 @@
       "duration_ms": 290066,
       "name": "Love U 4 Life",
       "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Gap Band III",
+        "url": "https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 340933,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
     },
     {
       "added_at": "2023-02-02 23:04:07",

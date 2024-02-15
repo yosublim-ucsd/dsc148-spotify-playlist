@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,608 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,582 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 28 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
 | 29 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 |
 | 30 | [Slowdown \(girl what's up\)](https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Slowdown \(girl what's up\)](https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW) | 2:03 |
-| 31 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
-| 32 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 |
+| 31 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 |
+| 32 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 33 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
 | 34 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 |
 | 35 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 69 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
 | 70 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 |
 
-Snapshot ID: `MCxiMDkwYTcyNDdlNWYwMzYwYzg0NWIzZGEzNmUwNWEyYmYzNzNkMjcw`
+Snapshot ID: `MCxlZDRjYWNkNTUxY2VkN2IwODJiNDBjYjE0ZDViZTU2Yjg2NWUwM2Mx`

@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed: Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 890807,
+  "num_followers": 890832,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWQ4MzA5ZGVmODZkYmFkZDFkZGNlYWM0YTQ4OTcxZmIyOTBjMjc4",
+  "snapshot_id": "MCxhZmEzYzRjNGM0ZGNiNDUwMmI2NTJlMDYxNjVlODQ3Njk0NDk3MjNh",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Con Un Botecito A Pecho",
-        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 176133,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -531,18 +527,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+        "name": "Con Un Botecito A Pecho",
+        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+      "duration_ms": 176133,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
     },
     {
       "added_at": "2023-09-01 06:00:00",

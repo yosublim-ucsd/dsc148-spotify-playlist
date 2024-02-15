@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,684 likes - 125 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,730 likes - 125 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 65 | [Sombra Loca](https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:49 |
 | 66 | [Un Monton De Estrellas](https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Memoria](https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP) | 6:04 |
 | 67 | [De Punta a Punta](https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp) | 4:21 |
-| 68 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
-| 69 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
+| 68 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
+| 69 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
 | 70 | [Si Supiera](https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 4:12 |
 | 71 | [Por Qué Será?](https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z) | [Alvaro Ricardo](https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f) | [Mi Razón de Ser](https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7) | 4:21 |
 | 72 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 124 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 |
 | 125 | [Cuenta Conmigo](https://open.spotify.com/track/7o47d8KqRqxbL7NloJvjwd) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:50 |
 
-Snapshot ID: `MCxjY2M4YjJlMWE1ZDc1MmM1MWRjNDBiMGU4NDFkMWNmYzE5ZDc1MTQy`
+Snapshot ID: `MCxjYzVmZWY3ZTdlMDAzNWNlMzk2MmQ1MWQzNzIxOGY0NWViN2Q4NWVh`

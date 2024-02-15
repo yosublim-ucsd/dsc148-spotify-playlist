@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,532 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,587 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
-| 2 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
+| 1 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
+| 2 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
 | 3 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 4 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 5 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 49 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 50 | [Change](https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 2:52 |
 | 51 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
-| 52 | [6 8](https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:58 |
-| 53 | [Cheerleader](https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Cheerleader](https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P) | 2:27 |
+| 52 | [Cheerleader](https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Cheerleader](https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P) | 2:27 |
+| 53 | [6 8](https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:58 |
 | 54 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 |
 | 55 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 |
-| 56 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 |
-| 57 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
+| 56 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
+| 57 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 |
 | 58 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 |
 | 59 | [QUEEN BEE](https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:28 |
 | 60 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [sorry isn't good enough](https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:07 |
 | 75 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
 
-Snapshot ID: `MCwxNmYzNTUxY2RhNDJhMTAxNTYzNTllMDhlMjFlOTRlNWM2Y2EzN2U3`
+Snapshot ID: `MCwwNjRkMjFjNjJhYjk5YzU1YmM3ZjM5Y2RkMWFkZTUzYTVkZGFhYTBh`

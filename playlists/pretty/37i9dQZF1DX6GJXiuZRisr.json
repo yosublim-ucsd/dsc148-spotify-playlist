@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1539053,
+  "num_followers": 1539230,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2Q4ZGY4NTdlNjllYjgwYmMwOWMyY2UzYmIyYzNhYmQwOWQwMzg2",
+  "snapshot_id": "MCw2NTA2YTczZDVjYWYyNDIwZmY3N2E2ZGMyNDU1ZGE1OWUxZWFmY2Qz",
   "tracks": [
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
         "name": "Into Dust",
         "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 196905,
       "name": "Into Dust",
       "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "The Morning After",
+      "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 207334,
       "name": "Greece 2000",
       "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "Paul Thomas",
-          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "The Morning After",
-      "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
         "name": "Little Darling (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
+        "name": "Yumi (edit)",
+        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Yumi - edit",
+      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
         "name": "REDUX 006",
         "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
       },
@@ -1891,18 +1907,26 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "Yumi (edit)",
-        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Cami Bear",
+          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Yumi - edit",
-      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
+      "duration_ms": 190199,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1971,30 +1995,6 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Cami Bear",
-          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
-        }
-      ],
-      "duration_ms": 190199,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
         "name": "Sweet Surrender",
         "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
       },
@@ -2027,6 +2027,26 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
         "name": "Fire With Fire",
         "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
       },
@@ -2047,26 +2067,6 @@
       "duration_ms": 188799,
       "name": "Fire With Fire",
       "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     }
   ],
   "unique_name": "Night Rider",

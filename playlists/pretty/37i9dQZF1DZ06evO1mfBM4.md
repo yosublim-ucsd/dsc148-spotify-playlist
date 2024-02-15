@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 
 > This is Luis Miguel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256,134 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256,845 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 49 | [Besame Mucho](https://open.spotify.com/track/3llKUN9le04V1enu8MHudF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 5:24 |
 | 50 | [Motivos](https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:32 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBjMWI2MGYzOGU0NjAyODliZGE3ZjUwZmI2MGM5ZjIyNg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA2OGRmMjBhZDkyMzEyYzQzOGQ0ZGI1MDlhNTcwNmUwYw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,467 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,741 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 42 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
 | 43 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
 | 44 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
-| 45 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
-| 46 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
-| 47 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
+| 45 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
+| 46 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
+| 47 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
 | 48 | [Le chien d'avant garde](https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 3:58 |
 | 49 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 |
 | 50 | [Un Homme Et Une Femme](https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO) | [Nathalie Et Guillaume](https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i) | [Paris \- I Love You](https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 79 | [Quand j'serai K.O](https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Souchon dans l'air \(Vol\. 1\)](https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR) | 3:34 |
 | 80 | [La noyée](https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 4:02 |
 
-Snapshot ID: `MCw2ZDE4NzA1Mjc4NmQwMzg5NThjZTkxNDE4ZjVmZWZkNTA5MGRiMzRl`
+Snapshot ID: `MCxmZmI0N2ViMGM1OTM1Y2VkNzA2ZWQ1MmYxMDU2ZTQyNDcwMzgxNTM5`

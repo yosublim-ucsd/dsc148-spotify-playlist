@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,181 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,242 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Dizzy](https://open.spotify.com/track/1nosxRR4SgRdgqjDdKXYH5) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Dizzy](https://open.spotify.com/album/4MFH523922WoxgMJl5E5Qv) | 3:04 |
 | 75 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 |
 
-Snapshot ID: `MCxlOWNkMzhhMjAyNjc3N2ZmNTk2NjVkYzE4YzJmZGFlMDVmMjlmZTEy`
+Snapshot ID: `MCwwZTkzNjFjNDFmOTI3OTU0ZDk5NzhjOTM2NDQzYzQ2MzYzMGEzOTk4`

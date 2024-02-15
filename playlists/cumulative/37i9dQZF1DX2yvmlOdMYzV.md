@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-609 songs - 1 day 9 hr 29 min
+610 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [For All Time](https://open.spotify.com/track/6yu2Ct50UiLis9MmNxDkUf) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4M9zZ6jbePYVMHKMcI4Mt7) | 3:02 | 2023-09-01 | 2023-09-09 |
 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-15 |
 | [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 | 2023-07-28 | 2024-02-05 |
+| [for you pages](https://open.spotify.com/track/1XK4HN7lqUCWIAsUeGiDOu) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [for you pages](https://open.spotify.com/album/0N0uwpHAADmjkZcjuLxFnj) | 2:23 | 2024-02-09 |  |
 | [Forces](https://open.spotify.com/track/0u1U97tXYMBE3jEyQc4NF4) | [Lendryx](https://open.spotify.com/artist/0bJfSHjZh1XhddFfXr8zvQ) | [Forces](https://open.spotify.com/album/1r4zv9G0Xe5jwYro9ZwOTC) | 3:20 | 2023-09-08 | 2023-10-21 |
 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 | 2023-08-25 |  |
 | [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 | 2023-04-28 |  |
@@ -439,7 +440,7 @@
 | [Queen Tings](https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 3:08 | 2021-12-15 | 2023-05-13 |
 | [Question](https://open.spotify.com/track/5tkygnHoO2NhFkYPoNd1LL) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Question](https://open.spotify.com/album/3zoXmuTK3jJTXVe0EdIwQm) | 3:21 | 2023-09-29 |  |
 | [R U DUMM?](https://open.spotify.com/track/6DZWyOyqhudkMzwBA9Kqum) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [R U DUMM?](https://open.spotify.com/album/2Uynv1M3RGcHSkDRDxQ9uR) | 3:01 | 2021-12-15 | 2022-07-21 |
-| [Rachel and Ross](https://open.spotify.com/track/6YIlJumm3UYeXvkR8d5hC6) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Rachel and Ross](https://open.spotify.com/album/09KxFvjE7VE0MXPHj9OxZQ) | 2:46 | 2023-10-13 |  |
+| [Rachel and Ross](https://open.spotify.com/track/6YIlJumm3UYeXvkR8d5hC6) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Rachel and Ross](https://open.spotify.com/album/09KxFvjE7VE0MXPHj9OxZQ) | 2:46 | 2023-10-13 | 2024-02-15 |
 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 | 2023-08-11 |  |
 | [Reconnect](https://open.spotify.com/track/5RrKRyu91jJs9l2wFwg7Qp) | [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [Reconnect](https://open.spotify.com/album/3nfVHvD93P3r2sU7tpiZhw) | 3:26 | 2023-09-08 | 2023-09-24 |
 | [Regrets](https://open.spotify.com/track/4U7Mih8jHL0v5g6oksHMBm) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [OMNI](https://open.spotify.com/album/4ZW6k9Vn0VR6ulH7C2PXcT) | 2:34 | 2021-12-15 | 2022-07-29 |

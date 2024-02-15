@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-224 songs - 11 hr 50 min
+225 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-03 |
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-11 | 2023-06-02 |
 | [B.I.G.](https://open.spotify.com/track/3m58gGtcLLeeKpazlQmKjX) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:56 | 2023-11-06 | 2023-11-09 |
-| [Baap Tera Kaun Hai](https://open.spotify.com/track/5BxTLntl6bdBN9WLEery3E) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3) | [Baap Tera Kaun Hai](https://open.spotify.com/album/2IODkuDqDeCc3reM5Xq1BG) | 3:02 | 2024-01-17 |  |
+| [Baap Tera Kaun Hai](https://open.spotify.com/track/5BxTLntl6bdBN9WLEery3E) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3) | [Baap Tera Kaun Hai](https://open.spotify.com/album/2IODkuDqDeCc3reM5Xq1BG) | 3:02 | 2024-01-17 | 2024-02-15 |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2023-03-29 | 2023-04-17 |
 | [Babaji](https://open.spotify.com/track/3lqJMMSFVVCRqcA8qqT7Ft) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [KING Returns](https://open.spotify.com/album/1jpGnXd6QupHBhWfH7wFA7) | 3:36 | 2024-01-12 | 2024-02-07 |
 | [Bad\-Nam](https://open.spotify.com/track/5yExkaHAJy1LnIPXFv8fNx) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW) | [Bad\-Nam](https://open.spotify.com/album/6rWhToggUTvJFynDRoBZU7) | 1:50 | 2023-03-29 | 2023-07-21 |
@@ -155,6 +155,7 @@
 | [Mere Yaar](https://open.spotify.com/track/4WGB2CIMUlIUKmNTA3cDm1) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Mere Yaar](https://open.spotify.com/album/3lzNDSREtv2HpZ0vqnVYHG) | 4:00 | 2023-10-20 | 2023-11-09 |
 | [Meri Jaan](https://open.spotify.com/track/390f3txdKIeV7cCv0thgOB) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:01 | 2023-09-13 | 2023-11-09 |
 | [Mic Naal](https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [H$](https://open.spotify.com/artist/6BX0k14TnSKrto2FyXiakW) | [Mic Naal](https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO) | 2:56 | 2023-05-09 | 2023-06-02 |
+| [MIKE & ALI](https://open.spotify.com/track/4HJwBPYyF6duS4cJUd7J1P) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Kaka Sady](https://open.spotify.com/artist/4MkyBr9fmRHVsOmeyjk3N8) | [MIKE & ALI](https://open.spotify.com/album/1onEwYy090zocnzdpZoVBs) | 3:11 | 2024-02-14 |  |
 | [Moon](https://open.spotify.com/track/6EtvIpTCxxWmtwQu0eL63C) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [Harleen Khera](https://open.spotify.com/artist/7mLdGhPzRNItq5xzNKPMLX) | [Moon](https://open.spotify.com/album/1i0GJTRqV5rMSMc1r1DQr8) | 3:06 | 2023-11-25 |  |
 | [My Time](https://open.spotify.com/track/1Y5D5ru6mwruztcdnnk2XB) | [B\-Deep](https://open.spotify.com/artist/5IeItPO4vwq7NdOA27VR7Y), [Rhymster](https://open.spotify.com/artist/3ZdzS4lByIrWU8bXbeDwnN) | [My Time](https://open.spotify.com/album/13HeMZSSyKhXyvEAA8C6fh) | 2:42 | 2023-03-29 | 2023-04-25 |
 | [My Turn](https://open.spotify.com/track/4Qh0pDlwC1ribqHXp5hNH6) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [My Turn](https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy) | 3:37 | 2023-12-06 |  |

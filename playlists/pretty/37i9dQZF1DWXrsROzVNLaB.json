@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 10839,
+  "num_followers": 10837,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmFlMWQ3ODMxOGM2NjQ5NmMyNDliYjRkMTU4Y2Y0ZGNhZTE0NmVm",
+  "snapshot_id": "MCxlYzA5N2FmZmQyM2ZhM2IzOWNkMWQwZTVlOGUwZmRlNTViODM3ODEx",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -943,18 +943,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Blameless",
-        "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
+        "name": "Women Of Faith Presents Gateway Worship A Collection",
+        "url": "https://open.spotify.com/album/02Dzh1mJtEVEQqCcRtMslq"
       },
       "artists": [
         {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 234348,
-      "name": "Blameless",
-      "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
+      "duration_ms": 329640,
+      "name": "O The Blood",
+      "url": "https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -999,6 +1003,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Blameless",
+        "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 234348,
+      "name": "Blameless",
+      "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 200773,
       "name": "Beautiful Scandalous Night",
       "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Women Of Faith Presents Gateway Worship A Collection",
-        "url": "https://open.spotify.com/album/02Dzh1mJtEVEQqCcRtMslq"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 329640,
-      "name": "O The Blood",
-      "url": "https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU"
     },
     {
       "added_at": "2023-04-02 08:21:16",

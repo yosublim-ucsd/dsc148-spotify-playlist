@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,146 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,170 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Loneliness](https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Loneliness](https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY) | 5:37 |
 | 100 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 |
 
-Snapshot ID: `MCw1MDE5NjI2MWIzYTA2NGMzNjViZmJiMDczNjQxMzYzMzU1MDNlYTRj`
+Snapshot ID: `MCwxZmFlMWFmZWY2NDUzYTJlY2MzMGExZjJlMGM2YzY1NGM5ZWMwNWE5`

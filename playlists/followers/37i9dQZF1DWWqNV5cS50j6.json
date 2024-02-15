@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 701280,
+  "2024-02-15": 701374,
   "date_first_scraped": "2020-10-13",
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
   "name": "anti pop",
@@ -4905,6 +4905,28 @@
       "duration_ms": 166440,
       "name": "Ciao Bella",
       "url": "https://open.spotify.com/track/6LXSTkMwEG11CjuWvvM2UD"
+    },
+    {
+      "album": {
+        "name": "sounds like you're still here",
+        "url": "https://open.spotify.com/album/08cw6OFLheKkBQFVnC4kcZ"
+      },
+      "artists": [
+        {
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+        },
+        {
+          "name": "The E-Block",
+          "url": "https://open.spotify.com/artist/1Pu8NgV6W5CL5ngzcjXM7l"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81882,
+      "name": "cigarettes",
+      "url": "https://open.spotify.com/track/59Q7paRTrcEOsvu41unbsU"
     },
     {
       "album": {
@@ -20891,7 +20913,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 100714,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
@@ -25719,7 +25741,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 155686,
       "name": "Sylvia (Nanana)",
       "url": "https://open.spotify.com/track/1xwTt7QJn3fCQldUbX0flF"
@@ -29913,7 +29935,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 248403,
       "name": "WORLD STOP TURNING (feat. Warren Hue)",
       "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"

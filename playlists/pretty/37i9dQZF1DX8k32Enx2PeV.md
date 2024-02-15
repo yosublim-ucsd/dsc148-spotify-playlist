@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,454 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,457 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 32 | [Juguito de Mañana](https://open.spotify.com/track/4MHm3r8p0ZqCC7wzr7uNJs) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Juguito de Mañana](https://open.spotify.com/album/1WkXiZKp3yjoHPRgkggTIy) | 3:42 |
 | 33 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 34 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 |
-| 35 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
-| 36 | [Quiromancia \(feat\. Vic Mirallas\)](https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 4:16 |
+| 35 | [Quiromancia \(feat\. Vic Mirallas\)](https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 4:16 |
+| 36 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
 | 37 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
 | 38 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 |
 | 39 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 63 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
 | 64 | [Loco Playa](https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Los Playa Vol\. 1](https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq) | 3:37 |
 | 65 | [Mudanza](https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Mudanza](https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt) | 3:32 |
-| 66 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
-| 67 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 |
-| 68 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 |
-| 69 | [Aguaepanela Fantástica](https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Entre Bacanería y Barbarie](https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU) | 4:15 |
+| 66 | [Aguaepanela Fantástica](https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Entre Bacanería y Barbarie](https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU) | 4:15 |
+| 67 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
+| 68 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 |
+| 69 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 |
 | 70 | [Ma Vie](https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt) | [Valerianä](https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs) | [Ma Vie](https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8) | 2:32 |
 | 71 | [Respiro](https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Respiro](https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF) | 3:15 |
 | 72 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 74 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
 | 75 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |
 
-Snapshot ID: `MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5`
+Snapshot ID: `MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0`

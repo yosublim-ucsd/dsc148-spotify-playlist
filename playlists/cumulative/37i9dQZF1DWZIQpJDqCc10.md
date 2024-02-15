@@ -4,7 +4,7 @@
 
 > The greatest indie love songs of all time.
 
-263 songs - 16 hr 15 min
+264 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 | 2023-02-02 |  |
 | [I Just Don't Know What to Do With Myself](https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 2:46 | 2022-02-10 | 2023-02-14 |
 | [I Just Don't Know What to Do With Myself](https://open.spotify.com/track/6nRn2Or5IGJXfRZLUFtQ8g) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [I Just Don't Know What to Do with Myself](https://open.spotify.com/album/0MyMKdpscSTUeyBv1Zsp1F) | 2:48 | 2022-02-10 | 2022-02-13 |
+| [I Love You](https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 5:05 | 2024-02-14 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2024-01-30 |  |
 | [I Melt with You \(7" Mix\)](https://open.spotify.com/track/0XGyBJ0tNebqppbNEyCAcM) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/5npj803fI6x0fYa4sPavvL) | 3:50 | 2021-01-28 | 2022-02-13 |
 | [I Melt with You \(7" Mix\)](https://open.spotify.com/track/24y09nBEJNRP46uA0FRQQ2) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ) | 3:50 | 2022-02-10 | 2023-02-14 |
@@ -112,7 +113,7 @@
 | [If You Ever Want To Be In Love](https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 | 2022-02-10 | 2022-02-13 |
 | [If You Ever Want To Be In Love](https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2022-02-10 | 2022-11-14 |
 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 | 2022-02-10 |  |
-| [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2023-02-02 |  |
+| [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2023-02-02 | 2024-02-15 |
 | [Into My Arms](https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(Remastered\)](https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1) | 4:16 | 2021-01-28 | 2022-07-29 |
 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 | 2023-07-21 |  |
 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 | 2022-02-10 | 2023-11-05 |

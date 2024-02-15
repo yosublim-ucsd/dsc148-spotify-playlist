@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 539613,
+  "num_followers": 539720,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzMxMmQwZTg4ZmYzNTAwNDRmY2I3ZDEyNDBkZTc4OGUxMjkwMjhj",
+  "snapshot_id": "MCxkNGRmMGY1OTFhYmFhYWUyNmE2ZWJkNTNkZGFjMTk0ZmY0YWJjNzA1",
   "tracks": [
     {
       "added_at": "2022-12-30 18:28:06",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+        "name": "Trio Delfines",
+        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
       },
       "artists": [
         {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+          "name": "Trio Delfines",
+          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
         }
       ],
-      "duration_ms": 175480,
-      "name": "Quinto patio",
-      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+      "duration_ms": 165186,
+      "name": "Candilejas",
+      "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Trio Delfines",
-        "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
       },
       "artists": [
         {
-          "name": "Trio Delfines",
-          "url": "https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm"
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
         }
       ],
-      "duration_ms": 165186,
-      "name": "Candilejas",
-      "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
+      "duration_ms": 175480,
+      "name": "Quinto patio",
+      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Para Cuando Regreses",
-        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Somos Novios",
         "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 166413,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Para Cuando Regreses",
+        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Lamento Borincano",
-        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Lamento Borincano",
-      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 170400,
       "name": "Voy Gritando por la Calle",
       "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Lamento Borincano",
+        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Inmortales de To\u00f1a la Negra",
         "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 147931,
       "name": "Piensa en Mi",
       "url": "https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Amor Que Malo Eres",
-        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Cita Con Luis Arcaraz",
         "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 157533,
       "name": "Mu\u00f1equita de Squire",
       "url": "https://open.spotify.com/track/4qfMLx5dXnptUCIKGfzYFC"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Amor Que Malo Eres",
+        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Se Que No Vendras",
         "url": "https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 137250,
       "name": "Se Que No Vendras",
       "url": "https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/47tiylr6L7gVgdhtMJQDGT"
+      },
+      "artists": [
+        {
+          "name": "Las Verdes",
+          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
+        }
+      ],
+      "duration_ms": 179673,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1IakF23BjmwKWnX0Xo1OfP"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 132672,
       "name": "Camino A San Miguel",
       "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "B\u00e9same Mucho",
-        "url": "https://open.spotify.com/album/47tiylr6L7gVgdhtMJQDGT"
-      },
-      "artists": [
-        {
-          "name": "Las Verdes",
-          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
-        }
-      ],
-      "duration_ms": 179673,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1IakF23BjmwKWnX0Xo1OfP"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "El Gitano Se\u00f1or\u00f3n",
-        "url": "https://open.spotify.com/album/1Qq4btkUuZwPBWJFTCS7G9"
-      },
-      "artists": [
-        {
-          "name": "Juan Legido",
-          "url": "https://open.spotify.com/artist/39IB49inzY4bdV4DRoyh06"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "El Emigrante - Remastered",
-      "url": "https://open.spotify.com/track/0H7VU63w7ZpetCxhfZj7h5"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "El Que R\u00ede Ultimo R\u00ede Mejor",
         "url": "https://open.spotify.com/album/7xUhDvw7P9Mm91mUFbxoat"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 200320,
       "name": "Lazo Eterno",
       "url": "https://open.spotify.com/track/21VudhdjNioZOAvWWoo2ws"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "El Gitano Se\u00f1or\u00f3n",
+        "url": "https://open.spotify.com/album/1Qq4btkUuZwPBWJFTCS7G9"
+      },
+      "artists": [
+        {
+          "name": "Juan Legido",
+          "url": "https://open.spotify.com/artist/39IB49inzY4bdV4DRoyh06"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "El Emigrante - Remastered",
+      "url": "https://open.spotify.com/track/0H7VU63w7ZpetCxhfZj7h5"
     },
     {
       "added_at": "2022-12-30 18:28:06",

@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 279294,
+  "num_followers": 279426,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTMwNDA3YzU4MjBhODhmNjEyNmYzZWEyNGM5YWU4NzA4MTJhNjIz",
+  "snapshot_id": "MCwwZTExMTk3ZDlhZjIwYTU4M2ViMjg4MzAzZjNlZmE3YjM4ZmZiYjg3",
   "tracks": [
     {
       "added_at": "2024-02-09 03:54:06",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 197586,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "GAME PLAN",
-        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 160578,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "GAME PLAN",
+        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 160578,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
     },
     {
       "added_at": "2024-02-09 03:54:06",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-09 03:54:06",
       "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 203216,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
-    },
-    {
-      "added_at": "2024-02-09 03:54:06",
-      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
+    },
+    {
+      "added_at": "2024-02-09 03:54:06",
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     }
   ],
   "unique_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 603005,
+  "2024-02-15": 603088,
   "date_first_scraped": "2023-02-25",
   "description": "All your favourite mood boosting bangers...",
   "name": "Happy Pop Hits",
@@ -463,6 +463,28 @@
       "duration_ms": 166600,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+    },
+    {
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "album": {
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"

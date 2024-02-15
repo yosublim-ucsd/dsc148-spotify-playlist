@@ -4,7 +4,7 @@
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 56 min
+65 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [What Is Right](https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:44 | 2022-07-10 |  |
 | [Wings \(날개\) \[Daesung Solo\]](https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 | 2022-07-10 | 2022-12-22 |
 | [Wonderful](https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 3:30 | 2022-07-10 |  |
-| [ガラガラ GO!! \- BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN](https://open.spotify.com/track/4SWHjD4dAeAXH195K88WE3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN + BIGBANG10 THE MOVIE BIGBANG MADE](https://open.spotify.com/album/4vmVVnvt5RoW21rAADx77C) | 3:40 | 2022-07-10 |  |
+| [ガラガラ GO!! \- BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN](https://open.spotify.com/track/4SWHjD4dAeAXH195K88WE3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN + BIGBANG10 THE MOVIE BIGBANG MADE](https://open.spotify.com/album/4vmVVnvt5RoW21rAADx77C) | 3:40 | 2022-07-10 | 2024-02-15 |
+| [ガラガラ GO！！](https://open.spotify.com/track/5brqQm02a7xLvdStXioywi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ガラガラ GO！！](https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh) | 3:18 | 2024-02-14 |  |
 | [声をきかせて](https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [声をきかせて](https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr) | 4:13 | 2022-07-10 |  |
 
 \*This playlist was first scraped on 2022-07-11. Prior content cannot be recovered.

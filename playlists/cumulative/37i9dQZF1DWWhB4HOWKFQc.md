@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Rossa
 
-375 songs - 22 hr 55 min
+376 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 | 2023-04-13 | 2023-08-04 |
 | [TRUE](https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [YOARI X MY DEMON](https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf) | 3:12 | 2024-01-10 |  |
 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 | 2023-12-14 | 2024-01-18 |
+| [Tunjukkan Cintamu](https://open.spotify.com/track/3ScPXAJUcWHeJFuY1PC1Cc) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Tunjukkan Cintamu](https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD) | 2:19 | 2024-02-15 |  |
 | [UNDERSTAND](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:30 | 2023-04-13 | 2023-06-16 |
 | [Uneasy](https://open.spotify.com/track/4o31OUbP1WMjtpJeECtL7n) | [Andrea Tanzil](https://open.spotify.com/artist/3YJZTp3m6z2jgFUwe3krO7) | [Uneasy](https://open.spotify.com/album/7vxxmD7359SlJD2ir4harB) | 4:09 | 2023-03-23 | 2023-04-21 |
 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 | 2023-03-23 | 2023-07-26 |

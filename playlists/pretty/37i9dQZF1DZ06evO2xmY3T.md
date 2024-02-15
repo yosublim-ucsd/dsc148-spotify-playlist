@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,631 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,648 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 23 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 |
 | 24 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
 | 25 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 |
-| 26 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 |
+| 26 | [Press](https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ) | 2:23 |
 | 27 | [I Do \(feat\. SZA\)](https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:20 |
-| 28 | [Press](https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ) | 2:23 |
+| 28 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 |
 | 29 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 |
 | 30 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 31 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 47 | [YES](https://open.spotify.com/track/49npsHkkRrF42IxwU10Egt) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Dre](https://open.spotify.com/artist/2YKqI0pz6dY15GpzxT66HD) | [YES](https://open.spotify.com/album/0E74lJz7EpijEP2YDHGDYh) | 3:26 |
 | 48 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAyNWZmNzFhZGYxODE1MGIxOWU3OGE0YjYwMDYwNDk0Yg==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA5YzRjNmI2N2ZjYjVkMjdmN2I3NDA2MTc3NWQwOTRjNQ==`

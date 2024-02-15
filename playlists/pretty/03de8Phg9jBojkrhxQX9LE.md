@@ -8,9 +8,9 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'm Not Giving Up \(with MEMBA\)](https://open.spotify.com/track/471OWwLdgRbmyRoWXKBXYk) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [I'm Not Giving Up \(with MEMBA\)](https://open.spotify.com/album/3qUJFohjpTS1AFCI1124Bd) | 2:40 |
+| 1 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
 | 2 | [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 |
-| 3 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
+| 3 | [I'm Not Giving Up \(with MEMBA\)](https://open.spotify.com/track/471OWwLdgRbmyRoWXKBXYk) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [I'm Not Giving Up \(with MEMBA\)](https://open.spotify.com/album/3qUJFohjpTS1AFCI1124Bd) | 2:40 |
 | 4 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 |
 | 5 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 |
 | 6 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 142 | [GAIL HARPOS REVENGE](https://open.spotify.com/track/343tZNN39vFgroAVYUCLef) | [KILLMATTER](https://open.spotify.com/artist/7xG6JYqkApsbZBCeKs7cJ5) | [GAIL HARPOS REVENGE](https://open.spotify.com/album/1E8ps2hN9ZbjOgjINXgTiF) | 1:48 |
 | 143 | [So Much](https://open.spotify.com/track/3R5Y4k8yxZmmAp63LYkHxc) | [Amiby](https://open.spotify.com/artist/6y2WsCWPWj0zXROhCxSaye), [Bresson](https://open.spotify.com/artist/4z7lqN4yXHbJ5GN6vIzQwA) | [So Much](https://open.spotify.com/album/4iTy2sHAiJwJUfDqwFjSCP) | 3:12 |
 
-Snapshot ID: `MjIxMSwyNjIzYjllMjI4OWY2NTljYzk2N2I0MjM5ZWJlNzU1ZjgyOGQ1MjJk`
+Snapshot ID: `MjIxMyw1ZGM5NDg5MzNmOTU1ZTEyYWJmMzI3MWYxYzY1YTU2OTljODBiMjdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,717 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,774 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 10 | [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 |
 | 11 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 12 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 |
-| 13 | [覚悟を決めろ!](https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/0jtrUUnMiw14yT1vSyA4mV) | 3:54 |
+| 13 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 |
 | 14 | [幽霊と作家](https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [幽霊と作家](https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6) | 4:08 |
 | 15 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 |
 | 16 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 |
@@ -28,19 +28,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 18 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 19 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 |
 | 20 | [スーパー愛したい \- fantastic ver.](https://open.spotify.com/track/314Q8YaLGYZg6bZCx9dbje) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ファンタジーな祝日を!!!](https://open.spotify.com/album/2DgoQE2Qb3e990SJER3TIG) | 4:00 |
-| 21 | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/album/1bPXXUszurgUndYpS540rI) | 3:28 |
+| 21 | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8) | 3:28 |
 | 22 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 |
 | 23 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
 | 24 | [Curse of Love](https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Curse of Love](https://open.spotify.com/album/2gLxAX6QIAsanB9HUcEh2z) | 3:34 |
 | 25 | [キラッテラッテ](https://open.spotify.com/track/2Ugyo7kjFFli9gHf9KfK5A) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [キラッテラッテ](https://open.spotify.com/album/4L3xxw1jTt0q2QfMG5WfLv) | 3:08 |
 | 26 | [Memories](https://open.spotify.com/track/4xOXlqUgehg1zyWhmFswQK) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Memories](https://open.spotify.com/album/6mgGuA8yJqBsFKpwKWX0JC) | 3:28 |
 | 27 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
-| 28 | [問.1](https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [問.1](https://open.spotify.com/album/6rceF7Zl8hpcZYiXGNIgg4) | 3:51 |
+| 28 | [Q.1](https://open.spotify.com/track/69wRfBpcspPBQYD8xaDyT8) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Q.1](https://open.spotify.com/album/3283TUO9t88bpwilwlYp9k) | 3:51 |
 | 29 | [utatane](https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:01 |
 | 30 | [800](https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [800](https://open.spotify.com/album/0fdFWCHDh2eXlaPeR6v26h) | 3:53 |
 | 31 | [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 |
 | 32 | [恋をしているみたいなの](https://open.spotify.com/track/1FAAimaATfHm0tXomtOgDs) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋をしているみたいなの](https://open.spotify.com/album/7uj8cKKSL8uPVJqDLHhJ6S) | 3:32 |
-| 33 | [Saint](https://open.spotify.com/track/449Jd2BKtzXrqlKYDNUavQ) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Saint](https://open.spotify.com/album/4MPtlPCBY05Znb8YOXTp63) | 2:19 |
+| 33 | [Saint](https://open.spotify.com/track/4nRphJ8cxGio2Ygloo5nMl) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Saint](https://open.spotify.com/album/27QzrPPWPQ4E0Fthf03rx6) | 2:19 |
 | 34 | [雪の音](https://open.spotify.com/track/2Wahb8YS7s2zPFRVK3l5gT) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [雪の音](https://open.spotify.com/album/670M5F2SQLZYmTgWLUzSZY) | 3:48 |
 | 35 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 36 | [二度寝](https://open.spotify.com/track/38Ypb7FJIGVovqqQO2Yu5S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [二度寝](https://open.spotify.com/album/1A68DtaRuQEtOfIHkB8C2p) | 3:27 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 53 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
 | 54 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 |
 | 55 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 |
-| 56 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
+| 56 | [Koi suru wakusei "Anata"](https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Koi suru wakusei "Anata"](https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx) | 3:28 |
 | 57 | [おまじない](https://open.spotify.com/track/2Ttix2IAc0Zh63jFFEFjlD) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [おまじない](https://open.spotify.com/album/1mrIqbFsEh3E2n5pdgLKzV) | 3:10 |
 | 58 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 |
 | 59 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 60 | [Naiya](https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9) | 2:16 |
 
-Snapshot ID: `MCxmNDM4YTNmNGNjYWY4Mzg5MWM1OTVjMmM1ZTcxNmJkMmI1YjI5NTIz`
+Snapshot ID: `MCxkOGRmOWQ1MjBkYmE3NGI3OWEzYzUzZjhhYzk3YjAzZjMyNWE1ZDFl`

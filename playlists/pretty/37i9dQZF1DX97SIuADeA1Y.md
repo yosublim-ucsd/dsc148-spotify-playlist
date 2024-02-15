@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,891 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,944 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Secrets](https://open.spotify.com/track/5P0quNgefuYhIMxeGCYdqs) | [Sergio Trillini](https://open.spotify.com/artist/632XNUTWRkhxOkb7y4698e) | [Secrets](https://open.spotify.com/album/1EoFFjUp5s2mK6K6cyvhRX) | 2:11 |
 | 60 | [World in Your Eyes](https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [World in Your Eyes](https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E) | 2:11 |
 
-Snapshot ID: `MCxhNGE2MzQ0MDhjYjNkYzBkYTkwNGFiMmNjNTk3Y2YxMzhkZmY2MjNj`
+Snapshot ID: `MCxkMzE4NmJlMWIzZmMwYmM3YWQxZDQwZDI1ODNlOGI2YmM0ODIzZmY3`

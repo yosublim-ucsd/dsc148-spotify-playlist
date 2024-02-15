@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,827 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,033 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 65 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
 | 66 | [Fire of Love](https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fire of Love](https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL) | 4:40 |
 | 67 | [Devil's Spoke](https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 3:38 |
-| 68 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 |
-| 69 | [Call My Name](https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:12 |
+| 68 | [Call My Name](https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:12 |
+| 69 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 |
 | 70 | [In the Dark](https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8) | [Cathedrals](https://open.spotify.com/artist/7HIjKw4rHS0MtmV0cqSlpB) | [Cathedrals \- EP](https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv) | 3:43 |
 | 71 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 |
-| 72 | [Stars](https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7) | 5:22 |
-| 73 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
+| 72 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
+| 73 | [Stars](https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7) | 5:22 |
 | 74 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
 | 75 | [Sausalito](https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Azalea](https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv) | 3:42 |
 | 76 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 78 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 |
 | 79 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 80 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 |
-| 81 | [Dream State...](https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 3:30 |
-| 82 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
+| 81 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
+| 82 | [Dream State...](https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 3:30 |
 | 83 | [Depraved](https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2) | 3:53 |
 | 84 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
 | 85 | [I Of The Storm](https://open.spotify.com/track/3z8ypl55NHugzc6EDVVFdF) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:36 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 97 | [Loose Change for the Boatman](https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA) | 4:02 |
 | 98 | [Stakes](https://open.spotify.com/track/5hxrx9IwZcGpuPS9yYiwls) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe) | 5:11 |
 | 99 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
-| 100 | [Dark](https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo) | 5:07 |
+| 100 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
 
-Snapshot ID: `MCxjY2I2NWFhMGI3NzQ3MWY3N2E5MjE2NGU0N2YyZjc1MWM0ZTg3ZTNl`
+Snapshot ID: `MCw1MTcyNzg1MGYwZjJmODVhMGM3NDJkYzQyOTJjZWJlZjA5NjNkYTVi`

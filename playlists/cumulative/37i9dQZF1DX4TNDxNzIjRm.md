@@ -4,7 +4,7 @@
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-264 songs - 14 hr 52 min
+265 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Kelede](https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Kelede](https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb) | 2:39 | 2022-05-10 | 2022-10-11 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-07-11 |  |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-31 |  |
-| [La Boca](https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:26 | 2022-05-10 |  |
+| [La Boca](https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:26 | 2022-05-10 | 2024-02-15 |
 | [La Boca \- Remix](https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [La Boca \(Remix\)](https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ) | 3:08 | 2022-05-10 | 2023-04-20 |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2022-05-10 |  |
 | [La Copa](https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [La Copa](https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k) | 3:11 | 2022-12-28 | 2023-01-28 |
@@ -139,6 +139,7 @@
 | [Las Cartas](https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu) | 3:32 | 2022-10-09 | 2022-10-21 |
 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 | 2022-11-12 | 2023-02-13 |
 | [Llamarte \(Otra Vez\)](https://open.spotify.com/track/2OniRNhk6QLDZxq0i6FONv) | [Inti y Vicente](https://open.spotify.com/artist/4VVwBj04GbOfjT07az5SgD), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Llamarte \(Otra Vez\)](https://open.spotify.com/album/5tjRR32na5Z85xVaqIalxn) | 2:14 | 2022-05-10 | 2022-07-22 |
+| [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 | 2024-02-14 |  |
 | [Lo Volvería](https://open.spotify.com/track/2IOSyg0w81fJnQbpmoseRf) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Lo Volvería](https://open.spotify.com/album/0hOgrkaHadHhWSUi7NoipS) | 3:48 | 2022-05-10 | 2022-07-26 |
 | [LOCATION](https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LOCATION](https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR) | 4:25 | 2022-05-10 | 2023-08-20 |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2022-05-10 | 2023-12-24 |

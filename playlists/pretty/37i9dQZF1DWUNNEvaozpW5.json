@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
-  "num_followers": 570397,
+  "num_followers": 570461,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjc0ODUwMzJlMmE5YWU4YjcxNTI0NjExYWZlMGQ2Mjc1MzVkZDA2",
+  "snapshot_id": "MCxlYmRmYTY2MGNhNzg0Y2U5MzNhNDE4MmRlMGVkMTE1OTI0NGJlMTVl",
   "tracks": [
     {
       "added_at": "2024-02-09 09:18:56",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "Se nos lleva el aire",
-        "url": "https://open.spotify.com/album/3V0gXpeLYWle5J3vy1O4Lu"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 415000,
-      "name": "Viajando por el interior",
-      "url": "https://open.spotify.com/track/26vkdWyOHx3rBY2zTb7f8I"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
+        "name": "Se nos lleva el aire",
+        "url": "https://open.spotify.com/album/3V0gXpeLYWle5J3vy1O4Lu"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 415000,
+      "name": "Viajando por el interior",
+      "url": "https://open.spotify.com/track/26vkdWyOHx3rBY2zTb7f8I"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+        "name": "Ba\u00efonarena (Live)",
+        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
       },
       "artists": [
         {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
+      "duration_ms": 288146,
+      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
+      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "Ba\u00efonarena (Live)",
-        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
         }
       ],
-      "duration_ms": 288146,
-      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
-      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
+        "name": "Vamos Tirando",
+        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Tras la barra",
+      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
         "name": "Te entiendo",
         "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 240814,
       "name": "Te entiendo",
       "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
-        "name": "Vamos Tirando",
-        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Tras la barra",
-      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
     },
     {
       "added_at": "2024-02-09 09:18:56",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-02-09 09:18:56",
       "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
-    },
-    {
-      "added_at": "2024-02-09 09:18:56",
-      "album": {
         "name": "Por Instinto",
         "url": "https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 245026,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
+    },
+    {
+      "added_at": "2024-02-09 09:18:56",
+      "album": {
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2024-02-09 09:18:56",

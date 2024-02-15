@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,052 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,088 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 19 | [Je fume pu d'shit](https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F) | [Stupeflip](https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai), [Jacno](https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m) | [Stupeflip](https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a) | 3:16 |
 | 20 | [Les mains froides](https://open.spotify.com/track/6jhn79WXv1GExPth5iMtny) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Le monde est beau](https://open.spotify.com/album/670mgOr9f4OGrlWfzoGNRD) | 3:41 |
 | 21 | [Poupine et Thierry](https://open.spotify.com/track/76tXsaonHTv3eDSnUIbimx) | [Les Wriggles](https://open.spotify.com/artist/0GtJweTzG1ECJ78loPQxzl) | [Ah bas ouais mais bon](https://open.spotify.com/album/3NDFDsdrcZxC3xYzBwweLw) | 1:48 |
-| 22 | [La déclaration](https://open.spotify.com/track/2FjRMq1w9EEhelyBtTjCE8) | [Debout Sur Le Zinc](https://open.spotify.com/artist/2IScPq8PNlEgMrxY22iufh) | [Les promesses](https://open.spotify.com/album/5AcVrPhhrMyFAgQNRkhK9B) | 4:15 |
-| 23 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
+| 22 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
+| 23 | [La déclaration](https://open.spotify.com/track/2FjRMq1w9EEhelyBtTjCE8) | [Debout Sur Le Zinc](https://open.spotify.com/artist/2IScPq8PNlEgMrxY22iufh) | [Les promesses](https://open.spotify.com/album/5AcVrPhhrMyFAgQNRkhK9B) | 4:15 |
 | 24 | [Motivés, le chant des partisans](https://open.spotify.com/track/3w9Z92Q9LBBuA7Ik7T0fn7) | [Motivés](https://open.spotify.com/artist/746xFau8DOtNcVLtnd4enN) | [Motivés! \- Chants de lutte](https://open.spotify.com/album/4WNsQtcIiGWu3oRrEsdcLp) | 4:22 |
 | 25 | [On lâche rien](https://open.spotify.com/track/61ZSaEqlhd8LtMZcWkFekJ) | [HK et Les Saltimbanks](https://open.spotify.com/artist/4xsIQBB0sTOoXpENHzse10) | [Citoyen du monde](https://open.spotify.com/album/3TfIE3EOxOzS9GE8IQvrXe) | 3:43 |
 | 26 | [Quand plus rien ne va \- La turlute](https://open.spotify.com/track/6hrbyZLZePWb6nCsgVpjLp) | [Mes Souliers Sont Rouges](https://open.spotify.com/artist/4IyUYsH5XMy3tgfBfeHRO6) | [Proches](https://open.spotify.com/album/5BWfaMWJVTKzX9NQEc0CrT) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 49 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 |
 | 50 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 
-Snapshot ID: `MCw3ZTQ1ZTkyMmE1OGYyODVhMWY0YzViMzU2MmU4ZjEzYzZiZmMzMzM1`
+Snapshot ID: `MCxhNzViYjUzOTJkMWM1NGRiY2Q5ZGMwMTNkZTY5YzJiYmUzYmZjOTY4`

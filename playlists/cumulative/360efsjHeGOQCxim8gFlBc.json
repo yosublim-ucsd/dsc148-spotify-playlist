@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 87678,
       "name": "A New Chapter",
       "url": "https://open.spotify.com/track/2HKRm71ioSf15zdxfWhaRS"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 125538,
       "name": "Chasm Depth (Piano Version)",
       "url": "https://open.spotify.com/track/0u6yrI3gPI8qWvUpwIKOzt"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 146378,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/2k3Qt21uyNtqhSgn3sOX1u"
@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/5BbiSeXR7wkys8hVGb2SkI"
+      },
+      "artists": [
+        {
+          "name": "Kilgore Doubtfire",
+          "url": "https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280749,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/65HfR1BpotW0ES46KD6Gv8"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/0EoSIxxYfrIEtIgnhQfbn0"
       },
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 196905,
       "name": "Expectation",
       "url": "https://open.spotify.com/track/54k6c3xAQbgJyzax0cTkUO"
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 302146,
       "name": "Forever Together",
       "url": "https://open.spotify.com/track/08s74bD4VBcwn3v7ddwsv9"
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 105511,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/2y7eXoUagvUMkLb8P0T4Wx"
@@ -2291,6 +2309,60 @@
     },
     {
       "album": {
+        "name": "Idea 7 (Remixes)",
+        "url": "https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150078,
+      "name": "Idea 7",
+      "url": "https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo"
+    },
+    {
+      "album": {
+        "name": "Idea 7 (Remixes)",
+        "url": "https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183642,
+      "name": "Idea 7 (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1TMjYr0cOiVgiDsatvsQPI"
+    },
+    {
+      "album": {
+        "name": "Idea 7 (Remixes)",
+        "url": "https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115415,
+      "name": "Idea 7 (Sped Up)",
+      "url": "https://open.spotify.com/track/10c2cDnd14oZQiMQsUksDd"
+    },
+    {
+      "album": {
         "name": "Idea 9",
         "url": "https://open.spotify.com/album/2BpRxtAl6IrHI2OQtd60PK"
       },
@@ -2302,10 +2374,28 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 137547,
       "name": "Idea 9",
       "url": "https://open.spotify.com/track/3TdROUy5JZz1OcBKMZjeux"
+    },
+    {
+      "album": {
+        "name": "Idea 9 (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/7MQS5VHSUiNrDy4q4ztXD4"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137547,
+      "name": "Idea 9",
+      "url": "https://open.spotify.com/track/76OEZ6s2Bhtb7C6iPTkBcq"
     },
     {
       "album": {
@@ -2513,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/0qbd1uvul0pfEiq4ZiSAPu"
+      },
+      "artists": [
+        {
+          "name": "Mirko Dukanovic",
+          "url": "https://open.spotify.com/artist/7GxCVyk1AgOKTicjk8MToh"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84050,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/31fK9lpRzYj2R8BGL0Aufs"
+    },
+    {
+      "album": {
         "name": "lazy town",
         "url": "https://open.spotify.com/album/2CurKH3gs88MhS90vCMyqD"
       },
@@ -2660,7 +2768,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 135500,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/2hP4GZx9KdKM60p8hG9u9o"
@@ -2886,7 +2994,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 111455,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0d7aUcbr6SSi3FQWESwCpR"
@@ -3372,7 +3480,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 85449,
       "name": "Only One Choice",
       "url": "https://open.spotify.com/track/4EhoVeJaRztgYGzTNaoV7q"
@@ -3970,7 +4078,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 187271,
       "name": "Save a Life",
       "url": "https://open.spotify.com/track/6HxTlSPLrwmIzp33OuLW0J"
@@ -4620,7 +4728,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 107740,
       "name": "The End of a Dream",
       "url": "https://open.spotify.com/track/1HdVwaztiRB7rKna79Arg8"
@@ -5286,7 +5394,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 133571,
       "name": "Whenever We Speak",
       "url": "https://open.spotify.com/track/6QuUbuOYC5pJsZ32Ptp7UB"

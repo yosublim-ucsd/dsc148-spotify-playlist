@@ -4,7 +4,7 @@
 
 > Sun, sand, salt water and the perfect songs to match.
 
-95 songs - 6 hr 7 min
+96 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,13 +75,14 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2023-11-15 |  |
 | [Runaway](https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc) | 4:32 | 2023-11-15 | 2024-02-04 |
 | [Runaway](https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9) | 4:32 | 2023-11-15 |  |
-| [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 | 2023-11-15 |  |
+| [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 | 2023-11-15 | 2024-02-15 |
 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 | 2023-11-15 |  |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-11-15 |  |
 | [Skin](https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:14 | 2023-11-15 |  |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2023-11-15 |  |
 | [Songbird](https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:36 | 2023-11-15 |  |
 | [Southern Sun](https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN) | 4:41 | 2023-11-15 |  |
+| [Stay](https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Stay](https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM) | 3:19 | 2023-11-15 |  |
 | [Stay](https://open.spotify.com/track/2Dy6WQI1PNSBZ74U5XS1Kw) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Stay](https://open.spotify.com/album/0xIQ56qVBCsYs3mOaHgrIC) | 3:19 | 2023-11-15 | 2024-01-24 |
 | [Strangers](https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Thick Skin](https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO) | 3:02 | 2023-11-15 |  |
 | [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 | 2023-11-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 821653,
+  "num_followers": 821742,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTUzNDFiMWZhZGI0ZWIyN2EwNjUxYWQ4MDBjMDY4Yjg4ODliODNj",
+  "snapshot_id": "MCxmNTExZTJjYmYyMjg4YjE4Y2VhMmIyNzc0Yzc3NzI1ZTEwNjU2MDJl",
   "tracks": [
     {
       "added_at": "2024-01-12 17:05:09",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Asc. Scorpio",
-        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 166601,
-      "name": "Asc. Scorpio",
-      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Asc. Scorpio",
+        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 166601,
+      "name": "Asc. Scorpio",
+      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
-      "added_at": "2024-01-16 16:54:52",
-      "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 243263,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
-    },
-    {
       "added_at": "2024-01-12 17:05:09",
       "album": {
         "name": "Light Upon the Lake",
@@ -719,6 +703,22 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
+    },
+    {
+      "added_at": "2024-01-16 16:54:52",
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 243263,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Average Guy (Blame)",
         "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 180994,
       "name": "Average Guy (Blame)",
       "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Throwaway (with Clairo)",
-      "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Throwaway (with Clairo)",
+      "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "LAUREN",
         "url": "https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "butterfly (so free)",
         "url": "https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 511160,
-      "name": "Shit Talk",
-      "url": "https://open.spotify.com/track/6t8aRTXXIcx9JVRD8IRZKR"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 203516,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 511160,
+      "name": "Shit Talk",
+      "url": "https://open.spotify.com/track/6t8aRTXXIcx9JVRD8IRZKR"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "Santa Catalina",
         "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 165000,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "Kimosab\u00e8",
         "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 281333,
       "name": "Astral Plane",
       "url": "https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
         "name": "Charmed",
         "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
       },
@@ -1631,38 +1647,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Jardin",
-        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 236106,
-      "name": "Forget Me Not",
-      "url": "https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -1679,18 +1663,38 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
+        "name": "LOVE + POP",
+        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
       },
       "artists": [
         {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        },
+        {
+          "name": "Oddbody",
+          "url": "https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX"
         }
       ],
-      "duration_ms": 185458,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
+      "duration_ms": 97179,
+      "name": "My Shadow Life",
+      "url": "https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 236106,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll"
     }
   ],
   "unique_name": "Indie Chillout",

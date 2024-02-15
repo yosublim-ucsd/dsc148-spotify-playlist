@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,617 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,632 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [ナノ・セカンド\(album ver.\)](https://open.spotify.com/track/4Hz1T64ZZiHkM4fYHFN0MV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:55 |
 | 50 | [THUG LIFE](https://open.spotify.com/track/60hNg1E9VLg4fIHeiSJSxJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 2:54 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA1MmM2OTcyZjBlODRkOTVmOTQ5NTA5NDM4OWI1NzQzOA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBkODEzYjU2NjYzNzUwZjYwN2ZjMDA3MWZkY2Y1YjI4Mg==`

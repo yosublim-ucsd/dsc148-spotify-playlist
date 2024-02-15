@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 21415,
+  "2024-02-15": 21440,
   "date_first_scraped": "2023-08-27",
   "description": "Electronic tunes brought to life by South Asian samples. Updated regularly. ",
   "name": "desi crate diggin'",
@@ -1920,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "Silk Lounge",
+        "url": "https://open.spotify.com/album/4LJfGRZoCxg2Q1yF7P8gia"
+      },
+      "artists": [
+        {
+          "name": "Sodhivine",
+          "url": "https://open.spotify.com/artist/2S6ptKppxWXwvrTaabpeT0"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214205,
+      "name": "Silk Lounge",
+      "url": "https://open.spotify.com/track/2hkE1MEvLpo7vwbtyTi9Bg"
+    },
+    {
+      "album": {
         "name": "Future Bollywood Trap Sounds",
         "url": "https://open.spotify.com/album/6jbG2VTBM4KAD652A2uhxQ"
       },
@@ -2039,6 +2057,24 @@
       "duration_ms": 198400,
       "name": "Talk to Me Nice",
       "url": "https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF"
+    },
+    {
+      "album": {
+        "name": "Turbo (Deluxe)",
+        "url": "https://open.spotify.com/album/5AqK0sYFr4bVWAtVKTmXcz"
+      },
+      "artists": [
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Tarka",
+      "url": "https://open.spotify.com/track/10tUxnculTXzMGFAcj3ZNr"
     },
     {
       "album": {
@@ -2269,7 +2305,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 60440,
       "name": "Where Am I",
       "url": "https://open.spotify.com/track/6mxLGlG96SVnW2RNBtGccV"

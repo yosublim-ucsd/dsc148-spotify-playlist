@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,356 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,382 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 32 | [Ain't No Way 2024](https://open.spotify.com/track/4R2lfQVqaPgvqt3gwMcj6I) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [The Riddler](https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l) | [Ain't No Way 2024](https://open.spotify.com/album/0hnWRdRsayfrvFEKurtWJD) | 2:58 |
 | 33 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 34 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(with Lyrah\)](https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck) | 2:26 |
-| 35 | [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 |
-| 36 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
+| 35 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
+| 36 | [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 |
 | 37 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 |
 | 38 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 |
 | 39 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 50 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
 
-Snapshot ID: `MCwyZmZhYWM3ZGY4ZWVjYWI1NjAzNGE1ZjQyZDIwZmM1M2I4ODFjZDhk`
+Snapshot ID: `MCw1ZjU5YTRhMzA3MzI4Y2I5YWVlZWQ0ODBjYmE0YzZlZGZmNmYyZmIw`

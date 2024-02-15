@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 76386,
+  "num_followers": 76431,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTk2YmE1ZTQ2ODk3OTdmMzQ2ZTBlZjJjNjY3NDZmN2IzMmZlZTZi",
+  "snapshot_id": "MCw2ZmVmODk2ZjdjZWEyNGIyNTNhOGVjNzA4OTEyMGEwZjJjMWRjOGZh",
   "tracks": [
     {
       "added_at": "2024-02-09 10:33:06",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Come and Be a Winner",
+      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Come and Be a Winner",
-      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "Ain't No Use",
-      "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 238480,
       "name": "Let My People Go",
       "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "Ain't No Use",
+      "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "Gold Mine",
-        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 151350,
-      "name": "Gold Mine",
-      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 258200,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "Gold Mine",
+        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 151350,
+      "name": "Gold Mine",
+      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Love You All My Lifetime",
-      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 214517,
       "name": "All Your Love - Single Edit",
       "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Love You All My Lifetime",
+      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
-      },
-      "artists": [
-        {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+      },
+      "artists": [
+        {
+          "name": "Vivian Green",
+          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
     },
     {
       "added_at": "2024-02-09 10:33:06",

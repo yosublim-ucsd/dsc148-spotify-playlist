@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: Eté & Los Problems
 
-294 songs - 19 hr 26 min
+295 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Glu Glu](https://open.spotify.com/track/6XR1DdEDU6LMMj7Mlyuzyy) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Se Está Complicando](https://open.spotify.com/album/4noFm89bH8KcO9ehXtJSYP) | 4:20 | 2022-05-20 | 2022-07-29 |
 | [Había una Vez ...](https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn) | 4:28 | 2022-09-30 | 2024-01-04 |
 | [Había una Vez ...](https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/71SBgWq7XwSn5ihSeCESn1) | 4:28 | 2022-05-20 | 2022-08-30 |
+| [Había una Vez...](https://open.spotify.com/track/3ayHT7okY784fCWMYDbspt) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/751S3DWTtH4C5Pfpk4KJ6d) | 4:28 | 2024-02-01 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2022-07-08 |  |
 | [Hay Días](https://open.spotify.com/track/0y3mZ1twK3ViKwQJnvtRTY) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Hay Días](https://open.spotify.com/album/38wSBYX8FNWSX2LvIB5rY8) | 4:11 | 2022-07-01 | 2022-07-29 |
 | [Hay Que Comer](https://open.spotify.com/track/76XZzVpi5bDbFvG5Nq5kCw) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [El Cuarteto de Nos](https://open.spotify.com/album/2CsAu4ISKqLEpQpTIx8FIV) | 3:22 | 2022-07-01 | 2022-07-28 |
@@ -267,7 +268,7 @@
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 | 2022-07-08 |  |
 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 | 2022-07-08 |  |
 | [Tormenta](https://open.spotify.com/track/52Dq7xuXXP66zCJLTf94K8) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tormenta](https://open.spotify.com/album/0TukmDirFYnYRN5OehV4CO) | 3:57 | 2022-05-20 | 2022-07-29 |
-| [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 | 2022-05-20 |  |
+| [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 | 2022-05-20 | 2024-02-15 |
 | [Tras la Nube](https://open.spotify.com/track/6pcEluKvF7DmJOeo4UOy7Q) | [Spuntone & Mendaro](https://open.spotify.com/artist/3KQCegrPR9dS6bzmYmGAte) | [Tras la Nube](https://open.spotify.com/album/5WGQmbY3i708oU0xoY6hw5) | 3:40 | 2022-07-01 | 2022-07-03 |
 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 | 2022-05-20 |  |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-05-20 | 2022-11-13 |

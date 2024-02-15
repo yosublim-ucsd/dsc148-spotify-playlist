@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,865 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,868 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 36 | [Amigos](https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:43 |
 | 37 | [Noche de Sirenas](https://open.spotify.com/track/0zAWbwmo02T2TjlL3AQhHm) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:27 |
 | 38 | [Conmigo \(Rest of Your Life\)](https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:18 |
-| 39 | [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 |
+| 39 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 |
 | 40 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 |
 | 41 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 |
 | 42 | [Muevelo \(feat\. Wisin\)](https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:32 |
-| 43 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 |
+| 43 | [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 |
 | 44 | [TICK TOCK](https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [TICK TOCK](https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb) | 2:51 |
 | 45 | [A Tu Manera \[CORBATA\]](https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [A Tu Manera \[CORBATA\]](https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB) | 2:54 |
 | 46 | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Carlos "Maffio" Peralta](https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS) | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH) | 3:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [1, 2, 3 \- Sped Up](https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sped Up Songs Vol\. 1](https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L) | 2:50 |
 | 51 | [Treehouse](https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Treehouse](https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9) | 3:09 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA5YmNlODIzNjMzNmFkYmVmMzE4ZjY2NzBjNzg4NjgzYw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAzYTg4MzZjMzRlZjA3ZTZmZGIxZWM2Y2FlYzJkNGIxOA==`

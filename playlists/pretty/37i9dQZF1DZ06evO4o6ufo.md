@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,991 likes - 34 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,088 likes - 34 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 4 | [GPI](https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:13 |
 | 5 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
 | 6 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 |
-| 7 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
+| 7 | [Cedo la Palabra](https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Cedo la Palabra](https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG) | 3:00 |
 | 8 | [Sin Evidencias](https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:57 |
-| 9 | [Cedo la Palabra](https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Cedo la Palabra](https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG) | 3:00 |
+| 9 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
 | 10 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 | 11 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 |
 | 12 | [El Güicho](https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:44 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 33 | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK) | 8:16 |
 | 34 | [Casi se les hizo \(En Vivo\)](https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:00 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA4NzUyMzM4ZmQwOTMxZmVkYTY4NDBkNDYwMTAzZWQ2Nw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBhNmQyNWE4NjQ0ZDYxMDkzNTdmZGY0MDNkZmU4M2Y2Nw==`

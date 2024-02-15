@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 100319,
+  "num_followers": 100333,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2M0MGZmNjBhYmU0NmUxNmFiMDg4NmNhZWVhZTg1NjgzNjgwMjI4",
+  "snapshot_id": "MCxjZjI3MmY3OWUyMmY5YTc3M2MwNmFiZWNmMzAzZmFiNDQ2YjQ4M2U2",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Everywhere, Everything (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
       "artists": [
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -623,18 +619,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
       "artists": [
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+        "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+      "duration_ms": 240867,
+      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
+      "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 240867,
-      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
-      "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2024-02-13 15:00:00",

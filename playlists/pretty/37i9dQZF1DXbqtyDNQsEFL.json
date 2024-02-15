@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 61681,
+  "num_followers": 61739,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODhhM2Q2ZGI4YTNiMjU1ZjBiOGRkZTk3MDMzOGFhMmNkMGQ0MTQ2",
+  "snapshot_id": "MCw5YzkyYWM2MGEzOGEzOWMzMmUzZmZiOTMwYzRhNTQ3ZWMwMjliYmUw",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -311,18 +311,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+        "name": "Kumama",
+        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
+      "duration_ms": 260064,
+      "name": "Kumama Papa",
+      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -347,30 +355,6 @@
       "duration_ms": 438744,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Kumama",
-        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
-      },
-      "artists": [
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 260064,
-      "name": "Kumama Papa",
-      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -405,6 +389,26 @@
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Old Church Basement",
@@ -427,26 +431,6 @@
       "duration_ms": 402803,
       "name": "Old Church Basement (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 648235,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -515,6 +499,22 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1241,6 +1241,50 @@
       "url": "https://open.spotify.com/track/3Scc4HtHuKB35zJmro4slF"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Darling Jesus (Special Version)",
+        "url": "https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        }
+      ],
+      "duration_ms": 206164,
+      "name": "Darling Jesus - Special Version",
+      "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
+        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 320902,
+      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
+      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "A Sound from Heaven",
@@ -1271,26 +1315,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
-        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 320902,
-      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
-      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -1317,46 +1341,6 @@
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Darling Jesus (Special Version)",
-        "url": "https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        }
-      ],
-      "duration_ms": 206164,
-      "name": "Darling Jesus - Special Version",
-      "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "OL\u00d9GB\u00c8J\u00c0",
@@ -1379,6 +1363,22 @@
       "duration_ms": 888000,
       "name": "OL\u00d9GB\u00c8J\u00c0",
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
       "added_at": "2023-12-15 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,617 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,930 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 42 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [ULYSE](https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD) | 3:34 |
 | 43 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
 | 44 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 |
-| 45 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
-| 46 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
+| 45 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
+| 46 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 | 47 | [Compartir](https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z) | 4:19 |
 | 48 | [Amantes](https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:52 |
 | 49 | [Flecha](https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Flecha](https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V) | 3:53 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 62 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 |
 | 63 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
 | 64 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 |
-| 65 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 66 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 65 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 66 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 67 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
 | 68 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 69 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Para la Eternidad](https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [45 RPM](https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr) | 4:23 |
 | 75 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 
-Snapshot ID: `MCwxMzE3ZjkyNjdkMjFmNWEwYWQ4MDlhNjI2ZWRiNDE5ZWU5MjhjMGRk`
+Snapshot ID: `MCw5ODBlMjRkOTI4MzZjOGQ1MmYxNzg0MDc2ZjYyZjUwMzU3ZmMyZmMz`

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
-792 songs - 2 day 10 hr 40 min
+794 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Break Away](https://open.spotify.com/track/6wtfIonPBuxMmgPZUCM0kj) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Firewind](https://open.spotify.com/album/0eABZjNzoxwU6UVDyPzg3y) | 5:13 | 2021-12-17 | 2022-07-29 |
 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2022-08-19 |  |
 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 | 2022-08-19 | 2024-02-10 |
+| [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 | 2024-01-26 |  |
 | [Breaking the Habit](https://open.spotify.com/track/3Rk9g2PzzHrDRiskq8qV9m) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Invicta](https://open.spotify.com/album/5dcybGJ0n1KmH23J4a8mnr) | 4:09 | 2021-12-17 | 2022-07-29 |
 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 | 2021-12-17 |  |
 | [Breaking the Rules of Heavy Metal](https://open.spotify.com/track/5fqssXsp0MIyarjoidnV3l) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Breaking the Rules of Heavy Metal](https://open.spotify.com/album/3QCnyC286dqbTckQbGjUhV) | 4:42 | 2021-12-17 | 2022-07-25 |
@@ -309,7 +310,7 @@
 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2021-12-17 | 2024-01-14 |
 | [Hungry and Angry](https://open.spotify.com/track/57PT761NIApIzfORTkmwWU) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:36 | 2021-12-17 | 2022-06-20 |
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-07-13 | 2023-12-07 |
-| [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 | 2022-03-22 |  |
+| [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 | 2022-03-22 | 2024-02-15 |
 | [Hypnosis](https://open.spotify.com/track/5YjzcTCorDbr34bngfQIIy) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 5:35 | 2022-07-13 | 2022-08-06 |
 | [I Am Alive](https://open.spotify.com/track/3AZoyMf5d6CvZowm2sa5y4) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [I Am Alive](https://open.spotify.com/album/56wjvKdJl6Z6StD13Epcn8) | 4:34 | 2021-12-17 | 2022-07-29 |
 | [I Am the Anger](https://open.spotify.com/track/7uKK7wY13Z65M7WQAO9r46) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Burning Earth](https://open.spotify.com/album/72we6ktCYDCvbD78ffemkH) | 3:48 | 2022-03-22 | 2022-04-21 |
@@ -319,7 +320,7 @@
 | [I Don't Believe In Love \- Remastered 2003](https://open.spotify.com/track/3p9GbXMy1f9Efhdfj0QNBG) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Operation: Mindcrime \(Remastered / Expanded Edition\)](https://open.spotify.com/album/16VzTNaeadMjxI03Xi9s6n) | 4:23 | 2023-10-27 | 2023-12-07 |
 | [I Got No Friends](https://open.spotify.com/track/40uoWwjCun3axkfsQSUa8Z) | [The Last Band](https://open.spotify.com/artist/3H7IRKCzWlBJPo8Yt9LjZW) | [I Got No Friends](https://open.spotify.com/album/1bAMCC1n1lPh4X9QsIW4qn) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [I Gotta Rock \(again\)](https://open.spotify.com/track/6usbiVjaHuYUlt1HbCmgCT) | [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ) | [I Gotta Rock \(again\)](https://open.spotify.com/album/2KSjL86rES34UH0Hkesz7n) | 4:02 | 2021-12-17 | 2022-07-29 |
-| [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 | 2023-12-06 |  |
+| [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 | 2023-12-06 | 2024-02-15 |
 | [I See Red](https://open.spotify.com/track/3QLdISDnwSgbzJq8uoJWrp) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Game Over \(Japan Edition\)](https://open.spotify.com/album/3Vm87KfT0yKClf2nh2GAXS) | 3:16 | 2021-12-17 | 2022-07-28 |
 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 | 2022-08-19 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-08-19 | 2023-12-07 |
@@ -580,6 +581,7 @@
 | [Slaughter Of The Soul](https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [Slaughter Of The Soul](https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U) | 3:03 | 2022-08-19 |  |
 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2022-07-13 | 2022-11-14 |
+| [Slave to the Grind](https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:28 | 2024-01-26 |  |
 | [Slave to the Grind](https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:28 | 2022-08-19 | 2024-02-10 |
 | [Slave to the Machine](https://open.spotify.com/track/2ySsqBhctUvk8eV10zHNhv) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Slave to the Machine](https://open.spotify.com/album/7CAykEzILsn3uIOGM5NRpo) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Slaves of Babylon](https://open.spotify.com/track/2PJ9Aqx5dF2BQtJXZqbCx2) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Armageddon](https://open.spotify.com/album/4zmX2IJjCSSGzTxmURSRDM) | 4:37 | 2022-03-22 | 2022-04-18 |

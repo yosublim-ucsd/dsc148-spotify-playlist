@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-592 songs - 1 day 11 hr 16 min
+593 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 | 2023-09-01 |  |
 | [Chisholm Trail](https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Chisholm Trail](https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B) | 3:07 | 2021-12-17 | 2023-07-29 |
 | [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 | 2021-12-17 | 2022-03-19 |
+| [Cigarettes and Milk](https://open.spotify.com/track/0HzZnV2SmvysrMb6VCO3az) | [Kenny Feidler](https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q) | [Cigarettes and Milk](https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx) | 3:51 | 2024-02-09 |  |
 | [Classic Again](https://open.spotify.com/track/1BquNUtf3tpIY1XaAPrXkk) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Classic Again](https://open.spotify.com/album/3ZyAS99kwhBRExYV6GY4tN) | 3:30 | 2023-07-14 | 2023-09-19 |
 | [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 | 2023-11-10 |  |
 | [Codigo GoGo](https://open.spotify.com/track/15HixhUOdmGIQRrMTyILRb) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Codigo GoGo](https://open.spotify.com/album/2w2xvGHpgGz7OY7UgXn4Yk) | 3:10 | 2021-12-17 | 2022-03-19 |
@@ -159,7 +160,7 @@
 | [Don't It Make You Wanna Dance?](https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Josh Abbott Band and Friends, Vol\. 1](https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl) | 4:39 | 2022-07-29 | 2023-09-02 |
 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 | 2023-02-10 |  |
 | [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 | 2021-12-17 | 2022-08-18 |
-| [Dramamine Dreams](https://open.spotify.com/track/60SuPrdFMXcQW9w6vXvxS3) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Kolton Moore & the Clever Few](https://open.spotify.com/album/7mCkI0xX5X1CAToGU6ZDOE) | 4:37 | 2023-12-15 |  |
+| [Dramamine Dreams](https://open.spotify.com/track/60SuPrdFMXcQW9w6vXvxS3) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Kolton Moore & the Clever Few](https://open.spotify.com/album/7mCkI0xX5X1CAToGU6ZDOE) | 4:37 | 2023-12-15 | 2024-02-15 |
 | [Drink Straight](https://open.spotify.com/track/2FdCMLvUosqCi5ABtfNL8F) | [Colby Keeling](https://open.spotify.com/artist/2cdVR4tZs4ErwejZVTqcnL) | [Drink Straight](https://open.spotify.com/album/4kVar6beWi8Q9e4l0lv3l4) | 3:21 | 2022-05-20 | 2022-07-15 |
 | [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 | 2021-12-17 | 2022-06-25 |
 | [Drowning](https://open.spotify.com/track/30OdCACTnFCX3JeYfE6rva) | [Jay Statham](https://open.spotify.com/artist/4cf5GKzX208ouwqBzyaWu2) | [Drowning](https://open.spotify.com/album/1zkuFL6IoUYXDZDyCyjot8) | 3:13 | 2023-06-23 | 2023-09-16 |

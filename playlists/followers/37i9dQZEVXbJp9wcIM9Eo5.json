@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 62246,
+  "2024-02-15": 62256,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Honduras.",
   "name": "Top 50 - Honduras",
@@ -3075,6 +3075,24 @@
       "duration_ms": 195769,
       "name": "COSITAS",
       "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
+    },
+    {
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204815,
+      "name": "CRAZYZ",
+      "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
     },
     {
       "album": {
@@ -14107,7 +14125,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"

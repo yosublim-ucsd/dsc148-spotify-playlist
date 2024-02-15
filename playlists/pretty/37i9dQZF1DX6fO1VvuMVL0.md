@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,294 likes - 75 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,330 likes - 75 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 43 | [Walkin' Out Blues](https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:56 |
 | 44 | [The Queen's Fancy](https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 3:12 |
 | 45 | [Tangerine](https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR) | [Stan Kenton](https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb) | [Stan Kenton](https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8) | 9:13 |
-| 46 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
-| 47 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
+| 46 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
+| 47 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
 | 48 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 |
 | 49 | [Waltz Me Blues](https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 2:58 |
 | 50 | [A Handful Of Stars](https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 74 | [Deception](https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:48 |
 | 75 | [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 |
 
-Snapshot ID: `MCxlNDQ5OGViNGUzNWFlZDg0NDA3NjE5NWYyOTg5ODI3M2FlZThjZGRh`
+Snapshot ID: `MCxhNzBkYjU5OWFlMmU1MGMwZTYxMzNiNDc3YWE2MzkyZjBiODE0MGU4`

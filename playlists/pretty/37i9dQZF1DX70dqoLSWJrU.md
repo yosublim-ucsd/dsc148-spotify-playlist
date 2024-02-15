@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,804 likes - 90 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,846 likes - 90 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 28 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 |
 | 29 | [Autumn Leaves](https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 30 | [You Go To My Head](https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 4:17 |
-| 31 | [But Beautiful](https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 4:04 |
+| 31 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 |
 | 32 | [I'll Never Smile Again](https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [In The Land Of Hi\-Fi](https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x) | 2:33 |
-| 33 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 |
-| 34 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 |
-| 35 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 |
+| 33 | [But Beautiful](https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 4:04 |
+| 34 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 |
+| 35 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 |
 | 36 | [How Long Has This Been Going On?](https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:17 |
 | 37 | [You Don't Know What Love Is \- Remastered 2004](https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 4:50 |
 | 38 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 89 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 90 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 |
 
-Snapshot ID: `MCwxNjFlMDNmMjJkMTQwOTk1MmNkZTMzYTUyYjllNDljNzA1MWE2N2E4`
+Snapshot ID: `MCxmY2IzNDk1YmY3NmYxM2M5NDNiYTJlOWVkYzdkZTJlNzNiYWQ2NjY2`

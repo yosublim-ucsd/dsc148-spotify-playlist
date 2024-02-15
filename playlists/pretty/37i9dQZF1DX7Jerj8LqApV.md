@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,663,325 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,663,578 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 25 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
 | 26 | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/album/6P8VL5hDXBJODIAOBuPJV4) | 4:22 |
 | 27 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
-| 28 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 |
-| 29 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 |
+| 28 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 |
+| 29 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 |
 | 30 | [Pelikula](https://open.spotify.com/track/663vZfMh88Uo2bfTx6wiE4) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4Ufwb1ZIfcSK4GKGzfZipb) | 3:24 |
 | 31 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 |
 | 32 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
 | 40 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
 
-Snapshot ID: `MCxmODEyZjMwNzFjMDM4Nzg4MWE0MGQzODhjYTZiYTNhZDBlOTNhNGM1`
+Snapshot ID: `MCw3NzgxMTQ0NzE2OGVmNDVjNmZkZTA3NTdhODY0NTQwMGJiNWMzMTc0`

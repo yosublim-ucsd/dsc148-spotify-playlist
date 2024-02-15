@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-118 songs - 5 hr 58 min
+119 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 |  |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
+| [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 |  |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 | 2024-01-18 |
 | [Anton aus Tirol](https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj) | [Anton](https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw), [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Das Album](https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1) | 3:49 | 2023-11-14 |  |
 | [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 | 2023-07-14 | 2024-01-29 |
@@ -23,7 +24,7 @@
 | [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 |  |
 | [Bleib in der Schule](https://open.spotify.com/track/14ZdGRgEojosST783o66CX) | [Trailerpark](https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB) | [Crackstreet Boys 3 \(Bonus Tracks Version\)](https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK) | 4:25 | 2023-07-14 |  |
 | [Blockflötenunterricht](https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Pottsau](https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6) | [Blockflötenunterricht](https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8) | 2:35 | 2023-08-10 | 2023-10-22 |
-| [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 | 2023-07-14 |  |
+| [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 | 2023-07-14 | 2024-02-15 |
 | [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2023-07-14 | 2023-11-04 |
 | [Bruttosozialprodukt](https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce) | 3:02 | 2023-10-20 |  |
 | [Bumsbar](https://open.spotify.com/track/3S7AhpeKHSKMRNhMpJAOPN) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Bumsbar](https://open.spotify.com/album/4EnA5a6Tq3l6tVCM7hLPgP) | 2:30 | 2023-11-14 | 2024-01-01 |

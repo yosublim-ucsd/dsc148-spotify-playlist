@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: GREY D",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Ho\u00e0ng Th\u00f9y Linh",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "H\u1ea1 Ph\u1ecfm",
+      "url": "https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt"
+    },
+    {
+      "album": {
         "name": "id 072019",
         "url": "https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS"
       },
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 239519,
       "name": "Mi\u1ec1n \u0110\u1ea5t H\u1ee9a",
       "url": "https://open.spotify.com/track/2I9QJOvD1lamK9tHffY4La"

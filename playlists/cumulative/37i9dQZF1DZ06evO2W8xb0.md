@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-83 songs - 14 hr 19 min
+84 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Ki Oluwa So Ipade Wa](https://open.spotify.com/track/7gNdq3CRaeDz56htUR1mxa) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 19](https://open.spotify.com/album/5NCGXv1sa4xIZR0iduICFp) | 2:58 | 2021-12-28 | 2024-01-20 |
 | [Kii Seru Akata](https://open.spotify.com/track/18ML5VJvdASIIKsJ8DOco2) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Lagos State](https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V) | 17:41 | 2022-09-22 |  |
 | [Lagos State](https://open.spotify.com/track/2N6jX10BX0mTuoKuWIurw4) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Lagos State](https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V) | 20:01 | 2021-12-28 | 2023-12-20 |
-| [Lanre Badmus](https://open.spotify.com/track/6kJ0R8uuYZ1V7iZ3jDU8Qb) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Enia Lasan](https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s) | 6:01 | 2021-12-28 |  |
+| [Lanre Badmus](https://open.spotify.com/track/0Gk4m1yedgsAMrFFGe9nIV) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:01 | 2024-02-14 |  |
+| [Lanre Badmus](https://open.spotify.com/track/6kJ0R8uuYZ1V7iZ3jDU8Qb) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Enia Lasan](https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s) | 6:01 | 2021-12-28 | 2024-02-15 |
 | [Late Oke Aminu Medley \(Part 1\)](https://open.spotify.com/track/0Q2qr34BuIWPCNFkFNSc8O) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Late Oke Aminu](https://open.spotify.com/album/795ex3oCr24uJMjiUFUkA1) | 19:55 | 2023-12-23 |  |
 | [London Lawa Yi](https://open.spotify.com/track/4AlnFun5TaCZYO2GdLUfLl) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 3:01 | 2023-05-26 |  |
 | [Mo Ti Wa E](https://open.spotify.com/track/1MO0ImHhswv2NahAIw5BMC) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 13](https://open.spotify.com/album/0tSO1qWWk1hfdNhM9mBezw) | 6:18 | 2021-12-28 | 2023-02-12 |

@@ -122,7 +122,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 291647,
       "name": "Andamos Huyendo",
       "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 214000,
       "name": "Chorinho Blanco",
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 257004,
       "name": "Dana (Cha-Cha-Shag)",
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+      },
+      "artists": [
+        {
+          "name": "Cha/Co Project",
+          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384415,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/5jeIcIob6QVT4W3zvAH7hZ"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 336586,
       "name": "Paq-Man",
       "url": "https://open.spotify.com/track/3cRDVtteYW537cdLCxkoMF"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 373000,
       "name": "Remembranzas",
       "url": "https://open.spotify.com/track/0Rpah08ZeUKzXlIQgXsqMp"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 403946,
       "name": "Temporary Insanity",
       "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 157586,
       "name": "Tipitipit\u00edn",
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,070 likes - 51 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,074 likes - 51 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 41 | [La Correa](https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX) | 2:49 |
 | 42 | [Cumande](https://open.spotify.com/track/1bB1je89BTNN49hWBIUVAe) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Los Grandes Del Merengue Tipico](https://open.spotify.com/album/531oJdo6tJRay6eLKnHYge) | 4:45 |
 | 43 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
-| 44 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1 Bachata y Merengue Tipico](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
-| 45 | [Vamos Habla Ingles](https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Todos Los Hombres Son Buenos](https://open.spotify.com/album/2L5Pmmd51JQRzH2Gipbh34) | 4:35 |
+| 44 | [Vamos Habla Ingles](https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Todos Los Hombres Son Buenos](https://open.spotify.com/album/2L5Pmmd51JQRzH2Gipbh34) | 4:35 |
+| 45 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1 Bachata y Merengue Tipico](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
 | 46 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 47 | [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 |
 | 48 | [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [El Pompo](https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx) | [Ricardo Gutierrez](https://open.spotify.com/artist/4USRigxRhhSovt62npVWv1) | [Los Numero 1 Bachata y Merengue Tipico](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 5:00 |
 | 51 | [El Machetazo](https://open.spotify.com/track/63ElgJkdYbxUPOz3Pgjt0Q) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [WWW.TIPICO.COM](https://open.spotify.com/album/3Ue6WLLV8B9JU4z9lxx3P5) | 4:36 |
 
-Snapshot ID: `MCw0YWUxMzE0NWMyYzgyMWQ2OTQ0ZWQ1NDEyNjlkNDNjMjFmMjE3MzU0`
+Snapshot ID: `MCw1NjVlZDgxNDFlYzcyNGFlNjk5OGMxMTE1OGMyYjMwNjlkN2NlYzE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Changbin, Kim Chang\-Wan\(창빈, 김창완\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,275 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,333 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 43 | [Nightmare](https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:35 |
 | 44 | [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 |
 | 45 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 |
-| 46 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
-| 47 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 |
+| 46 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 |
+| 47 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 48 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 49 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
 | 50 | [I Need Somebody](https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:38 |
 
-Snapshot ID: `MCwzYzkxN2Y2M2Q0OTZkOWJlNWEyZjRhZDMwZjViOGVmNGYzZTlmOGJh`
+Snapshot ID: `MCxmZWUxYjM0YjFhODA3ODNiMTRiZDVjYjU5MTM2MTU1ODU5N2E0NThi`

@@ -4,7 +4,7 @@
 
 > When you know, you know\. Eclectic love songs with delicate lyrics that say it best.
 
-201 songs - 13 hr 10 min
+203 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 | 2022-07-01 | 2023-01-21 |
 | [Knowledge Don't Know \- Acoustic](https://open.spotify.com/track/2RoQLWlTjyqHXoJ2gATm9D) | [Love Supreme](https://open.spotify.com/artist/29KoQai9cdLvwkP97hZ4W7) | [Knowledge Don't Know \(Acoustic\)](https://open.spotify.com/album/6qS7Uec2ulmoRkmI9CLozl) | 3:35 | 2021-02-05 | 2022-07-29 |
 | [Life in the Vivid Dream](https://open.spotify.com/track/2HatzmU2P4RehpC0GYyfUQ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 1:27 | 2021-02-05 | 2022-07-28 |
+| [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 | 2024-02-14 |  |
 | [Lonely Shade of Blue](https://open.spotify.com/track/3Xy4XTx8YUspuzOAP1VteX) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Lonely Shade of Blue](https://open.spotify.com/album/3yaYIRcHa4fwXW9TROD7ew) | 4:22 | 2021-02-05 | 2022-07-29 |
 | [Love Between...](https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:35 | 2023-03-04 |  |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 | 2023-02-09 |
@@ -156,8 +157,9 @@
 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 | 2022-07-01 |  |
 | [Seeds](https://open.spotify.com/track/6rQwwRNAjzr1fCXViQC8dO) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2wx27M3XscOvGRtT4X1Yw5) | 4:44 | 2021-02-05 | 2022-06-15 |
 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 | 2022-07-01 | 2023-01-28 |
+| [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2024-02-14 |  |
 | [Slide](https://open.spotify.com/track/1Z7zIkAvas6e3tKUSqDS4Z) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 4:17 | 2023-04-05 | 2023-05-24 |
-| [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 | 2021-02-05 |  |
+| [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 | 2021-02-05 | 2024-02-15 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2023-02-08 |  |
 | [Song to Make You Fall in Love With Me](https://open.spotify.com/track/2roYKk0xtwJpooY5A3GxJR) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Practice Magic and Seek Professional Help When Necessary](https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG) | 2:41 | 2022-07-01 | 2022-07-29 |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2021-02-05 |  |
@@ -184,7 +186,7 @@
 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 | 2022-10-12 | 2022-11-13 |
 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 | 2022-07-01 | 2022-10-13 |
 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-10-12 |  |
-| [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 | 2021-02-05 |  |
+| [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 | 2021-02-05 | 2024-02-15 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-18 |  |
 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 | 2022-07-01 |  |
 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 | 2021-02-05 | 2022-07-29 |

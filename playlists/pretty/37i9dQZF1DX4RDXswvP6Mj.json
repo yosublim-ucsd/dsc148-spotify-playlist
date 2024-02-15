@@ -1,12 +1,12 @@
 {
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: DPR ARTIC, DPR IAN) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
-  "num_followers": 856676,
+  "num_followers": 856682,
   "original_name": "K-Club Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA1NTRjYjk1ZjIyMmU2NjEwZTMwNTE4M2JkNWY5OTRmMzdiZGM1",
+  "snapshot_id": "MCw5ZGRhM2M0YjM2MjM2ZTM5NmE1NWU2YjcwMGY0MGM1NDc5NDRhMjFj",
   "tracks": [
     {
       "added_at": "2024-02-06 07:56:36",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-02-06 07:56:36",
       "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+    },
+    {
+      "added_at": "2024-02-06 07:56:36",
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
-    },
-    {
-      "added_at": "2024-02-06 07:56:36",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2024-02-06 07:56:36",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-06 07:56:36",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
-    },
-    {
-      "added_at": "2024-02-06 07:56:36",
-      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197586,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2024-02-06 07:56:36",
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2024-02-06 07:56:36",

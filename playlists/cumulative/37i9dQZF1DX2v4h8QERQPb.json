@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 146912,
       "name": "Salvame",
       "url": "https://open.spotify.com/track/6qQQcxq993JpYobGGZbFkB"
@@ -4814,6 +4814,28 @@
       "duration_ms": 186666,
       "name": "Vamos a Fumar",
       "url": "https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh"
+    },
+    {
+      "album": {
+        "name": "Velorio",
+        "url": "https://open.spotify.com/album/0UwrKsl4nvixGG6RBKE0Df"
+      },
+      "artists": [
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        },
+        {
+          "name": "Chili Parker",
+          "url": "https://open.spotify.com/artist/0N0TOGZTDvGvMfpjhnrECs"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "Velorio",
+      "url": "https://open.spotify.com/track/626DP2Pk2gFMQBUlWqulvZ"
     },
     {
       "album": {

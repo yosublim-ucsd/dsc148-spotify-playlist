@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,606 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,225 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 12 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 13 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
 | 14 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
-| 15 | [El de La Codeina](https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Todo Es Diferente](https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN) | 2:08 |
-| 16 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
+| 15 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
+| 16 | [El de La Codeina](https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Todo Es Diferente](https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN) | 2:08 |
 | 17 | [Eres](https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:52 |
 | 18 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 |
 | 19 | [Morritas](https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Morritas](https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [El Chamaquito](https://open.spotify.com/track/7n6GRe3u1y7UYSXk3LUt9q) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 1:55 |
 | 50 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA5ZTc2MzFkMzU5OTQ0MDA4ODRmNWVjYzU5Nzk2OGFlOQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBlYmRlYjZkNzhlZGIxZmE2ZmU4MmQ4NmY2MjQ1N2I1ZQ==`

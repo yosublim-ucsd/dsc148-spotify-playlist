@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 903662,
+  "2024-02-15": 903608,
   "date_first_scraped": "2021-12-21",
   "description": "Game day is our favorite day of the week.",
   "name": "Tailgate Party",
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"

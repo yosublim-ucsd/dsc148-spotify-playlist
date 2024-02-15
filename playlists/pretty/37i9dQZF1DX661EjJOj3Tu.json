@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 515089,
+  "num_followers": 515120,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzFhM2UxZTk0YjYzNjUyNzQ0YmI3ZTI1MjkxNGU2MjVjYTRlYjdh",
+  "snapshot_id": "MCxlN2MzZDRmYjQ0M2JiNzkxMWUxOThhMjI3MmY5NWI1Njg1NGZiYWFl",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -219,6 +219,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Tocororo",
+        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Ay, Mam\u00e1 In\u00e9s",
+      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 193177,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Tocororo",
-        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Ay, Mam\u00e1 In\u00e9s",
-      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -651,22 +651,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "SALSWING!",
-        "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
+        "name": "The Champ",
+        "url": "https://open.spotify.com/album/5557uVa3RBihCiSlb6Lq0a"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Roberto Delgado & Orquesta",
-          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 336947,
-      "name": "Paula C.",
-      "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
+      "duration_ms": 162760,
+      "name": "Tin Tin Deo",
+      "url": "https://open.spotify.com/track/43luWh28le4rVtu7kylUnR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -687,18 +683,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Champ",
-        "url": "https://open.spotify.com/album/5557uVa3RBihCiSlb6Lq0a"
+        "name": "SALSWING!",
+        "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
         }
       ],
-      "duration_ms": 162760,
-      "name": "Tin Tin Deo",
-      "url": "https://open.spotify.com/track/43luWh28le4rVtu7kylUnR"
+      "duration_ms": 336947,
+      "name": "Paula C.",
+      "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Latin Fever",
+        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
+      },
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+        }
+      ],
+      "duration_ms": 314546,
+      "name": "Batida diferente",
+      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 209813,
       "name": "Son de la Loma",
       "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Latin Fever",
-        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
-      },
-      "artists": [
-        {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
-        }
-      ],
-      "duration_ms": 314546,
-      "name": "Batida diferente",
-      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Mambo Sangria",
-      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Latin Bit (Remastered)",
+        "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 352693,
+      "name": "Mambo Inn - Rudy Van Gelder Edition / Remastered 2007",
+      "url": "https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Latin Bit (Remastered)",
-        "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 352693,
-      "name": "Mambo Inn - Rudy Van Gelder Edition / Remastered 2007",
-      "url": "https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3"
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "At the Edge of the World",
-        "url": "https://open.spotify.com/album/5gaFRux02LGMzIf71qegbl"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
       },
       "artists": [
         {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 347803,
-      "name": "Poinciana",
-      "url": "https://open.spotify.com/track/41yKDBimCZAZiJN6u5YK2L"
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+        "name": "At the Edge of the World",
+        "url": "https://open.spotify.com/album/5gaFRux02LGMzIf71qegbl"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Manteca Theme",
-      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
+      "duration_ms": 347803,
+      "name": "Poinciana",
+      "url": "https://open.spotify.com/track/41yKDBimCZAZiJN6u5YK2L"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "La Perfecta II",
-        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 330826,
-      "name": "Tirandote Flores II",
-      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Habana",
         "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 287173,
       "name": "Afrodisia",
       "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "La Perfecta II",
+        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Tirandote Flores II",
+      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Havana Nocturne (Latin Jazz Vocal)",
         "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 271173,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 369797,
       "name": "Suave",
       "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "In Flight",
-      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
-        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Perea",
-          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
-      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Amarte",
         "url": "https://open.spotify.com/album/50p8cZ17O4af7kMBmgdF0u"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 243635,
       "name": "Amarte",
       "url": "https://open.spotify.com/track/5aoMszskF65IOspLeZnmIC"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Perea",
+          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
+        }
+      ],
+      "duration_ms": 353320,
+      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
     },
     {
       "added_at": "2024-02-09 05:00:00",

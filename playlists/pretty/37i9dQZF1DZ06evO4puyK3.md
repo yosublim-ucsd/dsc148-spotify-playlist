@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,633 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,643 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 7 | [Poesia Acústica 14](https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 14](https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN) | 14:09 |
 | 8 | [Radar](https://open.spotify.com/track/5l4GTT4tLccGiZE3KGjlg4) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/1uyLEC5sd3Mdyvu0iCvirh) | 3:02 |
 | 9 | [A Tua Voz](https://open.spotify.com/track/5anNDQXlqlziwWoH9A3d7K) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A Tua Voz](https://open.spotify.com/album/4ODkxcpECbwff1p9THx0zn) | 3:15 |
-| 10 | [AO SOM DO TUIM](https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:03 |
-| 11 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 |
+| 10 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 |
+| 11 | [AO SOM DO TUIM](https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:03 |
 | 12 | [Deve ser horrível dormir sem mim](https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Deve ser horrível dormir sem mim](https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU) | 2:35 |
 | 13 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 |
 | 14 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 48 | [MAGENTA CA$H](https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:38 |
 | 49 | [MÁSCARA \- AO VIVO](https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:38 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBmMTg3ODVjYjlmMDZmY2Y5ZDM3ZGMzODE3NmYyZjBjZA==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDAzMjc0OWIyOGIyN2E0ODVkZTQzZjYxNGFjMTk0YjVjYQ==`

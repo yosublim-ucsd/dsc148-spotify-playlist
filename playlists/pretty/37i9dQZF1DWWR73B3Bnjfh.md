@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,432 likes - 75 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,662 likes - 75 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 41 | [I Can't Get Started](https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 3:55 |
 | 42 | [I Should Care](https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Music For Lovers](https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga) | 7:42 |
 | 43 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
-| 44 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 |
+| 44 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 |
 | 45 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |
-| 46 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 |
+| 46 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 |
 | 47 | [My Foolish Heart](https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Makes It Happen](https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr) | 2:46 |
 | 48 | [When Sunny Gets Blue](https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy) | [Charlie Rouse](https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM) | [Yeah!](https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq) | 5:48 |
 | 49 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 52 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 5:16 |
 | 53 | [Black Coffee](https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:31 |
 | 54 | [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 |
-| 55 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
-| 56 | [I Had The Craziest Dream](https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Blues In Trinity](https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy) | 3:05 |
+| 55 | [I Had The Craziest Dream](https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Blues In Trinity](https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy) | 3:05 |
+| 56 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
 | 57 | [My Funny Valentine](https://open.spotify.com/track/3AeIbfjydFf46N27feEFri) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 4:06 |
 | 58 | [I See Your Face Before Me \- RVG Remaster](https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Settin' The Pace \[RVG Edition\]](https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ) | 9:56 |
 | 59 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 74 | [Round Midnight](https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6), [Rufus Reid](https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg) | [The Standard Joe](https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK) | 8:50 |
 | 75 | [When Joanna Loved Me](https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Eugene Wright](https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53), [Connie Kay](https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake) | [Falling In Love With Paul Desmond](https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc) | 5:43 |
 
-Snapshot ID: `MCwwYjE5NTk2M2ZiODVlOTA4MDk4MzgyY2ZlNjY3ZjM5M2M1OTU4Mjg0`
+Snapshot ID: `MCxlOGMxMjE1OWRiY2NiODI1NzA4Nzg2ZmRmMGZiMzI0NDc3YTNjMTlh`

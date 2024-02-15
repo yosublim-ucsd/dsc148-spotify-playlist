@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,169 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,196 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 25 | [Party Love](https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X) | 3:16 |
 | 26 | [Paz En La Tormenta](https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP) | [Ander](https://open.spotify.com/artist/5twxq8MG0kp3dWPN1UKMCm) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:45 |
 | 27 | [Conmigo](https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Conmigo](https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs) | 2:50 |
-| 28 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
-| 29 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
-| 30 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 |
+| 28 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
+| 29 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 |
+| 30 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
 | 31 | [Estoy Contento](https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Traigo Alabanza](https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c) | 4:11 |
 | 32 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
 | 33 | [Salsa del Cielo](https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero](https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 49 | [Forever Endless Love](https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragments Of Heaven](https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug) | 4:02 |
 | 50 | [Jesucristo Me Toco \- En Vivo](https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J) | [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Jesucristo Me Toco \(En Vivo\)](https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX) | 3:39 |
 
-Snapshot ID: `MCxkZjZmNTY2NGE5Yjk2MjE1NTk4OGE4ZTEwMTM2ZTRlZWQ5ZTM5ZDgx`
+Snapshot ID: `MCw3YWU5NWZiMzIxM2ZjOTRhNzkzM2M0Y2VmZDZkY2ZjNzA2MzdlZmEy`

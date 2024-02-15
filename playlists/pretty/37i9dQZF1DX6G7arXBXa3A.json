@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 394934,
+  "num_followers": 394978,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODYwMGRkNzVmMzEyZjFkYzJlOWJhZmRmYTg3YmJjMTkzNDIzYTgy",
+  "snapshot_id": "MCxjMTRiNzA0YzNkYzc3YmFhMjcwN2ZhOGIzNzA3YjcwOTFmMWI2NzY1",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "It Had to Be You (Big Band and Vocals)",
+      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Best Of The Big Bands",
         "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 203773,
       "name": "It's Been a Long, Long Time (with Harry James & His Orchestra)",
       "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 158226,
-      "name": "It Had to Be You (Big Band and Vocals)",
-      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -195,38 +195,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Big Band Classics",
-        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Four Brothers",
-      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -243,6 +211,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Big Band Classics",
+        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 520293,
       "name": "Sing, Sing, Sing",
       "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Four Brothers",
+      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Boss Brass And Woods",
         "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 461934,
       "name": "Greenhouse",
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -873,32 +873,20 @@
       "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
+      "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "I Can't Turn You Loose",
-        "url": "https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z"
+        "name": "1967",
+        "url": "https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK"
       },
       "artists": [
         {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        },
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Ronnie Cuber",
-          "url": "https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+          "name": "Maynard Ferguson Orchestra",
+          "url": "https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD"
         }
       ],
-      "duration_ms": 314973,
-      "name": "I Can't Turn You Loose",
-      "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
+      "duration_ms": 378466,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv"
     }
   ],
   "unique_name": "Big Band",

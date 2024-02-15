@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Santi Muk.",
-  "num_followers": 751922,
+  "num_followers": 751915,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjRhYWFiNGJjYzE5M2I2ZWU2NjU2Y2JmMTBmNzBjNTIyOGJlYjgx",
+  "snapshot_id": "MCxmMDM3OWE3ODk0MDAzZjljOGU2MGZlYThhMmFhMDA4MTllZjIzZjk1",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Meu Amore",
-        "url": "https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 189801,
-      "name": "Meu Amore",
-      "url": "https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "\u00c1nimo",
         "url": "https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 157880,
       "name": "\u00c1nimo",
       "url": "https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Meu Amore",
+        "url": "https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 189801,
+      "name": "Meu Amore",
+      "url": "https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+        "name": "Sue\u00f1o C\u00edtrico (El D\u00eda Despu\u00e9s)",
+        "url": "https://open.spotify.com/album/1c92815dElLk9cEKctEvEv"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+      "duration_ms": 171612,
+      "name": "Playita",
+      "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -511,22 +527,6 @@
       "duration_ms": 191615,
       "name": "Muy lejos (feat. Ivana, Hard GZ)",
       "url": "https://open.spotify.com/track/3T8nI2IJ3rbvDBunS7Br5h"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Sue\u00f1o C\u00edtrico (El D\u00eda Despu\u00e9s)",
-        "url": "https://open.spotify.com/album/1c92815dElLk9cEKctEvEv"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 171612,
-      "name": "Playita",
-      "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+        "name": "Los Domingos La Paso Solita",
+        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+      "duration_ms": 199572,
+      "name": "Los Domingos La Paso Solita",
+      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Los Domingos La Paso Solita",
-        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
         }
       ],
-      "duration_ms": 199572,
-      "name": "Los Domingos La Paso Solita",
-      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Lindo Lindo",
-        "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 223481,
-      "name": "Lindo Lindo",
-      "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Kafka",
         "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
       },
@@ -883,6 +867,38 @@
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Lindo Lindo",
+        "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 223481,
+      "name": "Lindo Lindo",
+      "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 190679,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 167997,
+      "name": "imagining things",
+      "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 173065,
       "name": "SALUT",
       "url": "https://open.spotify.com/track/5HHZ47AUq0hKL3w8hGEQAu"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 167997,
-      "name": "imagining things",
-      "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "NEFERTITI",
-        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 156198,
-      "name": "NEFERTITI",
-      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Young In California",
         "url": "https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 225717,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "NEFERTITI",
+        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 156198,
+      "name": "NEFERTITI",
+      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "D15BLO",
-        "url": "https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ"
+        "name": "El Abismo",
+        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Molinette Cinema",
+          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
         }
       ],
-      "duration_ms": 169046,
-      "name": "D15BLO",
-      "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
+      "duration_ms": 223500,
+      "name": "Estrellas en la Oscuridad",
+      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
     }
   ],
   "unique_name": "Mixto",

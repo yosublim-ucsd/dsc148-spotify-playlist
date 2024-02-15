@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,151 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,174 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 22 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 |
 | 23 | [Darkside](https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 2](https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq) | 3:49 |
 | 24 | [Blasphemy](https://open.spotify.com/track/6r7bDk4J0Okw4ezTBUQXo3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:35 |
-| 25 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 |
-| 26 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
+| 25 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
+| 26 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 |
 | 27 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 |
-| 28 | [We The People....](https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 2:52 |
+| 28 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
 | 29 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 |
 | 30 | [Massacre, The New American Dream](https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:05 |
-| 31 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
+| 31 | [We The People....](https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 2:52 |
 | 32 | [Rise](https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 3:53 |
 | 33 | [American Dreams](https://open.spotify.com/track/4ABntUukZcR0Yn6OiARnJG) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:23 |
 | 34 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Obey \(with YUNGBLUD\)](https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
 | 75 | [Economy Of Death](https://open.spotify.com/track/3CZu2KpWG3RvVn6mbIhG6J) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [War Music](https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ) | 4:01 |
 
-Snapshot ID: `MCwzYWY2MWIxMTkzYTE0OTQ0NTM5YWZjODk4YjRiODcxYTNmZDU3OTQz`
+Snapshot ID: `MCwzMzkyNDkxZjc3NDA0NTI2ZDIzZmFjMjgxOThhN2E0YTNlOTg5ODc4`

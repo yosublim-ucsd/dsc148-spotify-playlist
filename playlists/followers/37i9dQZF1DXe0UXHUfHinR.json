@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 81175,
+  "2024-02-15": 81260,
   "date_first_scraped": "2022-12-04",
   "description": "The most popular Jazz tracks in one playlist. Cover: Herbie Hancock",
   "name": "Just Jazz",
@@ -8412,6 +8412,24 @@
     },
     {
       "album": {
+        "name": "Walkman Jazz : Gerry Mulligan",
+        "url": "https://open.spotify.com/album/6S6PvrkZJLydWWV7569wLw"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292226,
+      "name": "Night Lights",
+      "url": "https://open.spotify.com/track/7jGGHvY9NqG8uSgnbqNF82"
+    },
+    {
+      "album": {
         "name": "Dimensions",
         "url": "https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8"
       },
@@ -8895,7 +8913,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 331333,
       "name": "Play Ray",
       "url": "https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY"

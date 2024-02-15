@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=SjvNJWYbT\-KTxeInoXu7kg">Ebuka Songs</a>
 
-81 songs - 7 hr 16 min
+82 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-02-02 |  |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-09-15 |  |
 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 | 2023-09-15 | 2024-02-02 |
-| [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-09-15 |  |
+| [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-09-15 | 2024-02-15 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2023-09-15 |  |
 | [Oke Mmiri \- Live](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 8:24 | 2023-09-15 | 2023-11-14 |
 | [Old Church Basement \(feat\. Dante Bowe\)](https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:42 | 2023-09-15 |  |
@@ -74,6 +74,7 @@
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 | 2023-11-03 |
 | [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 | 2023-09-15 |  |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2023-09-15 |  |
+| [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-09-15 |  |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-09-15 |  |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 | 2023-11-30 |

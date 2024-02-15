@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,510 likes - 114 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,521 likes - 114 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 45 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 |
 | 46 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 3:31 |
 | 47 | [Chemicals](https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:41 |
-| 48 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 |
+| 48 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 |
 | 49 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 |
-| 50 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 |
+| 50 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 |
 | 51 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 |
 | 52 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 |
 | 53 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 68 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 69 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
 | 70 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
-| 71 | [Change \(feat\. James Taylor\)](https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:37 |
-| 72 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
+| 71 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
+| 72 | [Change \(feat\. James Taylor\)](https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:37 |
 | 73 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx) | 3:32 |
 | 74 | [Back in the Water](https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:10 |
 | 75 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 94 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 |
 | 95 | [Closer](https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:03 |
 | 96 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
-| 97 | [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 |
-| 98 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 |
+| 97 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 |
+| 98 | [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 |
 | 99 | [Lose You Too](https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Lose You Too](https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW) | 3:06 |
 | 100 | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 |
 | 101 | [Somebody Loved](https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL) | 2:33 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Wildfire \- Alternate Version](https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 3:53 |
 | 114 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 |
 
-Snapshot ID: `MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4`
+Snapshot ID: `MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw`

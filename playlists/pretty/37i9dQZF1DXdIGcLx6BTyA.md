@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,786 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,790 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 56 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 |
 | 57 | [Hang In There Girl](https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:49 |
 | 58 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 |
-| 59 | [Time to Move On](https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Asunder](https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8) | 3:49 |
-| 60 | [Rollin' On](https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Rollin' On](https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5) | 4:09 |
+| 59 | [Rollin' On](https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Rollin' On](https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5) | 4:09 |
+| 60 | [Time to Move On](https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Asunder](https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8) | 3:49 |
 | 61 | [Heartland](https://open.spotify.com/track/6kFW0TFC9WK2Nq2Rjg2fGp) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/1UfyxIrWgV9362cakdeucO) | 3:31 |
 | 62 | [Faceplant](https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 3:41 |
 | 63 | [Wine, Beer, Whiskey \- Radio Edit](https://open.spotify.com/track/2q4ooWQ4KvVhN2oX44m2D4) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Wine, Beer, Whiskey \(Radio Edit\)](https://open.spotify.com/album/4Th8fDtKCTD6lrmK43tcqR) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 79 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 80 | [All The Trouble](https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 5:41 |
 
-Snapshot ID: `MCwyM2NlNmVhYmM3ZmFjZTliNTU4Y2E2MmUwZWQ3ODE5YjcyOWJjOTM1`
+Snapshot ID: `MCw3ZjBjNWQxNGU4YTRiNjlkNTdlYzBjNmYxNWU2ZWVjMGI5YjVkZmQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,538 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,655 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 67 | [Los Colorados \(feat\. Banda los Escamilla\)](https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80), [Banda Los Escamilla](https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:47 |
 | 68 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
 | 69 | [Recuerdos a Hernán](https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [De Michoacán al Guamuchil \(Los Mejores Sones de Jaripeo\)](https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ) | 3:03 |
-| 70 | [Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Piña \- En Vivo](https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Banda la Fregona: Primer Aniversario \(En Vivo\)](https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4) | 7:41 |
-| 71 | [El Torito de Petate \- La Fiesta del Carnaval](https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [Y Seguimos Loqueando!](https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq) | 4:04 |
+| 70 | [El Torito de Petate \- La Fiesta del Carnaval](https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [Y Seguimos Loqueando!](https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq) | 4:04 |
+| 71 | [Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Piña \- En Vivo](https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Banda la Fregona: Primer Aniversario \(En Vivo\)](https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4) | 7:41 |
 | 72 | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv) | 4:37 |
 | 73 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
 | 74 | [Volveré](https://open.spotify.com/track/6EcODHnvkLbnm8sXPqq8qT) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Volveré](https://open.spotify.com/album/0wfZvpbKHbH6ChRnZKQs0x) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCwyNjc1NGIyOGRmMmNiN2YwMzQ3NzhjMDQyOTA0ZmFmMGFhYzFiMDZi`
+Snapshot ID: `MCw3N2M4ZDMyNjc3YmRkMmMwZTY3M2YwYTE2Njc1ZDc5ODMzMTA3OTM0`

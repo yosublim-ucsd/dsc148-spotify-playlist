@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 77104,
+  "num_followers": 77132,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4",
+  "snapshot_id": "MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -627,6 +627,30 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Ananda (Speed)",
+        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 163835,
+      "name": "Portugal (Speed)",
+      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Ele Te Bota Soca Soca (Speed Up)",
         "url": "https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 128759,
       "name": "Ele Te Bota Soca Soca - Speed Up",
       "url": "https://open.spotify.com/track/548LVIsbvfP70STa240ZeI"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Ananda (Speed)",
-        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 163835,
-      "name": "Portugal (Speed)",
-      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Meus Manos Faz Dinheiro Com Site",
+        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
+      },
+      "artists": [
+        {
+          "name": "St.Borges",
+          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
+        }
+      ],
+      "duration_ms": 130485,
+      "name": "Meus Manos Faz Dinheiro Com Site",
+      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Meus Manos Faz Dinheiro Com Site",
-        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
-      },
-      "artists": [
-        {
-          "name": "St.Borges",
-          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
-        }
-      ],
-      "duration_ms": 130485,
-      "name": "Meus Manos Faz Dinheiro Com Site",
-      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -855,46 +855,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 168615,
-      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Ametista (Speed Up)",
         "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
       },
@@ -911,6 +871,22 @@
       "duration_ms": 107095,
       "name": "Ametista - Speed Up",
       "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -951,6 +927,30 @@
       "duration_ms": 156922,
       "name": "SEGREDO VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 168615,
+      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
     },
     {
       "added_at": "2023-12-27 14:18:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,745 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,731 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 43 | [Six Feet Under](https://open.spotify.com/track/21AGI7qmZgPRn21Fl9dUqZ) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Six Feet Under](https://open.spotify.com/album/2XRu7mpPmhIIrqDnRs6R1u) | 4:16 |
 | 44 | [Tear in My Heart \- MTV Unplugged Live](https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd) | 4:42 |
 | 45 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 |
-| 46 | [Talk Sick](https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:34 |
-| 47 | [Wouldn't You Rather](https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B) | 3:49 |
+| 46 | [Wouldn't You Rather](https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B) | 3:49 |
+| 47 | [Talk Sick](https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:34 |
 | 48 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 49 | [All Things Must Change](https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/24zUDdtHXjMPPFvNBK3yqg) | 3:35 |
 | 50 | [Hourglass](https://open.spotify.com/track/0FIfPxra2V11mDnQmzXtPD) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj) | 2:43 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 57 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
 | 58 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 |
 | 59 | [Enter Sandman](https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Enter Sandman](https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7) | 5:22 |
-| 60 | [Eldorado](https://open.spotify.com/track/0tBIEhBNgEAbk5H7orYmi8) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Eldorado](https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO) | 10:37 |
-| 61 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
+| 60 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
+| 61 | [Eldorado](https://open.spotify.com/track/0tBIEhBNgEAbk5H7orYmi8) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Eldorado](https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO) | 10:37 |
 | 62 | [Call Us by Her Name](https://open.spotify.com/track/3I6n7hgL6fwhsPleITTwGn) | [Ego Kill Talent](https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i) | [Call Us by Her Name](https://open.spotify.com/album/3OMKbvZnvcUqCjB31U7YzI) | 3:31 |
 | 63 | [Unstoppable](https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Unstoppable](https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc) | 3:03 |
 | 64 | [Kingdom](https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Kingdom](https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB) | 4:32 |
 | 65 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 |
 | 66 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
-| 67 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
-| 68 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
+| 67 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
+| 68 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
 | 69 | [UKUMKANI](https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Griô](https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB) | 3:04 |
 | 70 | [PARE\(SER\)](https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [DUALIDADE \#LIVREPARATODOS](https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg) | 1:54 |
 | 71 | [Carnivore](https://open.spotify.com/track/6nKI1hpBkx80u2fs57eG09) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [Dreadpool](https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Dreadpool](https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ) | 2:59 |
 
-Snapshot ID: `MCxmOTVlODE0YmQ3MzhhN2FlZGYwNWJlNDcxNDc2OGE4ZTI5MDllN2Vl`
+Snapshot ID: `MCxmYmU1MzJmZTBlNzY5M2FiZGYzODc1YzAyYzI5MDNkNGNlYWJmYTcy`

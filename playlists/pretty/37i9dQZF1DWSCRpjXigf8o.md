@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,840 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,848 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 99 | [愛を知ったんだ](https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C) | [Kuniyuki Natsu](https://open.spotify.com/artist/7bk618HWzQDdQ5XDp5OoE2) | [Kotae](https://open.spotify.com/album/4noihhGHVTfr6bXB6r7u9i) | 4:43 |
 | 100 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
 
-Snapshot ID: `MCw5NWI3ZDRlMDQ0MmRjMDVhOGViZmZhN2NjNzUzNzUyMGM0ZGY3NmU2`
+Snapshot ID: `MCwxNGUxMDhmYzQxYjY4MjNhODg3YWRmYjA4MjE2OTk5YzM0YTdkNGM0`

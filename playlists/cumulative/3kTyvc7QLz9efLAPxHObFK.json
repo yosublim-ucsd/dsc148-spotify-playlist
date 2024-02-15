@@ -18937,6 +18937,28 @@
     },
     {
       "album": {
+        "name": "STRAIGHT TO YOUR FACE",
+        "url": "https://open.spotify.com/album/7jBJVHPvgGmfxQs3BG5W0v"
+      },
+      "artists": [
+        {
+          "name": "Crypton",
+          "url": "https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2"
+        },
+        {
+          "name": "X-Pander",
+          "url": "https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "STRAIGHT TO YOUR FACE",
+      "url": "https://open.spotify.com/track/5AlV3eQBdoXAg1dVzdUu15"
+    },
+    {
+      "album": {
         "name": "Stuck (Inside This Place)",
         "url": "https://open.spotify.com/album/5a93fhzm9DDewyNYDpeqRp"
       },

@@ -4,7 +4,7 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-259 songs - 16 hr 33 min
+261 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Gooey](https://open.spotify.com/track/0fGz0y1lB8wKeBVc1UWsMA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Salon Music](https://open.spotify.com/album/5IDlk0aG41EzVL9Jn1bncR) | 4:49 | 2022-08-26 | 2022-11-13 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2022-05-27 |  |
 | [Gooey](https://open.spotify.com/track/1oSuscBj84xVHVhFZOnMXF) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Gooey](https://open.spotify.com/album/6DpPctloXGrodIm8fZg7hn) | 4:49 | 2019-05-26\* | 2022-07-29 |
+| [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2024-02-14 |  |
 | [Grow Old with Me](https://open.spotify.com/track/3B61es35RhmjeZgFuG6VV2) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 3:02 | 2019-05-26\* | 2020-07-24 |
 | [Guru](https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL) | 3:24 | 2023-07-28 |  |
 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 | 2022-05-27 | 2023-10-01 |
@@ -117,6 +118,7 @@
 | [I Found](https://open.spotify.com/track/4lRuRtvftdSSUA7hLP7zAr) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Pilot EP](https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB) | 4:34 | 2019-05-26\* | 2023-01-06 |
 | [I Love the Rain the Most](https://open.spotify.com/track/0j9KNQ9pDEQejEm3wdgiAr) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/7jCI1V11SNSc6wjEEG2NlG) | 4:38 | 2019-05-26\* | 2022-07-29 |
 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 | 2022-05-27 | 2022-08-27 |
+| [I Love You](https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 5:05 | 2024-02-14 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2022-05-27 |  |
 | [I Love You So](https://open.spotify.com/track/6nEho1Nl7M9bTvDwAqMqFT) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Overpass Graffiti \- Pop Bangers](https://open.spotify.com/album/2ZaYPL7c2nf3JgnMInJJb5) | 2:40 | 2022-08-26 | 2022-11-14 |
 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 | 2021-12-10 | 2022-07-29 |
@@ -228,7 +230,7 @@
 | [Taking You There](https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:09 | 2019-05-26\* | 2022-07-29 |
 | [Taking You There](https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:09 | 2022-05-27 | 2023-07-29 |
 | [Tell Me Why](https://open.spotify.com/track/557NtdTqsqc8Ai88HtHOt0) | [Nine Pound Shadow](https://open.spotify.com/artist/6MvmYzMqIYBs3lOY9G5myH) | [Nine Pound Shadow \- EP](https://open.spotify.com/album/0zOxy0QIvFV9G0zpP3HCqS) | 3:32 | 2019-05-26\* | 2020-02-13 |
-| [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 | 2021-12-10 |  |
+| [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 | 2021-12-10 | 2024-02-15 |
 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 | 2019-05-26\* | 2019-10-18 |
 | [The Enemy](https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:46 | 2022-05-27 |  |
 | [The Enemy](https://open.spotify.com/track/3gVEqqF34m2bphq6qo7qyW) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2lctdjQcxDUo9Q93GScAKC) | 4:46 | 2019-05-26\* | 2022-07-29 |
@@ -254,7 +256,7 @@
 | [Want You Like That](https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:54 | 2022-08-26 |  |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-26 | 2022-09-22 |
 | [We All Die Trying to Get It Right](https://open.spotify.com/track/7cxg6WIDYoXza9QAOPDRpT) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 4:07 | 2019-05-26\* | 2021-12-10 |
-| [Weekends](https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Weekends](https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4) | 3:10 | 2019-05-26\* |  |
+| [Weekends](https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Weekends](https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4) | 3:10 | 2019-05-26\* | 2024-02-15 |
 | [Westside](https://open.spotify.com/track/5BtyHl1eRqip2PkHhFYzHG) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:30 | 2019-05-26\* | 2022-02-26 |
 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love \(feat\. MUNA\)](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 | 2024-01-29 |  |
 | [Wildflower](https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 3:39 | 2023-07-28 |  |

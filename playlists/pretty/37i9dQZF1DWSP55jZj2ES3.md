@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,015 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,028 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 16 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
 | 17 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 |
 | 18 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
-| 19 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
-| 20 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
+| 19 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
+| 20 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 21 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
 | 22 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 |
 | 23 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 63 | [Soaked](https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 4:00 |
 | 64 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |
 | 65 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 |
-| 66 | [Sea Sick](https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/1XQYd61d9bQA3ba5xUrhKB) | 2:10 |
-| 67 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
+| 66 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
+| 67 | [Sea Sick](https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/1XQYd61d9bQA3ba5xUrhKB) | 2:10 |
 | 68 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 69 | [I Was Sad Last Night I'm OK Now](https://open.spotify.com/track/0gEcmyKlIUoi3sHTFVO1bE) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:10 |
 | 70 | [Everything Is Just a Mess](https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK) | 4:43 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 96 | [Who Am I But Someone](https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:42 |
 | 97 | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Moe Moks](https://open.spotify.com/artist/7DkftpjbqLhwjlCUe567y9) | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL) | 3:37 |
 | 98 | [Tangerine \- Channel Tres Remix](https://open.spotify.com/track/00la3AttWg75aLlKhJT8Tj) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tangerine \(Channel Tres Remix\)](https://open.spotify.com/album/4uznz11iOtwglAsrjKEqwy) | 4:54 |
-| 99 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 |
-| 100 | [Movie Screen](https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tommy Gun](https://open.spotify.com/album/62A2Ye3DprnbewfUJyPHuh) | 3:03 |
+| 99 | [Movie Screen](https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tommy Gun](https://open.spotify.com/album/62A2Ye3DprnbewfUJyPHuh) | 3:03 |
+| 100 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 |
 
-Snapshot ID: `MCxhMTY5ZGI0MTg1NDBkYzc2MzRkOGUxY2ZjYWRkMGMzODc1N2M4YzJj`
+Snapshot ID: `MCw0NjE5MjRkNDljZDViZTZhZmVmMjYyODkzOWIzODBkMWM2NGVjYTBm`

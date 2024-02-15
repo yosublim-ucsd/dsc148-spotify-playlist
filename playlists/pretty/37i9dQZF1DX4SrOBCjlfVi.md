@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Latto, NLE Choppa, Kid Cudi and more\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,533 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,679 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 33 | [Obviously](https://open.spotify.com/track/5wruY6p3CCjSuR1OCOKrp1) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Obviously](https://open.spotify.com/album/3FUo0QMZ5BPtvVSOhlvQbj) | 2:01 |
 | 34 | [FUKIT](https://open.spotify.com/track/3ljyv45P8y05ZNKxSuPwbs) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [FUKIT](https://open.spotify.com/album/1jntZG6MhPg0XdEftZ9wBv) | 2:34 |
 | 35 | [Chain Smokin](https://open.spotify.com/track/13gGKDBFKilZ6lFFjYhUmK) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Chain Smokin](https://open.spotify.com/album/7xM4CGrLZPwLVRkxkc5RVC) | 2:07 |
-| 36 | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/track/3rWICRRitlOpjXb0ffuFAW) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [Blake Wisner](https://open.spotify.com/artist/0Qu5JQkxc0CYdfpdqtH2XB) | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/album/5zX0ZxHbAIHAMAt5x6Wtjg) | 3:26 |
+| 36 | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/track/3rWICRRitlOpjXb0ffuFAW) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [Blake Wisner](https://open.spotify.com/artist/51H6IpYHskwmBEr6SGyWkh) | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/album/5zX0ZxHbAIHAMAt5x6Wtjg) | 3:26 |
 | 37 | [Dinner Date](https://open.spotify.com/track/07tXL8iKePwMoR1Np5xJNV) | [Aflacko](https://open.spotify.com/artist/4xGIy4hVil8DTVPnu5Auzs) | [Dinner Date](https://open.spotify.com/album/26LZ19vFDRDBGJ32QSSux5) | 1:19 |
 | 38 | [Slidin](https://open.spotify.com/track/3Q1dEeQ09RacHoLHjG3bsv) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/6PeFIKJlGlsxLqPEKVI1gK) | 2:15 |
 | 39 | [FLY TRAP](https://open.spotify.com/track/4opznVLpxrmFrklI8Xdu4a) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [FLY TRAP](https://open.spotify.com/album/6eQqqlPH9tkYGLbCCMCLUB) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Where U At?](https://open.spotify.com/track/35nvXTmfwPp9ZiwTAzJ2aE) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Where U At?](https://open.spotify.com/album/7rxvWusLu1IGj4rjjJ7rqz) | 2:32 |
 | 50 | [Victim](https://open.spotify.com/track/7Ane84O2SMMQm4XEyurC3l) | [HiTek](https://open.spotify.com/artist/0M5DHvY0REak4QezudKswW), [sgpwes](https://open.spotify.com/artist/7gUzdJiUbJWKf81FsUWes3) | [Victim](https://open.spotify.com/album/2g7ylYZGFUTdefQXq9M15R) | 2:02 |
 
-Snapshot ID: `MCwyYWExOTdiMjRiY2YxN2RmOTk3ZjBhNzg5NDljM2Y1MWU1MmYzZDlh`
+Snapshot ID: `MCxkOGY4NTcxMGJmYWYzMzAzNTA0MDFhOTIzM2E1Y2RmNzE5ODUwNjI1`

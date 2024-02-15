@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sarah Julia | Visual Artist: Bailey Elder",
-  "num_followers": 61301,
+  "num_followers": 61332,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzMzMmRkZWRkNzg4OTBkZmFmZWM0NGZkNTc4ZGMxOTlhZjk0ZjM5",
+  "snapshot_id": "MCxiNmU2ZTE4YWZkNzNlNzJhYzdhNDhjMTI0YjI4NzNhY2ViZjg4MDM1",
   "tracks": [
     {
       "added_at": "2024-02-07 05:00:00",
@@ -25,20 +25,68 @@
       "url": "https://open.spotify.com/track/5KOPS6Q50l66RgQR8MjSh2"
     },
     {
-      "added_at": "2024-02-07 05:00:00",
+      "added_at": "2024-02-14 05:00:00",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/6QRqgdMGCxABXCTFmjDlSg"
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/0DBqjwSgBd1YyTnyH60RX0"
       },
       "artists": [
         {
-          "name": "h. pruz",
-          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
         }
       ],
-      "duration_ms": 333333,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/73hivFjCugq75ohbZiPlob"
+      "duration_ms": 191460,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/2kzM7UmYRNDOrZnnwIHOvn"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Stay at Home",
+        "url": "https://open.spotify.com/album/5YgLsT6HRQtoxkyDax8r7w"
+      },
+      "artists": [
+        {
+          "name": "Laney Jones",
+          "url": "https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Stay at Home",
+      "url": "https://open.spotify.com/track/6vlk3gFyQgB9Oy4f4FPykh"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Ryman",
+        "url": "https://open.spotify.com/album/0M7bi0aVRlpQN8BmhWbYSm"
+      },
+      "artists": [
+        {
+          "name": "Jack Hartman",
+          "url": "https://open.spotify.com/artist/1ExL1FiD1BQjtaMK0LFA1l"
+        }
+      ],
+      "duration_ms": 264009,
+      "name": "Ryman",
+      "url": "https://open.spotify.com/track/6h1vlJFFNJ6hodC5kWq3Ki"
     },
     {
       "added_at": "2024-02-07 05:00:00",
@@ -73,20 +121,196 @@
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
-      "added_at": "2024-02-09 19:40:09",
+      "added_at": "2024-02-07 05:00:00",
       "album": {
-        "name": "2 days into college",
-        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/6QRqgdMGCxABXCTFmjDlSg"
       },
       "artists": [
         {
-          "name": "Aimee Carty",
-          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
+          "name": "h. pruz",
+          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
         }
       ],
-      "duration_ms": 168113,
-      "name": "2 days into college",
-      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
+      "duration_ms": 333333,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/73hivFjCugq75ohbZiPlob"
+    },
+    {
+      "added_at": "2024-02-07 05:00:00",
+      "album": {
+        "name": "Made To Love Someone",
+        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Made To Love Someone",
+      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Clean Cut",
+        "url": "https://open.spotify.com/album/5MTtsV1XLkI3lxFn1M4aWc"
+      },
+      "artists": [
+        {
+          "name": "Charm of Finches",
+          "url": "https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "Clean Cut",
+      "url": "https://open.spotify.com/track/2exzpcAhjJmnw4clYVLmkp"
+    },
+    {
+      "added_at": "2024-01-11 21:07:41",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sonnier",
+          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Hand Me Downs",
+        "url": "https://open.spotify.com/album/47i5TjzJsUUGgs8bzvQ1jf"
+      },
+      "artists": [
+        {
+          "name": "Laurs",
+          "url": "https://open.spotify.com/artist/7I2CFnjp7Xh3iOKUmbakbk"
+        }
+      ],
+      "duration_ms": 286564,
+      "name": "Hand Me Downs",
+      "url": "https://open.spotify.com/track/2YCTEg3wqbMyiug6vg2uCJ"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Cowboy Therapy",
+        "url": "https://open.spotify.com/album/2WsIaxQzWzaFXvVWL067Nm"
+      },
+      "artists": [
+        {
+          "name": "Eli Josef",
+          "url": "https://open.spotify.com/artist/4y3uhZt4T3XHGm8f8wMqqW"
+        }
+      ],
+      "duration_ms": 258765,
+      "name": "Cowboy Therapy",
+      "url": "https://open.spotify.com/track/26geVc95jrEBqZE2JapyK2"
+    },
+    {
+      "added_at": "2024-01-10 17:00:00",
+      "album": {
+        "name": "violet",
+        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
+      },
+      "artists": [
+        {
+          "name": "Marianne Ross",
+          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
+        }
+      ],
+      "duration_ms": 110322,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Cohabitate",
+        "url": "https://open.spotify.com/album/0MVRUiftHfSKf7GXX4Cguj"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 135011,
+      "name": "Cohabitate",
+      "url": "https://open.spotify.com/track/2AKUGWUjald89AcWpRjwIZ"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Bike Dream",
+        "url": "https://open.spotify.com/album/3iKPE0lxcCIBfNACrZy04L"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "duration_ms": 193409,
+      "name": "Bike Dream",
+      "url": "https://open.spotify.com/track/0pg1rByVA1R5YFMMwCglVZ"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Residual Bliss",
+        "url": "https://open.spotify.com/album/6jwDQCYituamxr6cb6Mgpq"
+      },
+      "artists": [
+        {
+          "name": "Gildor",
+          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
+        }
+      ],
+      "duration_ms": 291736,
+      "name": "Residual Bliss",
+      "url": "https://open.spotify.com/track/76vlleSRtF35kWczmAeETH"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Where Did I Go Wrong",
+        "url": "https://open.spotify.com/album/3zBmaB2rxw5YjX2kqUsgTa"
+      },
+      "artists": [
+        {
+          "name": "Crowe Boys",
+          "url": "https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Where Did I Go Wrong",
+      "url": "https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "hopeless romANTICS",
+        "url": "https://open.spotify.com/album/1673r3Nk2Hxc7sO3PR1ct7"
+      },
+      "artists": [
+        {
+          "name": "Bonner Black",
+          "url": "https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz"
+        }
+      ],
+      "duration_ms": 193387,
+      "name": "What Goes Up",
+      "url": "https://open.spotify.com/track/3uElX5i7TvAGQqY5nmI8ZR"
     },
     {
       "added_at": "2024-02-07 05:00:00",
@@ -137,52 +361,20 @@
       "url": "https://open.spotify.com/track/6W4GHSjOU6POEQMFJaCpv3"
     },
     {
-      "added_at": "2024-01-11 21:07:41",
+      "added_at": "2024-02-09 19:40:09",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7"
+        "name": "2 days into college",
+        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
       },
       "artists": [
         {
-          "name": "Cameron Sonnier",
-          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
         }
       ],
-      "duration_ms": 292786,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Made To Love Someone",
-        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Made To Love Someone",
-      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "violet",
-        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
-      },
-      "artists": [
-        {
-          "name": "Marianne Ross",
-          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
-        }
-      ],
-      "duration_ms": 110322,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
+      "duration_ms": 168113,
+      "name": "2 days into college",
+      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
     },
     {
       "added_at": "2024-02-07 05:00:00",
@@ -1435,214 +1627,6 @@
       "duration_ms": 296000,
       "name": "Suburban Outlaw",
       "url": "https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Dorothy Painted Portraits",
-        "url": "https://open.spotify.com/album/1pwZG3h3HUBMXpacg7MhIg"
-      },
-      "artists": [
-        {
-          "name": "Adam Newling",
-          "url": "https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT"
-        }
-      ],
-      "duration_ms": 267722,
-      "name": "Us and Them",
-      "url": "https://open.spotify.com/track/3gHSvfpYmjkC01MzxPZaSv"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Song For Franz",
-        "url": "https://open.spotify.com/album/1xKascFBIt5fwizJDm2Rh7"
-      },
-      "artists": [
-        {
-          "name": "Alex Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Song For Franz",
-      "url": "https://open.spotify.com/track/5K9nvLz7Y3mgxLNPJuWcjR"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Greenwood Vol. 1",
-        "url": "https://open.spotify.com/album/2tmirmoeRxF9yzCIwnM2mo"
-      },
-      "artists": [
-        {
-          "name": "Neal Carlson",
-          "url": "https://open.spotify.com/artist/3L3ntzkKdkWdpV7HUel3oz"
-        }
-      ],
-      "duration_ms": 166292,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/3HNBAtBajTcOduUHRwAqXV"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "bathed in grey",
-        "url": "https://open.spotify.com/album/0AKymMMobavQ0RurTa900W"
-      },
-      "artists": [
-        {
-          "name": "Them & I",
-          "url": "https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "bathed in grey",
-      "url": "https://open.spotify.com/track/63UbSUn8llR4OUHQ5Cqh2e"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Albion",
-        "url": "https://open.spotify.com/album/3WiW1suHzsswq7fLWoN5z4"
-      },
-      "artists": [
-        {
-          "name": "Harp",
-          "url": "https://open.spotify.com/artist/3y80fftQVDjecHmMRfwgOU"
-        }
-      ],
-      "duration_ms": 225025,
-      "name": "Silver Wings",
-      "url": "https://open.spotify.com/track/70YGCrjXwxX0nvSHJVZ16f"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Tail Lights",
-        "url": "https://open.spotify.com/album/47Bk3OlqM240UPErPXbefx"
-      },
-      "artists": [
-        {
-          "name": "Jonny Stanback",
-          "url": "https://open.spotify.com/artist/30Zr45NzyCJSBqb30thWsL"
-        }
-      ],
-      "duration_ms": 145894,
-      "name": "Tail Lights",
-      "url": "https://open.spotify.com/track/1xEen2gWbNu4U5mEVso4Z2"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Annie Oakley",
-        "url": "https://open.spotify.com/album/2uZeQXAeYqA2VEH4LLsKVF"
-      },
-      "artists": [
-        {
-          "name": "Lizzie No",
-          "url": "https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Annie Oakley",
-      "url": "https://open.spotify.com/track/59W6ESrtK418dVdqrC51si"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Snow in the Desert",
-        "url": "https://open.spotify.com/album/2zjBRvcmaYdNzbe4LQle1L"
-      },
-      "artists": [
-        {
-          "name": "Virginia Man",
-          "url": "https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt"
-        }
-      ],
-      "duration_ms": 324487,
-      "name": "Snow in the Desert",
-      "url": "https://open.spotify.com/track/2Wq1irGC7IdIXsODW3HBR4"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/1BH4Hke6l5OiR11yLM6yBg"
-      },
-      "artists": [
-        {
-          "name": "Sammy Brue",
-          "url": "https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk"
-        }
-      ],
-      "duration_ms": 165484,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/3rP3035mM8fkdDQzIrzeZP"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Idalou",
-        "url": "https://open.spotify.com/album/0RAxTYKhyNFYb9zFX0qfWl"
-      },
-      "artists": [
-        {
-          "name": "Andrew Montana",
-          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
-        }
-      ],
-      "duration_ms": 139030,
-      "name": "Idalou",
-      "url": "https://open.spotify.com/track/2b7p4fj53Y16XSBcwMKXkQ"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Tyler's Track",
-        "url": "https://open.spotify.com/album/7GklJMYbIEy6oTT72ca0S5"
-      },
-      "artists": [
-        {
-          "name": "Meyru",
-          "url": "https://open.spotify.com/artist/4keWylzqUIJiaFfq6Ox0nB"
-        }
-      ],
-      "duration_ms": 247853,
-      "name": "Tyler's Track",
-      "url": "https://open.spotify.com/track/56EhVMU57rYS6SmDn79V4J"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Where Have You Been?",
-        "url": "https://open.spotify.com/album/0IwOuJLDV4VMnmIPru6RCA"
-      },
-      "artists": [
-        {
-          "name": "Flora Rose",
-          "url": "https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL"
-        }
-      ],
-      "duration_ms": 234352,
-      "name": "Where Have You Been?",
-      "url": "https://open.spotify.com/track/7zOpXJUMnB6EZah4FBTlhJ"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "To Be Myself Again",
-        "url": "https://open.spotify.com/album/27OGLZ1R4xoijW6CwkQHnR"
-      },
-      "artists": [
-        {
-          "name": "Alaina Ray",
-          "url": "https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr"
-        }
-      ],
-      "duration_ms": 213357,
-      "name": "To Be Myself Again",
-      "url": "https://open.spotify.com/track/4AADiAUJhMYC0BC7reh12Z"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

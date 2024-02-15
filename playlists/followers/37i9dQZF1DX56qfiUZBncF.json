@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 375983,
+  "2024-02-15": 376009,
   "date_first_scraped": "2020-11-04",
   "description": "Let these innovative tracks spark your creativity and inspiration.",
   "name": "Creativity Boost",
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 240108,
       "name": "Fallss",
       "url": "https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i"
@@ -3777,6 +3777,32 @@
       "duration_ms": 205002,
       "name": "Run Run - Japanese Wallpaper Remix",
       "url": "https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX"
+    },
+    {
+      "album": {
+        "name": "Run Run (Japanese Wallpaper Remix)",
+        "url": "https://open.spotify.com/album/5VbSNC54vuNCtZe6kbRnT8"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        },
+        {
+          "name": "Samuraii",
+          "url": "https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO"
+        },
+        {
+          "name": "Japanese Wallpaper",
+          "url": "https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205002,
+      "name": "Run Run - Japanese Wallpaper Remix",
+      "url": "https://open.spotify.com/track/36W4YKPKN1K5vabKJJXGVr"
     },
     {
       "album": {

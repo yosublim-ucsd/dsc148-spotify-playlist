@@ -1,13 +1,61 @@
 {
   "description": "all over the place in a good way. cover: declan mckenna",
-  "num_followers": 1135861,
+  "num_followers": 1135981,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzJkOGNkZDg2MGFiY2Q1N2E2ODdkYzc3YzRlZjUxMDQwMjMxNmRi",
+  "snapshot_id": "MCw5OWU1MTFjYmEyNzQ1ODQ0NGE3NmU4ODQzMDAyMDZkOGQzNjNlOTEw",
   "tracks": [
+    {
+      "added_at": "2024-02-14 16:29:34",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+    },
+    {
+      "added_at": "2024-02-14 16:02:37",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
+    },
+    {
+      "added_at": "2024-02-14 16:29:34",
+      "album": {
+        "name": "Waiting In Vain (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 252573,
+      "name": "Waiting in Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
     {
       "added_at": "2024-01-12 03:47:20",
       "album": {
@@ -41,6 +89,54 @@
       "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
     },
     {
+      "added_at": "2024-02-14 18:41:08",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "added_at": "2024-01-12 03:47:20",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+    },
+    {
+      "added_at": "2024-02-15 01:00:08",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
       "added_at": "2024-02-08 17:37:34",
       "album": {
         "name": "Deeper Well",
@@ -57,7 +153,7 @@
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "What Happened to the Beach?",
         "url": "https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg"
@@ -68,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
         }
       ],
-      "duration_ms": 165908,
-      "name": "I Write The News",
-      "url": "https://open.spotify.com/track/24rzn9kTpr0G4keKLkzofw"
+      "duration_ms": 201197,
+      "name": "Mulholland's Dinner and Wine",
+      "url": "https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -305,6 +401,22 @@
       "url": "https://open.spotify.com/track/2Dv7yzt7fk6PIj2PRTLx8e"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "What Happened to the Beach?",
+        "url": "https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 165908,
+      "name": "I Write The News",
+      "url": "https://open.spotify.com/track/24rzn9kTpr0G4keKLkzofw"
+    },
+    {
       "added_at": "2024-01-12 03:47:20",
       "album": {
         "name": "Wish You Were Dead",
@@ -335,22 +447,6 @@
       "duration_ms": 164483,
       "name": "Leave Her",
       "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "What Happened to the Beach?",
-        "url": "https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 201197,
-      "name": "Mulholland's Dinner and Wine",
-      "url": "https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -385,6 +481,22 @@
       "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
+      "added_at": "2024-02-15 01:00:08",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 208112,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M"
+    },
+    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "the fundamentals of disappearing",
@@ -399,34 +511,6 @@
       "duration_ms": 156035,
       "name": "noisey",
       "url": "https://open.spotify.com/track/6JSJfisYVSyQZOEFnWOoXR"
-    },
-    {
-      "added_at": "2024-02-04 23:59:58",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
     },
     {
       "added_at": "2024-02-02 00:59:27",
@@ -627,22 +711,6 @@
       "duration_ms": 183320,
       "name": "Good Stuff",
       "url": "https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt"
-    },
-    {
-      "added_at": "2024-01-12 03:47:20",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1167,22 +1235,6 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2023-08-25 04:48:26",
-      "album": {
-        "name": "I Love My Girl, She's My Boy",
-        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 179144,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM"
     },
     {
       "added_at": "2024-01-10 17:00:00",
@@ -1885,22 +1937,6 @@
       "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Mozart in My Mind",
-        "url": "https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 186050,
-      "name": "Mozart in My Mind",
-      "url": "https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8"
-    },
-    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "the star factory",
@@ -1951,22 +1987,6 @@
       "duration_ms": 218750,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "After Ours",
-        "url": "https://open.spotify.com/album/0Z7FOudBt3SgchfQyg5Dui"
-      },
-      "artists": [
-        {
-          "name": "After Ours",
-          "url": "https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7"
-        }
-      ],
-      "duration_ms": 219147,
-      "name": "Missed the Mark",
-      "url": "https://open.spotify.com/track/2kAoOf0Wlzo9KqQJ8gEJNx"
     },
     {
       "added_at": "2023-10-13 04:00:00",

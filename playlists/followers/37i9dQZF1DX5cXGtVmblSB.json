@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 38779,
+  "2024-02-15": 38834,
   "date_first_scraped": "2022-05-30",
   "description": "Soft music to calm down cats, kittens and their humans.",
   "name": "Cat Calming Music",
@@ -717,7 +717,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 145631,
       "name": "Catnap",
       "url": "https://open.spotify.com/track/3snvN0sHnVPxVdPBBntmGu"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 203000,
       "name": "Den f\u00f6rsta sn\u00f6n",
       "url": "https://open.spotify.com/track/64yTTGTPOZos3UEouvO6tp"
@@ -1236,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "Harp For The Forest",
+        "url": "https://open.spotify.com/album/3fbbRbIaWZTH3WSIUUMG7o"
+      },
+      "artists": [
+        {
+          "name": "Nerea Vall\u00e9e",
+          "url": "https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Harp For The Forest",
+      "url": "https://open.spotify.com/track/3utL3Ht0qABfrg6cwRMEMf"
+    },
+    {
+      "album": {
         "name": "Highlands",
         "url": "https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC"
       },
@@ -1305,6 +1323,24 @@
       "duration_ms": 154000,
       "name": "Inner Smile 528 Hz",
       "url": "https://open.spotify.com/track/5eYVmhnvUiRdMAlgXox1U6"
+    },
+    {
+      "album": {
+        "name": "Joyous Stillness",
+        "url": "https://open.spotify.com/album/413mBfYAhYDSHxGgdAKdxs"
+      },
+      "artists": [
+        {
+          "name": "Edwin Maled",
+          "url": "https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191787,
+      "name": "Joyous Stillness",
+      "url": "https://open.spotify.com/track/0FZfRVSaZycr9cRCF8gUFi"
     },
     {
       "album": {
@@ -1452,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Mind Oasis 432Hz",
+        "url": "https://open.spotify.com/album/6T3ogTlIcadCltCM3XbznV"
+      },
+      "artists": [
+        {
+          "name": "Inner Fields",
+          "url": "https://open.spotify.com/artist/59lPrWSxyDbKksxOkFNRwH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "Mind Oasis 432Hz",
+      "url": "https://open.spotify.com/track/3JMQCr6GrFQJbYZ7bAhEsL"
+    },
+    {
+      "album": {
         "name": "396 Hz Mindful Movement",
         "url": "https://open.spotify.com/album/7jmBp2Gm9ctKiKiBkgwDOv"
       },
@@ -1571,7 +1625,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 198923,
       "name": "Naname 528 Hz",
       "url": "https://open.spotify.com/track/2maqfMMJ5PBFwolrqMwmK7"
@@ -2449,7 +2503,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 300000,
       "name": "Tuning Out Tuning In",
       "url": "https://open.spotify.com/track/6Dj1zbS4S1VSaL9u5aInEf"
@@ -2507,6 +2561,42 @@
       "duration_ms": 182361,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "album": {
+        "name": "Welfare",
+        "url": "https://open.spotify.com/album/5VCu4xY2prTZ6XDArvfw73"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Welfare",
+      "url": "https://open.spotify.com/track/5Bli3DZHL98wqcdVICgpuA"
+    },
+    {
+      "album": {
+        "name": "World of a Heartbeat",
+        "url": "https://open.spotify.com/album/7rBBFwmvUjiLo1CW1FKO2K"
+      },
+      "artists": [
+        {
+          "name": "Posonium",
+          "url": "https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158202,
+      "name": "World of a Heartbeat",
+      "url": "https://open.spotify.com/track/3p2tDKPJTQmH2hvu4vGGoO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5cXGtVmblSB"

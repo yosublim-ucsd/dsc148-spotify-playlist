@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,798 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,806 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [Great Are You Lord \- Live](https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 8:46 |
 | 50 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Passion: White Flag](https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e) | 5:50 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA3Nzk1Y2I3MTBjZmMwMGYzNGI1YWM0NDQ5NjE1YTRiOA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAyMTc5ZDA3YzM3YWM2YzE2ODczYWZkMWY2NjFiMDM5YQ==`

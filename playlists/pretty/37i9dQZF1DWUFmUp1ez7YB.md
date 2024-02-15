@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,702 likes - 90 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,101 likes - 90 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 87 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
 | 88 | [La Cartera](https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Junior Gonzalez](https://open.spotify.com/artist/7cRTfuZ5VJhWfVjuN3XGyY) | [Salsa](https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c) | 6:26 |
 | 89 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
-| 90 | [Dime Por Qué](https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 3:34 |
+| 90 | [Lady Laura](https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:00 |
 
-Snapshot ID: `MCw4NmZiMWQ5MDYyNzgwMmUyMjIxOWIxYjNlMDIwY2ZjZDA1ZmI1MmJl`
+Snapshot ID: `MCxhNjQ4ODNlNzgyMGM3NDBjMzNmYmQ0NWIzMmY1OGU1ZGQ1NWUxMzNm`

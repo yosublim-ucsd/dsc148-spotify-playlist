@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,803 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,839 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 42 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 43 | [Y Comó Te Olvido](https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 3:46 |
 | 44 | [No Va A Ser Tan Fácil](https://open.spotify.com/track/3tanCShg7Z7voQv25DaKFO) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 3:12 |
-| 45 | [No Vales Un Peso](https://open.spotify.com/track/6p9m5qQNY8thHEkSZvnTD4) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:32 |
-| 46 | [El Anticuado](https://open.spotify.com/track/3GlryytO0TPyxZ6YGESk5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 4:04 |
+| 45 | [El Anticuado](https://open.spotify.com/track/3GlryytO0TPyxZ6YGESk5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 4:04 |
+| 46 | [No Vales Un Peso](https://open.spotify.com/track/6p9m5qQNY8thHEkSZvnTD4) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:32 |
 | 47 | [Contigo Safo](https://open.spotify.com/track/63DlXPydg4aZqNQ4emXle1) | [La Estructura](https://open.spotify.com/artist/3NKAZv5HQxhNZfDl3VIQpF) | [Un Hombre Nuevo](https://open.spotify.com/album/3bIJjK2zPTcPpi13Gnvs4Z) | 2:20 |
 | 48 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/5tT8TLBdLCdez0matmJWAz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 2:59 |
 | 49 | [Creí](https://open.spotify.com/track/4x2bs0JLkuluDZw64K7l2K) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 66 | [Tenemos Algo En Común](https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 3:02 |
 | 67 | [Pudo](https://open.spotify.com/track/1ISmBDtScU204NHserbuHP) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3NgO1pIxZR6jIR1pQSp6Yo) | 3:19 |
 | 68 | [Con Ganas](https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Con Ganas](https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep) | 2:35 |
-| 69 | [Pero Que Te Esta Pasando Corazón](https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Queriéndote Más](https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2) | 3:14 |
-| 70 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
+| 69 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
+| 70 | [Pero Que Te Esta Pasando Corazón](https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Queriéndote Más](https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2) | 3:14 |
 | 71 | [Ni Dios Lo Quiera](https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B) | 3:04 |
 | 72 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
 | 73 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 76 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
 | 77 | [El Dedo En La Boca](https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:56 |
 | 78 | [Los Narcoplaticantes](https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 4:34 |
-| 79 | [No He Podido Olvidarte](https://open.spotify.com/track/2X2Xh2Cr97Wg0bgs7ZKQpR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vida Sinaloense](https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e) | 3:02 |
-| 80 | [Dígale](https://open.spotify.com/track/3VGtALkoQlzgZxiZrN2w01) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL) | [Dígale](https://open.spotify.com/album/6DkKy6yznp7wPb1TeMqNwI) | 3:25 |
+| 79 | [Dígale](https://open.spotify.com/track/3VGtALkoQlzgZxiZrN2w01) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL) | [Dígale](https://open.spotify.com/album/6DkKy6yznp7wPb1TeMqNwI) | 3:25 |
+| 80 | [No He Podido Olvidarte](https://open.spotify.com/track/2X2Xh2Cr97Wg0bgs7ZKQpR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vida Sinaloense](https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e) | 3:02 |
 | 81 | [Estoy Listo](https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Estoy Listo](https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7) | 3:09 |
 | 82 | [Por Si Te Interesa](https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [Por Si Te Interesa](https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q) | 2:44 |
 | 83 | [Estoy Listo](https://open.spotify.com/track/191oMwrlbmLmbfb3RyDoax) | [Punto y Aparte](https://open.spotify.com/artist/316z1q6NdUgJMPIOcJnAPr) | [Estoy Listo](https://open.spotify.com/album/5lSADxVWOeGenxC6XQtUpf) | 3:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 97 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 |
 | 98 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 99 | [No Me Pidas Un Tiempo](https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:40 |
-| 100 | [Préstamela a Mí](https://open.spotify.com/track/2EGqa4yp5xGfu3sppG0oFy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 3:33 |
+| 100 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
 
-Snapshot ID: `MCxhM2RlNTFmNDkyMDc1YjIwZDc4OTAxOWY1Njg0YmQyZDEwYjRlNzYx`
+Snapshot ID: `MCw4NDRkNGZiMTc4Y2ZhMjA5N2E3MGRhZmE0MGNkN2M0OTI2OTJjZTQ5`

@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47708,
+  "num_followers": 47707,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzY2MjdhZTdjOGJjMGZlNDQwOWY3NzBkOTQ4ZGVhMTg5OTQ2ZmMw",
+  "snapshot_id": "MCxhYzQzNWVlNjc5YTNkZGQ5YWYwY2RhNTQxZDE5OWYwNGUwY2NiMTYw",
   "tracks": [
     {
       "added_at": "2024-01-26 17:06:16",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "what would you do?",
-      "url": "https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -335,26 +335,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "MALVADONA",
-        "url": "https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM"
+        "name": "FELL IN LOVE",
+        "url": "https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6"
       },
       "artists": [
         {
-          "name": "O Grilo",
-          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 204870,
-      "name": "MALVADONA",
-      "url": "https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm"
+      "duration_ms": 138460,
+      "name": "FELL IN LOVE",
+      "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -375,18 +367,26 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "FELL IN LOVE",
-        "url": "https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6"
+        "name": "MALVADONA",
+        "url": "https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "O Grilo",
+          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 138460,
-      "name": "FELL IN LOVE",
-      "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
+      "duration_ms": 204870,
+      "name": "MALVADONA",
+      "url": "https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Hoje eu n\u00e3o vim falar de Amor",
-        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+        "name": "n\u00e3o me importo mais",
+        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
         }
       ],
-      "duration_ms": 228920,
-      "name": "Hoje eu n\u00e3o vim falar de Amor",
-      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
+      "duration_ms": 156306,
+      "name": "n\u00e3o me importo mais",
+      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "n\u00e3o me importo mais",
-        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
+        "name": "Hoje eu n\u00e3o vim falar de Amor",
+        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 156306,
-      "name": "n\u00e3o me importo mais",
-      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
+      "duration_ms": 228920,
+      "name": "Hoje eu n\u00e3o vim falar de Amor",
+      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Foi Tudo Aqui",
-        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
-      },
-      "artists": [
-        {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Deixa Estar",
-      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "ANTISSOCIAL",
         "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 146643,
       "name": "ANTISSOCIAL",
       "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "Foi Tudo Aqui",
+        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Deixa Estar",
+      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "Grito",
+        "url": "https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu"
+      },
+      "artists": [
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 157249,
+      "name": "Grito",
+      "url": "https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "N\u00e3o Valemos + Nada",
         "url": "https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 158823,
       "name": "N\u00e3o Valemos + Nada",
       "url": "https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "Grito",
-        "url": "https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu"
-      },
-      "artists": [
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 157249,
-      "name": "Grito",
-      "url": "https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "VAN GOGH DALT\u00d4NICO",
-        "url": "https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl"
-      },
-      "artists": [
-        {
-          "name": "Edu4rd",
-          "url": "https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "VAN GOGH DALT\u00d4NICO",
-      "url": "https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "Mete o P\u00e9",
         "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 142699,
       "name": "Mete o P\u00e9",
       "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "VAN GOGH DALT\u00d4NICO",
+        "url": "https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl"
+      },
+      "artists": [
+        {
+          "name": "Edu4rd",
+          "url": "https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "VAN GOGH DALT\u00d4NICO",
+      "url": "https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx"
     },
     {
       "added_at": "2024-01-26 17:06:16",

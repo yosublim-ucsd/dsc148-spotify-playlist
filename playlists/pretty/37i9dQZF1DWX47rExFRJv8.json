@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 77956,
+  "num_followers": 77988,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWRlMjkyMmU5Njk4ZGMzYWNiZmZmOTBkNDBlZmMyYjU4MjJkM2Fi",
+  "snapshot_id": "MCxiZjkwYjc3MjRlOTc2OTk1ZjJiNzVmMDk2MTU3M2UxNmU5MWIyZDU2",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -767,30 +767,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
-        "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
-      "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+        "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+      "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
     },
     {
       "added_at": "2021-12-16 01:11:32",

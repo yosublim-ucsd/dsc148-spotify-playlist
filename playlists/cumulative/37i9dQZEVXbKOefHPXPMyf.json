@@ -7106,7 +7106,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -8918,7 +8918,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 158643,
       "name": "Dejame Saber",
       "url": "https://open.spotify.com/track/7Djet6Q24R8EtzzBdPcmiA"
@@ -9938,7 +9938,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
@@ -14568,10 +14568,40 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/4mXGc27x5d6uzStIiIohGX"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140653,
+      "name": "Hell Is Forever",
+      "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
     },
     {
       "album": {
@@ -14590,6 +14620,44 @@
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Hell\u2019s Greatest Dad",
+      "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
     },
     {
       "album": {
@@ -14624,7 +14692,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
@@ -17353,6 +17421,28 @@
     },
     {
       "album": {
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -19237,6 +19327,36 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175113,
+      "name": "Loser, Baby",
+      "url": "https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
       },
@@ -19260,7 +19380,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 175113,
       "name": "Loser, Baby",
       "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
@@ -26347,6 +26467,24 @@
     },
     {
       "album": {
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159253,
+      "name": "Perdi\u00f3 Este Culo",
+      "url": "https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u"
+    },
+    {
+      "album": {
         "name": "PEREZ ZELEDON",
         "url": "https://open.spotify.com/album/2pNeukJ1kypgH538mX1YSB"
       },
@@ -29478,7 +29616,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
@@ -30216,7 +30354,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
@@ -32056,10 +32194,44 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/2Evk4YMwD4zjjha2k3dbV7"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180475,
+      "name": "Stayed Gone",
+      "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
     },
     {
       "album": {
@@ -36626,7 +36798,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 245186,
       "name": "Vaquero",
       "url": "https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz"
@@ -37924,7 +38096,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
@@ -38401,6 +38573,32 @@
     },
     {
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    },
+    {
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -38671,6 +38869,48 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Shoba Narayan",
+          "url": "https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj"
+        },
+        {
+          "name": "Patina Miller",
+          "url": "https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188677,
+      "name": "You Didn\u2019t Know",
+      "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 2)",
         "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
       },
@@ -38706,7 +38946,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"

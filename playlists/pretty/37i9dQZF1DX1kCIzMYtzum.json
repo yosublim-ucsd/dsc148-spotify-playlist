@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 221524,
+  "num_followers": 221815,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTk5NTNlMGVlZTIwMWQ2NzYxZWY0NmQ4MTdhOTIyZDc1ZjEyZjRh",
+  "snapshot_id": "MCw1ZTYzYWMzZDQxOWNhNTJjNWRhNmZlYjQwNzFjNTkyZjg0NDI5NDU0",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1487,8 +1487,8 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
       "artists": [
         {
@@ -1496,17 +1496,13 @@
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 166285,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1607,8 +1603,8 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
       },
       "artists": [
         {
@@ -1616,13 +1612,17 @@
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+      "duration_ms": 166285,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "On My Love (New Year Hypaton Remix)",
         "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 191250,
       "name": "On My Love - New Year Hypaton Remix",
       "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2024-02-09 05:00:00",

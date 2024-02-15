@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,972 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,355 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 23 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 |
 | 24 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 | 25 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
-| 26 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
-| 27 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
-| 28 | [Somebody Loan Me A Dime \- Remastered](https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime \(Remastered\)](https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ) | 2:56 |
+| 26 | [Somebody Loan Me A Dime \- Remastered](https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime \(Remastered\)](https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ) | 2:56 |
+| 27 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
+| 28 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
 | 29 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
 | 30 | [Rollin' Stone](https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:08 |
 | 31 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 |
-| 32 | [To Know You Is To Love You](https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [To Know You Is To Love You](https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl) | 8:35 |
-| 33 | [Crossroads \- Live](https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [The Cream Of Clapton](https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc) | 4:15 |
-| 34 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
+| 32 | [Crossroads \- Live](https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [The Cream Of Clapton](https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc) | 4:15 |
+| 33 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
+| 34 | [To Know You Is To Love You](https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [To Know You Is To Love You](https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl) | 8:35 |
 | 35 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 36 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
 | 37 | [T\-Bone Shuffle](https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 4:55 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 39 | [Wang Dang Doodle](https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 3:02 |
 | 40 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 |
 | 41 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
-| 42 | [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 |
-| 43 | [Walking By Myself](https://open.spotify.com/track/36ccrof5DFicLrejE4hEye) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:47 |
-| 44 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 |
+| 42 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 |
+| 43 | [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 |
+| 44 | [Walking By Myself](https://open.spotify.com/track/36ccrof5DFicLrejE4hEye) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:47 |
 | 45 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
 | 46 | [I Can't Quit You Baby](https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 6:39 |
 | 47 | [Trouble No More](https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 3:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 69 | [Little Angel Child](https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 3:59 |
 | 70 | [Give Me Back My Wig](https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:35 |
 
-Snapshot ID: `MCxiNTI2YmQ2ZmM3MTRlMWZjZmU4YThiNDhmNjY0MWNiYmE0NTU3MmVl`
+Snapshot ID: `MCwwNDcyNTRkZWVmZTkxMTM3MDQ0MjcwYjgwMzY0NWU4ZWE5NjAyYjNk`

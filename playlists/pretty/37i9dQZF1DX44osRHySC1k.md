@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,475 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,476 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 46 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
 | 47 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 |
 | 48 | [Let Go](https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Let Go](https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW) | 3:11 |
-| 49 | [Symphony Of Heaven](https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:10 |
-| 50 | [Your Peace](https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:44 |
-| 51 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
-| 52 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 |
-| 53 | [As We Believed](https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 4:07 |
-| 54 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 |
-| 55 | [Bliss](https://open.spotify.com/track/3x8EfCWsbO4R6B0IaNWqO1) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/5j0fIAtAQab4JZr3uxr7Fi) | 7:25 |
-| 56 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |
-| 57 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
-| 58 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 |
+| 49 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 |
+| 50 | [Symphony Of Heaven](https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:10 |
+| 51 | [Bliss](https://open.spotify.com/track/3x8EfCWsbO4R6B0IaNWqO1) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/5j0fIAtAQab4JZr3uxr7Fi) | 7:25 |
+| 52 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
+| 53 | [Your Peace](https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:44 |
+| 54 | [As We Believed](https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 4:07 |
+| 55 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 |
+| 56 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
+| 57 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 |
+| 58 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |
 | 59 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 |
 | 60 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
 | 61 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 99 | [Sonno Profondo](https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM) | [Sleep n Love](https://open.spotify.com/artist/4lAObIqbk5Qpsb7j0avEvC) | [Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga](https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8) | 6:14 |
 | 100 | [Rain](https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:32 |
 
-Snapshot ID: `MCxhNGU4ZGJjNWM2NTZiYmEyOWJkZjJiYWQ5MzIxZDQ4MzAwNzhkNmYw`
+Snapshot ID: `MCw3OTIxM2E3ZmYwNjVhNzdlMzU1ZDYwZGZlNjgyMzhkN2M4OTk1Y2Uz`

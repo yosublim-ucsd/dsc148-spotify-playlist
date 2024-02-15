@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 348608,
+  "num_followers": 348641,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2JhYzkxYWRlMDg0NGE0ZDBmNzFlYmIxM2YxZjcyN2RjZDIzNTgw",
+  "snapshot_id": "MCxlNTI2NmIzZTY5NjI1Zjc0OTYxMTYzMjk3MDI2OTcxYmE4NTQ2ZTU0",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Wash Me Clean",
-      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Goodness of God (Acoustic)",
         "url": "https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 243809,
       "name": "Goodness of God - Acoustic",
       "url": "https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Wash Me Clean",
+      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 336572,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 355820,
       "name": "Psalm 42 (Loudest Praise)",
       "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 336572,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 194102,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "God You Are",
-        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 265286,
-      "name": "God You Are (feat. Josh Baldwin)",
-      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Safe Place (Acoustic)",
         "url": "https://open.spotify.com/album/4AM1TkaWF2RRoHhgQ4i4te"
       },
@@ -1023,22 +1003,6 @@
       "duration_ms": 178000,
       "name": "Safe Place - Acoustic",
       "url": "https://open.spotify.com/track/7Kz7ZQwo3NAGjGsdlc9rkQ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Perfect Peace",
-        "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 260799,
-      "name": "Perfect Peace",
-      "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1059,6 +1023,42 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 265286,
+      "name": "God You Are (feat. Josh Baldwin)",
+      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Perfect Peace",
+        "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 260799,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Ever Closer",
         "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Shalom",
-        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
-      },
-      "artists": [
-        {
-          "name": "Laura Hackett Park",
-          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Shalom",
-      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/5U2Kd6Gd29iKv7FiQgsxto"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 292959,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/3Fw7SQbIfU68xPS0GEKRk7"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Shalom",
+        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
+      },
+      "artists": [
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Learning to Let You Go",
-        "url": "https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Learning to Let You Go",
-      "url": "https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 207440,
       "name": "Keep On Hoping - Piano Choir Version",
       "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Learning to Let You Go",
+        "url": "https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Learning to Let You Go",
+      "url": "https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3"
     }
   ],
   "unique_name": "Calming Christian",

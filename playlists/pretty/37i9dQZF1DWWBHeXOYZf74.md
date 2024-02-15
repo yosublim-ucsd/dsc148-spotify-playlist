@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Mk.gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,534 likes - 116 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,540 likes - 116 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 96 | [Mates](https://open.spotify.com/track/5J3Lj4W83S8iS3VRnnVOmo) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Blowout](https://open.spotify.com/album/1PtMyRufUsbQ81yMxXjSym) | 4:57 |
 | 97 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
 | 98 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
-| 99 | [Blacklight](https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Blacklight](https://open.spotify.com/album/2QnOSMlVbSkEHPfrZLoNuq) | 5:09 |
+| 99 | [BLACKLIGHT](https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [BLACKLIGHT](https://open.spotify.com/album/2QnOSMlVbSkEHPfrZLoNuq) | 5:09 |
 | 100 | [Are You Looking Up](https://open.spotify.com/track/00uvWPbNBali6gKlZxUxIU) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Are You Looking Up / You got it](https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX) | 2:46 |
 | 101 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 |
 | 102 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Pablo Sotelo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 115 | [LGOYH \- Let Go Of Your Hurt](https://open.spotify.com/track/6VXaYZdg5lVthukdAx0uBk) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Original Score\)](https://open.spotify.com/album/2a7sbyp6zoxjTOcTXeg1pi) | 3:26 |
 | 116 | [Don't Touch!](https://open.spotify.com/track/7KJStRowXCMzl0C60m3O4Z) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Touch!](https://open.spotify.com/album/1wEVbOHAk8ah8Dg6NgsAG0) | 2:52 |
 
-Snapshot ID: `MCw2ODE5ZGU1ODIwNWQ1OWU0MjBjZDU4YWM1YWU0YTU1Mzk2NjE5NGJm`
+Snapshot ID: `MCw0ZjBlNzAwOGNhYWRkMjdlNDlmZjg2YWZhZmNlMzcxZTRiNjlmMDY0`

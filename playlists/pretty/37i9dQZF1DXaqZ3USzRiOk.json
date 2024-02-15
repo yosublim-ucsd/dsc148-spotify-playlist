@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 171838,
+  "num_followers": 171904,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGQ1MTAzMWNlMzJkNGQxZTRlYmY4NTE3YjBhZDI1ZmQxZDAyNTc2",
+  "snapshot_id": "MCxhODE5ZjYwNDg5NWQyNjk3Mzk0YTE0YzM0MmRjMjQwMzAxODkzNzlm",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -275,18 +275,34 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 184199,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -311,22 +327,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 184199,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Vicente Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 156866,
       "name": "Hermoso Cari\u00f1o",
       "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -423,38 +439,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 167400,
       "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
       "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "En La Barra",
+      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -531,22 +547,6 @@
       "duration_ms": 196998,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "En La Barra",
-      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 158400,
       "name": "Te Solt\u00e9 la Rienda",
       "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "El Cadete",
-      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 137120,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 139691,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 137120,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Pr\u00e9stame a Mi Padre",
-        "url": "https://open.spotify.com/album/3LwYm1P9DxmwAVYCDFWoyr"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pr\u00e9stame a Mi Padre",
-      "url": "https://open.spotify.com/track/5lBhchKKuN3F7Fu0QSZ7CV"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 129400,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Pr\u00e9stame a Mi Padre",
+        "url": "https://open.spotify.com/album/3LwYm1P9DxmwAVYCDFWoyr"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pr\u00e9stame a Mi Padre",
+      "url": "https://open.spotify.com/track/5lBhchKKuN3F7Fu0QSZ7CV"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -995,6 +995,22 @@
       "duration_ms": 131626,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Rancheras",
         "url": "https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle"
       },
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Pa' Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Para Ti Pap\u00e1",
         "url": "https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 254250,
       "name": "Para Ti Pap\u00e1",
       "url": "https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Pa' Todo el A\u00f1o",
-      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Envidioso",
         "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
         }
       ],
-      "duration_ms": 185353,
-      "name": "Que Se Junten Nuestros Brazos",
-      "url": "https://open.spotify.com/track/2ySfSVLeNYiUNfFs6lXw08"
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1251,6 +1235,22 @@
       "duration_ms": 213573,
       "name": "Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/0uJUohjIxJs0FHE53qOCvX"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 185353,
+      "name": "Que Se Junten Nuestros Brazos",
+      "url": "https://open.spotify.com/track/2ySfSVLeNYiUNfFs6lXw08"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Orgullo Ranchero",
-        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 128400,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Orgullo Ranchero",
+        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
+        "name": "Un Beso para el Cielo",
+        "url": "https://open.spotify.com/album/0CyTLGAbPLjzSMNIRSUY4a"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 186131,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
+      "duration_ms": 185273,
+      "name": "Un Beso para el Cielo",
+      "url": "https://open.spotify.com/track/0JGB3vSKZp5llpdL1oJcy1"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Un Beso para el Cielo",
-        "url": "https://open.spotify.com/album/0CyTLGAbPLjzSMNIRSUY4a"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 185273,
-      "name": "Un Beso para el Cielo",
-      "url": "https://open.spotify.com/track/0JGB3vSKZp5llpdL1oJcy1"
+      "duration_ms": 186131,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
+      },
+      "artists": [
+        {
+          "name": "Dueto America",
+          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Ojitos So\u00f1adores",
+      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "Penas, Desenga\u00f1os... y Amores",
         "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 153093,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
-      },
-      "artists": [
-        {
-          "name": "Dueto America",
-          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Ojitos So\u00f1adores",
-      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "15 \u00c9xitos 15",
         "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
@@ -2215,22 +2199,6 @@
       "duration_ms": 205635,
       "name": "La Tercera Carta",
       "url": "https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Tata Dios",
-      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2251,18 +2219,34 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Sigo de Frente",
-        "url": "https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
       "artists": [
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 206074,
-      "name": "Oye Viejo",
-      "url": "https://open.spotify.com/track/6YoqWcSeTpxJz8iYqboOFd"
+      "duration_ms": 176706,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Tata Dios",
+      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2279,6 +2263,22 @@
       "duration_ms": 202071,
       "name": "Nom\u00e1s Por Tu Culpa",
       "url": "https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Sigo de Frente",
+        "url": "https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl"
+      },
+      "artists": [
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        }
+      ],
+      "duration_ms": 206074,
+      "name": "Oye Viejo",
+      "url": "https://open.spotify.com/track/6YoqWcSeTpxJz8iYqboOFd"
     },
     {
       "added_at": "2023-06-16 16:57:29",

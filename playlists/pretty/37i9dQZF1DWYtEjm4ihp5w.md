@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,252 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,349 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 7 | [Minuit](https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Minuit](https://open.spotify.com/album/2ubz38hd8GzoT6nFs50NeA) | 3:27 |
 | 8 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 |
 | 9 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 |
-| 10 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5rgxfPa7FFTuCfh0u989Og) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
+| 10 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
 | 11 | [RALLY DAKAR](https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:25 |
 | 12 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 |
 | 13 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 |
 | 50 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
 
-Snapshot ID: `MCwwMWJjMmUxZDkxNDRjZDkyMjQ5N2EzN2ExNDY1OTAzNWJiNjJjZDll`
+Snapshot ID: `MCw5MmI1N2MwYmYyZWJjMGI5ZWU4M2I2OTJiYmNjYjk0MWI2N2U0YWVj`

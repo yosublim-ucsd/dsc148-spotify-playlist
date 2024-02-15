@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,856 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,864 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 8 | [Incroyable](https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 6:12 |
 | 9 | [Gouyé](https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Nouvel R](https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD) | 4:42 |
 | 10 | [Gen Bagay](https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky) | [Yani Martelly](https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy), [Kenny](https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f) | [Gen Bagay](https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV) | 3:14 |
-| 11 | [Je l'aime à mourir](https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD) | [Jackito](https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK) | [The Very Best Of Jackito \(Pou ti moun yo\)](https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g) | 4:52 |
-| 12 | [Kenbe'l La](https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Fòk Tèt Ou La](https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw) | 4:23 |
+| 11 | [Kenbe'l La](https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Fòk Tèt Ou La](https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw) | 4:23 |
+| 12 | [Je l'aime à mourir](https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD) | [Jackito](https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK) | [The Very Best Of Jackito \(Pou ti moun yo\)](https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g) | 4:52 |
 | 13 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
 | 14 | [Chokola](https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Rotary International Abidjan](https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG) | 5:25 |
 | 15 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 39 | [Blakawout](https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Ret Nan Liy Ou](https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp) | 5:14 |
 | 40 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 |
 
-Snapshot ID: `MCwxM2VkMDc1Y2FhMDAwMmNiYWFmMTZjZDIwOWMzYWNiNTQ3ODIxMzg5`
+Snapshot ID: `MCw1ZTcyNmMwNTBkMzJjNDk0NzNhZWQxNzk5NTEwNDYwMDMwZmRlZmM5`

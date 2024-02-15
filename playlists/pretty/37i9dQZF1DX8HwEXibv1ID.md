@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,464 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,485 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 65 | [Conversation Blues](https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 3:54 |
 | 66 | [Goodbye Little Dream, Goodbye](https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 3:09 |
 | 67 | [The Ritz Roll and Rock](https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [MGM Studio Chorus](https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW) | [Silk Stockings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz) | 3:35 |
-| 68 | [Use Your Imagination](https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:02 |
+| 68 | [Looking at You](https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:53 |
 | 69 | [Allez\-Vous En, Go Away](https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Jazz Collection](https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC) | 3:41 |
 | 70 | [Get Out of Town \- Med Andra Ord...](https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Don't Dream of Anybody but Me](https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa) | 2:34 |
-| 71 | [Looking at You](https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:53 |
+| 71 | [Use Your Imagination](https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:02 |
 | 72 | [When Love Comes Your Way](https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:13 |
 | 73 | [I Am Ashamed That Women Are so Simple](https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 1:51 |
 | 74 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 
-Snapshot ID: `MCxkNDY5NzFlY2M3ZjdiYWYzNWY0NGRiY2UwNjNjZTIzZmFiOTE1ZWFm`
+Snapshot ID: `MCwwNDVjMTdjZmFiYTJmMDI4OGY0NmEyNWU1NDBkMGVlNzdlZGMyOTRl`

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-561 songs - 1 day 12 hr 39 min
+567 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Example](https://open.spotify.com/track/3O12z8A2IYJFJg2dON3Zeg) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:00 | 2022-07-14 |  |
 | [Faith In Nothing Except In Salvation](https://open.spotify.com/track/3nJANUU8P91F8ti4Oz1WML) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/01HArmgfXe7xDaYXWKfhuf) | 1:33 | 2024-01-12 |  |
 | [Fake Empire](https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 3:25 | 2023-01-17 |  |
+| [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 | 2024-02-14 |  |
 | [Falling](https://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:17 | 2023-11-03 |  |
 | [Family Tree \(Intro\)](https://open.spotify.com/track/4fjSiuY9b3uBeGd1KBUNZE) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:41 | 2023-01-08 |  |
 | [Farewell Transmission](https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04) | 7:22 | 2023-07-10 | 2023-07-19 |
@@ -188,8 +189,10 @@
 | [Five Years \- 2012 Remaster](https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:43 | 2023-05-19 |  |
 | [Flimsier](https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 3:59 | 2024-01-06 |  |
 | [Florida](https://open.spotify.com/track/6BtoVDX3JfmtawFEGHTDN5) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 3:50 | 2023-11-13 |  |
+| [Foil](https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:04 | 2024-02-14 |  |
 | [For You](https://open.spotify.com/track/5PxB654Q7n3w3NKPdolOLE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [BiRd\-BrAiNs](https://open.spotify.com/album/7oVySVWjCqQwLSuJ7450sV) | 1:50 | 2023-10-30 |  |
 | [Four Point Steel Star](https://open.spotify.com/track/5f8B1wdJbXv1DUz6KR4drD) | [Kumo 99](https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5) | [Body N\. Will](https://open.spotify.com/album/4yTeZlcwc5fCoNPQFD2ZNX) | 2:20 | 2024-01-17 |  |
+| [Four Years and One Day](https://open.spotify.com/track/1N46EUnUiBP4lhLMCLwnFG) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:17 | 2024-02-14 |  |
 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 | 2023-06-08 |  |
 | [Fruity](https://open.spotify.com/track/2cNZzxSe048owMCdRloYkH) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Sun Machine](https://open.spotify.com/album/5Nzqg5Xb7xaKfl3XudeNiY) | 3:50 | 2024-02-07 |  |
 | [Future Nostalgia](https://open.spotify.com/track/3mC8VlVBwdVxCTq4cYZr64) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:04 | 2023-01-29 |  |
@@ -234,6 +237,7 @@
 | [I](https://open.spotify.com/track/67eZrCOBvnQtURCkICXySb) | [Rocks and Waves Song Circle](https://open.spotify.com/artist/3IGl0j2I9KKjiOgtiBFmv7) | [Songs I\-V](https://open.spotify.com/album/6hHKEiQIKkcelLnUPjpy71) | 5:40 | 2024-01-18 |  |
 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 | 2022-07-27 |  |
 | [I bled on stage at first ave](https://open.spotify.com/track/5HSOM17OTzUpD9PYXWupXj) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [another triumph of ghetto engineering](https://open.spotify.com/album/6el9i3xYmiw1OjTMS3Fynx) | 2:45 | 2023-08-25 | 2023-12-14 |
+| [I Don’t Know How I Survive](https://open.spotify.com/track/0b2vqB7QNT4z8nnaYqbuel) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:40 | 2024-02-14 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2023-02-22 | 2024-01-10 |
 | [I Feel Ya' Strutter](https://open.spotify.com/track/1bpEObO6vZfCrmyvhTCaVv) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [False Priest \(Deluxe Edition\)](https://open.spotify.com/album/1XRBHUGuKtiXXOHg7N9NBx) | 3:40 | 2023-08-04 |  |
 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 | 2024-02-07 |  |
@@ -381,6 +385,7 @@
 | [Plastic 100°C](https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 5:16 | 2022-05-19 |  |
 | [Pleasant Street Bossa](https://open.spotify.com/track/6qtkkHYgd5HcQepVTksKQp) | [Falling](https://open.spotify.com/artist/0o7xj8ZxvJJqUTgodQa9nW) | [Out of Sight](https://open.spotify.com/album/6SmxgbgTOJJfi7rfXE4vOy) | 1:10 | 2024-01-18 |  |
 | [Politik](https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:18 | 2024-01-08 |  |
+| [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2024-02-14 |  |
 | [Ponta de Areia](https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Native Dancer](https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx) | 5:15 | 2024-01-09 |  |
 | [Pre \(feat\. SK La' Flare\)](https://open.spotify.com/track/4B31QOL13iBeuIsaGD20BS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Sk La Flare](https://open.spotify.com/artist/5punRQvOjE5COQqm6JRLhx) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:52 | 2023-08-20 |  |
 | [Pretty Hurts](https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ](https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy) | 4:17 | 2023-05-08 |  |
@@ -561,6 +566,7 @@
 | [x w x](https://open.spotify.com/track/23M9FijuZP9MsVQrCLdqct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 2:25 | 2023-10-13 |  |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-01-06 |  |
 | [XXX](https://open.spotify.com/track/3fMYdbxKBDKtLa1HB9iBDK) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [XXX \(Deluxe Version\)](https://open.spotify.com/album/3vyMhFtK8R0cFoMfnBfztb) | 1:50 | 2023-03-28 | 2023-12-14 |
+| [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 | 2024-02-14 |  |
 | [You Can Get It](https://open.spotify.com/track/18L6KppkJ3SzdM169N0Xbh) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:02 | 2023-04-12 | 2023-05-15 |
 | [you in everything](https://open.spotify.com/track/7qE5nzW83u1ZSiblQv37lx) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 6:51 | 2022-07-04 |  |
 | [You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Lazer Guided Melodies](https://open.spotify.com/album/0kfT6lwFmXyepSvoItP4sa) | 3:39 | 2022-09-13 |  |

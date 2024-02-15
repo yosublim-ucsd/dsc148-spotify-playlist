@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: DK
 
-978 songs - 2 day 5 hr 48 min
+980 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-16 | 2022-06-18 |
 | [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 | 2023-09-27 | 2024-01-24 |
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-07-29 | 2022-10-15 |
+| [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-14 |  |
 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 | 2021-03-31 | 2021-07-01 |
 | [BASEMENT BOY](https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [BASEMENT BOY](https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf) | 3:08 | 2022-05-24 | 2022-07-14 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-28 |  |
@@ -162,8 +163,9 @@
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-06-18 | 2021-08-11 |
 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 | 2023-03-24 | 2023-07-26 |
 | [Child](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Child \- SM STATION : NCT LAB](https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1) | 3:31 | 2022-02-07 | 2022-04-18 |
-| [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-10-05 |  |
+| [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-10-05 | 2024-02-15 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-02 | 2022-05-04 |
+| [Chocolate](https://open.spotify.com/track/0e9skrsECOVqRRNFgFdA5c) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Chocolate](https://open.spotify.com/album/1kQUndHexxKgQMfJxfPt8A) | 3:07 | 2024-02-14 |  |
 | [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 | 2023-02-27 | 2023-05-16 |
 | [Christmas EveL](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 2:58 | 2021-12-01 | 2022-03-03 |
 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 | 2020-12-08 | 2021-02-15 |
@@ -893,7 +895,7 @@
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-21 | 2022-10-01 |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 | 2022-06-18 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2021-07-13 | 2021-09-18 |
-| [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 | 2023-12-08 |  |
+| [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 | 2023-12-08 | 2024-02-15 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-07-14 | 2021-09-07 |
 | [Vancouver 2](https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Vancouver 2](https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq) | 3:22 | 2023-09-27 | 2023-10-28 |
 | [Vanilla](https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Vanilla](https://open.spotify.com/album/77w56C1tECJwOgVEhNbI5x) | 3:24 | 2021-06-16 | 2021-08-05 |

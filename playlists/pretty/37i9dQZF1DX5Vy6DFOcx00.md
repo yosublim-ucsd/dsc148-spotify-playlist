@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,814,890 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,816,672 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 28 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 | 29 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
 | 30 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
-| 31 | [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 |
+| 31 | [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 |
 | 32 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 |
 | 33 | [Cha Cha](https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cha Cha](https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l) | 2:37 |
 | 34 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 99 | [Amour plastique](https://open.spotify.com/track/269XSeQhDrWEotMALJaACW) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:45 |
 | 100 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 |
 
-Snapshot ID: `MCwyODU0MTk3NDc4NTdiN2Y5Y2Q5Mjg1YTY4MGM4YWEzNDA3NDhhMTFi`
+Snapshot ID: `MCw3NTVmZjg3NzhjYjQyM2E1NTE1MTAzZWY4MTZlYmNiYzc2MDY1NzQx`

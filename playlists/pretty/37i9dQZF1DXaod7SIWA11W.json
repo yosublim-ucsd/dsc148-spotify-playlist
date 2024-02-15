@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a> ",
-  "num_followers": 68922,
+  "num_followers": 68958,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTVhNDhjMjYwYTA2Y2Y3ZGYyZWUyNWRlZmI5ZTVlN2MyMWIzZWM3",
+  "snapshot_id": "MCwwOGQxNGFiODc5Y2VmODMwNDBiNDFhNjA5Yzg1N2JiMTljMTYzMWVm",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "GO WITH THE GHOST",
-        "url": "https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 173230,
-      "name": "GO WITH THE GHOST",
-      "url": "https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "GO WITH THE GHOST",
+        "url": "https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 173230,
+      "name": "GO WITH THE GHOST",
+      "url": "https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Signing Bonus",
+        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 159998,
+      "name": "Tables Turned",
+      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Glory Hour",
         "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Signing Bonus",
-        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 159998,
-      "name": "Tables Turned",
-      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "We Can't Forget Him (Remix)",
         "url": "https://open.spotify.com/album/3msLOa4LRClARErfwRP2pv"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Dead Or Alive Pt. 1",
-        "url": "https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 174771,
-      "name": "VICTORY LAP",
-      "url": "https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 216000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Dead Or Alive Pt. 1",
+        "url": "https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 174771,
+      "name": "VICTORY LAP",
+      "url": "https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 129843,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Joy In The Morning (Remix)",
         "url": "https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 129843,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Choirmaster II (Live)",
         "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
       },
@@ -715,26 +715,6 @@
       "duration_ms": 395784,
       "name": "Fill Us Once Again - Live",
       "url": "https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Back To Life (Studio Version)",
-        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 253077,
-      "name": "Back To Life - Studio Version",
-      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -763,6 +743,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Back To Life (Studio Version)",
+        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 253077,
+      "name": "Back To Life - Studio Version",
+      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 169717,
       "name": "My Story",
       "url": "https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "High Noon",
+        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
+      },
+      "artists": [
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "duration_ms": 130679,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "High Noon",
-        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
-      },
-      "artists": [
-        {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
-        }
-      ],
-      "duration_ms": 130679,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "ALOT",
         "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
       },
@@ -983,42 +999,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/7dzrf8O5uvPdslYGeVIvpd"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "Ghetto Gospel",
-      "url": "https://open.spotify.com/track/1SUIkGtUfDb6LXs94j9XIb"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
       },
@@ -1039,18 +1019,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Freedom Dance",
-        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/7dzrf8O5uvPdslYGeVIvpd"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
+      "duration_ms": 158297,
+      "name": "Ghetto Gospel",
+      "url": "https://open.spotify.com/track/1SUIkGtUfDb6LXs94j9XIb"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         }
       ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 184238,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "We Can't Forget Him",
-        "url": "https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Storm",
-          "url": "https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8"
-        }
-      ],
-      "duration_ms": 178201,
-      "name": "We Can't Forget Him",
-      "url": "https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "My Dey",
         "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 131065,
       "name": "My Dey",
       "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "We Can't Forget Him",
+        "url": "https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Storm",
+          "url": "https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8"
+        }
+      ],
+      "duration_ms": 178201,
+      "name": "We Can't Forget Him",
+      "url": "https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 197254,
       "name": "Mr. McClure",
       "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 285106,
       "name": "Jesus (feat. Le'andria Johnson)",
       "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Heaven Is My Goal",
-        "url": "https://open.spotify.com/album/6wahQAbxPIhkR7FeYbPEVB"
-      },
-      "artists": [
-        {
-          "name": "The Burch Twins",
-          "url": "https://open.spotify.com/artist/2wKn3mG0pLJR0VFMjC69Xg"
-        }
-      ],
-      "duration_ms": 299836,
-      "name": "Heaven Is My Goal",
-      "url": "https://open.spotify.com/track/3MDH2X9j65F2adVyL59j3W"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 274756,
       "name": "I Will Rejoice - Live",
       "url": "https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Heaven Is My Goal",
+        "url": "https://open.spotify.com/album/6wahQAbxPIhkR7FeYbPEVB"
+      },
+      "artists": [
+        {
+          "name": "The Burch Twins",
+          "url": "https://open.spotify.com/artist/2wKn3mG0pLJR0VFMjC69Xg"
+        }
+      ],
+      "duration_ms": 299836,
+      "name": "Heaven Is My Goal",
+      "url": "https://open.spotify.com/track/3MDH2X9j65F2adVyL59j3W"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "upperroom",
-        "url": "https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3"
-      },
-      "artists": [
-        {
-          "name": "Gaetan Judd",
-          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
-        }
-      ],
-      "duration_ms": 152878,
-      "name": "less is more",
-      "url": "https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 226248,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "upperroom",
+        "url": "https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3"
+      },
+      "artists": [
+        {
+          "name": "Gaetan Judd",
+          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
+        }
+      ],
+      "duration_ms": 152878,
+      "name": "less is more",
+      "url": "https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r"
     },
     {
       "added_at": "2024-02-02 05:00:00",

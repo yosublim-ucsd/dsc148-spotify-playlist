@@ -1,13 +1,33 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 15591,
+  "num_followers": 15598,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjIxNCw1NzRkNDk4NDVmYWZiMjYxMTc3YTVhZTI3MDk5NDEwNTcxNmZiMTFm",
+  "snapshot_id": "NjIxNiw1NDBkMDAzMDg5ZDkyMTE5M2U5MTA2NzQ3MTczOWIxZjkwZTM2Mzli",
   "tracks": [
+    {
+      "added_at": "2024-02-14 22:13:10",
+      "album": {
+        "name": "Cry Without End",
+        "url": "https://open.spotify.com/album/7vclFJ0yPNcegXkKY1eM60"
+      },
+      "artists": [
+        {
+          "name": "SAM MORTON",
+          "url": "https://open.spotify.com/artist/3AUG2k8d0nEovQT9uleNPq"
+        },
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "duration_ms": 224727,
+      "name": "Cry Without End",
+      "url": "https://open.spotify.com/track/7Hds52K1esifSDfhz0cOq5"
+    },
     {
       "added_at": "2024-01-30 13:26:01",
       "album": {

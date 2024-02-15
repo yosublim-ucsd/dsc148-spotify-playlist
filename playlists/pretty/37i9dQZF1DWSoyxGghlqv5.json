@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 459587,
+  "num_followers": 459582,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzAyN2U0ODdkYzNmNzc5YzAwNDgyYzU3ZjYyMzFkNzhjZTJiNzU3",
+  "snapshot_id": "MCw1NzZiNWQ1YTMzZDc3ZDM2MTc0NzQzMzdmNDI2Mjc3ZDAyNGY4Yjg0",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
     },
     {
       "added_at": "2022-07-21 17:03:38",

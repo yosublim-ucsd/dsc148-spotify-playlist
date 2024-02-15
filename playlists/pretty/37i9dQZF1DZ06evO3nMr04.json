@@ -1,51 +1,15 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1231188,
+  "num_followers": 1232343,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0NjM3ODQsMDAwMDAwMDBkZDRmNWM2MmNiZTRmNjk4NTg4MDkyYmQ4NDRiZjI5MA==",
+  "snapshot_id": "Mjg0NjUyMjEsMDAwMDAwMDBmMzE1MGRmMWU2NzY1OWM1ZWIzZWIzMGU1MjMyYmI0MQ==",
   "tracks": [
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 237506,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -65,7 +29,43 @@
       "url": "https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 237506,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Yeezus",
         "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
@@ -81,43 +81,7 @@
       "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Syleena Johnson",
-          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "All Falls Down",
-      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 243440,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -137,7 +101,43 @@
       "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
@@ -153,47 +153,7 @@
       "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 547733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Chris Martin",
-          "url": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -213,7 +173,47 @@
       "url": "https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 547733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Chris Martin",
+          "url": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
@@ -233,7 +233,47 @@
       "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
@@ -257,47 +297,7 @@
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "FUK SUMN",
-      "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
@@ -313,47 +313,7 @@
       "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 351946,
-      "name": "Devil In A New Dress",
-      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
@@ -373,7 +333,47 @@
       "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 351946,
+      "name": "Devil In A New Dress",
+      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
@@ -389,7 +389,27 @@
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 295471,
+      "name": "BACK TO ME",
+      "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
@@ -429,27 +449,7 @@
       "url": "https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 295471,
-      "name": "BACK TO ME",
-      "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
@@ -573,59 +573,7 @@
       "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 156091,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
@@ -649,7 +597,23 @@
       "url": "https://open.spotify.com/track/4bDPr2VAjcfgUDmN9dGOC3"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
@@ -660,12 +624,56 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+      "duration_ms": 156091,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Relapse: Refill",
         "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
@@ -693,7 +701,23 @@
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Yeezus",
         "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
@@ -709,31 +733,7 @@
       "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Otis",
-      "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
@@ -773,27 +773,7 @@
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        }
-      ],
-      "duration_ms": 127946,
-      "name": "I Love It (& Lil Pump)",
-      "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
@@ -821,7 +801,27 @@
       "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi"
     },
     {
-      "added_at": "2024-02-13 12:24:37",
+      "added_at": "2024-02-14 12:21:01",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        }
+      ],
+      "duration_ms": 127946,
+      "name": "I Love It (& Lil Pump)",
+      "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
+    },
+    {
+      "added_at": "2024-02-14 12:21:01",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
@@ -843,22 +843,6 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
-    },
-    {
-      "added_at": "2024-02-13 12:24:37",
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
     }
   ],
   "unique_name": "This Is Kanye West",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,684 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,761 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 42 | [ISN’T EVERYONE](https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:14 |
 | 43 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 44 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
-| 45 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
-| 46 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
+| 45 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
+| 46 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
 | 47 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 |
 | 48 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 49 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 59 | [Compliance](https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Compliance](https://open.spotify.com/album/7f26amusc28x2vnxTACxDN) | 5:02 |
 | 60 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
 | 61 | [Royal Leash](https://open.spotify.com/track/0thtR0AknaM6k7WktFah7z) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Majesty](https://open.spotify.com/album/0S0OF6IQa0Tr0lWivkrUD2) | 3:43 |
-| 62 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 |
-| 63 | [Bring You Down \(Project Regeneration\)](https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:35 |
-| 64 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 |
+| 62 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 |
+| 63 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 |
+| 64 | [Bring You Down \(Project Regeneration\)](https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:35 |
 | 65 | [Modern Demon](https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Modern Demon](https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML) | 4:45 |
-| 66 | [Totuus](https://open.spotify.com/track/110q5eExcmrgf0fsE610ON) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Omen X](https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv) | 3:26 |
-| 67 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 |
+| 66 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 |
+| 67 | [Totuus](https://open.spotify.com/track/110q5eExcmrgf0fsE610ON) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Omen X](https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv) | 3:26 |
 | 68 | [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 |
 | 69 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
 | 70 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 76 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 |
 | 77 | [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 |
 | 78 | [Justice Way](https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Justice](https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0) | 3:07 |
-| 79 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
-| 80 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
+| 79 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
+| 80 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
 | 81 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
 | 82 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 83 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Doctor Online](https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI) | 3:18 |
 | 100 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 
-Snapshot ID: `MCwwN2VjZWQ1ZjEzOTgzYmI1ZTExNTQ1YzQwODY5MmMwZWYyMWM0ZDAw`
+Snapshot ID: `MCxjOGZhMjU3ZTQzOThiZGExZDU1MmEyZjkzNWI2NWEwY2UwOGE3N2Mw`

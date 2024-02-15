@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Ms. Lauryn Hill",
-  "num_followers": 3521690,
+  "num_followers": 3522601,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTZlYjIzNDQ3YmFiYWZmY2ZiNjdhMjI1MTdmYjllZDIzMDY3MTlm",
+  "snapshot_id": "MCw0ZDQxMjllZmM5YmI4ZTMyMmZlZTQ1YjRlOGIxYzA1NDY1ODkwNGQ1",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
-      },
-      "artists": [
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
-    },
-    {
       "added_at": "2022-08-23 02:58:10",
       "album": {
         "name": "azz izz",
@@ -619,6 +603,22 @@
       "duration_ms": 254106,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 345975,
       "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "702",
-        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
-      },
-      "artists": [
-        {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "BAD BOY CELEBRATES DIDDY: The Executive",
-        "url": "https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Fortunate",
         "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
       },
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
+        "name": "BAD BOY CELEBRATES DIDDY: The Executive",
+        "url": "https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 274533,
       "name": "Freak Me",
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 236906,
       "name": "Still Not a Player (feat. Joe)",
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2021-08-20 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 50 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 50 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Desnudate Mujer](https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 8:20 |
 | 50 | [Decisiones \- Live](https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 1](https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS) | 6:00 |
 
-Snapshot ID: `MCxhZDNmMjEzMDc4MzgyNDMzNTE4MzNkZTE0MDdkMzk1ODc5Y2JjYTMx`
+Snapshot ID: `MCxlZTIyZmNmZDBkYjY4MjA3YTkwYThlOTYxNWQ2OTIwY2E5NDI1NjNm`

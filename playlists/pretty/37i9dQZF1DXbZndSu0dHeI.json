@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 206788,
+  "num_followers": 206918,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDNjNjYxZjE4ZWVjN2E0MmFiYjZhOGYwNjRjMGRlNmQ3N2IzZTAx",
+  "snapshot_id": "MCxiNTc1MjNjNmMwOTA3NTYyZDE3NDU0NTBmNWZmYWRkMTNjYjE1NzI0",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ"
     },
     {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
+    },
+    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "Halloween Costume",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-02-03 00:30:16",
       "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
       },
       "artists": [
         {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 155609,
-      "name": "One Year Stand",
-      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
+      "duration_ms": 241168,
+      "name": "Sorry I Am",
+      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1187,22 +1203,6 @@
       "duration_ms": 314173,
       "name": "The Boy with the Arab Strap",
       "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
-    },
-    {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 241168,
-      "name": "Sorry I Am",
-      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
     },
     {
       "added_at": "2023-07-28 13:45:12",

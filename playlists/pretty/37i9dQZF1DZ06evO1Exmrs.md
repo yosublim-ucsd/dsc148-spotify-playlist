@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,982 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,621 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 33 | [Godlight](https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:07 |
 | 34 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
 | 35 | [Anyway](https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 5:12 |
-| 36 | [Halloween](https://open.spotify.com/track/3Vi7JrafGbqd1lwwO1EiOm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:55 |
+| 36 | [Passenger](https://open.spotify.com/track/7BS6Xfx1NOJbEy4TE9TPAM) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:58 |
 | 37 | [Caves](https://open.spotify.com/track/1Pcz3lqppUM5OROz81qRAa) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:21 |
-| 38 | [Passenger](https://open.spotify.com/track/7BS6Xfx1NOJbEy4TE9TPAM) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:58 |
+| 38 | [Halloween](https://open.spotify.com/track/3Vi7JrafGbqd1lwwO1EiOm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:55 |
 | 39 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 |
 | 40 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
 | 41 | [Animal](https://open.spotify.com/track/00vhtWzNIISd9I04Cl3K7N) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 50 | [Tough \(feat\. Noah Kahan\)](https://open.spotify.com/track/3a1Zmq0P1E6W80x8EOcVNP) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 2:58 |
 | 51 | [MEAN! \(Remix\) \[with Noah Kahan\]](https://open.spotify.com/track/7vMusXp03B9ydnQl3LGtk7) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [MEAN! \(Remix\) \[with Noah Kahan\]](https://open.spotify.com/album/1pzHmsdosYFjgkV6Xz9Uoz) | 2:23 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBmMDYwNjdmZmU3NDNlMDU2ZGVhM2ZiMmY4YTg5ZmJmOQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA4ZjZiYzllYWViODY1NzdjMzdjYzQ2MjU2NTI4NGVlMg==`

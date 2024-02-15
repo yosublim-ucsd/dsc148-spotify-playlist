@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,602 songs - 3 day 5 hr 12 min
+1,603 songs - 3 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-06 |  |
 | [\[swiffer\]](https://open.spotify.com/track/2NkAY2jusfzCksQ8QD2awT) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r), [Alysdare](https://open.spotify.com/artist/6yOBXIYRbIDaUgqa9frzxD) | [\[swiffer\]](https://open.spotify.com/album/4ePiQiVJMBua2tZhAhst7D) | 2:15 | 2023-05-19 | 2023-06-24 |
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2021-10-12 |
+| [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-14 |  |
 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 | 2022-03-03 | 2022-07-01 |
 | [A LA CARTE \(feat\. brakence\)](https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:01 | 2023-10-17 |  |
 | [a million messages](https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF) | [Nashon](https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi) | [a million messages](https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8) | 3:27 | 2023-03-17 | 2023-07-22 |
@@ -1096,7 +1097,7 @@
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2022-05-27 | 2022-06-18 |
 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2022-11-30 | 2023-02-15 |
 | [Pretty](https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/7zBY4wnOahepVJdXRqxJlv) | 1:40 | 2023-06-30 | 2023-07-16 |
-| [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 | 2023-06-30 |  |
+| [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 | 2023-06-30 | 2024-02-15 |
 | [PRETTY](https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [BOY](https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH) | 2:55 | 2022-07-22 | 2022-11-09 |
 | [Pretty Lies](https://open.spotify.com/track/3Nj6EiDM8LknYtZvzJGTLs) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:08 | 2022-02-22 | 2022-04-10 |
 | [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 | 2023-11-17 |  |

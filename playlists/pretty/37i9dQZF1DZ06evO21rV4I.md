@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,351 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,400 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 37 | [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 |
 | 38 | [G Love](https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 2:45 |
 | 39 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
-| 40 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
-| 41 | [LV N ATTN feat\. Wizkid](https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
+| 40 | [LV N ATTN feat\. Wizkid](https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
+| 41 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
 | 42 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
 | 43 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
 | 44 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv) | 3:33 |
 | 50 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBhMzM0YmZhYzk0OTgwYWQyYWNiYTdkYzBlZWM2ODdkZA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA5ZDA0NjRlMDU2ZTRhMTIzMzUwNTE3YzlkMTdiZWVkYg==`

@@ -1954,6 +1954,32 @@
     {
       "album": {
         "name": "Unfoggy Sight",
+        "url": "https://open.spotify.com/album/54GVHFhbqf2sW0ktVRHUJg"
+      },
+      "artists": [
+        {
+          "name": "Yamato Nikaido (CV: Yusuke Shirai)",
+          "url": "https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK"
+        },
+        {
+          "name": "Iori Izumi (CV: Toshiki Masuda)",
+          "url": "https://open.spotify.com/artist/4NlsMMsd35fdP2UCzhG1PU"
+        },
+        {
+          "name": "Tamaki Yotsuba (CV: KENN)",
+          "url": "https://open.spotify.com/artist/3tIlRXYi6ZVj8uKVjFG2pm"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260560,
+      "name": "Unfoggy Sight",
+      "url": "https://open.spotify.com/track/1fzRdHYdn1BB9nNDh51AQr"
+    },
+    {
+      "album": {
+        "name": "Unfoggy Sight",
         "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
       },
       "artists": [
@@ -1972,7 +1998,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 260560,
       "name": "Unfoggy Sight",
       "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"

@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=SjvNJWYbT-KTxeInoXu7kg\">Ebuka Songs</a>",
-  "num_followers": 5631,
+  "num_followers": 5676,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2EzNWE1YTNkZWMzMjg2MDY5MWRiODc5MDVkOGIxZjQ5NTQ4MWE1",
+  "snapshot_id": "MCxlYTVhMDY4MGJjZWMxNDZmNDgwNWM2YWIyMTFmNzkwZDUyYjhkZTc4",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "By The Water",
-        "url": "https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Elohim",
-      "url": "https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG"
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+        "name": "By The Water",
+        "url": "https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
+      "duration_ms": 170322,
+      "name": "Elohim",
+      "url": "https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -885,6 +885,26 @@
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "These Are The Days (feat. Blessing Offor)",
+        "url": "https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 230644,
+      "name": "These Are The Days (feat. Blessing Offor)",
+      "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Iba",
@@ -975,22 +995,6 @@
       "duration_ms": 126923,
       "name": "Joy in Chaos (Extended)",
       "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     }
   ],
   "unique_name": "Redeemed",

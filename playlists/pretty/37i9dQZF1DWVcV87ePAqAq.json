@@ -1,12 +1,12 @@
 {
   "description": "Den enda spellistan du beh\u00f6ver f\u00f6r en bra fest!",
-  "num_followers": 368800,
+  "num_followers": 368769,
   "original_name": "Fest!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzdmNGE5NWNkNjA0NDllNDZjMjVmMjA0ODY3ZWU3NjcxODMzMDI1",
+  "snapshot_id": "MCw0MTU0OGY3ZDczYzhhZDkwNGQ0NmFjZTRlNDVlMzE2NDZiZTc0ODdj",
   "tracks": [
     {
       "added_at": "2023-12-28 23:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "The Days / Nights",
-        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 176658,
-      "name": "The Nights",
-      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -699,6 +683,46 @@
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "The Days / Nights",
+        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 176658,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -751,30 +775,6 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 250373,
-      "name": "Yeah! (feat. Lil Jon & Ludacris)",
-      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -1279,6 +1279,26 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "rockstar (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1335,26 +1355,6 @@
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "rockstar (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1507,22 +1523,6 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Love You Like A Love Song",
+      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1759,18 +1775,18 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "Selena Gomez & The Scene",
-          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 188453,
-      "name": "Love You Like A Love Song",
-      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1791,22 +1807,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     }
   ],
   "unique_name": "Fest!",

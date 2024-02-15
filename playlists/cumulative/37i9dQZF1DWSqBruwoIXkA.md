@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Katelyn Tarver
 
-653 songs - 1 day 12 hr 0 min
+656 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB) | 9:58 | 2021-12-17 | 2022-05-20 |
 | [almost happy](https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [almost happy](https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K) | 2:17 | 2022-11-18 | 2023-09-30 |
 | [Almost Loved You](https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [part one](https://open.spotify.com/album/7mMRGWSoqwWWwQzCI2eMqh) | 3:40 | 2023-02-03 | 2023-02-11 |
-| [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 | 2023-04-11 |  |
+| [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 | 2023-04-11 | 2024-02-15 |
 | [Always Almost](https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Always Almost](https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM) | 3:22 | 2022-03-18 | 2022-05-18 |
 | [Always Love](https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Always Love](https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba) | 3:20 | 2022-10-28 | 2023-02-04 |
 | [amnesia](https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [amnesia](https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH) | 2:52 | 2022-10-28 | 2023-09-26 |
@@ -51,7 +51,7 @@
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-09-22 | 2023-10-25 |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-08-26 | 2023-08-05 |
 | [As the World Caves In](https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH) | 2:41 | 2022-06-21 |  |
-| [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 | 2023-12-08 |  |
+| [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 | 2023-12-08 | 2024-02-15 |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-12-17 |  |
 | [At Your Worst](https://open.spotify.com/track/2k8qzTJTHY1m3osbMtayIy) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:58 | 2023-09-15 | 2023-12-09 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-01 |  |
@@ -164,7 +164,7 @@
 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 | 2022-06-24 | 2022-11-12 |
 | [Empty Room](https://open.spotify.com/track/3rhWu9LLv0LleWbO9LuQrO) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:04 | 2023-09-29 | 2023-11-18 |
 | [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 | 2023-09-15 | 2023-10-14 |
-| [Empty Room](https://open.spotify.com/track/56s9OQ9s0YX3U0JncipqLU) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44) | 3:04 | 2023-09-29 |  |
+| [Empty Room](https://open.spotify.com/track/56s9OQ9s0YX3U0JncipqLU) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44) | 3:04 | 2023-09-29 | 2024-02-15 |
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-12 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 5:04 | 2021-12-17 | 2022-08-02 |
@@ -441,7 +441,9 @@
 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-03-18 |  |
 | [Never the 1](https://open.spotify.com/track/6xyOZrXp6UGOFa30jewqIV) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Never the 1](https://open.spotify.com/album/5bOtmciyogNRJH1P1XXmGA) | 2:51 | 2021-12-17 | 2022-05-20 |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2023-04-29 |
+| [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-14 |  |
 | [No Words](https://open.spotify.com/track/11Q0l1bZkmXJk3LStYGuAy) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [No Words](https://open.spotify.com/album/1zqo2hzuuP6ZZtg7a6bMZz) | 3:09 | 2022-03-15 | 2022-04-21 |
+| [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 | 2024-02-14 |  |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-08-01 |
 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-15 | 2023-11-21 |
 | [not over you](https://open.spotify.com/track/1hXAkVaCozEsMUPVCcEkO9) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [bye](https://open.spotify.com/album/6qgMAtWzDo8Y1yBoGxv189) | 3:10 | 2022-01-07 | 2022-03-15 |
@@ -472,6 +474,7 @@
 | [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 | 2023-01-21 |
 | [Paris with Somebody Else](https://open.spotify.com/track/7youPYC7DjNzMeYHncoOeY) | [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Paris with Somebody Else](https://open.spotify.com/album/6Xw5EhAVfEovS2HoWa95Lh) | 2:30 | 2022-05-27 | 2022-05-29 |
 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 | 2023-03-31 |  |
+| [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2024-02-14 |  |
 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-09-15 |  |
 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 | 2022-07-15 | 2022-07-23 |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-12-17 |  |

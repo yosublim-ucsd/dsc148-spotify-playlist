@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: REI AMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,282 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,286 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 33 | [Lose](https://open.spotify.com/track/530l1XggFTVKZIM3khE10r) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/312cHRlzeS4VuD1RHzAGIt) | 4:16 |
 | 34 | [universe](https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe](https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma) | 3:06 |
 | 35 | [Better Than the Boys](https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy) | 2:34 |
-| 36 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
-| 37 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
+| 36 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
+| 37 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
 | 38 | [Bicycle](https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 2:59 |
 | 39 | [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 |
 | 40 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 77 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 |
 | 78 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
 | 79 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 |
-| 80 | [Alive](https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Alive](https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3) | 3:17 |
-| 81 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
+| 80 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
+| 81 | [Alive](https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Alive](https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3) | 3:17 |
 | 82 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
 | 83 | [PRIMAL](https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [PRIMAL](https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F) | 2:40 |
 | 84 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
 | 85 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
-| 86 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
-| 87 | [Selfish](https://open.spotify.com/track/3cDcYJUR4vJ6KBLjjBTqsw) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/2HdxbJNhnwNzT0FiDvCPAY) | 2:26 |
+| 86 | [Selfish](https://open.spotify.com/track/3cDcYJUR4vJ6KBLjjBTqsw) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/2HdxbJNhnwNzT0FiDvCPAY) | 2:26 |
+| 87 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
 | 88 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
 | 89 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 90 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 
-Snapshot ID: `MCxjZTNiNmExZjZmYjNjYTk5ZWRhZTNhZWU4MTQ2MTk2ZTJiOGM1NmQ5`
+Snapshot ID: `MCw3OWVmOGY4YWE4ZDRkZGMyNDAyODE3MDBhMWY1NWEyYzI3NTA1Yjg2`

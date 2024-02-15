@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > Leave room in your garden for fairies to dance 🍀🧚🏼‍♀️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,314 likes - 77 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,326 likes - 77 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 42 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
 | 43 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 |
 | 44 | [Part III](https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 3:42 |
-| 45 | [Organon](https://open.spotify.com/track/4akPmp6IWf02FdXXXJi3lX) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:30 |
-| 46 | [Tears In The Typing Pool](https://open.spotify.com/track/2ckhAiLT5eV5blWvyDs8Lh) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/6xBYjKF7uvteMN51uxVNJv) | 2:12 |
+| 45 | [Tears In The Typing Pool](https://open.spotify.com/track/2ckhAiLT5eV5blWvyDs8Lh) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/6xBYjKF7uvteMN51uxVNJv) | 2:12 |
+| 46 | [Organon](https://open.spotify.com/track/4akPmp6IWf02FdXXXJi3lX) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:30 |
 | 47 | [I Guess](https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:15 |
 | 48 | [Trees and Flowers](https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U) | [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [1982 4 Piece Demo](https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG) | 3:14 |
 | 49 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 55 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 56 | [Alien Observer](https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 3:56 |
 | 57 | [Landscape With a Fairy](https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [A Little Fable](https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN) | 4:25 |
-| 58 | [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [Barrow](https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V) | 6:38 |
+| 58 | [Some things Cosmic](https://open.spotify.com/track/5JeZZtqY0loM9UHQVIChby) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/0wtk8iyHpE7VnMmVf0ZV9f) | 2:54 |
 | 59 | [Frou\-frou Foxes in Midsummer Fires](https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 5:38 |
-| 60 | [Some things Cosmic](https://open.spotify.com/track/5JeZZtqY0loM9UHQVIChby) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/0wtk8iyHpE7VnMmVf0ZV9f) | 2:54 |
+| 60 | [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [Barrow](https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V) | 6:38 |
 | 61 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 62 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
 | 63 | [Different This Time](https://open.spotify.com/track/4WFWh42DCkPCjcjqITk54S) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Lake Tear of the Clouds](https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW) | 3:53 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 69 | [Ready Now](https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [MOOMINVALLEY \(Official Soundtrack\)](https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF) | 3:01 |
 | 70 | [Spring](https://open.spotify.com/track/3HjyXmT0PyqVFGHR97VnKu) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:23 |
 | 71 | [See Us](https://open.spotify.com/track/6dmvic5s3LHMDgT3S13A2W) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/4sIVjY70KXkT3JKFJ6ySQI) | 2:10 |
-| 72 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
-| 73 | [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 |
+| 72 | [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 |
+| 73 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 | 74 | [Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Images](https://open.spotify.com/album/6HUVECqJdGEo4xJ8LIeES6) | 4:08 |
-| 75 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:51 |
-| 76 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 |
+| 75 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 |
+| 76 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:51 |
 | 77 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 
-Snapshot ID: `MCw5ZGUwODU0ODgyMjYxYWMwMzI4ODc1ZTVhNjIzODU1ZGQ4ZDU3ODhi`
+Snapshot ID: `MCw4NGE1NzU2ZDcxZWFjNjZmZmMwMTA5M2M5NjlhZjZmMmJjMjg3Njg3`

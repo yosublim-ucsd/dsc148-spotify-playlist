@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Emanero, Angela Torres, Karina & j mena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,996 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,162 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 52 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 53 | [No Es Mi Despedida](https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:04 |
 | 54 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
-| 55 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 |
-| 56 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
+| 55 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
+| 56 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 |
 | 57 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
 | 58 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
 | 59 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 99 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 |
 | 100 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 
-Snapshot ID: `MCw4YTUwMGE4ZDcxZDdjZTdjYTY4ZGI3YTg4OGIyNjJmMzNkMTFkZDgw`
+Snapshot ID: `MCw3MWQzMWMyOWNkY2JlODU0N2NlOTgyMTVjMDExNjZjM2IzNjA3N2Yy`

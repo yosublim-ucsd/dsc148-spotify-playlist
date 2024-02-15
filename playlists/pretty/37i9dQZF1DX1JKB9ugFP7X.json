@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23886,
+  "num_followers": 23884,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjliYjU4MjZiNWVmZTIxNTdjZTQxMjgyNjdmNTE1MDBkNmEyNmVh",
+  "snapshot_id": "MCw4ZWRkYjYxYmY4NGMxYTJjZGQxYzU4ZTQ4YzQxZWNhNmVmYzgzYjMz",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "TU SI K TA LOKO",
-        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "TU SI K TA LOKO",
-      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Dejarte Estar (Pyura Remix)",
         "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+        "name": "TU SI K TA LOKO",
+        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         }
       ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+      "duration_ms": 170095,
+      "name": "TU SI K TA LOKO",
+      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 191571,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        }
+      ],
+      "duration_ms": 134425,
+      "name": "PURA",
+      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "El Im\u00e1n (Remix)",
         "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 228000,
       "name": "El Im\u00e1n - Remix",
       "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        }
-      ],
-      "duration_ms": 134425,
-      "name": "PURA",
-      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1527,6 +1527,46 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "7 canciones antes de que nos corten la luz",
+        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
+      },
+      "artists": [
+        {
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
+        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
+      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -1563,46 +1603,6 @@
       "duration_ms": 309014,
       "name": "Delight",
       "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
-        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
-      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "7 canciones antes de que nos corten la luz",
-        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
-      },
-      "artists": [
-        {
-          "name": "DEFENSA",
-          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Todas las Luces (Remix)",
         "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 220000,
       "name": "Todas las Luces - Remix",
       "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     }
   ],
   "unique_name": "ElectroPop",

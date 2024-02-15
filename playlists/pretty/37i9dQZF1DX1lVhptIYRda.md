@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,456,690 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,457,671 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 50 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
 | 51 | [Boys Back Home](https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Boys Back Home](https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7) | 2:45 |
 
-Snapshot ID: `MCw4ODgzYjU1Nzk5ZDg4YWVjN2RhOGNjYjM5MmJkMGE2MDQ2NmIwYjM1`
+Snapshot ID: `MCxkNTcwYTE5YjY2MTQ1ZTBmMzc5ZjFkMTRhYjhjYjQ3NjZjZjU2ODJh`

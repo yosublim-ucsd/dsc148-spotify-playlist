@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,009 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,010 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 34 | [Hablando Claro](https://open.spotify.com/track/7cXUofSYEealMPBcymmKGp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [La Gran Coleccion de Oro, Vol\. 1](https://open.spotify.com/album/7FgTvoZPZEOarrn1kKHWa0) | 2:46 |
 | 35 | [Quiero Que Sepas](https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:19 |
 | 36 | [La Mosca](https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Jilgueritas](https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn) | [Canciones Contestadas](https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd) | 2:47 |
-| 37 | [Si Tengo a Mi Madre](https://open.spotify.com/track/7jZxsGZIyAg9a3gtMCHe98) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Los Alegres de Michoacan](https://open.spotify.com/artist/2bIWWZmLp4vqhMj4m8x71J) | [24 Kilates Norteños](https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK) | 2:29 |
-| 38 | [Prenda Del Alma](https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tu Recuerdo](https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj) | 3:17 |
-| 39 | [Veinte Años](https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:10 |
+| 37 | [Prenda Del Alma](https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tu Recuerdo](https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj) | 3:17 |
+| 38 | [Veinte Años](https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:10 |
+| 39 | [Si Tengo a Mi Madre](https://open.spotify.com/track/7jZxsGZIyAg9a3gtMCHe98) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Los Alegres de Michoacan](https://open.spotify.com/artist/2bIWWZmLp4vqhMj4m8x71J) | [24 Kilates Norteños](https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK) | 2:29 |
 | 40 | [Tres Viudas Solas](https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Super Éxitos](https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ) | 2:55 |
 | 41 | [Arnulfo Gonzalez](https://open.spotify.com/track/3crxQKluxTRyJE4l5JQ7YM) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:17 |
 | 42 | [Por Una Mujer Bonita](https://open.spotify.com/track/6Wz4A5k7oGl8BkybDZ9gwF) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 49 | [Paso del Norte](https://open.spotify.com/track/2HYz3vIPX8aoRYxDZTdBEW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:22 |
 | 50 | [Gabino Barrera](https://open.spotify.com/track/7eWE0XtEh4ZbUjWzEDTSPJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:36 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA4OWE2YWJmOWYwNmU1N2U1MTJlZDMzNzBkMWQxM2U4Ng==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA1N2M2YjYyMGQ0NjlmNWQ0ZjM4NjY3ZTgzZDRmMDBhNg==`

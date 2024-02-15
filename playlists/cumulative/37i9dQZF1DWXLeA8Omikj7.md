@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-903 songs - 2 day 16 hr 50 min
+904 songs - 2 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Donut](https://open.spotify.com/track/5rnVpmklzQMUcAa1VMhi1D) | [Stereo Cube](https://open.spotify.com/artist/0lpcim9mbdhneVMoTJDzud) | [Donut](https://open.spotify.com/album/0uQP5J1K4LaRVPEjBJEURt) | 3:42 | 2019-06-21 | 2020-08-26 |
 | [Don’t Leave Me Alone](https://open.spotify.com/track/0sts2lyM27TXVhRUo5uTEx) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Don't Leave Me Alone](https://open.spotify.com/album/4ehmsm1IQXNEF0Va8RHc5z) | 3:02 | 2022-04-22 | 2022-07-29 |
 | [Dorfex Bos \- Bassnectar Remix 2015 Version](https://open.spotify.com/track/4nhPLFdQIZyZzt6mw1mMoX) | [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Into the Sun](https://open.spotify.com/album/29e92rWX8k9EYyhi3COxtE) | 5:05 | 2019-06-21 | 2020-10-22 |
-| [Dream It Right](https://open.spotify.com/track/6xnyxSCB8WY0GGZw0TILJD) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Dream It Right](https://open.spotify.com/album/59I52LoItJLyv9i4OYzQAc) | 5:48 | 2023-12-15 |  |
+| [Dream It Right](https://open.spotify.com/track/4B7nE0r1RkjFDjx0tWQrhu) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [10](https://open.spotify.com/album/3s2PCuMrBgJEzyic9pXQAY) | 5:48 | 2024-02-12 |  |
+| [Dream It Right](https://open.spotify.com/track/6xnyxSCB8WY0GGZw0TILJD) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Dream It Right](https://open.spotify.com/album/59I52LoItJLyv9i4OYzQAc) | 5:48 | 2023-12-15 | 2024-02-15 |
 | [Dream Weaversm, Pt\. 2](https://open.spotify.com/track/5zH3MhHsWmqBvw72bHb52h) | [Babau](https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU) | [Stock Fantasy Zone](https://open.spotify.com/album/4aHUddc9Fx5S5QSU3y341I) | 4:38 | 2023-08-22 | 2023-10-14 |
 | [Dreamer's Wake](https://open.spotify.com/track/320ePMZ8X0ugeffZk0wNzY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:04 | 2022-07-01 |  |
 | [Dreamer's Wake](https://open.spotify.com/track/3Y4sSXeyK1flHPhN8P0aDY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 5:04 | 2019-06-19\* | 2022-04-19 |

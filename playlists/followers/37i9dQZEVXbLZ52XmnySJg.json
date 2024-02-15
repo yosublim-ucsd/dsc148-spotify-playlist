@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 475993,
+  "2024-02-15": 476164,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -363,7 +363,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 134110,
       "name": "Abrar\u2019s Entry | Jamal Kudu (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
@@ -3281,6 +3281,24 @@
       "duration_ms": 219638,
       "name": "Chola Chola",
       "url": "https://open.spotify.com/track/27nzJVsvXqXyeMIcVxvB54"
+    },
+    {
+      "album": {
+        "name": "Aalas Ka Pedh",
+        "url": "https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233630,
+      "name": "Choo Lo",
+      "url": "https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb"
     },
     {
       "album": {
@@ -8565,7 +8583,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
@@ -10769,7 +10787,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 113264,
       "name": "Marham (Pehle Bhi Main) [From \"ANIMAL\"]",
       "url": "https://open.spotify.com/track/1fGXJZny7HUQnLKwttxmYw"
@@ -15257,7 +15275,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -17763,7 +17781,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 216214,
       "name": "Unakku Thaan - From \"Chithha\"",
       "url": "https://open.spotify.com/track/4H1FLy4H7nS9wy9gg9JeFQ"

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 87753,
+  "2024-02-15": 87841,
   "date_first_scraped": "2022-06-20",
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
   "name": "Jazz Piano Classics",
@@ -2569,7 +2569,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 423440,
       "name": "Now He Sings, Now He Sobs",
       "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
@@ -3141,7 +3141,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 375426,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"

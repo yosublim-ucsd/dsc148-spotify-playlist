@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 440332,
+  "2024-02-15": 440359,
   "date_first_scraped": "2021-12-21",
   "description": "Real nasty house. Cover: BIJOU and Dr. Fresch",
   "name": "Nasty Bits",
@@ -939,7 +939,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 138217,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/29LzGsdnLy0p7PFYmtw6lW"
@@ -6998,6 +6998,24 @@
     },
     {
       "album": {
+        "name": "Let's Rock",
+        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209062,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
+    },
+    {
+      "album": {
         "name": "LIE 2 ME",
         "url": "https://open.spotify.com/album/4MLPLqyMOYDYsS8gN1atmy"
       },
@@ -11025,7 +11043,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 179572,
       "name": "Speaker Cone",
       "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"

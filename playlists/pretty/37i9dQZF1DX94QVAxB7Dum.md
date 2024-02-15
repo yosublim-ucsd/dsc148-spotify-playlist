@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,794 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,912 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 17 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
 | 18 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 19 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Man In The Street: The Complete Yellow Stax Solo Singles \(1968\-1974\)](https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b) | 2:22 |
-| 20 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
-| 21 | [A Song for You](https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 5:25 |
+| 20 | [A Song for You](https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 5:25 |
+| 21 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 22 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:02 |
 | 23 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 24 | [People Get Ready](https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [People Get Ready](https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL) | 2:43 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 47 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 |
 | 48 | [Me and Mrs\. Jones](https://open.spotify.com/track/5GYcaVfaFBHe2gzA6Oybgj) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:45 |
 | 49 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
-| 50 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
-| 51 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
-| 52 | [Hercules](https://open.spotify.com/track/0wRejfFXjZa1TGeJ7kDPCT) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/77GaIlfqKgkmn84Pku9owB) | 4:09 |
+| 50 | [Hercules](https://open.spotify.com/track/0wRejfFXjZa1TGeJ7kDPCT) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/77GaIlfqKgkmn84Pku9owB) | 4:09 |
+| 51 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
+| 52 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
 | 53 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 |
 | 54 | [Tramp](https://open.spotify.com/track/2gFfG8Ick2LGOzFHiWOV22) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [King & Queen](https://open.spotify.com/album/0BMj7v9E7i5YzKsZ7HJ9YX) | 3:01 |
 | 55 | [Boogie On Reggae Woman](https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 5:13 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Hurt so Bad \(Rerecorded\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 | 69 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
 
-Snapshot ID: `MCxhZDQxYzY2YTViNzEzYWM5NzMwNWQ0ODk0ZjQ2Y2UyMTRkNjkxMGMz`
+Snapshot ID: `MCxhMjQzOGFkZWVjMGNiYzQ4ZTZlOTQyNDFjZTNkMjljZjg3OGYxNDFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,607 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,616 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 60 | [Seven Words](https://open.spotify.com/track/500G3gVwV5vrP2DWhOF7Tw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/2jBj6Qyedfd0XwbvJFuzTh) | 4:37 |
 | 61 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
 | 62 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
-| 63 | [Eleanor Rigby](https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [L'air de rien](https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW) | 4:24 |
-| 64 | [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 |
+| 63 | [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 |
+| 64 | [Eleanor Rigby](https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [L'air de rien](https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW) | 4:24 |
 | 65 | [The Friary](https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Cobwebs](https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa) | 4:10 |
 | 66 | [At the Purchaser's Option](https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 4:16 |
 | 67 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 88 | [Learnin' to Drown](https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 4:53 |
 | 89 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 90 | [Breakin' Ground](https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Breakin' Ground](https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl) | 3:04 |
-| 91 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 |
-| 92 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
-| 93 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 |
-| 94 | [Lonely Time](https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [More From the Levee](https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv) | 3:22 |
+| 91 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
+| 92 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 |
+| 93 | [Lonely Time](https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [More From the Levee](https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv) | 3:22 |
+| 94 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 |
 | 95 | [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 |
 | 96 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 |
 | 97 | [American Flowers](https://open.spotify.com/track/1CtsGuP3zaphCyUieBpOQF) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [JT Nero](https://open.spotify.com/artist/4KggKI2drVc4UIotyrOcvQ) | [American Flowers](https://open.spotify.com/album/3aw4lot05PgG9vCBvCQVpg) | 6:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [If I Could Only Fly](https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [If I Could Only Fly / True Love's Flame](https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di) | 4:29 |
 | 100 | [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 |
 
-Snapshot ID: `MCw0Yzc1NTU0YmZlOTUxZmMwNTViZmY2MDAxZTQ3Yzc1YWQ3MWJiMmMw`
+Snapshot ID: `MCxkNjA2YjM2NGM4YWM0OWRkYTVjNTdjYWFjZGY0NTE4NDJmY2ZmM2Ey`

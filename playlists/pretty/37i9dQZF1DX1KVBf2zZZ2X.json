@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 28716,
+  "num_followers": 28873,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzgyYjUzZjUwZDQ0MTkwYTM3ZGQ4NjEwMGFmNTFiOWMxOWFmOGI1",
+  "snapshot_id": "MCwyMzA1NzI0YWI0YzIyMWZhMjMyM2IxMjdkZmM2NDQ1Yzc3MDMwMjA5",
   "tracks": [
     {
       "added_at": "2024-02-06 14:07:11",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "nature",
-        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
-      },
-      "artists": [
-        {
-          "name": "cloudcrush",
-          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "drifting (with morning birds)",
-      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Open Windows",
         "url": "https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 162374,
       "name": "Open Windows",
       "url": "https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "nature",
+        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "drifting (with morning birds)",
+      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -699,18 +699,34 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Beautiful Walk",
-        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy"
       },
       "artists": [
         {
-          "name": "Loftet",
-          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 140181,
-      "name": "Mellow Spring",
-      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
+      "duration_ms": 180041,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Swells of Peace",
+        "url": "https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 143045,
+      "name": "Swells of Peace",
+      "url": "https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -727,6 +743,22 @@
       "duration_ms": 134000,
       "name": "Above The Sea",
       "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Beautiful Walk",
+        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "duration_ms": 140181,
+      "name": "Mellow Spring",
+      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -759,38 +791,6 @@
       "duration_ms": 187035,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 180041,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Swells of Peace",
-        "url": "https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF"
-      },
-      "artists": [
-        {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
-        }
-      ],
-      "duration_ms": 143045,
-      "name": "Swells of Peace",
-      "url": "https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Beautiful Walk",
-        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
-      },
-      "artists": [
-        {
-          "name": "Loftet",
-          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
-        }
-      ],
-      "duration_ms": 165501,
-      "name": "New Lakes",
-      "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "October 21st",
         "url": "https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 144500,
       "name": "October 21st",
       "url": "https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Beautiful Walk",
+        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "duration_ms": 165501,
+      "name": "New Lakes",
+      "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Mystic Nature",
-        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
-      },
-      "artists": [
-        {
-          "name": "Dawe Natauk",
-          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
-        }
-      ],
-      "duration_ms": 202789,
-      "name": "Mystic Nature",
-      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Pentode",
         "url": "https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 152000,
       "name": "Through the Clouds",
       "url": "https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Back to life",
-        "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
+        "name": "Da Lat",
+        "url": "https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS"
       },
       "artists": [
         {
-          "name": "My Dream Escape",
-          "url": "https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d"
+          "name": "Mikki Johansson",
+          "url": "https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT"
         }
       ],
-      "duration_ms": 130807,
-      "name": "New Roads",
-      "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
+      "duration_ms": 122583,
+      "name": "Da Lat",
+      "url": "https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Da Lat",
-        "url": "https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS"
+        "name": "Back to life",
+        "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
       "artists": [
         {
-          "name": "Mikki Johansson",
-          "url": "https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT"
+          "name": "My Dream Escape",
+          "url": "https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d"
         }
       ],
-      "duration_ms": 122583,
-      "name": "Da Lat",
-      "url": "https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt"
+      "duration_ms": 130807,
+      "name": "New Roads",
+      "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
+        "name": "Cosmic Major",
+        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Cosmic Major",
+      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
         "name": "Sara's Dream",
         "url": "https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 184545,
       "name": "Remain In Light (432 Hz Sound Bath)",
       "url": "https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Cosmic Major",
-        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
-      },
-      "artists": [
-        {
-          "name": "Solarixo",
-          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Cosmic Major",
-      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
+        "name": "Noche De Oto\u00f1o",
+        "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Noche De Oto\u00f1o",
+      "url": "https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
         "name": "Hygrometer",
         "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 136250,
       "name": "Morning Calm",
       "url": "https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Noche De Oto\u00f1o",
-        "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Noche De Oto\u00f1o",
-      "url": "https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1483,6 +1483,38 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
+        "name": "Relaxing Dreams",
+        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 281904,
+      "name": "Relaxing Dreams",
+      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Nota Placidit\u00e0",
+        "url": "https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC"
+      },
+      "artists": [
+        {
+          "name": "Alfred Mizzi",
+          "url": "https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp"
+        }
+      ],
+      "duration_ms": 151480,
+      "name": "Nota Placidit\u00e0",
+      "url": "https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
         "name": "Giardino Di Corde",
         "url": "https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR"
       },
@@ -1515,22 +1547,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Nota Placidit\u00e0",
-        "url": "https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC"
-      },
-      "artists": [
-        {
-          "name": "Alfred Mizzi",
-          "url": "https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp"
-        }
-      ],
-      "duration_ms": 151480,
-      "name": "Nota Placidit\u00e0",
-      "url": "https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "From the meadow",
         "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
       },
@@ -1543,38 +1559,6 @@
       "duration_ms": 186786,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Relaxing Dreams",
-        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "Relaxing Dreams",
-      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "At Dawn",
-        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
-      },
-      "artists": [
-        {
-          "name": "Logan Collier",
-          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
-        }
-      ],
-      "duration_ms": 134414,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
+      },
+      "artists": [
+        {
+          "name": "Logan Collier",
+          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
+        }
+      ],
+      "duration_ms": 134414,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
         "name": "The Old Grandfather Clock",
         "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Softly Now",
-        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
-      },
-      "artists": [
-        {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Softly Now",
-      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1655,6 +1639,22 @@
       "duration_ms": 225019,
       "name": "Noruega",
       "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Softly Now",
+        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Softly Now",
+      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
     },
     {
       "added_at": "2024-02-06 14:07:11",

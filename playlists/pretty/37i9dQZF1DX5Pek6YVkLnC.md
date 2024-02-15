@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: ROA
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,859 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,854 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 26 | [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 |
 | 27 | [UNA NOTi](https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [UNA NOTi](https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG) | 3:20 |
 | 28 | [Single](https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Single](https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW) | 2:58 |
-| 29 | [CLICK](https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [CLICK](https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd) | 3:00 |
-| 30 | [Baja y Sube](https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Baja y Sube](https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4) | 2:50 |
+| 29 | [Baja y Sube](https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Baja y Sube](https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4) | 2:50 |
+| 30 | [CLICK](https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [CLICK](https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd) | 3:00 |
 | 31 | [Bandida Fina \(with Ozuna\)](https://open.spotify.com/track/0L6Zw2BaYITtCMn63Yggh1) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 4:20 |
 | 32 | [Kemba Walker](https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 2:32 |
 | 33 | [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 40 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 |
 | 41 | [Suena el Bajo](https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Suena El Bajo](https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP) | 3:14 |
 | 42 | [estrella$ en el techo](https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [estrella$ en el techo](https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK) | 2:20 |
-| 43 | [GPS](https://open.spotify.com/track/355IlAxn9iHU6OcQo5PyXA) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG) | [GPS](https://open.spotify.com/album/5HOaaGSTfwEZH6hRdGCmlk) | 1:55 |
-| 44 | [Oh God](https://open.spotify.com/track/4IL1BJvlrM4xmoaQ9Rdzsa) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [Oh God](https://open.spotify.com/album/3AQrqduwIjOqqrlr7SFTly) | 3:50 |
+| 43 | [Oh God](https://open.spotify.com/track/4IL1BJvlrM4xmoaQ9Rdzsa) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [Oh God](https://open.spotify.com/album/3AQrqduwIjOqqrlr7SFTly) | 3:50 |
+| 44 | [GPS](https://open.spotify.com/track/355IlAxn9iHU6OcQo5PyXA) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG) | [GPS](https://open.spotify.com/album/5HOaaGSTfwEZH6hRdGCmlk) | 1:55 |
 | 45 | [Hola Cookie](https://open.spotify.com/track/18tqHhZnZMj9ohszGyEqLB) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Hola Cookie](https://open.spotify.com/album/6U7Nz4boETlEdp7eK2XEmg) | 3:58 |
 | 46 | [Busy](https://open.spotify.com/track/2fuUZFrXc39Vd7zbIZxCzZ) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Busy](https://open.spotify.com/album/0wlVnLbR6sM6le32GHW6mH) | 3:06 |
 | 47 | [Real Trap](https://open.spotify.com/track/2yzGhfOMWbQTdU4sUJVIWk) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Real Trap](https://open.spotify.com/album/2tWW4EVZXMjBQ9wcrLjeKH) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [UN TRATO](https://open.spotify.com/track/4yZS80QhJzv3cWuHEOf4Ka) | [Izzy](https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC) | [UN TRATO](https://open.spotify.com/album/5rJnrNKi5leQAFZUXh0f7P) | 2:10 |
 | 50 | [D.N.D \(feat\. Nio Garcia\)](https://open.spotify.com/track/49zTA53lttr65mA6Z99S6O) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [CERTIFIED](https://open.spotify.com/album/6BO3l1rv04Juyf1DMwq6zp) | 4:00 |
 
-Snapshot ID: `MCwxMDAzNDg3YTVjMzk3MDIxN2ZmNDA4OTczMjI3ZTdkZWU2MjhiNzI2`
+Snapshot ID: `MCxkNzljMTdiMWUzYTFlYTMwMDMwZmNlOWQwNjJmOThkNDRjMzdhODU2`

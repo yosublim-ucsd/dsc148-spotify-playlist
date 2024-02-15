@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276337,
+  "num_followers": 276349,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGM2MjRjMmRlNzNhZjUyOWMwYjA0MTk0ZmVmMGI2NjZlNjI4NjUy",
+  "snapshot_id": "MCwyYjQ3NGEwYTU5MzY3NWIyOTZlMjVlNzdmMGNmZjhiODdiNmM4NGY2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1191,22 +1191,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
+        "name": "Where Are \u00dc Now Live (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 191327,
-      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
-      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
+      "duration_ms": 216339,
+      "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1231,26 +1235,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Where Are \u00dc Now Live (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
+        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 216339,
-      "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
+      "duration_ms": 191327,
+      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
+      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Better Half Of Me",
         "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -1375,6 +1375,26 @@
       "duration_ms": 199080,
       "name": "Surrender - Acoustic",
       "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Recognise (Remixes)",
+        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Recognise - Acoustic Version",
+      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1423,6 +1443,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
         "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
       },
@@ -1439,26 +1479,6 @@
       "duration_ms": 175990,
       "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
       "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Recognise (Remixes)",
-        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Recognise - Acoustic Version",
-      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1519,26 +1539,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Ferrari (Acoustic)",
         "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
       },
@@ -1555,78 +1555,6 @@
       "duration_ms": 141890,
       "name": "Ferrari - Acoustic",
       "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Kids in Love (Remixes)",
-        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
-      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Grabbitz - Friends EP",
-        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 61711,
-      "name": "7.6.14 (Intro)",
-      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Used To Have It All (Acoustic Version)",
-        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181934,
-      "name": "Used To Have It All - Acoustic",
-      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1655,6 +1583,78 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Used To Have It All (Acoustic Version)",
+        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 181934,
+      "name": "Used To Have It All - Acoustic",
+      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Grabbitz - Friends EP",
+        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 61711,
+      "name": "7.6.14 (Intro)",
+      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
         "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
       },
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 96866,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Are You With Me (Remixes)",
         "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
       },
@@ -1691,18 +1707,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Florida",
-        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
+        "name": "Another Chance (Remixes)",
+        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Big Pineapple",
+          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 96866,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
+      "duration_ms": 217043,
+      "name": "Another Chance - Don Diablo Chill Mix",
+      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1731,22 +1751,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Another Chance (Remixes)",
-        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
+        "name": "Sound Advice (Chapter One)",
+        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
       },
       "artists": [
         {
-          "name": "Big Pineapple",
-          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
         },
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Audrey Gallagher",
+          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
         }
       ],
-      "duration_ms": 217043,
-      "name": "Another Chance - Don Diablo Chill Mix",
-      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+      "duration_ms": 193432,
+      "name": "There Will Be Angels - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1767,26 +1787,6 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Sound Advice (Chapter One)",
-        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
-      },
-      "artists": [
-        {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
-        },
-        {
-          "name": "Audrey Gallagher",
-          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "There Will Be Angels - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
     },
     {
       "added_at": "2023-10-06 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 166313,
+  "num_followers": 166335,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGUyNjVmM2I0MjNhNmRkMGFiOTk1MGRlNzU0YjhhZTMwYjhkODg2",
+  "snapshot_id": "MCw3NDNhMmFhZDcxMmQ5ZGRmNDJlNWRkNWI5YTUwMWFmMTcyNzI1ZWYw",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -587,30 +587,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Teu Sinal",
-        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
-      },
-      "artists": [
-        {
-          "name": "Nathy Veras",
-          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Bubblegun Studios",
-          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Teu Sinal",
-      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Teu Sinal",
+        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
+      },
+      "artists": [
+        {
+          "name": "Nathy Veras",
+          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Bubblegun Studios",
+          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Teu Sinal",
+      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Pode Ir",
-        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
-      },
-      "artists": [
-        {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "Grito Filmes",
-          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
-        }
-      ],
-      "duration_ms": 153371,
-      "name": "Pode Ir",
-      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -1111,18 +1091,38 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+        "name": "Pode Ir",
+        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
       },
       "artists": [
         {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+      "duration_ms": 153371,
+      "name": "Pode Ir",
+      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
       "artists": [
         {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Corro Atr\u00e1s",
+        "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
+      },
+      "artists": [
+        {
+          "name": "Laura Padaratz",
+          "url": "https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Corro Atr\u00e1s",
+      "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/1J4ITzL4iz9SLRwKGlEpaJ"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 171792,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Corro Atr\u00e1s",
-        "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
-      },
-      "artists": [
-        {
-          "name": "Laura Padaratz",
-          "url": "https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Corro Atr\u00e1s",
-      "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
     },
     {
       "added_at": "2024-02-02 03:01:00",

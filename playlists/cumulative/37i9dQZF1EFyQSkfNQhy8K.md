@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-157 songs - 8 hr 6 min
+159 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [My Man](https://open.spotify.com/track/5XywStajT8EUnJefYwZP6C) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [My Man \(Official Video\)](https://open.spotify.com/album/6OeqW2pvP4fBQOWlrusH8i) | 3:02 | 2024-01-29 | 2024-01-31 |
 | [Na De Ti](https://open.spotify.com/track/2T13YgcHIyk9SiQkafcjeV) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:37 | 2024-01-29 |  |
 | [Nada Malo](https://open.spotify.com/track/4I1qopX9knBHznBLKZpAUi) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:23 | 2024-01-29 |  |
+| [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 | 2024-02-14 |  |
 | [No Drama](https://open.spotify.com/track/5Jq958VQwRyQFujau4TMKD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [No Drama](https://open.spotify.com/album/3LzwUe8NBJtLco5uK6bbGO) | 3:24 | 2024-01-29 |  |
 | [No Drama \- Cumbia Version](https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [No Drama \(Cumbia Version\)](https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW) | 3:02 | 2024-01-29 |  |
 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 | 2024-01-29 |  |
@@ -134,6 +135,7 @@
 | [Quererte Bonito](https://open.spotify.com/track/65x3nHFf7flZrZTLDA1H7B) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Quererte Bonito](https://open.spotify.com/album/4FIVsrPj9FasSMWV4AWRia) | 4:29 | 2024-01-31 | 2024-02-02 |
 | [Quererte Bonito](https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 4:31 | 2024-01-29 |  |
 | [Querido Diario](https://open.spotify.com/track/2vE8lpxnhTcp3lLF7Fvqdi) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:32 | 2024-01-29 |  |
+| [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 | 2024-02-14 |  |
 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 | 2024-01-29 |  |
 | [Ram Pam Pam](https://open.spotify.com/track/5sXcSQbllmz3lOcNneD1ap) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam \(Official Video\)](https://open.spotify.com/album/5fpIZx8Sa7X29adWZPv7IB) | 3:39 | 2024-01-30 | 2024-02-02 |
 | [RDC](https://open.spotify.com/track/48FhKMV4r50qBfpbZugaPv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:32 | 2024-01-29 |  |

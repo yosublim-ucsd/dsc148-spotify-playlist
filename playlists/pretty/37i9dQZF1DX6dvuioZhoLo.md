@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,197 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,237 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 62 | [Happy Man](https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Happy Man](https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV) | 2:59 |
 | 63 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 |
 | 64 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 |
-| 65 | [No One Has the Answers](https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 3:28 |
-| 66 | [Makin' Memories](https://open.spotify.com/track/4uXHQUd3icGbwK7CLmIxXk) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/0lr7pYLdjcI4MRXIW1ucfI) | 3:52 |
+| 65 | [Makin' Memories](https://open.spotify.com/track/4uXHQUd3icGbwK7CLmIxXk) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/0lr7pYLdjcI4MRXIW1ucfI) | 3:52 |
+| 66 | [No One Has the Answers](https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 3:28 |
 | 67 | [Dirty Rain](https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 3:12 |
 | 68 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 |
 | 69 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 73 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
 | 74 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 |
 | 75 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
-| 76 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
-| 77 | [Right Time](https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:21 |
+| 76 | [Right Time](https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:21 |
+| 77 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
 | 78 | [Hotel Amarillo](https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 4:00 |
 | 79 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:03 |
 | 80 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 95 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
 | 96 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
-| 98 | [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 |
-| 99 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
-| 100 | [Light As a Fire](https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa) | 3:26 |
+| 98 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
+| 99 | [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 |
+| 100 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
 
-Snapshot ID: `MCxjZTVjODhmYThiNThiMzFlMjVhM2FiZDVkZWE5N2Q0MzI2M2Q4YzAw`
+Snapshot ID: `MCwzYjM5N2IzZTg2Y2MyYzMzM2YxN2JkZGE0NjljNTk3ZTFkYmI5MzE4`

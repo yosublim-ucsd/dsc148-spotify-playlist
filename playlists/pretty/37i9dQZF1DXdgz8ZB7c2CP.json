@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
-  "num_followers": 765187,
+  "num_followers": 765196,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjNiYjllYWY1N2UwMzNlZmIxZmNmNjVmNGJjMzgxYTRhOTMzNTg2",
+  "snapshot_id": "MCw4NDI3ZGNlYWZhMThlNzU4Y2Y2ZGE3YTIxMTU0ZjczYTMxM2U3OTBj",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Rushing Back (feat. Vera Blue)",
+        "url": "https://open.spotify.com/album/29OgoLRPAWEYSWgwkemiHT"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 231663,
+      "name": "Rushing Back (feat. Vera Blue)",
+      "url": "https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Say The Word (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Rushing Back (feat. Vera Blue)",
-        "url": "https://open.spotify.com/album/29OgoLRPAWEYSWgwkemiHT"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 231663,
-      "name": "Rushing Back (feat. Vera Blue)",
-      "url": "https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Someone You Can Count On",
-        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 173609,
-      "name": "Rewind.. (But I Love You)",
-      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Favourite Place",
         "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
@@ -687,6 +671,46 @@
       "duration_ms": 180100,
       "name": "Favourite Place",
       "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 214539,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Someone You Can Count On",
+        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Rewind.. (But I Love You)",
+      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -751,6 +775,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba"
       },
@@ -771,50 +815,6 @@
       "duration_ms": 174387,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 214539,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Mercy (2022 Edit)",
-      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Chromatically",
+        "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Chromatically",
+      "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "How High",
         "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
       },
@@ -1271,6 +1287,26 @@
       "duration_ms": 192834,
       "name": "How High",
       "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1311,22 +1347,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Chromatically",
-        "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
-      },
-      "artists": [
-        {
-          "name": "Haywyre",
-          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Chromatically",
-      "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Down The Line",
         "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 208440,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Silent Assassin",
-        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
         }
       ],
-      "duration_ms": 127880,
-      "name": "Silent Assassin",
-      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1507,6 +1503,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Sd-2",
         "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 128000,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "anywhere but here",
-        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "anywhere but here",
-      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nobody Compares",
-        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Nobody Compares",
-      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nobody Compares",
+        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Nobody Compares",
+      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "All Again",
-        "url": "https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        }
-      ],
-      "duration_ms": 157859,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Ripple (Memphis LK Remix)",
         "url": "https://open.spotify.com/album/1x0eqlITyteU8f457iMx4I"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 186215,
       "name": "Ripple (Memphis LK Remix)",
       "url": "https://open.spotify.com/track/1Vay4LF63vPh7K0bBMj2fp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "All Again",
+        "url": "https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "duration_ms": 157859,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW"
     }
   ],
   "unique_name": "creamy",

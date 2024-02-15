@@ -1,12 +1,12 @@
 {
   "description": "Happy Pop-Rock Tunes to start your day. ",
-  "num_followers": 41543,
+  "num_followers": 41585,
   "original_name": "Morning Loud!!! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2UwNjMwYWM1ODczN2JmN2I4YjZjNjY2N2FmYmU1OGU1ZjE4YjEw",
+  "snapshot_id": "MCw3MmFhMzBmZTExYWY5Y2M1MmU2MjQ4NTE1MTMwYjE5YzhmMzlhYmRl",
   "tracks": [
     {
       "added_at": "2024-02-06 15:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "The Reason (20th Anniversary)",
         "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
-    },
-    {
-      "added_at": "2024-02-06 15:00:00",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 271560,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+    },
+    {
+      "added_at": "2024-02-06 15:00:00",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2024-02-06 15:00:00",

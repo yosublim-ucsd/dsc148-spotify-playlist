@@ -1,12 +1,12 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 187588,
+  "num_followers": 187612,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2U1NzU5YjBhYWY3M2U2ODZlODI1YzdlZGRjMmNlZmZkMTVjMjVm",
+  "snapshot_id": "MCxiZTQ3OWYxMTc4ZmJjMzc3ODdkOGE5YWEzOTJkYWZjODQzYmM3NDdm",
   "tracks": [
     {
       "added_at": "2024-02-01 03:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "12 hugs (like butterflies)",
         "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 289173,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "\u7b2c\u30bc\u30ed\u611f",
-      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 199960,
       "name": "PUPPET SHOW",
       "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "NEW DANCE",
-        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
+        "name": "\u5e7e\u5104\u5149\u5e74",
+        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
         }
       ],
-      "duration_ms": 198520,
-      "name": "NEW DANCE",
-      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
+      "duration_ms": 276918,
+      "name": "\u5e7e\u5104\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0"
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
       },
       "artists": [
         {
-          "name": "QUEEN BEE",
-          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 227320,
-      "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG"
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
+        "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
         "name": "Mela!",
         "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
-        "name": "\u5e7e\u5104\u5149\u5e74",
-        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
-      },
-      "artists": [
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 276918,
-      "name": "\u5e7e\u5104\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+        "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 237666,
-      "name": "Backlight",
-      "url": "https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6"
+      "duration_ms": 242495,
+      "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Backlight",
+      "url": "https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
         "name": "\u795d\u798f",
         "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 196235,
       "name": "\u795d\u798f",
       "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
-        "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
     },
     {
       "added_at": "2024-02-01 03:00:00",

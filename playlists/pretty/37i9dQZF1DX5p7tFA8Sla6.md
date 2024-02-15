@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,199 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,214 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 34 | [Who Is She \(And What Is She To You\)](https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:13 |
 | 35 | [Mighty Mighty](https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 3:03 |
 | 36 | [P\-Funk \(Wants To Get Funked Up\)](https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 7:41 |
-| 37 | [Standing On The Verge Of Getting It On](https://open.spotify.com/track/3JMtGlh9gg0UCN7E2MLZUj) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Standing On The Verge Of Getting It On](https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf) | 5:10 |
-| 38 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 |
+| 37 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 |
+| 38 | [Standing On The Verge Of Getting It On](https://open.spotify.com/track/3JMtGlh9gg0UCN7E2MLZUj) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Standing On The Verge Of Getting It On](https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf) | 5:10 |
 | 39 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 |
 | 40 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 |
 | 41 | [On a Good One](https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo III](https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX) | 3:29 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 56 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
 | 57 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 |
 | 58 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
-| 59 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
-| 60 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
-| 61 | [Joyous](https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [The Greatest Of Pleasure](https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn) | 6:27 |
-| 62 | [Highly Compatible](https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj) | 6:05 |
+| 59 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
+| 60 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
+| 61 | [Highly Compatible](https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj) | 6:05 |
+| 62 | [Joyous](https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [The Greatest Of Pleasure](https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn) | 6:27 |
 | 63 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 |
 | 64 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 |
 | 65 | [Let's Work](https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Jurassic Funk](https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:19 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCw4NDM4NmZkMmZiN2QyNTg3ZmEyZmE2MWQxZGQwYTQ0MGJkNWU0NjA5`
+Snapshot ID: `MCw4ZWM4NTQ2NDhmYzVmYzg2YTE1NmNlMTQ3MDk1YWIyZGVjYjhiMmRh`

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 44727,
+  "num_followers": 44831,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzdiZGRhNWIyYTY0OGU0YmJjNGI2MzQzYjM1MzY2ZmZmZDc3MDk3",
+  "snapshot_id": "MCwxOWIwODJlNDBmNTAxMTIzYTc3ZTJjODZlY2FiNzc5M2ViMThmOWFi",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -147,30 +147,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Oh Mdali",
-        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
-      },
-      "artists": [
-        {
-          "name": "Kaylow",
-          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
-        },
-        {
-          "name": "Playmaster & Smallistic",
-          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
-        },
-        {
-          "name": "Malungelo",
-          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
-        }
-      ],
-      "duration_ms": 361078,
-      "name": "Oh Mdali",
-      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "It Is Well",
         "url": "https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY"
       },
@@ -191,6 +167,30 @@
       "duration_ms": 430301,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Oh Mdali",
+        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
+        {
+          "name": "Playmaster & Smallistic",
+          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
+        },
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
+        }
+      ],
+      "duration_ms": 361078,
+      "name": "Oh Mdali",
+      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -411,6 +411,30 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
+        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
+      },
+      "artists": [
+        {
+          "name": "Sitha",
+          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
+        },
+        {
+          "name": "BlaQ Afro-Kay",
+          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
+        },
+        {
+          "name": "Laps Rsa",
+          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
+        }
+      ],
+      "duration_ms": 400103,
+      "name": "Winter Nights - BlaQ Afro-Kay Remix",
+      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -435,30 +459,6 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
-        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
-      },
-      "artists": [
-        {
-          "name": "Sitha",
-          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
-        },
-        {
-          "name": "BlaQ Afro-Kay",
-          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
-        },
-        {
-          "name": "Laps Rsa",
-          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
-        }
-      ],
-      "duration_ms": 400103,
-      "name": "Winter Nights - BlaQ Afro-Kay Remix",
-      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "I Rise Again",
-        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
-      },
-      "artists": [
-        {
-          "name": "Zico SA",
-          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
-        }
-      ],
-      "duration_ms": 556673,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Joker EP",
         "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 323245,
       "name": "Joker",
       "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "I Rise Again",
+        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
+      },
+      "artists": [
+        {
+          "name": "Zico SA",
+          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
+        }
+      ],
+      "duration_ms": 556673,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -839,30 +839,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Joyful Music, Vol. 1 (Compiled)",
-        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
-      },
-      "artists": [
-        {
-          "name": "Craving Souls",
-          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
-        },
-        {
-          "name": "Da Tee SA",
-          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
-        }
-      ],
-      "duration_ms": 413910,
-      "name": "Nelisiwe",
-      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "We Gonna Fight For Music",
         "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
       },
@@ -899,18 +875,26 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Those Times",
-        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
+        "name": "Joyful Music, Vol. 1 (Compiled)",
+        "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
       },
       "artists": [
         {
-          "name": "C-Moody",
-          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
+          "name": "Craving Souls",
+          "url": "https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe"
+        },
+        {
+          "name": "Da Tee SA",
+          "url": "https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
         }
       ],
-      "duration_ms": 465288,
-      "name": "Those Times",
-      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
+      "duration_ms": 413910,
+      "name": "Nelisiwe",
+      "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 470867,
       "name": "Time To Dance",
       "url": "https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Those Times",
+        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
+      },
+      "artists": [
+        {
+          "name": "C-Moody",
+          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
+        }
+      ],
+      "duration_ms": 465288,
+      "name": "Those Times",
+      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
     },
     {
       "added_at": "2024-01-25 23:00:00",

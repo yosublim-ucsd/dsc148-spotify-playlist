@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 148520,
+  "2024-02-15": 148606,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
   "name": "The Flow",
@@ -6633,7 +6633,7 @@
     {
       "album": {
         "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
       },
       "artists": [
         {
@@ -6644,6 +6644,24 @@
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-14",
       "duration_ms": 170526,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
@@ -11580,6 +11598,32 @@
     },
     {
       "album": {
+        "name": "Never Leave Me",
+        "url": "https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Never Leave Me",
+      "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt"
       },
@@ -15777,7 +15821,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 153669,
       "name": "Soul Cry",
       "url": "https://open.spotify.com/track/6n5sIJ6cA7KpVrtLNU0pOk"

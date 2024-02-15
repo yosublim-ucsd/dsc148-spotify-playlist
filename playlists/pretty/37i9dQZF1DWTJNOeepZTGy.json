@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 264202,
+  "num_followers": 264241,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWU3N2I3ZDA3ZmViOTE4ZjRlM2NhOTcxM2ExYjFhYjgxYmRmZDRj",
+  "snapshot_id": "MCxmNGVhNWVjYjgxNWU2MDk1ZTg5NzVlYWIzZTg3MGI3Y2ZhNjdhM2Vi",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 335906,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 467733,
       "name": "Show Me the Way (feat. Raphael Saadiq)",
       "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 335906,
-      "name": "Never Felt This Way",
-      "url": "https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S"
     },
     {
       "added_at": "2022-05-24 13:35:26",

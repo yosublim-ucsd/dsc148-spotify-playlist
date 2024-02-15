@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Marshmello and HOL!",
-  "num_followers": 976297,
+  "num_followers": 976311,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWY1YzQ2NTM3NTIwZGI1YzliOGJlYTVhYmM0NDhhMjE0NzNiZDhk",
+  "snapshot_id": "MCwzNTNhOGM5ZDM5ZWQ4ZDI4MGU4Nzc3NWIwYTE4NWNkNWJjYzBlODcw",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1197,42 +1197,6 @@
       "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "DYSPHORIA",
-        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 157637,
-      "name": "DYSPHORIA",
-      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "INFERNO / Ratchets",
-        "url": "https://open.spotify.com/album/6doPpUdLA2hRzbE4YJDTHI"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "INFERNO",
-      "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Mind Pluck",
@@ -1251,6 +1215,42 @@
       "duration_ms": 270857,
       "name": "Mind Pluck",
       "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "INFERNO / Ratchets",
+        "url": "https://open.spotify.com/album/6doPpUdLA2hRzbE4YJDTHI"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "DYSPHORIA",
+        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 157637,
+      "name": "DYSPHORIA",
+      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1293,6 +1293,26 @@
       "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Feels Like You",
+        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Feels Like You",
+      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
+    },
+    {
       "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "High Voltage (with JT Foley)",
@@ -1315,26 +1335,6 @@
       "duration_ms": 238795,
       "name": "High Voltage (with JT Foley)",
       "url": "https://open.spotify.com/track/6b7noKS8HNmHhphZN643dD"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Feels Like You",
-        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Feels Like You",
-      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1497,6 +1497,26 @@
       "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
     },
     {
+      "added_at": "2024-01-05 05:03:38",
+      "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 191022,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Heaven",
@@ -1519,26 +1539,6 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
-    },
-    {
-      "added_at": "2024-01-05 05:03:38",
-      "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 191022,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1877,26 +1877,6 @@
       "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "LOYAL",
-        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 255882,
-      "name": "LOYAL",
-      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Back For More",
@@ -1919,6 +1899,26 @@
       "duration_ms": 148800,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1961,22 +1961,6 @@
       "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/5F9fnBnigjsoo1ymn2Nnkj"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
-    },
-    {
       "added_at": "2023-12-15 05:13:07",
       "album": {
         "name": "Skanka (P Money Vocal Dub)",
@@ -1997,24 +1981,20 @@
       "url": "https://open.spotify.com/track/4n7PlmHa8DU1elvSbYTOFY"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Bonesaw (Remixes)",
-        "url": "https://open.spotify.com/album/332X85iYJtHx8xuPel4H68"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5F9fnBnigjsoo1ymn2Nnkj"
       },
       "artists": [
         {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        },
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Bonesaw - K Motionz Remix",
-      "url": "https://open.spotify.com/track/72b38XDyJAjCjXBT8hQizD"
+      "duration_ms": 228800,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2035,6 +2015,26 @@
       "duration_ms": 184000,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Bonesaw (Remixes)",
+        "url": "https://open.spotify.com/album/332X85iYJtHx8xuPel4H68"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        },
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Bonesaw - K Motionz Remix",
+      "url": "https://open.spotify.com/track/72b38XDyJAjCjXBT8hQizD"
     },
     {
       "added_at": "2023-10-20 04:01:00",

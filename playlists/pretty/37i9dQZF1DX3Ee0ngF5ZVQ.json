@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 415554,
+  "num_followers": 415542,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDkzNmViZmQ1MTY0OTZkNzM4MTQxYmU2NDEzZDQ4NGI3MmRlNzBm",
+  "snapshot_id": "MCxiMTBkZWZkNjI5MWMwMGU0MGEzZmNmMzI5NzdhNGI4YWJjNTlmNjRi",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Richmond County Line",
-        "url": "https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
       },
       "artists": [
         {
-          "name": "Wade Forster",
-          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Richmond County Line",
-      "url": "https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY"
+      "duration_ms": 204141,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Richmond County Line",
+        "url": "https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 221538,
+      "name": "Richmond County Line",
+      "url": "https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 204141,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Droptines",
-        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Last Goodbye",
         "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 212946,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Can't Put the Bottle Down",
-        "url": "https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 203505,
-      "name": "Can't Put the Bottle Down",
-      "url": "https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
@@ -1695,18 +1679,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Kolton Moore & the Clever Few",
-        "url": "https://open.spotify.com/album/7mCkI0xX5X1CAToGU6ZDOE"
+        "name": "Can't Put the Bottle Down",
+        "url": "https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 277500,
-      "name": "Dramamine Dreams",
-      "url": "https://open.spotify.com/track/60SuPrdFMXcQW9w6vXvxS3"
+      "duration_ms": 203505,
+      "name": "Can't Put the Bottle Down",
+      "url": "https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Cigarettes and Milk",
+        "url": "https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Feidler",
+          "url": "https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q"
+        }
+      ],
+      "duration_ms": 231029,
+      "name": "Cigarettes and Milk",
+      "url": "https://open.spotify.com/track/0HzZnV2SmvysrMb6VCO3az"
     }
   ],
   "unique_name": "Texas Country Now",

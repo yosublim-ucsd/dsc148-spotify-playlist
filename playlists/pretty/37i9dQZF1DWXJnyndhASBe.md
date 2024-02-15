@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Aleshen
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,180 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,286 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [RysunKOwY PoTwóR](https://open.spotify.com/track/2WztUY9tbPT7OQ1nP2jq8X) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Deathcore](https://open.spotify.com/album/5pEyFfIh3cruUMhecU4G9i) | 2:51 |
 | 50 | [Znalazłem pieniądze](https://open.spotify.com/track/6Kmm6QwMjkXh4tVtViPsWx) | [Holak](https://open.spotify.com/artist/4nOJhl27dVniTozwVZYa4c), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [Saska Butik](https://open.spotify.com/album/3oAaphM6SqpxlfwJfuUnxP) | 3:09 |
 
-Snapshot ID: `MCxiOGI5YWJmYjRjNWEzZTc4NjAwMmMwNTFhYWU0NjkwNTJiYmFmNDEz`
+Snapshot ID: `MCw4ZjcwMjViMjQ1Nzc3M2M0YTgyMGRiODRlNTFhYTU5ZmE1YjU3MWEy`

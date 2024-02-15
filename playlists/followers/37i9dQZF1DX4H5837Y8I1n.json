@@ -1,9 +1,31 @@
 {
-  "2024-02-14": 67068,
+  "2024-02-15": 67095,
   "date_first_scraped": "2023-07-25",
   "description": "Work out to these high energy numbers! \nCover : Ram Charan",
   "name": "Telugu Workout",
   "tracks": [
+    {
+      "album": {
+        "name": "Aavesam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/275uWzLObSrwiYe0zJJMSj"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258120,
+      "name": "Aaluma Doluma",
+      "url": "https://open.spotify.com/track/1vMxXImRI5yzXxeoHSCX13"
+    },
     {
       "album": {
         "name": "Chatrapathi",
@@ -61,7 +83,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 324917,
       "name": "Bharat Ane Nenu (The Song Of Bharat)",
       "url": "https://open.spotify.com/track/3bydTwhtFIdescvPHQuLW6"
@@ -318,6 +340,32 @@
     },
     {
       "album": {
+        "name": "Raktacharitra",
+        "url": "https://open.spotify.com/album/0d9kYB3OrpV5DyQ42PzT7c"
+      },
+      "artists": [
+        {
+          "name": "Ravindra Upadhyay",
+          "url": "https://open.spotify.com/artist/1FpxWLEKhs3fsDL1fXDBHl"
+        },
+        {
+          "name": "Vishvesh Parmar",
+          "url": "https://open.spotify.com/artist/3wW1paXfLYaORsxO6LWqfa"
+        },
+        {
+          "name": "Sandeep Patil",
+          "url": "https://open.spotify.com/artist/2qt7cdQ7VlcZLacgEbMsnc"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Dorikithe Chastavu",
+      "url": "https://open.spotify.com/track/1YxOiTuveJM4seiw0p6NeS"
+    },
+    {
+      "album": {
         "name": "Vinaya Vidheya Rama",
         "url": "https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF"
       },
@@ -340,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/5zbEyyUitcIooNso1k3wZO"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236057,
+      "name": "Eyy Bidda Idhi Naa Adda",
+      "url": "https://open.spotify.com/track/7e6J0HgooHYVi4SwdOB2OM"
+    },
+    {
+      "album": {
         "name": "Yevadu",
         "url": "https://open.spotify.com/album/4pOqsafnYYQqZcmbfDZDCd"
       },
@@ -355,6 +421,24 @@
       "duration_ms": 251303,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0PxyeLJ0OIr1EZoEZ55Elv"
+    },
+    {
+      "album": {
+        "name": "Gang Leader (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198834,
+      "name": "Gangu Leader",
+      "url": "https://open.spotify.com/track/05dYneZZZ2mytSmnsvzFoW"
     },
     {
       "album": {
@@ -516,6 +600,28 @@
     },
     {
       "album": {
+        "name": "Thaman Hits",
+        "url": "https://open.spotify.com/album/46B9K05rWMQhI8J2MkL2TT"
+      },
+      "artists": [
+        {
+          "name": "Simha",
+          "url": "https://open.spotify.com/artist/0tluFVpifIuT5slS3M1yTi"
+        },
+        {
+          "name": "Spoorthi. Y.",
+          "url": "https://open.spotify.com/artist/1aUQSkGbEHQc1A04JnqRfa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228436,
+      "name": "Kick (From \"Kick 2\")",
+      "url": "https://open.spotify.com/track/7ywZXb6rRPVk568gB3WEbe"
+    },
+    {
+      "album": {
         "name": "Naayak",
         "url": "https://open.spotify.com/album/4BpfaiS3qe8u8Wn5ADj2Mv"
       },
@@ -619,6 +725,24 @@
       "duration_ms": 214517,
       "name": "Manohari",
       "url": "https://open.spotify.com/track/68rSALJuiiiJSOgL7DXdNg"
+    },
+    {
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/2OdwEKgUt2GxFlANoVKtls"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275666,
+      "name": "Merupaisagara",
+      "url": "https://open.spotify.com/track/3vLxIayJZo1tIPDUmyo1jt"
     },
     {
       "album": {
@@ -824,6 +948,36 @@
     },
     {
       "album": {
+        "name": "Vedam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RGeSZXImbTd4TMnAKz780"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Deepu",
+          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
+        },
+        {
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+        },
+        {
+          "name": "Chaitra",
+          "url": "https://open.spotify.com/artist/6ZSHL45j7lWP63quVV6dbH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/5ZpzFCRJcksgEcBPEvPUdk"
+    },
+    {
+      "album": {
         "name": "No 1 Nenokkadine",
         "url": "https://open.spotify.com/album/5XWceT6xr2lvQJwoCJrU2G"
       },
@@ -843,6 +997,24 @@
       "duration_ms": 283447,
       "name": "O Sayonara",
       "url": "https://open.spotify.com/track/2O0gfUalCw8AM1KE3Tru2e"
+    },
+    {
+      "album": {
+        "name": "Oosaravelli",
+        "url": "https://open.spotify.com/album/68e6zTwL3U5CYNaMVZANLW"
+      },
+      "artists": [
+        {
+          "name": "Ujjayinee Roy",
+          "url": "https://open.spotify.com/artist/0y53fIUf1Zb78ip1TjulYg"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149982,
+      "name": "Oosaravelli",
+      "url": "https://open.spotify.com/track/0TB62hiEi1kcrW2TWeRcvV"
     },
     {
       "album": {
@@ -886,6 +1058,28 @@
     },
     {
       "album": {
+        "name": "Mr Nookayya",
+        "url": "https://open.spotify.com/album/3nbJ1uOlEShjSd018Aea6J"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340093,
+      "name": "Pistha Pistha",
+      "url": "https://open.spotify.com/track/1BggQQ0CxZ3K8y6iccidht"
+    },
+    {
+      "album": {
         "name": "Saaho",
         "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
       },
@@ -909,6 +1103,54 @@
       "duration_ms": 166293,
       "name": "Psycho Saiyaan",
       "url": "https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E"
+    },
+    {
+      "album": {
+        "name": "Ra Ra (Roar of the Revengers) [From \"Gang Leader\"]",
+        "url": "https://open.spotify.com/album/0WOIdbNoQqDvO7YihUtgwY"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "name": "Bashermax",
+          "url": "https://open.spotify.com/artist/11FBZoyhsRx6NeGzZA5DYb"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Ra Ra (Roar of the Revengers) (From \"Gang Leader\")",
+      "url": "https://open.spotify.com/track/5eFtLCI7lyvIxSm6YlY33X"
+    },
+    {
+      "album": {
+        "name": "Rowdy Fellow (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3vxEFpRNV3oGfKWXnhvcAZ"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Aditi Singh Sharma",
+          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206930,
+      "name": "Ra Ra Rowdy, Pt. 1",
+      "url": "https://open.spotify.com/track/1yNKoBQ64logl4Sug3dVPZ"
     },
     {
       "album": {
@@ -957,6 +1199,28 @@
       "duration_ms": 292000,
       "name": "Raavanaasura",
       "url": "https://open.spotify.com/track/46FEqrd3hdzL7kS3XR34aD"
+    },
+    {
+      "album": {
+        "name": "Race Gurram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo"
+      },
+      "artists": [
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "Race Gurram",
+      "url": "https://open.spotify.com/track/2WrOgEBYljzOgYjgUpQkxw"
     },
     {
       "album": {
@@ -1428,6 +1692,24 @@
     },
     {
       "album": {
+        "name": "DJ Tillu",
+        "url": "https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Tillu Anna DJ Pedithe",
+      "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
+    },
+    {
+      "album": {
         "name": "Idharammayilatho",
         "url": "https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq"
       },
@@ -1487,6 +1769,24 @@
       "duration_ms": 325217,
       "name": "Vachaadayyo Saami",
       "url": "https://open.spotify.com/track/3VS9W9i3GjcIUJf6Zen7yv"
+    },
+    {
+      "album": {
+        "name": "Jagadam",
+        "url": "https://open.spotify.com/album/3wy2wrmd58vwUUMs9Eov5x"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283359,
+      "name": "Voilance Is Fashion",
+      "url": "https://open.spotify.com/track/3x3QDeVgtNF77D0kfdufGS"
     },
     {
       "album": {

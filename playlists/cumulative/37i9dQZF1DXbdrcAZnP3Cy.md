@@ -4,7 +4,7 @@
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-136 songs - 7 hr 19 min
+137 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Mi Mayor Anhelo \- Balada](https://open.spotify.com/track/19lD7swUHH4kgdnzlwsawp) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Tusa y Tequila](https://open.spotify.com/album/76pxa9SGCrMFTgJE4r4ESx) | 3:29 | 2022-08-19 | 2022-11-13 |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq) | 2:14 | 2022-01-01 | 2022-07-29 |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2022-01-01 |  |
-| [Micaela](https://open.spotify.com/track/4b07ImFm5cxW7gx05lFWqG) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Por Siempre Alacranes](https://open.spotify.com/album/4HxFwtq3TyZ4zZvl6fO6rX) | 3:55 | 2022-01-01 |  |
+| [Micaela](https://open.spotify.com/track/4b07ImFm5cxW7gx05lFWqG) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Por Siempre Alacranes](https://open.spotify.com/album/4HxFwtq3TyZ4zZvl6fO6rX) | 3:55 | 2022-01-01 | 2024-02-15 |
 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 | 2022-01-01 |  |
 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 | 2022-01-01 |  |
 | [Muéveme el Pollo](https://open.spotify.com/track/2gnuSmoVQu8Xqi3DecCpaX) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vida Sinaloense](https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e) | 2:57 | 2022-01-01 | 2022-07-28 |
@@ -126,6 +126,7 @@
 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 | 2022-01-01 |  |
 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 | 2022-01-01 |  |
 | [Techno Cumbia](https://open.spotify.com/track/2ZQB09LvHaOuMJBgCfOKHp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:47 | 2022-01-01 | 2024-02-12 |
+| [Techno Cumbia](https://open.spotify.com/track/2tS0iNc2QTb3ADhlAydiDa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:47 | 2023-05-01 |  |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 | 2022-01-01 | 2022-07-29 |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 | 2022-01-01 |  |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/7gYv9ktXSUTnDbinqxKrac) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Party 5 de Mayo](https://open.spotify.com/album/5annZVJtACVC5bugyiYOP5) | 3:58 | 2022-08-19 | 2022-11-13 |

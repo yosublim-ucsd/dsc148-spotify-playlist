@@ -2,9 +2,9 @@
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with Fred again..
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with Alok, Mondello G, CERES, Tribbs
 
-353 songs - 18 hr 29 min
+354 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-07-14 |  |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-03-31 | 2023-07-15 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-10-28 | 2023-02-18 |
-| [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 | 2023-12-08 |  |
+| [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 | 2023-12-08 | 2024-02-15 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-15 | 2023-02-25 |
 | [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 | 2023-06-16 |  |
 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 | 2022-03-30 | 2022-11-25 |
@@ -180,6 +180,7 @@
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2024-01-02 |  |
 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 | 2021-11-03\* | 2022-08-06 |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-06-24 | 2023-04-29 |
+| [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-02-14 |  |
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-08-12 | 2023-02-11 |
 | [Lies](https://open.spotify.com/track/7I5XQpe29kmU86T37nhJip) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/1OSNncFtXpvRdzatk0TEjM) | 3:16 | 2021-11-03\* | 2021-11-13 |
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2021-11-03\* | 2022-03-31 |

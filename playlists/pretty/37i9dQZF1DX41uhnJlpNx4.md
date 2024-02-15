@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 
 > los tenis bien limpios y la bocina retumbando
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,753 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,790 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 63 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 |
 | 64 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |
 | 65 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
-| 66 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
+| 66 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
 | 67 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
-| 68 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
+| 68 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 69 | [DANCE CRIP](https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:45 |
 | 70 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
 | 71 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 77 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 78 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
 | 79 | [El R](https://open.spotify.com/track/5jtKmeD6iq49e04qF1T4yW) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El R](https://open.spotify.com/album/2wNUVU8fYpulfUQEVHZcmX) | 6:02 |
-| 80 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
-| 81 | [A la PM Puse en Alto](https://open.spotify.com/track/7Ifp3RKxdfp3zopuyszTJm) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A la PM Puse en Alto](https://open.spotify.com/album/4MJbNa68mEnrqV0D2MolBj) | 4:21 |
+| 80 | [A la PM Puse en Alto](https://open.spotify.com/track/7Ifp3RKxdfp3zopuyszTJm) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A la PM Puse en Alto](https://open.spotify.com/album/4MJbNa68mEnrqV0D2MolBj) | 4:21 |
+| 81 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
 | 82 | [Tantas Veces](https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 4:33 |
 | 83 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 |
 | 84 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 99 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
 | 100 | [Ch y la Pizza \- Con Banda](https://open.spotify.com/track/154P0NOxJhNl9FCLZZ6p60) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ch y la Pizza \(Con Banda\)](https://open.spotify.com/album/2SEX3CqSk94lEX0k6qE5pt) | 2:40 |
 
-Snapshot ID: `MCw3ZWNhNzM0MzM4MTJhMjMwYTVmNTM3ZTE2MzAyNzQ1YmY3NTA0MmM2`
+Snapshot ID: `MCw3YWExNjVkZDcxNmZkN2FiOGQ1YzU3OWQ4MjIxNmU1MmJmOTQ0OTZk`

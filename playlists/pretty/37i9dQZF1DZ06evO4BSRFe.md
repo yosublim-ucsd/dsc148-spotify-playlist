@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,215 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,246 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 11 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
 | 12 | [La secretaria](https://open.spotify.com/track/2T9QzIh3CekfE1HyG8R8Qa) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:53 |
 | 13 | [Tres minutos](https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 3:17 |
-| 14 | [La suegra](https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las 20 Poderosas \(USA\)](https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF) | 3:18 |
+| 14 | [No soy monedita de oro](https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:05 |
 | 15 | [Las habas](https://open.spotify.com/track/3Q97r3eLlF1qqjWHgUaYYr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:59 |
-| 16 | [No soy monedita de oro](https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:05 |
+| 16 | [La suegra](https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las 20 Poderosas \(USA\)](https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF) | 3:18 |
 | 17 | [Güerita](https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:45 |
 | 18 | [Casimira](https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:52 |
 | 19 | [Escuadras del sur](https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 3:10 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 31 | [Esclavo y amo](https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:36 |
 | 32 | [Te lo debo a ti](https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:35 |
 | 33 | [Si la miro mañana](https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 3:05 |
-| 34 | [El Próximo Tonto](https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 3:26 |
+| 34 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
 | 35 | [Besando borrachos](https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:40 |
 | 36 | [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 |
-| 37 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
+| 37 | [El Próximo Tonto](https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 3:26 |
 | 38 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
 | 39 | [Gracias mujer](https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:54 |
 | 40 | [La Niña Fresa](https://open.spotify.com/track/0epRYG4Km0dpf2HqAADKqt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los Exitos De La Banda Machos, Vol\. 2](https://open.spotify.com/album/64fPt9hv6ZktuW8rCSQVPk) | 2:39 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 43 | [Mi guitarra y yo](https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las Estrellas de la Musica Mexicana \(USA\)](https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY) | 3:36 |
 | 44 | [La noche que Chicago murió](https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:11 |
 | 45 | [Traficantes Michoacanos](https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Batalla De Bandas Banda El Recodo Vs\. Banda Machos](https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6) | 3:09 |
-| 46 | [Ingratos ojos míos](https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:03 |
-| 47 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
+| 46 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
+| 47 | [Ingratos ojos míos](https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:03 |
 | 48 | [La roncona](https://open.spotify.com/track/64aEZUhFBDpj8olgmbyyum) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:07 |
 | 49 | [Historia Sin Fin](https://open.spotify.com/track/7fzMcKm2TJccXwJMuQU74p) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia Sin Fin](https://open.spotify.com/album/6HIGZ5DJ715QdzrQurNnPo) | 3:16 |
-| 50 | [En toda la chapa](https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:33 |
+| 50 | [A prueba de balas](https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A prueba de balas](https://open.spotify.com/album/0dXYdDDNYFOdR0fLzMnlVx) | 3:21 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAyYzc3Mjg5NzU3YzA1MjI4YjllZDAyMDA2ZWVlNWZlYw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA2ZGJmODM0NDI5ZTI2YWZhNjdjMDQwM2YzOGNlOGZjZA==`

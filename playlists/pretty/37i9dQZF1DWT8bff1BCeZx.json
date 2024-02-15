@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 12961,
+  "num_followers": 12990,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWNhNWViZGQwZTUwYjA3NDQ5ODJlZjkxMDZhN2I0N2VlMTRjY2U1",
+  "snapshot_id": "MCw2MTJiNjI1ZDE3MGEwODYyYzBhZTNjNTdhY2FjZWE0YjRhYTY0NWJj",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -121,6 +121,26 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "These Are The Days (feat. Blessing Offor)",
+        "url": "https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 230644,
+      "name": "These Are The Days (feat. Blessing Offor)",
+      "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Joy in Chaos (Extended)",
@@ -161,26 +181,6 @@
       "url": "https://open.spotify.com/track/3QcdowCpxpL3uhqcyM1Ayq"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "HALLELUJAH LIVE",
-        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "MERCY CHINWO BLESSED",
-          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
-        }
-      ],
-      "duration_ms": 488338,
-      "name": "Tobechukwu - Live",
-      "url": "https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "You Are Great",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "HALLELUJAH LIVE",
+        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "MERCY CHINWO BLESSED",
+          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
+        }
+      ],
+      "duration_ms": 488338,
+      "name": "Tobechukwu - Live",
+      "url": "https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -231,22 +251,6 @@
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 203889,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -281,24 +285,20 @@
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "These Are The Days (feat. Blessing Offor)",
-        "url": "https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ"
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 230644,
-      "name": "These Are The Days (feat. Blessing Offor)",
-      "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
+      "duration_ms": 203889,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "COME AND SEE",
-      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
         "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 242704,
       "name": "Oluwa E Tobi",
       "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 262321,
+      "name": "COME AND SEE",
+      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
       "added_at": "2023-12-15 00:01:00",

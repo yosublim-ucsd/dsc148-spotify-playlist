@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "PA' LA CULTURA",
+        "url": "https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106960,
+      "name": "Ni De Aqu\u00ed, Ni De All\u00e1",
+      "url": "https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA"
+    },
+    {
+      "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/3LzwUe8NBJtLco5uK6bbGO"
       },
@@ -2586,6 +2604,24 @@
       "duration_ms": 92373,
       "name": "Querido Diario",
       "url": "https://open.spotify.com/track/2vE8lpxnhTcp3lLF7Fvqdi"
+    },
+    {
+      "album": {
+        "name": "OTRA CANCI\u00d3N DE AMOR",
+        "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
+      },
+      "artists": [
+        {
+          "name": "Stefano Toller",
+          "url": "https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81880,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna"
     },
     {
       "album": {

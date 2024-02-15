@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,879 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,459 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 46 | [Dark Knight Dummo \(feat\. Travis Scott\)](https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:16 |
 | 47 | [Aye \(feat\. Travis Scott\)](https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:27 |
 | 48 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 |
-| 49 | [Only 1 \(Interlude\) \(with Travis Scott\)](https://open.spotify.com/track/4cEqoGTqPRZy76Yl3ymj3V) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 1:20 |
-| 50 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 |
+| 49 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 |
+| 50 | [Only 1 \(Interlude\) \(with Travis Scott\)](https://open.spotify.com/track/4cEqoGTqPRZy76Yl3ymj3V) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 1:20 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAwNjQ0MjUzOTVhNDI1OTRjNTIzY2Q3MmU1ZmFiNTVkMw==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDBmODQwNTdjZDE0ZWEzMmM3OWI4MWJhYzcxMTYwZmIwMw==`

@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-281 songs - 14 hr 28 min
+282 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-06-02 |  |
 | [Edge Of Tonight](https://open.spotify.com/track/06XwKR1TK5VqEkAmtxBfdn) | [Yohann Warren](https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Edge Of Tonight](https://open.spotify.com/album/48V7kmffIm49A37EyyLUPH) | 2:48 | 2022-07-29 | 2022-08-27 |
 | [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 | 2022-09-09 | 2022-12-17 |
+| [Energy Flow Eternal](https://open.spotify.com/track/66TbpLvQxLqEctvObaZL3y) | [Isildur](https://open.spotify.com/artist/0aFceuqfrsUjmily2OAgW4) | [Energy Flow Eternal](https://open.spotify.com/album/67INXDCZGg6iHi9gxJVCxm) | 2:06 | 2024-02-14 |  |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 | 2023-06-02 |  |
 | [Everything Tonight](https://open.spotify.com/track/3sZjC74CafkHGu1rKZ1LOH) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq), [Kaiz3n](https://open.spotify.com/artist/3rmJcFPohTWLXDUMOdzlJC), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Everything Tonight](https://open.spotify.com/album/1LEe7DzVRGOlSsVb5oElcc) | 3:02 | 2022-07-29 | 2023-06-24 |
 | [Faded](https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:32 | 2023-11-21 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the finest of Tamil Indie music!\nCover : Ashwin Vinayagamoorthy",
+  "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar & Samyuktha Viswanathan",
   "name": "Tamil Indie",
   "tracks": [
     {
@@ -7952,6 +7952,28 @@
       "duration_ms": 267947,
       "name": "Poi Alternative",
       "url": "https://open.spotify.com/track/70yzpqshi0ZQqDFzdK5yzc"
+    },
+    {
+      "album": {
+        "name": "Poi Kaadhal",
+        "url": "https://open.spotify.com/album/573Tfa9eUyKwPR2mTbOyRB"
+      },
+      "artists": [
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        },
+        {
+          "name": "Umashankar Kannaiyan",
+          "url": "https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54339,
+      "name": "Poi Kaadhal",
+      "url": "https://open.spotify.com/track/75puDBmZg806ES5fDGn1wo"
     },
     {
       "album": {

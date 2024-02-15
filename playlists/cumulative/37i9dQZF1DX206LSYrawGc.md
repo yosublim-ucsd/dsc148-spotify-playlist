@@ -4,7 +4,7 @@
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-78 songs - 5 hr 42 min
+79 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Survivor Greatest Hits](https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X) | 3:50 | 2021-03-16 |  |
 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 | 2021-03-16 |  |
 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2021-03-16 |  |
-| [Don't Tell Me You Love Me](https://open.spotify.com/track/6E6uwOhAEHSzSvDewOBEvF) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Dawn Patrol](https://open.spotify.com/album/7JY3cUwV1QB3yf5q4eizYV) | 4:22 | 2021-03-16 |  |
+| [Don't Tell Me You Love Me](https://open.spotify.com/track/6E6uwOhAEHSzSvDewOBEvF) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Dawn Patrol](https://open.spotify.com/album/7JY3cUwV1QB3yf5q4eizYV) | 4:22 | 2021-03-16 | 2024-02-15 |
 | [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 | 2021-03-16 | 2022-07-26 |
 | [Dr\. Feelgood](https://open.spotify.com/track/3U6sjwor2GyL9gwiolSi1Q) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:49 | 2021-03-16 | 2022-07-29 |
 | [Dr\. Feelgood](https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:51 | 2021-03-16 | 2023-11-18 |
@@ -65,6 +65,7 @@
 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 | 2021-03-16 |  |
 | [Rock Of Ages](https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Deluxe\)](https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu) | 4:07 | 2021-03-16 |  |
 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 | 2021-03-16 |  |
+| [Round and Round](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 4:25 | 2021-03-16 |  |
 | [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2021-03-16 | 2024-02-10 |
 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 | 2022-07-05 | 2023-12-10 |
 | [Separate Ways \(Worlds Apart\) \[2023 Remaster\]](https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 5:23 | 2022-07-05 |  |

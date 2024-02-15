@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,070 likes - 80 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,135 likes - 80 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 21 | [End of Line](https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB) | [oddchapters](https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc) | [End of Line](https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3) | 4:00 |
 | 22 | [Portal](https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Portal / Echoes](https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw) | 3:27 |
 | 23 | [Boavista \- Innellea's Arp Attachement](https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 6:48 |
-| 24 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 |
-| 25 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
+| 24 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
+| 25 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 |
 | 26 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
 | 27 | [Petroleum \- Fabio Vanore Remix](https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi) | [Kris Davis](https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY), [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs) | [Petroleum \(Fabio Vanore Remix\)](https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq) | 9:04 |
 | 28 | [Finja](https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Finja](https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg) | 3:38 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 39 | [Crescendo](https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5) | [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm), [Rustboy](https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu) | [Crescendo](https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP) | 6:04 |
 | 40 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 |
 | 41 | [Purple Days](https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM) | [KlangTherapeuten](https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Purple Days & Purple Nights](https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm) | 4:29 |
-| 42 | [Endless Dancing](https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Lost in Berlin](https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU) | 4:19 |
-| 43 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
+| 42 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
+| 43 | [Endless Dancing](https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Lost in Berlin](https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU) | 4:19 |
 | 44 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
 | 45 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 |
 | 46 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
-| 47 | [Wadi Dana](https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW) | [Corren Cavini](https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8) | [Wadi Dana](https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN) | 4:09 |
+| 47 | [Wormhole](https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Wormhole](https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2) | 7:17 |
 | 48 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 |
-| 49 | [Wormhole](https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Wormhole](https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2) | 7:17 |
+| 49 | [Wadi Dana](https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW) | [Corren Cavini](https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8) | [Wadi Dana](https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN) | 4:09 |
 | 50 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
 | 51 | [Entrudo \- Booka Shade Remix](https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Orchestra \(Remixes\)](https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM) | 6:52 |
 | 52 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 62 | [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 |
 | 63 | [Forsaken Dream \- Extended Mix](https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude \(Extended Mixes\)](https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1) | 5:56 |
 | 64 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
-| 65 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
-| 66 | [Bird](https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/2ySh3YsHqiObkiSSfNPyMG) | 5:50 |
+| 65 | [Bird](https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/2ySh3YsHqiObkiSSfNPyMG) | 5:50 |
+| 66 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
 | 67 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
 | 68 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
 | 69 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
-| 70 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 |
-| 71 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
-| 72 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 |
-| 73 | [Red Planet](https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz) | 9:30 |
+| 70 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
+| 71 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 |
+| 72 | [Red Planet](https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz) | 9:30 |
+| 73 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 |
 | 74 | [Lunar](https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Lunar](https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w) | 3:12 |
 | 75 | [Exoplanet](https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re) | [Third Person](https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Exoplanet](https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ) | 8:21 |
 | 76 | [Fader](https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Fader](https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh) | 6:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Night](https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Night](https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX) | 4:13 |
 | 80 | [Proper Time](https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Proper Time](https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9) | 5:01 |
 
-Snapshot ID: `MCw3MWYyN2VmM2UyZWY5N2JjNTE1NTM4OWMzZmE2ZmYxOTM5NDdjODdm`
+Snapshot ID: `MCxjZjAyNDU5YmRjZTgyMWFmOGZmNGU5MWFmZmYwZjNlNmE4NGY4NDRi`

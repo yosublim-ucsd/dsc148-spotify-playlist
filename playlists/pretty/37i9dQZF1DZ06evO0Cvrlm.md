@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,725 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,759 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 26 | [Cowboys and Angels \- Remastered](https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 7:14 |
 | 27 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 |
 | 28 | [Let Her Down Easy \- Live](https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:50 |
-| 29 | [Star People](https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:16 |
+| 29 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
 | 30 | [Heal the Pain \- Remastered](https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 |
-| 31 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
+| 31 | [Star People](https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:16 |
 | 32 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
 | 33 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Greatest Hits III](https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7) | 5:07 |
 | 34 | [This Is Not Real Love \(feat\. Mutya\) \- Remastered 2006](https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mutya](https://open.spotify.com/artist/1VPdHx80mwDD7koKNVxPH1) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
 | 50 | [They Won't Go When I Go \- Remastered](https://open.spotify.com/track/1IiN25dDcmKq6ZHq2JxaQv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:06 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA5OGI5OGQ4NTQ5YThhMDRjNmE3MDM2NGZjMDU4OWI1MQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAwY2I3NGNlMjg4OTc1MGMyNGU5MDUxZTAzMzJlOWZiZA==`

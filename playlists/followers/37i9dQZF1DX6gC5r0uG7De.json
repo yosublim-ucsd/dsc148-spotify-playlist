@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 5684,
+  "2024-02-15": 5695,
   "date_first_scraped": "2023-09-06",
   "description": "These are the songs that shape <a href=\"https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g\">Turnstile's'</a> alternative spirit. Check out the latest COUNTER//CULTURE mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI\"> here</a>.",
   "name": "COUNTER//CULTURE: Turnstile",
@@ -93,10 +93,32 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 203373,
       "name": "beamer boy",
       "url": "https://open.spotify.com/track/16dlDlLW9Uv8lmIUvAXAjG"
+    },
+    {
+      "album": {
+        "name": "beamer boy",
+        "url": "https://open.spotify.com/album/3T8uEFa8W2HkpDAI7ap0z8"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Nedarb",
+          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "beamer boy",
+      "url": "https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-807 songs - 2 day 0 hr 13 min
+808 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-17 | 2021-09-21 |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 | 2023-05-25 | 2023-06-18 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-17 |
-| [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2023-05-02 | 2023-05-09 |
+| [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2023-05-02 |  |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-18 | 2023-05-03 |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-09 |
 | [April shower](https://open.spotify.com/track/7rIXkPCaibFJTs4rKS29OS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:32 | 2023-04-26 | 2023-04-28 |
@@ -571,7 +571,7 @@
 | [因為是你 \- 原創影集《火神的眼淚》片頭曲](https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [因為是你 \(原創影集《火神的眼淚》片頭曲\)](https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr) | 3:31 | 2021-05-13 | 2022-02-16 |
 | [圍牆](https://open.spotify.com/track/7mFemsen8hkEoC5a4qeD6C) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:19 | 2023-11-01 | 2024-01-20 |
 | [在凌晨睡著的自己](https://open.spotify.com/track/51o0ZOrrgpidbSYXlA0WCT) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [在凌晨睡著的自己](https://open.spotify.com/album/0TJ1PMFBc6iVbvrRYIeZKf) | 4:39 | 2023-01-11 | 2023-02-02 |
-| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-02-07 |  |
+| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-02-07 | 2024-02-15 |
 | [在這座城市遺失了你 \(戲劇《他們創業的那些鳥事》插曲\)](https://open.spotify.com/track/1Ytgo9ipdlTsf6wlg6sXf3) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 5:57 | 2021-03-27\* | 2023-01-16 |
 | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/track/5mQKqKNAINBrhl5MCXeDPi) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/album/3iBaI177ig9AIswqdDMzp7) | 4:27 | 2022-10-22 | 2022-10-30 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-07-07 | 2024-01-07 |
@@ -624,7 +624,7 @@
 | [情勒 GASLIGHT \(feat\. ØZI\)](https://open.spotify.com/track/5stKp2COHUza2lUl17xXRj) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [情勒 GASLIGHT \(feat\. ØZI\)](https://open.spotify.com/album/4R24nFxGHvAj4yTv3Q3wt9) | 3:46 | 2023-02-25 | 2023-04-06 |
 | [想了妳6次](https://open.spotify.com/track/0z81zrkn4dqmRLJpRePjYc) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [想了妳6次](https://open.spotify.com/album/4n3QnqVIEmJe0B2aZAlrk8) | 3:43 | 2022-02-28 | 2022-05-11 |
 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 | 2022-12-27 |  |
-| [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 | 2023-01-02 |  |
+| [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 | 2023-01-02 | 2024-02-15 |
 | [想知道你在想什麼 \- 《我吃了那男孩一整年的早餐》電影主題曲](https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想知道你在想什麼 \(《我吃了那男孩一整年的早餐》電影主題曲\)](https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn) | 4:54 | 2022-01-29 | 2023-03-21 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-10-11 |
 | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/album/6n8vZekJul6C1rYWF6IFBx) | 2:52 | 2022-06-24 | 2022-06-26 |
@@ -652,6 +652,7 @@
 | [我就想你](https://open.spotify.com/track/0Q35umX7SPX9perjjMfzCg) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我就想你](https://open.spotify.com/album/7iDi0WJ1pZkwf35d6yjtAk) | 3:25 | 2021-09-09 | 2021-10-16 |
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2021-04-16 | 2021-04-26 |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2021-04-26 | 2023-05-06 |
+| [我想要佔據你](https://open.spotify.com/track/14GFYAUxkeXranhS2qrYIZ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:12 | 2024-02-14 |  |
 | [我是如此相信](https://open.spotify.com/track/3BpiSlF0Z4CZQxcObv7erK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-16 | 2022-07-26 |
 | [我會在你身邊](https://open.spotify.com/track/6kplVLOTiWjNzYmAUvIh9F) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:41 | 2022-07-06 | 2022-07-08 |
 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 | 2023-12-12 |  |

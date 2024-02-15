@@ -1,12 +1,12 @@
 {
   "description": "Love whoever you want to love. ",
-  "num_followers": 80176,
+  "num_followers": 80460,
   "original_name": "Queer Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTA4OTExNjEzMTBiYjk2NmFmOGI1OGE0ZjJmMWMzNGI0MDM2MDVl",
+  "snapshot_id": "MCwxYWFjZmZhZTE0OGQ0OWRiNzI3MTQyZGIzMTM3ODZkYTA2ZTAwMjdi",
   "tracks": [
     {
       "added_at": "2024-02-08 23:31:20",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
+        "name": "Butch 4 Butch",
+        "url": "https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 178318,
+      "name": "Butch 4 Butch",
+      "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 205533,
       "name": "Pussy Is God",
       "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
-        "name": "Butch 4 Butch",
-        "url": "https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 178318,
-      "name": "Butch 4 Butch",
-      "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
     },
     {
       "added_at": "2024-02-08 23:31:20",

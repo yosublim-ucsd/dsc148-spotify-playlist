@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111201,
+  "num_followers": 111220,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmFmMDQ5MmU1NzFjNjAxMDFlNTg4YTVkZjY4Y2EwYWIzYzA4ZjQ4",
+  "snapshot_id": "MCw2MTY2OWMzYjI5YzlhMDc4ZjIwMjlhZDg2OGVkYjI5NWQwMTg4MGI2",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Qui\u00e9n Dice",
         "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 225196,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Nadie Va",
-      "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "olas",
         "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 218853,
+      "name": "Nadie Va",
+      "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Directo en mi habitacion <3 (En directo)",
         "url": "https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 346000,
       "name": "Corazon partio (feat. Juan Azul) - En directo",
       "url": "https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
+        "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
+      },
+      "artists": [
+        {
+          "name": "Super Especial",
+          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Ser tu depresi\u00f3n - ac\u00fastica",
+      "url": "https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Bailando Lentos",
         "url": "https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 207413,
       "name": "Bailando Lentos",
       "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
-        "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
-      },
-      "artists": [
-        {
-          "name": "Super Especial",
-          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "Ser tu depresi\u00f3n - ac\u00fastica",
-      "url": "https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Mi Cabeza",
         "url": "https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 162000,
       "name": "Mi Cabeza",
       "url": "https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     }
   ],
   "unique_name": "gris",

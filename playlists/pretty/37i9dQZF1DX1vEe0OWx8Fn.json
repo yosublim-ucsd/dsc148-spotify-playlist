@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 82746,
+  "num_followers": 82784,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjExMDUyZjg1NTQxYmIzZmE4NmY1ZGI0MjExNTBkZWFhNWY5NGE5",
+  "snapshot_id": "MCw1ZmVlMjkxYjM1ZGY1MzFiNTk1ZDliMWNiNTIwOTY5ZmQ0MDc4YzEw",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 128983,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Pieces of You",
         "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 182568,
       "name": "Pieces of You",
       "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 128983,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -805,20 +805,20 @@
       "url": "https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS"
     },
     {
-      "added_at": "2023-05-19 14:21:26",
+      "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+      "duration_ms": 173304,
+      "name": "{ The Dreamer's Hotel }",
+      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
+      "added_at": "2023-05-19 14:21:26",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
       "artists": [
         {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
         }
       ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer's Hotel }",
-      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     }
   ],
   "unique_name": "dear diary",

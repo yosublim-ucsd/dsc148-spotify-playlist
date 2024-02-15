@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A-tisket, A-tasket",
+        "url": "https://open.spotify.com/album/7buCqlY8XcXvL3NPz5wVIm"
+      },
+      "artists": [
+        {
+          "name": "Oscar Z",
+          "url": "https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89740,
+      "name": "A-tisket, A-tasket",
+      "url": "https://open.spotify.com/track/2bgQs7UTnoOgdHlPjjHG6m"
+    },
+    {
+      "album": {
         "name": "The Moon And The Stars",
         "url": "https://open.spotify.com/album/3oQCI4enDfQDmauf0QaudE"
       },
@@ -2709,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "I Had a Rooster",
+        "url": "https://open.spotify.com/album/6YdhkmnDXglu6K3DiWn3i5"
+      },
+      "artists": [
+        {
+          "name": "Nolan Wren",
+          "url": "https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87867,
+      "name": "I Had a Rooster",
+      "url": "https://open.spotify.com/track/4PQwVsOmgZWxYYd1YEJQGK"
+    },
+    {
+      "album": {
         "name": "I Love You, My Button",
         "url": "https://open.spotify.com/album/4L6Nl5JFKeKogKechpqq3x"
       },
@@ -3177,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Lights Down",
+        "url": "https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl"
+      },
+      "artists": [
+        {
+          "name": "Lynn Kay",
+          "url": "https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114706,
+      "name": "Lights Down",
+      "url": "https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/7iSn3y0F5JUJG9jMBvAofQ"
       },
@@ -3548,7 +3602,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 126610,
       "name": "Lullaby of Summerland",
       "url": "https://open.spotify.com/track/6dyJoGyNtgFDuyTO1yvwxV"
@@ -3728,7 +3782,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 111528,
       "name": "Missy Mouse",
       "url": "https://open.spotify.com/track/054ym2zOgxj4X4rjaNzVHR"
@@ -4322,7 +4376,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 80250,
       "name": "On My Chest",
       "url": "https://open.spotify.com/track/5ivcwAjEGrSiCIna2JISRC"
@@ -6277,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Three Jolly Fishermen",
+        "url": "https://open.spotify.com/album/52LqGrg4oRQmr6skk5RIuV"
+      },
+      "artists": [
+        {
+          "name": "Kim Savege",
+          "url": "https://open.spotify.com/artist/2UdEGunC9lK2FrpV4Rf1gZ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78073,
+      "name": "Three Jolly Fishermen",
+      "url": "https://open.spotify.com/track/43F86Pd7zjLtyPx3pxD02P"
+    },
+    {
+      "album": {
         "name": "Three Little Chicks",
         "url": "https://open.spotify.com/album/5KPOhttho291Nc8YqgJqW9"
       },
@@ -6810,7 +6882,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 105000,
       "name": "When You Hug Me",
       "url": "https://open.spotify.com/track/0tpCbJaLAyHiqqRi6nRPO5"

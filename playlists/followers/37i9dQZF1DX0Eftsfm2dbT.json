@@ -1,7 +1,7 @@
 {
-  "2024-02-14": 130520,
+  "2024-02-15": 130572,
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover:  BAD HOP",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover:  \u5343\u8449\u96c4\u559c",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -157,7 +157,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 258642,
       "name": "128 Bars",
       "url": "https://open.spotify.com/track/2hkOHWM4vSn29S4Pp6SlhL"
@@ -251,6 +251,42 @@
       "duration_ms": 94096,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2gZWVY6eSCALHiDSIb7Kex"
+    },
+    {
+      "album": {
+        "name": "24/7 YOU...",
+        "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161899,
+      "name": "24/7 YOU...",
+      "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
+    },
+    {
+      "album": {
+        "name": "4 MY CULT",
+        "url": "https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "4 MY CULT",
+      "url": "https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp"
     },
     {
       "album": {
@@ -731,7 +767,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 170010,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2"
@@ -2368,6 +2404,28 @@
     },
     {
       "album": {
+        "name": "BAD HOP (BHG Edition)",
+        "url": "https://open.spotify.com/album/6UnXZYwHf7Yqiqv87k7o89"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "DOG YEAR (feat. Benjazzy)",
+      "url": "https://open.spotify.com/track/13loC6YVez2PIus6j0mWr6"
+    },
+    {
+      "album": {
         "name": "Dojo",
         "url": "https://open.spotify.com/album/6O1Iz6hmm73qvBjFoBYZZw"
       },
@@ -2703,7 +2761,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 169608,
       "name": "DUDE",
       "url": "https://open.spotify.com/track/57UtHttemgNKZ2PIu0jEnN"
@@ -3147,6 +3205,24 @@
       "duration_ms": 143430,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7obYc4xBA9qHuOOckPHKHH"
+    },
+    {
+      "album": {
+        "name": "half of it",
+        "url": "https://open.spotify.com/album/3tcj0Ec0L5dl0yGkq2s0F0"
+      },
+      "artists": [
+        {
+          "name": "CHAPAH",
+          "url": "https://open.spotify.com/artist/48I0npVZVKzmMzS4ovC5ZG"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "footbath",
+      "url": "https://open.spotify.com/track/4apaTspsNn2F9rT0cdq7dp"
     },
     {
       "album": {
@@ -4211,7 +4287,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 236489,
       "name": "Higher - Remix",
       "url": "https://open.spotify.com/track/5ziiPlHiZWgexfYDWaMfMS"
@@ -4273,6 +4349,28 @@
       "duration_ms": 172800,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP"
+    },
+    {
+      "album": {
+        "name": "HOT BOYZ",
+        "url": "https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133818,
+      "name": "HOT BOYZ",
+      "url": "https://open.spotify.com/track/6dOwdgtWFX9KEFM59qK5Xu"
     },
     {
       "album": {
@@ -4413,7 +4511,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 197696,
       "name": "IKEGAMI BOYZ (feat. Bark, YZERR, Tiji Jojo & T-Pablow)",
       "url": "https://open.spotify.com/track/2biei4OntRVOYmLbgDiY6c"
@@ -5178,6 +5276,24 @@
     },
     {
       "album": {
+        "name": "Daydream Marker",
+        "url": "https://open.spotify.com/album/4wKlHESfXOKQhuk4s6zXyJ"
+      },
+      "artists": [
+        {
+          "name": "Neibiss",
+          "url": "https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220975,
+      "name": "Looking 4u",
+      "url": "https://open.spotify.com/track/1klLWilNyA3eCOvvw0y1sQ"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7uq7RO0u3zAzj95GZXArJx"
       },
@@ -5481,7 +5597,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 169500,
       "name": "Marmot",
       "url": "https://open.spotify.com/track/5BE8nmeeVfLv3TmRMTilIl"
@@ -7682,6 +7798,24 @@
     },
     {
       "album": {
+        "name": "SAICO",
+        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167429,
+      "name": "SAICO",
+      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
+    },
+    {
+      "album": {
         "name": "Satsutaba",
         "url": "https://open.spotify.com/album/42jLZDrxFjsGRT729Ohj2e"
       },
@@ -7821,7 +7955,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 150737,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/6FmWZqdGVN8onTdL8fuP1M"
@@ -7945,6 +8079,24 @@
       "duration_ms": 162500,
       "name": "SHINUHODO",
       "url": "https://open.spotify.com/track/69IMWw9QRc46zDz9GhGBoW"
+    },
+    {
+      "album": {
+        "name": "SHOT!",
+        "url": "https://open.spotify.com/album/4y5e2RaNDEB2FPEiHAikyP"
+      },
+      "artists": [
+        {
+          "name": "Rek",
+          "url": "https://open.spotify.com/artist/1HY1yYXYYav6inZs0ZLoSz"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163477,
+      "name": "SHOT!",
+      "url": "https://open.spotify.com/track/4pfRPgtnvdfp9ePO87LSiD"
     },
     {
       "album": {
@@ -8491,6 +8643,24 @@
       "duration_ms": 201063,
       "name": "TARAREBA",
       "url": "https://open.spotify.com/track/72Zdhh39YsvcuBChATbIpG"
+    },
+    {
+      "album": {
+        "name": "Team Tomodachi",
+        "url": "https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj"
+      },
+      "artists": [
+        {
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152288,
+      "name": "Team Tomodachi",
+      "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
     },
     {
       "album": {
@@ -9381,7 +9551,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 191612,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/0ROR97a9Q9SeEkDCON5fmd"
@@ -10233,7 +10403,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 152288,
       "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
       "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"

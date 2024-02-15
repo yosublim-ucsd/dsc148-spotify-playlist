@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 95617,
+  "2024-02-15": 95669,
   "date_first_scraped": "2022-11-25",
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: LE SSERAFIM)",
   "name": "K-Pop Gaming",
@@ -167,6 +167,28 @@
       "duration_ms": 216786,
       "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
       "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
+    },
+    {
+      "album": {
+        "name": "All Night (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197763,
+      "name": "All Night (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
     },
     {
       "album": {
@@ -965,7 +987,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"

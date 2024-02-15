@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9454,
+  "num_followers": 9457,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5",
+  "snapshot_id": "MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 256847,
       "name": "Quiromancia (feat. Vic Mirallas)",
       "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Entre Bacaner\u00eda y Barbarie",
+        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255198,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Calz\u00f3n",
         "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 189333,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Entre Bacaner\u00eda y Barbarie",
-        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255198,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
     },
     {
       "added_at": "2023-09-22 05:25:00",

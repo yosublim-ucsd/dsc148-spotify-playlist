@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-236 songs - 12 hr 4 min
+237 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Román](https://open.spotify.com/track/3dZgq59mteQDkpsj9rFF7O) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Román](https://open.spotify.com/album/3xfN6Yf5GGJsn3yEaoNnWh) | 3:58 | 2022-04-11 |  |
 | [Rubíes Rubios Vol\. 02](https://open.spotify.com/track/36csr9jNjoqz53hwAvTCVZ) | [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [Rubíes Rubios Vol\. 02](https://open.spotify.com/album/7s1QehRZl7zWNKl5J84fcv) | 1:41 | 2021-11-26 | 2023-08-12 |
 | [Runaway](https://open.spotify.com/track/1W7z3gxk8bWS4p1GAkFnVL) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Runaway](https://open.spotify.com/album/79hULYKlcPDuCB7O3GLjs4) | 2:31 | 2021-11-26 | 2023-10-21 |
-| [Salvame](https://open.spotify.com/track/6qQQcxq993JpYobGGZbFkB) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [R.I.P\. \(Rimas Inéditas Picantes\)](https://open.spotify.com/album/1Hk5DuSEgb6BUwTfIOX8ld) | 2:26 | 2023-07-21 |  |
+| [Salvame](https://open.spotify.com/track/6qQQcxq993JpYobGGZbFkB) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [R.I.P\. \(Rimas Inéditas Picantes\)](https://open.spotify.com/album/1Hk5DuSEgb6BUwTfIOX8ld) | 2:26 | 2023-07-21 | 2024-02-15 |
 | [SANA SANA](https://open.spotify.com/track/6ZzjeYAIHkIbh6VhYsMSIg) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SANA SANA](https://open.spotify.com/album/6I94uMnDMEFe8EHX2QiQES) | 2:58 | 2021-11-26 | 2022-04-12 |
 | [Sangría \- con WOS](https://open.spotify.com/track/51aMyZzlIOitdIA4vyF0JO) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 2:34 | 2021-11-26 | 2022-02-26 |
 | [Seduciendome](https://open.spotify.com/track/5LRj7Ae2xlHWNgxbLK5pIs) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Seduciendome](https://open.spotify.com/album/0tDbIFl2TsGsS7hjUaCRUw) | 3:11 | 2022-04-11 | 2023-06-10 |
@@ -236,6 +236,7 @@
 | [Traición](https://open.spotify.com/track/6dInG46eWdpZkjOpD0Na3x) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Traición](https://open.spotify.com/album/1Lir5TBeNDAVUq1mDATIOz) | 3:23 | 2023-04-28 | 2023-10-28 |
 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 | 2023-08-11 |  |
 | [Vamos a Fumar](https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Vamos a Fumar](https://open.spotify.com/album/32DlSEQVurR7UvVoBxmiH2) | 3:06 | 2022-03-11 | 2023-04-29 |
+| [Velorio](https://open.spotify.com/track/626DP2Pk2gFMQBUlWqulvZ) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Chili Parker](https://open.spotify.com/artist/0N0TOGZTDvGvMfpjhnrECs) | [Velorio](https://open.spotify.com/album/0UwrKsl4nvixGG6RBKE0Df) | 4:10 | 2024-02-14 |  |
 | [Ventrílocuo](https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Ventrílocuo](https://open.spotify.com/album/0JunW3Lcvu4oGpsm5Vop9R) | 2:26 | 2022-02-25 | 2022-04-12 |
 | [VIAIPI](https://open.spotify.com/track/0CYagVsyiywAsIncn4J32M) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/6rTohz8oiz7KMskyYQiv68) | 2:26 | 2022-06-10 |  |
 | [Vueltas en el barrio](https://open.spotify.com/track/1mVSPOifn1tlbmRpjcTpzs) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Vueltas en el barrio](https://open.spotify.com/album/1BrVfD9HJ9HFyHCccK4BmP) | 2:34 | 2022-02-18 | 2023-03-03 |

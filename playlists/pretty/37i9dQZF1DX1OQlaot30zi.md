@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Il Tre, Geolier, Ghali, Artie 5ive e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,949 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,966 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Chi Sei](https://open.spotify.com/track/46Ms6tYLyrgxbntJ3QZe6j) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3), [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Rivreck](https://open.spotify.com/artist/1nB0WQrdlmT4vEV158VV7i) | [Chi Sei](https://open.spotify.com/album/64UJiFXTeUfNIoupQRp28L) | 2:43 |
 | 80 | [Amigo](https://open.spotify.com/track/3guSqFoYgHuuQZQ2y4KTcl) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Amigo](https://open.spotify.com/album/3JYbGBig9wYDjyrEmwyeqX) | 2:30 |
 
-Snapshot ID: `MCw4YTdhM2Q3NGYxM2FiODg3ODJiYzlhYzJhNmJmNjAyYzNjMDc3NGYw`
+Snapshot ID: `MCxiNjA2MGQ1NWJkNDA1YjVmNzg4YzFjYzE1ZmY0ZjJmYzhkYTAyYmU2`

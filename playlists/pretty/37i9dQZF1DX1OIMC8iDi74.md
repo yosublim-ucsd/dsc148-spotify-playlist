@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Tisoki and Godlands
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,237 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,238 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 59 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
 | 60 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
 | 61 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 |
-| 62 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 |
-| 63 | [Fresh Outta Japan](https://open.spotify.com/track/2IFUmKpBpgGxlPfBqprkmO) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5olSyT5RMcIycGiSB3KPEZ) | 1:56 |
+| 62 | [Fresh Outta Japan](https://open.spotify.com/track/2IFUmKpBpgGxlPfBqprkmO) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5olSyT5RMcIycGiSB3KPEZ) | 1:56 |
+| 63 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 |
 | 64 | [Kaleidoscope \(Feat\. Crystalline\)](https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Crystalline](https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ) | [Starman](https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z) | 3:31 |
 | 65 | [ili](https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Left Is Right](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy) | 4:05 |
 | 66 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 86 | [Zurna](https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Zurna](https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH) | 2:39 |
 | 87 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 |
 | 88 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
-| 89 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
-| 90 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
+| 89 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
+| 90 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
 | 91 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 |
 | 92 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 | 93 | [Visions](https://open.spotify.com/track/3xY1Z0W0UO1itJoa5wpA95) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Visions](https://open.spotify.com/album/60ljn2ZV5TP3v0NHbEJ3VM) | 2:43 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 97 | [Matangi](https://open.spotify.com/track/6tNgb8wC2bRSUDkb3biccy) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4fX5bMmqyLK0q71CbTKvPz) | 3:18 |
 | 98 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 |
 | 99 | [REDloop](https://open.spotify.com/track/54ZY8FCkx9Mgs9EXB2KLk5) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/4eaYfg0CXG33rfHNOlnufL) | 3:45 |
-| 100 | [All Again](https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [All Again](https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG) | 2:37 |
+| 100 | [GOATED](https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [GOATED](https://open.spotify.com/album/7vhMu8cSg5nx9CQgXQTdjG) | 3:00 |
 
-Snapshot ID: `MCxhMDY4NGYyY2MwYTVhNzc2NGQ2MWIwOTRmZTAyZGVlMDA3ZWIwNWEz`
+Snapshot ID: `MCxlNTk2ODFhMGE3Y2NhZTRkYTQxY2FjMjRiNmVhYzQ1MjgzMWFkN2Iw`

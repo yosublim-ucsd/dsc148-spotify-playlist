@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,126 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,138 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 46 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
 | 47 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |
 | 48 | [Begging](https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1) | [Anton Ewald](https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb) | [A](https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm) | 3:02 |
-| 49 | [Rhythm Of My Show](https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Rhythm Of My Show](https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE) | 2:45 |
-| 50 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
+| 49 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
+| 50 | [Rhythm Of My Show](https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Rhythm Of My Show](https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE) | 2:45 |
 | 51 | [La Dolce Vita](https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [La Dolce Vita](https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi) | 3:00 |
 | 52 | [Hon Kommer Med Solsken](https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Greatest of the Best](https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo) | 2:55 |
 
-Snapshot ID: `MCw5Y2JjNjg3N2UzNDRjYWZlNzgwMTYyMmFkN2IyMGVlYTk1NzYxZTJk`
+Snapshot ID: `MCw3OGIwMWY2NDRiOTA1NDBkZDc2ZmUwMDkwMDUzZDI0MDQ2ZTNlOWZm`

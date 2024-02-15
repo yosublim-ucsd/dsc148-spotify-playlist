@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Utsavi Jha
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,529 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,582 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 76 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 |
 | 77 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
 | 78 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 |
-| 79 | [Tumhare Aane Se](https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Tumhare Aane Se](https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l) | 3:28 |
-| 80 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
-| 81 | [Parda](https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir) | 3:12 |
+| 79 | [Parda](https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir) | 3:12 |
+| 80 | [Tumhare Aane Se](https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Tumhare Aane Se](https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l) | 3:28 |
+| 81 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
 | 82 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
 | 83 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 |
 | 84 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 87 | [Kitaab](https://open.spotify.com/track/0p19g7rqRwqzhgy1dlMuTJ) | [Gravero](https://open.spotify.com/artist/0g4FyrO2K2vs07oAwWraAj), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Happy Pills](https://open.spotify.com/artist/4rgPItfFsz5c623LYz1OMA) | [Kitaab](https://open.spotify.com/album/5YKULtvq2MvRfFJdy6kDMd) | 2:28 |
 | 88 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 |
 | 89 | [Gumshuda](https://open.spotify.com/track/1qChnX5WTdkE2oCCTyFrTu) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Gumshuda](https://open.spotify.com/album/6J4Cv47ly1iUAheQy6yrEW) | 3:48 |
-| 90 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 |
-| 91 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 |
+| 90 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 |
+| 91 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 |
 | 92 | [Main Aur Tum](https://open.spotify.com/track/5DdwOYaO8qF9wEphjjmFM0) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Main Aur Tum \- Single](https://open.spotify.com/album/1OWIwIqD7d8dq9oRSYczJD) | 3:45 |
 | 93 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 |
 | 94 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
-| 95 | [Yeh Jo Zindagi](https://open.spotify.com/track/6xysS6CPs8ERZ7uAtaEGVI) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Yeh Jo Zindagi](https://open.spotify.com/album/2kB2ubduPf5Qasff2NYxIx) | 3:14 |
-| 96 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 |
+| 95 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 |
+| 96 | [Yeh Jo Zindagi](https://open.spotify.com/track/6xysS6CPs8ERZ7uAtaEGVI) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Yeh Jo Zindagi](https://open.spotify.com/album/2kB2ubduPf5Qasff2NYxIx) | 3:14 |
 | 97 | [Woh Saat Din](https://open.spotify.com/track/4fzWJzRguQ0M5oWimQTc74) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Woh Saat Din](https://open.spotify.com/album/58oqmHGR8kmIilEkiKzuAj) | 3:42 |
 | 98 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 |
-| 99 | [Khoya Rahun](https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Khoya Rahun](https://open.spotify.com/album/4zWd9cFZ7YPmYY4IDjmK5b) | 4:04 |
-| 100 | [Mera Ishq](https://open.spotify.com/track/0mIpoTx5eetKSdr6YEbu3H) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Mera Ishq](https://open.spotify.com/album/0Q953EBSXukY8hQAP8DtHr) | 3:57 |
+| 99 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 |
+| 100 | [Khoya Rahun](https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Khoya Rahun](https://open.spotify.com/album/4zWd9cFZ7YPmYY4IDjmK5b) | 4:04 |
 
-Snapshot ID: `MCwwN2YxNzU5ZmQ5ZGM4ZDk5ZDI1ZDU3OWMwYTcyNThlZjE5YTdjNzhj`
+Snapshot ID: `MCxhNmI0YjcwYmE1NTI2MDRjN2U4YWY5OGRjMTQ4NmU5MGQ0NzIzZDU4`

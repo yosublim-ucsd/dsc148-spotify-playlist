@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 150894,
       "name": "A tu Lado",
       "url": "https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc"
@@ -728,6 +728,24 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "album": {

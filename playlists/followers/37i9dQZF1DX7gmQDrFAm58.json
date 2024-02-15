@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 87672,
+  "2024-02-15": 87668,
   "date_first_scraped": "2023-12-08",
   "description": "Sons para seu beb\u00ea dormir e relaxar / Sonidos para relajar a tu beb\u00e9",
   "name": "Nana Nen\u00ea",
@@ -996,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Bruce the Goat",
+        "url": "https://open.spotify.com/album/7nzrD3m5ThBsl7wjfbjWLM"
+      },
+      "artists": [
+        {
+          "name": "Fileas Aunad",
+          "url": "https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Bruce the Goat",
+      "url": "https://open.spotify.com/track/47IJNymEVbgixhvSxFKC2Z"
+    },
+    {
+      "album": {
         "name": "Bumblebee",
         "url": "https://open.spotify.com/album/1TfjkMXApV7f5j2yYJtM5B"
       },
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 125913,
       "name": "From Head to Toe",
       "url": "https://open.spotify.com/track/6Qd9yQDg4SSaijJsJYk3dh"

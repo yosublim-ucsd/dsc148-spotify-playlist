@@ -4,7 +4,7 @@
 
 > y el soundtrack suena así...
 
-85 songs - 4 hr 38 min
+86 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 | 2023-07-31 |  |
 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 | 2023-07-31 |  |
 | [luna de miel](https://open.spotify.com/track/7GbwfqWyFodSvKZVxvgNyw) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:35 | 2023-07-31 | 2023-11-23 |
-| [Mayo](https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:35 | 2023-07-31 |  |
+| [Mayo](https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:35 | 2023-07-31 | 2024-02-15 |
 | [Me Gustas Un Chingo](https://open.spotify.com/track/1UE7zm8d5bhuM1vskPLOUy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Me Gustas Un Chingo](https://open.spotify.com/album/3p95DVCmGDAUhU8tcux7kY) | 3:19 | 2023-07-31 |  |
 | [me jodi...](https://open.spotify.com/track/4trfOyEYrf0Ezx8LUDogU1) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:21 | 2023-12-27 | 2024-01-19 |
 | [me jodi...](https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:21 | 2023-07-31 | 2024-01-04 |
@@ -70,6 +70,7 @@
 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 | 2024-02-09 |  |
 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 | 2023-11-10 |  |
 | [qué tal te va??](https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [qué tal te va??](https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU) | 3:30 | 2023-08-08 |  |
+| [Rayito de Luz](https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:45 | 2024-02-12 |  |
 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 | 2023-08-28 |  |
 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 | 2023-12-01 |  |
 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 | 2023-07-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,168,624 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,168,910 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 100 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 |
 | 101 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 
-Snapshot ID: `MCwxNzNhMDBhZDMyNjkwZmVhMDM2YzY1N2QyMDU1YzA5YWUzYmNjOTBk`
+Snapshot ID: `MCw0OGE3ZjY0OTc0OGQ0ZmYyM2FlMjUzNzFmY2M4NjA2ODFhZDNlMzRm`

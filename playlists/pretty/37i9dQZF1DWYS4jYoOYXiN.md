@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,799 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,824 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
 | 50 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 |
 
-Snapshot ID: `MCw3N2ZlYmZkNmUyNTIyODE5NzY4YTY5NTExZjYwOTM1ZTgwOGQzODA4`
+Snapshot ID: `MCxmMzM1YTgwODhmYTAwYTcxOGU2NjRkNjA1MmQxNjliZTdjYTUzOWJi`

@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2024!
 
-145 songs - 6 hr 48 min
+146 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 | 2023-11-10 | 2023-11-18 |
 | [Set Me Free](https://open.spotify.com/track/6IsY1fD7pHHPfFpdeN20OD) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Set Me Free](https://open.spotify.com/album/2bh8Q0bdKN3F3jrAGe8eKy) | 2:50 | 2023-12-15 | 2024-02-03 |
 | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/track/4P4653vortdXtcHf4iXWW7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1) | 3:00 | 2023-11-03 | 2023-12-16 |
+| [Sinceramente](https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Sinceramente](https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse) | 3:35 | 2024-02-14 |  |
 | [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 | 2023-11-03 |  |
 | [Skywalking](https://open.spotify.com/track/01IC4KFPDVi1yJ7WTHUrfJ) | [CLIK3D](https://open.spotify.com/artist/054AWr3ShpT8e6JVHMC0Gs), [Pillows](https://open.spotify.com/artist/27GP9LCyNesCWiTi2S3bqc) | [Skywalking](https://open.spotify.com/album/4KJMcd1Zqir7xsXyatKxev) | 2:47 | 2023-11-03 |  |
 | [Slow Motion](https://open.spotify.com/track/74zgUHiAs8U4t8Yy2lVO63) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Slow Motion](https://open.spotify.com/album/6wO58tdQbSRH4S9AX1Trd4) | 2:53 | 2023-11-03 |  |

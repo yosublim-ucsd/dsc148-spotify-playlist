@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-252 songs - 15 hr 47 min
+253 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Harmonize](https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G) | 5:07 | 2020-11-25 |  |
 | [Harmonize](https://open.spotify.com/track/7m18pXVZiJFy3tCcloKyoo) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 5:07 | 2020-11-25 | 2022-10-01 |
 | [Heart To Ride](https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk) | 4:09 | 2020-11-25 | 2022-07-29 |
-| [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 | 2020-11-25 |  |
+| [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 | 2020-11-25 | 2024-02-15 |
 | [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 | 2020-11-25 | 2024-01-29 |
 | [Humans](https://open.spotify.com/track/2YdRHgjajslnkmygNxuLVW) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:25 | 2020-11-25 | 2022-07-26 |
 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 | 2020-11-25 | 2023-05-05 |
@@ -240,6 +240,7 @@
 | [Wasted](https://open.spotify.com/track/5PnTQ4FA6NnWnaY8VwO9Tk) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/34OgX0UTWfVQtXHIntUsLT) | 3:36 | 2020-11-25 | 2022-04-25 |
 | [Wayside](https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Been on Your Side](https://open.spotify.com/album/6PuVP3H5LwsKWUy9wytMVo) | 2:37 | 2020-11-25 | 2022-07-29 |
 | [Wayside](https://open.spotify.com/track/5awVHbrgmCrvvK3xOAFI4N) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Been on Your Side](https://open.spotify.com/album/54FwhTptoGEctEZdKjYTc4) | 2:37 | 2020-11-25 | 2022-08-30 |
+| [We Don't Eat](https://open.spotify.com/track/4UDgV4eVcO7R9yaLthdgDP) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early In The Morning \(Bonus Version\)](https://open.spotify.com/album/1hqx7QxediDedheKHu9aVB) | 4:53 | 2023-09-15 |  |
 | [We Don't Eat](https://open.spotify.com/track/1y3PhboJrxMNOpLxkMsTiM) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Bonus Version\)](https://open.spotify.com/album/4Lluitxz8wV7jq5qljjG4I) | 4:53 | 2020-11-25 | 2024-01-26 |
 | [We Fall In](https://open.spotify.com/track/396KYYOGDOwE7YooXmFedN) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/5AUR2e4ts43bwq4lVynzqX) | 3:11 | 2020-11-25 | 2022-07-28 |
 | [We Fall In](https://open.spotify.com/track/3gJbk7cVA8krFgfVVN0Edm) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:11 | 2020-11-25 |  |

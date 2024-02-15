@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,743 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,852 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 45 | [Basta Ya \- Pop](https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:13 |
 | 46 | [Tu Cárcel](https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desde El Azteca \(En Vivo\)](https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb) | 3:38 |
 | 47 | [Sin Él](https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:34 |
-| 48 | [Más Que Tu Amigo](https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:12 |
-| 49 | [Hasta Cuando](https://open.spotify.com/track/1wc5way7a45biOnobQUHJm) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:19 |
+| 48 | [Hasta Cuando](https://open.spotify.com/track/1wc5way7a45biOnobQUHJm) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:19 |
+| 49 | [Más Que Tu Amigo](https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:12 |
 | 50 | [Extrañándote](https://open.spotify.com/track/3HuC2KGfuam6XubxLwFYk9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:11 |
-| 51 | [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 |
-| 52 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
+| 51 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
+| 52 | [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 |
 | 53 | [Y Yo Sin Ti](https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Y Yo Sin Ti](https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl) | 3:18 |
 | 54 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
 | 55 | [Como Tu Mujer \- Pop](https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:20 |
@@ -101,14 +101,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 91 | [Entre Tu Y Yo](https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 4:40 |
 | 92 | [Necesito una Compañera](https://open.spotify.com/track/0g4K2MIS85uIwUsGxKDIig) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Necesito una Compañera](https://open.spotify.com/album/4heY34LeaTojXCBSPUw0lK) | 3:48 |
 | 93 | [La Venia Bendita](https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:11 |
-| 94 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |
+| 94 | [La Venia Bendita](https://open.spotify.com/track/0XScX16EPEVyOk5nCi49Hd) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 2:39 |
 | 95 | [Prefiero Ir Sola](https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:20 |
-| 96 | [La Venia Bendita](https://open.spotify.com/track/0XScX16EPEVyOk5nCi49Hd) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 2:39 |
+| 96 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |
 | 97 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 |
 | 98 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
-| 99 | [Poquito A Poco](https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 2:54 |
-| 100 | [No Puedo Olvidarlo](https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:27 |
-| 101 | [Presiento Que Voy A LLorar](https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:13 |
+| 99 | [Presiento Que Voy A LLorar](https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:13 |
+| 100 | [Poquito A Poco](https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 2:54 |
+| 101 | [No Puedo Olvidarlo](https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:27 |
 | 102 | [Morenita](https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 2:42 |
 | 103 | [Mi Mayor Necesidad](https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:05 |
 | 104 | [Invéntame](https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desamor y Despecho](https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC) | 3:33 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [35 Aniversario](https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB) | 3:51 |
 | 125 | [Mi Fantasia](https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:23 |
 
-Snapshot ID: `MCxiZjFkNWQ2ZmFlYjc4MmI5NWUwYTFiZGJmMzI3ODMzNmNkMjJiMzU3`
+Snapshot ID: `MCxkZmYwNzIxZTNlNTIzZDU3ZTQwZDkzNmJiNzEyY2QxMDVkOGE1NmE0`

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1679845,
+  "num_followers": 1681194,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzlmODlhZTY1OTZjMDNhODZkYTNiMTI3NWE3OTY5Y2FhZWJiNjYw",
+  "snapshot_id": "MCwyODlkOWJhMGU0ZTcwZGUyMTY3MGUyZGIwNWZhNmYzMTI5MDEwMThh",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "bad",
-      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 122221,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "A 20 Something Fuck",
         "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 185520,
       "name": "I Feel Like I'm Drowning",
       "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249667,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Get You The Moon (feat. Sn\u00f8w)",
         "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 257563,
       "name": "Knee Socks",
       "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249667,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Lo-Fis",
-        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 90708,
-      "name": "Uuuu",
-      "url": "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 171692,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 90708,
+      "name": "Uuuu",
+      "url": "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
     },
     {
       "added_at": "2024-01-26 05:00:00",

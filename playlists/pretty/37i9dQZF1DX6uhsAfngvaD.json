@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 302380,
+  "num_followers": 302418,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmQ4OWYwNjZmNzNmNDAyMTY2NGIzMmJiZjMwMTNmNDE1YmViNDdh",
+  "snapshot_id": "MCwxNjcwZGJmMTVjMTUyM2QzYzkzZTA3YjMxY2Q3NzkwMjI3YzdlNTk2",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "Boyhood",
-      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
-    },
-    {
       "added_at": "2024-02-09 00:00:00",
       "album": {
         "name": "2016",
@@ -471,6 +455,22 @@
       "duration_ms": 180033,
       "name": "2016",
       "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
-      },
-      "artists": [
-        {
-          "name": "Pynch",
-          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
-        }
-      ],
-      "duration_ms": 331664,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Space Between Us",
         "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
+      },
+      "artists": [
+        {
+          "name": "Pynch",
+          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
+        }
+      ],
+      "duration_ms": 331664,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 258876,
       "name": "Jeune",
       "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Seems Like Forever",
-        "url": "https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Rae",
-          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
-        }
-      ],
-      "duration_ms": 318612,
-      "name": "Seems Like Forever",
-      "url": "https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "number own",
         "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Seems Like Forever",
+        "url": "https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Rae",
+          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
+        }
+      ],
+      "duration_ms": 318612,
+      "name": "Seems Like Forever",
+      "url": "https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -1187,54 +1187,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
-      },
-      "artists": [
-        {
-          "name": "Bored at My Grandmas House",
-          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
-        }
-      ],
-      "duration_ms": 273455,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2024-01-26 00:52:30",
-      "album": {
-        "name": "obliterate me",
-        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 233201,
-      "name": "obliterate me",
-      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1255,6 +1207,38 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
+      },
+      "artists": [
+        {
+          "name": "Bored at My Grandmas House",
+          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
+        }
+      ],
+      "duration_ms": 273455,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Full Hand",
         "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 213480,
       "name": "Opportunity",
       "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
+    },
+    {
+      "added_at": "2024-01-26 00:52:30",
+      "album": {
+        "name": "obliterate me",
+        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 233201,
+      "name": "obliterate me",
+      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
     },
     {
+      "added_at": "2024-02-09 00:00:00",
+      "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
+    },
+    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Valentine",
@@ -1299,22 +1315,6 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 185182,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
     }
   ],
   "unique_name": "Dreampop",

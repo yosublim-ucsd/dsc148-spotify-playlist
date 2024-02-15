@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 610069,
+  "2024-02-15": 610053,
   "date_first_scraped": "2021-12-21",
   "description": "Free-spirited, atmospheric vibes.",
   "name": "Boho & Chill",
@@ -3211,6 +3211,24 @@
     {
       "album": {
         "name": "Mystik",
+        "url": "https://open.spotify.com/album/7yLpAKcRUNLER99I5nAWr3"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251383,
+      "name": "Mystik",
+      "url": "https://open.spotify.com/track/19WeBawnubKv6SrpLFYFOD"
+    },
+    {
+      "album": {
+        "name": "Mystik",
         "url": "https://open.spotify.com/album/5k4PBOleT4GGZy8DCnyYYw"
       },
       "artists": [
@@ -3221,7 +3239,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 251383,
       "name": "Mystik",
       "url": "https://open.spotify.com/track/5BLRxxzmsarOfxmEjyLCL3"

@@ -1,12 +1,12 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: (G)I-DLE) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 950863,
+  "num_followers": 950993,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmFiZDdjNTg5NmI5MTk5NTFkYjIzZGNhNmQzMzkxMWNlOGIwMWRi",
+  "snapshot_id": "MCw5YjBlNWQwM2Y3NmYzNWNmMDYzYjVhNzhhZjBhODI1Y2JmNWI4ODc2",
   "tracks": [
     {
       "added_at": "2024-02-06 15:00:00",
@@ -695,26 +695,18 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        },
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        },
-        {
-          "name": "LIZ (IVE)",
-          "url": "https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 161120,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2024-02-06 15:00:00",
@@ -751,18 +743,26 @@
     {
       "added_at": "2024-02-06 15:00:00",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        },
+        {
+          "name": "LIZ (IVE)",
+          "url": "https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1"
         }
       ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+      "duration_ms": 161120,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
     },
     {
       "added_at": "2024-02-06 15:00:00",

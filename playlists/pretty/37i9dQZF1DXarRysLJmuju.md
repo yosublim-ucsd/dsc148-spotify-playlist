@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: 24kGoldn
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,381 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,371 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 98 | [Crazy](https://open.spotify.com/track/4MrHylaApgwWavJtwf38bK) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Crazy](https://open.spotify.com/album/2nPU9yXkRsrmPVxxmdsZ0i) | 3:07 |
 | 99 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 |
 
-Snapshot ID: `MCwxNDRhMDBmN2Q1ZTI4MzRiYWJlNzE2MTAxZWFmYzQ0YTdhODk0ZGI0`
+Snapshot ID: `MCw4Zjk0NmRkN2FhOWNlM2QxNTA1ZjE0NjE1MmQ0NDU2ZjdiNTVkZGIz`

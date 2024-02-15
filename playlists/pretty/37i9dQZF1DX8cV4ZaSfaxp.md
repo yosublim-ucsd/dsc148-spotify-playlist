@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Mitty\(미티\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,418 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,430 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,16 +89,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 79 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
 | 80 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 |
 | 81 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
-| 82 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 |
-| 83 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
+| 82 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
+| 83 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 |
 | 84 | [환상 Fantasy](https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [환상 Fantasy](https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj) | 3:30 |
-| 85 | [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 |
-| 86 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
+| 85 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
+| 86 | [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 |
 | 87 | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ) | 4:54 |
 | 88 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 |
 | 89 | [Brave New World](https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [BASIC](https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS) | 4:01 |
-| 90 | [Myspace](https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Myspace](https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7) | 3:36 |
-| 91 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 |
+| 90 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 |
+| 91 | [Myspace](https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Myspace](https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7) | 3:36 |
 | 92 | [When My Loneliness Calls You](https://open.spotify.com/track/2HHs3WKouTsJ3pGo5gex3N) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [When My Loneliness Calls You \(From the Original TV Show "Live On"\)](https://open.spotify.com/album/2xpPQeBzdd2ovQpBnAYV37) | 4:17 |
 | 93 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 |
 | 94 | [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/7hCtts26L8jf4KxxiNAX4P) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7) | [New Wave City](https://open.spotify.com/album/2ySXEK0kErErlRV7G469GR) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [Come With Me](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 |
 | 100 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |
 
-Snapshot ID: `MCwyN2M2MDJhNGQ3NmRmMjc2MTAzZTcxZDc0MjJiM2UyZmQzZDY0NTk4`
+Snapshot ID: `MCw0OGY2ZGE0ZDI1YmQ1NDA1MzI1ZTk0NmE4ZTdkYzQxOTgyZjIwOGQ5`

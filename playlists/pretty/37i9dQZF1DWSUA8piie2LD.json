@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 108566,
+  "num_followers": 108759,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWNjODg3NzA5YzE5OGFjY2Q2Nzg5ZGQzMDhhZDUwYTM4ZDhmOGM4",
+  "snapshot_id": "MCwyNGVkZTk4NmQxYTY4ZGU1MGU1Y2ZjMjM3NzJmZTExNDAwNTIwZThh",
   "tracks": [
     {
       "added_at": "2024-02-07 13:53:53",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 309386,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 346266,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Full Stride",
-        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 260706,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
         "name": "South Beach",
         "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 254746,
       "name": "Can't Tell You Why",
       "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "Full Stride",
+        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 260706,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
     },
     {
       "added_at": "2024-02-07 13:53:53",

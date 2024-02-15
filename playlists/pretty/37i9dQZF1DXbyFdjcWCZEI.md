@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,985 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,016 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 13 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
 | 14 | [Cómo Eran las Cosas \- En Vivo](https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Desde Adentro \- Impuesto de Fe \(En Vivo\)](https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi) | 2:57 |
 | 15 | [Plegarias \- Acústico Premios Gardel 2020](https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Plegarias \(Acústico Premios Gardel 2020\)](https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS) | 2:59 |
-| 16 | [Acapulco](https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Acapulco](https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm) | 3:57 |
-| 17 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 |
+| 16 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 |
+| 17 | [Acapulco](https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Acapulco](https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm) | 3:57 |
 | 18 | [Bossa & People](https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:02 |
 | 19 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 |
 | 20 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 29 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 |
 | 30 | [Pa La Playita](https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Pa La Playita](https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP) | 3:16 |
 | 31 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
-| 32 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
-| 33 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |
+| 32 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |
+| 33 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
 | 34 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 35 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 |
-| 36 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
-| 37 | [Parapente](https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 2:42 |
+| 36 | [Parapente](https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 2:42 |
+| 37 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 38 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 39 | [Pinta Nomá'](https://open.spotify.com/track/7hKeOkbGPGwek3SNY4NOZu) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Pinta Nomá'](https://open.spotify.com/album/52BF3ZiODAxxGheAXWbx9E) | 2:32 |
 | 40 | [Besos, Limón y Miel](https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Besos, Limón y Miel](https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 49 | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC) | 3:20 |
 | 50 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
 
-Snapshot ID: `MCwyZDM2ODc3NTFjNmFlZjA0NjY1Yjg4NzllNmYyZmM2NGY5ZjVhZmU3`
+Snapshot ID: `MCxiNGRiZDgzMzcxNDBkYzUxYzZjNDllYzFiNmE4ODRhMzI2OTFkNTlm`

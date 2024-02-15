@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Beatrice",
+        "url": "https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290106,
+      "name": "Haru Arashi",
+      "url": "https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz"
+    },
+    {
+      "album": {
         "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
         "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
@@ -9878,6 +9896,32 @@
     {
       "album": {
         "name": "UNICORN",
+        "url": "https://open.spotify.com/album/6wLYM2M4RLKsXSbcoR3NHe"
+      },
+      "artists": [
+        {
+          "name": "Nanaco Sato",
+          "url": "https://open.spotify.com/artist/5jBW0pDTtDdHdYQnQu8iIN"
+        },
+        {
+          "name": "Toru Okada",
+          "url": "https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO"
+        },
+        {
+          "name": "Yusuke Sato",
+          "url": "https://open.spotify.com/artist/6ekst7TqSc5t6qan4yEt0n"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207685,
+      "name": "UNICORN",
+      "url": "https://open.spotify.com/track/0DgGervwg1jBfFNFn7vKao"
+    },
+    {
+      "album": {
+        "name": "UNICORN",
         "url": "https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV"
       },
       "artists": [
@@ -9896,7 +9940,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 207685,
       "name": "UNICORN",
       "url": "https://open.spotify.com/track/44MRKShx562b6moPwz1wI8"
@@ -10744,6 +10788,24 @@
       "duration_ms": 196666,
       "name": "Yuri no Saku Basho de",
       "url": "https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok"
+    },
+    {
+      "album": {
+        "name": "Yuuhi Sasaru Heya",
+        "url": "https://open.spotify.com/album/5w6CXsVtKirb9AaXarMNtw"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "Yuuhi Sasaru Heya",
+      "url": "https://open.spotify.com/track/2nK5yfiQ8SuorCXJeJLAMX"
     },
     {
       "album": {
@@ -14824,7 +14886,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 193066,
       "name": "\u5915\u65e5\u3001\u523a\u3055\u308b\u90e8\u5c4b",
       "url": "https://open.spotify.com/track/1tFMW0Ca7Fvh3ekXNK4zGg"
@@ -15716,7 +15778,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 290106,
       "name": "\u6625\u8352\u3089\u3057",
       "url": "https://open.spotify.com/track/0P3S2XjVi8AzTGCcshYKhT"

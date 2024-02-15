@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2I5MzhjMjJhNTBjZWI0OTQwNmFmMzhlMzgyOWI4NzhlNzY2M2Vl",
+  "snapshot_id": "MCxjZGMyYjRkNTUzNmM3NWJmZWY1MGVlYmE1NGQxNTMwZDEzNThiNjY3",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -467,26 +483,6 @@
       "duration_ms": 259293,
       "name": "How Can It Be",
       "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 452499,
-      "name": "Graves Into Gardens (Live)",
-      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -507,18 +503,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "spark. (Live)",
-        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 567093,
-      "name": "Breakthrough - Live",
-      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+        "name": "spark. (Live)",
+        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Rescuer (Good News)",
-      "url": "https://open.spotify.com/track/1TsBTEIa4jJD7tgD3j6C40"
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -859,6 +843,22 @@
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Rescuer (Good News)",
+      "url": "https://open.spotify.com/track/1TsBTEIa4jJD7tgD3j6C40"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Nicole C. Mullen",
-        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
-      },
-      "artists": [
-        {
-          "name": "Nicole C. Mullen",
-          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Just As I Am (A Legacy Of Hymns And Worship)",
         "url": "https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 356440,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Nicole C. Mullen",
+        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole C. Mullen",
+          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 293720,
-      "name": "Messiah / You're Beautiful",
-      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Fear No More EP",
         "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 233216,
       "name": "Blessing I Can\u2019t See",
       "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 293720,
+      "name": "Messiah / You're Beautiful",
+      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 414391,
       "name": "Look To The Lamb",
       "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Free To Worship",
-        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Something Different (Deluxe Version)",
         "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 228040,
       "name": "To Live Is Christ",
       "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Free To Worship",
+        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/3jhsPWOZCdFVRtf61sASx2"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 199186,
       "name": "Dust We Are and Shall Return",
       "url": "https://open.spotify.com/track/4qBBwyifuIVZT9ir80KEnR"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 338466,
+      "name": "Risen",
+      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
     }
   ],
   "unique_name": "Easter",

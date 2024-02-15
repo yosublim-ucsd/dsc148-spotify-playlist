@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 881739,
+  "2024-02-15": 881801,
   "date_first_scraped": "2022-05-12",
   "description": "Solo il meglio dello street rap italiano. Cover: Artie 5ive",
   "name": "Street Culto",
@@ -4442,6 +4442,36 @@
     },
     {
       "album": {
+        "name": "Il Doc 4 (feat. Ernia, Emis Killa & Niky Savage)",
+        "url": "https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216685,
+      "name": "Il Doc 4 (feat. Ernia, Emis Killa & Niky Savage)",
+      "url": "https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3"
+    },
+    {
+      "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
       },
@@ -5331,7 +5361,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 189805,
       "name": "Lucky Luciano (feat. Emis Killa, Kid Yugi)",
       "url": "https://open.spotify.com/track/2RZR9XRof0ivCXsMXhNV43"

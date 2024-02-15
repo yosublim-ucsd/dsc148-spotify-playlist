@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 6677,
+  "2024-02-15": 6684,
   "date_first_scraped": "2021-01-27",
   "description": "",
   "name": "Date Night At Home",
@@ -1065,6 +1065,24 @@
       "duration_ms": 230132,
       "name": "My Love Will Follow You",
       "url": "https://open.spotify.com/track/6qwfJDqZAnJCIcevQLRnuC"
+    },
+    {
+      "album": {
+        "name": "Brother, Bring the Sun",
+        "url": "https://open.spotify.com/album/6t3Flungcv9zkoADU6OBkm"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Nothing Fancy",
+      "url": "https://open.spotify.com/track/4dJPijKg7uCZjnblJcnvHB"
     },
     {
       "album": {

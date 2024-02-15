@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,457 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,472 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 66 | [The Bud](https://open.spotify.com/track/55hSyt21hVdzIVLvqNX1Ma) | [The Huck\-A\-Bucks](https://open.spotify.com/artist/4FvuiKP0S3bvpjrB1AiLij) | [The Huck\-a\-Bucks Live!](https://open.spotify.com/album/2LfIiVEK3YbRN7SCkrUaHH) | 7:36 |
 | 67 | [Sardines](https://open.spotify.com/track/6GvQGFGF4MBE6dMYIqL6um) | [Junkyard Band](https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm) | [Reunion \(Live at Martin's Crosswinds Ballroom\)](https://open.spotify.com/album/0IvE2YB8k0tRSThj643rlR) | 2:29 |
 | 68 | [Run Joe](https://open.spotify.com/track/70S1dQ6TVPHz6zdX2xdTc5) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [By Special Request the Very Best of Chuck Brown](https://open.spotify.com/album/3eioORbCjAPxRk2buvwkqE) | 8:54 |
-| 69 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80S](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
+| 69 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80s](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
 | 70 | [96 Dope Jam](https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 6:31 |
 
-Snapshot ID: `MCwwYzA1MThlZjg2YmY2NzU3MWQyMjQxZDE1MGRmMWJkOGIzMGNiMzQ2`
+Snapshot ID: `MCxkODdjODFkZWY0MmFkYzNlY2QwMGNjOTk4YmM5OGFkM2RiNWNlZmNh`

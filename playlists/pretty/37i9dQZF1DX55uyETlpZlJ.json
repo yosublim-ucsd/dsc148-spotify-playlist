@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWFjZGVmZjllMTQ1YzcyYWRkODkwZmE5YTkwYWRkNzNiMzg1Mjg5",
+  "snapshot_id": "MCxjYWNmMDRlMjY3ZGE4ZjIwYmE3MzViNDRmZWZjOTZiODI3Y2YwZDk1",
   "tracks": [
     {
       "added_at": "2024-02-08 13:08:31",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/5txyQo6mRKlNBkrfoBUI1x"
     },
     {
+      "added_at": "2024-02-14 12:18:00",
+      "album": {
+        "name": "Devathe",
+        "url": "https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p"
+      },
+      "artists": [
+        {
+          "name": "Ajay Aj",
+          "url": "https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV"
+        },
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Devathe",
+      "url": "https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf"
+    },
+    {
       "added_at": "2024-02-01 11:11:53",
       "album": {
         "name": "Plz Worry",
@@ -39,6 +59,30 @@
       "duration_ms": 352340,
       "name": "Plz Worry",
       "url": "https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5"
+    },
+    {
+      "added_at": "2024-02-14 12:19:42",
+      "album": {
+        "name": "Modala Anuraagha",
+        "url": "https://open.spotify.com/album/50vHFpFQpuXqgr1gS2Opbk"
+      },
+      "artists": [
+        {
+          "name": "Praveen Srinivasmurthy",
+          "url": "https://open.spotify.com/artist/0j797yShflaeSHwSXgvudO"
+        },
+        {
+          "name": "Kashi Mohan",
+          "url": "https://open.spotify.com/artist/1augpbLYfLW0D2880tnicq"
+        },
+        {
+          "name": "Supriya Joshi",
+          "url": "https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB"
+        }
+      ],
+      "duration_ms": 314105,
+      "name": "Modala Anuraagha",
+      "url": "https://open.spotify.com/track/3DwxcZtB2OyvWa3GfWuktS"
     },
     {
       "added_at": "2024-01-29 06:26:14",
@@ -57,6 +101,22 @@
       "url": "https://open.spotify.com/track/4bJCeVoQH0g0IVtZT1Mw1D"
     },
     {
+      "added_at": "2024-02-14 12:18:50",
+      "album": {
+        "name": "FREE STYLE",
+        "url": "https://open.spotify.com/album/6zPG6hSKKscA8n7EdDi5JF"
+      },
+      "artists": [
+        {
+          "name": "It's me plk",
+          "url": "https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3"
+        }
+      ],
+      "duration_ms": 75168,
+      "name": "FREE STYLE",
+      "url": "https://open.spotify.com/track/4niYNBF9Y0L39KRtEEtjTg"
+    },
+    {
       "added_at": "2024-02-08 11:11:11",
       "album": {
         "name": "ONTI NANU",
@@ -71,6 +131,22 @@
       "duration_ms": 270057,
       "name": "ONTI NANU",
       "url": "https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7"
+    },
+    {
+      "added_at": "2024-02-14 12:05:36",
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/3UDgpaXNTcpWIMYHQSroEb"
+      },
+      "artists": [
+        {
+          "name": "MJ Karthik",
+          "url": "https://open.spotify.com/artist/3zb4TFlHgaLMU1AVbb2PJh"
+        }
+      ],
+      "duration_ms": 181069,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/62nk85CK7tWrCJpuegJ4mx"
     },
     {
       "added_at": "2024-01-31 11:14:32",
@@ -1837,22 +1913,6 @@
       "url": "https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz"
     },
     {
-      "added_at": "2023-08-09 11:31:08",
-      "album": {
-        "name": "Neeli Modagalu",
-        "url": "https://open.spotify.com/album/4WVkXb39DguSdjVxf8cotL"
-      },
-      "artists": [
-        {
-          "name": "Ashwamedha Karthik",
-          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
-        }
-      ],
-      "duration_ms": 262381,
-      "name": "Neeli Modagalu",
-      "url": "https://open.spotify.com/track/2685mgG3FA17n55sR9p59k"
-    },
-    {
       "added_at": "2023-07-17 06:13:51",
       "album": {
         "name": "QUICK FIX",
@@ -1875,22 +1935,6 @@
       "duration_ms": 126101,
       "name": "QUICK FIX",
       "url": "https://open.spotify.com/track/3k6XUW5YqaTYhnvnakgubB"
-    },
-    {
-      "added_at": "2023-07-14 06:06:39",
-      "album": {
-        "name": "Pakshi",
-        "url": "https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl"
-      },
-      "artists": [
-        {
-          "name": "Karlow",
-          "url": "https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx"
-        }
-      ],
-      "duration_ms": 177534,
-      "name": "Pakshi",
-      "url": "https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm"
     },
     {
       "added_at": "2023-06-29 11:31:15",

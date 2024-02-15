@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Bad Bunny",
-  "num_followers": 9939,
+  "num_followers": 9949,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTBjNmVlZWJhOWQ4MDgxYWYyNjhjNWZiNjA0YjllZjRmYTNkYzg4",
+  "snapshot_id": "MCxkOGE3YjZiNzU2MDY4ZTI3NDczOGNiYjc4YWQ0OTg1MGFmNDQwMzZh",
   "tracks": [
     {
       "added_at": "2023-10-19 21:46:14",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-10-19 21:46:14",
       "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
-    },
-    {
-      "added_at": "2023-10-19 21:46:14",
-      "album": {
         "name": "DM",
         "url": "https://open.spotify.com/album/1gDS338ZxD6c3wTXaB9nlN"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 248186,
       "name": "DM",
       "url": "https://open.spotify.com/track/0YwxZXiwZDJbWhfQJMIn8u"
+    },
+    {
+      "added_at": "2023-10-19 21:46:14",
+      "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
       "added_at": "2023-10-19 21:46:14",

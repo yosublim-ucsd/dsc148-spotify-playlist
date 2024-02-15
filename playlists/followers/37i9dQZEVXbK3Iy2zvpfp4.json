@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 4609,
+  "2024-02-15": 4609,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -939,7 +939,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
@@ -1629,7 +1629,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 234072,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/3XlKoDmt7NritaYTEndgC2"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 178909,
       "name": "AMN\u00c9ZIA",
       "url": "https://open.spotify.com/track/6zMGEfMeNrzTSRREN7vBO8"
@@ -2085,6 +2085,28 @@
       "duration_ms": 174461,
       "name": "APPLAUSE - Hardstyle",
       "url": "https://open.spotify.com/track/4ZuOrMKGX2rzJsPf82qGNH"
+    },
+    {
+      "album": {
+        "name": "Arabela",
+        "url": "https://open.spotify.com/album/6dbEoyjAuCbj8xPqb6IXWT"
+      },
+      "artists": [
+        {
+          "name": "Mark Voss",
+          "url": "https://open.spotify.com/artist/7Ll0uPjEkxBOECEQBaOQik"
+        },
+        {
+          "name": "Dara Rolins",
+          "url": "https://open.spotify.com/artist/6Tv7lGZFGzalpRGE3aonac"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "Arabela",
+      "url": "https://open.spotify.com/track/0gNnyaCriDhi1q9YIpaO2K"
     },
     {
       "album": {
@@ -2855,7 +2877,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
@@ -3360,6 +3382,24 @@
     },
     {
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+    },
+    {
+      "album": {
         "name": "Beat das Trevas",
         "url": "https://open.spotify.com/album/3t75AH0Jjuz6Q2OEsl61uo"
       },
@@ -3525,7 +3565,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 182857,
       "name": "Bej\u0161\u00ed\u00ed",
       "url": "https://open.spotify.com/track/5BOCqcH0TPqMLOo17dFscB"
@@ -7823,7 +7863,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 131367,
       "name": "Disco Cone (Take It High)",
       "url": "https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM"
@@ -8493,7 +8533,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 226103,
       "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
       "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
@@ -11754,6 +11794,24 @@
     },
     {
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
         "name": "GTA IV",
         "url": "https://open.spotify.com/album/1K3DgS4h4b1cvL1aSH9XWr"
       },
@@ -12570,6 +12628,44 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Hell\u2019s Greatest Dad",
+      "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -12995,6 +13091,28 @@
       "duration_ms": 288160,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/53wnscuzFnH8jaGymzqgfi"
+    },
+    {
+      "album": {
+        "name": "Hollywood Dreaming",
+        "url": "https://open.spotify.com/album/6fULyBvbyfvtMTfQqJFuaO"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Gab3",
+          "url": "https://open.spotify.com/artist/0Yt7UjpW2AJojjZrgGysUl"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125133,
+      "name": "Hollywood Dreaming",
+      "url": "https://open.spotify.com/track/6XfwGXSf180uhTlUn7cczH"
     },
     {
       "album": {
@@ -14439,7 +14557,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -16270,6 +16388,24 @@
     },
     {
       "album": {
+        "name": "Kutkotronic Flow",
+        "url": "https://open.spotify.com/album/5MAJ7rL1pLxTJDGp7YMJuf"
+      },
+      "artists": [
+        {
+          "name": "Peter Kutka",
+          "url": "https://open.spotify.com/artist/3K5JZWFqGc2LoFjh5E3Uo1"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "Kutkotronic Flow",
+      "url": "https://open.spotify.com/track/3wFPbAVoFclDn2NJ6yWow0"
+    },
+    {
+      "album": {
         "name": "K\u00e1osz",
         "url": "https://open.spotify.com/album/3Idzf4IWRudlxZWKjjEQ7c"
       },
@@ -16622,6 +16758,24 @@
     },
     {
       "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
+    },
+    {
+      "album": {
         "name": "The Last Rocket",
         "url": "https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U"
       },
@@ -16743,7 +16897,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
@@ -17479,7 +17633,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -17784,6 +17938,32 @@
     },
     {
       "album": {
+        "name": "Lowkey (LDN Drift) [feat. Takura]",
+        "url": "https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157398,
+      "name": "Lowkey (LDN Drift) [feat. Takura]",
+      "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
+    },
+    {
+      "album": {
         "name": "Lowlife",
         "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
       },
@@ -17955,10 +18135,32 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 245026,
       "name": "Made in Romania",
       "url": "https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT"
+    },
+    {
+      "album": {
+        "name": "Made in Romeni\u00e1 (Sahmiir Officiall Remix)",
+        "url": "https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy"
+      },
+      "artists": [
+        {
+          "name": "Sahmiir Official",
+          "url": "https://open.spotify.com/artist/3CXyRvkXdBR1Dqk96vcYLq"
+        },
+        {
+          "name": "Sahmiir Officiall",
+          "url": "https://open.spotify.com/artist/43xc9kEoIRMxrIf0CCxOqQ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Made in Romeni\u00e1 - Sahmiir Officiall Remix",
+      "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"
     },
     {
       "album": {
@@ -20099,6 +20301,36 @@
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193235,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/1M74sedyFRUKNJQ3K8nb0f"
     },
     {
       "album": {
@@ -22428,6 +22660,24 @@
     },
     {
       "album": {
+        "name": "NYC Mindset",
+        "url": "https://open.spotify.com/album/7717z99l14V2Guh6gorMex"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152073,
+      "name": "NYC Mindset",
+      "url": "https://open.spotify.com/track/4Vg2UPndGLb7jAlX0A1vr9"
+    },
+    {
+      "album": {
         "name": "Sv\u011bt je m\u00e1lo r\u016f\u017eov\u00fd",
         "url": "https://open.spotify.com/album/6cCn5zosowaY0BdOSDS0aQ"
       },
@@ -23988,6 +24238,32 @@
     },
     {
       "album": {
+        "name": "Perfect (Exceeder) [1991 Remix]",
+        "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200086,
+      "name": "Perfect (Exceeder) - 1991 Remix",
+      "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
+    },
+    {
+      "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
       },
@@ -24343,6 +24619,32 @@
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
+    },
+    {
+      "album": {
+        "name": "GAL\u00c9RIA M\u00daZ",
+        "url": "https://open.spotify.com/album/22Vk63BUKYIrTulBbsQnE9"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR",
+          "url": "https://open.spotify.com/artist/4Zw1FISJetmMBNxL8N6Ibf"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Taomi",
+          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126760,
+      "name": "PLEASING",
+      "url": "https://open.spotify.com/track/2SNGUrQi9tdwu6QbYtzYm9"
     },
     {
       "album": {
@@ -26241,7 +26543,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
@@ -29899,7 +30201,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"

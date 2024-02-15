@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Nonpalidece",
-  "num_followers": 1217707,
+  "num_followers": 1217768,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWE3M2RjMjY2ZjhmMTNlMmI3OTVhZDM0N2EwN2QwNzMwMWM2YzBh",
+  "snapshot_id": "MCxiYzA2N2Q1NDUyMGI4MjgyY2ZjNDhhZmM1YzZhODg2MTA1MWEwM2Y4",
   "tracks": [
     {
       "added_at": "2024-01-26 04:59:00",
@@ -743,22 +743,18 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Binikini",
-        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 183253,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+      "duration_ms": 262771,
+      "name": "V\u00e9ngase I",
+      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
       "artists": [
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 262771,
-      "name": "V\u00e9ngase I",
-      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
+      "duration_ms": 183253,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "The Islanauts",
-          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
-        }
-      ],
-      "duration_ms": 258154,
-      "name": "Caf\u00e9 Con Canela",
-      "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "The Islanauts",
+          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
+        }
+      ],
+      "duration_ms": 258154,
+      "name": "Caf\u00e9 Con Canela",
+      "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED"
+      },
+      "artists": [
+        {
+          "name": "Golden Ganga",
+          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2BmtCTlt1A9z4z9k8qL1OV"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
         "name": "Keep The Fyah Burning",
         "url": "https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 256974,
       "name": "Keep The Fyah Burning",
       "url": "https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "M\u00fasica Libre",
-        "url": "https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED"
-      },
-      "artists": [
-        {
-          "name": "Golden Ganga",
-          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2BmtCTlt1A9z4z9k8qL1OV"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "La M\u00eda",
-      "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 138750,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "La M\u00eda",
+      "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Ahora S\u00e9",
-        "url": "https://open.spotify.com/album/5qzeqSCqqYM1LDGqpQqdyA"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 200367,
-      "name": "Ahora S\u00e9",
-      "url": "https://open.spotify.com/track/0SmzNdmlTBHsMrfcs82xVQ"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 316440,
       "name": "Ilegal - En Vivo",
       "url": "https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Ahora S\u00e9",
+        "url": "https://open.spotify.com/album/5qzeqSCqqYM1LDGqpQqdyA"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 200367,
+      "name": "Ahora S\u00e9",
+      "url": "https://open.spotify.com/track/0SmzNdmlTBHsMrfcs82xVQ"
     },
     {
       "added_at": "2024-01-26 04:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,147 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,167 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 30 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 |
 | 31 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
 | 32 | [Soma \- 2011 Remaster](https://open.spotify.com/track/1EGa3uFmvkGChrZeIKxGwB) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 6:38 |
-| 33 | [Leaving Home](https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ) | [Jebediah](https://open.spotify.com/artist/6L9bfTvOEA9BOJEIBhU4ln) | [Slightly Odway](https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3) | 3:01 |
-| 34 | [Hail, Hail](https://open.spotify.com/track/5cpnyC2TLztgxOWNzoxqbY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 3:41 |
+| 33 | [Hail, Hail](https://open.spotify.com/track/5cpnyC2TLztgxOWNzoxqbY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 3:41 |
+| 34 | [Leaving Home](https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ) | [Jebediah](https://open.spotify.com/artist/6L9bfTvOEA9BOJEIBhU4ln) | [Slightly Odway](https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3) | 3:01 |
 | 35 | [sanjake](https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [sanjake](https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj) | 3:02 |
 | 36 | [Just the Way I'm Feeling](https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Comfort in Sound](https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng) | 4:23 |
 | 37 | [New Low](https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL) | [Middle Class Rut](https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN) | [No Name No Color](https://open.spotify.com/album/75ffrFVb8rQLovdDANnEAw) | 4:16 |
 | 38 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
 | 39 | [Teenage Angst](https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Placebo](https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K) | 2:42 |
-| 40 | [Cool in Motion](https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:05 |
-| 41 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 |
-| 42 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 |
-| 43 | [Muzzle \- Remastered 2012](https://open.spotify.com/track/6UuGRkwfLwBAfmHktU9GNA) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 3:43 |
+| 40 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 |
+| 41 | [Cool in Motion](https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:05 |
+| 42 | [Muzzle \- Remastered 2012](https://open.spotify.com/track/6UuGRkwfLwBAfmHktU9GNA) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 3:43 |
+| 43 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 |
 | 44 | [Where the City Meets the Sea](https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9) | [The Getaway Plan](https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF) | [Other Voices, Other Rooms](https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI) | 3:35 |
 | 45 | [Abuse Me](https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:59 |
-| 46 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
-| 47 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
-| 48 | [License to Confuse \- Remastered](https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bakesale: Deluxe Edition](https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh) | 1:46 |
+| 46 | [License to Confuse \- Remastered](https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bakesale: Deluxe Edition](https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh) | 1:46 |
+| 47 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
+| 48 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
 | 49 | [Come Down](https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Anymore](https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt) | 3:15 |
 | 50 | [The Modern Leper](https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 3:48 |
 | 51 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 63 | [No Association](https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:50 |
 | 64 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 |
 | 65 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
-| 66 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 |
-| 67 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 |
+| 66 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 |
+| 67 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 |
 | 68 | [Something Right](https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Stovall](https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp) | 3:21 |
 | 69 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 70 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 83 | [The Stone](https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA) | [ASHES dIVIDE](https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy) | [Keep Telling Myself It's Alright](https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH) | 3:49 |
 | 84 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
 | 85 | [Kick](https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Brave Faces Everyone](https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv) | 4:02 |
-| 86 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
-| 87 | [Control](https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Abstract Figures in the Dark](https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe) | 4:06 |
+| 86 | [Control](https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Abstract Figures in the Dark](https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe) | 4:06 |
+| 87 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
 | 88 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
 | 89 | [Medicine](https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY) | 4:07 |
 | 90 | [Not Up To You](https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Word Gets Around](https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx) | 4:35 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 94 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
 | 95 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 96 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
-| 97 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 |
-| 98 | [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 |
-| 99 | [Damp](https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do) | [Daylight](https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv) | [The Difference In Good And Bad Dreams](https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt) | 2:42 |
+| 97 | [Damp](https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do) | [Daylight](https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv) | [The Difference In Good And Bad Dreams](https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt) | 2:42 |
+| 98 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 |
+| 99 | [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 |
 | 100 | [Innervisions](https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Innervisions](https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN) | 7:29 |
 
-Snapshot ID: `MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy`
+Snapshot ID: `MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,243 likes - 120 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,438 likes - 120 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 78 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
 | 79 | [Built from War](https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Built from War](https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF) | 3:24 |
 | 80 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 |
-| 81 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
-| 82 | [The Rise of Hannibal](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Immortal Wars](https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV) | 4:50 |
+| 81 | [The Rise of Hannibal](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Immortal Wars](https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV) | 4:50 |
+| 82 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
 | 83 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 |
-| 84 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/6yipS5nDSFvW73cxDOimST) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [GHØSTKID](https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT) | 3:47 |
-| 85 | [Ultimate Annihilation](https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV) | 2:21 |
+| 84 | [Ultimate Annihilation](https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV) | 2:21 |
+| 85 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/6yipS5nDSFvW73cxDOimST) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [GHØSTKID](https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT) | 3:47 |
 | 86 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
 | 87 | [Curse Us](https://open.spotify.com/track/7rST24w7mbPpLXbPtJHtD4) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Curse Us](https://open.spotify.com/album/5M0HrALsh99LkP1xfz39cI) | 4:42 |
 | 88 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/7sIPpM7aieTQTLxHohl4sP) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [Slow Decay](https://open.spotify.com/album/1kHaQkPY41hT6N6espwLdn) | 2:48 |
@@ -106,9 +106,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 96 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
 | 97 | [The American Dream](https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [The American Dream](https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4) | 3:16 |
 | 98 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 |
-| 99 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 |
+| 99 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
 | 100 | [Born Strong](https://open.spotify.com/track/16wLPRzPx8ONlpcWXhfaDa) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf), [Candace Puopolo](https://open.spotify.com/artist/3BOP0fc3lpqgh98UmbFgUD) | [Hardcore Lives](https://open.spotify.com/album/2R3IsS5NZeuzJLArHioMDl) | 2:13 |
-| 101 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
+| 101 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 |
 | 102 | [Habitual Decline](https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Habitual Decline](https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE) | 3:11 |
 | 103 | [All Mosh / No Brain](https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [666\-Pack](https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8) | 1:32 |
 | 104 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 120 | [Apostle](https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh) | [Reign Supreme](https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e) | [Testing the Limits of Infinite](https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw) | 3:13 |
 
-Snapshot ID: `MCwxZjU5NWY3YzAwM2IxMjI5NDliYzIxNWUwOGMzOGQwM2MyNWFhNzA1`
+Snapshot ID: `MCw5NDVlYzBhMDA4Mzg2ZjNmYzMxOGUzMzg5ZDNhNWE1Yjk2NzY0MWEz`

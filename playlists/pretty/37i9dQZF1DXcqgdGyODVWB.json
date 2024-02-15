@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 17019,
+  "num_followers": 17067,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWE3N2E5YzUxYzRhNzhiNzFhODU1YzkxNGUyMTA5MDdkZGM1ZDcz",
+  "snapshot_id": "MCxiMjIzYzA5MWIzZjg0NzdhMWI1M2YzNjcwOWI5ZGVmMGI2NWU2ZmQ3",
   "tracks": [
     {
       "added_at": "2023-12-07 01:18:03",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Tan Bella y Tan Presumida (En Vivo)",
-        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida - En Vivo",
-      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "En Las Buenas Y En Las Malas",
         "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 192560,
       "name": "Con Ese Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Tan Bella y Tan Presumida (En Vivo)",
+        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida - En Vivo",
+      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Fuentes de Ortiz",
-        "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Acurrucar",
         "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Fuentes de Ortiz",
+        "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg"
       },
       "artists": [
         {
-          "name": "Contrabandistas de San Luis",
-          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 208927,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
+      "duration_ms": 192888,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Bajo El Agua",
-        "url": "https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg"
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Contrabandistas de San Luis",
+          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
         }
       ],
-      "duration_ms": 192888,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG"
+      "duration_ms": 208927,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 134785,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Que Se Arme la Fiesta",
-        "url": "https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO"
-      },
-      "artists": [
-        {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Molinos de Viento",
-      "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Olv\u00eddala",
         "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 236382,
       "name": "Y Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/2tUS7pJAfKcOS84ncN5D3o"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Que Se Arme la Fiesta",
+        "url": "https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Molinos de Viento",
+      "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 208049,
-      "name": "Ojala y te animes",
-      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "As\u00ed Somos",
         "url": "https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 194952,
       "name": "Tu Forma de Ser",
       "url": "https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 204078,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
+      "duration_ms": 145400,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
     }
   ],
   "unique_name": "Norte\u00f1o Pa' La Fiesta",

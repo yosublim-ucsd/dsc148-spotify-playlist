@@ -2613,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "The Reason (20th Anniversary)",
+        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "Same Direction",
+      "url": "https://open.spotify.com/track/4yfJXAokD3j8HXoYASBfPX"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/0b3GR8IkCHjIoCdjqOvqUC"
       },
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 210200,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5"

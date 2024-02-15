@@ -4,10 +4,11 @@
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-76 songs - 3 hr 53 min
+77 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1,40m](https://open.spotify.com/track/01yt4H9UXzGG61c4sxrNLB) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Im Westen nix Neues](https://open.spotify.com/album/3zxPw0NHbyX5xzQ4jJ1Qf3) | 4:19 | 2024-02-09 |  |
 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 | 2023-03-06 |  |
 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 | 2023-02-13 |  |
 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 | 2023-02-13 |  |
@@ -40,7 +41,7 @@
 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 | 2024-02-09 |  |
 | [Kippe](https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Kippe](https://open.spotify.com/album/6zlZKGfrubfGewJU8pD7fk) | 2:39 | 2023-02-13 | 2023-03-21 |
 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 | 2023-02-13 |  |
-| [Letzte Liebe](https://open.spotify.com/track/7bYaYu0BpcZJKS7ytWYeZU) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Nichts war umsonst](https://open.spotify.com/album/3YIttZS61vaggxDVnUAjiX) | 3:34 | 2024-02-09 |  |
+| [Letzte Liebe](https://open.spotify.com/track/7bYaYu0BpcZJKS7ytWYeZU) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Nichts war umsonst](https://open.spotify.com/album/3YIttZS61vaggxDVnUAjiX) | 3:34 | 2024-02-09 | 2024-02-15 |
 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 | 2023-02-13 |  |
 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 | 2023-02-13 | 2024-02-10 |
 | [Liebeslieder](https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Liebeslieder](https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL) | 2:27 | 2024-02-09 |  |

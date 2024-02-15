@@ -2,9 +2,9 @@
 
 ### [needle drop](https://open.spotify.com/playlist/37i9dQZF1DXbLzW15wHm9R)
 
-> Original and synced songs that will stay with you long after the credits roll...Cover: Saltburn
+> Original and synced songs that will stay with you long after the credits roll...Cover: Hazbin Hotel
 
-30 songs - 1 hr 39 min
+31 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2024-01-13 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2024-01-13 |  |
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2024-01-13 |  |
+| [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 | 2024-02-14 |  |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2024-01-13 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-13 |  |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-01-13 |  |

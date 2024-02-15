@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 187588,
+  "2024-02-15": 187612,
   "date_first_scraped": "2023-10-14",
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
   "name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
@@ -2144,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242495,
+      "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
         "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
       },
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 248946,
       "name": "\u30b7\u30e3\u30c3\u30bf\u30fc",
       "url": "https://open.spotify.com/track/19mjCzLuMHZ0Tyn3eI85bo"

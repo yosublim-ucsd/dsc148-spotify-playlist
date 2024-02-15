@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "ATHIKAALAI MUDHAL",
+        "url": "https://open.spotify.com/album/4RZj9SVIJwOYgZjqQPcgDT"
+      },
+      "artists": [
+        {
+          "name": "KARKAY",
+          "url": "https://open.spotify.com/artist/00YboNb94lHeYpUmmslkqU"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217424,
+      "name": "ATHIKAALAI MUDHAL",
+      "url": "https://open.spotify.com/track/6OwohvcuvKdUl4vihhYvQf"
+    },
+    {
+      "album": {
         "name": "Azhagai Oru Matram",
         "url": "https://open.spotify.com/album/6GrbtoW90L2SVgNN5a8veW"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 178378,
       "name": "Black Money",
       "url": "https://open.spotify.com/track/6uCfBP1TOwqBIbqKPvDzT1"
@@ -1570,6 +1588,28 @@
       "duration_ms": 181695,
       "name": "Kadhal Raasee",
       "url": "https://open.spotify.com/track/4haNuRPEFpfolOmtO0YQvQ"
+    },
+    {
+      "album": {
+        "name": "Kadhal Thorkum Nerame",
+        "url": "https://open.spotify.com/album/6BsSeSmxL81oaNfawnekfz"
+      },
+      "artists": [
+        {
+          "name": "Chandru M",
+          "url": "https://open.spotify.com/artist/5jo2LPSpHPzJETBUokdECR"
+        },
+        {
+          "name": "Megan Raj S",
+          "url": "https://open.spotify.com/artist/4jWoFt6Jnohv7AsODwAT1X"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156290,
+      "name": "Kadhal Thorkum Nerame",
+      "url": "https://open.spotify.com/track/0v2L1vxSKgq2jlr6XJ7ieF"
     },
     {
       "album": {
@@ -3591,6 +3631,28 @@
     },
     {
       "album": {
+        "name": "Sugar Bomb",
+        "url": "https://open.spotify.com/album/41X3mkUaXfgeWoF5kKrrnP"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Suger Bomb",
+      "url": "https://open.spotify.com/track/4nzsbSuEAIDGtVLN3asIWM"
+    },
+    {
+      "album": {
         "name": "Teddy Bear",
         "url": "https://open.spotify.com/album/4gW8stxvBopqm09xFm2v8k"
       },
@@ -4728,7 +4790,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 266000,
       "name": "\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc7... \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc7...",
       "url": "https://open.spotify.com/track/2fuTKZlkfYox0kst02bAEA"

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 384,
+  "2024-02-15": 384,
   "date_first_scraped": "2023-12-14",
   "description": "This is Marco Polo. The essential tracks, all in one playlist.",
   "name": "This Is Marco Polo",
@@ -794,6 +794,32 @@
     },
     {
       "album": {
+        "name": "Richmond Hill",
+        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181943,
+      "name": "Jordan Theory",
+      "url": "https://open.spotify.com/track/3LPIzQNQtqXMvPKJUlyuwJ"
+    },
+    {
+      "album": {
         "name": "A Breukelen Story (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
@@ -1395,7 +1421,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 33274,
       "name": "Scarborough (Skit)",
       "url": "https://open.spotify.com/track/5u8MpxTz3ZLbkW5Q9mPOKW"

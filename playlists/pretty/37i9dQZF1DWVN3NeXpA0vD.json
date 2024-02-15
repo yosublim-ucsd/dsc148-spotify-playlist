@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26108,
+  "num_followers": 26106,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWM2OGYxMmE5MTg3NzAyZTM5OWMzMjhmMDE0Y2IyODEyNzRjM2Qw",
+  "snapshot_id": "MCw5ZGVlY2JmZmNjOWQ1YWM5YzE1M2Y2Mzg0MzY5YWZjMjJjYzNlNzg0",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -176,8 +176,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -283,6 +283,30 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
       },
@@ -351,30 +375,6 @@
       "duration_ms": 248335,
       "name": "It's Not Living (If It's Not With You)",
       "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
-      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Broken & Beautiful",
         "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 218948,
       "name": "Broken & Beautiful",
       "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/5f7axBwnXST7xzhpRMb34u"
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 201198,
-      "name": "Sing It With Me",
-      "url": "https://open.spotify.com/track/4Q6wZlZhrwVVmGhJtmGUtG"
+      "duration_ms": 176283,
+      "name": "No Judgement",
+      "url": "https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+        "name": "She",
+        "url": "https://open.spotify.com/album/5f7axBwnXST7xzhpRMb34u"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 176283,
-      "name": "No Judgement",
-      "url": "https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G"
+      "duration_ms": 201198,
+      "name": "Sing It With Me",
+      "url": "https://open.spotify.com/track/4Q6wZlZhrwVVmGhJtmGUtG"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1279,54 +1279,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 196214,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -1363,6 +1315,54 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/0jEz1BRAiiPUjy6ZTWnS0v"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "duration_ms": 108984,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/5cF53kSZ8g4YzZqHEJzR9o"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 139809,
       "name": "Lonely (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "For A Minute",
-        "url": "https://open.spotify.com/album/0jEz1BRAiiPUjy6ZTWnS0v"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 108984,
-      "name": "For A Minute",
-      "url": "https://open.spotify.com/track/5cF53kSZ8g4YzZqHEJzR9o"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "All Day And Night (Jax Jones & Martin Solveig Present Europa)",
         "url": "https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 169303,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
     },
     {
       "added_at": "2023-03-10 17:59:10",

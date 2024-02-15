@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 418987,
+  "num_followers": 418978,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzU3YjRhOGU1Y2RhZTg1OTYzMjE1NjU0YTYzYWU0OGIwYmZiMDBm",
+  "snapshot_id": "MCw4YmE2YThkMjk3OGFhM2FmZGRjYzZkMjI5YWZmNzI4OWY5OWZiYzdl",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "The Papercut Chronicles II",
         "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 210960,
       "name": "Stereo Hearts (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -939,6 +923,22 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Shower",
@@ -1175,6 +1159,22 @@
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1392,8 +1392,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
@@ -1779,6 +1763,42 @@
       "duration_ms": 255866,
       "name": "Latch",
       "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Beautiful People (feat. Khalid)",
+        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Beautiful People (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2195,6 +2215,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Cheap Thrills (feat. Sean Paul)",
         "url": "https://open.spotify.com/album/4BTlXiDFjyJfpHjR7jlEJo"
       },
@@ -2211,22 +2247,6 @@
       "duration_ms": 224813,
       "name": "Cheap Thrills (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/6b3b7lILUJqXcp6w9wNQSm"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2423,6 +2443,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 194230,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -2439,22 +2475,6 @@
       "duration_ms": 159011,
       "name": "Good as Hell (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 194230,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2553,6 +2573,22 @@
       "url": "https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "The Blessed Unrest",
+        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
+    },
+    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Born To Be Yours",
@@ -2571,22 +2607,6 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "The Blessed Unrest",
-        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2653,26 +2673,6 @@
       "url": "https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Suit & Tie (feat. JAY Z) (feat. Jay-Z) [Radio Edit]",
-        "url": "https://open.spotify.com/album/5jlQrOtSuTXojcvBCpivyo"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Suit & Tie (feat. JAY Z) (feat. Jay-Z) - [Radio Edit]",
-      "url": "https://open.spotify.com/track/4mQVHEjrnuUd7G5IVhSYTk"
-    },
-    {
       "added_at": "2021-11-12 05:01:00",
       "album": {
         "name": "NOTED...EP",
@@ -2691,6 +2691,26 @@
       "duration_ms": 167232,
       "name": "Never A Good Time",
       "url": "https://open.spotify.com/track/5l60Z7gXN9MhAyhdZdy3uA"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Suit & Tie (feat. JAY Z) (feat. Jay-Z) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5jlQrOtSuTXojcvBCpivyo"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Suit & Tie (feat. JAY Z) (feat. Jay-Z) - [Radio Edit]",
+      "url": "https://open.spotify.com/track/4mQVHEjrnuUd7G5IVhSYTk"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2817,22 +2837,6 @@
       "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "Who's In Your Head",
-        "url": "https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Who's In Your Head",
-      "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "At Least I Had Fun",
@@ -2867,6 +2871,22 @@
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "Who's In Your Head",
+        "url": "https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Who's In Your Head",
+      "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -3387,26 +3407,6 @@
       "duration_ms": 100915,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/6fgzHKmtLFQb7V8oyUMONR"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Beautiful People (feat. Khalid)",
-        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Beautiful People (feat. Khalid)",
-      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
     },
     {
       "added_at": "2021-10-29 04:01:00",

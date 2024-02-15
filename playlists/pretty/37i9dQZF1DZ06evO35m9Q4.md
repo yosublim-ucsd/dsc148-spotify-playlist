@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,340 likes - 46 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,373 likes - 46 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 45 | [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 |
 | 46 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA5M2RjZGM3NTZlYTAzODg3OGY4YWUxM2QwZWM1NjU2NQ==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA2NzdiYzljNDU0OTg1OGM2MjViNDJmZThjMThjYmM3NQ==`

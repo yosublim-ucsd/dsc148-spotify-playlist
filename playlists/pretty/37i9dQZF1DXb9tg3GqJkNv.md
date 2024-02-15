@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,233 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,242 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 50 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj) | 4:26 |
 | 51 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
 | 52 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 |
-| 53 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
-| 54 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
+| 53 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
+| 54 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
 | 55 | [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 |
 | 56 | [Time & It's Order](https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Time & It's Order](https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV) | 2:15 |
 | 57 | [Priceless](https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Priceless](https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek) | 4:32 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 63 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 |
 | 64 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 |
 | 65 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 |
-| 66 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 |
-| 67 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
+| 66 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
+| 67 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 |
 | 68 | [Job Done](https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC) | [LocoCity](https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou) | [Save Yourself](https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA) | 2:19 |
 | 69 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |
 | 70 | [Vallie Mode](https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Vallie Mode](https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Toronto](https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Toronto](https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm) | 2:53 |
 | 75 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 |
 
-Snapshot ID: `MCw0N2I1NGNmNjFlNThkMDMxOTA0OGRkYzdlMTU5OWY0MDI1M2JkNjA1`
+Snapshot ID: `MCxlZDAxM2M0OWU4ZmNlYzE5YjY5MWY0ZjYzYzE3M2VlMjMzZTIwYWYw`

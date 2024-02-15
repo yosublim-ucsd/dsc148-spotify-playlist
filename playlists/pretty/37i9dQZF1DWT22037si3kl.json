@@ -1,12 +1,12 @@
 {
   "description": "bgl \u00e9 ser aut\u00eantico voc\u00eas j\u00e1 sabem. Foto: The Boy, LH CHUCRO",
-  "num_followers": 136582,
+  "num_followers": 136595,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjdjMjU3OGZkYmY0MDNiMzc1ZWIwYjFjMzg2NDM2ZDUwNzgyN2Ez",
+  "snapshot_id": "MCxmM2NkN2I0Y2Y1ODY3ZmQzNGFkZWUwMTljOTUzMWU4NzJlMmNlMmI3",
   "tracks": [
     {
       "added_at": "2024-02-09 17:42:21",
@@ -447,62 +447,6 @@
     {
       "added_at": "2024-02-09 17:42:21",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
-    },
-    {
-      "added_at": "2024-02-09 17:42:21",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Superficial",
-      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
-    },
-    {
-      "added_at": "2024-02-09 17:42:21",
-      "album": {
         "name": "Na Minha Blunt",
         "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
       },
@@ -535,6 +479,62 @@
       "duration_ms": 170322,
       "name": "Na Minha Blunt",
       "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
+    },
+    {
+      "added_at": "2024-02-09 17:42:21",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
+    },
+    {
+      "added_at": "2024-02-09 17:42:21",
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2024-02-09 17:42:21",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-02-09 17:42:21",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        }
-      ],
-      "duration_ms": 154789,
-      "name": "Porsche \"Ye Yo\"",
-      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
-    },
-    {
-      "added_at": "2024-02-09 17:42:21",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 157868,
       "name": "Casa Bomba",
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
+    },
+    {
+      "added_at": "2024-02-09 17:42:21",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        }
+      ],
+      "duration_ms": 154789,
+      "name": "Porsche \"Ye Yo\"",
+      "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
     },
     {
       "added_at": "2024-02-09 17:42:21",
@@ -815,6 +815,30 @@
     {
       "added_at": "2024-02-09 17:42:21",
       "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Rare Kidd",
+          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "Camuflado De BAPE - Feat. Rare Kidd",
+      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
+    },
+    {
+      "added_at": "2024-02-09 17:42:21",
+      "album": {
         "name": "TRAP DE MALOKA",
         "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 288000,
       "name": "TRAP DE MALOKA",
       "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
-    },
-    {
-      "added_at": "2024-02-09 17:42:21",
-      "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "Rare Kidd",
-          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "Camuflado De BAPE - Feat. Rare Kidd",
-      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
     },
     {
       "added_at": "2024-02-09 17:42:21",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-09 17:42:21",
       "album": {
-        "name": "Atura ou Surta",
-        "url": "https://open.spotify.com/album/54RH85tTcYsg1ao4HkDZKQ"
-      },
-      "artists": [
-        {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
-        }
-      ],
-      "duration_ms": 129072,
-      "name": "Ninfeta",
-      "url": "https://open.spotify.com/track/4pKjfxqHzQSGnu8qdKBMQZ"
-    },
-    {
-      "added_at": "2024-02-09 17:42:21",
-      "album": {
         "name": "Doce Amargo",
         "url": "https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 137739,
       "name": "Doce Amargo",
       "url": "https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM"
+    },
+    {
+      "added_at": "2024-02-09 17:42:21",
+      "album": {
+        "name": "Atura ou Surta",
+        "url": "https://open.spotify.com/album/54RH85tTcYsg1ao4HkDZKQ"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "duration_ms": 129072,
+      "name": "Ninfeta",
+      "url": "https://open.spotify.com/track/4pKjfxqHzQSGnu8qdKBMQZ"
     },
     {
       "added_at": "2024-02-09 17:42:21",

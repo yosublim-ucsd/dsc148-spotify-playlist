@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,392 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,497 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 40 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
 | 41 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 |
 | 42 | [El Gigante De Hierro](https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 3:36 |
-| 43 | [El Diario De Un Borracho](https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 4:26 |
-| 44 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
+| 43 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
+| 44 | [El Diario De Un Borracho](https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 4:26 |
 | 45 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 |
 | 46 | [Pero Tu Mirada](https://open.spotify.com/track/5vePtAKApe4o16JIXCcHeS) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:46 |
 | 47 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 |
 | 48 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
 | 49 | [Mama Cumbia](https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88) | 3:21 |
 | 50 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
-| 51 | [Pedacito de Mi Vida](https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz) | [Los Lideres](https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF) | [30 Mezcladitas de Oro para la Farra](https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks) | 1:11 |
+| 51 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
 | 52 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
-| 53 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
+| 53 | [Pedacito de Mi Vida](https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz) | [Los Lideres](https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF) | [30 Mezcladitas de Oro para la Farra](https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks) | 1:11 |
 | 54 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
 | 55 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 |
 | 56 | [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 99 | [Vuela Mariposa](https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH) | 3:56 |
 | 100 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 
-Snapshot ID: `MCw1Y2VjMWI5ODUyYjEyMWJhNmRkODRiYzliZThjNzUyNDIyNWIyYTU0`
+Snapshot ID: `MCw3ZTI4Zjk5ZTljMzc4MDU1YjFkMjY3NWYyN2YxNzJhZTM1MmRmMzJh`

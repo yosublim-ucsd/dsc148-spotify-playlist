@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,914 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,947 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 6 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 |
 | 7 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:33 |
 | 8 | [All In](https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:36 |
-| 9 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
-| 10 | [Matt Hardy 999](https://open.spotify.com/track/2W5cWH1DZ19KFA6n7G1eiK) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:08 |
+| 9 | [Matt Hardy 999](https://open.spotify.com/track/2W5cWH1DZ19KFA6n7G1eiK) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:08 |
+| 10 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 | 11 | [Jail](https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:57 |
 | 12 | [LLC](https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [LLC](https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy) | 2:17 |
 | 13 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MCxjZjJlNWE4MTM0MzM1NmY2OTI5MjFjZTc4YzUxZTNhZWFkMTM3OGQz`
+Snapshot ID: `MCxmOTRiNDcyMjA1ZjlkYWZiNGZmMWQ2MGE3NzY1MjdmMWJkNmZjZTUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,495 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,550 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 45 | [Live to Tell](https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:18 |
 | 46 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
 | 47 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
-| 48 | [Forbidden Colors](https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:42 |
-| 49 | [I Hear You Now](https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Best Of Jon & Vangelis](https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc) | 4:48 |
+| 48 | [I Hear You Now](https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Best Of Jon & Vangelis](https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc) | 4:48 |
+| 49 | [Forbidden Colors](https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:42 |
 | 50 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
 | 51 | [Boadicea](https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [The Celts](https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv) | 3:32 |
 | 52 | [I Go to Sleep \- 2018 Remaster](https://open.spotify.com/track/6nIJU23VH8pHw8xPEqFHX7) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders II \(Deluxe Edition\)](https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB) | 2:56 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 66 | [If Leaving Me Is Easy \- 2015 Remaster](https://open.spotify.com/track/3PuwTAbtjZDgeCqb7OAdzd) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 4:56 |
 | 67 | [For a Friend](https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Red](https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE) | 5:03 |
 | 68 | [It's A Mystery](https://open.spotify.com/track/6n9NhulTHVIbf7EIxr5a3s) | [Toyah](https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ) | [Anthem](https://open.spotify.com/album/06mr4v7HULh34HDsYbBner) | 4:08 |
-| 69 | [Two Faces](https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 3:00 |
-| 70 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [White Eagle](https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw) | 4:34 |
+| 69 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [White Eagle](https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw) | 4:34 |
+| 70 | [Two Faces](https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 3:00 |
 | 71 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
 | 72 | [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 |
 | 73 | [MLK \- Remastered 2009](https://open.spotify.com/track/7i9bu8l7zFppFNxPZVpsQ6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
 | 80 | [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 |
 
-Snapshot ID: `MCw5NDgzNjA4OWE4NzY0MmFmNWRkMGQzM2ZhMGU2ZmQyZmNlZTk0ODc5`
+Snapshot ID: `MCxhYzFiYzU3NTQ0NWE0ZTY0N2RlMjdlMmQwMTAwY2E0Nzk3ZDJlZGYw`

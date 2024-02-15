@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Knox",
-  "num_followers": 133489,
+  "num_followers": 133547,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzcwZTJmODlhMjhkZWY0Y2E0MjQ2ZWY5NjU5ZmQ3MjVkYjcwYmZl",
+  "snapshot_id": "MCwzY2QyNjBjYzE3MzIyYWEwMGQ2ZWI3Y2Y0NGJjZjhiZDc0NmFjMjU4",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 187838,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 143500,
       "name": "Dress",
       "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 187838,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Cinderella Snapped",
-        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Cinderella Snapped",
-      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Friends With Your EX",
-        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
-      },
-      "artists": [
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Friends With Your EX",
-      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+        "name": "Friends With Your EX",
+        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
         }
       ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
+      "duration_ms": 118933,
+      "name": "Friends With Your EX",
+      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "i\u2019m too pretty for this",
         "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 173836,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "UPSAHL PRESENTS: THE PHX TAPES",
-        "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 139844,
-      "name": "GOOD GIRL ERA (SIDE A)",
-      "url": "https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "JUMP!",
         "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 194928,
       "name": "JUMP!",
       "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES",
+        "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 139844,
+      "name": "GOOD GIRL ERA (SIDE A)",
+      "url": "https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Everknown",
-        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Everknown",
-      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Viva Las Vengeance",
         "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 200037,
       "name": "Middle Of A Breakup",
       "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Everknown",
+        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Everknown",
+      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "I Love You, I\u2019m Trying",
         "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 164899,
       "name": "Half My Heart",
       "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Alive and Unwell",
         "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "How Do You Love Me",
-        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
-      },
-      "artists": [
-        {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
-        }
-      ],
-      "duration_ms": 281644,
-      "name": "30 Somehow",
-      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Day Job",
         "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 158423,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "How Do You Love Me",
+        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "duration_ms": 281644,
+      "name": "30 Somehow",
+      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Every Heart But Mine",
+        "url": "https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Every Heart But Mine",
+      "url": "https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "m.i.a.",
         "url": "https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Every Heart But Mine",
-        "url": "https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Every Heart But Mine",
-      "url": "https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL"
     },
     {
       "added_at": "2024-01-12 05:00:00",

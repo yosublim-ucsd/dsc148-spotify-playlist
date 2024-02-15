@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 737828,
+  "num_followers": 737993,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTA3MGZlZTcwYWU4NWE5YjE1OTViYTdjZmY2Nzk5NWM1YTJkZTIw",
+  "snapshot_id": "MCw1NTcxYmM5YTFhNTZhMDdlMjQ5MDk0YTVkNzQ1MTQ1NDNkYmM4OGMy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Out With A Bang",
         "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 224666,
       "name": "Dust On The Bottle",
       "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "The Deana Carter Collection",
-        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
-      },
-      "artists": [
-        {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "If I Was a Cowboy",
         "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "The Deana Carter Collection",
+        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+        "name": "Put Yourself In My Place",
+        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+      "duration_ms": 239173,
+      "name": "Maybe It Was Memphis",
+      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Put Yourself In My Place",
-        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
       "artists": [
         {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 239173,
-      "name": "Maybe It Was Memphis",
-      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2024-01-12 05:00:00",

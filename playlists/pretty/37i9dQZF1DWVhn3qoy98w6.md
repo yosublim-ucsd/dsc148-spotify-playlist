@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Merina Gris.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,755 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,771 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 54 | [COPROPOP](https://open.spotify.com/track/2wVPtMfEuYEDyjWOValsNA) | [Punk Sailor](https://open.spotify.com/artist/4r9UwmrPx85eon7CA4Oj4B) | [COPROPOP](https://open.spotify.com/album/5ADCpLSXVb73tq9V29cRti) | 2:20 |
 | 55 | [Falso Techo](https://open.spotify.com/track/018PHrtjh7JjYndln8bOzZ) | [CORTE!](https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT) | [Falso Techo](https://open.spotify.com/album/5hWNqC9aPlYZ30kM17Rqjl) | 2:22 |
 
-Snapshot ID: `MCwwOWQ4NWFlYzZmOWE5Mzc2ZDQ3ZTkxODA5MzE1M2FjYjBjYTg5OTJm`
+Snapshot ID: `MCwzMDE2NTY2YjM3YjU3MDRlYmY4OTg5MzQ1Mzc3MzdjYzNkMWIyYjc3`

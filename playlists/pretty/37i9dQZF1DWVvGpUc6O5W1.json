@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42395,
+  "num_followers": 42410,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5",
+  "snapshot_id": "MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Me Empez\u00f3 A Valer",
-        "url": "https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Me Empez\u00f3 A Valer",
-      "url": "https://open.spotify.com/track/5D3X775rPruzExNKev9yD3"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Todo Va Estar Bien",
         "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Clase de Historia",
-        "url": "https://open.spotify.com/album/0P9LadsczPB6D05zC4Ifat"
+        "name": "Me Empez\u00f3 A Valer",
+        "url": "https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb"
       },
       "artists": [
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 175530,
-      "name": "Amigo del Amigo",
-      "url": "https://open.spotify.com/track/0chWKhxxtVg4UqcBLcxZn3"
+      "duration_ms": 155026,
+      "name": "Me Empez\u00f3 A Valer",
+      "url": "https://open.spotify.com/track/5D3X775rPruzExNKev9yD3"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1403,6 +1387,22 @@
       "duration_ms": 157071,
       "name": "Ni Diablo Ni Santo",
       "url": "https://open.spotify.com/track/425mEnEqn5N8tBUL9WfZoi"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Clase de Historia",
+        "url": "https://open.spotify.com/album/0P9LadsczPB6D05zC4Ifat"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "duration_ms": 175530,
+      "name": "Amigo del Amigo",
+      "url": "https://open.spotify.com/track/0chWKhxxtVg4UqcBLcxZn3"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Capaz de Todo",
+        "url": "https://open.spotify.com/album/4IwstpJh76BsS12JPKXuxq"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "duration_ms": 221452,
+      "name": "Sin Ganas De Cenar (Banda)",
+      "url": "https://open.spotify.com/track/72OxyG9p9Yyd4jWFBWV9FX"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 216853,
       "name": "No Es Un Juego",
       "url": "https://open.spotify.com/track/4brAkdbamMA7UuS0IEjiRZ"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Capaz de Todo",
-        "url": "https://open.spotify.com/album/4IwstpJh76BsS12JPKXuxq"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 221452,
-      "name": "Sin Ganas De Cenar (Banda)",
-      "url": "https://open.spotify.com/track/72OxyG9p9Yyd4jWFBWV9FX"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "El Hijo Del Desierto",
-        "url": "https://open.spotify.com/album/4Ei1NhM8VkWmoiNXkazooV"
-      },
-      "artists": [
-        {
-          "name": "El Dasa",
-          "url": "https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "Buenos D\u00edas Mi Amor",
-      "url": "https://open.spotify.com/track/7E0SZ6IsOiI4luYGSZFdk7"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "No Consigo Olvidarte",
         "url": "https://open.spotify.com/album/7Mv0GXTjDXE3aH8sekxGf3"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 229346,
       "name": "No Consigo Olvidarte",
       "url": "https://open.spotify.com/track/3qxqgXhdqXutYKeOQmphCG"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "El Hijo Del Desierto",
+        "url": "https://open.spotify.com/album/4Ei1NhM8VkWmoiNXkazooV"
+      },
+      "artists": [
+        {
+          "name": "El Dasa",
+          "url": "https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Buenos D\u00edas Mi Amor",
+      "url": "https://open.spotify.com/track/7E0SZ6IsOiI4luYGSZFdk7"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2015,18 +2015,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Homenaje a Nuestros Viejos",
-        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
+        "name": "Globall",
+        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
       "artists": [
         {
-          "name": "Luis y Juli\u00e1n Jr.",
-          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Las Cumbia Girls",
+          "url": "https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D"
         }
       ],
-      "duration_ms": 187920,
-      "name": "Chaparrita de Mi Amor",
-      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+      "duration_ms": 183026,
+      "name": "El Shake (feat. Las Cumbia Girls)",
+      "url": "https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2047,22 +2051,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Globall",
-        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
+        "name": "Homenaje a Nuestros Viejos",
+        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
       },
       "artists": [
         {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Las Cumbia Girls",
-          "url": "https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D"
+          "name": "Luis y Juli\u00e1n Jr.",
+          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
         }
       ],
-      "duration_ms": 183026,
-      "name": "El Shake (feat. Las Cumbia Girls)",
-      "url": "https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn"
+      "duration_ms": 187920,
+      "name": "Chaparrita de Mi Amor",
+      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2135,18 +2135,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ni Juez Ni Parte (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF"
+        "name": "La Mejor Version de Mi (Banda)",
+        "url": "https://open.spotify.com/album/0fvsbBzpx12Gc6x0unz1F3"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Nena Guzman",
+          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Recomi\u00e9ndame",
-      "url": "https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx"
+      "duration_ms": 207313,
+      "name": "La Mejor Version de Mi (Banda)",
+      "url": "https://open.spotify.com/track/16a21C1O3bOKAN3aSOupIT"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "La Mejor Version de Mi (Banda)",
-        "url": "https://open.spotify.com/album/0fvsbBzpx12Gc6x0unz1F3"
+        "name": "Ni Juez Ni Parte (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rFanRfPpDoHfhWmHnP6uF"
       },
       "artists": [
         {
-          "name": "Nena Guzman",
-          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 207313,
-      "name": "La Mejor Version de Mi (Banda)",
-      "url": "https://open.spotify.com/track/16a21C1O3bOKAN3aSOupIT"
+      "duration_ms": 200973,
+      "name": "Recomi\u00e9ndame",
+      "url": "https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Tienes Remedio",
-        "url": "https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M"
-      },
-      "artists": [
-        {
-          "name": "Roberto Junior Y Su Bande\u00f1o",
-          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "C\u00f3mo Que No Te Conozco",
-      "url": "https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Con Todo Y Tus Ma\u00f1as",
         "url": "https://open.spotify.com/album/6jAd2KoInbzlQkxxEmXypB"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 206720,
       "name": "Con Todo Y Tus Ma\u00f1as",
       "url": "https://open.spotify.com/track/3jSddRSaL6KayUkv6LeOH9"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "No Tienes Remedio",
+        "url": "https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M"
+      },
+      "artists": [
+        {
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "C\u00f3mo Que No Te Conozco",
+      "url": "https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh"
     },
     {
       "added_at": "2022-01-25 18:24:05",

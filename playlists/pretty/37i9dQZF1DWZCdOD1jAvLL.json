@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 233668,
+  "num_followers": 233769,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzg2YzcxZTM1YmVhNTE1NmZmMTkzZjEyNTk4Y2YzNDczMDk5NDY0",
+  "snapshot_id": "MCxlMjZmMmU4NDM0MzA2M2M4NjIxNzFmN2ViOGFhNzU4ZWNiYzA4MjU5",
   "tracks": [
     {
       "added_at": "2024-02-09 17:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "Frikitona",
         "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 174375,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
         "name": "Softly (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 137142,
       "name": "Softly - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152015,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 142562,
       "name": "FAME?",
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 200318,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Shut Shit Down",
-        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Shut Shit Down",
-      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Shut Shit Down",
+        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Shut Shit Down",
+      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1743,18 +1743,22 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
+        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
+        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         }
       ],
-      "duration_ms": 182109,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
+      "duration_ms": 177000,
+      "name": "Back Bus",
+      "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1779,6 +1783,22 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1843,26 +1863,6 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
-        "name": "Deadbeats & Brownies - Drum & Bass Compilation",
-        "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Back Bus",
-      "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -2483,30 +2483,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
-        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 208217,
-      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
-      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "In Rome (feat. Jaime Deraz)",
         "url": "https://open.spotify.com/album/2wQdJ7JuyPMiZ3abVikig9"
       },
@@ -2527,6 +2503,30 @@
       "duration_ms": 158095,
       "name": "In Rome",
       "url": "https://open.spotify.com/track/6SgGvkZkaAIdigMcWDMlmW"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
+        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 208217,
+      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
+      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
     },
     {
       "added_at": "2024-02-09 17:00:00",

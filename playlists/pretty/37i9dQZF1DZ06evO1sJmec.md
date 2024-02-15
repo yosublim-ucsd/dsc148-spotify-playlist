@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,897,933 likes - 51 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,898,213 likes - 51 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 4 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 |
 | 5 | [One](https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 7:27 |
 | 6 | [Nothing Else Matters](https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:28 |
-| 7 | [For Whom The Bell Tolls \- Remastered](https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 5:09 |
-| 8 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 |
+| 7 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 |
+| 8 | [For Whom The Bell Tolls \- Remastered](https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 5:09 |
 | 9 | [Fade To Black \- Remastered](https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:57 |
 | 10 | [The Unforgiven](https://open.spotify.com/track/4aYLAF6ckQ5ooGGGM7sWAa) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:26 |
-| 11 | [Until It Sleeps](https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 4:27 |
-| 12 | [The Unforgiven II](https://open.spotify.com/track/6nswV1Lz3OZkaiCJfmVUOa) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 6:36 |
+| 11 | [The Unforgiven II](https://open.spotify.com/track/6nswV1Lz3OZkaiCJfmVUOa) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 6:36 |
+| 12 | [Until It Sleeps](https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 4:27 |
 | 13 | [Seek & Destroy \- Remastered](https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 6:54 |
 | 14 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 |
 | 15 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 32 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
 | 33 | [King Nothing](https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:29 |
 | 34 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 |
-| 35 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
-| 36 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 |
+| 35 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 |
+| 36 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
 | 37 | [Motorbreath \- Remastered](https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 3:07 |
 | 38 | [Shadows Follow](https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:11 |
 | 39 | [Creeping Death \- Creeping Death EP Version / Remastered](https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 50 | [The Thing That Should Not Be](https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:36 |
 | 51 | [Jump In The Fire \- Remastered](https://open.spotify.com/track/4fVBFyglBhMf0erfF7pBJp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:41 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAwNWZkNzIzZmE5NmY0NDYzNzJlYjgxYTU3MWFjYmNjNg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA2NTc1ODNkYjk0ODk0ZTUyZmM2ZjJkMGQ3YTAwZGEyZA==`

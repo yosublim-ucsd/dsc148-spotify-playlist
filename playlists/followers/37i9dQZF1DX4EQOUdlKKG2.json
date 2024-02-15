@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 80252,
+  "2024-02-15": 80795,
   "date_first_scraped": "2023-02-10",
   "description": "i'm glad i didn't die before i met you.",
   "name": "Still Into You",
@@ -439,6 +439,24 @@
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
+    },
+    {
+      "album": {
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Girls / Girls / Boys",
+      "url": "https://open.spotify.com/track/2wEjPgOCEczmjlvq60LyQi"
     },
     {
       "album": {
@@ -957,7 +975,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 192115,
       "name": "Spaghetti Tattoo",
       "url": "https://open.spotify.com/track/3SJxkDKY9w5GF0bpQrVDKy"

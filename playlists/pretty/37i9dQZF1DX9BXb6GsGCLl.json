@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 547206,
+  "num_followers": 547294,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWY2N2JmNDdjYTBjNjI2MTBiNDZiNDJkYWVhMzMxYTkyZDVjZTk4",
+  "snapshot_id": "MCxjYWFiMjE2YWVjYmVlZTI5MDkwZGYxNjljNDIzNzYyYWNmMjM0ZTRk",
   "tracks": [
     {
       "added_at": "2024-02-01 12:54:41",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 171360,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -243,26 +243,18 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "BED",
-        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 178087,
-      "name": "BED",
-      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -303,6 +295,30 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "BED",
+        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 178087,
+      "name": "BED",
+      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -819,22 +819,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "The Bones (with Hozier)",
-        "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
         }
       ],
-      "duration_ms": 197298,
-      "name": "The Bones - with Hozier",
-      "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -863,22 +863,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+        "name": "The Bones (with Hozier)",
+        "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         },
         {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+      "duration_ms": 197298,
+      "name": "The Bones - with Hozier",
+      "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Grown Woman",
-        "url": "https://open.spotify.com/album/3Zpdg1WMQqfWrf4sXAHxLJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 310863,
-      "name": "Grown Woman",
-      "url": "https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 206108,
       "name": "Way Less Sad",
       "url": "https://open.spotify.com/track/1UDhFEt0NlOFKwWRQJTgHe"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Grown Woman",
+        "url": "https://open.spotify.com/album/3Zpdg1WMQqfWrf4sXAHxLJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 310863,
+      "name": "Grown Woman",
+      "url": "https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1399,22 +1399,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
+        "name": "if we never met (remix)",
+        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
       "artists": [
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         },
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 207667,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
+      "duration_ms": 186594,
+      "name": "if we never met - remix",
+      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "if we never met (remix)",
-        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
       },
       "artists": [
         {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 186594,
-      "name": "if we never met - remix",
-      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+      "duration_ms": 207667,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
     },
     {
       "added_at": "2024-02-01 12:54:41",

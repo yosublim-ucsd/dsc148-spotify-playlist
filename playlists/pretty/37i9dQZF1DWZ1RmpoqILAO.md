@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,162 likes - 151 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,258 likes - 151 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 150 | [Bury The Hatchet \- Radio Edit](https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs) | [Mol Sullivan](https://open.spotify.com/artist/3oYFKaeq39nYQsW6z6LX3T) | [Bury The Hatchet \(Radio Edit\)](https://open.spotify.com/album/6nWAsgxghVFT7xXP0EY4aF) | 3:38 |
 | 151 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
 
-Snapshot ID: `MCw0ZTBjMGI3MjdjMjMwM2NkZGEwNTEzYzVhNWE2YmMyYThjZGFkZDIx`
+Snapshot ID: `MCw0Yjk3NjJkZjMxMzhmYmExYmMzMDgzY2YxMzk5NGNhOTI3MzFiMDU1`

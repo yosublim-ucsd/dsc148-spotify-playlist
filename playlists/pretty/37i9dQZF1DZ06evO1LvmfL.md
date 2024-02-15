@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,860 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,285 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 45 | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 |
 | 46 | [Free Them \(feat\. Teddy Swims\)](https://open.spotify.com/track/0kdIxHnIj3Tk9tcj1fOUaH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:12 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAzZjJmNTAzYzdiOTA4MTRkODVmNGY5ZGU1MDc3ZGJjNA==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA0NTQzM2I1Y2EwOGY0NDBiMzM4YWJkN2MxODgxZmVkNQ==`

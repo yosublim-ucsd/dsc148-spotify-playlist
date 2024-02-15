@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,564 songs - 4 day 11 hr 39 min
+1,565 songs - 4 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2020-03-17 | 2020-10-09 |
 | [Back Down](https://open.spotify.com/track/5NMV8GTUZ3LaU4BBjuVPSB) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Back Down](https://open.spotify.com/album/2Rybx2qf5xtQreVTeYvjYO) | 4:10 | 2020-05-18 | 2021-06-19 |
 | [Back To The Roots](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Back To The Roots](https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT) | 4:46 | 2022-05-13 | 2023-09-09 |
-| [Back to You \(Amtrac Remix\)](https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Back to You \(Amtrac Remix\)](https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9) | 4:37 | 2023-03-10 |  |
+| [Back to You \(Amtrac Remix\)](https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Back to You \(Amtrac Remix\)](https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9) | 4:37 | 2023-03-10 | 2024-02-15 |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-03-19 | 2022-02-14 |
 | [Banya](https://open.spotify.com/track/2zT8nNao3eyXVLQLeWzKjh) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Guaba EP](https://open.spotify.com/album/2PLy7P0hdq12FXH8GLCETk) | 4:16 | 2020-08-06 | 2022-02-12 |
 | [Bara Du](https://open.spotify.com/track/2bjZY6qnQWOLpS0n1TtrbM) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 2:33 | 2020-03-17 | 2020-07-03 |
@@ -712,6 +712,7 @@
 | [Islands](https://open.spotify.com/track/7sBZvwylmtrxRlghCooQdM) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [Islands](https://open.spotify.com/album/4JwTjsTN3QyGMuKoMB8gzP) | 4:16 | 2020-05-19 | 2020-07-03 |
 | [It Was You \(With Zeeba\)](https://open.spotify.com/track/42uG027pzJkSk63FZkUd0I) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [It Was You \(With Zeeba\)](https://open.spotify.com/album/6pCrr0GMlTyu6XOirgJVF5) | 2:37 | 2020-03-20 | 2021-12-21 |
 | [It's All Over](https://open.spotify.com/track/1bqcDfcEHDQP7Q5AOUCnC5) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 4:10 | 2020-10-13 | 2021-03-06 |
+| [It's Ok It's Alright](https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [It's Ok It's Alright](https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h) | 4:03 | 2024-02-09 |  |
 | [It's Strange \(feat\. K.Flay\) \- Melvv Remix](https://open.spotify.com/track/2VUKwQ5wovKeCLf0gQUttH) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [It's Strange \(feat\. K.Flay\) \[Remixes\]](https://open.spotify.com/album/0q1iCP7zlNEHcTIvovdCKj) | 3:38 | 2020-05-18 | 2020-07-03 |
 | [Ivy](https://open.spotify.com/track/05fOOZZ8M2RVlHAUSwj1l5) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 2:23 | 2021-10-01 | 2022-12-02 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-10 |  |

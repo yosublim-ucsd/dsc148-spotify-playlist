@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 128365,
+  "num_followers": 128432,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmFiODhiYzI3NDUwY2MyMDFhMTliNjRlZTBkZjhiNGNiZDkzN2Qy",
+  "snapshot_id": "MCw2MDc1NzI4NGIwODJkNTI2ZjFkZTI3ZDI5MjdkNGU5M2QzMmU1NDk5",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Soy As\u00ed",
-        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+        "name": "Caricias Vendidas",
+        "url": "https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Quiero Charlar Con La Muerte",
-      "url": "https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET"
+      "duration_ms": 191693,
+      "name": "Ruleteando el Mezcal",
+      "url": "https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Caricias Vendidas",
-        "url": "https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7"
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
       },
       "artists": [
         {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Ruleteando el Mezcal",
-      "url": "https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh"
+      "duration_ms": 184000,
+      "name": "Quiero Charlar Con La Muerte",
+      "url": "https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Cosas Del Diablo",
-        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "Bayo 17",
-      "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Pura Sombreriza",
         "url": "https://open.spotify.com/album/30F6CxlYHbKhC8WZtrUNKm"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 239375,
       "name": "Pura Sombreriza",
       "url": "https://open.spotify.com/track/4z784C8Uuf8z41Bp5caxBp"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Cosas Del Diablo",
+        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 161733,
+      "name": "Bayo 17",
+      "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
     },
     {
       "added_at": "2023-06-16 06:00:00",

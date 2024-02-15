@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,050 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,067 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 43 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
 | 44 | [Só Você](https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Na Pressão](https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ) | 3:07 |
 | 45 | [É Problema](https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [É Problema](https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa) | 3:04 |
-| 46 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 |
-| 47 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
+| 46 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
+| 47 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 |
 | 48 | [Meia Noite \(Você tem meu Whatsapp\)](https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Diferente dos Iguais](https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST) | 3:57 |
 | 49 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 3:29 |
 | 50 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 78 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
 | 79 | [Ligação Covarde \- Ao Vivo](https://open.spotify.com/track/3caI72WpQutpdgPMm1jgDb) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 2:42 |
 | 80 | [Alô Ex\-Amor \- Ao Vivo](https://open.spotify.com/track/08I9PzelbafWeXufyvKL3S) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Alô Ex\-Amor \(Ao Vivo\)](https://open.spotify.com/album/5D84Xvu0CAC3JFKWqm3uvb) | 3:17 |
-| 81 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 |
-| 82 | [Domingo \- Ao Vivo](https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [O Baile do Nego Véio Ao Vivo Em Jurerê Internacional](https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi) | 2:56 |
+| 81 | [Domingo \- Ao Vivo](https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [O Baile do Nego Véio Ao Vivo Em Jurerê Internacional](https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi) | 2:56 |
+| 82 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 |
 | 83 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 |
 | 84 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
 | 85 | [Último Beijo](https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Último Beijo](https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Nunca Vai Ser Nós](https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Nunca Vai Ser Nós](https://open.spotify.com/album/1XhqEq2zud4YlQ5MsOhY6R) | 2:52 |
 | 100 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
 
-Snapshot ID: `MCw5YTAzNGZlMWRkMzQ1MjYwZWU1MDhkNzZmYzZkMjUzNGFiYWQ2NWQ4`
+Snapshot ID: `MCw0Y2UzMmQxZTRlYmQ5MmFhOGZlY2ZjNTJhM2Y1NTNjMjhiYmVlM2I1`

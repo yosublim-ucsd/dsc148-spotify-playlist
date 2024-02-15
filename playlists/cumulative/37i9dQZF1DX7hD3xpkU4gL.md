@@ -4,7 +4,7 @@
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-206 songs - 14 hr 23 min
+207 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ahora Tu](https://open.spotify.com/track/4QPF1ySQOUMMpvMqnYvdYw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Guerra Fria](https://open.spotify.com/album/1J9gaoT3BiX5pUN6U01NB7) | 3:44 | 2022-01-03 | 2022-07-29 |
 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 | 2023-01-13 |  |
 | [Algo de Mí](https://open.spotify.com/track/2ZZ7RjQOIkQQM3Wd4tXaZe) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Algo de Mí](https://open.spotify.com/album/6rdG7eL7aSsBwz58uROe9L) | 4:10 | 2022-01-03 | 2022-07-29 |
-| [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 | 2022-07-21 |  |
+| [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 | 2022-07-21 | 2024-02-15 |
 | [Algo Más](https://open.spotify.com/track/1TcwFgNVSk901hK4Rwpcsn) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/3akKzcllmwsg5jq6TK4P1d) | 4:29 | 2022-01-03 | 2022-07-29 |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2022-07-21 | 2023-01-14 |
 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 | 2022-07-21 |  |
@@ -145,6 +145,7 @@
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2023-01-13 |  |
 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 | 2022-07-21 |  |
 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 | 2022-01-03 | 2022-11-13 |
+| [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 | 2024-02-13 |  |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/1oaGF1WX4dMGOwZL3ueYVw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 3:04 | 2022-01-03 | 2022-07-29 |
 | [Por volverte a ver](https://open.spotify.com/track/0g36Ufk2Mp8xI2Mf4YU06r) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Grandes Éxitos](https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U) | 4:01 | 2022-01-03 | 2022-07-29 |
 | [Qué Bonito Es Querer](https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [La Cruz Del Mapa](https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa) | 4:30 | 2023-01-13 |  |

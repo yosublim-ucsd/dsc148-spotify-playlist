@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,285 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,317 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 2 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 3 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
-| 4 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 5 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
+| 4 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
+| 5 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 6 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 7 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 |
 | 8 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 46 | [Halloween Blues](https://open.spotify.com/track/3vJXnhcUZLWRiQWYpFSTpW) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine](https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7) | 3:16 |
 | 47 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 |
 | 48 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
-| 49 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
-| 50 | [Skeleton Song](https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 5:07 |
+| 49 | [Skeleton Song](https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 5:07 |
+| 50 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
 | 51 | [MORBID FASCINATION](https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08) | 3:46 |
 | 52 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
 | 53 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 66 | [Boris The Spider \- Mono Version](https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Expanded Edition\)](https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P) | 2:29 |
 | 67 | [So Haunted](https://open.spotify.com/track/08fNM1EU6GnebBtv3Btl4d) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours \(UK Version Delux\)](https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS) | 4:28 |
 | 68 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
-| 69 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
-| 70 | [A Girl Like You](https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [These Dreams EP](https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg) | 3:12 |
+| 69 | [A Girl Like You](https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [These Dreams EP](https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg) | 3:12 |
+| 70 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
 | 71 | [Superstition](https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk) | 4:40 |
-| 72 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
-| 73 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
-| 74 | [I Died So I Could Haunt You](https://open.spotify.com/track/7lW55LWB5WNghEKUDdSW2x) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/0fli3Vlq3OCeHEDpxlptVl) | 3:05 |
+| 72 | [I Died So I Could Haunt You](https://open.spotify.com/track/7lW55LWB5WNghEKUDdSW2x) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/0fli3Vlq3OCeHEDpxlptVl) | 3:05 |
+| 73 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
+| 74 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
 | 75 | [Found Love in a Graveyard](https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi) | 3:59 |
 | 76 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 | 77 | [Witches! Witches! Rest Now in the Fire](https://open.spotify.com/track/291lmjDQWvoIvydacDDPHw) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Rest Now, Weary Head! You Will Get Well Soon](https://open.spotify.com/album/3v5np4Yucc1MfTScroDIvM) | 3:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 79 | [Skeleton Dance](https://open.spotify.com/track/4NRa0k3kkCuL0cZDFCBRer) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls) | 3:37 |
 | 80 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
 
-Snapshot ID: `MCw4MjgzZGIyOGYxYWYzOGZhZmZhZTlhN2ZkODlmNTE4Mjk5NjZlOWJm`
+Snapshot ID: `MCwyYzhjNTM1NzcwYjBkODMyODA2MWU3NmFkNzMxYTZiMmFjMWNlYjk0`

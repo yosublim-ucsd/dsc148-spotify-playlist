@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 63883,
+  "2024-02-15": 63889,
   "date_first_scraped": "2021-12-21",
   "description": "Let it go and belt it out to these classic ballads \u2013 covered. Cover: <a href=\"spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ\">Rose Cousins</a>",
   "name": "Ballads Forever",
@@ -1639,7 +1639,7 @@
     {
       "album": {
         "name": "Wrecking Ball (Acoustic)",
-        "url": "https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN"
+        "url": "https://open.spotify.com/album/5kn1D2FuKuSRG98VSrYxnB"
       },
       "artists": [
         {
@@ -1658,6 +1658,32 @@
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Wrecking Ball (Acoustic)",
+      "url": "https://open.spotify.com/track/3ioF46MzYIpZYHAf7700ba"
+    },
+    {
+      "album": {
+        "name": "Wrecking Ball (Acoustic)",
+        "url": "https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN"
+      },
+      "artists": [
+        {
+          "name": "Two Worlds",
+          "url": "https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB"
+        },
+        {
+          "name": "Nick Voelker",
+          "url": "https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3"
+        },
+        {
+          "name": "Adiel Mitchell",
+          "url": "https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-14",
       "duration_ms": 213750,
       "name": "Wrecking Ball - Acoustic",
       "url": "https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE"

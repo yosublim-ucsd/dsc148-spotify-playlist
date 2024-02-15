@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 525983,
+  "2024-02-15": 525970,
   "date_first_scraped": "2021-12-21",
   "description": "music to get fly to ft Zendaya at Paris Fashion Week.",
   "name": "'fit check",
@@ -3740,6 +3740,24 @@
     },
     {
       "album": {
+        "name": "For My Own Sake",
+        "url": "https://open.spotify.com/album/3SScH6k1ngWnC1B4Qanjm2"
+      },
+      "artists": [
+        {
+          "name": "Ferdous",
+          "url": "https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/730VcX0fDB9NDeuXB0PbtL"
+    },
+    {
+      "album": {
         "name": "I Love You Jennifer B",
         "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
       },
@@ -7395,7 +7413,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 142666,
       "name": "Selfish Soul",
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"

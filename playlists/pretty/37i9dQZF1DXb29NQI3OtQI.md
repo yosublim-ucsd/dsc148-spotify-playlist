@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best easy rock from the 2000s\. Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,806 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,855 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 56 | [Cat And Mouse](https://open.spotify.com/track/4aZirFFDJlUUuvhpjY5cAH) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:28 |
 | 57 | [My Kind Of Scene](https://open.spotify.com/track/3GcvxghJMdrNH92Rp2oMtV) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:37 |
 | 58 | [Getaway Car](https://open.spotify.com/track/3xOAzRgOEDn0zc4zPIBRsE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:58 |
-| 59 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
-| 60 | [The End](https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
+| 59 | [The End](https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
+| 60 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
 | 61 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
 | 62 | [All Of This](https://open.spotify.com/track/5kYhmkcnDalqUMxQxBcZkB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP), [Robert Smith ](https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 4:40 |
 | 63 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 79 | [My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 5:47 |
 | 80 | [Somewhere In Between](https://open.spotify.com/track/7i0E1VKLqvN3jLmnoi68oR) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 4:12 |
 
-Snapshot ID: `MCwzMzcwMzg1YTMzOWNjYTRmMzVjYTRmNjQ5YjVjNzRiOTVmMzRhYWM2`
+Snapshot ID: `MCwxYTgwNzFhMjM3ZGIxODc0NzMzODYyYmMyNTNlYWMwYTE2NGYxYzNj`

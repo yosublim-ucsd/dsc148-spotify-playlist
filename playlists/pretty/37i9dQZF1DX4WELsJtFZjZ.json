@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 852122,
+  "num_followers": 852664,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGI3NjEwNGQwNGJkNGY5ZDQ3MGU5NTI3ODFjZWMzNTJkYzk0Yzhm",
+  "snapshot_id": "MCxhODEwZDNiNjZlOGY4ODNiNWYwOTMyZmJhNWRmYzgzMDUyNjAxNzAx",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 427333,
       "name": "We Are The World",
       "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Saving All My Love for You",
+      "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 232666,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Saving All My Love for You",
-      "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 266333,
       "name": "Slave To Love",
       "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Greatest Love of All",
-      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 254476,
-      "name": "These Dreams",
-      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+      "duration_ms": 277600,
+      "name": "Where Do Broken Hearts Go",
+      "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1471,34 +1471,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Where Do Broken Hearts Go",
-      "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+      "duration_ms": 254476,
+      "name": "These Dreams",
+      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 225626,
       "name": "Crazy for You - Edit",
       "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "I Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Share Your Love",
         "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
       },
@@ -1879,18 +1863,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
+      "duration_ms": 253173,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1911,6 +1895,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Hold An Old Friend's Hand",
         "url": "https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x"
       },
@@ -1923,22 +1923,6 @@
       "duration_ms": 261906,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
-        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 284903,
-      "name": "One Moment in Time",
-      "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1959,6 +1943,22 @@
       "duration_ms": 251760,
       "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
       "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
+        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 284903,
+      "name": "One Moment in Time",
+      "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "Didn't We Almost Have It All",
-      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Didn't We Almost Have It All",
+      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2155,22 +2155,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Spy Who Loved Me",
-        "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
+        "name": "Sergio Mendes",
+        "url": "https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU"
       },
       "artists": [
         {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
-        },
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Nobody Does It Better",
-      "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
+      "duration_ms": 255600,
+      "name": "Never Gonna Let You Go",
+      "url": "https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2187,22 +2183,6 @@
       "duration_ms": 251853,
       "name": "Don't Answer Me",
       "url": "https://open.spotify.com/track/3IeVrRu0jOlwOkTwD9AykT"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Sergio Mendes",
-        "url": "https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Never Gonna Let You Go",
-      "url": "https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2235,6 +2215,26 @@
       "duration_ms": 297306,
       "name": "Jealous Guy",
       "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Spy Who Loved Me",
+        "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
+      },
+      "artists": [
+        {
+          "name": "Marvin Hamlisch",
+          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
+        },
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Nobody Does It Better",
+      "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
     },
     {
       "added_at": "2023-01-24 23:00:00",

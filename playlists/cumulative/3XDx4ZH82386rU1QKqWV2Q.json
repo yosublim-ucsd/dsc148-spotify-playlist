@@ -61,7 +61,7 @@
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 99823,
+      "duration_ms": 99072,
       "name": "2000",
       "url": "https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd"
     },
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 256000,
       "name": "Another World",
       "url": "https://open.spotify.com/track/7qlz1NpDWyPbXYiqiWBLrI"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 82285,
       "name": "BLUE LOCK EKI",
       "url": "https://open.spotify.com/track/5qyuI1VzAeHukRQh5ogji6"
@@ -1753,6 +1753,32 @@
     },
     {
       "album": {
+        "name": "CYBERSPUNK",
+        "url": "https://open.spotify.com/album/4QlMAEZwhE94oqYzzomA4h"
+      },
+      "artists": [
+        {
+          "name": "LUzA CULT",
+          "url": "https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT"
+        },
+        {
+          "name": "SAVE Az",
+          "url": "https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7"
+        },
+        {
+          "name": "Lui Surreal",
+          "url": "https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195294,
+      "name": "CYBERSPUNK",
+      "url": "https://open.spotify.com/track/4dHjvl8qRqYoIfaarf6T3g"
+    },
+    {
+      "album": {
         "name": "DADDY",
         "url": "https://open.spotify.com/album/43rJRgjFGUi6XZqFnd03iJ"
       },
@@ -1768,7 +1794,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 105600,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/6VC9XEGL4nMrLWpDNeILBI"
@@ -2804,7 +2830,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 135111,
       "name": "Fake Massacre",
       "url": "https://open.spotify.com/track/10zegmtztIFo8AWDH4IrST"
@@ -3264,6 +3290,28 @@
       "duration_ms": 153600,
       "name": "Fuzz n' Fury",
       "url": "https://open.spotify.com/track/5nkiEnTMx6bLKWRJ20S5Ej"
+    },
+    {
+      "album": {
+        "name": "Amongst the Stars",
+        "url": "https://open.spotify.com/album/4lwV2GaekXJwiAXkgVSdqV"
+      },
+      "artists": [
+        {
+          "name": "P$ychii",
+          "url": "https://open.spotify.com/artist/1pwA2hg6Kvxp4DRwEtDL2r"
+        },
+        {
+          "name": "healer",
+          "url": "https://open.spotify.com/artist/1EXHe0J3CqGiOsduzvKsJa"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193095,
+      "name": "G33k.Ovr>U",
+      "url": "https://open.spotify.com/track/43fViZRLgX6y7QK0Yz157s"
     },
     {
       "album": {
@@ -4425,6 +4473,28 @@
     },
     {
       "album": {
+        "name": "introvert",
+        "url": "https://open.spotify.com/album/6Bi95VjvNc3yShODGge95Q"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Kylof S\u00f6ze",
+          "url": "https://open.spotify.com/artist/02DBFa1jp5WLRo71ttC5Q8"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75692,
+      "name": "introvert",
+      "url": "https://open.spotify.com/track/0IK0XHOZqleD4r3oWnbfMD"
+    },
+    {
+      "album": {
         "name": "inuria 2",
         "url": "https://open.spotify.com/album/0FGOFLczPiI0HQ9SDlQQCl"
       },
@@ -4887,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/0FreK2pSYfhSgHi20Y02Fv"
+      },
+      "artists": [
+        {
+          "name": "K.E.903",
+          "url": "https://open.spotify.com/artist/4aVU5WW1G7KVeVLj4nTdl2"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131796,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/46cCwdcirgFCYPZosLIof0"
+    },
+    {
+      "album": {
         "name": "Limitbreaker",
         "url": "https://open.spotify.com/album/2bbsUZssmV9H4Q4GcprXzC"
       },
@@ -5018,7 +5106,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 130483,
       "name": "LOCKED IN!",
       "url": "https://open.spotify.com/track/3gr6bA6cy7KFklSm7wWgN8"
@@ -6544,7 +6632,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 94000,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/2MY2WmYJu9qOsFPA1WshvZ"
@@ -8596,6 +8684,28 @@
       "duration_ms": 226708,
       "name": "Take It Up a Level",
       "url": "https://open.spotify.com/track/5nfaWREk1t8BKgLO6OVmq3"
+    },
+    {
+      "album": {
+        "name": "Take The Wheel",
+        "url": "https://open.spotify.com/album/4OZC7HDtCnTH0FSK16NaQ2"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        },
+        {
+          "name": "BLXCKBUSTA",
+          "url": "https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117836,
+      "name": "Take The Wheel",
+      "url": "https://open.spotify.com/track/2U4ShVVTYF6nvT5EKqa5O5"
     },
     {
       "album": {

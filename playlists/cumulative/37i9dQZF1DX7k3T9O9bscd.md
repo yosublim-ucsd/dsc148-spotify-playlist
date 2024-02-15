@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-301 songs - 1 day 0 hr 20 min
+302 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [At Night in Dreams](https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/5Zisnw28sCEenTsdH1D8Hj) | 4:04 | 2021-11-12 |  |
 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2021-11-12 | 2023-06-23 |
 | [At Night in Dreams](https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/6BcETfqZtiIw2TmpQGvAGS) | 4:04 | 2021-11-12 | 2022-07-29 |
-| [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 | 2023-06-26 |  |
+| [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 | 2023-06-26 | 2024-02-15 |
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-11-12 | 2022-07-29 |
 | [Azure](https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV) | [Kaleydo](https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur) | [Azure](https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv) | 2:35 | 2023-07-14 | 2024-01-18 |
 | [Back to Land](https://open.spotify.com/track/6ylxuxxLEcbZKtVTf0Feg2) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/1VyWvAkunNZTJ0PCUv81dj) | 5:17 | 2021-11-12 | 2022-07-15 |
@@ -279,6 +279,7 @@
 | [Trees](https://open.spotify.com/track/1NXypJl06i4aiD6Lpi06Sb) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 7:14 | 2021-11-12 | 2022-07-28 |
 | [Trees](https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 7:14 | 2021-11-12 |  |
 | [Truth](https://open.spotify.com/track/3hS6PyeZEDltwUXCN5UTXU) | [Wax Machine](https://open.spotify.com/artist/6kZ2grSzDSRhZuB4iiw77G) | [Truth](https://open.spotify.com/album/0oLub52R5pVTPVQndadoIu) | 4:15 | 2021-11-12 | 2022-07-29 |
+| [Truth](https://open.spotify.com/track/5uBhCPkevhLQfLPCg3lrZG) | [Wax Machine](https://open.spotify.com/artist/6kZ2grSzDSRhZuB4iiw77G) | [Earthsong of Silence](https://open.spotify.com/album/3Mx8bKoIziwX8AAeOgm1RL) | 4:15 | 2023-11-24 |  |
 | [Turn Around](https://open.spotify.com/track/5xUDXchsF1T8g5P3kNszHB) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d), [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Turn Around](https://open.spotify.com/album/5jRLKnu0hpjCUaCpyX7Se7) | 4:03 | 2021-11-12 | 2022-07-21 |
 | [Tītián](https://open.spotify.com/track/4FfM1tpWiGg3xS6myfNAvi) | [Kuunatic](https://open.spotify.com/artist/5uZn75Nrcnvzl4tkgPQlEB) | [Gate of Klüna](https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI) | 4:38 | 2022-04-28 | 2022-07-23 |
 | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON) | [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/album/71ZOwm0s7j6OBbwmTT2CUC) | 5:45 | 2022-04-22 | 2022-07-27 |

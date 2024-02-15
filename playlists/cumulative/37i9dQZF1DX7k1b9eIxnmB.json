@@ -4880,10 +4880,36 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 311293,
       "name": "Vanamellam Senbagappu",
       "url": "https://open.spotify.com/track/6AWDMJyrvqjgvCpY4TJzKl"
+    },
+    {
+      "album": {
+        "name": "Nadodi Pattukkaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0kpgjIYOD7JnF2uyYKzW0t"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Gangai Amaran",
+          "url": "https://open.spotify.com/artist/0wAdPB0vUICwqg1U5iGUJV"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311066,
+      "name": "Vanamellam Shenbagapoo",
+      "url": "https://open.spotify.com/track/3ey8RTvOtw3FvWNf5WMSo3"
     },
     {
       "album": {

@@ -3347,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "First cry",
+        "url": "https://open.spotify.com/album/2lZOIg02ilktCBks5hjr5r"
+      },
+      "artists": [
+        {
+          "name": "snooty",
+          "url": "https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231005,
+      "name": "First cry",
+      "url": "https://open.spotify.com/track/0cmZamCm6EgaUCCFgoON3u"
+    },
+    {
+      "album": {
         "name": "flow",
         "url": "https://open.spotify.com/album/462mRw0Ke34m8us1yU54WR"
       },
@@ -4076,7 +4094,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 204240,
       "name": "GO!!!",
       "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
@@ -4512,6 +4530,24 @@
       "duration_ms": 277852,
       "name": "happyend",
       "url": "https://open.spotify.com/track/5KcYQaBmTdyE99EvkITdI2"
+    },
+    {
+      "album": {
+        "name": "Beatrice",
+        "url": "https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290106,
+      "name": "Haru Arashi",
+      "url": "https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz"
     },
     {
       "album": {
@@ -7039,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "Doki",
+        "url": "https://open.spotify.com/album/4arCpC78WZaoMJo9NteNh2"
+      },
+      "artists": [
+        {
+          "name": "Pop Never Dies",
+          "url": "https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205586,
+      "name": "Maou Sama",
+      "url": "https://open.spotify.com/track/195hguAqVVIcHQcL2drfQY"
+    },
+    {
+      "album": {
         "name": "meanwhile",
         "url": "https://open.spotify.com/album/2qCWVJnj7Yeg0NAfZ5GQKN"
       },
@@ -9065,6 +9119,24 @@
     },
     {
       "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "Prepare Yourself!",
+      "url": "https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz"
+    },
+    {
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/2znvO7eKY5hcWklq7jwHyP"
       },
@@ -9544,10 +9616,28 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 201467,
       "name": "ROCK",
       "url": "https://open.spotify.com/track/4NYxn4GycVdEoSD4gEqs8c"
+    },
+    {
+      "album": {
+        "name": "ROCK",
+        "url": "https://open.spotify.com/album/1NjmRXQvmmj2LOojYlMeRh"
+      },
+      "artists": [
+        {
+          "name": "The Yeahs",
+          "url": "https://open.spotify.com/artist/4YsLjdELeqkCzYp3O3y1bW"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201467,
+      "name": "ROCK",
+      "url": "https://open.spotify.com/track/4bNzOJKdaVYpZDDQRMXxV5"
     },
     {
       "album": {
@@ -10722,6 +10812,24 @@
       "duration_ms": 239536,
       "name": "Splendid Silent Sun",
       "url": "https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh"
+    },
+    {
+      "album": {
+        "name": "HEROINE",
+        "url": "https://open.spotify.com/album/7yedhW1TyJzp5aRjNBP1qj"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "spotkaranigete",
+      "url": "https://open.spotify.com/track/6YhHCFF7wJvCT0V2PP1Kzn"
     },
     {
       "album": {
@@ -16888,7 +16996,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "\u30b9\u30b1\u30d9\u306a\u3060\u3051\u3067\u91d1\u304c\u306a\u3044",
       "url": "https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat"
@@ -17050,7 +17158,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 189946,
       "name": "\u30b9\u30dd\u30c3\u30c8\u304b\u3089\u306b\u3052\u3066",
       "url": "https://open.spotify.com/track/3P13EH5Nu3LEMfIOHLlW6z"
@@ -23008,7 +23116,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 290106,
       "name": "\u6625\u8352\u3089\u3057",
       "url": "https://open.spotify.com/track/0P3S2XjVi8AzTGCcshYKhT"
@@ -24268,7 +24376,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 231005,
       "name": "\u7523\u58f0",
       "url": "https://open.spotify.com/track/3aFvfz2H2D71ktT6HgnNxw"
@@ -25404,7 +25512,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P"
@@ -26522,7 +26630,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 205586,
       "name": "\u9b54\u738b\u69d8",
       "url": "https://open.spotify.com/track/66DYdcpqt9M0HStiJDMR2V"

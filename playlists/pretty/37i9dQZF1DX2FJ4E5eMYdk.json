@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 158934,
+  "num_followers": 158964,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzA1OWZhZjdhYzI1MWIwOTFkNTNlNjg3M2Q5ZjM1NGMyMjI1ZWZi",
+  "snapshot_id": "MCxkNTI3Y2EzZjE3NWM3NWE4ZWM2NDEyN2ZiZGExMmE3ZmQ1NTc4ZDhj",
   "tracks": [
     {
       "added_at": "2023-12-12 16:46:04",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
-      },
-      "artists": [
-        {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
+      },
+      "artists": [
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 231155,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/581KISzBIATjlONj5MbPQe"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
         "name": "Private Tales",
         "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "Oh My God",
-        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 262542,
-      "name": "Sing a Glad Song",
-      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "It Came to Me",
         "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 262542,
+      "name": "Sing a Glad Song",
+      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -851,22 +867,6 @@
       "duration_ms": 418146,
       "name": "Kingfisher",
       "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
-        "name": "The Alien Coast",
-        "url": "https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
     },
     {
       "added_at": "2023-12-12 16:46:04",

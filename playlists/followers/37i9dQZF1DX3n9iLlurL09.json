@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 84229,
+  "2024-02-15": 84278,
   "date_first_scraped": "2022-09-17",
   "description": "2012 highlights from the home of indie music.",
   "name": "Best of Indie 2012",
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 219520,
       "name": "California",
       "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
@@ -756,6 +756,24 @@
     },
     {
       "album": {
+        "name": "Dark Eyes",
+        "url": "https://open.spotify.com/album/02AD7LT0DrQSEkzhmvN7mJ"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181759,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/2XOwaU5q0d1xBervr2uIts"
+    },
+    {
+      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -983,10 +1001,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 154414,
       "name": "Holdin On",
       "url": "https://open.spotify.com/track/3ohupB1Wm1Cvcyre7rtS9p"
+    },
+    {
+      "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154414,
+      "name": "Holdin On",
+      "url": "https://open.spotify.com/track/6ERjyW3kpEZN9yHpLIRfxC"
     },
     {
       "album": {
@@ -1059,6 +1095,24 @@
       "duration_ms": 207306,
       "name": "I Belong in Your Arms",
       "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "I Belong In Your Arms",
+      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
     },
     {
       "album": {
@@ -1145,7 +1199,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 213883,
       "name": "Insane feat. Moon Holiday",
       "url": "https://open.spotify.com/track/0ULEBRTLZhgKisTpgKzAuB"
@@ -1649,7 +1703,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 231106,
       "name": "On Top (feat. T-Shirt)",
       "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
@@ -1923,7 +1977,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 209376,
       "name": "Sleepless feat. Jezzabell Doran",
       "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"

@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-236 songs - 15 hr 29 min
+237 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [It's Not That](https://open.spotify.com/track/1JTCrMLkmLRVubHx3S3Jhc) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [It's Not That](https://open.spotify.com/album/5kWYIaGJosudsZQbaw9XPp) | 4:58 | 2022-05-11 | 2022-06-06 |
 | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/album/3ta3XOJmAbXFDzMFEYn6QR) | 4:56 | 2022-05-11 | 2022-06-06 |
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-05-11 | 2022-06-08 |
-| [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 | 2022-07-08 |  |
+| [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 | 2022-07-08 | 2024-02-15 |
 | [Just Friends 욕심](https://open.spotify.com/track/7qJ7KO2ClL5EHZyITBZBl1) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends 욕심](https://open.spotify.com/album/7LavsevvLKMEUrFOl42SXl) | 4:00 | 2022-05-11 | 2022-07-28 |
 | [Last Goodbye](https://open.spotify.com/track/0GGTcdfOMfP26Vc7z5GJsS) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [The first glance \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/55BHWWpnvOki4ErfJ9EA8v) | 4:00 | 2022-08-09 | 2022-09-06 |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2022-05-11 |  |
@@ -236,6 +236,7 @@
 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 | 2022-07-08 |  |
 | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/track/3MOcIiyqd9r14YDIeZqhuj) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/album/27Ies0kxzzilbhfwTrlQJj) | 4:32 | 2022-06-09 | 2022-07-23 |
 | [아직도 괜찮지 않은가 봐](https://open.spotify.com/track/7AwaRzPacYglDtx0skg39C) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/71WZV8KAPxXQMO4H8C69JS) | 3:53 | 2022-06-20 | 2022-06-26 |
+| [영원회귀 Eternal return](https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [영원회귀 Eternal return](https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt) | 3:43 | 2023-11-03 |  |
 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 | 2022-05-11 | 2022-07-27 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2022-05-11 |  |
 | [정류장 The last stop of our pain](https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [정류장 The last stop of our pain](https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED) | 4:12 | 2023-11-03 |  |

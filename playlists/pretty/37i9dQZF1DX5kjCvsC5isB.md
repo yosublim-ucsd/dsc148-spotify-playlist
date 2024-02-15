@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,938 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,960 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 99 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 |
 | 100 | [Hijacked](https://open.spotify.com/track/5V4CqymSdvKG5Uj63pPUUV) | [Pure Chlorine](https://open.spotify.com/artist/0XJHYxkjfwYpuIZO8tM6fl) | [Hijacked](https://open.spotify.com/album/2MkQLN7BsCZxhX11P7perM) | 2:55 |
 
-Snapshot ID: `MCxlNDNjMzY2Y2VlZWJkOWU4ZTYyM2I0ZjdiYTAzNzYxNDJlYWY1MmMw`
+Snapshot ID: `MCxhZjIwMmQ2MDAyYzczN2I5OTI1NWEzY2M2NDQ4NDdiZGZiM2U5NDM4`

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Cloonee",
-  "num_followers": 607661,
+  "num_followers": 607770,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODE3NDQ1YjJhMDY3YTBkNzc5ZTYyNzQyNTAzNjJkYjNiZDI0MzIz",
+  "snapshot_id": "MCw3MDAyODRiNTg3ZGE0ZTc1YjU3ZDE0MzA3MmNmNTQ2YWZmNjUwZWRm",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U"
       },
@@ -875,6 +859,42 @@
       "duration_ms": 190781,
       "name": "Burnin'",
       "url": "https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Ando High",
+        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "Ando High",
+      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -899,26 +919,6 @@
       "duration_ms": 184596,
       "name": "Come Come",
       "url": "https://open.spotify.com/track/2vGpCrWU9nAvs2CFhw5TsA"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Ando High",
-        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 165875,
-      "name": "Ando High",
-      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "The Function",
         "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 192848,
       "name": "The Function",
       "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1013,26 +1013,6 @@
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "365",
@@ -1051,6 +1031,26 @@
       "duration_ms": 192755,
       "name": "365",
       "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1093,6 +1093,22 @@
       "url": "https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Make U Sweat",
+        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 148730,
+      "name": "Make U Sweat",
+      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Legacy",
@@ -1111,22 +1127,6 @@
       "duration_ms": 230645,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Make U Sweat",
-        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 148730,
-      "name": "Make U Sweat",
-      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "I Can't Take No More",
         "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1749,6 +1749,22 @@
       "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Drug Loop",
+        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
+      },
+      "artists": [
+        {
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Drug Loop",
+      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Show Me Love",
@@ -1771,22 +1787,6 @@
       "duration_ms": 121874,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Drug Loop",
-        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Harris",
-          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Drug Loop",
-      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1849,22 +1849,6 @@
       "url": "https://open.spotify.com/track/0MqW3v6dcZkbJ6ijxG5dTi"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Night Owls",
-        "url": "https://open.spotify.com/album/5k7SXzPDoAw8y9sbAiJtP2"
-      },
-      "artists": [
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        }
-      ],
-      "duration_ms": 186141,
-      "name": "Night Owls",
-      "url": "https://open.spotify.com/track/4anGNCfSIlqVgBGxcgKNNK"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "I Want Your Soul (Mau P Remix)",
@@ -1883,6 +1867,22 @@
       "duration_ms": 210826,
       "name": "I Want Your Soul - Mau P Remix",
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Night Owls",
+        "url": "https://open.spotify.com/album/5k7SXzPDoAw8y9sbAiJtP2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        }
+      ],
+      "duration_ms": 186141,
+      "name": "Night Owls",
+      "url": "https://open.spotify.com/track/4anGNCfSIlqVgBGxcgKNNK"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2017,26 +2017,6 @@
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 264996,
-      "name": "More Baby - VIP Mix",
-      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Never Leave You (Uh Oh)",
@@ -2061,6 +2041,26 @@
       "url": "https://open.spotify.com/track/6vS4QHhODz5P779tfqIzB4"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 264996,
+      "name": "More Baby - VIP Mix",
+      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "No Big Deal \u2013 Part 1",
@@ -2079,6 +2079,38 @@
       "duration_ms": 182325,
       "name": "Let's Live It Up",
       "url": "https://open.spotify.com/track/24n7rjOS6a9j6fcD5UHGuq"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Shake What Yo Mama",
+        "url": "https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Shake What Yo Mama",
+      "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2105,22 +2137,6 @@
       "url": "https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
-      },
-      "artists": [
-        {
-          "name": "Jenn Getz & Alfie",
-          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "What I'm Sayin",
@@ -2137,20 +2153,24 @@
       "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Shake What Yo Mama",
-        "url": "https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB"
+        "name": "PLAY SOME RECORDS",
+        "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
         }
       ],
-      "duration_ms": 193488,
-      "name": "Shake What Yo Mama",
-      "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
+      "duration_ms": 168983,
+      "name": "PLAY SOME RECORDS",
+      "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2179,26 +2199,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "PLAY SOME RECORDS",
-        "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Dances",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
-        }
-      ],
-      "duration_ms": 168983,
-      "name": "PLAY SOME RECORDS",
-      "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Drum Machine",
         "url": "https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN"
       },
@@ -2215,6 +2215,26 @@
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Funk Soul Brother (GENESI Edit)",
+        "url": "https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w"
+      },
+      "artists": [
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Funk Soul Brother - GENESI Edit",
+      "url": "https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2249,44 +2269,24 @@
       "url": "https://open.spotify.com/track/6f7fDS9gIPKCNB6MVijLsQ"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Funk Soul Brother (GENESI Edit)",
-        "url": "https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w"
+        "name": "Give Me A Sign",
+        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
       },
       "artists": [
         {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         },
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Funk Soul Brother - GENESI Edit",
-      "url": "https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/13HipGrp0IGY9gBMGwdLqb"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 217570,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/1MFSuqSBKU0U8GsmXFPwm4"
+      "duration_ms": 169687,
+      "name": "Give Me A Sign",
+      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2325,24 +2325,24 @@
       "url": "https://open.spotify.com/track/41LNU3imoWigrWUGkHKzLH"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Give Me A Sign",
-        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/13HipGrp0IGY9gBMGwdLqb"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
         },
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Give Me A Sign",
-      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
+      "duration_ms": 217570,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/1MFSuqSBKU0U8GsmXFPwm4"
     },
     {
       "added_at": "2023-10-27 04:01:00",

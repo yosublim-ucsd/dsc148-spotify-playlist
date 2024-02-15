@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 73127,
+  "num_followers": 73192,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTk3M2Y3N2JhMWQ2MGE5M2Y3ZTQ4YmU4ZmVmZmUyNGIzOWZiMzUx",
+  "snapshot_id": "MCw2NTk4ZmMyMmViMGUxYmI0NjdkN2Q5YmM4NTAzYWNhYTg2N2FmZmFi",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "gradual",
+        "url": "https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "gradual",
+      "url": "https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 140776,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "rem junction",
-        "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
-      },
-      "artists": [
-        {
-          "name": "Papi Pier",
-          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
-        }
-      ],
-      "duration_ms": 123469,
-      "name": "rem junction",
-      "url": "https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "rem junction",
+        "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
+      },
+      "artists": [
+        {
+          "name": "Papi Pier",
+          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
+        }
+      ],
+      "duration_ms": 123469,
+      "name": "rem junction",
+      "url": "https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Sense Of Self",
         "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 131396,
       "name": "Sense Of Self",
       "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "gradual",
-        "url": "https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2"
-      },
-      "artists": [
-        {
-          "name": "Sleepr Cell",
-          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "gradual",
-      "url": "https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "cabin in the woods",
-        "url": "https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6"
-      },
-      "artists": [
-        {
-          "name": "L O K P I K",
-          "url": "https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh"
-        }
-      ],
-      "duration_ms": 122740,
-      "name": "cabin in the woods",
-      "url": "https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "dreamers",
         "url": "https://open.spotify.com/album/3CD8VYak1Ubhkreu3mnYWO"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "cabin in the woods",
+        "url": "https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6"
+      },
+      "artists": [
+        {
+          "name": "L O K P I K",
+          "url": "https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh"
+        }
+      ],
+      "duration_ms": 122740,
+      "name": "cabin in the woods",
+      "url": "https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "this dark night",
         "url": "https://open.spotify.com/album/4ERGLrI1n5VDhUIaRdYo3P"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 158866,
       "name": "this dark night",
       "url": "https://open.spotify.com/track/1YXQWnmPPNjH3f8g32Pw2g"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Gloom",
+        "url": "https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN"
+      },
+      "artists": [
+        {
+          "name": "Mumblo",
+          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
+        }
+      ],
+      "duration_ms": 152258,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Gloom",
-        "url": "https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN"
+        "name": "Dream Train",
+        "url": "https://open.spotify.com/album/5qHCl97YrFtVlwDNoIYfwC"
       },
       "artists": [
         {
-          "name": "Mumblo",
-          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
+          "name": "Wine In Dusk",
+          "url": "https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM"
         }
       ],
-      "duration_ms": 152258,
-      "name": "Gloom",
-      "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
+      "duration_ms": 134590,
+      "name": "Dream Train",
+      "url": "https://open.spotify.com/track/37HHr2vkEH7DTCDf6C8GPL"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 131625,
       "name": "green velvet",
       "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Dream Train",
-        "url": "https://open.spotify.com/album/5qHCl97YrFtVlwDNoIYfwC"
-      },
-      "artists": [
-        {
-          "name": "Wine In Dusk",
-          "url": "https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM"
-        }
-      ],
-      "duration_ms": 134590,
-      "name": "Dream Train",
-      "url": "https://open.spotify.com/track/37HHr2vkEH7DTCDf6C8GPL"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
-      },
-      "artists": [
-        {
-          "name": "Convivial",
-          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
-        }
-      ],
-      "duration_ms": 131766,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Warm Weather",
         "url": "https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 149119,
       "name": "Warm Weather",
       "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "duration_ms": 131766,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Level 2",
-        "url": "https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr"
-      },
-      "artists": [
-        {
-          "name": "Demurely",
-          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
-        }
-      ],
-      "duration_ms": 191100,
-      "name": "Level 2",
-      "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "afterthought",
         "url": "https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 170916,
       "name": "afterthought",
       "url": "https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Level 2",
+        "url": "https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr"
+      },
+      "artists": [
+        {
+          "name": "Demurely",
+          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
+        }
+      ],
+      "duration_ms": 191100,
+      "name": "Level 2",
+      "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "3PM",
+        "url": "https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG"
+      },
+      "artists": [
+        {
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "3PM",
+      "url": "https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "calm the mind",
         "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 123319,
       "name": "Pillow",
       "url": "https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "3PM",
-        "url": "https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG"
-      },
-      "artists": [
-        {
-          "name": "HM Surf",
-          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "3PM",
-      "url": "https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1791,34 +1791,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "the eagle",
-        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
+        "name": "Cortana's Nap",
+        "url": "https://open.spotify.com/album/4Mgc8gBn6jiU5TLR6V7ztl"
       },
       "artists": [
         {
-          "name": "karlaplan.",
-          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
+          "name": "d.w.h",
+          "url": "https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd"
         }
       ],
-      "duration_ms": 132000,
-      "name": "the eagle",
-      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "cool nights",
-        "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
-      },
-      "artists": [
-        {
-          "name": "May-Flowa",
-          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
-        }
-      ],
-      "duration_ms": 156583,
-      "name": "cool nights",
-      "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
+      "duration_ms": 181640,
+      "name": "Cortana's Nap",
+      "url": "https://open.spotify.com/track/1UwTK3zUw4sKSZjRtwwLEz"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1839,18 +1823,34 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Cortana's Nap",
-        "url": "https://open.spotify.com/album/4Mgc8gBn6jiU5TLR6V7ztl"
+        "name": "cool nights",
+        "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
       },
       "artists": [
         {
-          "name": "d.w.h",
-          "url": "https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd"
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Cortana's Nap",
-      "url": "https://open.spotify.com/track/1UwTK3zUw4sKSZjRtwwLEz"
+      "duration_ms": 156583,
+      "name": "cool nights",
+      "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "the eagle",
+        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
+      },
+      "artists": [
+        {
+          "name": "karlaplan.",
+          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "the eagle",
+      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "weak",
-        "url": "https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA"
-      },
-      "artists": [
-        {
-          "name": "Milkz",
-          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
-        }
-      ],
-      "duration_ms": 71111,
-      "name": "weak",
-      "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 117804,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "weak",
+        "url": "https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA"
+      },
+      "artists": [
+        {
+          "name": "Milkz",
+          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
+        }
+      ],
+      "duration_ms": 71111,
+      "name": "weak",
+      "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2083,26 +2083,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF"
+        "name": "cellular",
+        "url": "https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C"
       },
       "artists": [
         {
-          "name": "Jules Hiero",
-          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
-        },
-        {
-          "name": "wavvzz",
-          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
-        },
-        {
-          "name": "Golden Ticket Tapes",
-          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+          "name": "dueday",
+          "url": "https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4"
+      "duration_ms": 114500,
+      "name": "cellular",
+      "url": "https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2127,6 +2119,30 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF"
+      },
+      "artists": [
+        {
+          "name": "Jules Hiero",
+          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Sonar",
         "url": "https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U"
       },
@@ -2143,38 +2159,6 @@
       "duration_ms": 118518,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "cellular",
-        "url": "https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C"
-      },
-      "artists": [
-        {
-          "name": "dueday",
-          "url": "https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i"
-        }
-      ],
-      "duration_ms": 114500,
-      "name": "cellular",
-      "url": "https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Evenfall",
-        "url": "https://open.spotify.com/album/013FKvYGz1rBKu27p1EffR"
-      },
-      "artists": [
-        {
-          "name": "Slowheal",
-          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
-        }
-      ],
-      "duration_ms": 152509,
-      "name": "Evenfall",
-      "url": "https://open.spotify.com/track/0H3zNfQULkdYvTweZH1u8Q"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -2199,6 +2183,22 @@
       "duration_ms": 128000,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/3IjcC1K1Iu3Vv4KMQYL2tM"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Evenfall",
+        "url": "https://open.spotify.com/album/013FKvYGz1rBKu27p1EffR"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "duration_ms": 152509,
+      "name": "Evenfall",
+      "url": "https://open.spotify.com/track/0H3zNfQULkdYvTweZH1u8Q"
     },
     {
       "added_at": "2024-02-09 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,063 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,079 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 4 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 5 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 6 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
-| 7 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
-| 8 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 7 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 8 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 9 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 10 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 11 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
 | 12 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
 | 13 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
-| 14 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
-| 15 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 |
+| 14 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 |
+| 15 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
 | 16 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 17 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 18 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 44 | [Colin](https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Colin](https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7) | 3:39 |
 | 45 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
 | 46 | [Sunshine](https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:15 |
-| 47 | [Reelin'](https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:28 |
-| 48 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 |
+| 47 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 |
+| 48 | [Reelin'](https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:28 |
 | 49 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 |
 | 50 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
 | 51 | [Always Got The Love](https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:27 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 60 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
 | 61 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 | 62 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
-| 63 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
-| 64 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
+| 63 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
+| 64 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
 | 65 | [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 |
 | 66 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |
 | 67 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 74 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 |
 | 75 | [Coup De Grâce](https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Coup De Grâce](https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx) | 3:43 |
 
-Snapshot ID: `MCw4Y2JmNGYyNTM3MzA4OGUyZDk2MTRlY2VlODE5NDI1MTE1ZDZhMmM5`
+Snapshot ID: `MCwxY2YwZWYwOGFhZWI1ZWU3YWMyODU3ODdhMGVkMDUwODI1OWYyYjZi`

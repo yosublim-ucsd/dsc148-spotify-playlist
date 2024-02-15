@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,810 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,884 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 2 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 |
 | 3 | [Olvídala](https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Voló la Paloma](https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03) | 4:50 |
 | 4 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
-| 5 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 |
-| 6 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
-| 7 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 |
+| 5 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
+| 6 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 |
+| 7 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 |
 | 8 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 |
 | 9 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 |
 | 10 | [Ya No Más](https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Ya No Más](https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl) | 2:38 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 32 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
 | 33 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 |
 | 34 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
-| 35 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
-| 36 | [El Polvito Del Amor](https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:08 |
+| 35 | [El Polvito Del Amor](https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:08 |
+| 36 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
 | 37 | [Después de Ti](https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:21 |
 | 38 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 39 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Pideme la Luna](https://open.spotify.com/track/0rNGHPTBNL4D0koH7bYiVI) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [El Amor Hecho Cancion](https://open.spotify.com/album/0awCpysck1teL7SNptoctb) | 3:13 |
 | 80 | [Amigos en la Distancia](https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 2:47 |
 
-Snapshot ID: `MCw3ZGYwYzM2N2NkODAzODI3ZGQ1MzI1MzFhZTg2MjExMTVkYTg3MDky`
+Snapshot ID: `MCw4NTJkZGVkOGQyZDAyNGMzMDJmOThlZGU0NmM2ZGIyMjJmNGU3MjMy`

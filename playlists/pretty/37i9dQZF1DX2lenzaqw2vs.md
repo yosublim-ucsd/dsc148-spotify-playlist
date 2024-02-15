@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,237 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,242 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 58 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 59 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
 | 60 | [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 |
-| 61 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
-| 62 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 61 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 62 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
 | 63 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
 | 64 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 65 | [Tírame al fondo del mar](https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 75 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
 | 76 | [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 |
 | 77 | [Charreando En La Disco](https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [Charreando En La Disco](https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S) | 2:53 |
-| 78 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
-| 79 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
+| 78 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
+| 79 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
 | 80 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
 | 81 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
 | 82 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 87 | [Fashion Victims](https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:20 |
 | 88 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 |
 | 89 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
-| 90 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
-| 91 | [Como Cantan Las Aves](https://open.spotify.com/track/2zMSofXM1VvN7UMxhTkGrA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Como Cantan Las Aves](https://open.spotify.com/album/12uRIWcRGrO7iNwQfRFWLP) | 4:07 |
+| 90 | [Como Cantan Las Aves](https://open.spotify.com/track/2zMSofXM1VvN7UMxhTkGrA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Como Cantan Las Aves](https://open.spotify.com/album/12uRIWcRGrO7iNwQfRFWLP) | 4:07 |
+| 91 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
 | 92 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
 | 93 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
 | 94 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
 | 95 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 |
 | 96 | [El Gran Varón](https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [La Brega](https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp) | [El Gran Varón](https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV) | 4:50 |
 | 97 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
-| 98 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
-| 99 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
+| 98 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
+| 99 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
 | 100 | [Pollo Frito](https://open.spotify.com/track/4cIDGn1x13O1Zva3TUu4TM) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/4wBHZdKOUiy9QBck34QdL2) | 2:45 |
 
-Snapshot ID: `MCwxMTI1Mjk2MWY1ZmQyZjFjMjYyMjUwMzZmNDMwZGVjNDBlYzg2N2I2`
+Snapshot ID: `MCw2NThlMzliNTRiMzkzOTIwMjM1MTQ1NDNmMTVjODI3MjhhZDk2OWI3`

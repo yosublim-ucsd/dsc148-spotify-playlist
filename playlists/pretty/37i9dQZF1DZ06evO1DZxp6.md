@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,057 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,111 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 35 | [Amores Platónicos](https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:34 |
 | 36 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 |
 | 37 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
-| 38 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
-| 39 | [Te Vi](https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Los Momentos](https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49) | 3:29 |
+| 38 | [Te Vi](https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Los Momentos](https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49) | 3:29 |
+| 39 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
 | 40 | [De Ti](https://open.spotify.com/track/1G4blOR671oPTfalkEIabL) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [De Ti](https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj) | 3:44 |
 | 41 | [Tu Cárcel](https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:40 |
 | 42 | [Te Voy a Mostrar](https://open.spotify.com/track/6bxZEPqWc9oSqYBa1NgA7d) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 50 | [El Triste](https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 4:17 |
 | 51 | [Tu Calor](https://open.spotify.com/track/2MISJ8EIpcM8nN2V2CK2wY) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q) | 3:20 |
 
-Snapshot ID: `Mjg0NjM3ODUsMDAwMDAwMDBjMjI5ZjI5NWQxNjMxNWQxOWM2NWJhOTk2YjNlMmNhZA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAzNGNjYWRmZjAzYjMxZjFjZjA1YWY2NDBhNGVjYjFlMQ==`

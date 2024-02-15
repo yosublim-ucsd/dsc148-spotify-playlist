@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 106024,
+  "num_followers": 106139,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDk5NDY1ZWJkMjE3YTBmNWUyZDRhNTQwNzZiMGI4ZTZlOTdmMTMx",
+  "snapshot_id": "MCwxMGNkMWFkMWJlMDgwNDRmZjQwZDljNjRmYzU3MWEyZDllODhmY2Y2",
   "tracks": [
     {
       "added_at": "2024-02-01 16:04:55",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-02-01 16:04:55",
       "album": {
-        "name": "Trauma",
-        "url": "https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z"
-      },
-      "artists": [
-        {
-          "name": "Aan Story",
-          "url": "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
-        },
-        {
-          "name": "Elsya",
-          "url": "https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p"
-        }
-      ],
-      "duration_ms": 218073,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"
-    },
-    {
-      "added_at": "2024-02-01 16:04:55",
-      "album": {
         "name": "Cintanya Aku",
         "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 234125,
       "name": "Cintanya Aku",
       "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
+    },
+    {
+      "added_at": "2024-02-01 16:04:55",
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z"
+      },
+      "artists": [
+        {
+          "name": "Aan Story",
+          "url": "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
+        },
+        {
+          "name": "Elsya",
+          "url": "https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p"
+        }
+      ],
+      "duration_ms": 218073,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"
     },
     {
       "added_at": "2024-02-01 16:04:55",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-02-01 16:04:55",
       "album": {
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
+    },
+    {
+      "added_at": "2024-02-01 16:04:55",
+      "album": {
         "name": "Menyesal",
         "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 203454,
       "name": "Menyesal",
       "url": "https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij"
-    },
-    {
-      "added_at": "2024-02-01 16:04:55",
-      "album": {
-        "name": "f\u00e1bula",
-        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
     },
     {
       "added_at": "2024-02-01 16:04:55",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-01 16:04:55",
       "album": {
-        "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
-        "url": "https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz"
-      },
-      "artists": [
-        {
-          "name": "Fadhilah Intan",
-          "url": "https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL"
-        }
-      ],
-      "duration_ms": 279618,
-      "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
-      "url": "https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY"
-    },
-    {
-      "added_at": "2024-02-01 16:04:55",
-      "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2024-02-01 16:04:55",
       "album": {
-        "name": "Naluri Lelaki (Special Edition)",
-        "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
+        "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
+        "url": "https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz"
       },
       "artists": [
         {
-          "name": "SAMSONS",
-          "url": "https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp"
+          "name": "Fadhilah Intan",
+          "url": "https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Kenangan Terindah",
-      "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
+      "duration_ms": 279618,
+      "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
+      "url": "https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY"
+    },
+    {
+      "added_at": "2024-02-01 16:04:55",
+      "album": {
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
     }
   ],
   "unique_name": "galau rabak",

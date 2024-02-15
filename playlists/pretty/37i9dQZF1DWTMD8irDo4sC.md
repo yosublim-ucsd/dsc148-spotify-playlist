@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,192 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,213 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 17 | [Ahwak \- Acoustic](https://open.spotify.com/track/3JfR7VLGOcl6ZdCGa7ciID) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Ahwak \( Version\)](https://open.spotify.com/album/6eJh5YvfNPAF7FVb8w4tMV) | 1:34 |
 | 18 | [Ya Bay](https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ya Bay](https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw) | 4:07 |
 | 19 | [يا حسرة عليك يا دنيا](https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [يا حسرة عليك يا دنيا](https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h) | 4:14 |
-| 20 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
-| 21 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 |
+| 20 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 |
+| 21 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
 | 22 | [Bekitini](https://open.spotify.com/track/17M4JHQru8pJmTNiBxDTEn) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 3:40 |
 | 23 | [Wea'youneha](https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 3:17 |
 | 24 | [آه يا سلطاني](https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d) | [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [آه يا سلطاني](https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN) | 4:28 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 42 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 43 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
 | 44 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
-| 45 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
-| 46 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
-| 47 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
+| 45 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
+| 46 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
+| 47 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
 | 48 | [Ella Enta \- Live Session](https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3) | 4:08 |
 | 49 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
 | 50 | [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
 | 70 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 
-Snapshot ID: `MCw0ZTIyZGY0NDU1ZDNmMDU4NWVkYmZiYzFjOGZjNDc1OTI2YzdjZjYy`
+Snapshot ID: `MCw5NDZiOGMxM2VhMTM2OWRjNjY2YzY1MmY0NmI5YTEwOGU3ODRhNWJj`

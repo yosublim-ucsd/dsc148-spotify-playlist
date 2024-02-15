@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の冬に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,674 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,677 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 4 | [Es \- piano room](https://open.spotify.com/track/54898GdeiRQr1QurG91Ude) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es \- piano room](https://open.spotify.com/album/4gXc9xsSZB6IYaCv59I5ai) | 3:13 |
 | 5 | [In the Mist](https://open.spotify.com/track/3UrztnIFSszMogk91JNlci) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz) | [Arietta](https://open.spotify.com/album/6h9VfhYdxzNbCtoKWmnkYX) | 1:33 |
 | 6 | [ベルガマスク組曲\~第3曲: 月の光\(チェロとハープ編\)](https://open.spotify.com/track/4cjkR3dxVYVSPBZ1YWhu2G) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [Naoko Yoshino](https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99) | [SOUVENIR\~ドビュッシー&フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 4:59 |
-| 7 | [子供のためのアルバム 作品 68第1部 幼い子供たちのために 14 小さな練習曲](https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Masako Ezaki](https://open.spotify.com/artist/200Ts1yadzJtWxmdKWSBL2) | [シューマン:子供のためのアルバム 作品68](https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W) | 2:04 |
+| 7 | [子供のためのアルバム 作品 68第1部 幼い子供たちのために 14 小さな練習曲](https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Masako Ezaki](https://open.spotify.com/artist/200Ts1yadzJtWxmdKWSBL2) | [シューマン：子供のためのアルバム 作品68](https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W) | 2:04 |
 | 8 | [Nature undisclosed](https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Nature undisclosed](https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6) | 2:27 |
 | 9 | [Waltz in Bb Minor](https://open.spotify.com/track/5d7h5dhyoncJuJmg0jV5gU) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in Bb Minor](https://open.spotify.com/album/4gUcfKjoa7FJeeGIcvHCMz) | 2:06 |
 | 10 | [Snowdrop](https://open.spotify.com/track/41DBJWgVyP9wglNdpaVRju) | [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Rhapsody Japan](https://open.spotify.com/album/6E2R7APiAqAoavvvX9monK) | 2:18 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 25 | [Snow](https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC) | [Tomoya Naka](https://open.spotify.com/artist/16swNvdMD5sQAXlVaHc8Hx) | [Luna e Sole](https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM) | 3:08 |
 | 26 | [風笛](https://open.spotify.com/track/4OBIKEvUBXnI8i5PO9XCX7) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr), [Emiri Miyamoto](https://open.spotify.com/artist/29aWsI0zQQ53hKuM2V19ti) | [tears](https://open.spotify.com/album/6Veb3ZyuDiMx59SrvxSAAv) | 3:45 |
 | 27 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
-| 28 | [18の小品 作品72 より 2 子守唄](https://open.spotify.com/track/4fEN4gcODkve0o4x9yCmpH) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [金子三勇士](https://open.spotify.com/artist/6PdcjZrcYniTGsVEfGPMIT) | [チャイコフスキー:ピアノ協奏曲 第1番、他](https://open.spotify.com/album/5o0pobWmxuMZi83CpVYuKM) | 6:36 |
+| 28 | [18の小品 作品72 より 2 子守唄](https://open.spotify.com/track/4fEN4gcODkve0o4x9yCmpH) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [金子三勇士](https://open.spotify.com/artist/6PdcjZrcYniTGsVEfGPMIT) | [チャイコフスキー：ピアノ協奏曲 第1番、他](https://open.spotify.com/album/5o0pobWmxuMZi83CpVYuKM) | 6:36 |
 | 29 | [Rain](https://open.spotify.com/track/6yEdyZYuw1XfX2wVpcjhvk) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 2:45 |
 | 30 | [ピアノ・ソナタ第2番変ロ短調作品36 第2楽章: ノン・アレグロ〜レント \- 1931年版](https://open.spotify.com/track/6Bp3xMcWwvBAZn8YYM6V9w) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [角野隼斗](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [パッション](https://open.spotify.com/album/1SG8DvtthoVPZ92vBJklSm) | 6:06 |
 | 31 | [Dichterliebe, Op\. 48: No\. 1, Im wunderschönen Monat Mai \(Arr\. for Flute & Piano\)](https://open.spotify.com/track/15j2uczubDFzu9GctEThg3) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Junko Teramoto](https://open.spotify.com/artist/0L3zoa90pLgDzpM4bXOXDS), [Kozue Takagi](https://open.spotify.com/artist/4A3vP2QFUAfAp8y4NjL4es) | [Chanson de Ronsard](https://open.spotify.com/album/1x86MiOgYKiCidJnsKbvBE) | 2:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 39 | [サラバンド](https://open.spotify.com/track/5fUxSSLvCzCTF9YhFdiaXt) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [伊藤悠貴](https://open.spotify.com/artist/7eDqET7FQPEcbC44bs2m80) | [アダージョ\~孤独のアンサンブル\~](https://open.spotify.com/album/2ieIn5LgQHBlWNahgUu51N) | 5:37 |
 | 40 | [Rainbow](https://open.spotify.com/track/0C0p6ndJk5S6LdQyyqzfdJ) | [Mina Kubota](https://open.spotify.com/artist/4z1dMCmOJ6VHm8P7EP5qWf) | [ARIA\~ピアノ・コレクション\~ スタジオーネ\-季節\-](https://open.spotify.com/album/6AOubvJvCg6wAxeb1Glwhx) | 3:05 |
 
-Snapshot ID: `MCwzM2MwNDRhMDAzYzA5MzhkNDQyYThhZTkxMzcyN2QxZTkzNmUzMzI0`
+Snapshot ID: `MCxhNjM3YjBiMDA5ZDVlYTcxNWM0MTdkMTAyMTdkZjYyM2I5MzFiMzA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,719 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,949 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 46 | [El Chisme](https://open.spotify.com/track/0aWljNVWewwIAmIYTjH1y8) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Chisme](https://open.spotify.com/album/5If6uMVCAomlkSSJABMaMq) | 3:39 |
 | 47 | [Diva \(feat\. Emilia\)](https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Diva \(feat\. Emilia\)](https://open.spotify.com/album/74e4WmTJM2riGEO94bnG6i) | 3:35 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA5NzdiODM3MjI0ZmZhMDI0NDJlYjM5MTlhM2M0MzM3ZA==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDBkOTk5ZDEyOGQ0NDg5NTExY2Y2ZjA5ODIxZDkwNGMzYg==`

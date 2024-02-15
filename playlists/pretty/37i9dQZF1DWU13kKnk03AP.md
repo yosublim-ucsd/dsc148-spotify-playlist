@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 
 > Get in the zone with these current jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,119,862 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,120,029 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 80 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 |
 | 81 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |
 | 82 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
-| 83 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
-| 84 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 |
-| 85 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 |
+| 83 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 |
+| 84 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
+| 85 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 |
 | 86 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 |
 | 87 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 | 88 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 93 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 |
 | 94 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 95 | [My Stupid Heart](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [My Stupid Heart](https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39) | 2:40 |
-| 96 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
-| 97 | [Better Days](https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 |
+| 96 | [Better Days](https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:18 |
+| 97 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 | 98 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 |
 | 99 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
 | 100 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 |
 
-Snapshot ID: `MCxjZWU3YjgyZjRkYmExM2VkNGRkYjY0Y2Y0ZWVjN2M4MjVkZDdmMGEw`
+Snapshot ID: `MCw2YjEyMDgxNWRkMDdlM2EyN2ZmYWMxMjZlODg3NzhmN2IwMjcxZTU2`

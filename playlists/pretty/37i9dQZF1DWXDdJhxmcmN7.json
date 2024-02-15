@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 28658,
+  "num_followers": 28662,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDJiMzU1YjZlNmMwYzQ0NjgxODhjOTQyMjc4M2E2YjM3ZDY5Yjg4",
+  "snapshot_id": "MCw2ODYxOTQ1N2EzZTI4NTFhZTU5ZjE4OGNmZjA2NDdlYTQ0NmFkMDE3",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -127,42 +127,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "having meaningful conversations",
-        "url": "https://open.spotify.com/album/0yP457DQfQ6iyp8TGWksCu"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 120017,
-      "name": "having meaningful conversations",
-      "url": "https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Barrio",
         "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
       },
@@ -183,6 +147,42 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "having meaningful conversations",
+        "url": "https://open.spotify.com/album/0yP457DQfQ6iyp8TGWksCu"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 120017,
+      "name": "having meaningful conversations",
+      "url": "https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
       },
@@ -195,42 +195,6 @@
       "duration_ms": 144000,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "lost in a dream",
-        "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
-      },
-      "artists": [
-        {
-          "name": "Lenny Loops",
-          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
-        },
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "lost in a dream",
-      "url": "https://open.spotify.com/track/2Knc6s3lb5pAAVcetSmu7i"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
-      },
-      "artists": [
-        {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -251,6 +215,42 @@
       "duration_ms": 113333,
       "name": "Vibrando Alto En Tulum",
       "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "lost in a dream",
+        "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "lost in a dream",
+      "url": "https://open.spotify.com/track/2Knc6s3lb5pAAVcetSmu7i"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -307,18 +307,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+        "name": "Parque de Bugambilias",
+        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+      "duration_ms": 153857,
+      "name": "Parque de Bugambilias",
+      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -335,6 +339,22 @@
       "duration_ms": 319062,
       "name": "En el Tianguis Lo-Fi",
       "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -359,26 +379,6 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Parque de Bugambilias",
-        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 153857,
-      "name": "Parque de Bugambilias",
-      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Lo-fi Ma\u00f1ana en CDMX",
+        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 169491,
+      "name": "Lo-fi Ma\u00f1ana en CDMX",
+      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Copihue",
         "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 134451,
       "name": "Cumbia Don Juan",
       "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Lo-fi Ma\u00f1ana en CDMX",
-        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 169491,
-      "name": "Lo-fi Ma\u00f1ana en CDMX",
-      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "El D\u00eda M\u00e1s Corto",
-        "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
-      },
-      "artists": [
-        {
-          "name": "Pere George",
-          "url": "https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Bolerodilla",
-      "url": "https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Good things take time",
         "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 99428,
       "name": "Good things take time",
       "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "El D\u00eda M\u00e1s Corto",
+        "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
+      },
+      "artists": [
+        {
+          "name": "Pere George",
+          "url": "https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Bolerodilla",
+      "url": "https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Ay Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 97931,
+      "name": "Ay Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "New Home",
         "url": "https://open.spotify.com/album/0A6MhfkctyoEnqlnkamG18"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 132106,
       "name": "New Home",
       "url": "https://open.spotify.com/track/5KKQG2TeOKq7iOEjMkOUVu"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Ay Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 97931,
-      "name": "Ay Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Dale Dale",
         "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
@@ -1151,34 +1135,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "being honest",
-        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
         }
       ],
-      "duration_ms": 163200,
-      "name": "being honest",
-      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "LOFI CHRISTMAS VI",
-        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
-      },
-      "artists": [
-        {
-          "name": "Akira The Don",
-          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "THE CHRISTMAS SONG LOFI",
-      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Chillaquil",
+        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 180674,
+      "name": "Chillaquil",
+      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Rossa Nova",
         "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
       },
@@ -1227,18 +1211,42 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Chillaquil",
-        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
+        "name": "Timeless Era",
+        "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 180674,
-      "name": "Chillaquil",
-      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
+      "duration_ms": 101250,
+      "name": "Timeless Era",
+      "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "being honest",
+        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "being honest",
+      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1255,6 +1263,22 @@
       "duration_ms": 121213,
       "name": "jazz y cdmx",
       "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "LOFI CHRISTMAS VI",
+        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "THE CHRISTMAS SONG LOFI",
+      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1299,6 +1323,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
       },
@@ -1311,46 +1355,6 @@
       "duration_ms": 74347,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Timeless Era",
-        "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Raouf Beats",
-          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 101250,
-      "name": "Timeless Era",
-      "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Just A Cool Day",
-        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Just A Cool Day",
-      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1371,6 +1375,22 @@
       "duration_ms": 154500,
       "name": "Michoacansiedad",
       "url": "https://open.spotify.com/track/0hiVmFhNCdxkF3mGF8bHpL"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Just A Cool Day",
+        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Just A Cool Day",
+      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Duerme",
-        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        }
-      ],
-      "duration_ms": 126004,
-      "name": "Duerme",
-      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "I See Us",
         "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
       },
@@ -1463,18 +1467,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "un lugar tranquilo",
-        "url": "https://open.spotify.com/album/1UhnAhjNCNlqNg7964Er1a"
+        "name": "Duerme",
+        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
       },
       "artists": [
         {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
         }
       ],
-      "duration_ms": 123711,
-      "name": "un lugar tranquilo",
-      "url": "https://open.spotify.com/track/0p1FaiQPjtm3OfYNdwCZVw"
+      "duration_ms": 126004,
+      "name": "Duerme",
+      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1495,26 +1499,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Sayulita Vibes",
         "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 118588,
       "name": "Sayulita Vibes",
       "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "un lugar tranquilo",
+        "url": "https://open.spotify.com/album/1UhnAhjNCNlqNg7964Er1a"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "un lugar tranquilo",
+      "url": "https://open.spotify.com/track/0p1FaiQPjtm3OfYNdwCZVw"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Efecto Foehn",
-        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
-      },
-      "artists": [
-        {
-          "name": "Sh\u014d.gun",
-          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
-        }
-      ],
-      "duration_ms": 129350,
-      "name": "Efecto Foehn",
-      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Sundown Reflections",
-        "url": "https://open.spotify.com/album/51g8wnW8XG4LcrsUYLuO9v"
+        "name": "Efecto Foehn",
+        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
       },
       "artists": [
         {
-          "name": "Lotus Eco",
-          "url": "https://open.spotify.com/artist/5YwJLe0MXNm0CFVX7Kzbo6"
+          "name": "Sh\u014d.gun",
+          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
         }
       ],
-      "duration_ms": 135652,
-      "name": "Sundown Reflections",
-      "url": "https://open.spotify.com/track/5ss1SSBpwUrhz1ibWzNiJm"
+      "duration_ms": 129350,
+      "name": "Efecto Foehn",
+      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 146406,
       "name": "Not Fun",
       "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Sundown Reflections",
+        "url": "https://open.spotify.com/album/51g8wnW8XG4LcrsUYLuO9v"
+      },
+      "artists": [
+        {
+          "name": "Lotus Eco",
+          "url": "https://open.spotify.com/artist/5YwJLe0MXNm0CFVX7Kzbo6"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Sundown Reflections",
+      "url": "https://open.spotify.com/track/5ss1SSBpwUrhz1ibWzNiJm"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Conchitas",
-        "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
-      },
-      "artists": [
-        {
-          "name": "Camosmic",
-          "url": "https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Conchitas",
-      "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "nefelibata",
         "url": "https://open.spotify.com/album/6ibp9CY7NIxLPWbgSXZGiR"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 133686,
       "name": "nefelibata",
       "url": "https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Conchitas",
+        "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
+      },
+      "artists": [
+        {
+          "name": "Camosmic",
+          "url": "https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Conchitas",
+      "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
     },
     {
       "added_at": "2024-02-02 06:00:00",

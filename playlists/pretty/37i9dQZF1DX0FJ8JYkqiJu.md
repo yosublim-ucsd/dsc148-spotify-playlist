@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,027 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,052 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 18 | [Amman](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Amman](https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ) | 3:28 |
 | 19 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 3:19 |
 | 20 | [Waters](https://open.spotify.com/track/0erXHDmRdNmXgpoIqvxH1e) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Waters](https://open.spotify.com/album/1UWVl2HJMWN7Gxrt6YiRar) | 2:19 |
-| 21 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
+| 21 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 |
 | 22 | [Del Boca Vista Pt\. II](https://open.spotify.com/track/0y0TuoiDqmgRE0uOJvgLUi) | [UNO Stereo](https://open.spotify.com/artist/253f0pT64ByK78L928CjbE) | [Del Boca Vista Pt\. II](https://open.spotify.com/album/0sHhkpJ3vifuAZWZJTktBS) | 1:55 |
-| 23 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 |
+| 23 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 24 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 25 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
 | 26 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
 | 27 | [Cmon](https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:20 |
-| 28 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
-| 29 | [Cimmerian](https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Wishing Well / Cimmerian](https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf) | 3:36 |
+| 28 | [Cimmerian](https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Wishing Well / Cimmerian](https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf) | 3:36 |
+| 29 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
 | 30 | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/track/4iBSUZhhcXU5sh8haot91w) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/5NLqeErirxjepCcE7uvrLT) | 5:19 |
 | 31 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 |
 | 32 | [Flipside](https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:18 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 51 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
 | 52 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 |
 | 53 | [Hollow](https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Hollow](https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU) | 4:14 |
-| 54 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
-| 55 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
+| 54 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
+| 55 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
 | 56 | [Hopedrunk Everasking](https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:19 |
 | 57 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 58 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
 | 70 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
 
-Snapshot ID: `MCxiNmEyZTdkMWQ1MGY0MDlkZmZjODAwZWMwNjM2ODNmYmE4ZTQ1YjFh`
+Snapshot ID: `MCxjMDI1OWJhODI1MWQ5Y2ZiOWU2ZmE3OThjN2FiNDgxNWI0OWExNjNl`

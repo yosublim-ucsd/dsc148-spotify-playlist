@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,823 likes - 84 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,828 likes - 84 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 59 | [Pillow](https://open.spotify.com/track/5MrNSHoWvFKjBQ7TRMkp9I) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:36 |
 | 60 | [Seasons](https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:23 |
 | 61 | [This Is Not A Drill \(feat\. Bebe Rexha\)](https://open.spotify.com/track/1n9ihgANQtldosKV142hBz) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:24 |
-| 62 | [Glowing](https://open.spotify.com/track/2q2IvYjfidmDUXag3batKZ) | [Nikki Williams](https://open.spotify.com/artist/1IYSbgNotSayG9ypffJi11) | [Glowing](https://open.spotify.com/album/6ljqZKDSeQIDr4HfsVkA6r) | 4:08 |
-| 63 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
+| 62 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
+| 63 | [Glowing](https://open.spotify.com/track/2q2IvYjfidmDUXag3batKZ) | [Nikki Williams](https://open.spotify.com/artist/1IYSbgNotSayG9ypffJi11) | [Glowing](https://open.spotify.com/album/6ljqZKDSeQIDr4HfsVkA6r) | 4:08 |
 | 64 | [Trust Fall](https://open.spotify.com/track/6jm6543STio3hL0bHV2xZ8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:30 |
 | 65 | [Better Mistakes](https://open.spotify.com/track/2HKWYj37hvdZ9xQNPW3GrD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:15 |
 | 66 | [I'm Not High, I'm In Love](https://open.spotify.com/track/0fyYhe8tJKheY9XmhZlZSD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:04 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 83 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 | 84 | [Satellite](https://open.spotify.com/track/57Mnm7uuPh5JhOWNjMFc1e) | [Donato Cipriano](https://open.spotify.com/artist/4DOxNvOqA6pgNLBfhtk81s) | [Satellite](https://open.spotify.com/album/40Jp5bfHyrSJIBmAsINA3X) | 3:27 |
 
-Snapshot ID: `Mjg0NjQ2MTAsMDAwMDAwMDAwZTE2MGU3NmFkZGZkNTU5OGNkZjJmZjY1ZDcyZDk0MA==`
+Snapshot ID: `Mjg0NjYwNTAsMDAwMDAwMDAzOTZlMjM2NGYxNGM5ODhjYzFmMzVlMDU4YzVlNGU0Nw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,534 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,536 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 4 | [Mixed Feelings](https://open.spotify.com/track/7pbIwRECTzRIQZTgujrOYn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:23 |
 | 5 | [Simple Love Song](https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:44 |
 | 6 | [True Colors \(Kou ʻano Kūʻiʻo\)](https://open.spotify.com/track/0YL2CC1DNKAovuhpuQIu2N) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hawaiian Lullaby](https://open.spotify.com/album/2pINChaBkC0qnFcAIu3rtT) | 3:28 |
-| 7 | [Perfect Day](https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 4:34 |
-| 8 | [Island Inside Me](https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:21 |
+| 7 | [Island Inside Me](https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:21 |
+| 8 | [Perfect Day](https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 4:34 |
 | 9 | [Come over Love](https://open.spotify.com/track/1SFJG4vZLzjHTmGVj7Hrm8) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 4:05 |
 | 10 | [Grandpa](https://open.spotify.com/track/2rdgK1EZ5BIDntkdEKZb2o) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Grandpa](https://open.spotify.com/album/44s2rwHBZoKlEnYtdfJgAr) | 3:24 |
 | 11 | [Only Man In The World \- feat\. Tarrus Riley](https://open.spotify.com/track/3hdBa2RmmyWbQQNOdG5e3T) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Only Man In The World \(feat\. Tarrus Riley\)](https://open.spotify.com/album/2Vye5SVOBSo95kZKtqIIXB) | 3:33 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 23 | [Shoulders](https://open.spotify.com/track/5QQfNAQSjsHYbbswx8VYrY) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:53 |
 | 24 | [Crown Royal](https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:56 |
 | 25 | [You Had Me at Aloha](https://open.spotify.com/track/4SEX5L8BAUpFjALA1aiOjs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:21 |
-| 26 | [I Just Want You Around](https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:18 |
-| 27 | [Hard Place](https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hard Place](https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF) | 3:27 |
+| 26 | [Hard Place](https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hard Place](https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF) | 3:27 |
+| 27 | [I Just Want You Around](https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:18 |
 | 28 | [Ready and Willing](https://open.spotify.com/track/60piylGglPP75VzDPg8q8t) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Ready and Willing](https://open.spotify.com/album/38U6pAhmqMfBS7qZSIJQKl) | 3:30 |
 | 29 | [We Make It Look Easy](https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:08 |
 | 30 | [Easier \- Jr Blender RMX](https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Easier \(Jr Blender RMX\)](https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6) | 3:18 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 44 | [Slow Down](https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:33 |
 | 45 | [Boy a or Boy B](https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:43 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAzMWE3MmM1MTk3OGI3YzRkY2EyMTVhNjI5YjE3MzI3Zg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA2ZWZhNjM4YjE3ZjQ1NGYxMWVkYzc3ZGE5NDNmMThmZg==`

@@ -4352,7 +4352,7 @@
     {
       "album": {
         "name": "HOT BOYZ",
-        "url": "https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof"
+        "url": "https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6"
       },
       "artists": [
         {
@@ -4367,6 +4367,28 @@
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 133818,
+      "name": "HOT BOYZ",
+      "url": "https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ"
+    },
+    {
+      "album": {
+        "name": "HOT BOYZ",
+        "url": "https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-15",
       "duration_ms": 133818,
       "name": "HOT BOYZ",
       "url": "https://open.spotify.com/track/6dOwdgtWFX9KEFM59qK5Xu"
@@ -8758,6 +8780,28 @@
       "duration_ms": 195176,
       "name": "thanks",
       "url": "https://open.spotify.com/track/01ZsXCb8HrueIEVZNewduy"
+    },
+    {
+      "album": {
+        "name": "The first snowfall",
+        "url": "https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK"
+      },
+      "artists": [
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177464,
+      "name": "The first snowfall",
+      "url": "https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o"
     },
     {
       "album": {

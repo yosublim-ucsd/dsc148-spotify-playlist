@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,663 likes - 110 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,710 likes - 110 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 45 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 |
 | 46 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 47 | [I Can Help](https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Can Help](https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk) | 3:38 |
-| 48 | [I Wanna Dance with Somebody](https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY) | [Rachel Brown](https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE) | [The Band](https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0) | 3:39 |
-| 49 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
+| 48 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
+| 49 | [I Wanna Dance with Somebody](https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY) | [Rachel Brown](https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE) | [The Band](https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0) | 3:39 |
 | 50 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
 | 51 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 52 | [Heart of Gold \(Cover\)](https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 2:46 |
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 74 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
 | 75 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
 | 76 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
-| 77 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
-| 78 | [You Never Can Tell](https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt) | 3:05 |
+| 77 | [You Never Can Tell](https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt) | 3:05 |
+| 78 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
 | 79 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
-| 80 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
+| 80 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 81 | [When a Man Loves a Woman](https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Covers](https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo) | 4:08 |
-| 82 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
+| 82 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
 | 83 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
 | 84 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
 | 85 | [Soak up the Sun \- Unplugged](https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi) | 4:11 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 |
 | 110 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
 
-Snapshot ID: `MCxmZmNlMTE2ODY4YTcxODZkZTA5OGQ2ZTBiZjU5ZDEyNTM0NDMwZWMy`
+Snapshot ID: `MCw5MTRiNTJjZDQyNmJlOGM3N2ZjZjhkZGUzYzExOGI1YWRhZTE2YzJk`

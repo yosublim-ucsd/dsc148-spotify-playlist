@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Majo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,303 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,317 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 39 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 |
 | 40 | [¿Será Prudente?](https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [¿Será Prudente?](https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86) | 3:46 |
 | 41 | [Con Un Botecito A Pecho](https://open.spotify.com/track/7mVBmaeIkZo0Vm2zddlszz) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:56 |
-| 42 | [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 |
+| 42 | [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 |
 | 43 | [Esta Noche](https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:37 |
 | 44 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 45 | [En Realidad](https://open.spotify.com/track/1gm88KVoDOV0tsSBnB0hri) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:25 |
 | 46 | [Inexperto En Olvidarte](https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Inexperto En Olvidarte](https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE) | 3:05 |
-| 47 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:23 |
-| 48 | [Hasta Que Llegue el Alba](https://open.spotify.com/track/4jZWVQZRZ0oMhvlYzr9Ewa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 4:30 |
-| 49 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
-| 50 | [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 |
+| 47 | [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 |
+| 48 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:23 |
+| 49 | [Hasta Que Llegue el Alba](https://open.spotify.com/track/4jZWVQZRZ0oMhvlYzr9Ewa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 4:30 |
+| 50 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
 | 51 | [Hoja En Blanco](https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 4:30 |
 | 52 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:59 |
 | 53 | [Lo Que No Sirve, Estorba](https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Lo Que No Sirve, Estorba](https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t) | 2:36 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 78 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
 | 79 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 |
 | 80 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
-| 81 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 |
-| 82 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
+| 81 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
+| 82 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 |
 | 83 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
 | 84 | [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 |
 | 85 | [Cuestión De Tiempo](https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 |
 | 100 | [Pinocho](https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:20 |
 
-Snapshot ID: `MCw0YTEwYmYyOTlhNzAzZTMwMmNkMDgyMjY0ZGNhYjdhZjVjMGRiODQ1`
+Snapshot ID: `MCwzZjllZjA3MzRkNjExY2QyMDc4MzBiYmUxZGJhMTVjNTg1NWM4OGQy`

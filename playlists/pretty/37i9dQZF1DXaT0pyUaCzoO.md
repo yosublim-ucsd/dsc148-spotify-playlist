@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 
 > Songs of pride and empowerment for the little listeners.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,050 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,067 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 39 | [Alright](https://open.spotify.com/track/72yHa0Zcman8jBILFZHnpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/6w7lqIsvDPgTChMrPw5oIL) | 3:39 |
 | 40 | [Take Me There \- From "The Rugrats Movie" Soundtrack](https://open.spotify.com/track/4TQOC2AhsD96oPxAC6NB6w) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Blinky Blink](https://open.spotify.com/artist/2pJJdJV1KOIaGip2t8bvvS) | [Music From The Motion Picture: The Rugrats Movie](https://open.spotify.com/album/00ZuXIrJw66IuuEalTIOet) | 4:03 |
 
-Snapshot ID: `MCw0NTA3NjY4N2FmMDY5YjQzOGZjNjVjODVjOWMzMDJkNjMxNzliOWZm`
+Snapshot ID: `MCwzN2QyMGVmY2RkZWUzOGRlMzkzOTQ3MjU0MzYxMGI4YzFmOWZiZDdl`

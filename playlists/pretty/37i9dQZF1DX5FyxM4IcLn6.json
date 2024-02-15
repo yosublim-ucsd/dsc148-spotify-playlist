@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 134067,
+  "num_followers": 134132,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjFiMmZmNGQ0NmY2MmQ4YjBhMDg0Y2VlOTE2Y2E1YmY1N2JlOTUx",
+  "snapshot_id": "MCw5ZDI3OWVkOTk3MWUzNmU3MTkzZTk1YjAwYjBiYzNlZTYyZDBlOWNj",
   "tracks": [
     {
       "added_at": "2024-02-05 23:56:53",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 181080,
       "name": "Low",
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 177920,
       "name": "Mountain With A View",
       "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "You Louisiana Man",
+      "url": "https://open.spotify.com/track/6CvzKMAQDQLDb5HgLpzOqR"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "A Ciegas",
         "url": "https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA"
       },
@@ -2363,26 +2379,6 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/0Jnyc05fOsxeiN5TK4O7Qh"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "Alive at the Village Vanguard",
-        "url": "https://open.spotify.com/album/0ZtyPgjVZsMzwxeDYYgllf"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 572093,
-      "name": "But Not for Me",
-      "url": "https://open.spotify.com/track/5pWeSDpfDqhsgqMTl9nLJm"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -2407,18 +2403,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "You're the One",
-        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+        "name": "Alive at the Village Vanguard",
+        "url": "https://open.spotify.com/album/0ZtyPgjVZsMzwxeDYYgllf"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 246053,
-      "name": "You Louisiana Man",
-      "url": "https://open.spotify.com/track/6CvzKMAQDQLDb5HgLpzOqR"
+      "duration_ms": 572093,
+      "name": "But Not for Me",
+      "url": "https://open.spotify.com/track/5pWeSDpfDqhsgqMTl9nLJm"
     },
     {
       "added_at": "2024-02-05 23:56:53",

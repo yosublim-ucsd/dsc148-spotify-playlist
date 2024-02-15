@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:0Njy6yR9LykNKYg9yE23QN">Nardo Wick</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,139 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,199 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 3 | [Show You Sum](https://open.spotify.com/track/2k5OxKbU1wAv12ynwbKYFS) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Show You Sum](https://open.spotify.com/album/47BA0iMbK2yGOU4a7ACVGJ) | 3:42 |
 | 4 | [In Love](https://open.spotify.com/track/5Fivs2sPYb9iBQuk2s0my7) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [In Love](https://open.spotify.com/album/4EK6xVgNdeawBeZ6vMTTbL) | 2:45 |
 | 5 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
-| 6 | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/track/3rWICRRitlOpjXb0ffuFAW) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [Blake Wisner](https://open.spotify.com/artist/0Qu5JQkxc0CYdfpdqtH2XB) | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/album/5zX0ZxHbAIHAMAt5x6Wtjg) | 3:26 |
+| 6 | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/track/3rWICRRitlOpjXb0ffuFAW) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [Blake Wisner](https://open.spotify.com/artist/51H6IpYHskwmBEr6SGyWkh) | [Times Like This \(feat\. Blake Wisner\)](https://open.spotify.com/album/5zX0ZxHbAIHAMAt5x6Wtjg) | 3:26 |
 | 7 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 8 | [Slide Out](https://open.spotify.com/track/0CLZBiRuo4XuiOVnsXUNVx) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Slide Out](https://open.spotify.com/album/1YiFtpGJKQ0sTovMgse6GM) | 3:22 |
 | 9 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
 | 100 | [EMOTIONS DIE YOUNG](https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [EMOTIONS DIE YOUNG](https://open.spotify.com/album/5ixY1CqyqRfuNZphz28rh6) | 2:49 |
 
-Snapshot ID: `MCwwMzdjNTdlNzVjMDFkZjdiNjBmM2IxNWEwNGE4ZDExOWU1NDc3NTcw`
+Snapshot ID: `MCw0Y2Y3ZWM4NGUzYzhhY2UyNjlhZDZhZmYwNzI1YzZhNDQwYWI5MWNi`

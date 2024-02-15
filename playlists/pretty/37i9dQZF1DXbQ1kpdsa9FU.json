@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 600118,
+  "num_followers": 600178,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGQxOTQ3N2E5OTQ2NDA3NzVmMGUwOTRjOTI2ZGFjMzE3MTFhZmQ3",
+  "snapshot_id": "MCw2OTFkZmVkZTk3NjBkM2MzYTYxN2JjZWYwZWQ5MjgxNWY2MThkMTRl",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 249242,
       "name": "Hills and Valleys (The Valleys Version)",
       "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Love Ran Red",
         "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Pieces Of A Real Heart",
-        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Lead Me",
-      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1031,6 +1015,22 @@
       "duration_ms": 245424,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Pieces Of A Real Heart",
+        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "See The Morning (Special Edition)",
+        "url": "https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "See The Morning (Special Edition)",
-        "url": "https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Spoken For",
         "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 187573,
       "name": "Word of God Speak",
       "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "We Are Messengers",
-        "url": "https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL"
+        "name": "Speaking Louder Than Before",
+        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Magnify",
-      "url": "https://open.spotify.com/track/3wlpaljKzcvj0YYJAMIwXy"
+      "duration_ms": 279440,
+      "name": "There Will Be A Day",
+      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Speaking Louder Than Before",
-        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
+        "name": "We Are Messengers",
+        "url": "https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 279440,
-      "name": "There Will Be A Day",
-      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
+      "duration_ms": 208626,
+      "name": "Magnify",
+      "url": "https://open.spotify.com/track/3wlpaljKzcvj0YYJAMIwXy"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
       "artists": [
         {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
+      "duration_ms": 326613,
+      "name": "God Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
         }
       ],
-      "duration_ms": 326613,
-      "name": "God Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2023-02-18 03:29:19",

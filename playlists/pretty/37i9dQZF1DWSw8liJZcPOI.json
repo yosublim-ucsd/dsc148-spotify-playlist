@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 65259,
+  "num_followers": 65377,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGMwMjY4NzhmNzk3ZjVkMTM0MGIzNDQ3OTY2YjcxZGEwYTgyYmZl",
+  "snapshot_id": "MCwzMTlkMjUzZDA2MjU0ZmY5MGZiNjJjOTRlMTc1ZGRiMWExNjY5MmRk",
   "tracks": [
     {
       "added_at": "2024-02-09 04:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Balcony Hotel (From 'Miss')",
         "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
       },
@@ -451,6 +467,46 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Coalescence",
+        "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        },
+        {
+          "name": "Gabe Saltman",
+          "url": "https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh"
+        }
+      ],
+      "duration_ms": 146651,
+      "name": "Coalescence",
+      "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 151402,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Sigur R\u00f3s: Flj\u00f3tav\u00edk",
         "url": "https://open.spotify.com/album/5lTDQh05XStGCWjbEuKW45"
       },
@@ -479,46 +535,6 @@
       "duration_ms": 248692,
       "name": "Flj\u00f3tav\u00edk",
       "url": "https://open.spotify.com/track/6hkOAdgduiWe3jCV3PjPKJ"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 151402,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Coalescence",
-        "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        },
-        {
-          "name": "Gabe Saltman",
-          "url": "https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh"
-        }
-      ],
-      "duration_ms": 146651,
-      "name": "Coalescence",
-      "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -615,38 +631,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Wandering II",
-        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 159747,
-      "name": "Wandering II",
-      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "No Ball Games (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Wandering II",
+        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 159747,
+      "name": "Wandering II",
+      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -775,22 +775,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
+        "name": "Footsteps",
+        "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
         },
         {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+      "duration_ms": 189026,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -827,22 +827,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Footsteps",
-        "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
       },
       "artists": [
         {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
+      "duration_ms": 218333,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -879,6 +879,30 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Longhope",
+        "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Hiroshi Ebina",
+          "url": "https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Longhope - Edit",
+      "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Spiritus Naturae Aeternus",
         "url": "https://open.spotify.com/album/4aKxCrnN63h8hri6rAHVRa"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 352213,
       "name": "Spiritus Naturae Aeternus - Single Edit",
       "url": "https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Longhope",
-        "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Hiroshi Ebina",
-          "url": "https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Longhope - Edit",
-      "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Lost Time - Strings Version",
-        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
       },
       "artists": [
         {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
         }
       ],
-      "duration_ms": 141500,
-      "name": "Lost Time - Strings Version",
-      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1519,6 +1515,26 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Lost Time - Strings Version",
+        "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Lost Time - Strings Version",
+      "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Notes of Longing",
         "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 195019,
       "name": "The Young Weaver",
       "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 180339,
+      "name": "Promise Of Sun",
+      "url": "https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 180339,
-      "name": "Promise Of Sun",
-      "url": "https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Sweet Coast",
+        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 153041,
+      "name": "Sweet Coast",
+      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Woven Song",
         "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
       },
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Sweet Coast",
-        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 153041,
-      "name": "Sweet Coast",
-      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
       },
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Fragmente",
+        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/13j8daEIHjVbfXSIAf38EZ"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Satori by the Sea",
         "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     }
   ],
   "unique_name": "Not Quite Classical",

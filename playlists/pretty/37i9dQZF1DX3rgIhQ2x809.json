@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70424,
+  "num_followers": 70436,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3",
+  "snapshot_id": "MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gimnasta",
-        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
-      },
-      "artists": [
-        {
-          "name": "Xyron",
-          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
-        },
-        {
-          "name": "Veterano Music",
-          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
-        }
-      ],
-      "duration_ms": 175476,
-      "name": "Gimnasta",
-      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "G Spot",
         "url": "https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 211840,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gimnasta",
+        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
+      },
+      "artists": [
+        {
+          "name": "Xyron",
+          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
+        },
+        {
+          "name": "Veterano Music",
+          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
+        }
+      ],
+      "duration_ms": 175476,
+      "name": "Gimnasta",
+      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "L3tra 2",
-        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Mention",
-      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 163360,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "L3tra 2",
+        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Mention",
+      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Tan Rico",
-        "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Clandestino & Yailemm",
-          "url": "https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi"
-        }
-      ],
-      "duration_ms": 246937,
-      "name": "Tan Rico",
-      "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "19 Crema",
         "url": "https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 246408,
       "name": "19 Crema",
       "url": "https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Tan Rico",
+        "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Clandestino & Yailemm",
+          "url": "https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi"
+        }
+      ],
+      "duration_ms": 246937,
+      "name": "Tan Rico",
+      "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1439,26 +1439,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Inseparables",
-        "url": "https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh"
+        "name": "MARTINI",
+        "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
       },
       "artists": [
         {
-          "name": "Xyron",
-          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         },
         {
-          "name": "Carlitos Rossy",
-          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
-        },
-        {
-          "name": "Veterano Music",
-          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Inseparables",
-      "url": "https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l"
+      "duration_ms": 185210,
+      "name": "MARTINI",
+      "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1483,22 +1479,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "MARTINI",
-        "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Xyron",
+          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
         },
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Carlitos Rossy",
+          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+        },
+        {
+          "name": "Veterano Music",
+          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
         }
       ],
-      "duration_ms": 185210,
-      "name": "MARTINI",
-      "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
+      "duration_ms": 177142,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Billete",
         "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
         }
       ],
-      "duration_ms": 165473,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
+      "duration_ms": 166736,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1623,6 +1607,22 @@
       "duration_ms": 188181,
       "name": "XNO",
       "url": "https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "gatx",
-      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tratemos",
         "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 229333,
       "name": "Tratemos",
       "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "gatx",
+      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
     },
     {
       "added_at": "2023-06-09 02:27:24",

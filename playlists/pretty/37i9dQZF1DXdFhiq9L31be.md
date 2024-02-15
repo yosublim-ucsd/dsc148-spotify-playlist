@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,828 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,849 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 37 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 38 | [I'll Be Fine Somehow \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7ieS3GbdpR81BfRzH0KFaT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:46 |
 | 39 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 |
-| 40 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 4:47 |
-| 41 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 40 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 41 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 4:47 |
 | 42 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 |
 | 43 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 |
 | 44 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 83 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
 | 84 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 |
 | 85 | [Stayaway \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 4:11 |
-| 86 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
-| 87 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 |
+| 86 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 |
+| 87 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
 | 88 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 |
 | 89 | [Love Is Here To Stay \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:42 |
 | 90 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/18gXKx8hfOcm35mFJfXj0r) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/1j86WtctFE7fCDSJFux5Zt) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 99 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
 | 100 | [mars \- Spotify Singles](https://open.spotify.com/track/3hmjsmXPsfUrQZwFhGemGd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:26 |
 
-Snapshot ID: `MCw4YmIwMTdmZTQxNTM1Nzc1ZmZmN2U2YTk3ZmYzNzdkODI2M2UyMDZj`
+Snapshot ID: `MCw4OTRlMmFhNTAwMDY3ZGJhMGFiNzA1N2ZlYWE1NTIzMzYwNzM0NDVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,698 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,693 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 59 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
 | 60 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 
-Snapshot ID: `MCxkNjU1ODNiNGI1ZjY2ZDcyZTBjOGIxMTU0OTUxY2MzOGZjNDRiMzJj`
+Snapshot ID: `MCw5NTRmNmE1NDIzY2M4ODhiMTRjZTJmYjBmMjhjMzEyZTgxYTA4ZWQ1`

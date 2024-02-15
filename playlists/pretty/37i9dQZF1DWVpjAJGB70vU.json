@@ -1,12 +1,12 @@
 {
   "description": "The country that made country cool. Cover: Remembering Toby Keith",
-  "num_followers": 1752615,
+  "num_followers": 1753358,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTg1YjJhZWE4MDY1NzkxMjVlYmU4NzgwZmFhOGQ3NmFmNGZhMTk1",
+  "snapshot_id": "MCw4MzMxYTg5NTYzZjEwMWRkMDE0YjRmZDU3NDEyZWM0MmE5NmJlNTVi",
   "tracks": [
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
         "name": "American Pride",
         "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 168640,
       "name": "I'm in a Hurry (And Don't Know Why)",
       "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "High Lonesome",
         "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 218053,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1855,6 +1839,22 @@
       "duration_ms": 163560,
       "name": "It's A Little Too Late - 1996 Greatest Hits Version",
       "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Something In Red",
-        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Except for Monday",
-      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "Can't Run From Yourself",
         "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 250533,
       "name": "Two Sparrows In A Hurricane",
       "url": "https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "Something In Red",
+        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
+      },
+      "artists": [
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Except for Monday",
+      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
     },
     {
       "added_at": "2024-02-06 16:34:06",

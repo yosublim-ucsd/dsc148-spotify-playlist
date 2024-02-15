@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: BIJOU and Dr. Fresch",
-  "num_followers": 440332,
+  "num_followers": 440359,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTVlOWE1OGFkM2QwNzA0N2Q2ZGQ0NWE0NTMyMTQ2MTBiYTRhMzQx",
+  "snapshot_id": "MCxiY2Y5MTdmNzJjN2EwNzY1NjMxZWU1ZWI0MWFiMGJiOTVjYTAwOGEx",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "HABANERO",
-        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "HABANERO",
-      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "SYMPHONY",
-        "url": "https://open.spotify.com/album/0Llq9KaiTVbpljjRE4Eb1B"
+        "name": "Operators Vol. 1",
+        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
       },
       "artists": [
         {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
         }
       ],
-      "duration_ms": 149706,
-      "name": "SYMPHONY",
-      "url": "https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp"
+      "duration_ms": 150761,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1211,22 +1215,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Operators Vol. 1",
-        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
+        "name": "SYMPHONY",
+        "url": "https://open.spotify.com/album/0Llq9KaiTVbpljjRE4Eb1B"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "House Call",
-          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
         }
       ],
-      "duration_ms": 150761,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
+      "duration_ms": 149706,
+      "name": "SYMPHONY",
+      "url": "https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "BLEEP BLOOP",
+        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "BLEEP BLOOP",
+      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "I\u2019m A Freak (feat. Kazhi)",
         "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 156190,
       "name": "I\u2019m A Freak (feat. Kazhi)",
       "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "BLEEP BLOOP",
-        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "BLEEP BLOOP",
-      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Quaestio (i've got a question babe)",
-        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
       },
       "artists": [
         {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         },
         {
-          "name": "Manuals",
-          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Quaestio (i've got a question babe)",
-      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
+      "duration_ms": 181874,
+      "name": "Supah Fly",
+      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1547,38 +1547,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd"
+        "name": "Quaestio (i've got a question babe)",
+        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
       },
       "artists": [
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
         },
         {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+          "name": "Manuals",
+          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Supah Fly",
-      "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "House",
-      "url": "https://open.spotify.com/track/0i88cSlMSo9G5PEYGdVMdc"
+      "duration_ms": 213750,
+      "name": "Quaestio (i've got a question babe)",
+      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 243333,
       "name": "Bodymorph",
       "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "House",
+      "url": "https://open.spotify.com/track/0i88cSlMSo9G5PEYGdVMdc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Make Trouble",
-        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
       },
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
       },
       "artists": [
         {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
         }
       ],
-      "duration_ms": 155624,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
+      "duration_ms": 210461,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1919,38 +1903,42 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4FUQ0z6XdPskun9gF20rT5"
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
       },
       "artists": [
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
         }
       ],
-      "duration_ms": 174505,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/3Yiqps8YQhLL0EQXZGq2P7"
+      "duration_ms": 155624,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+        "name": "Here Comes The Hotstepper",
+        "url": "https://open.spotify.com/album/0EyLI2iSdKlVTS2yp0SgtB"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Snoblack",
+          "url": "https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX"
+        },
+        {
+          "name": "Akuarium",
+          "url": "https://open.spotify.com/artist/5txw0ndVXsw3Z198taEnNg"
+        },
+        {
+          "name": "Jack Light",
+          "url": "https://open.spotify.com/artist/4XbCACAI3mmUIkOL73aTjv"
         }
       ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+      "duration_ms": 178604,
+      "name": "Here Comes The Hotstepper",
+      "url": "https://open.spotify.com/track/3xPf1t0ogZ0DH3DN0c4l5t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1971,18 +1959,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Poissound",
-        "url": "https://open.spotify.com/album/392617G8Fahkedg4Vejmsu"
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
       "artists": [
         {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 222325,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA"
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/4FUQ0z6XdPskun9gF20rT5"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        }
+      ],
+      "duration_ms": 174505,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/3Yiqps8YQhLL0EQXZGq2P7"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2019,6 +2027,22 @@
       "duration_ms": 192755,
       "name": "Dropping It",
       "url": "https://open.spotify.com/track/0WheKDBrHJ1IYJbhMncC5M"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Poissound",
+        "url": "https://open.spotify.com/album/392617G8Fahkedg4Vejmsu"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 222325,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2063,66 +2087,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Stereo Function",
-        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 206904,
-      "name": "Stereo Function",
-      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Here Comes The Hotstepper",
-        "url": "https://open.spotify.com/album/0EyLI2iSdKlVTS2yp0SgtB"
-      },
-      "artists": [
-        {
-          "name": "Snoblack",
-          "url": "https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX"
-        },
-        {
-          "name": "Akuarium",
-          "url": "https://open.spotify.com/artist/5txw0ndVXsw3Z198taEnNg"
-        },
-        {
-          "name": "Jack Light",
-          "url": "https://open.spotify.com/artist/4XbCACAI3mmUIkOL73aTjv"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Here Comes The Hotstepper",
-      "url": "https://open.spotify.com/track/3xPf1t0ogZ0DH3DN0c4l5t"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Education",
-        "url": "https://open.spotify.com/album/6V2zDH1FbCiKOytkXa8pBP"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Education",
-      "url": "https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -2147,6 +2111,58 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Education",
+        "url": "https://open.spotify.com/album/6V2zDH1FbCiKOytkXa8pBP"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Education",
+      "url": "https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Feel So Free Mixtape",
         "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
       },
@@ -2167,6 +2183,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Let's Rock",
+        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "SWEAT",
         "url": "https://open.spotify.com/album/5OQAcfTe1Ifzs8Qrtly5aH"
       },
@@ -2179,22 +2211,6 @@
       "duration_ms": 169943,
       "name": "SWEAT - Radio Edit",
       "url": "https://open.spotify.com/track/6sCsUn5KqYxxayAB1L9po2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2231,22 +2247,6 @@
       "duration_ms": 210461,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Fuck It Up",
-        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Fuck It Up",
-      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Fuck It Up",
+        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Policia",
         "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
       },
@@ -2323,42 +2339,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Let's Rock",
-        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "Let's Rock",
-      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "RUMBLE IN THE DISCO",
-        "url": "https://open.spotify.com/album/2Lr7FMxj6BO7I4vKdyoqEd"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        },
-        {
-          "name": "Neon Steve",
-          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "RUMBLE IN THE DISCO",
-      "url": "https://open.spotify.com/track/3WF2mMA1gBkSRnucT9Qm23"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Badman Riddim (feat. Sweetie Irie)",
         "url": "https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
+      },
+      "artists": [
+        {
+          "name": "DEVOWR.",
+          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
     }
   ],
   "unique_name": "Nasty Bits",

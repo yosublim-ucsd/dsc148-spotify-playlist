@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 2153804,
+  "2024-02-15": 2153868,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - United Kingdom.",
   "name": "Top 50 - United Kingdom",
@@ -229,6 +229,24 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "album": {
+        "name": "16 CARRIAGES",
+        "url": "https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233521,
+      "name": "16 CARRIAGES",
+      "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
     },
     {
       "album": {
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -8893,7 +8911,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -14329,7 +14347,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 156862,
       "name": "KING",
       "url": "https://open.spotify.com/track/3jAI9AAHIlyKito0eQme91"
@@ -15021,7 +15039,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
@@ -19965,7 +19983,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -20701,7 +20719,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -23153,7 +23171,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 547733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
@@ -26903,6 +26921,24 @@
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
+    },
+    {
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "album": {

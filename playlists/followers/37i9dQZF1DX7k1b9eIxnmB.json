@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 160006,
+  "2024-02-15": 160060,
   "date_first_scraped": "2022-05-30",
   "description": "Here comes the Maestro with his best of 90s!",
   "name": "Raaja Rules 90s",
@@ -2029,7 +2029,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 340683,
       "name": "Kaadhal Vaanilae",
       "url": "https://open.spotify.com/track/0IMEdXJyzivhWbZIYhNQbY"
@@ -2099,6 +2099,28 @@
       "duration_ms": 310343,
       "name": "Kadhal Kavithaigal",
       "url": "https://open.spotify.com/track/2VNsIpwEBYJ1feER0uo19d"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7vuATOXnFixixdX0Ur1ADa"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Preethi",
+          "url": "https://open.spotify.com/artist/35A19Zs0h1AsIPne3ZF6oI"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341420,
+      "name": "Kadhal Vaanile",
+      "url": "https://open.spotify.com/track/1mU1xiI648bcXLWBe3NAgj"
     },
     {
       "album": {

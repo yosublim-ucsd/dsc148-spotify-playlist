@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 56616,
+  "num_followers": 56630,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTcyMGI1YWI4MjU3MDRjYmMwY2E3NTAwOGVlNWE3NDYyOTZhZjI0",
+  "snapshot_id": "MCw2MDM3MjI5ZTVmODFhY2NiMmVjM2ZjY2ViNTY3MmQwZThjMjA2YmI0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:52:25",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Brancciari",
-          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
-        }
-      ],
-      "duration_ms": 170904,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Cuentas Pendientes",
         "url": "https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 232947,
       "name": "Velocidad Crucero",
       "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Brancciari",
+          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
+        }
+      ],
+      "duration_ms": 170904,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Eros (Claroscuro)",
-        "url": "https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Eros (Claroscuro)",
-      "url": "https://open.spotify.com/track/0Np2OCGA4rAcUcdaTSjuH3"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 245217,
       "name": "Negro",
       "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Eros (Claroscuro)",
+        "url": "https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Eros (Claroscuro)",
+      "url": "https://open.spotify.com/track/0Np2OCGA4rAcUcdaTSjuH3"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -819,6 +819,30 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "NUNCA DA IGUAL",
+        "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
+      },
+      "artists": [
+        {
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        },
+        {
+          "name": "Ezequiel Kronenberg",
+          "url": "https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx"
+        },
+        {
+          "name": "Nicolas Btesh",
+          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "M\u00e1quinas de hacer todo al mismo tiempo",
+      "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Volar",
         "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "NUNCA DA IGUAL",
-        "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
-      },
-      "artists": [
-        {
-          "name": "Mariana Michi",
-          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
-        },
-        {
-          "name": "Ezequiel Kronenberg",
-          "url": "https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx"
-        },
-        {
-          "name": "Nicolas Btesh",
-          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "M\u00e1quinas de hacer todo al mismo tiempo",
-      "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Conversaci\u00f3n Cultural",
-        "url": "https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Vitola",
-          "url": "https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd"
-        }
-      ],
-      "duration_ms": 195301,
-      "name": "Buscala",
-      "url": "https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Suerte para m\u00ed",
         "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Conversaci\u00f3n Cultural",
+        "url": "https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Vitola",
+          "url": "https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd"
+        }
+      ],
+      "duration_ms": 195301,
+      "name": "Buscala",
+      "url": "https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 214010,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1179,22 +1195,6 @@
       "duration_ms": 272500,
       "name": "el gil",
       "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "plasti bonus track",
+        "url": "https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        },
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        }
+      ],
+      "duration_ms": 202687,
+      "name": "hoy me despert\u00e9 as\u00ed - v. 02",
+      "url": "https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 174857,
       "name": "El rey del yuyal",
       "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "plasti bonus track",
-        "url": "https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS"
-      },
-      "artists": [
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        },
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        }
-      ],
-      "duration_ms": 202687,
-      "name": "hoy me despert\u00e9 as\u00ed - v. 02",
-      "url": "https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Lo Que Hicimos",
+        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "S\u00f3nico Vivo",
+          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+        }
+      ],
+      "duration_ms": 157725,
+      "name": "Lo Que Hicimos",
+      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Volc\u00e1n",
         "url": "https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 236086,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Lo Que Hicimos",
-        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "S\u00f3nico Vivo",
-          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
-        }
-      ],
-      "duration_ms": 157725,
-      "name": "Lo Que Hicimos",
-      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Noche Tem\u00e1tica",
+        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+      },
+      "artists": [
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Noche Tem\u00e1tica",
+      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1779,26 +1795,6 @@
       "duration_ms": 170353,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/0cT3OJcYwXfqQxiK7Qd11Q"
-      },
-      "artists": [
-        {
-          "name": "Nicol\u00e1s De Sanctis",
-          "url": "https://open.spotify.com/artist/24VZM0e1TVb0bJaZXYaPTh"
-        },
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 226362,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/613mJsuG0asXiIzz2cFjQE"
     },
     {
       "added_at": "2024-02-01 19:52:25",

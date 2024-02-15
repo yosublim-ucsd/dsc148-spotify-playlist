@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 70193,
+  "2024-02-15": 70256,
   "date_first_scraped": "2022-02-18",
   "description": "Swinging jazz for relaxing and unwinding.",
   "name": "Chill Out Jazz",
@@ -3040,6 +3040,24 @@
     },
     {
       "album": {
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276366,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4"
+    },
+    {
+      "album": {
         "name": "Three: Vol. 3 [Utopia]",
         "url": "https://open.spotify.com/album/7nhGyrXgeOc0wiadovp4YG"
       },
@@ -4991,7 +5009,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 227015,
       "name": "On Delancey",
       "url": "https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM"

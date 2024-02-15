@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,911 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,902 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 57 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 |
 | 58 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 59 | [How to Save a Life \- Live in Nashville, TN \- December 2006](https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Acoustic In Nashville \- Bootleg No\. 2](https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp) | 4:29 |
-| 60 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 |
-| 61 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 |
-| 62 | [Human Nature \- Acoustic](https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Human Nature \(Acoustic\)](https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk) | 3:47 |
-| 63 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 |
+| 60 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 |
+| 61 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 |
+| 62 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 |
+| 63 | [Human Nature \- Acoustic](https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Human Nature \(Acoustic\)](https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk) | 3:47 |
 | 64 | [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 |
 | 65 | [Thunder \- Live/Acoustic](https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4) | 3:34 |
 | 66 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 68 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 |
 | 69 | [Cool Kids \- Live from Spotify NYC](https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Spotify Sessions](https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf) | 3:21 |
 | 70 | [I'm Yours \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 5:12 |
-| 71 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
-| 72 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi) | 4:00 |
+| 71 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi) | 4:00 |
+| 72 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 73 | [Made You Look \(feat\. Sri, Scott Hoying, Elyse Myers & Chris Olsen\) \- A Cappella](https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG), [Elyse Myers](https://open.spotify.com/artist/19we83RL2vr4HF6zU6KBAT), [Sri](https://open.spotify.com/artist/04mSgmkYxSJMrZeqBoGOvc), [Chris Olsen](https://open.spotify.com/artist/1BS8EXDNdqtlSaW3ZBsNT7) | [Made You Look \(feat\. Sri, Scott Hoying, Elyse Myers & Chris Olsen\) \[A Cappella\]](https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye) | 2:12 |
 | 74 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic EP](https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy) | 3:53 |
 | 75 | [Love Me Now \(feat\. FAST BOY\) \- Acoustic](https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\) \[Acoustic\]](https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f) | 2:18 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
 | 90 | [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 |
 
-Snapshot ID: `MCwwODE3NTc1MDFlZTQ2MjFlNGEzYmZhMTc4NjBkMTFjMjQyNmFkNjEw`
+Snapshot ID: `MCxhN2MyNDkwZTkxNDFlOGY0ZjEwNGE0OGE3ODIyYzBiY2Q2OWZkZWI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,827 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,887 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 6 | [Hideaway](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 4:11 |
 | 7 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 |
 | 8 | [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 |
-| 9 | [Freaks \- Radio Edit](https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z) | 2:49 |
+| 9 | [Sun Goes Down \(feat\. Jasmine Thompson\) \- Radio Mix](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 2:59 |
 | 10 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
-| 11 | [Sun Goes Down \(feat\. Jasmine Thompson\) \- Radio Mix](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 2:59 |
+| 11 | [Freaks \- Radio Edit](https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z) | 2:49 |
 | 12 | [Something About You](https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Something About You](https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q) | 3:45 |
 | 13 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
 | 14 | [The Days](https://open.spotify.com/track/5Iy2Jj87Ha0C0IBlNE1I4y) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 4:38 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 80 | [Open Wide \(feat\. Big Sean\)](https://open.spotify.com/track/64j3Bd62HTe0pclk8Aq9BE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:07 |
 | 81 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 |
 
-Snapshot ID: `MCw0ODQxODU3YTZiMWJlYTcwOTRlODU1MWE4YWQ4MWUzZWNhMWJlMjMz`
+Snapshot ID: `MCxkZGM0MTllMmI2ZDZmOWRlOTcxZDRhYmFmZWRlNzIwMzk0ZmFkODZh`

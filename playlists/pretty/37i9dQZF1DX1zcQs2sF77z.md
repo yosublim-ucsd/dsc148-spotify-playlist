@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,611 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,691 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 24 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 |
 | 25 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 |
 | 26 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
-| 27 | [It's My Life](https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU) | 3:59 |
-| 28 | [Be Mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Be Mine](https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC) | 2:41 |
+| 27 | [Be Mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Be Mine](https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC) | 2:41 |
+| 28 | [It's My Life](https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU) | 3:59 |
 | 29 | [Hotel Room Service](https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 |
 | 30 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
 | 31 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 49 | [Sing Hallelujah!](https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU) | 4:00 |
 | 50 | [Sun Is Shining](https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:14 |
 
-Snapshot ID: `MCw2NjUyYzI4ODU1MWFiZTRjODQ0M2JmOWJlMDUyMzllMGZmMDNlMzE2`
+Snapshot ID: `MCxjYjk3ZmMwMmIyOGQ5NDFhZTU0NDRiYjk1MzQ2MWI3OGVhMDIwMjlj`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1599,
+  "num_followers": 1598,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTExODk5OGY4MmY4MmIwZmQwNDYzZjcxY2Y2ZTdhNmI5ZGMwZmI1",
+  "snapshot_id": "MCw4MWVmZGJmZDYzMzRkNDBlYjM5MjhjNDA1ZjJkZThiYjhmZDViYzU2",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I Hate YoungBoy",
-        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "I Hate YoungBoy",
-      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "See Wat I\u2019m Sayin",
         "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 146732,
       "name": "See Wat I\u2019m Sayin",
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "I Hate YoungBoy",
+        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "I Hate YoungBoy",
+      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
     },
     {
       "added_at": "2022-11-01 04:00:00",

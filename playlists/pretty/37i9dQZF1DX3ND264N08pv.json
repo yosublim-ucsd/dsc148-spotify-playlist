@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 70339,
+  "num_followers": 70362,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjhiMzBmNzQ2NDEyZmM0OTczNTA1Mjc5MWI5NWI1NWY1NDQxODMx",
+  "snapshot_id": "MCw1OTYxNWU4ODc4NGRjNzVkMzdlNWMyMjU5ZGZhZTFjZGYwMTM2NzM2",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Thunder In Paradise",
+        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Trippie naar de klote",
         "url": "https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 192000,
       "name": "Trippie naar de klote",
       "url": "https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Thunder In Paradise",
-        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Shark Attack",
-      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
-        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        },
-        {
-          "name": "Dave Revan",
-          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
-        }
-      ],
-      "duration_ms": 235734,
-      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
-      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 171789,
       "name": "Fight Them All",
       "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
+        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        },
+        {
+          "name": "Dave Revan",
+          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
+        }
+      ],
+      "duration_ms": 235734,
+      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
+      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "STRUGGLE TO SURVIVE (2023 RMX)",
         "url": "https://open.spotify.com/album/6Qfszcle60C258we00nyTG"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 206590,
       "name": "STRUGGLE TO SURVIVE (2023 RMX)",
       "url": "https://open.spotify.com/track/0pTxkc8DLhLexqfATjm4Yu"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "BE LOUDER",
-        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "BE LOUDER",
-      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Til The AM",
         "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "BE LOUDER",
+        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "BE LOUDER",
+      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "THE 4TH DIMENSION",
         "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
       },
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "FadeIIBlack - The Album",
-        "url": "https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ"
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
       },
       "artists": [
         {
-          "name": "Infected",
-          "url": "https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         },
         {
-          "name": "Darkside Unleashed",
-          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
         }
       ],
-      "duration_ms": 148003,
-      "name": "Makin' Money",
-      "url": "https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw"
+      "duration_ms": 138500,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1523,22 +1523,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
+        "name": "FadeIIBlack - The Album",
+        "url": "https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ"
       },
       "artists": [
         {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+          "name": "Infected",
+          "url": "https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg"
         },
         {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
         }
       ],
-      "duration_ms": 138500,
-      "name": "Outta Here",
-      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
+      "duration_ms": 148003,
+      "name": "Makin' Money",
+      "url": "https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Knock Out",
-        "url": "https://open.spotify.com/album/7F6TZIXdtZk2yGMaUYU2QQ"
-      },
-      "artists": [
-        {
-          "name": "Goetia",
-          "url": "https://open.spotify.com/artist/0d6TMB4GlRjs4lAKhOBddM"
-        },
-        {
-          "name": "Darkside Unleashed",
-          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Knock Out",
-      "url": "https://open.spotify.com/track/637GVxcPXpQvv87RlROH3b"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 170742,
       "name": "Slugs 4 Snitches",
       "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Knock Out",
+        "url": "https://open.spotify.com/album/7F6TZIXdtZk2yGMaUYU2QQ"
+      },
+      "artists": [
+        {
+          "name": "Goetia",
+          "url": "https://open.spotify.com/artist/0d6TMB4GlRjs4lAKhOBddM"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Knock Out",
+      "url": "https://open.spotify.com/track/637GVxcPXpQvv87RlROH3b"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

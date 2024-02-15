@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,035 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,027 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Otherside](https://open.spotify.com/track/1gEI3oSPZQdmabcY4rlyQk) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:34 |
 | 100 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
 
-Snapshot ID: `MCxiYmUzMWY0ZGZjZjA1OGUwM2FhNzA2NmVlMWQ2MDRmYWZhODg2Y2M1`
+Snapshot ID: `MCw3ODY0MmIzOGU3YmYyYzEwZDJlNmQzM2ExYjFlZDU5NDQ4YmJlZjYw`

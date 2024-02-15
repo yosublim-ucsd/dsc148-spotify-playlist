@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Riaan Benadé
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,413 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,533 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [High Time](https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:54 |
 | 100 | [I Hate This](https://open.spotify.com/track/6c90n39x5VKMsxOSTEeNRv) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:08 |
 
-Snapshot ID: `MCw3ZWRkYjlmZTk3MmJkYzljOWUyYWJhMzc5N2QyZDliN2QwOWQzYWY5`
+Snapshot ID: `MCwxMmIwYTY2MzZjNWFhN2QyOGM2MzgyZDJjYjQ5ZDY3NmRmMzM0OTlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,703 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,768 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 11 | [Beyond Thought](https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Beyond Thought](https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b) | 2:48 |
 | 12 | [Strong Healthy Relationship Affirmations](https://open.spotify.com/track/7j2InlJ6DrazSaFaEs2xhx) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Love Affirmations](https://open.spotify.com/album/1u5j6CKpBKF2D4xKgDHlSG) | 2:58 |
 | 13 | [528 Hz Mindfulness](https://open.spotify.com/track/67zLFjnzqQ7UppDq1HXczR) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [528 Hz Positive Transformation](https://open.spotify.com/album/19xQ3Y3XrQz88UeM1lfe1d) | 1:36 |
-| 14 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 |
-| 15 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
+| 14 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
+| 15 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 |
 | 16 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 |
 | 17 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
 | 18 | [Wealth & Abundance Affirmations V](https://open.spotify.com/track/6fxQ4rWM61VA2qMlV6WHS6) | [Conscious Evolution](https://open.spotify.com/artist/3MK0kIDFuny7zZdLdVdCiS) | [Affirmations for Wealth & Abundance](https://open.spotify.com/album/15uDVru4nXzmJHYRilgN2P) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 49 | [Continuing Endlessly](https://open.spotify.com/track/0IiVkUz6EE1a9OgUMr9KXB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Continuing Endlessly](https://open.spotify.com/album/0q25lL0bB1GKES6cqr15NI) | 3:03 |
 | 50 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
 
-Snapshot ID: `MCw5ZGJmMDkzZjFhOGRmMDk5ZDhiYmU5NTdhNzg5M2VjODZkYTdjMzAz`
+Snapshot ID: `MCxmOTEzOTBmMTFkODk3M2MxMzc2NzkzMDc5ODQ2MDYyMmVkZWRjM2Vj`

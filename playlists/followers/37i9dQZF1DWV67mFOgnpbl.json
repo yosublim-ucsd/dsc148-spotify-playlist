@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 382220,
+  "2024-02-15": 382445,
   "date_first_scraped": "2022-12-29",
   "description": "For those who like to party hard!",
   "name": "Party Hard",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 212940,
       "name": "Animal",
       "url": "https://open.spotify.com/track/31SU2q3fE2HRnwbGjfx63T"
@@ -327,6 +327,24 @@
       "duration_ms": 231693,
       "name": "Breaking the Chains",
       "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "Breaking The Chains",
+      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,602 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,621 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Qu'est\-ce tu veux qu'j'te dise?](https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:26 |
 | 40 | [PARLE EN WSH](https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [PARLE EN WSH](https://open.spotify.com/album/50bmjYU7Z5BlZiZxvYXbzE) | 3:01 |
 
-Snapshot ID: `MCwzMmQyZTFkMTg1ZjBiZTVlOWQzZjk5OTZjYTI2ZDQ5MWNiMzY5MGFj`
+Snapshot ID: `MCwwYzNlZGU3Njg2OGQxZTkwYTUzZWUyMjIzYjA0MzBhZWVlNjBiOGVj`

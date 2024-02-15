@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,766 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,765 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 36 | [Dos Cruces En La Curva](https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 3:47 |
 | 37 | [Cheque Al Portador](https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 2:31 |
 | 38 | [Corrido De Cruz Estrada Aka Crucillo Estrada](https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:48 |
-| 39 | [El Jardin De Las Flores](https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:48 |
-| 40 | [Las Tres Tumbas](https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tres Tumbas](https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0) | 2:48 |
+| 39 | [Las Tres Tumbas](https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tres Tumbas](https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0) | 2:48 |
+| 40 | [El Jardin De Las Flores](https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:48 |
 | 41 | [Luis Martínez De La Campana](https://open.spotify.com/track/32tVey2lJ2rOXiX7myvmE8) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:46 |
 | 42 | [El Sauce Y La Palma](https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T) | 2:29 |
 | 43 | [La Cosecha](https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [Pancho Treviño](https://open.spotify.com/track/3TNrUd7umaRyh0RPjXbtep) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 2:41 |
 | 50 | [Modesta Ayala](https://open.spotify.com/track/4StR1lNQoe9ngAUFjbi2dk) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Puros Exitos](https://open.spotify.com/album/1YCdH8G9ELHRzfmpJ7c0pl) | 3:03 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA0MzhlOTI2MzBjMWNiZmE1MzhmZjJiNGQyM2M5NGQ1Mw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA5ZjQyYmNmZDc3ZTMxZmFhZDM5ZDA1ODkzZmIzYjEyOA==`

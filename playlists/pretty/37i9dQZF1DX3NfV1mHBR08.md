@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,051 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,055 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 49 | [New Day](https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV) | 4:02 |
 | 50 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
 
-Snapshot ID: `MCxmYjYyMTRjOTE4ZDUxMmE5YjAxZjczMDIxMmY2N2YxYWZlM2QyNWI3`
+Snapshot ID: `MCw0Mjk3ZDRhY2Y4MWIwNTljNGI5MTI4ZmFhZWUyMmVlNWY2MTU4MjA5`

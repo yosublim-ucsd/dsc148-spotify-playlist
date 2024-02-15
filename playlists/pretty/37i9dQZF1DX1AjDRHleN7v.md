@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,944 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,017 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 27 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
 | 28 | [Zóio De Lula](https://open.spotify.com/track/0qmzAFEijLDdvR2VbjFsPH) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 4:12 |
 | 29 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
-| 30 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
-| 31 | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1) | 4:35 |
+| 30 | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1) | 4:35 |
+| 31 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
 | 32 | [Saquarema \- Remix](https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Saquarema \(Remix\)](https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr) | 3:52 |
 | 33 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
-| 34 | [Fica um Pouco Mais](https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr) | 2:43 |
-| 35 | [Sonhei Com Você](https://open.spotify.com/track/0qAyRZdiNmuSxo9S9cB80y) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/1u0B2BCspLVI28BFpLZ8kr) | 3:28 |
-| 36 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 |
-| 37 | [Sem Medo](https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sessão Aberta Acústico](https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI) | 4:05 |
+| 34 | [Sonhei Com Você](https://open.spotify.com/track/0qAyRZdiNmuSxo9S9cB80y) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/1u0B2BCspLVI28BFpLZ8kr) | 3:28 |
+| 35 | [Fica um Pouco Mais](https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr) | 2:43 |
+| 36 | [Sem Medo](https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sessão Aberta Acústico](https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI) | 4:05 |
+| 37 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 |
 | 38 | [Santa Terra](https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG) | [Qback](https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q) | [Santa Terra](https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B) | 4:36 |
 | 39 | [Eleva](https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00) | [Refinaria](https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ), [Chico Martins](https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw) | [Eleva](https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA) | 3:34 |
 | 40 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 53 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
 | 54 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 |
 | 55 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
-| 56 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
-| 57 | [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 |
+| 56 | [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 |
+| 57 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
 | 58 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
 | 59 | [O Amor Venceu](https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg) | [Luc DubWise](https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU) | [O Amor Venceu](https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl) | 3:07 |
 | 60 | [Nada É em Vão](https://open.spotify.com/track/3n7MHHJ8KjZ5dX7FMjyVks) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:50 |
 
-Snapshot ID: `MCwwZTIwNDEzMTYyOGJjY2IzMDdmZDFhMTYyOGEyY2ZhODYzY2Y5ZTY4`
+Snapshot ID: `MCwyM2JmNDUwZmIyOTcxZDFmYjIzYTMwMTNkOTM1YmZhMDE2NjA0YjIw`

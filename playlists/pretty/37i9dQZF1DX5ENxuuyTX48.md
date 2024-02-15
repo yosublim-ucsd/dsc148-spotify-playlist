@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Febinda Tito
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,022 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,030 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 3 | [Rasa Sayang Sayang](https://open.spotify.com/track/6QlxjFqx0ntOi7KEmVb757) | [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Rasa Sayang Sayang](https://open.spotify.com/album/27fZnvCjPV4hHmbtaSbeEf) | 3:36 |
 | 4 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
 | 5 | [Buang \- Buang Waktu](https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Buang \- Buang Waktu](https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv) | 3:16 |
-| 6 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
+| 6 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
 | 7 | [Sabar](https://open.spotify.com/track/4RLFIfvicLshfmI2foSPSG) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Sabar](https://open.spotify.com/album/0rpLMpCFLDQJ6BIDJmS1Mp) | 3:00 |
-| 8 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
+| 8 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 9 | [Broken Symphony](https://open.spotify.com/track/2afqv6rNNOE6HZ36vkbSq3) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [DIVINE](https://open.spotify.com/album/0QfsqeNAmd48QUzPHYV2V8) | 4:22 |
 | 10 | [syg jgn mrh](https://open.spotify.com/track/2O5x4eV6FEUc2XkdvjxmOS) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [syg jgn mrh](https://open.spotify.com/album/64G1eY1BhmPZTA8pnwpA7M) | 3:41 |
 | 11 | [Sekali](https://open.spotify.com/track/2PlEIW0nd8hTSdHnb32lQT) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [Sekali](https://open.spotify.com/album/0bwOUA3PBmUz71SDIk3l7u) | 3:38 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 43 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 |
 | 44 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
 | 45 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
-| 46 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
-| 47 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
-| 48 | [GADISKU](https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [FITTO](https://open.spotify.com/artist/3OG2k4C5SSrH69YbBU3Mbp), [Gard](https://open.spotify.com/artist/1YeerhN60nteXqkUo06htu) | [CHRONOSPHERE](https://open.spotify.com/album/4bUD7FuNjWluM7QlFxPl45) | 4:07 |
+| 46 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
+| 47 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
+| 48 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
 | 49 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 |
-| 50 | [Sinar Pelangi](https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb) | 3:51 |
+| 50 | [GADISKU](https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [FITTO](https://open.spotify.com/artist/3OG2k4C5SSrH69YbBU3Mbp), [Gard](https://open.spotify.com/artist/1YeerhN60nteXqkUo06htu) | [CHRONOSPHERE](https://open.spotify.com/album/4bUD7FuNjWluM7QlFxPl45) | 4:07 |
 
-Snapshot ID: `MCw1MWRmZGUwMDUwOGFjYTI5MzkzNTEwYjM2YmVkZDU0YTdiYTE3ZjUx`
+Snapshot ID: `MCw5NGY1ZDZjYjk0OTJmNzA1MTdiYjVjNGJmNGRkMmZkNDZlMjJlZDIz`

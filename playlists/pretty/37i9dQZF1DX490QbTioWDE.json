@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
-  "num_followers": 680451,
+  "num_followers": 680910,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGE1MTVjYjIwY2NiMjFhNDJhM2I1Mjg5NjM4MjI5YzU0YjY4MTU0",
+  "snapshot_id": "MCw1Yjc2NmI0OTVkNDRkM2VhZDhlZTMwMWQ4YWU2MWRjNWVkMzhiNTAx",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Despechada (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 172585,
-      "name": "Despechada (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Sabroso",
         "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 223026,
       "name": "Lleg\u00f3 Tu Papi",
       "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -955,42 +955,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Que Agon\u00eda / Carne y Hueso",
-        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 291313,
-      "name": "Que Agonia - Carne y Hueso",
-      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+        "name": "Trilog\u00eda: 1er acto",
+        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
       },
       "artists": [
         {
           "name": "La Mona Jimenez",
           "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 331160,
-      "name": "Ramito de violetas",
-      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
+      "duration_ms": 373773,
+      "name": "El Federal",
+      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1083,6 +1059,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Que Agon\u00eda / Carne y Hueso",
+        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 291313,
+      "name": "Que Agonia - Carne y Hueso",
+      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "10 A\u00f1os Con Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
       },
@@ -1103,38 +1099,38 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
       "artists": [
         {
           "name": "La Mona Jimenez",
           "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "B\u00e9same Bonito (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         },
         {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 232032,
-      "name": "B\u00e9same Bonito (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
+      "duration_ms": 331160,
+      "name": "Ramito de violetas",
+      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1155,6 +1151,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Provenza / Te Felicito / Despechao",
         "url": "https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc"
       },
@@ -1167,22 +1179,6 @@
       "duration_ms": 362817,
       "name": "Provenza / Te Felicito / Despechao",
       "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1239,8 +1235,8 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Aunque Sea En Otra Vida",
-        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
+        "name": "B\u00e9same Bonito (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
       },
       "artists": [
         {
@@ -1252,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 231509,
-      "name": "Aunque Sea En Otra Vida",
-      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
+      "duration_ms": 232032,
+      "name": "B\u00e9same Bonito (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1275,22 +1271,6 @@
       "duration_ms": 193160,
       "name": "Paloma loca",
       "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1347,6 +1327,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Beso a Beso (con La Mona)",
         "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
       },
@@ -1371,8 +1367,8 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Tu Fan (En Vivo)",
-        "url": "https://open.spotify.com/album/2wR8V9CWLyvCMTbcs9gV8Q"
+        "name": "Aunque Sea En Otra Vida",
+        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
       },
       "artists": [
         {
@@ -1384,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 248533,
-      "name": "Tu Fan - En Vivo",
-      "url": "https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW"
+      "duration_ms": 231509,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1443,42 +1439,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 242950,
-      "name": "Perfecto Idiota",
-      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
       },
@@ -1495,6 +1455,46 @@
       "duration_ms": 199445,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Tu Fan (En Vivo)",
+        "url": "https://open.spotify.com/album/2wR8V9CWLyvCMTbcs9gV8Q"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Tu Fan - En Vivo",
+      "url": "https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 242950,
+      "name": "Perfecto Idiota",
+      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/5ZSdSnkmwF4frpdfZ0CZ1f"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 212578,
-      "name": "De Adentro Pa Afuera",
-      "url": "https://open.spotify.com/track/4a5xNJrtHEkulgAlzgv0Ox"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 1500920,
       "name": "Fragmentos Enganchados, Pt. 2",
       "url": "https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/5ZSdSnkmwF4frpdfZ0CZ1f"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 212578,
+      "name": "De Adentro Pa Afuera",
+      "url": "https://open.spotify.com/track/4a5xNJrtHEkulgAlzgv0Ox"
     },
     {
       "added_at": "2024-02-02 03:00:00",

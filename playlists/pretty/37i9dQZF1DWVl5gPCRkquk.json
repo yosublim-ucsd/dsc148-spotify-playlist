@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 861661,
+  "num_followers": 861678,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTg1ZmY5N2M1M2FlNTMyN2JmYmJkNmYyNTNkZjBlZTU4N2IyMzk5",
+  "snapshot_id": "MCwwZjcwYWY0OTJkOGNhOWNlNjhkZmUyZTA2MmYxMjE4MDNkOGE2MzU2",
   "tracks": [
     {
       "added_at": "2024-01-03 18:42:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2024-01-03 18:42:56",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "added_at": "2024-01-03 18:42:56",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2024-01-03 18:42:56",
-      "album": {
         "name": "Secret (Acoustic)",
         "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 190000,
       "name": "Secret - Acoustic",
       "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
+    },
+    {
+      "added_at": "2024-01-03 18:42:56",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1351,6 +1351,42 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2024-01-03 18:42:56",
+      "album": {
+        "name": "IOWA",
+        "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 275170,
+      "name": "IOWA",
+      "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
+    },
+    {
+      "added_at": "2024-01-03 18:42:56",
+      "album": {
         "name": "In the Magic Hour",
         "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
       },
@@ -1379,42 +1415,6 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2024-01-03 18:42:56",
-      "album": {
-        "name": "IOWA",
-        "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 275170,
-      "name": "IOWA",
-      "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
-    },
-    {
-      "added_at": "2024-01-03 18:42:56",
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
+    },
+    {
+      "added_at": "2024-01-03 18:42:56",
+      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
-    },
-    {
-      "added_at": "2024-01-03 18:42:56",
-      "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
-        "name": "Bluebeard",
-        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 188468,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
-    },
-    {
-      "added_at": "2024-01-03 18:42:56",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 206013,
       "name": "Cool Jam",
       "url": "https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4"
+    },
+    {
+      "added_at": "2024-01-03 18:42:56",
+      "album": {
+        "name": "Bluebeard",
+        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 188468,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
-        "name": "The Years",
-        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
+        "name": "Garden Snake",
+        "url": "https://open.spotify.com/album/5ndQYno2ocWkZFdbsnNcmD"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "John-Robert",
+          "url": "https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j"
         }
       ],
-      "duration_ms": 160822,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl"
+      "duration_ms": 185000,
+      "name": "Road Trip",
+      "url": "https://open.spotify.com/track/7yXjeZ4Iw5R78hLXkRs3ku"
     },
     {
       "added_at": "2024-01-03 18:42:56",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-01-03 18:42:56",
       "album": {
-        "name": "Garden Snake",
-        "url": "https://open.spotify.com/album/5ndQYno2ocWkZFdbsnNcmD"
+        "name": "The Years",
+        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
       },
       "artists": [
         {
-          "name": "John-Robert",
-          "url": "https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Road Trip",
-      "url": "https://open.spotify.com/track/7yXjeZ4Iw5R78hLXkRs3ku"
+      "duration_ms": 160822,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl"
     }
   ],
   "unique_name": "Chill Folk",

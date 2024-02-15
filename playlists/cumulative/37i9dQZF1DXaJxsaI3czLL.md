@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-423 songs - 1 day 5 hr 49 min
+424 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Twinkle Stars \(feat\. BIM\)](https://open.spotify.com/track/2xOLmtjnAX12xklZD05SOw) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:46 | 2023-10-24 | 2023-11-30 |
 | [ukikusa](https://open.spotify.com/track/3ivnjXjOSK824zgeZuzCsZ) | [Beard](https://open.spotify.com/artist/3fm8mLgvvLfi3wFof8a8zN), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [ukikusa](https://open.spotify.com/album/3Svl3VxVlvyVWQUxJYekRe) | 4:18 | 2022-10-20 | 2022-10-26 |
 | [Under the Blue Sky in February](https://open.spotify.com/track/24dJcWeBneYoscgCMSgg80) | [Kohei Okutani](https://open.spotify.com/artist/5tihKbpd8nwdRbZcuIomTd) | [Under the Blue Sky in February](https://open.spotify.com/album/1vMofeVrrypr0vp9K6WwW6) | 5:30 | 2023-07-11 | 2023-07-19 |
-| [UNICORN](https://open.spotify.com/track/44MRKShx562b6moPwz1wI8) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [UNICORN](https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV) | 3:27 | 2024-02-13 |  |
+| [UNICORN](https://open.spotify.com/track/0DgGervwg1jBfFNFn7vKao) | [Nanaco Sato](https://open.spotify.com/artist/5jBW0pDTtDdHdYQnQu8iIN), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [Yusuke Sato](https://open.spotify.com/artist/6ekst7TqSc5t6qan4yEt0n) | [UNICORN](https://open.spotify.com/album/6wLYM2M4RLKsXSbcoR3NHe) | 3:27 | 2024-02-13 |  |
+| [UNICORN](https://open.spotify.com/track/44MRKShx562b6moPwz1wI8) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [UNICORN](https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV) | 3:27 | 2024-02-13 | 2024-02-15 |
 | [Unknown](https://open.spotify.com/track/73F0eYAZnToLIKZ9UmD2zj) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Unknown](https://open.spotify.com/album/1DrPgAzH0NM59iDqrThG4L) | 4:04 | 2023-06-13 |  |
 | [untitled\#2](https://open.spotify.com/track/5auq8vwft1NZNjrakIkpMO) | [Hiroya Komeiji](https://open.spotify.com/artist/5Fx1naUKjcRgDdTgsWy2Ha) | [夜の冒険者](https://open.spotify.com/album/1PzRD16sQcxA2eSRultLBg) | 3:52 | 2024-01-09 | 2024-01-17 |
 | [Utero](https://open.spotify.com/track/6Ni01Ptke62rV8WkAYiBMM) | [jan and naomi](https://open.spotify.com/artist/4V7c0eZEtXXBFJLY6WpSmT) | [Leeloo and Alexandra](https://open.spotify.com/album/1Qi0J8woiPDk8J8WltPdzb) | 4:44 | 2023-01-31 | 2023-05-24 |

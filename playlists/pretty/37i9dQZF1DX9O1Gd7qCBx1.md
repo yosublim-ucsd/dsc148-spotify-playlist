@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,748 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,752 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 45 | [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 |
 | 46 | [La Llorona](https://open.spotify.com/track/6zbHGeoaJjwQXXZLEiOJGG) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 6:20 |
 | 47 | [Recuérdame](https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:24 |
-| 48 | [Gracias A La Vida \- Remasterizado 1983](https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina Y El Mar \(Remasterizado 1983\)](https://open.spotify.com/album/4n8smL6EFarc0we2I7trAP) | 4:05 |
-| 49 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
+| 48 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
+| 49 | [Gracias A La Vida \- Remasterizado 1983](https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina Y El Mar \(Remasterizado 1983\)](https://open.spotify.com/album/4n8smL6EFarc0we2I7trAP) | 4:05 |
 | 50 | [Romance del Enamorado y la Muerte](https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Romance del Enamorado y la Muerte](https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js) | 3:34 |
 | 51 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 52 | [Son de Difuntos](https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:37 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 96 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
 | 97 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 98 | [Dimensión Astral](https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS), [Pavel Cal](https://open.spotify.com/artist/5Als1ZFRIWsXOBsNpDvVm9) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 3:29 |
-| 99 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
-| 100 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
+| 99 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
+| 100 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 
-Snapshot ID: `MCxlZGVkZDUwNjU5OWUxODg1Y2MzYjc4ZjVlM2U0ODAwNGVlZDM2NDhh`
+Snapshot ID: `MCxmYTI1YmQxZWM4YjUwMmJkNWZjNzZiOGY5ZDcyM2UxNjIyZTk4ZTMy`

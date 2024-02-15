@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,149 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,174 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 20 | [El Nazareno](https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 5:39 |
 | 21 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste En Salsa](https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I) | 4:26 |
 | 22 | [Señora De Madrugada](https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [A Mi Estilo...](https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf) | 5:49 |
-| 23 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
-| 24 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
+| 23 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
+| 24 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
 | 25 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
 | 26 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 27 | [El Menú](https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:12 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 33 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 |
 | 34 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
 | 35 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
-| 36 | [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 |
-| 37 | [Fuego A La Jicotea](https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 3:21 |
+| 36 | [Fuego A La Jicotea](https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 3:21 |
+| 37 | [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 |
 | 38 | [Lo Mio Es Amor \- En Vivo](https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:00 |
 | 39 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 40 | [Loco Pero Feliz](https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 49 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
 | 50 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 
-Snapshot ID: `MCwzNTkwMjVlNmNhMWRkYTFjMTJhNGY5NDVkMWFiNTFkNGJlMjAwMWM5`
+Snapshot ID: `MCxmMTA1ZTJkYTY0ZjhmMmI4MWNlNTFhNzIyZTNkOWRjMjg1MWM2MDVk`

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 2298,
+  "2024-02-15": 2303,
   "date_first_scraped": "2023-04-03",
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
   "name": "This Is Micah Tyler",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 191653,
       "name": "Love Lifted Me Up",
       "url": "https://open.spotify.com/track/1eleJrs2gUPqDpSRKCfXF3"
@@ -331,6 +331,32 @@
       "duration_ms": 242508,
       "name": "Mighty to Love",
       "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
+    },
+    {
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        },
+        {
+          "name": "Nickie Conley",
+          "url": "https://open.spotify.com/artist/5oCYtRBPryG7fs2gq6aqo1"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "My God Fights For Me (feat. Austin French & Nickie Conley)",
+      "url": "https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv"
     },
     {
       "album": {

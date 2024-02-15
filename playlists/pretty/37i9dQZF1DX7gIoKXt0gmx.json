@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2729508,
+  "num_followers": 2730017,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzcyNjE1OWZiYjQwNWRhZWZiOTNjZWM2NTI0MzY5N2IyNDJhNWIw",
+  "snapshot_id": "MCxjN2ZhMWI1OTZmMDAxMWIxYmZhYWU0MGI2MjA1M2I1MzlmNjAwNmNm",
   "tracks": [
     {
       "added_at": "2024-02-09 05:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Wicked Games",
-      "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 199120,
       "name": "Coaster",
       "url": "https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 77374,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 77374,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "Always (feat. Summer Walker) - Bonus",
-      "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "Always (feat. Summer Walker) - Bonus",
+      "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 205275,
       "name": "Over",
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+        "name": "Waiting For You (feat. Naomi Sharon)",
+        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         },
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 207294,
-      "name": "Unloyal (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
+      "duration_ms": 219998,
+      "name": "Waiting For You (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Waiting For You (feat. Naomi Sharon)",
-        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 219998,
-      "name": "Waiting For You (feat. Naomi Sharon)",
-      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+      "duration_ms": 207294,
+      "name": "Unloyal (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 151714,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 151714,
-      "name": "Throw It Away",
-      "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
         "name": "aiMless",
         "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 200214,
       "name": "Waiting For (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
+        "name": "BOZO",
+        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BOZO",
+      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -1679,6 +1695,26 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW"
+        }
+      ],
+      "duration_ms": 155355,
+      "name": "One Of Them Days (feat. Monica)",
+      "url": "https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7"
+    },
+    {
+      "added_at": "2024-02-09 05:01:00",
+      "album": {
         "name": "Passion, Pain & Pleasure (Deluxe Version)",
         "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
       },
@@ -1691,38 +1727,6 @@
       "duration_ms": 220373,
       "name": "Can't Be Friends",
       "url": "https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "SEPT 5TH",
-        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Hallucinations",
-      "url": "https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "It Was Divine",
-        "url": "https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6"
-      },
-      "artists": [
-        {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
-        }
-      ],
-      "duration_ms": 151462,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1tNK6PDCrJLEa2AQBCEfjP"
     }
   ],
   "unique_name": "All The Feels",

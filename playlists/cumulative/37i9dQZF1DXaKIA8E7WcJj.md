@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-834 songs - 1 day 19 hr 41 min
+835 songs - 1 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [She's Not There](https://open.spotify.com/track/3dzW0SoVNyJTWWJimX8stj) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:25 | 2022-06-08 | 2022-10-14 |
 | [She's Not There](https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:25 | 2022-08-12 | 2024-01-18 |
 | [She's Not There](https://open.spotify.com/track/1fibb2CBsQPBrSePsMcmPe) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [The Zombies](https://open.spotify.com/album/6hYm5Z3B3wRzu8QZhESIPJ) | 2:25 | 2019-06-23 | 2021-10-13 |
+| [She's Not There](https://open.spotify.com/track/6s6jmTumtDJGOB725jMJ8z) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 2:26 | 2022-08-12 |  |
 | [Sheila](https://open.spotify.com/track/567I3MNucUhkqZX9diIrDU) | [Tommy Roe](https://open.spotify.com/artist/7t4XHvWfj0XtEB8SNFeALw) | [Greatest Hits \- The Original ABC Hit Recordings](https://open.spotify.com/album/3AfmsGYKiws10yXVqaJQDt) | 2:05 | 2019-08-01 | 2019-08-04 |
 | [Sherry](https://open.spotify.com/track/2dhwZ8n7OCodPQUJ5fT0ex) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:32 | 2019-06-22 | 2021-10-16 |
 | [Sherry](https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Sherry and 11 Other Hits](https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE) | 2:32 | 2020-08-22 | 2020-08-27 |
@@ -659,7 +660,7 @@
 | [Surfin' Bird](https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:17 | 2020-12-22 | 2021-05-28 |
 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 | 2019-05-29 |  |
 | [Suspicious Minds](https://open.spotify.com/track/6KDG8vvFerlCU63IXdw1zb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 4:32 | 2019-05-26\* | 2022-07-29 |
-| [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2019-06-25 |  |
+| [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2019-06-25 | 2024-02-15 |
 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 | 2020-08-22 | 2021-07-27 |
 | [Sweet And Dandy](https://open.spotify.com/track/7pSPnwI0Uk47bUM8g0ubDd) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Toots & The Maytals \- Pressure Drop](https://open.spotify.com/album/3KbC2PqMhUfvCiMXqU2Kbp) | 2:57 | 2019-07-21 | 2019-08-04 |
 | [Sweet Caroline](https://open.spotify.com/track/3zByVQLvdXUaDTubfWkpCk) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/3aLKBtYt2B0XdLaTtBzF2n) | 3:23 | 2019-05-26\* | 2022-07-28 |

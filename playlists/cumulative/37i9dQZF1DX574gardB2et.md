@@ -2,7 +2,7 @@
 
 ### [Hit Repeat](https://open.spotify.com/playlist/37i9dQZF1DX574gardB2et)
 
-> The hits you just keep coming back to\. Cover: Olivia Rodrigo
+> The hits you just keep coming back to\. Cover: Harry Styles
 
 96 songs - 5 hr 26 min
 

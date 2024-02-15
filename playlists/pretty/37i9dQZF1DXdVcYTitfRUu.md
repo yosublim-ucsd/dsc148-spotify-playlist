@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,159 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,170 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 44 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 |
 | 45 | [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 |
 | 46 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
-| 47 | [O \(Circle\)](https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Circle \- The 1st Album](https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ) | 3:17 |
-| 48 | [Hello](https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY) | 4:04 |
+| 47 | [Hello](https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY) | 4:04 |
+| 48 | [O \(Circle\)](https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Circle \- The 1st Album](https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ) | 3:17 |
 | 49 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 50 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 | 51 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 73 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
 | 74 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 |
 | 75 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 |
-| 76 | [Alarm](https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [My Lovely Liar, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT) | 3:19 |
-| 77 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
+| 76 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
+| 77 | [Alarm](https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [My Lovely Liar, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT) | 3:19 |
 | 78 | [Love..What is it](https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Love..What is it](https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4) | 3:45 |
 | 79 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 |
 | 80 | [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 |
 
-Snapshot ID: `MCw1ZWM0ODdjNTE0NjAzNGVkODBhNTk4ZGIyMGNkMWVkZGZiMzBlMGU3`
+Snapshot ID: `MCw0Yzc3NDg5MTEyNDA0N2Q5YTVmMjkzNWI5ZWI1MTE3OGI3ZDZhNTU4`

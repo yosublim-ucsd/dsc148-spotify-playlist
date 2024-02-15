@@ -1,7 +1,7 @@
 {
-  "2024-02-14": 75562,
+  "2024-02-15": 76088,
   "date_first_scraped": "2023-01-13",
-  "description": "resurging tracks coming in hot. cover: Natasha Bedingfield in her Unwritten era ",
+  "description": "resurging tracks coming in hot. cover: Usher and Alicia Keys in their My Boo era",
   "name": "reheat",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 208186,
       "name": "...Ready For It?",
       "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
@@ -168,6 +168,28 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -284,6 +306,24 @@
     },
     {
       "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+    },
+    {
+      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
@@ -387,6 +427,24 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE"
     },
     {
       "album": {
@@ -495,7 +553,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -538,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "Daddy Lessons",
+      "url": "https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -553,6 +629,28 @@
       "duration_ms": 260252,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/6bnDvfVdO3LarvcpWEzmeD"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/28AUzRo0nQLESL55WDV0um"
     },
     {
       "album": {
@@ -780,6 +878,24 @@
     },
     {
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196040,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+    },
+    {
+      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -809,10 +925,32 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+    },
+    {
+      "album": {
+        "name": "Kings Of Crunk",
+        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334066,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
     },
     {
       "album": {
@@ -947,7 +1085,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
@@ -1080,6 +1218,42 @@
     },
     {
       "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Hey Daddy (Daddy's Home)",
+      "url": "https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3"
+    },
+    {
+      "album": {
+        "name": "Human Clay",
+        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316733,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+    },
+    {
+      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
@@ -1135,7 +1309,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -1175,10 +1349,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 200059,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+    },
+    {
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "album": {
@@ -1443,7 +1635,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 266773,
       "name": "Look After You",
       "url": "https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL"
@@ -1522,6 +1714,28 @@
     },
     {
       "album": {
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259720,
+      "name": "Love in This Club (feat. Young Jeezy)",
+      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+    },
+    {
+      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1555,6 +1769,50 @@
       "duration_ms": 224000,
       "name": "Love On The Brain",
       "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+    },
+    {
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
+    },
+    {
+      "album": {
+        "name": "Crunk Juice",
+        "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260600,
+      "name": "Lovers And Friends",
+      "url": "https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62"
     },
     {
       "album": {
@@ -1826,6 +2084,28 @@
     },
     {
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "album": {
         "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
@@ -1855,7 +2135,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 191796,
       "name": "Need 2",
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
@@ -1917,6 +2197,50 @@
       "duration_ms": 290493,
       "name": "Never Let Me Down Again - 2006 Remaster",
       "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
+    },
+    {
+      "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244226,
+      "name": "New Flame (feat. Usher & Rick Ross)",
+      "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
+    },
+    {
+      "album": {
+        "name": "Jennifer's Body Music From The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ"
     },
     {
       "album": {
@@ -2041,6 +2365,24 @@
       "duration_ms": 264653,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
+    },
+    {
+      "album": {
+        "name": "The Virgo Mixtape, Vol. 2",
+        "url": "https://open.spotify.com/album/1n3tQnNz7XIqeAeplYYftR"
+      },
+      "artists": [
+        {
+          "name": "Jae Millz",
+          "url": "https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272352,
+      "name": "OMG (Young Money Remix)",
+      "url": "https://open.spotify.com/track/0181HMomm7xM3Ks5YNlA9X"
     },
     {
       "album": {
@@ -2246,6 +2588,42 @@
     },
     {
       "album": {
+        "name": "Red Kingdom",
+        "url": "https://open.spotify.com/album/3dWpMOAVUkJCicbyHyFa7L"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Red Kingdom",
+      "url": "https://open.spotify.com/track/5buj0D6E7rCRFi3xV9STYo"
+    },
+    {
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "Red Solo Cup",
+      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
+    },
+    {
+      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -2326,6 +2704,24 @@
     },
     {
       "album": {
+        "name": "Looking 4 Myself (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/12eMQUn2GzfsfsQLH53M19"
+    },
+    {
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -2363,6 +2759,24 @@
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219209,
+      "name": "Shake It Off (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
     },
     {
       "album": {
@@ -2500,6 +2914,24 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/3rLIv187BhjyweFe89SgLn"
+    },
+    {
+      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -2515,7 +2947,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
@@ -2587,7 +3019,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 264773,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1"
@@ -2649,6 +3081,28 @@
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "album": {
+        "name": "Jamboree",
+        "url": "https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp"
+      },
+      "artists": [
+        {
+          "name": "F.L.Y. (Fast Life Yungstaz)",
+          "url": "https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr"
+        },
+        {
+          "name": "Easton",
+          "url": "https://open.spotify.com/artist/78k3njwzksywc3rWTY7ZYN"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Swag Surfin'",
+      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
     },
     {
       "album": {
@@ -2717,7 +3171,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 293293,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
@@ -2779,7 +3233,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -2797,7 +3251,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
@@ -2859,7 +3313,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
@@ -2899,6 +3353,28 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "album": {
+        "name": "Turn Down for What",
+        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Turn Down for What",
+      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
     },
     {
       "album": {
@@ -3073,7 +3549,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -3091,7 +3567,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 427333,
       "name": "We Are The World",
       "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
@@ -3251,6 +3727,50 @@
       "duration_ms": 229720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+    },
+    {
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    },
+    {
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231124,
+      "name": "You Belong With Me (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA"
     },
     {
       "album": {

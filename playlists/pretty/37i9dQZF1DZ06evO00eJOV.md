@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 
 > This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,838 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,842 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 7 | [My Baby](https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 6:14 |
 | 8 | [Black President](https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 4:30 |
 | 9 | [Istraight Le Ndaba](https://open.spotify.com/track/7qoPu9OMcp56rieRncfF6J) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:53 |
-| 10 | [Soon And Very Soon](https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs) | [Children Of God](https://open.spotify.com/artist/2DPySSVd2uQRDoUIMA9pEq), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Soon And Very Soon](https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs) | 4:21 |
-| 11 | [Mpundulu](https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:35 |
+| 10 | [Mpundulu](https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:35 |
+| 11 | [Soon And Very Soon](https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs) | [Children Of God](https://open.spotify.com/artist/2DPySSVd2uQRDoUIMA9pEq), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Soon And Very Soon](https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs) | 4:21 |
 | 12 | [Memeza](https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 13 | [Too Late For Mama](https://open.spotify.com/track/5HQ1TGuNCF13mtH2HF39w0) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:57 |
 | 14 | [Ngizilalhlela Kuwe](https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 49 | [Romantic World](https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [I Am Not A Bad Girl](https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y) | 4:48 |
 | 50 | [Somlandela](https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:51 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA2ZDRmMmU2NmVhYTIyNWZmMDFjMGM4YTNjMmQ2MWMzZQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAwNDkzOTFhYTM4MzU1MTFjYWQ1ZGY0ZGNlNmVmNjJkMQ==`

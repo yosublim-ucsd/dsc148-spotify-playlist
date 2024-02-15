@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 191377,
+  "num_followers": 191573,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjNjNTAxNTE2ODcwOWRiM2I4M2JmYTYzNDRmOTEyMzk5YzJlZjg4",
+  "snapshot_id": "MCw4YTk0NmY4OTQ4Njk5ZWI2OTcxZjgyY2YxY2I0ZGY0YTVmN2Y1MTVk",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-01-26 00:01:00",
       "album": {
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
         "name": "The Voice of Q",
         "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 353000,
       "name": "For You - Original Album",
       "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2024-01-26 00:01:00",

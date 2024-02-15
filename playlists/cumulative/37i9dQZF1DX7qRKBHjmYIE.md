@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Santi Muk.
 
-654 songs - 1 day 11 hr 31 min
+655 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Cuando Me Llamas](https://open.spotify.com/track/7nYjLUuPn9AcN7E5I4JxNT) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [Hi, My Name Is Pily!](https://open.spotify.com/album/0BY889b9xuODwIoLkB49oM) | 2:36 | 2021-12-02 | 2022-01-25 |
 | [cuando me pides más](https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [cuando me pides más](https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG) | 4:19 | 2023-08-04 | 2023-08-26 |
 | [Cuenta Lo](https://open.spotify.com/track/549VARqe57rM5u8vkzTPgs) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Cuenta Lo](https://open.spotify.com/album/3iieIKdHUhtM7xNO1zLJ9X) | 3:05 | 2021-12-02 | 2022-01-25 |
-| [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 | 2023-11-03 |  |
+| [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 | 2023-11-03 | 2024-02-15 |
 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 | 2023-09-29 | 2023-10-14 |
 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 | 2023-02-17 | 2023-08-26 |
 | [Dame La Fuerza](https://open.spotify.com/track/2wwR4qlbSQfis9aplck8uL) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Dame La Fuerza](https://open.spotify.com/album/3416M8gZILto23Fqxa7t9m) | 2:53 | 2021-12-02 | 2022-01-29 |
@@ -203,6 +203,7 @@
 | [escribiendo TKM](https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [escribiendo TKM](https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO) | 2:25 | 2024-01-12 |  |
 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 | 2023-09-29 | 2023-10-14 |
 | [estrella](https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [estrella / nadie](https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5) | 2:46 | 2023-10-13 | 2024-01-13 |
+| [Estrellas en la Oscuridad](https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [El Abismo](https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc) | 3:43 | 2024-02-09 |  |
 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 | 2023-04-13 | 2023-08-26 |
 | [Falling](https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Young In California](https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP) | 3:45 | 2023-09-15 |  |
 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 | 2022-07-22 | 2022-10-28 |

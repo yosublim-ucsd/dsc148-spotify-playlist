@@ -4,7 +4,7 @@
 
 > Flow sudamericano con Gino Mella & Lauty Gram.
 
-1,116 songs - 2 day 9 hr 34 min
+1,117 songs - 2 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,7 +1069,8 @@
 | [Vampira](https://open.spotify.com/track/5XSgKll9zmbaCfaksw3txA) | [Valen Etchegoyen](https://open.spotify.com/artist/68605Nj80pgfMzs2fr8fZs) | [Vampira](https://open.spotify.com/album/14Qru60G7YijgcZsu2ANrA) | 2:26 | 2023-09-29 | 2023-10-07 |
 | [Vandalo](https://open.spotify.com/track/6RGoOIzdvOIS59jVaWGJGB) | [Godo](https://open.spotify.com/artist/7tfILFKScRBGGdo0GQkbB9), [Agxsh](https://open.spotify.com/artist/2TgqMoMI4MkFYJlY2eUnzA), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [VANDALO](https://open.spotify.com/album/6cNb3gCX3zZ4Y0JjIdRJUC) | 3:32 | 2022-01-03 | 2022-04-08 |
 | [Vaso de Jugo](https://open.spotify.com/track/4QQywDlio0Mm1CE8uCICrP) | [Mks](https://open.spotify.com/artist/6v36LGGRNEleSpAd2zAeQL), [Saltyproducer](https://open.spotify.com/artist/6bst6aWgmaVH3RIJkSvPxs) | [Vaso de Jugo](https://open.spotify.com/album/6zI9XcLfk4oMVOJ6Gj0qQ2) | 2:20 | 2022-01-03 | 2022-03-30 |
-| [Vengo De La Brea](https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Vengo De La Brea](https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO) | 2:30 | 2023-03-07 |  |
+| [Velorio](https://open.spotify.com/track/626DP2Pk2gFMQBUlWqulvZ) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Chili Parker](https://open.spotify.com/artist/0N0TOGZTDvGvMfpjhnrECs) | [Velorio](https://open.spotify.com/album/0UwrKsl4nvixGG6RBKE0Df) | 4:10 | 2024-02-14 |  |
+| [Vengo De La Brea](https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Vengo De La Brea](https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO) | 2:30 | 2023-03-07 | 2024-02-15 |
 | [Vengo del Sur](https://open.spotify.com/track/5KEvXod6i7geHNWxrdrzuc) | [Basek](https://open.spotify.com/artist/6MOyW5A4U8MlcX87Mssnhm), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Vengo del Sur](https://open.spotify.com/album/42rUuZdLajJK7JHXghykdd) | 2:44 | 2023-08-18 | 2023-08-23 |
 | [Ventrílocuo](https://open.spotify.com/track/1y6vAhoi5Z3zYAWKzVYDWE) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Hiperbórea](https://open.spotify.com/album/2Uhbo2j8Mcb5LCaOa8oWIn) | 2:26 | 2022-03-18 | 2022-04-05 |
 | [Verificada](https://open.spotify.com/track/6wIByDvOQvyjqR3hBtOECG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/3WfkSS2h0jiJedZwYVmOsq) | 2:38 | 2022-01-03 | 2022-04-09 |

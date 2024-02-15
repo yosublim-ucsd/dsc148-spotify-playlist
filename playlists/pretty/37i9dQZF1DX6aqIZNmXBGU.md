@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,394 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,391 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 26 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 |
 | 27 | [I'm Not Making out With You](https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sad Boys](https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C) | 2:39 |
 | 28 | [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 |
-| 29 | [My Wave](https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:12 |
-| 30 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
+| 29 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
+| 30 | [My Wave](https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:12 |
 | 31 | [My Lady's On Fire](https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/5BInay8c4KClHpYL94IBed) | 3:52 |
 | 32 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
 | 33 | [Stay Away](https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Hot Wax](https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z) | 3:29 |
 | 60 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
 
-Snapshot ID: `MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3`
+Snapshot ID: `MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk`

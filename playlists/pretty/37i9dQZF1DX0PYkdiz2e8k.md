@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > Hated is out! Foto: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,567 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,587 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 29 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
 | 30 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
 | 31 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
-| 32 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
-| 33 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 32 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 33 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
 | 34 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 |
 | 35 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 |
 | 36 | [Confident \- Rock Version](https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Rock Version\)](https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1) | 3:25 |
-| 37 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
-| 38 | [My Head](https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [My Head](https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL) | 1:46 |
-| 39 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
-| 40 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
-| 41 | [NOCTURNAL](https://open.spotify.com/track/2NNQrhFaCywALVivFzZQ0h) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:46 |
+| 37 | [My Head](https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [My Head](https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL) | 1:46 |
+| 38 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
+| 39 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
+| 40 | [NOCTURNAL](https://open.spotify.com/track/2NNQrhFaCywALVivFzZQ0h) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:46 |
+| 41 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 42 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 |
 | 43 | [under \(feat\. phem\)](https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [under \(feat\. phem\)](https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM) | 2:17 |
 | 44 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
 | 45 | [cold cold cold](https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [isolation demos](https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu) | 2:34 |
 | 46 | [grave inside my head](https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK) | [GUTTER](https://open.spotify.com/artist/4crqbpbdd2bQuRbuWL07RS), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [grave inside my head](https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk) | 2:00 |
-| 47 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
-| 48 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 |
+| 47 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 |
+| 48 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
 | 49 | [indieedgycool](https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 2:26 |
 | 50 | [fmk \(with blackbear\) \- messier](https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\) \[messier\]](https://open.spotify.com/album/6awuYwlqz9cN5h3yCOffbg) | 3:06 |
 
-Snapshot ID: `MCw0NWVmMjE0MjE4MDBkNmI0MTNjNTI5NWMxNTIzN2E3MDdjOTg1Yjg2`
+Snapshot ID: `MCxhZTQ5ODE2OTQ2ZmNkOWRlNDA4NzgzMTdlNzU4OTRiODY1NGIxZGVh`

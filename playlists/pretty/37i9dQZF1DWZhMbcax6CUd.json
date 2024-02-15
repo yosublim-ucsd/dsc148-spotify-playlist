@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 56483,
+  "num_followers": 56499,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDJkYTVlMDg5NDhhMzNhN2M5OGU1ZmMzYWQwOWY1YmU0MjM0NGIy",
+  "snapshot_id": "MCwyYWU0MDU1MWQzZGE1ZGU0MWQzMWUyYmYyNTRlYjY5NjJjNjJmNmU3",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
-        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        }
-      ],
-      "duration_ms": 389213,
-      "name": "Ravel: String Quartet, M. 35: II. Assez vif - Tr\u00e8s rythm\u00e9",
-      "url": "https://open.spotify.com/track/5erj8jK6bq8MWFnDVv2HtI"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Classical Creations",
         "url": "https://open.spotify.com/album/4rKQ7b27v4d3KCz72mubGx"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 199066,
       "name": "Trois chansons, M.69: 2. Trois beaux oiseaux du Paradis",
       "url": "https://open.spotify.com/track/1ryIM6NJH9i7gIPuMcC9Fc"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        }
+      ],
+      "duration_ms": 389213,
+      "name": "Ravel: String Quartet, M. 35: II. Assez vif - Tr\u00e8s rythm\u00e9",
+      "url": "https://open.spotify.com/track/5erj8jK6bq8MWFnDVv2HtI"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -571,6 +571,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
+      "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Saint-Sa\u00ebns, Ravel & Gershwin: Piano Concertos",
         "url": "https://open.spotify.com/album/6VSsWHlosgJ4sVTJxir9ve"
       },
@@ -595,30 +619,6 @@
       "duration_ms": 563960,
       "name": "Ravel: Piano Concerto in G Major, M. 83: II. Adagio assai",
       "url": "https://open.spotify.com/track/290yNtxtichwwjU8n7NEGm"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
-      "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -791,30 +791,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
-      "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Orchestral Works, Vol. 1",
         "url": "https://open.spotify.com/album/4n3wUSXoAsY630IbePkAAx"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 395293,
       "name": "Menuet antique (version for orchestra)",
       "url": "https://open.spotify.com/track/1lNYA7pVMt0qBpHK2nMJqy"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
+      "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Miroirs, Gaspard de la nuit & Pavane pour une infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/04GCmTgKEXp90EUZoG2Kdj"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Carlo Grante",
-          "url": "https://open.spotify.com/artist/7y5puJ1Dk69nBH8ccUSKCD"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Miroirs, M. 43: No. 2. Oiseaux tristes",
-      "url": "https://open.spotify.com/track/64lpFLGwcXNgCnYELyZBpl"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
         "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 153200,
       "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
       "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Miroirs, Gaspard de la nuit & Pavane pour une infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/04GCmTgKEXp90EUZoG2Kdj"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Carlo Grante",
+          "url": "https://open.spotify.com/artist/7y5puJ1Dk69nBH8ccUSKCD"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Miroirs, M. 43: No. 2. Oiseaux tristes",
+      "url": "https://open.spotify.com/track/64lpFLGwcXNgCnYELyZBpl"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
-        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Ivo Pogorelich",
-          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Miroirs, Gaspard de la nuit, Pavane",
         "url": "https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 367946,
       "name": "Miroirs: IV. Alborada del gracioso, M. 43",
       "url": "https://open.spotify.com/track/74Nh6QlxHbsV02QkX4jvlM"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
+        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Ivo Pogorelich",
+          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
-        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Beaux Arts Trio",
-          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Piano Trio in A minor, M. 67: 4. Final (Anim\u00e9)",
-      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Miroirs - Ravel Piano Works",
         "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 307000,
       "name": "Miroirs, M. 43: I. Noctuelles",
       "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
+        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Beaux Arts Trio",
+          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Piano Trio in A minor, M. 67: 4. Final (Anim\u00e9)",
+      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
     },
     {
       "added_at": "2022-06-27 09:54:23",

@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 544592,
+  "num_followers": 544827,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGUzOTU0ZDNlOGUzN2M1YzFhMjMyYmY5OWVmZjFhYTRiZWVmN2Iw",
+  "snapshot_id": "MCxlZWQ1MDk0ZTgyOTg5NGFlNTkwZThjOTNlMzVkNTRjY2FmYTIwMzc3",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Deus de Promessas",
         "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Andando na Luz",
-        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 348499,
-      "name": "H\u00e1 um Lugar",
-      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Ana N\u00f3brega (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 342353,
-      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "O Maior Trof\u00e9u",
         "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 311280,
       "name": "O Maior Trof\u00e9u",
       "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Ana N\u00f3brega (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 342353,
+      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM"
     },
     {
       "added_at": "2023-10-13 16:02:51",

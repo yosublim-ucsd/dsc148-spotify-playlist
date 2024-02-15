@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 
 > Que la calle te acompañe al conducir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,553 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,637 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 16 | [Si Me Sobrara el Tiempo](https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Si Me Sobrara el Tiempo](https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB) | 2:48 |
 | 17 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 |
 | 18 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
-| 19 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
+| 19 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 20 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 |
-| 21 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
+| 21 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
 | 22 | [Bombos y Tarolas](https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH) | 4:52 |
 | 23 | [Par de Dosis](https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Par de Dosis](https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2) | 3:51 |
 | 24 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 39 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 | 40 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 |
 | 41 | [Cómo Diamante](https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 3:27 |
-| 42 | [Tío Rico](https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tío Rico](https://open.spotify.com/album/5tEe1EwA2IOzNrYiy2eFT6) | 3:20 |
-| 43 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 |
+| 42 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 |
+| 43 | [Tío Rico](https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tío Rico](https://open.spotify.com/album/5tEe1EwA2IOzNrYiy2eFT6) | 3:20 |
 | 44 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 |
 | 45 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 |
 | 46 | [Liga Malandra 2](https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Unex Msc](https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX) | [Liga Malandra 2](https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 49 | [Manejando Bien Rápido](https://open.spotify.com/track/5Ek7uFR8PbqMRgbIqzCGJ4) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Trap y No Llores](https://open.spotify.com/album/09MLjnMTZLMQqgNeGokq7r) | 3:40 |
 | 50 | [By My Own](https://open.spotify.com/track/1XiptdPHH8raaPDU3gdrWW) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [By My Own](https://open.spotify.com/album/45A5aSPBspEdUdYgWDW0B4) | 3:40 |
 
-Snapshot ID: `MCw4MjUxMWNjMGVmYjM1Y2E5OTQ0Y2ZjZDhiZTU0MWYzMDJiYTVhZTA3`
+Snapshot ID: `MCw0MDkzMWYwNDMyMWNhM2I1YTVkMWU0NDE3N2M3NjI0NmJiMTNlZjM4`

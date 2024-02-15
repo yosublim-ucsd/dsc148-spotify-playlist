@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-612 songs - 1 day 17 hr 4 min
+613 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2023-10-24 | 2024-01-19 |
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-30 | 2024-02-14 |
 | [hikari no toriru](https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [hikari no toriru](https://open.spotify.com/album/18zrUwavFbepselMuuGsb6) | 3:44 | 2024-01-18 | 2024-02-14 |
+| [Hitorino Yoru \- From CrosSing](https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN) | 4:06 | 2024-02-13 |  |
 | [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-12 | 2022-07-12 |
 | [How I Feel](https://open.spotify.com/track/6vhbmnWDKcv7EWDl88UEn0) | [釘宮理恵](https://open.spotify.com/artist/0sYLX0bH7aVvJlpiGuYA3f) | [kokohadoko](https://open.spotify.com/album/54ZZMfzVQFHIoEbZEDlh9p) | 4:36 | 2022-06-12 | 2022-06-24 |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-02-21 | 2023-05-10 |
@@ -457,7 +458,7 @@
 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 | 2022-06-24 |  |
 | [ヒカリイロの歌](https://open.spotify.com/track/1wGtjIVbAXPC7z4IFWQE4D) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [ring A ring](https://open.spotify.com/album/6iBnATap8lt6K905bqwuS7) | 4:19 | 2022-06-24 | 2022-07-26 |
 | [ヒトリとキミと](https://open.spotify.com/track/7Lr6zxhUdO5mwu5pGItYAu) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ヒトリとキミと](https://open.spotify.com/album/2aa4H5EqIp2nYaI7d6x59X) | 4:21 | 2022-06-14 | 2022-07-27 |
-| [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/album/2eBtB6yN4jRfMe9zER6af3) | 4:06 | 2024-02-13 |  |
+| [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/album/2eBtB6yN4jRfMe9zER6af3) | 4:06 | 2024-02-13 | 2024-02-15 |
 | [ヒロイン育成計画](https://open.spotify.com/track/7aUWoXJ28h7EkR41ehjoeZ) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [ヒロイン育成計画](https://open.spotify.com/album/5vg3enUWPinQiSkdRIs0Ej) | 3:38 | 2022-07-07 | 2022-07-25 |
 | [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-16 | 2022-09-29 |
 | [ピンキーフック](https://open.spotify.com/track/0VYYvHAZPLPU36fLB8ko1S) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [ピンキーフック](https://open.spotify.com/album/0phcqbKgsgFl6sj6ZvK3BR) | 4:15 | 2022-06-24 | 2022-06-28 |

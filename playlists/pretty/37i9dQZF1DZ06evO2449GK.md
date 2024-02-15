@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,019 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,064 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 2 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 |
 | 3 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 |
 | 4 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
-| 5 | [Medellificación](https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Medellificación](https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP) | 3:52 |
-| 6 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 |
+| 5 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 |
+| 6 | [Medellificación](https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Medellificación](https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP) | 3:52 |
 | 7 | [Sancocho en Leña](https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7) | 2:56 |
 | 8 | [Baño de Ruda](https://open.spotify.com/track/1RonotN63dWXzprapZyw3w) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/6dlkv3zp2mKTfDaoaAAV7h) | 3:09 |
 | 9 | [Normal](https://open.spotify.com/track/4cw8AKmO7y8hAysNMLan4I) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:21 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 32 | [El Salón de la Injusticia](https://open.spotify.com/track/5KCegoON1Q2cvb2ECIuZsa) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:50 |
 | 33 | [Una Resaca Mas](https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:58 |
 | 34 | [Erre Con Erre](https://open.spotify.com/track/5iPQitG8WySYGfvN8Zogu9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6) | 3:27 |
-| 35 | [Feliz Si Es Raro](https://open.spotify.com/track/6rjp4oXVz8URtGWWM3jTWs) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:34 |
+| 35 | [Terapia de Grupo](https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 2:46 |
 | 36 | [El Ritual](https://open.spotify.com/track/1sWyFCxCG38zZDlEZFQ0Cc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:26 |
 | 37 | [La Revancha de los Timidos](https://open.spotify.com/track/44XNwAUXOV4A8BcX8p9cGj) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jannyval](https://open.spotify.com/artist/3F14vlNUYXHRT40gJqNIi9) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:13 |
 | 38 | [Rifo los Lunes](https://open.spotify.com/track/66IPFhhD4eLjUht9WD4b9p) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6) | 3:35 |
-| 39 | [Terapia de Grupo](https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 2:46 |
+| 39 | [Feliz Si Es Raro](https://open.spotify.com/track/6rjp4oXVz8URtGWWM3jTWs) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:34 |
 | 40 | [El Reino de los Suelos \(2.007\)](https://open.spotify.com/track/6dUyJurwUU2zccnyrJ4g4b) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 4:36 |
 | 41 | [Clapzz](https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:49 |
 | 42 | [Balada para No Dormir \- Bonus Track](https://open.spotify.com/track/1HE0o9BFJ0alWtLdi1fXfY) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6) | 3:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 48 | [Acrobacias \(2.007\)](https://open.spotify.com/track/7796SnZZbQ1CHzs6yW6sFx) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 6:13 |
 | 49 | [El Show Debe Continuar](https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:04 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAyMTdhMmI3NmVkYjg3OTg3NzZmZTg2Y2Y0MmYwODMwNw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA3NzY1NjZkNjA1ZTI1OGY4NDNlNzY4YjdmYjZhYjE4ZA==`

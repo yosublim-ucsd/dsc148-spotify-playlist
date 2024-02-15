@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now!  Cover: My Hair is Bad
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,158 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,260 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 6 | [The Good Life](https://open.spotify.com/track/4557IsgjMtoOyFTAtkpHvh) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [The Good Life](https://open.spotify.com/album/4f8XLvx5R7ZhdjyYsV0cE4) | 3:06 |
 | 7 | [白いマフラー](https://open.spotify.com/track/1O9zYKBq0tVW4KfpckJk9a) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [白いマフラー](https://open.spotify.com/album/1zZMAnL9iu7aydiQGGP0sF) | 4:18 |
 | 8 | [Danger Boy](https://open.spotify.com/track/1KEc3W0f5GxJfeCsxlknIk) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Danger Boy](https://open.spotify.com/album/4Qh4rjZXolyW7DAX6ZATWa) | 3:14 |
-| 9 | [春荒らし](https://open.spotify.com/track/0P3S2XjVi8AzTGCcshYKhT) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ビアトリス](https://open.spotify.com/album/15s87sPhqCsoeUXfPdnEA2) | 4:50 |
+| 9 | [Haru Arashi](https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Beatrice](https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA) | 4:50 |
 | 10 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
-| 11 | [夕日、刺さる部屋](https://open.spotify.com/track/1tFMW0Ca7Fvh3ekXNK4zGg) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [夕日、刺さる部屋](https://open.spotify.com/album/5wHWqSB2cJ4v2CXNCXa2mU) | 3:13 |
+| 11 | [Yuuhi Sasaru Heya](https://open.spotify.com/track/2nK5yfiQ8SuorCXJeJLAMX) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Yuuhi Sasaru Heya](https://open.spotify.com/album/5w6CXsVtKirb9AaXarMNtw) | 3:13 |
 | 12 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
 | 13 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 |
 | 14 | [デッドエンド](https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [E.](https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR) | 2:53 |
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 53 | [切手のないおくりもの](https://open.spotify.com/track/1kVL0b3nQfoFhClBCuKFM5) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [JUICE UP!!](https://open.spotify.com/album/37KhIsdSPhactF4XrvJyds) | 1:57 |
 | 54 | [TWO PAIR](https://open.spotify.com/track/6eH2YDQSj7MIRLJK0atU4o) | [武藤昭平](https://open.spotify.com/artist/46IUkjzAgmkppFlKhQaVe1) | [TWO PAIR](https://open.spotify.com/album/1ZHotr51clL8WOsXRz8HIK) | 4:11 |
 | 55 | [I](https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [I](https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB) | 3:21 |
-| 56 | [UNICORN](https://open.spotify.com/track/44MRKShx562b6moPwz1wI8) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [UNICORN](https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV) | 3:27 |
+| 56 | [UNICORN](https://open.spotify.com/track/0DgGervwg1jBfFNFn7vKao) | [Nanaco Sato](https://open.spotify.com/artist/5jBW0pDTtDdHdYQnQu8iIN), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [Yusuke Sato](https://open.spotify.com/artist/6ekst7TqSc5t6qan4yEt0n) | [UNICORN](https://open.spotify.com/album/6wLYM2M4RLKsXSbcoR3NHe) | 3:27 |
 | 57 | [BLACK MEMORY](https://open.spotify.com/track/5XyC4vVIFnMvpnh5StApxw) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Kisses and Kills](https://open.spotify.com/album/3pepTeuEGPpmGF3oOwboo0) | 4:12 |
 | 58 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 59 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 |
 | 60 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 61 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
-| 62 | [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 |
-| 63 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 |
+| 62 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 |
+| 63 | [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 |
 | 64 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 |
 | 65 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 |
 | 66 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
 | 80 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
 
-Snapshot ID: `MCw2YjQ4NmJiMDA5MmQyZDY4NmM0NTFlZjI3MWE1YWJmMTc4NzgxZjk2`
+Snapshot ID: `MCxiODM0MmUyMzQ2ZGY4YTFkNzMwMTYyMmJmODFjMzFiMWE4YjJjY2Fl`

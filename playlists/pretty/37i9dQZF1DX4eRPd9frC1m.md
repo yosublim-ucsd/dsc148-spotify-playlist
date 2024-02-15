@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,584,081 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,584,223 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 45 | [Wake Up](https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Wake Up](https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw) | 5:16 |
 | 46 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 |
 | 47 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 |
-| 48 | [Can We Be Free](https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [Can We Be Free](https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP) | 3:18 |
-| 49 | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/album/01xr9so8umOVL5bwL82noG) | 3:02 |
+| 48 | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/album/01xr9so8umOVL5bwL82noG) | 3:02 |
+| 49 | [Can We Be Free](https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [Can We Be Free](https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP) | 3:18 |
 | 50 | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Trollphace](https://open.spotify.com/artist/0OJ5ViZQUFL6ileg5HvKKy) | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE) | 3:46 |
 | 51 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 |
 | 52 | [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 | 75 | [TIKTOK](https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [TIKTOK](https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3) | 2:30 |
 
-Snapshot ID: `MCwwMzAwNGU0YmI2MGZmNjM0MTk5YzliY2YzODJlNThiZTlhMWIxZjIz`
+Snapshot ID: `MCxmYzQ4MzQwNGEyYzUzMzZmOTQxYWRkNTVjNGFmOTE3ODNlOWY2ZWE0`

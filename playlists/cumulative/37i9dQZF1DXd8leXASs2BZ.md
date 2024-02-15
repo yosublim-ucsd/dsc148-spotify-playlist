@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-232 songs - 10 hr 37 min
+235 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Green Hill](https://open.spotify.com/track/5ges7BvLIO7V4UWCX7XiTC) | [Robbie Duncan](https://open.spotify.com/artist/6KYcCkb8Ne44TabbH4vmMS), [凡度](https://open.spotify.com/artist/7J3NKlR5DBnBlkGarSkqoH) | [Green Hill](https://open.spotify.com/album/4uvHftZy3cLqJpTN3jjKYP) | 2:24 | 2023-12-26 | 2024-02-14 |
 | [ha?](https://open.spotify.com/track/1AHAFgBaotPhp2PLonXRPW) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [ha?](https://open.spotify.com/album/3vhn0dgPQFECXynziQmkUa) | 2:43 | 2023-12-07 | 2023-12-14 |
 | [HACKER](https://open.spotify.com/track/3KrpwhS3sq0qQsRsFBpKnx) | [Kampf](https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK), [XAN](https://open.spotify.com/artist/604ByWe9PBAjkIyEarEz60) | [The Diary](https://open.spotify.com/album/0lWIcfSd06NzJ7e8qiY4fS) | 3:10 | 2024-01-25 |  |
+| [HANATABA](https://open.spotify.com/track/1BoeX6br7WrPILgP8UKOsr) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/0E0CWMmEQHwnC6sS8fJYu5) | 2:01 | 2024-02-13 |  |
 | [Hands Up](https://open.spotify.com/track/4JXLR7C2FpsOFKGGJPNKks) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [Hands Up](https://open.spotify.com/album/0jGOX35jE6qx6w3tpVS3U6) | 3:03 | 2023-12-07 | 2024-01-28 |
 | [Hardest \- Afro Remix](https://open.spotify.com/track/7m60NVCclGwWrMNT2EtMkK) | [NGONG](https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ), [KK](https://open.spotify.com/artist/0KjxSZxEWHvHLuCuhgHqZ5) | [Hardest \(Afro Remix\)](https://open.spotify.com/album/0adBjy9W9i8IQ5kKVLbBNE) | 3:31 | 2024-01-11 | 2024-02-14 |
 | [Hate Goodbyes](https://open.spotify.com/track/2L9DQKjdZy6jtQIr2uTSdP) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Hate Goodbyes](https://open.spotify.com/album/7rjieC5S7NvAPC5416zhnj) | 1:20 | 2023-12-07 | 2024-01-31 |
@@ -131,7 +132,8 @@
 | [Lake side city](https://open.spotify.com/track/3s3XTwWO1rNfvNBMoqVzMS) | [Lil Bell Dice](https://open.spotify.com/artist/30RS2ps9J6Z9rifPSY7vO1) | [Lake side city](https://open.spotify.com/album/5QPihqwlZNWDJ8qULCAFrZ) | 3:24 | 2024-01-24 |  |
 | [LEAD](https://open.spotify.com/track/4t7AY95Hf5UZBtRKjjswbO) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/12eiDX769GffsCljewZy7i) | 3:52 | 2023-12-19 | 2024-02-09 |
 | [LEAD](https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9) | 3:52 | 2023-12-19 | 2023-12-21 |
-| [Letters](https://open.spotify.com/track/1nJ4haAgJRDd4ICVeIpC6h) | [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt), [spendmylifeup](https://open.spotify.com/artist/14lZo0nHPjDEhOaKvLTlEY) | [Letters](https://open.spotify.com/album/4Hn3En8nGF5YPgPtD9w4ks) | 2:49 | 2024-02-13 |  |
+| [Letters](https://open.spotify.com/track/1VfWLAu4LZrermWZnhbt1E) | [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt), [spendmylifeup](https://open.spotify.com/artist/14lZo0nHPjDEhOaKvLTlEY) | [Letters](https://open.spotify.com/album/16NQco0m6Uhh1UbNtVqx5A) | 2:49 | 2024-02-13 |  |
+| [Letters](https://open.spotify.com/track/1nJ4haAgJRDd4ICVeIpC6h) | [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt), [spendmylifeup](https://open.spotify.com/artist/14lZo0nHPjDEhOaKvLTlEY) | [Letters](https://open.spotify.com/album/4Hn3En8nGF5YPgPtD9w4ks) | 2:49 | 2024-02-13 | 2024-02-15 |
 | [Lil Rich](https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 3:21 | 2023-12-07 |  |
 | [LIT](https://open.spotify.com/track/7DBU8TXKL8mGWbwj8JcKxd) | [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ), [Ja¥Da](https://open.spotify.com/artist/4NEe9L2w6hCQB8boWIvyV5) | [LIT](https://open.spotify.com/album/1SjSLutr68EY2CdG5NPy9k) | 2:57 | 2023-12-07 | 2023-12-23 |
 | [Looks like mother](https://open.spotify.com/track/7iue5DzuHVSqlJggl99TYz) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [RaVe](https://open.spotify.com/album/2Vm8vsLbny90a0LorH4jJX) | 1:51 | 2023-12-07 | 2023-12-14 |
@@ -220,7 +222,8 @@
 | [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 | 2024-01-18 |  |
 | [waterdragon](https://open.spotify.com/track/65opDW5dpztEpriLFhxwU5) | [kegøn](https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb) | [waterdragon](https://open.spotify.com/album/2EL1SKBKvs67TRia9XhpAR) | 2:21 | 2023-12-14 | 2024-01-31 |
 | [Way Good](https://open.spotify.com/track/4QZXsa3ZYi9ZONvkDHubhR) | [TOMi](https://open.spotify.com/artist/5awuWSFbruV8MiasyEjeL8), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Way Good](https://open.spotify.com/album/4o1pJRtw1KYrt8mXqudCRm) | 2:52 | 2023-12-07 | 2023-12-22 |
-| [Weak self tudo kill](https://open.spotify.com/track/0DtNuPvSJMz60cQMiU69Sr) | [Mateu$](https://open.spotify.com/artist/5RtERHSgI7w2G6hyVAMO9n) | [Weak self tudo kill](https://open.spotify.com/album/6LMTXUorrSUkUUXfDp27Rw) | 2:50 | 2024-02-13 |  |
+| [Weak self tudo kill](https://open.spotify.com/track/0DtNuPvSJMz60cQMiU69Sr) | [Mateu$](https://open.spotify.com/artist/5RtERHSgI7w2G6hyVAMO9n) | [Weak self tudo kill](https://open.spotify.com/album/6LMTXUorrSUkUUXfDp27Rw) | 2:50 | 2024-02-13 | 2024-02-15 |
+| [Weak self tudo kill](https://open.spotify.com/track/0jhIDDoBSGDEASKYz29Cvx) | [Mateu$](https://open.spotify.com/artist/5RtERHSgI7w2G6hyVAMO9n) | [Weak self tudo kill](https://open.spotify.com/album/4An4TKXHjJzXOczBin3Zq3) | 2:50 | 2024-02-13 |  |
 | [weed not stop](https://open.spotify.com/track/3cPdfkBw2YESqDct8EQsvm) | [1000ca](https://open.spotify.com/artist/5abBwZ894SCDPwwv3ZKbCY), [143](https://open.spotify.com/artist/3tOEYz4AM8NNUobfA9t86n), [sh1t](https://open.spotify.com/artist/6XhN6U7Gwmu6NYm1BpPhH9), [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [XAN](https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B) | [weed not stop](https://open.spotify.com/album/0PJIDgNJiLGnOEwUfV5Ia5) | 4:39 | 2023-12-07 | 2024-01-12 |
 | [Xchain](https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ) | [Leisu](https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj), [yamadagalzing](https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5), [izolma](https://open.spotify.com/artist/5Cjc9g0qHNWfuQJlpCpAKM) | [Revive](https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B) | 2:54 | 2023-12-07 |  |
 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 | 2024-01-11 |  |
@@ -239,6 +242,6 @@
 | [旅人](https://open.spotify.com/track/4phR3rrjSUU9qROeguPI5g) | [むえやBOY](https://open.spotify.com/artist/5gT5Yyzykq9UQPeu3JePJG) | [旅人](https://open.spotify.com/album/36naEtqDrEaNKKy8UScRQ0) | 2:04 | 2024-01-23 |  |
 | [東京無宿](https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM) | [BLYY](https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p) | [東京無宿](https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5) | 3:43 | 2024-01-23 |  |
 | [牛久](https://open.spotify.com/track/5hvbfRmhcKVB2iwgktJx8y) | [OGGYWEST](https://open.spotify.com/artist/5e9rwyw6ZPV26OvEy34xTA) | [牛久](https://open.spotify.com/album/5HCH5FD6Yg1vFhPuwNAmOM) | 3:05 | 2024-01-30 | 2024-02-09 |
-| [花束](https://open.spotify.com/track/76w5LRGxbVIEbkpke35vR3) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/5MDVcLYeo1Ib9mE3AUxPJY) | 2:01 | 2024-02-13 |  |
+| [花束](https://open.spotify.com/track/76w5LRGxbVIEbkpke35vR3) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/5MDVcLYeo1Ib9mE3AUxPJY) | 2:01 | 2024-02-13 | 2024-02-15 |
 
 \*This playlist was first scraped on 2023-12-09. Prior content cannot be recovered.

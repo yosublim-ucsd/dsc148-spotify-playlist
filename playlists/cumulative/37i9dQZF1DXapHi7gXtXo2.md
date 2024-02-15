@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-108 songs - 6 hr 0 min
+109 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2023-12-01 |  |
 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 | 2023-12-01 |  |
 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 | 2023-12-01 | 2024-02-07 |
-| [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2023-12-01 |  |
+| [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2023-12-01 | 2024-02-15 |
 | [Bandido \- En Vivo](https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [En Vivo en el Gran Rex](https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn) | 4:24 | 2023-12-01 |  |
 | [Canción Para Que Vuelvas](https://open.spotify.com/track/5pv3V5KpSLDcbzP9Q9QvlH) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:35 | 2023-12-01 |  |
 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 | 2023-12-01 |  |
@@ -89,6 +89,7 @@
 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 | 2023-12-01 |  |
 | [Quiero Verte](https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Quiero Verte](https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW) | 3:45 | 2023-12-01 |  |
 | [Radar](https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5) | 2:42 | 2023-12-01 |  |
+| [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 | 2024-01-25 |  |
 | [Sabré Olvidar](https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 4:07 | 2023-12-01 |  |
 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 | 2023-12-01 | 2023-12-22 |
 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2023-12-01 |  |

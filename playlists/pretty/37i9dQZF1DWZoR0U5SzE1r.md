@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,776 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,949 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 47 | [Nothing Else \- Live](https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:30 |
 | 48 | [Canvas And Clay \- Live](https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv) | 6:40 |
 | 49 | [Yes I Will](https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will](https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz) | 3:54 |
-| 50 | [Belong To You](https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [God That Saves](https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C) | 4:52 |
-| 51 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
+| 50 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
+| 51 | [Belong To You](https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [God That Saves](https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C) | 4:52 |
 | 52 | [Dancing On The Waves \- Live At The Wheelhouse](https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dancing On The Waves \(Live\)](https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r) | 4:29 |
 | 53 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
 | 54 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Covered \- Live](https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Covered \(Live\)](https://open.spotify.com/album/3wgV3Cs5k7UQKEshAJN8BT) | 7:13 |
 | 100 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |
 
-Snapshot ID: `MCxiMzdkZjdjZDY3YTk2YTEzM2JhNTgxMjViZTNkYjA4YTNlM2EyMDE2`
+Snapshot ID: `MCxhMjE4MjZlMGMxYjZkZWExOTJiMjA3ZmRkMTU3YTIyM2FmOGY3OWFh`

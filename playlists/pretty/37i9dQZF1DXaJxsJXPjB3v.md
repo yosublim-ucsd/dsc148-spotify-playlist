@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,960 likes - 58 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,027 likes - 58 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nkalakatha](https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Nkalakatha](https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg) | 4:45 |
 | 2 | [Sweety Lavo](https://open.spotify.com/track/7dahjyDVsxec2B3wQqRWKc) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Copperhead](https://open.spotify.com/artist/4uJXtT5iGwxaopA8oH2U7a) | [Shosholoza](https://open.spotify.com/album/1Bc1Wcc7L97DkP7M1XITxB) | 5:03 |
 | 3 | [Umdlwembe](https://open.spotify.com/track/5rILokpdb7x306b1uHEB94) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Mdlwembe](https://open.spotify.com/album/6p14EmutdSfbNqBSQzRJK2) | 4:18 |
-| 4 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
-| 5 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
+| 4 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
+| 5 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
 | 6 | [Groovers Prayer](https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4) | 5:41 |
 | 7 | [Thobela](https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(no need to claim\)](https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt) | 4:46 |
 | 8 | [Manyonyoba](https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King of Kwaito Uyagawula](https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS) | 5:21 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 57 | [Ratlala](https://open.spotify.com/track/0TRVmZwsu14poorzV522Uy) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:59 |
 | 58 | [M'du Or Die \(U Leave Once\)](https://open.spotify.com/track/3HeRoFFma480WyN7hHgm91) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:53 |
 
-Snapshot ID: `MCxlODQ4MjlhODRiYmQyODM5ZGJjYTliZDc3ZGU4NDI0ZDE1NzJiYTlh`
+Snapshot ID: `MCxkMDYxZGVlZjVkNGQzYWExYjVkNjBiY2QzYzA0ZDExZTgwOTMwZGNl`

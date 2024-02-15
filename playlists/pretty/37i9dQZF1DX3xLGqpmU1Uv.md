@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,068 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,089 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 34 | [Aburrida y Sola \(Si Je Chante\)](https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz) | [Pyly Gaos](https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb) | [RCA 100 Años De Musica](https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1) | 1:54 |
 | 35 | [Florida Twist](https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:13 |
 | 36 | [Nena Baila Twist](https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf) | [Los Freneticos Del Ritmo](https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287) | [Ritmo Frenético](https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD) | 2:09 |
-| 37 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:29 |
+| 37 | [Nena Loca](https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:36 |
 | 38 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
 | 39 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 |
 | 40 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:50 |
 | 41 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
 | 42 | [Cenicienta](https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:32 |
 | 43 | [Jamaica Ska](https://open.spotify.com/track/1IdVAyXiFXw6b5aE2oZMN7) | [Los Yorsy's](https://open.spotify.com/artist/4JwFfxpE8gRIvfwofhxus2) | [Jamaica Ska](https://open.spotify.com/album/4HMH3PhhAuUz0Lt3KorOgu) | 2:11 |
-| 44 | [Nena Loca](https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:36 |
+| 44 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:29 |
 | 45 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
-| 46 | [Aladino](https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:56 |
-| 47 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
+| 46 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
+| 47 | [Aladino](https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:56 |
 | 48 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
-| 49 | [Muevanse Todos](https://open.spotify.com/track/43aYQsdCbQ6kMg4PjCGwu5) | [Vianey Valdez](https://open.spotify.com/artist/0JIg0Ml1RCN9v57Ht9Wfd5) | [Como Lo Bailaron Tus Padres, Vol\. 1](https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu) | 2:23 |
-| 50 | [No Te Pongas Pantalones](https://open.spotify.com/track/7tZS0ThweTnxIIQjYjgaWB) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:14 |
+| 49 | [No Te Pongas Pantalones](https://open.spotify.com/track/7tZS0ThweTnxIIQjYjgaWB) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:14 |
+| 50 | [Muevanse Todos](https://open.spotify.com/track/43aYQsdCbQ6kMg4PjCGwu5) | [Vianey Valdez](https://open.spotify.com/artist/0JIg0Ml1RCN9v57Ht9Wfd5) | [Como Lo Bailaron Tus Padres, Vol\. 1](https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu) | 2:23 |
 
-Snapshot ID: `MCw3NDg0Yjc2NjdkYmViZjYwNjQxYmUzN2JmNjYwNmFiNzQ2YjM2ZmRh`
+Snapshot ID: `MCwzMjIxMmQ3MmZiNzczMDJmMWU1MThkNjhlN2FkNWJjYWYyZDdlZDBi`

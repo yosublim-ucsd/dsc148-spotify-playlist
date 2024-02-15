@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,313 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,334 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 28 | [La Verdad](https://open.spotify.com/track/2mhPZQ1vdMX6My3Nr3ICGU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 4:02 |
 | 29 | [Sinoca](https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Sinoca](https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn) | 3:35 |
 | 30 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 |
-| 31 | [Esta Noche Que Salí](https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Esta Noche Que Salí](https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z) | 3:19 |
-| 32 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 |
+| 31 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 |
+| 32 | [Esta Noche Que Salí](https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Esta Noche Que Salí](https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z) | 3:19 |
 | 33 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
-| 34 | [Me Duele Hasta Pensarte](https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Me Duele Hasta Pensarte](https://open.spotify.com/album/1HWn7sgeNIfAC5tdB8k23X) | 3:48 |
-| 35 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 |
+| 34 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 |
+| 35 | [Me Duele Hasta Pensarte](https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Me Duele Hasta Pensarte](https://open.spotify.com/album/1HWn7sgeNIfAC5tdB8k23X) | 3:48 |
 | 36 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Sol De Las 3](https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA) | 2:32 |
 | 37 | [Holidays](https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Holidays \- Chromocosmic Avenue](https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz) | 3:23 |
 | 38 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
 | 50 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
 
-Snapshot ID: `MCw0MzE2YmMxOWM3N2M1NWZjZDZmZmJiMDI2YjBlMzIzNGFjNjFkMDRj`
+Snapshot ID: `MCxhNWZjYTBiODJhMGJhYTc3MDUxODA2MWI5ZjJkZGZlMzg1MzQ4YzI4`

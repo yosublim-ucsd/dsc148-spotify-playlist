@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,291 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,308 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 8 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 |
 | 9 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 |
 | 10 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 |
-| 11 | [Gamleveien](https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sputnik](https://open.spotify.com/artist/6Wp8wbTITUALiaIWUbfiob) | [Gamleveien](https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf) | 2:17 |
-| 12 | [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 |
+| 11 | [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 |
+| 12 | [Gamleveien](https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sputnik](https://open.spotify.com/artist/6Wp8wbTITUALiaIWUbfiob) | [Gamleveien](https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf) | 2:17 |
 | 13 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 |
 | 14 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 |
 | 15 | [Raggarbil](https://open.spotify.com/track/6iV9GKfPUxeCSGnUotAM0k) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:15 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 32 | [Bøgda](https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda](https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu) | 2:44 |
 | 33 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
 | 34 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
-| 35 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
-| 36 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 |
+| 35 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 |
+| 36 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
 | 37 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
 | 38 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 |
 | 39 | [Aldri tilbake](https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Aldri tilbake](https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O) | 3:21 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 67 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
 | 68 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 |
 | 69 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 |
-| 70 | [FYRA SMÅ RAGGERS](https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [FYRA SMÅ RAGGERS](https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg) | 1:41 |
+| 70 | [Ung full och Dum](https://open.spotify.com/track/4AtH9rAzuWbPZfYciY4ZIu) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC) | 2:20 |
 
-Snapshot ID: `MCxlZDhiNDhlN2IxZWM4YWJlNjBmZGE1MWQyN2FmMjM1ZmJkZjQ2ODk1`
+Snapshot ID: `MCwxNWE0MzRiZjhmYjliZDg0NThkNTA2NWNjZGM4YWJhZTgxNDhlMWNj`

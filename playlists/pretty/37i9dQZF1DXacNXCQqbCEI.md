@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,810 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,820 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 52 | [Sueño Marino](https://open.spotify.com/track/0ajaJkoPOJwT3Ks3GlKQ8G) | [Khromatik](https://open.spotify.com/artist/6eCeb68g0FYtyhBxInbFnm), [Chaska Paucar](https://open.spotify.com/artist/3JqFAeIYsQ87PG5J8mC5bv) | [Sueño Marino](https://open.spotify.com/album/4Zum2b4dCeuUviiWKKMMdS) | 3:01 |
 | 53 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 |
 | 54 | [El Makako](https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:26 |
-| 55 | [El Cavilante](https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 4:45 |
-| 56 | [El Quemado](https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 3:16 |
+| 55 | [El Quemado](https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 3:16 |
+| 56 | [El Cavilante](https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 4:45 |
 | 57 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
 | 58 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
 | 59 | [Resiliencia](https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:49 |
-| 60 | [Soma](https://open.spotify.com/track/2m84UV92ba26JYwue9yVUH) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/2dJ5sy2pN5ch1gRyJX6Ozq) | 5:11 |
+| 60 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 |
 
-Snapshot ID: `MCxhZjYzM2E0N2U1OGRjMDc2ZmM3MmM1YmVjZjdlOGJjYTM0OGZlNjg1`
+Snapshot ID: `MCxiYzczOGFkNTcwNmVjMzBhMjEwNWNiODM0MWIwNzA2NzBhNTE0MzJi`

@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4224471,
+  "num_followers": 4224651,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGQ5NjVhNTY5ODc5ZjRmNDQ0ZGNjODEyZTEyYzZhY2I3YzU5ZGFm",
+  "snapshot_id": "MCw2MjU4OWVlNWE4MjNiMzM4Y2I5MjM1OGNkMWYyNmY5YzEwNTBlZjY1",
   "tracks": [
     {
       "added_at": "2023-11-24 01:39:50",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "Just A Lil Bit",
+      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
+    },
+    {
+      "added_at": "2023-11-24 01:39:50",
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2023-11-24 01:39:50",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "Just A Lil Bit",
-      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
     },
     {
       "added_at": "2023-11-24 01:39:50",

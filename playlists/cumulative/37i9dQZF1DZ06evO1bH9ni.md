@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 4 min
+79 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [El Mismo \- En Vivo](https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:37 | 2022-06-01 |  |
 | [El Pollo](https://open.spotify.com/track/6Z5qfer3vyWlSF1jCUGqug) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos y Más Corridos](https://open.spotify.com/album/5U83ZJ7okQsBhOGdcdMd44) | 4:06 | 2022-06-01 | 2022-11-11 |
 | [El Que Quiere Puede](https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:17 | 2023-12-13 |  |
+| [El Ranchero](https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Décimo Aniversario \(Deluxe Edition\)](https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj) | 2:39 | 2024-02-14 |  |
 | [El Ranchero \- En Vivo](https://open.spotify.com/track/3GRAmRiwbmyTYhzzBtUTuU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:57 | 2022-06-01 |  |
 | [El Sonriente de Durango](https://open.spotify.com/track/228HXstwnWg37RvInNo4Xr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Sonriente de Durango](https://open.spotify.com/album/4ZNbEmbsJXMihgWHz8GowR) | 2:39 | 2022-06-01 | 2022-09-25 |
 | [En Cambio No](https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [En Cambio No](https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l) | 4:04 | 2023-11-10 |  |
@@ -73,7 +74,7 @@
 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 | 2022-06-01 | 2023-11-11 |
 | [Pepón](https://open.spotify.com/track/54Sblif2irWwPyCNGRAAuD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:49 | 2022-06-01 |  |
 | [Por Alguien Como Tú](https://open.spotify.com/track/1pavM6Yx6cQ4pRWE5KD6zb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Por Alguien Como Tú](https://open.spotify.com/album/2t2Q5bomEhtzOrsLZepfjZ) | 3:16 | 2022-06-01 | 2023-01-16 |
-| [Ranchero de Más](https://open.spotify.com/track/4z6wOysi4P2lQhl2lCJZXO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Ranchero de Más](https://open.spotify.com/album/7uBBrLqp1FIE39OSoSXmwY) | 3:10 | 2023-03-11 |  |
+| [Ranchero de Más](https://open.spotify.com/track/4z6wOysi4P2lQhl2lCJZXO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Ranchero de Más](https://open.spotify.com/album/7uBBrLqp1FIE39OSoSXmwY) | 3:10 | 2023-03-11 | 2024-02-15 |
 | [Resulta \- En Vivo](https://open.spotify.com/track/3FRadPSJWTQtWykeVZwRPO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Banda los Populares del Llano](https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/3fBoL5DJZ81GttTIpPXFF8) | 4:03 | 2022-06-01 | 2022-10-30 |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:55 | 2023-12-14 |  |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 | 2023-01-18 | 2023-12-15 |

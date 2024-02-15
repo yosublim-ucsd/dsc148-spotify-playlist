@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,513,890 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,513,759 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 46 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 47 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 |
 | 48 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
-| 49 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
-| 50 | [You Only Love Me](https://open.spotify.com/track/398Kr7urUvmBVXvfUZZYiM) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:29 |
+| 49 | [You Only Love Me](https://open.spotify.com/track/398Kr7urUvmBVXvfUZZYiM) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:29 |
+| 50 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
 | 51 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 52 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 53 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 69 | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo) | 2:16 |
 | 70 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 | 71 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 |
-| 72 | [Ein Traum](https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Ein Traum](https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo) | 2:49 |
-| 73 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
+| 72 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
+| 73 | [Ein Traum](https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Ein Traum](https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo) | 2:49 |
 | 74 | [One with the Wolves](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:00 |
 | 75 | [Shut Me Up](https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:21 |
 | 76 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 89 | [Somewhere in Between](https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp) | 2:36 |
 | 90 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 |
 
-Snapshot ID: `MCxjN2Y4Y2NhZjM5NjhkZGYzODZmNmEwZTA1OGE3ZWVjZjkxN2UxNjZl`
+Snapshot ID: `MCxjMTQ4ODk4MTI4ZjYxMjYzMzU3N2M4MWE2NWE5ZDYxNmEyYzFmZTc0`

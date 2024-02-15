@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 1461213,
+  "2024-02-15": 1461207,
   "date_first_scraped": "2019-05-26",
   "description": "the best things in life can't be contained.",
   "name": "Wild & Free",
@@ -2219,7 +2219,7 @@
       ],
       "date_added": "2020-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 216781,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
@@ -5759,6 +5759,24 @@
       "duration_ms": 207186,
       "name": "Penny, Heads Up",
       "url": "https://open.spotify.com/track/1a01Toe3uKNRhqLmW9x3Ar"
+    },
+    {
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "Penny, Heads Up",
+      "url": "https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg"
     },
     {
       "album": {

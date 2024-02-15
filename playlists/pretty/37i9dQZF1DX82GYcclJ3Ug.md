@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,928 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,982 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 126 | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s) | 3:48 |
 
-Snapshot ID: `MCw2MDAwNjAxMGVlOWVkNzhiNGQ3ZjAwMTBkYzEwMjNkN2U5MmMzMDYz`
+Snapshot ID: `MCxmZTJmNzA0Y2U3ODNlZGZkMmY0ODlkMTNhZDFlOTkzN2Q4NGUwZTQy`

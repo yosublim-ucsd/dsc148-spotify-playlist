@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,436 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,441 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 16 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 |
 | 17 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
 | 18 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
-| 19 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 |
-| 20 | [Go Back 집에](https://open.spotify.com/track/1PpbY7tb1bcMPMfbACTHDG) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Go Back 집에](https://open.spotify.com/album/2sLLoVge1yKRRnMfsSxMoZ) | 3:47 |
+| 19 | [Go Back 집에](https://open.spotify.com/track/1PpbY7tb1bcMPMfbACTHDG) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Go Back 집에](https://open.spotify.com/album/2sLLoVge1yKRRnMfsSxMoZ) | 3:47 |
+| 20 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 |
 | 21 | [Love Alone](https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:41 |
 | 22 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 |
 | 23 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 44 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
 | 45 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 46 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
-| 47 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
-| 48 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
+| 47 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
+| 48 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
 | 49 | [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 |
-| 50 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 |
+| 50 | [영원회귀 Eternal return](https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [영원회귀 Eternal return](https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt) | 3:43 |
 
-Snapshot ID: `MCxlMmExOTA1NDJjYWFlNjMzZDNiYjA2OTk3YjAyNDYyYWY2YjBhZDA2`
+Snapshot ID: `MCw5Y2I0Y2M1MTcxYjJiMzlhY2YxYzg3NDdlMTc4Nzc0NmJjMGQyNGJi`

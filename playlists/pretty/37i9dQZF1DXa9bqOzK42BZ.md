@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA">Christina Shusho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,570 likes - 89 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,617 likes - 89 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 10 | [Amefanya](https://open.spotify.com/track/6uI75Ob2PBGfXLw6NwSAkH) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Anastasia Mukabwa](https://open.spotify.com/artist/4aGIO4v0X0u7qbycmR5YG9), [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Amefanya](https://open.spotify.com/album/0Egz4Ybt0WcPFgzT9lKcNs) | 3:19 |
 | 11 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 |
 | 12 | [Sisi Ni Wale \(feat\. Freshow Band\) \- choir Version](https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Freshow Band](https://open.spotify.com/artist/4fhqxcc0V8TX4kAo1DEamA) | [Sisi Ni Wale \(feat\. Freshow Band\) \[choir Version\]](https://open.spotify.com/album/6IqGrFxiBkjLnalaa6oKc4) | 2:32 |
-| 13 | [Sema Asante](https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Sema Asante](https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc) | 2:35 |
+| 13 | [SEMA ASANTE](https://open.spotify.com/track/2TZ4fabbGN00FOuAP2Hl1p) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [SEMA ASANTE](https://open.spotify.com/album/0kmO8vsAYqPMPEPj25gXPs) | 2:35 |
 | 14 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 |
 | 15 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 |
 | 16 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 88 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 |
 | 89 | [Action](https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx) | [BeeJay](https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ) | [Action](https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI) | 5:30 |
 
-Snapshot ID: `MCwyMGIzNmEwY2E5MGIzZDU3NmFmOWRiNDU5YjU2MTQ1MzdiMGI2NDVi`
+Snapshot ID: `MCxmYjA1NjI2ZTYyMjA2MzdjOTE5MjI3N2JkZDY5ZWZmMmE3NWU3MDg5`

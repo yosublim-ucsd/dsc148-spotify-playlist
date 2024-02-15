@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: HYBS & SIRUP
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,248 likes - 88 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,263 likes - 88 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 5 | [Whatever](https://open.spotify.com/track/7FoHEr4j8y905vSLqSnCHt) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [Whatever](https://open.spotify.com/album/57z9dMhh5EuKsovqA2666h) | 3:43 |
 | 6 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 |
 | 7 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 |
-| 8 | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
+| 8 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 9 | [A Night of Van Gogh \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7HqJqVGzUh8dh0Sensdphf) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [A Night of Van Gogh](https://open.spotify.com/album/24Iv7pLUbw3rJF9OrYX9Dy) | 3:09 |
 | 10 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 |
 | 11 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 87 | [Forever](https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:55 |
 | 88 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 
-Snapshot ID: `MCwyNjE2ODJjZDFiYmFiMzgzZDlmYmZjYTRmYTZiOTYwY2VlYjcyZmI4`
+Snapshot ID: `MCxlNTYyM2NmNzI3OGIwOWEyMTZkZmZkOWRhNDllMDBjYmFiNzU5Yjli`

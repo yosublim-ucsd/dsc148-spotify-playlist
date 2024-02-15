@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,612 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,784 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 77 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 |
 | 78 | [El Jelty](https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Jelty](https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE) | 3:09 |
 | 79 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 |
-| 80 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
+| 80 | [Fresas De La Capital](https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Fresas De La Capital](https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B) | 2:53 |
 | 81 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
-| 82 | [Fresas De La Capital](https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Fresas De La Capital](https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B) | 2:53 |
+| 82 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 83 | [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 |
 | 84 | [Clave 18](https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Clave 18](https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S) | 3:55 |
 | 85 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 99 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 |
 | 100 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 
-Snapshot ID: `MCxiZGNmNDFjNWRjNjlmZTc4NTZlMmUyMWI4YTk0YjM3ZDY2OGUxNGM5`
+Snapshot ID: `MCw2YzkxYTU0NzRlMmU5YzM5ZjhhN2MwZDMzNDYyMjBhODRlMjI0NmU5`

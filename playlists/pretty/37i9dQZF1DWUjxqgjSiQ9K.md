@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4MgA2G0NoAMdcFBaK5ZAfw">Lowsan Melgar</a> y <a href="spotify:artist:6KOEJIpphgdK2z7wXfWYvj">Damaris Guerra</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,231 likes - 99 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,360 likes - 99 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 30 | [Emanuel](https://open.spotify.com/track/5n8Hp42nZLXEK29gjCm1J1) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [LA MESA](https://open.spotify.com/album/6YQ7BHSUUW6g7XqvPLHBBu) | 13:49 |
 | 31 | [Siempre que me mires](https://open.spotify.com/track/11Pt5mS9HuvdDBTjWNg9k9) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Siempre que me mires](https://open.spotify.com/album/3knmq4NaWuetopY1eSsLH3) | 9:20 |
 | 32 | [Ven Manifiéstate](https://open.spotify.com/track/3szLV66DcjeMUepvDLnSt3) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Ven Manifiéstate](https://open.spotify.com/album/27ytu5xJsNG05fpEgryJOS) | 10:18 |
-| 33 | [En Tu Luz](https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Enrique Bremer](https://open.spotify.com/artist/7qsRGFbPpZ353KE58HrLnP), [Anabel Zubillaga](https://open.spotify.com/artist/4RxaKrP7A7sA8ueEtJQst7) | [En Tu Luz](https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q) | 5:43 |
+| 33 | [En Tu Luz](https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/3pCe7Gj6z1I1g8bi9lYVpD), [Enrique Bremer](https://open.spotify.com/artist/7qsRGFbPpZ353KE58HrLnP), [Anabel Zubillaga](https://open.spotify.com/artist/4RxaKrP7A7sA8ueEtJQst7) | [En Tu Luz](https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q) | 5:43 |
 | 34 | [Superpoderes](https://open.spotify.com/track/2iYbQogIZK1KkeF1gdAH6o) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Superpoderes](https://open.spotify.com/album/2ws1rydosDqGsoz93MFu9t) | 3:53 |
 | 35 | [Alive](https://open.spotify.com/track/2SWzVaubaZL8tVapoBBg10) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Alive](https://open.spotify.com/album/5JvQMsvdjTyecJfFimoCLF) | 4:02 |
 | 36 | [Vida Entera](https://open.spotify.com/track/6XPBzkZhTkExDvmAoNNIfg) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Vida Entera](https://open.spotify.com/album/3GR6VDh5t9VOJRUUZ54V95) | 3:42 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 98 | [Aún Sin Entender](https://open.spotify.com/track/7cgJKyU5q59aDMGbOCXF5L) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Adorando Entre Amigos](https://open.spotify.com/album/0XgdtM4YTDOJ4TAU7dWr4o) | 6:00 |
 | 99 | [Mi Alma Clama \(feat\. Laila Olivera\)](https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Mi Alma Clama](https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI) | 8:18 |
 
-Snapshot ID: `MCw4ODU0N2JkNzc3MGYzYWZhZjdkZmRiNTVkMjg4NzRlMDE1OWQxOWFj`
+Snapshot ID: `MCwyYTE4YmVmMDA5NjMzM2VhZTkyMjAyNmI0NGZmNDQ3N2E4NmFkYzNk`

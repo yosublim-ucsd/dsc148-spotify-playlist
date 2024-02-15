@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,003 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,002 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 60 | [I Want to Know](https://open.spotify.com/track/3PLN4aXK0A8B76p0OYUDFd) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:55 |
 | 61 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 |
 | 62 | [Beautiful Day](https://open.spotify.com/track/7MpEUigVg8fKHyyEKM1WNT) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Move By Yourself](https://open.spotify.com/album/5dZKE378q8mx9ZpE8pg0CG) | 3:26 |
-| 63 | [Bad News](https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Poetry In Motion](https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK) | 3:49 |
-| 64 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
+| 63 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
+| 64 | [Bad News](https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Poetry In Motion](https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK) | 3:49 |
 | 65 | [Jah Work](https://open.spotify.com/track/0zWwD8Kr7NAhkVGaGDKpqs) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [The Will To Live](https://open.spotify.com/album/0fTTM8BvDkPd2VJ8Km2lhK) | 4:54 |
-| 66 | [Piloto Automático](https://open.spotify.com/track/739RpxxbLVj7YQz2wGJcE1) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Piloto Automático](https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu) | 3:05 |
-| 67 | [Stoked \- Remastered 2001](https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:01 |
+| 66 | [Stoked \- Remastered 2001](https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:01 |
+| 67 | [Piloto Automático](https://open.spotify.com/track/739RpxxbLVj7YQz2wGJcE1) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Piloto Automático](https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu) | 3:05 |
 | 68 | [Joker Smoker 12" Mix](https://open.spotify.com/track/72Mqd8exzzElzRCeuP5tSm) | [Triston Palma](https://open.spotify.com/artist/5zRp3bPBElRwxg5kVzTrAP) | [Joker Smoker](https://open.spotify.com/album/364SqWnW8GVEn3EQAHjuZR) | 7:11 |
 | 69 | [Life, Love & Laughter](https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Pass It Around](https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL) | 3:10 |
 | 70 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 | 75 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 
-Snapshot ID: `MCwzNGEyMDAzMjkzZDQ4M2ExZjYxNzQ1MDQ1ZTU3ZTI2ZDQ3NDU1ZWUz`
+Snapshot ID: `MCwzY2NkNmNmMzhlYjg3ZmY0NmZiNzllNDU1ODhjOGU2ZTRmY2VlZjVi`

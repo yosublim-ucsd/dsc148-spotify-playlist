@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-465 songs - 1 day 3 hr 35 min
+466 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Princess of China \- Acoustic](https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 3:26 | 2021-03-09 |  |
 | [Promises](https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Promises](https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT) | 3:03 | 2021-03-09 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Pumped Up Kicks \(Acoustic Version\)](https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE) | 2:54 | 2021-03-09 |  |
-| [Push The Button \- Acoustic Version](https://open.spotify.com/track/23eeEyrMDcDGQeoiaQSo55) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Best Of The Bs](https://open.spotify.com/album/7rkyBR3TJuM7EtXlZROo27) | 3:24 | 2023-10-23 |  |
+| [Push The Button \- Acoustic Version](https://open.spotify.com/track/23eeEyrMDcDGQeoiaQSo55) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Best Of The Bs](https://open.spotify.com/album/7rkyBR3TJuM7EtXlZROo27) | 3:24 | 2023-10-23 | 2024-02-15 |
 | [Push The Button \- Acoustic Version](https://open.spotify.com/track/2QsSe5Dir0lX5k6zwpKoTR) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Soft Pop Songs](https://open.spotify.com/album/23eWtsMR1BRmCOPqIEgiPP) | 3:25 | 2022-01-10 | 2022-11-12 |
 | [Push The Button \- Acoustic Version](https://open.spotify.com/track/2omf2plBkgW1x5SHYEFc6F) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Push The Button \(Acoustic Version\)](https://open.spotify.com/album/4msIniuK4bQKnq99L1bJ8j) | 3:25 | 2021-03-09 | 2022-07-29 |
 | [Push The Button \- Acoustic Version](https://open.spotify.com/track/7gNx8bDwQVgCJ2YptXhdLu) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:25 | 2022-01-10 | 2023-03-08 |
@@ -331,6 +331,7 @@
 | [Shake It Out \- Acoustic](https://open.spotify.com/track/7h4RseCHmiMJejwj6rcTl4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 4:12 | 2022-01-10 | 2022-11-13 |
 | [Shake It Out \- Acoustic](https://open.spotify.com/track/2nPUkZzM3cHNmXhzk5SOC4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [MTV Presents Unplugged: Florence + The Machine \(Deluxe Version\)](https://open.spotify.com/album/0wKJlJVLq79jSWHTnsVVq6) | 4:12 | 2022-01-10 |  |
 | [Shallow](https://open.spotify.com/track/2CBReP4Ox7OnBzhJsb2VNk) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Madysyn](https://open.spotify.com/artist/6fg51LVMgKxGjpIR9ihl9k) | [Shallow](https://open.spotify.com/album/7lKcUee1PLUqxlKcDNZQbM) | 3:02 | 2021-03-09 | 2024-02-14 |
+| [Shallow \(Acoustic\)](https://open.spotify.com/track/4EPcvT9vB3hPrlZq3XF9jr) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Madysyn](https://open.spotify.com/artist/6fg51LVMgKxGjpIR9ihl9k) | [he said\. she said.](https://open.spotify.com/album/10MsYPUp8JqOD0jj8Y3RCf) | 3:02 | 2023-10-23 |  |
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2021-03-09 |  |
 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 | 2021-03-09 |  |
 | [She's On My Mind \- Guitar Acoustic](https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She's On My Mind \(Acoustics\)](https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz) | 2:46 | 2021-03-09 |  |

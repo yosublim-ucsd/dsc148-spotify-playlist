@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 27959,
+  "num_followers": 27993,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjIzMWI0NTczMGZmNDlhMTlhMDAwNzE0N2YxZjgyZWNjZTdlYzhl",
+  "snapshot_id": "MCxhNmM1NTA5Y2JiYTJhYWRhNTVjNzQxNjg3YTUxNjI2MWUyMGI3MzI3",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Clear Road",
+        "url": "https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x"
+      },
+      "artists": [
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 159961,
+      "name": "Clear Road",
+      "url": "https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Duffel Bag",
         "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
       },
@@ -615,22 +635,6 @@
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -655,6 +659,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 164240,
       "name": "Colors (My Baby)",
       "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Clear Road",
-        "url": "https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x"
-      },
-      "artists": [
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 159961,
-      "name": "Clear Road",
-      "url": "https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -727,6 +727,30 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 147192,
+      "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Ronaldo",
         "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 161538,
       "name": "Dada",
       "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
-        "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
-      },
-      "artists": [
-        {
-          "name": "larrylanes",
-          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 147192,
-      "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "GoodSin (feat. Reekado Banks) [Remix]",
         "url": "https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 233077,
       "name": "GoodSin (feat. Reekado Banks) - Remix",
       "url": "https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2024-02-09 00:01:00",

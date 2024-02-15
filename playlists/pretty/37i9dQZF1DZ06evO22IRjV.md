@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,808 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,811 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 39 | [Realize](https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:33 |
 | 40 | [CALLING](https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:34 |
 | 41 | [CLOSER](https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [CLOSER](https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb) | 3:29 |
-| 42 | [愛愛愛に撃たれてバイバイバイ \-Album Mix\-](https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 4:09 |
-| 43 | [New World](https://open.spotify.com/track/383mIRKWUO2x1B0xOGyTGC) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [New World](https://open.spotify.com/album/0AXTw7cuAXPoXaRpYD912o) | 3:42 |
+| 42 | [New World](https://open.spotify.com/track/383mIRKWUO2x1B0xOGyTGC) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [New World](https://open.spotify.com/album/0AXTw7cuAXPoXaRpYD912o) | 3:42 |
+| 43 | [愛愛愛に撃たれてバイバイバイ \-Album Mix\-](https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 4:09 |
 | 44 | [ユラユラ](https://open.spotify.com/track/6p6IssaX9xho07QisbjC8m) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 4:38 |
 | 45 | [風ノ唄 \-TV Size\-](https://open.spotify.com/track/7kVgMFdMrTN48KZmAM1opl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [「風ノ唄 / BURN」Special Edition](https://open.spotify.com/album/4ZBpseaR2Lzz6U58chlrk4) | 1:31 |
 | 46 | [Howling \-TV Size\-](https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [WORD OF THE VOICE](https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:47 |
 | 50 | [流れ星 ～Shooting Star～](https://open.spotify.com/track/27k5RlJ8BhKMM3Bi8K7cGK) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:51 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA2NTcwNWU5MjI0ZDc3YzY0ZGMxZTRjNDM5NjJhOGM2Yw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAxOTUwNjFjZmJmOTg4NDY4Yzg3YmE3MDM1YWFlYmI5MQ==`

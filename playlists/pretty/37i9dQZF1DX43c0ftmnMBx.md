@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,746 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,825 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 85 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
 | 86 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
 | 87 | [Decidí](https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Decidí](https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs) | 3:14 |
-| 88 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 |
-| 89 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
+| 88 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
+| 89 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 |
 | 90 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
 | 91 | [Pegao](https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Pegao](https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO) | 2:44 |
 | 92 | [Busca un Confidente](https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCwzMzgzZDQ5Nzk2MjFmZTVmZWY1OTIzMTE2ZGYwNGZjOWMzNjIxOWU4`
+Snapshot ID: `MCwxYWVmY2UyNGQ5NWVjM2UwZDUyMGY4NzFmZWI1ODcyNjQwOTg5YmI5`

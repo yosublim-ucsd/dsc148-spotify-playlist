@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,216 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,404 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 21 | [Vas a Destrozarme \- Versión Eden Muñoz](https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vas a Destrozarme \(Versión Eden Muñoz\)](https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo) | 2:57 |
 | 22 | [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 23 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 |
-| 24 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 |
-| 25 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
+| 24 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
+| 25 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 |
 | 26 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 |
 | 27 | [Oficialmente en Soltería](https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
 | 28 | [Te Invito a Ser Feliz](https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Invito a Ser Feliz](https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm) | 3:16 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 46 | [Soy De La Calle \- En Vivo](https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:04 |
 | 47 | [Si Te Pudiera Mentir \- En Vivo](https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:03 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBjNzMwNDI3Zjk5YjhhZTgwMDk1YTVhMDdmMzIyMDkxZA==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDAxY2E4NzBjNjE5ZTE4ZjUzNDkzZDY5M2UxN2M1MDY2OQ==`

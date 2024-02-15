@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,290 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,826 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 49 | [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 |
 | 50 | [Una Noche Más Contigo \- En Vivo](https://open.spotify.com/track/4GWAIhCLHU3Az9DwkINaWL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3) | 5:13 |
 | 51 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
-| 52 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 |
+| 52 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA0NDRhNmNkNjE1MGVkNmM4YjYyZDhiYjJhNDQ1OGJkZQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA2MzU3NmExZGVmN2FhZWM1Njc4MjUwODI5YWNkMjNhYg==`

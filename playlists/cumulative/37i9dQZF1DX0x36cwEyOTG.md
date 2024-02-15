@@ -4,7 +4,7 @@
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-249 songs - 16 hr 38 min
+250 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Save Me \- Skeleton Mix](https://open.spotify.com/track/6INlCF3Ru7CqLnIf2GNKKC) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [Save Me \(Skeleton Mix\)](https://open.spotify.com/album/5ZVarZLlOmGvC1dTvyfNWt) | 4:09 | 2018-11-26 | 2022-07-29 |
 | [Scenescof](https://open.spotify.com/track/3ZY8cSF7Xy6BDZo8GpQfv2) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Scenescof](https://open.spotify.com/album/3rkipOsGRgmHfcxydgwlAr) | 2:36 | 2020-10-15 | 2023-06-14 |
 | [Silent from Above](https://open.spotify.com/track/04ohpWQHENREA5pmiIvrNB) | [Mirrorring](https://open.spotify.com/artist/2M8pAavH6JayxeN0HfQzBv) | [Foreign Body](https://open.spotify.com/album/15OVBQYlldnAnwLnEywCJA) | 4:58 | 2018-11-26 | 2022-11-13 |
-| [Siren](https://open.spotify.com/track/0b62y1bXn7ru5HTlqAfgk5) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 4:08 | 2023-06-13 |  |
+| [Siren](https://open.spotify.com/track/0b62y1bXn7ru5HTlqAfgk5) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 4:08 | 2023-06-13 | 2024-02-15 |
 | [Sister](https://open.spotify.com/track/0HFBVwKtD5kBrQQseDwagJ) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 2:13 | 2023-09-29 |  |
 | [Sister](https://open.spotify.com/track/5amf0Fkdt3Mu6cdvXhKgOq) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 2:13 | 2018-11-26 | 2023-10-15 |
 | [Sister](https://open.spotify.com/track/69oIKolU1h4YFPo4nKwHvZ) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/42rcRgzjouEjRA4Qhp9iqC) | 2:13 | 2018-11-26 | 2022-07-29 |
@@ -204,6 +204,7 @@
 | [Strange Darling](https://open.spotify.com/track/3pGTGFLKTGFOLArMq3H9jE) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling](https://open.spotify.com/album/6JvrwcEWOwBDRR9MgqD35Z) | 3:42 | 2018-11-26 | 2022-07-29 |
 | [Strange Darling](https://open.spotify.com/track/6wzbsVJ4qH3pdzYqm8hVXk) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling \- EP](https://open.spotify.com/album/1olv4rODurd0yqk8qMh091) | 3:42 | 2018-11-26 | 2023-06-14 |
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2018-11-26 | 2022-12-15 |
+| [Symmetry](https://open.spotify.com/track/5K4QD9d4XNCmCf27Oib1rp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 2:52 | 2023-09-29 |  |
 | [Take Care](https://open.spotify.com/track/5QIkWpgfZHlhUBI099FWnC) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Keep a Private Room Behind the Shop](https://open.spotify.com/album/4s5vgUIzJj3re1sk0C6jZ3) | 1:54 | 2018-11-26 | 2022-06-22 |
 | [Take Care](https://open.spotify.com/track/6yuLaaspVG8j2pnjAZ05Oe) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Keep a Private Room Behind the Shop](https://open.spotify.com/album/4B0iYxYJ5gzIs1plMk0E3X) | 1:54 | 2018-11-26 |  |
 | [The Choir](https://open.spotify.com/track/40qg0fkDONxEDrAPfxccHc) | [Morly](https://open.spotify.com/artist/25IpNXDRxJS38E2rLJeCF3) | [The Choir](https://open.spotify.com/album/6U8fFn2bUPLC3yWsG5tiy6) | 3:21 | 2018-11-26 | 2022-07-29 |

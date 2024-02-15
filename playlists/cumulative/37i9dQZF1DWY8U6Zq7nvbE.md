@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-446 songs - 1 day 0 hr 9 min
+447 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Birthday \- Acoustic](https://open.spotify.com/track/6QdGUZpcyH1JZoVKEmfLQH) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Birthday \(Acoustic\)](https://open.spotify.com/album/2iSzHLWG3apDixiLpOYiOa) | 2:59 | 2021-03-11 | 2022-11-26 |
 | [Black & Blue \- Acoustic Version](https://open.spotify.com/track/64b21IcAEJwtwAgBQH6k83) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Black & Blue \(Acoustic Version\)](https://open.spotify.com/album/1KX6McwupYpQOAS4SfcNvG) | 3:06 | 2021-03-11 | 2023-10-28 |
 | [Black Car \(feat\. ALMA\) \- Acoustic](https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Black Car \(feat\. ALMA\) \[Acoustic\]](https://open.spotify.com/album/69sad8MZUsNa9b6F6BGgZe) | 3:36 | 2021-03-11 | 2023-10-28 |
+| [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 | 2024-02-02 |  |
 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 | 2023-10-27 |  |
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 | 2023-10-28 |
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-14 | 2023-10-28 |
@@ -110,7 +111,7 @@
 | [Cold \- Acoustic](https://open.spotify.com/track/7wPFWjk6yXskj1CDyp9a5M) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Cold \(Acoustic\)](https://open.spotify.com/album/2xrIkH2W9GIqflmwvCGSlp) | 3:58 | 2022-09-30 | 2022-11-26 |
 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 | 2022-08-31 |  |
 | [Colder Weather](https://open.spotify.com/track/5CAdiD4hnQ5EjzBX5GWEOG) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj), [Ryan James Tillema](https://open.spotify.com/artist/3IynIgLNoj6nup0mywwOh8) | [Colder Weather](https://open.spotify.com/album/4EahKMkojSXw8daBLQPZGz) | 3:28 | 2021-03-11 | 2022-11-12 |
-| [Collide](https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG) | 3:04 | 2023-06-08 |  |
+| [Collide](https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG) | 3:04 | 2023-06-08 | 2024-02-15 |
 | [Colors](https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Wood Fire](https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant) | 3:07 | 2021-03-11 | 2022-12-02 |
 | [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 | 2023-08-10 |  |
 | [Congratulations \- Acoustic](https://open.spotify.com/track/1dZyuawBYgIUKKevMXr8St) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [Congratulations \(Acoustic\)](https://open.spotify.com/album/1I34ylW68rDFgyyjQz2k8E) | 3:57 | 2021-03-11 | 2022-12-17 |

@@ -1,12 +1,12 @@
 {
   "description": "El cancionero que retrata las batalles y personajes que dejaron huella en M\u00e9xico.",
-  "num_followers": 21804,
+  "num_followers": 21808,
   "original_name": "Corridos de la Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDUyZmY5OGQ1ZTJkYzI0ODVhMmMwNGE4Njg3MzU5YzdiZmNkYmQ3",
+  "snapshot_id": "MTY4NjgzNTQ3NywwMDAwMDAwMDNjNjBjN2QxMmViZTllYjRiZjc5ZGVjYmE1MWFhMTEx",
   "tracks": [
     {
       "added_at": "2022-08-02 23:07:07",
@@ -544,13 +544,13 @@
       },
       "artists": [
         {
-          "name": "Jorge Negrete y Maricahi",
-          "url": "https://open.spotify.com/artist/7wl1UzFhl0FLZLvVxBRxGM"
+          "name": "Dueto Los Pajareros",
+          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
         }
       ],
-      "duration_ms": 156813,
-      "name": "La Valentina",
-      "url": "https://open.spotify.com/track/2ZFHnAQlDPHftIwTEUZ3xg"
+      "duration_ms": 137933,
+      "name": "El Cerro de la Silla",
+      "url": "https://open.spotify.com/track/06OALIBJvuZsCh7pBknXD2"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -560,13 +560,13 @@
       },
       "artists": [
         {
-          "name": "Dueto Los Pajareros",
-          "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
+          "name": "Jorge Negrete y Maricahi",
+          "url": "https://open.spotify.com/artist/7wl1UzFhl0FLZLvVxBRxGM"
         }
       ],
-      "duration_ms": 137933,
-      "name": "El Cerro de la Silla",
-      "url": "https://open.spotify.com/track/06OALIBJvuZsCh7pBknXD2"
+      "duration_ms": 156813,
+      "name": "La Valentina",
+      "url": "https://open.spotify.com/track/2ZFHnAQlDPHftIwTEUZ3xg"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Corridos Revolucionarios",
-        "url": "https://open.spotify.com/album/3S0CeB9t9ddrbCLbRQHSGn"
+        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
       "artists": [
         {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Tumba Abandonada",
-      "url": "https://open.spotify.com/track/4JbfyqL4Ogt0gU4jQrxS6l"
+      "duration_ms": 160746,
+      "name": "Juana Gallo",
+      "url": "https://open.spotify.com/track/0utmh8J6vDBYUIAxrohqg2"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -708,22 +708,6 @@
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "Juana Gallo",
-      "url": "https://open.spotify.com/track/0utmh8J6vDBYUIAxrohqg2"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
-        "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
-      },
-      "artists": [
-        {
           "name": "Dueto Los Pajareros",
           "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
         }
@@ -731,6 +715,22 @@
       "duration_ms": 169040,
       "name": "Las Cuatro Milpas",
       "url": "https://open.spotify.com/track/4IOp33ou5fDyKgARvcyqEO"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Corridos Revolucionarios",
+        "url": "https://open.spotify.com/album/3S0CeB9t9ddrbCLbRQHSGn"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Tumba Abandonada",
+      "url": "https://open.spotify.com/track/4JbfyqL4Ogt0gU4jQrxS6l"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Los Corridos de la Revolucion",
-        "url": "https://open.spotify.com/album/3MH3L1ihhbIbseblDpqIaP"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 179252,
-      "name": "Domingo Corrales",
-      "url": "https://open.spotify.com/track/1IQkcYS6q1DgNIsBDJK626"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 148906,
       "name": "La Cacahuata",
       "url": "https://open.spotify.com/track/5AenFT5iqaywMoQOzFPtqu"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "Los Corridos de la Revolucion",
+        "url": "https://open.spotify.com/album/3MH3L1ihhbIbseblDpqIaP"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 179252,
+      "name": "Domingo Corrales",
+      "url": "https://open.spotify.com/track/1IQkcYS6q1DgNIsBDJK626"
     },
     {
       "added_at": "2022-08-02 23:07:07",

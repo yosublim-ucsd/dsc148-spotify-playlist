@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Energy Flow Eternal",
+        "url": "https://open.spotify.com/album/67INXDCZGg6iHi9gxJVCxm"
+      },
+      "artists": [
+        {
+          "name": "Isildur",
+          "url": "https://open.spotify.com/artist/0aFceuqfrsUjmily2OAgW4"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126718,
+      "name": "Energy Flow Eternal",
+      "url": "https://open.spotify.com/track/66TbpLvQxLqEctvObaZL3y"
+    },
+    {
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },

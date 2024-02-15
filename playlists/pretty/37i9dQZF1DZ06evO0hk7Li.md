@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,701 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,705 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 5 | [Unknown \(To You\)](https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:53 |
 | 6 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 |
 | 7 | [Unholy War](https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:29 |
-| 8 | [Coolin](https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 2:51 |
-| 9 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 |
+| 8 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 |
+| 9 | [Coolin](https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 2:51 |
 | 10 | [Monster](https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:53 |
 | 11 | [Alive](https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Brand New Machine \(Deluxe Version\)](https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs) | 3:26 |
 | 12 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Coffee \(feat\. Jacob Banks\)](https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Postcards](https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p) | 2:22 |
 | 50 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA2OTc3MWI4NjM0YzAzMmMxY2JhM2VmYzc4NTlhOTVjNw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA1MGU0OWQxNDRiYjI3NmI4YjA2YzFlZWIxODk4YzhkNA==`

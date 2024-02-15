@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,205 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,414 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 34 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 |
 | 35 | [\(I Left My Heart\) In San Francisco](https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Left My Heart In San Francisco](https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7) | 2:50 |
 | 36 | [Danke Schoen](https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5) | [Wayne Newton](https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ) | [Danke Schoen](https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT) | 2:35 |
-| 37 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 |
-| 38 | [Misty](https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Heavenly](https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9) | 3:36 |
+| 37 | [Misty](https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Heavenly](https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9) | 3:36 |
+| 38 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 |
 | 39 | [Georgia on My Mind \- Original Master Recording](https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia on My Mind \(Original Master Recording\)](https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb) | 3:37 |
 | 40 | [It's A Lovely Day Today](https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Perry Como with the Fontane Sisters \(with The Fontane Sisters\)](https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD) | 2:40 |
 | 41 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 49 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
 | 50 | [Someone To Watch Over Me](https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:16 |
 
-Snapshot ID: `MCw0OGRiYmQyMGU4MDNjMTU1ZTIzOGJlNzE5YzYzNWY1ZTk4ZmQ2NmFm`
+Snapshot ID: `MCxjYTEyMmNjMTVkZDVjNTRiN2FkNjE0NzM0NTU1NTUzN2Q4YWI1ZTcy`

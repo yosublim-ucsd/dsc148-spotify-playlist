@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544125,
+  "num_followers": 544153,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTk2ZmQ1YTlhZDRjMzYyYThkNjI3NTg5ZDkwNzhhNmE5MWE3ZmU4",
+  "snapshot_id": "MCw3ZGU5ZmEwODc5NzJkNWNiZGM3ZmIwNzNkMmRjZDhhOTQ2MTUwMThi",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "I Am Human",
         "url": "https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Dead Reflection",
-        "url": "https://open.spotify.com/album/31svS8PdmawMs96ZxlP01t"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 188885,
-      "name": "The Afterglow",
-      "url": "https://open.spotify.com/track/7c4vXxglI2zKzs99geaEuh"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 183242,
       "name": "All My Friends Are Nobodies",
       "url": "https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Dead Reflection",
+        "url": "https://open.spotify.com/album/31svS8PdmawMs96ZxlP01t"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 188885,
+      "name": "The Afterglow",
+      "url": "https://open.spotify.com/track/7c4vXxglI2zKzs99geaEuh"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Everything Is Temporary",
+        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 183495,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
+    },
+    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "deathwish (feat. nothing,nowhere.)",
@@ -1211,22 +1227,6 @@
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Everything Is Temporary",
-        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 191756,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 191756,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,992 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,041 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,19 +20,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 10 | [Spanish Castle Magic](https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:03 |
 | 11 | [The Wind Cries Mary](https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:20 |
 | 12 | [Hear My Train a Comin'](https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 5:41 |
-| 13 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:10 |
+| 13 | [Gypsy Eyes](https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:43 |
 | 14 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 |
 | 15 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 |
 | 16 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 |
-| 17 | [Gypsy Eyes](https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:43 |
+| 17 | [Come On \(Let the Good Times Roll\)](https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:09 |
 | 18 | [Bold as Love](https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 4:11 |
 | 19 | [Foxey Lady](https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:18 |
 | 20 | [Lover Man](https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:03 |
-| 21 | [Come On \(Let the Good Times Roll\)](https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:09 |
+| 21 | [Somewhere](https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 4:05 |
 | 22 | [Wait Until Tomorrow](https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:02 |
 | 23 | [Fire](https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:43 |
 | 24 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
-| 25 | [Somewhere](https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 4:05 |
+| 25 | [Rainy Day, Dream Away](https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:42 |
 | 26 | [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 |
 | 27 | [Pali Gap](https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 5:07 |
 | 28 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 45 | [Once I Had a Woman](https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:49 |
 | 46 | [Earth Blues](https://open.spotify.com/track/7aAholeRCIGZD1QhHYKDDq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:33 |
 | 47 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 |
-| 48 | [Auld Lang Syne \- Live at the Fillmore East, NY \- 12/31/69 \- 2nd Set](https://open.spotify.com/track/3AqVSxLsEpGtg1NbqOiid9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 3:54 |
-| 49 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
+| 48 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
+| 49 | [Auld Lang Syne \- Live at the Fillmore East, NY \- 12/31/69 \- 2nd Set](https://open.spotify.com/track/3AqVSxLsEpGtg1NbqOiid9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 3:54 |
 | 50 | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/track/70rXufdV46M4efDKvJbtHV) | [Curtis Knight & The Squires](https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl), [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l) | 0:56 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA3MGQ2N2Y2ZTAxMGQxZWYzNjU4OWMyN2ZlMmMyM2U4MQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA3NTA3ZmM0MzgyZDNhMDViZDZlMzc1Y2Y3NzU0NGVlMQ==`

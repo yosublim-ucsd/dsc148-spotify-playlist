@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 59138,
+  "num_followers": 59141,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQxZmY1YzE2NTY4NmY0OGEwMjMzM2Q0Mjg0M2FiZjFmYjdhMmJk",
+  "snapshot_id": "MCxlYzFjMWMyNDAyNWIzMWY5NDYzOWQ3OTE2OWQ4MzNkYzliMGY2YmU2",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -331,22 +347,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
-      },
-      "artists": [
-        {
-          "name": "Cuco Valtierra",
-          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "El Hombre Del Brazo De Oro",
-      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Para Ser Libre",
         "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 193332,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
+      },
+      "artists": [
+        {
+          "name": "Cuco Valtierra",
+          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "El Hombre Del Brazo De Oro",
+      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -507,6 +507,26 @@
       "duration_ms": 323800,
       "name": "Mosquita muerta - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Nuevas Relaciones: Atardecer",
+        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
+      },
+      "artists": [
+        {
+          "name": "Freddy Marichal",
+          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
+        },
+        {
+          "name": "Nuevas Relaciones, Las",
+          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
+        }
+      ],
+      "duration_ms": 370586,
+      "name": "La vida tiene que seguir, amor",
+      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -567,22 +587,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Nos Toca",
-        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
-          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Voices from the Border",
         "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
       },
@@ -619,18 +623,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+        "name": "Nos Toca",
+        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
       },
       "artists": [
         {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
+          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+      "duration_ms": 353320,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -663,22 +667,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -695,6 +683,38 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -731,6 +751,62 @@
       "duration_ms": 233306,
       "name": "The Pink Panther",
       "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+      },
+      "artists": [
+        {
+          "name": "Cha/Co Project",
+          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+        }
+      ],
+      "duration_ms": 384415,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Remembranzas",
+        "url": "https://open.spotify.com/album/1nGaQn6Vh2nneDYgTtMwxK"
+      },
+      "artists": [
+        {
+          "name": "Edgar Dorantes",
+          "url": "https://open.spotify.com/artist/14IDIXsaBbdaQygouydSgK"
+        },
+        {
+          "name": "Emiliano Coronel",
+          "url": "https://open.spotify.com/artist/3o9wZ9Jl3y7LQqUhYva7ZB"
+        },
+        {
+          "name": "Vladimir Coronel",
+          "url": "https://open.spotify.com/artist/1BjvkoxetuVsSBUQ3Y6CtK"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Remembranzas",
+      "url": "https://open.spotify.com/track/0Rpah08ZeUKzXlIQgXsqMp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -787,86 +863,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+        "name": "Ocaso",
+        "url": "https://open.spotify.com/album/3Uh18mM8A9l4KbeuYHKh47"
       },
       "artists": [
         {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Nuevas Relaciones: Atardecer",
-        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
-      },
-      "artists": [
-        {
-          "name": "Freddy Marichal",
-          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
+          "name": "Abraham Barrera",
+          "url": "https://open.spotify.com/artist/2G6Dj9QYAC86ZLOBVbf4Uh"
         },
         {
-          "name": "Nuevas Relaciones, Las",
-          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
-        }
-      ],
-      "duration_ms": 370586,
-      "name": "La vida tiene que seguir, amor",
-      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Andamos Huyendo",
-        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
-      },
-      "artists": [
+          "name": "Aar\u00f3n Cruz",
+          "url": "https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv"
+        },
         {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
         }
       ],
-      "duration_ms": 291647,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+      "duration_ms": 336586,
+      "name": "Paq-Man",
+      "url": "https://open.spotify.com/track/3cRDVtteYW537cdLCxkoMF"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

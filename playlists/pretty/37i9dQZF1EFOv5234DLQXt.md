@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 96 | [Hombre al Agua](https://open.spotify.com/track/5lbIEDni31nXdC8sLs4uhV) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o) | [Covers en Fase 1](https://open.spotify.com/album/6QgdtzyhmigYYMh5ZiMiuc) | 5:51 |
 | 97 | [Alma](https://open.spotify.com/track/4FiMp3twUOLFDsykcuo91B) | [Errantes](https://open.spotify.com/artist/7jNF4TviolIjLzbtFakbP3) | [Eclipse](https://open.spotify.com/album/2sn37txsdMSRHxgqyHp5pS) | 3:16 |
 | 98 | [Primavera 0](https://open.spotify.com/track/0WlNHBQcIVDZHOJJn7BHOG) | [La Nueva Ley](https://open.spotify.com/artist/1fPW3fydAPZMV2d9KVYuBc) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:09 |
-| 99 | [Ecos](https://open.spotify.com/track/1N4qe1XiNVPZy9GHONsL0r) | [Mono Zen](https://open.spotify.com/artist/2yYgYmwntCDXtbdhIRyDtE) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 5:15 |
-| 100 | [Nuestra Fe](https://open.spotify.com/track/4F2Po6tDXcT6ejGUB8dpuX) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 |
+| 99 | [Nuestra Fe](https://open.spotify.com/track/4F2Po6tDXcT6ejGUB8dpuX) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 |
+| 100 | [Ecos](https://open.spotify.com/track/1N4qe1XiNVPZy9GHONsL0r) | [Mono Zen](https://open.spotify.com/artist/2yYgYmwntCDXtbdhIRyDtE) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 5:15 |
 | 101 | [La Excepción](https://open.spotify.com/track/3pA1uBElkRirzdX7X9bTuR) | [mad in Poland](https://open.spotify.com/artist/4cdGAQzkjSs0o7PYeRlTt1) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 4:08 |
 | 102 | [No Existes](https://open.spotify.com/track/1b0ukKuDnUYd8Bwu4NyJh3) | [Timmy O'Tool](https://open.spotify.com/artist/1xqWCLWfpLPFtASqT4xNmc) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 |
 | 103 | [Zona de Promesas](https://open.spotify.com/track/3XiTDH6e5xhCpVHPPz4vQR) | [Turbomente](https://open.spotify.com/artist/0ietRRiTG5sNSo9ayxk0p6) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 4:05 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 112 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 | 113 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
 
-Snapshot ID: `Mjg0NjQ2MjAsMDAwMDAwMDA5ZDkyOWNiZTllMDFkOTgyMTdjOWI2NjU5ZDQ1MTI5MQ==`
+Snapshot ID: `Mjg0NjYwNjAsMDAwMDAwMDAzMzBkYzczMDE2YzA1NTFjN2Y0MzhlZGU0YjhlYmNmNg==`

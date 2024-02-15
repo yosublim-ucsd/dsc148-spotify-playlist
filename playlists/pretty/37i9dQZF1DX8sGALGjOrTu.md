@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: The Used
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,704 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,854 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 22 | [You're So Last Summer \- Remastered](https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:01 |
 | 23 | [Demolition Lovers](https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 6:06 |
 | 24 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
-| 25 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
-| 26 | [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 |
+| 25 | [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 |
+| 26 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
 | 27 | [Uneasy Hearts Weigh The Most](https://open.spotify.com/track/59RtbarKXlfmbKZjvkwoW7) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Dance Gavin Dance](https://open.spotify.com/album/7FErRFVQYaG2c0UUBapFGT) | 3:38 |
 | 28 | [Give It All](https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:50 |
 | 29 | [You're Not Alone](https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:58 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 59 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 60 | [The Past Should Stay Dead](https://open.spotify.com/track/1WPoATdYDxAmso3K6OpsaY) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Relativity](https://open.spotify.com/album/3XHoQliF0J7p6q6taBVvc6) | 4:33 |
 | 61 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
-| 62 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
-| 63 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
+| 62 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
+| 63 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 64 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
 | 65 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 66 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [Smashed Into Pieces](https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [When Broken Is Easily Fixed](https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc) | 3:42 |
 | 75 | [Tree Village](https://open.spotify.com/track/23H0cL1Mnz96wqTwO1e76j) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/3K17PJl4d0yhrys2ylYzgm) | 3:21 |
 
-Snapshot ID: `MCwzZDE3N2MwNzJiMDRjYWJmMDdhYmI2YWI1ZTQxODQ4ZjNjYTkzZmM5`
+Snapshot ID: `MCxmZmVkY2RlZjhkNzU4YmViZDYxMDJjMDFlOTExZmY4MjBiOTQyMmZm`

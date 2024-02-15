@@ -4,12 +4,13 @@
 
 > Respira profundamente y relaja tu mente.
 
-245 songs - 12 hr 23 min
+249 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day By The Sea](https://open.spotify.com/track/32caN3mL4dftJrVNKYwr1t) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [A Day By The Sea](https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j) | 3:41 | 2022-09-02 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-07-15 |  |
+| [A quiet dawn](https://open.spotify.com/track/1LTYXEgC5nQCHXdpN7Q7CC) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [A quiet dawn](https://open.spotify.com/album/4JRaZmlNVX28v4rQZ73qBX) | 2:23 | 2024-02-14 |  |
 | [A Thousand Memories](https://open.spotify.com/track/0NicReIOJqnuhT5kPe2Q1u) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [A Thousand Memories](https://open.spotify.com/album/07W4VsvYKd4YDl7Zh1pG6B) | 3:06 | 2022-07-15 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2022-07-15 | 2023-03-18 |
 | [A World Away](https://open.spotify.com/track/2q2BfGBehYrqv7SHkqzldR) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [A World Away](https://open.spotify.com/album/0QYPZ8iuY45cLrq3oFGMJG) | 2:20 | 2023-12-01 |  |
@@ -98,6 +99,7 @@
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-07-15 | 2023-07-29 |
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-07-15 |  |
 | [Free Heart](https://open.spotify.com/track/20Swwc4vZdDM00QexotXce) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Completely](https://open.spotify.com/album/1i6EaebeCPg1TzIYjhFWhB) | 2:40 | 2022-07-15 |  |
+| [Free Vigour](https://open.spotify.com/track/4DQDWPoBqNUhFJlY5gUQN7) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Free Vigour](https://open.spotify.com/album/2Rmeg8XQW7eXdMGaEhFIAm) | 3:20 | 2024-02-14 |  |
 | [Förvandlingen](https://open.spotify.com/track/7hWn0BxfT0X160O8PdMVeb) | [Kim Nordenstierna](https://open.spotify.com/artist/0MV0YK75T6vC9k9604QRID) | [Förvandlingen](https://open.spotify.com/album/6a1rjpJ0uygd62VPLvtC1H) | 2:27 | 2023-02-03 |  |
 | [Galaxy River](https://open.spotify.com/track/4qoE30s1SzfR9aylJwSULq) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Galaxy River](https://open.spotify.com/album/3TzMmfxAKMqkRFAShdma9u) | 3:37 | 2022-07-15 |  |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2022-07-15 |  |
@@ -105,6 +107,7 @@
 | [Glittering Tide](https://open.spotify.com/track/7GJuxyNKKWmuSMWFfvVLGx) | [Sine Eins](https://open.spotify.com/artist/6FXJATkFcpQfzxQN4uAccz) | [Sun Walker](https://open.spotify.com/album/7d4JftYo1y9nBSnRe30iDI) | 2:31 | 2022-07-15 | 2023-11-11 |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-07-15 | 2023-02-04 |
 | [Handwritten](https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:23 | 2022-10-15 |  |
+| [Harmony of dreams](https://open.spotify.com/track/16Tgaap5vNPAGpT3j5dwtl) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Harmony of dreams](https://open.spotify.com/album/1Vz4Z26MK76PRfkg9onN7j) | 3:43 | 2024-02-14 |  |
 | [Heart](https://open.spotify.com/track/6Ju1cRnaWq0PU3NDFuUths) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:32 | 2022-09-30 |  |
 | [Heaven Sent](https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:24 | 2022-07-15 |  |
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-07-15 | 2023-11-11 |
@@ -120,6 +123,7 @@
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-07-15 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-07-15 |  |
 | [Intentional State](https://open.spotify.com/track/0PTyLUmKBZpnxOGl1t5elw) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Intentional State](https://open.spotify.com/album/3cRUAysRl6uKb5EYyqetOu) | 3:40 | 2022-07-15 | 2023-09-01 |
+| [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-14 |  |
 | [Invisible Currents](https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Sunrise](https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK) | 2:32 | 2022-08-23 |  |
 | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/track/4klPTHZuYtEDzKcL9Mi4dn) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/album/1xhIrmmpbdMtXHK92Npdks) | 3:30 | 2022-07-15 | 2023-04-29 |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |

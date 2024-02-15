@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Kaliii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,469 likes - 119 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,835 likes - 119 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 75 | [SHOWER SONG](https://open.spotify.com/track/4mD2clo4xlw6aCk5LC7dsi) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [SHOWER SONG](https://open.spotify.com/album/7zJhaYDSEPb6mybiV8sdl5) | 2:43 |
 | 76 | [Want You](https://open.spotify.com/track/3rCfcTci0MDdEQyyZoZWSY) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [Want You](https://open.spotify.com/album/4G6BILfMKr9J36MWIslf5f) | 2:31 |
 | 77 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 |
-| 78 | [Danger](https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq) | [Victorious De Costa](https://open.spotify.com/artist/4GwX8tUbv3nUymcdreyqjr), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Danger](https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB) | 3:02 |
+| 78 | [Danger](https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Danger](https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB) | 3:02 |
 | 79 | [30 Million](https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [30 Million](https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP) | 3:38 |
 | 80 | [All We Have](https://open.spotify.com/track/3or0IsulDuhWQR9pjU4CF2) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [All We Have](https://open.spotify.com/album/1LUanQLREJVyLmfLEmwZy7) | 3:56 |
 | 81 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 118 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 |
 | 119 | [Funk 55](https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Funk 55](https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb) | 6:13 |
 
-Snapshot ID: `MCwyNDZjYTg1ZDFjOWMwM2I0N2M4NTA4Yjg1MDU0NTdmNDhhNGUwNTZj`
+Snapshot ID: `MCw3OWI0ZDM3MDA2ZmMyNGZjYjIzMTk3MmQzZWU3YTU5NWE4MWY1ZjFh`

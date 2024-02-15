@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,626 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,628 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 82 | [Comb My Hair](https://open.spotify.com/track/6bAjvvI6Oo1MARyB2zDHPo) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Bruhnice](https://open.spotify.com/artist/2QW8NaVjm8HVF86S2rMrXL), [Tesia](https://open.spotify.com/artist/5X1yJG15xC3PkAid9lt1sP) | [Comb My Hair](https://open.spotify.com/album/3ErfwLMu1oq718Jn1us5TQ) | 3:35 |
 | 83 | [Riding With Me](https://open.spotify.com/track/2gZCXOYWtv3i7bhl870Bqa) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Riding With Me](https://open.spotify.com/album/3v1hXdqqnxJkVDZi9R1pjB) | 2:56 |
 | 84 | [glitter](https://open.spotify.com/track/5Oc9SrrW1BICBePI1MF4OB) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [glitter](https://open.spotify.com/album/6JAFdHAdf99vu5WGOsPjJM) | 2:45 |
-| 85 | [Fresh Air](https://open.spotify.com/track/3gc6FK8cVsdSb3RIq21C8V) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Jackie](https://open.spotify.com/album/3GmLZdSugxGxuninHFvvk4) | 3:30 |
+| 85 | [Fresh Air](https://open.spotify.com/track/30NAF18yQGvwKrbn1IEMKn) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Fresh Air](https://open.spotify.com/album/5pF4DFW3sI1lzFNUFqXfRb) | 3:30 |
 | 86 | [Heat Wave](https://open.spotify.com/track/1aM6FDnkN9iZZGwfxaz10Y) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [Slow Motion](https://open.spotify.com/album/6IryNbCY54sqtBcOL2vY60) | 3:32 |
 | 87 | [Bitter](https://open.spotify.com/track/5CtRiLuaTYS5LYvqocWPsq) | [CUB](https://open.spotify.com/artist/05IBfj7YDIhBkZRjoC7w4f), [Taylor J\. Frost](https://open.spotify.com/artist/2hrew4PnAbzEkeDMrNFJ4Z) | [Bitter](https://open.spotify.com/album/3tBdGynDpZNwQowRU39mTe) | 2:22 |
 | 88 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/2JpU0BvQsFRJ6tukhc3ENx) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Then We Fall](https://open.spotify.com/album/741BgLLV8HHyGWkDkKMC1h) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MCxkNWFhYzA5Y2E0OTgxOTEwZjE5ZGM1NWZiNjE0MmUzNDJlNjM5N2Ni`
+Snapshot ID: `MCxhMGExZDU0MWQxNzg1ZTE3MWE2MDljNzYxODc2ZDU4OGVjY2Q3Mzc1`

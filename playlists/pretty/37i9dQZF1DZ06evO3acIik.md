@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,123 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,142 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 13 | [And i'd go a thousand miles](https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
 | 14 | [Altitude](https://open.spotify.com/track/5OsHySqSwYLLfot5EswbON) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:44 |
 | 15 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 |
-| 16 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 |
+| 16 | [Downfalls](https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7) | 0:58 |
 | 17 | [Enough For You](https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 0:49 |
 | 18 | [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 |
-| 19 | [Downfalls](https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7) | 0:58 |
+| 19 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 |
 | 20 | [Wars](https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:23 |
 | 21 | [Fallin Out of Love With You](https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 1:50 |
 | 22 | [Every Night](https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Heavenly Father](https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:03 |
 | 50 | [Camp](https://open.spotify.com/track/1WIlQub0N2uENuLhKNuZ5o) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Antoine Bradford](https://open.spotify.com/artist/2ld1XpKgcJ3mNcEFU47n0w) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:14 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAxM2I4ODhjZmU2YzI3N2VkMzUyODgyOThlYzJkNDJjOA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA3YzJiZmYyZDJhM2FhMDZlMjJlOTc4YzZjYzA3NmYzMQ==`

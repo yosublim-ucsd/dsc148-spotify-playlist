@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-147 songs - 8 hr 27 min
+148 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,10 +109,11 @@
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2022-12-22 | 2023-10-21 |
 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2022-12-22 |  |
 | [Standing On The Edge \- Acoustic](https://open.spotify.com/track/3jgdUDYQC7JrENjQ5lWzdB) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Standing On The Edge \(Acoustic\)](https://open.spotify.com/album/4H0brVQx6svIimL2T368KW) | 4:07 | 2023-10-20 |  |
+| [Stay Cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay Cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-14 |  |
 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 | 2023-03-16 |  |
 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 | 2022-12-22 |  |
 | [Straight Driving](https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Straight Driving](https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot) | 3:20 | 2023-06-01 |  |
-| [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2022-12-22 |  |
+| [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2022-12-22 | 2024-02-15 |
 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 | 2023-11-09 |  |
 | [Superman](https://open.spotify.com/track/6zRNC5bXxaUHgihZSNMiL8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Superman](https://open.spotify.com/album/30H3pEsM0Z3Fn6VR8hwu6H) | 2:54 | 2022-12-22 |  |
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2022-12-22 | 2023-11-24 |

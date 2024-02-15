@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 311630,
+  "2024-02-15": 311710,
   "date_first_scraped": "2022-01-17",
   "description": "Don't worry, we're back in the funk of it besties \u2728",
   "name": "Future Funk",
@@ -3785,7 +3785,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 223129,
       "name": "I Must Be Dreamin'",
       "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
@@ -5255,6 +5255,24 @@
       "duration_ms": 135058,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/54Ur6TY1ra3bIhcAF16CcD"
+    },
+    {
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/05OWtn6jfEUORLxplGFmnV"
+      },
+      "artists": [
+        {
+          "name": "Jemaxene",
+          "url": "https://open.spotify.com/artist/1XfbYeCjZeIn6R53FG3uwA"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134211,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/145pMlTsrvdNtSObTyiqMa"
     },
     {
       "album": {

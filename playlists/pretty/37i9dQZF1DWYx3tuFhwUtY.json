@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 140137,
+  "num_followers": 140148,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM5MDM3OWUyMTE2YWI1MmQ1MjkwMTUyYjIxNTA1ODg4MzFmZDBj",
+  "snapshot_id": "MCwwNGY0OWQ2MjM2ZDc0ODI0YjQ4ZTc4M2ZkZDk3MjFiYzFiMTU5YzUz",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -431,22 +431,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Rainbow Mixtape",
-        "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
+        "name": "Mushroom Death Sex Bummer Party",
+        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
       },
       "artists": [
         {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        },
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Sagittarius Superstar",
-      "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
+      "duration_ms": 90343,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -467,18 +463,22 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Mushroom Death Sex Bummer Party",
-        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
+        "name": "Rainbow Mixtape",
+        "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
       },
       "artists": [
         {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        },
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 90343,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
+      "duration_ms": 173320,
+      "name": "Sagittarius Superstar",
+      "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 203106,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Lilacs",
-      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Layup IV",
         "url": "https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 201817,
       "name": "Every Mile",
       "url": "https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Hope Downs",
-        "url": "https://open.spotify.com/album/0zL1ncgS3vbeh8iQ2qywwY"
-      },
-      "artists": [
-        {
-          "name": "Rolling Blackouts Coastal Fever",
-          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
-        }
-      ],
-      "duration_ms": 224525,
-      "name": "Talking Straight",
-      "url": "https://open.spotify.com/track/0pAe3wp6qI0q3BrpQo6nFa"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "I'll Be Your Girl",
         "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 243800,
       "name": "Severed",
       "url": "https://open.spotify.com/track/38psZM2gA6UWA7rqqgOjGL"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Hope Downs",
+        "url": "https://open.spotify.com/album/0zL1ncgS3vbeh8iQ2qywwY"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "duration_ms": 224525,
+      "name": "Talking Straight",
+      "url": "https://open.spotify.com/track/0pAe3wp6qI0q3BrpQo6nFa"
     },
     {
       "added_at": "2023-10-23 19:19:23",

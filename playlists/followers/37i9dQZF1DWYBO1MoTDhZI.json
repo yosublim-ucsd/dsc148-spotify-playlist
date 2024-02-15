@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 3272114,
+  "2024-02-15": 3272827,
   "date_first_scraped": "2019-09-05",
   "description": "Just good vibes all day long",
   "name": "Good Vibes",
@@ -9311,6 +9311,24 @@
       "duration_ms": 173453,
       "name": "NO BAD DAYS (feat. Collett)",
       "url": "https://open.spotify.com/track/5C8ySsx3AT121g24uYR823"
+    },
+    {
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
     },
     {
       "album": {

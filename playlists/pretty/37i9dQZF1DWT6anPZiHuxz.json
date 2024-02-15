@@ -1,12 +1,12 @@
 {
   "description": "Chasing that runner's high",
-  "num_followers": 499487,
+  "num_followers": 499530,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmY1ZGJlOTA0ZWI0MDRlOWZhZTE3YzY4ZjEwMTg0MWQ0MDQyYzRm",
+  "snapshot_id": "MCwwNTIxMzY1ZTU0OTFhNjZlYzlmY2FhZGZhMTEzZjg2MzlkZDgwMTNj",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:08",
@@ -399,26 +399,18 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
-        "name": "Reload (Vocal Version / Radio Edit)",
-        "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
+        "name": "Beauty Marks",
+        "url": "https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw"
       },
       "artists": [
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Tommy Trash",
-          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         }
       ],
-      "duration_ms": 221272,
-      "name": "Reload - Radio Edit",
-      "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
+      "duration_ms": 204150,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
     },
     {
       "added_at": "2024-02-09 07:01:08",
@@ -447,18 +439,26 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
-        "name": "Beauty Marks",
-        "url": "https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw"
+        "name": "Reload (Vocal Version / Radio Edit)",
+        "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
         }
       ],
-      "duration_ms": 204150,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
+      "duration_ms": 221272,
+      "name": "Reload - Radio Edit",
+      "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
     },
     {
       "added_at": "2024-02-09 07:01:08",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "added_at": "2024-02-09 07:01:08",
+      "album": {
         "name": "What A Life (feat. Stevie Appleton)",
         "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 171547,
       "name": "What A Life (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
-    },
-    {
-      "added_at": "2024-02-09 07:01:08",
-      "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "added_at": "2024-02-09 07:01:08",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2024-02-09 07:01:08",
+      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 188640,
       "name": "Ferrari - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
-    },
-    {
-      "added_at": "2024-02-09 07:01:08",
-      "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2024-02-09 07:01:08",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
+        "name": "Lavender Haze (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Lavender Haze - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
+    },
+    {
+      "added_at": "2024-02-09 07:01:08",
+      "album": {
         "name": "Body Moving (Riordan Remix)",
         "url": "https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 186250,
       "name": "Body Moving - Riordan Remix",
       "url": "https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7"
-    },
-    {
-      "added_at": "2024-02-09 07:01:08",
-      "album": {
-        "name": "Lavender Haze (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 171562,
-      "name": "Lavender Haze - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
     },
     {
       "added_at": "2024-02-09 07:01:08",
@@ -1539,26 +1539,26 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
-        "name": "My Universe (Galantis Remix)",
-        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
         }
       ],
-      "duration_ms": 224908,
-      "name": "My Universe - Galantis Remix",
-      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
       "added_at": "2024-02-09 07:01:08",
@@ -1611,26 +1611,26 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+        "name": "My Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         },
         {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+      "duration_ms": 224908,
+      "name": "My Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
       "added_at": "2024-02-09 07:01:08",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2024-02-09 07:01:08",
       "album": {
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2024-02-09 07:01:08",
+      "album": {
         "name": "Nothing To Lose (feat. Circa Waves)",
         "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 264813,
       "name": "Barbra Streisand",
       "url": "https://open.spotify.com/track/6HkmOvGpoYrJ1BdppBNp2t"
-    },
-    {
-      "added_at": "2024-02-09 07:01:08",
-      "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2024-02-09 07:01:08",

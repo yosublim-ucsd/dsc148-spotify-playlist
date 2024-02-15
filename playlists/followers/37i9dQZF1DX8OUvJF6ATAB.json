@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 190656,
+  "2024-02-15": 190689,
   "date_first_scraped": "2022-01-25",
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
   "name": "Exospheres",
@@ -919,7 +919,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 423506,
       "name": "Carrying Gravity",
       "url": "https://open.spotify.com/track/4fnYutJ7rUa1OOqrLSuK2Q"
@@ -3405,6 +3405,24 @@
       "duration_ms": 414117,
       "name": "Nzuku",
       "url": "https://open.spotify.com/track/1pZlOu6Q5ICzwn4nj8O7nL"
+    },
+    {
+      "album": {
+        "name": "ZEBRA",
+        "url": "https://open.spotify.com/album/4xHiUAsLhBxefu9A0xMKfj"
+      },
+      "artists": [
+        {
+          "name": "Arp",
+          "url": "https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414117,
+      "name": "Nzuku",
+      "url": "https://open.spotify.com/track/2J2x5N7N3LWYZfz4nH9uff"
     },
     {
       "album": {

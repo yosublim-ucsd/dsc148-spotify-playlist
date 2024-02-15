@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14200,
+  "num_followers": 14211,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY4YTFiOWM2OThlNjEwYWI0MDdjMmI1ZTRiNzJkNzBlNjA0MjFk",
+  "snapshot_id": "MCwyYzg2YTk1OGYyMmZkMmM0ZGRlYWJiNzg5NGRjZjgzNGFkZjRmNmU0",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "DJ Chully's Handsome Vol.1",
+        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
+      },
+      "artists": [
+        {
+          "name": "So Chan-Whee",
+          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Wonder World",
         "url": "https://open.spotify.com/album/318RAh1OyVhnegQ7oZ8Fib"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "DJ Chully's Handsome Vol.1",
-        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
+        "name": "I Want To Fall In Love",
+        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
       },
       "artists": [
         {
-          "name": "So Chan-Whee",
-          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
+      "duration_ms": 232544,
+      "name": "I Want To Fall In Love",
+      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -431,22 +447,6 @@
       "duration_ms": 222853,
       "name": "Me to You, You to Me",
       "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "I Want To Fall In Love",
-        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
-      },
-      "artists": [
-        {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
-        }
-      ],
-      "duration_ms": 232544,
-      "name": "I Want To Fall In Love",
-      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uace0\ubc31\ud558\uae30 \uc88b\uc740 \ub0a0",
-        "url": "https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 228153,
-      "name": "\ube44\ubc00\ubc88\ud638 486",
-      "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Just Listen.......",
         "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 246333,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "\uace0\ubc31\ud558\uae30 \uc88b\uc740 \ub0a0",
+        "url": "https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 228153,
+      "name": "\ube44\ubc00\ubc88\ud638 486",
+      "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "BLAQ Style",
+        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
+      },
+      "artists": [
+        {
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+        }
+      ],
+      "duration_ms": 200556,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "BLAQ Style",
-        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
-      },
-      "artists": [
-        {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
-        }
-      ],
-      "duration_ms": 200556,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "\ucc28\ub9c8...",
-      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "It's Different",
         "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 271893,
       "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
       "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "\ucc28\ub9c8...",
+      "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Shady Girl",
-        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "Shady Girl",
-      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Get All Right SHOWCHESTRA Live Album",
         "url": "https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 290951,
       "name": "Miss you",
       "url": "https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Shady Girl",
+        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "Shady Girl",
+      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 231173,
-      "name": "How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
+      "duration_ms": 217533,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1219,6 +1219,22 @@
       "duration_ms": 238628,
       "name": "LOVE119 (feat. MC Mong)",
       "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "\uac70\uc9d3\ub9d0",
+        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
+      },
+      "artists": [
+        {
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        }
+      ],
+      "duration_ms": 226038,
+      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
+      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1255,24 +1271,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uac70\uc9d3\ub9d0",
-        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
-      },
-      "artists": [
-        {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
-        }
-      ],
-      "duration_ms": 226038,
-      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
-      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
+      "duration_ms": 231173,
+      "name": "How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Gugip: C.J.2002",
+        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 260480,
+      "name": "Seulpun honjatmal",
+      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 241371,
       "name": "Crazy (feat.Eric)",
       "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Gugip: C.J.2002",
-        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 260480,
-      "name": "Seulpun honjatmal",
-      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+        "name": "Story of someone I know",
+        "url": "https://open.spotify.com/album/6sfusYb200S4DfUMfaM3Sh"
       },
       "artists": [
         {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
         }
       ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+      "duration_ms": 206624,
+      "name": "Story of someone I know",
+      "url": "https://open.spotify.com/track/6qnOvA4WbP3HdYd1DFRoCr"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1499,6 +1499,22 @@
       "duration_ms": 221066,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Story of someone I know",
-        "url": "https://open.spotify.com/album/6sfusYb200S4DfUMfaM3Sh"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Story of someone I know",
-      "url": "https://open.spotify.com/track/6qnOvA4WbP3HdYd1DFRoCr"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Beautiful Mind",
         "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
       },
@@ -1579,6 +1579,26 @@
       "duration_ms": 215248,
       "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
       "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
+      },
+      "artists": [
+        {
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        },
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "\uc548\ubd80",
+      "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1627,22 +1647,6 @@
       "duration_ms": 218400,
       "name": "Hawaian Couple",
       "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "Even Though My Heart Breaks",
-      "url": "https://open.spotify.com/track/6oUnqotL3a95tbuMTmafPj"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

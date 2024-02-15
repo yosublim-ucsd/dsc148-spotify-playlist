@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> simmer down mami
+> it's a real\-life boogie and a real\-life hoedown 🐎
 
 1,376 songs - 3 day 0 hr 24 min
 
@@ -1227,7 +1227,7 @@
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-10-13 | 2022-10-19 |
 | [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 | 2022-10-12 |  |
 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 | 2023-11-21 |  |
-| [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 |  |
+| [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-26 | 2024-02-15 |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-05-19 |  |
 | [This Is The Life](https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:04 | 2023-05-04 |  |
 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 | 2022-10-06 | 2022-10-29 |

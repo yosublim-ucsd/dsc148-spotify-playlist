@@ -1,12 +1,12 @@
 {
   "description": "Put a smile on your face with these happy tunes from the last 30 years. ",
-  "num_followers": 501234,
+  "num_followers": 501411,
   "original_name": "Happy Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjBkZjY2NWQwNTIxNzFmYjU5OWQwMWYzZTA4NTQzMDE3M2RmOTE2",
+  "snapshot_id": "MCw1MDYyZWY3MDQ3MWM3MWQ5ZWFlYmE0ZTNlNzc5MmUwYmI1N2U0NDUz",
   "tracks": [
     {
       "added_at": "2023-01-03 15:00:16",
@@ -483,6 +483,26 @@
     {
       "added_at": "2023-01-03 15:00:16",
       "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+    },
+    {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
-        "name": "Raymond v Raymond (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
-      "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
     },
     {
       "added_at": "2023-11-10 14:43:03",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
       "added_at": "2023-11-10 14:43:03",
       "album": {
         "name": "Pepas",
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-01-03 15:00:16",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
+        "name": "First Band On The Moon (Remastered)",
+        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 193953,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
     },
     {
       "added_at": "2023-05-23 07:26:37",
@@ -1023,22 +1039,6 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
-        "name": "First Band On The Moon (Remastered)",
-        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 193953,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
     },
     {
       "added_at": "2023-01-03 15:00:16",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-01-03 15:00:16",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
+    },
+    {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2023-01-03 15:00:16",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
     },
     {
-      "added_at": "2023-11-10 14:43:03",
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
-    },
-    {
       "added_at": "2023-01-03 15:00:16",
       "album": {
         "name": "The Fame",
@@ -1575,6 +1559,22 @@
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
+    },
+    {
+      "added_at": "2023-11-10 14:43:03",
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "added_at": "2023-01-03 15:00:16",
@@ -1601,26 +1601,6 @@
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
     },
     {
-      "added_at": "2023-11-10 14:43:03",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
       "added_at": "2023-01-03 15:00:16",
       "album": {
         "name": "Layers",
@@ -1639,6 +1619,26 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2023-11-10 14:43:03",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2023-01-03 15:00:16",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-01-03 15:00:16",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
         "name": "Shower",
         "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2023-01-03 15:00:16",
@@ -2009,6 +2009,22 @@
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+    },
+    {
       "added_at": "2023-11-10 14:43:03",
       "album": {
         "name": "Crazy What Love Can Do",
@@ -2035,38 +2051,6 @@
     {
       "added_at": "2023-01-03 15:00:16",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
         "name": "Right Place Right Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 185586,
       "name": "Troublemaker (feat. Flo Rida)",
       "url": "https://open.spotify.com/track/6s8nHXTJVqFjXE4yVZPDHR"
+    },
+    {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2023-01-03 15:00:16",
@@ -2261,22 +2261,6 @@
       "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
     },
     {
-      "added_at": "2023-05-23 07:26:37",
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded",
-        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Starships",
-      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
-    },
-    {
       "added_at": "2023-11-10 14:43:03",
       "album": {
         "name": "Gold Rush Kid",
@@ -2293,6 +2277,38 @@
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
+      "added_at": "2023-05-23 07:26:37",
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Starships",
+      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
+    },
+    {
+      "added_at": "2023-05-23 07:26:37",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
+    },
+    {
       "added_at": "2023-01-03 15:00:16",
       "album": {
         "name": "I Don't Care (with Justin Bieber)",
@@ -2300,8 +2316,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -2343,22 +2359,6 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
-    },
-    {
-      "added_at": "2023-05-23 07:26:37",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
     },
     {
       "added_at": "2023-01-03 15:00:16",
@@ -2635,26 +2635,6 @@
     {
       "added_at": "2023-01-03 15:00:16",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj"
-    },
-    {
-      "added_at": "2023-01-03 15:00:16",
-      "album": {
         "name": "On The Floor",
         "url": "https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm"
       },
@@ -2671,6 +2651,26 @@
       "duration_ms": 230906,
       "name": "On The Floor - Radio Edit",
       "url": "https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"
+    },
+    {
+      "added_at": "2023-01-03 15:00:16",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj"
     },
     {
       "added_at": "2023-01-03 15:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Rhove, ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,095 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,134 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 75 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 76 | [Blauer](https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:55 |
 | 77 | [Candy](https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Bovychulo](https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI) | [Non Lo So](https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa) | 2:22 |
-| 78 | [DREAM TEAM \(feat\. Dylan, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 2:38 |
+| 78 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 |
 | 79 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 |
-| 80 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
+| 80 | [DREAM TEAM \(feat\. Dylan, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 2:38 |
 
-Snapshot ID: `MCxiMTFlNGNhNDcxZmIzNGMxNGIyNmM0N2JiM2IzNmQ5MmI5MjZlN2Ew`
+Snapshot ID: `MCxhYmExMDU3MjcwMTQ3ZjlhZjliMDFlNDIxYWMxNWE3OTAxMzdjZWRl`

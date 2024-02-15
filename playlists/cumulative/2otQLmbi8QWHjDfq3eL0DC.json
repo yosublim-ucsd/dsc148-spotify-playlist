@@ -2239,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Sinceramente",
+        "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215714,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW"
       },

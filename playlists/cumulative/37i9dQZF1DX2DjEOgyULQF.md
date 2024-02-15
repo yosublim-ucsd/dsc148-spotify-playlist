@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2DjEOgyULQF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2DjEOgyULQF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2DjEOgyULQF)
 
-### [Nature Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX2DjEOgyULQF)
+### [Relajación natural](https://open.spotify.com/playlist/37i9dQZF1DX2DjEOgyULQF)
 
-> Ambient with the soothing sounds of water, rain and birds.
+> Música ambient con sonidos relajantes de agua, lluvia y aves.
 
 157 songs - 7 hr 44 min
 

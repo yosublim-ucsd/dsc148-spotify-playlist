@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,890 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,928 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Noche Bonita](https://open.spotify.com/track/2xgfWtf2RHkmZKcIifUA6f) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Noche Bonita](https://open.spotify.com/album/5tFnpp5slL0zCPG35bla3A) | 3:23 |
 | 2 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 |
-| 3 | [Mi Casa Nueva](https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:50 |
-| 4 | [Playa Sola](https://open.spotify.com/track/0mzpP5g8OCOj3dCtowPAjV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Embargame A Mi](https://open.spotify.com/album/3W3HJXgsvDaZr8lxKqNN6m) | 2:55 |
+| 3 | [Playa Sola](https://open.spotify.com/track/0mzpP5g8OCOj3dCtowPAjV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Embargame A Mi](https://open.spotify.com/album/3W3HJXgsvDaZr8lxKqNN6m) | 2:55 |
+| 4 | [Mi Casa Nueva](https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:50 |
 | 5 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 |
 | 6 | [Ya No Te Amo](https://open.spotify.com/track/7H4tgQ4ldZ1PmWL88b6nuI) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Con Tal De Que Me Olvides](https://open.spotify.com/album/7ytPVFfcyxDrMraTGv9w8R) | 3:05 |
-| 7 | [Aguanta Corazón](https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:16 |
-| 8 | [Laurita Garza](https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:11 |
+| 7 | [Laurita Garza](https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:11 |
+| 8 | [Aguanta Corazón](https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:16 |
 | 9 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 10 | [Total Ya Se Fue](https://open.spotify.com/track/0Mps5Z6CN05QkPIzBoAqRM) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:08 |
 | 11 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 44 | [Para Ti Mi Amor](https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros Volumen 2](https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k) | 3:04 |
 | 45 | [Reproches Del Viento](https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:26 |
 | 46 | [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 |
-| 47 | [Qué Valor De Mujer](https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:13 |
-| 48 | [Alfredo Galeana](https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:17 |
+| 47 | [Alfredo Galeana](https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:17 |
+| 48 | [Qué Valor De Mujer](https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:13 |
 | 49 | [Que Poca](https://open.spotify.com/track/4XKtNegKyGMCdgIdCxfcMQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 3:22 |
 | 50 | [La Viviana](https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Aferrado Al Amor](https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV) | 3:28 |
-| 51 | [Para Que Te Explico](https://open.spotify.com/track/08tHBseKFFGXzLJhJkRo20) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:37 |
+| 51 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAyZDE5MWYxYzAyY2MzZDZhNzg4MzA5MTliNjA3OTgyMQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA1OTdkNzg3NDI0YTA1YmIyMjI0MjI2YmU3MTc4MjNlMA==`

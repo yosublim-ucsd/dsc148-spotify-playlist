@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,869 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,874 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 10 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
 | 11 | [Yentha Prema \(Sitar Instrumental\)](https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul) | [Raj Prakash Paul](https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e) | [Prakshalana](https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD) | 1:35 |
 | 12 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
-| 13 | [Raag Khamaaj](https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D) | [Alex Heffes](https://open.spotify.com/artist/35eFG2HfFuoxcJYZwt80ZA), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2) | 3:30 |
-| 14 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ), [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
+| 13 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ), [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
+| 14 | [Raag Khamaaj](https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D) | [Alex Heffes](https://open.spotify.com/artist/35eFG2HfFuoxcJYZwt80ZA), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2) | 3:30 |
 | 15 | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 |
 | 16 | [Roslyn](https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Roslyn](https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp) | 3:17 |
 | 17 | [Raga Maluha Kalyan \- Jod](https://open.spotify.com/track/2rCP1X7FudFJDpD5B4QckL) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [From The NCPA Archives](https://open.spotify.com/album/1KrPa1S1Trn8DUKIU6q98E) | 2:52 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 38 | [Sitar Todi](https://open.spotify.com/track/0OhQFqc2Gfvv8qr7Z3Kzlw) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:46 |
 | 39 | [Soul Mate](https://open.spotify.com/track/5Sa7kopLOVpnoDFquNvuG9) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 3:38 |
 | 40 | [Evenings in Dehli \- Sitar/Guitar Melodies for Relaxation](https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [50 New Age, Relaxation & Massage Tracks \(For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age\)](https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9) | 2:29 |
-| 41 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar \(Instrumental\)](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
-| 42 | [Dreaming Sitar \- Original Mix](https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 1:57 |
+| 41 | [Saffron Dreams \(The Night Mudra\)](https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 8:05 |
+| 42 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar \(Instrumental\)](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
 | 43 | [Escape \- Yoga Sitar Trance](https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Escape \- Yoga Sitar Trance](https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8) | 6:38 |
-| 44 | [Saffron Dreams \(The Night Mudra\)](https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 8:05 |
+| 44 | [Dreaming Sitar \- Original Mix](https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 1:57 |
 | 45 | [Rag: Piloo](https://open.spotify.com/track/6OhLKq3TEFW0JAYFXtzEwa) | [The Silver Sitar](https://open.spotify.com/artist/1Ja5V07Xm1AS9HKg7uaJO0) | [Sitar & Tabla: Music of India](https://open.spotify.com/album/1XcwgOx2s1ksPVPrVnn7Kk) | 5:16 |
 | 46 | [Inspiration](https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Inspiration](https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO) | 6:56 |
 | 47 | [Best Sitar Music](https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 49 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
 | 50 | [Raag Hansadhwani \- Raag \- Hansadhwani \- Live](https://open.spotify.com/track/0JQX9g5zVXcqtzJksDF7qD) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Raag Hansadhwani \(Live\)](https://open.spotify.com/album/0x0ixMEcuN7Qoa9m0bgYp5) | 9:34 |
 
-Snapshot ID: `MCxlYWRkZmIwN2I0ZTBkMjkwMjk3Mzk3OTkzYmJlY2UzMDM2Y2EwODNm`
+Snapshot ID: `MCwxOTkxMDQ5MzQ4NTYzMjljZGQ2YzY1YTkxMDBlM2U0YWRiODU3MjRh`

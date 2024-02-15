@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 83875,
+  "num_followers": 83892,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGU2MzFkOTFlZjU3YTczMzMwMzc2NDE4ODFlNThiNDFiZDA4ZmIx",
+  "snapshot_id": "MCw3M2YzYjRmZmFjMGJiYjAzY2YzZWU5NmVkN2QyMTYyOWM1OTc4MjY2",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: An American In Paris / Porgy And Bess",
-        "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
-      },
-      "artists": [
-        {
-          "name": "New Zealand Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 642240,
-      "name": "Cuban Overture",
-      "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
         "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 278000,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: An American In Paris / Porgy And Bess",
+        "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
+      },
+      "artists": [
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 642240,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
+        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
+      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 498373,
       "name": "Let 'Em Eat Cake: Overture",
       "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
-        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 199421,
-      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
-      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
     },
     {
       "added_at": "2022-08-05 04:02:00",

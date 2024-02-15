@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 85840,
+  "2024-02-15": 85848,
   "date_first_scraped": "2022-10-24",
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
   "name": "Mid Tempo Magic",
@@ -7262,6 +7262,28 @@
     },
     {
       "album": {
+        "name": "Trio & Charm",
+        "url": "https://open.spotify.com/album/7IiryjEryXiL3wRNWItITE"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        },
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153853,
+      "name": "The Yonder",
+      "url": "https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj"
+    },
+    {
+      "album": {
         "name": "The La's (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
       },
@@ -8007,7 +8029,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 249259,
       "name": "Will Anybody Ever Love Me?",
       "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe"
@@ -8065,6 +8087,24 @@
       "duration_ms": 178200,
       "name": "You Are The Sunshine Of My Life",
       "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "album": {
+        "name": "Live from Spotify Studios",
+        "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176055,
+      "name": "You Could Start A Cult - Live from Spotify Studios",
+      "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"
     },
     {
       "album": {
@@ -8599,7 +8639,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 234000,
       "name": "\u30da\u30a4\u30b8",
       "url": "https://open.spotify.com/track/63WCRjLt6NqgwtXxwExYat"

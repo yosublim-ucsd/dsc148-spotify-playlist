@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 192370,
+  "num_followers": 192471,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTEzMDIwZDA5ZjllZDllODdjMGU3NzBjYzMyNzBiYzk4ZjZiNGY3",
+  "snapshot_id": "MCw5OTY5OTE0ZDBlODNhY2RmY2U1Nzg1NDM0ODc2Njc3NDIyOWQ5Y2M0",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 500000,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 211719,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 500000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        }
-      ],
-      "duration_ms": 170397,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "duration_ms": 170397,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Jireh (Reyer Remix)",
-        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Esther Lisette",
-          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Jireh - Reyer Remix",
-      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 184901,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Jireh (Reyer Remix)",
+        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Esther Lisette",
+          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Jireh - Reyer Remix",
+      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "HEY GOD",
-        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
-      },
-      "artists": [
-        {
-          "name": "KAYDEN",
-          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "HEY GOD",
-      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 225520,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "HEY GOD",
+        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
+      },
+      "artists": [
+        {
+          "name": "KAYDEN",
+          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "HEY GOD",
+      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Step Into The Fight (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/7CfPzqn1xDzytHi7FBKcxO"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
+        }
+      ],
+      "duration_ms": 213868,
+      "name": "Step Into The Fight - Gregatron Remix",
+      "url": "https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "The Same Jesus (Reyer Remix)",
         "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
       },
@@ -1595,46 +1615,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Come and Be My Love",
-        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Come and Be My Love",
-      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Step Into The Fight (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/7CfPzqn1xDzytHi7FBKcxO"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
-        }
-      ],
-      "duration_ms": 213868,
-      "name": "Step Into The Fight - Gregatron Remix",
-      "url": "https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "High Low (Remix)",
         "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 164383,
       "name": "High Low - Remix",
       "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Come and Be My Love",
+        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Come and Be My Love",
+      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "LOSE CONTROL",
-        "url": "https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM"
+        "name": "Crown (Deluxe)",
+        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
       },
       "artists": [
         {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
         }
       ],
-      "duration_ms": 146548,
-      "name": "LOSE CONTROL",
-      "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
+      "duration_ms": 197000,
+      "name": "Turn This Ship Around - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
     }
   ],
   "unique_name": "Christian Dance Party",

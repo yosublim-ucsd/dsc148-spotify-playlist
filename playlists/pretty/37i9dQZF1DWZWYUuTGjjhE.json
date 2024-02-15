@@ -1,12 +1,12 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 353709,
+  "num_followers": 353745,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRlNzkxYmZiYWRjNTdlYWJjN2Q2Mjk2ZjFlNTdhMmU3ZmEzODJl",
+  "snapshot_id": "MCw2OTg0MzViNzg5NzBiYTVlMjcxZGIwYjNhMjFiODkwYWNkN2Y2YTY3",
   "tracks": [
     {
       "added_at": "2023-10-17 16:16:50",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "The Best Of Canned Heat",
-        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
       "artists": [
         {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
         }
       ],
-      "duration_ms": 171373,
-      "name": "Going Up The Country",
-      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -819,6 +803,22 @@
       "duration_ms": 161226,
       "name": "I Second That Emotion",
       "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Going Up The Country",
+      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
     },
     {
       "added_at": "2023-10-17 16:16:50",

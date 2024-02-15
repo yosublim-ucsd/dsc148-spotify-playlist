@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,334 songs - 3 day 1 hr 20 min
+1,335 songs - 3 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Fantasy](https://open.spotify.com/track/7jBYZClvpV3RaukL5phuhQ) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:35 | 2021-05-09 | 2021-05-13 |
 | [Fasma](https://open.spotify.com/track/5pd7Z4awcQGPnpQlXTkEXg) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 2:37 | 2022-05-28 | 2022-05-30 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-27 |
+| [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 | 2024-02-14 |  |
 | [Faux Départ](https://open.spotify.com/track/26Skmv785i0ql4T3vJHgLe) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Faux Départ](https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM) | 2:45 | 2022-11-13 | 2022-11-26 |
 | [Fawda](https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Fawda](https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc) | 4:20 | 2024-01-06 | 2024-02-11 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-08 |
@@ -460,7 +461,7 @@
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-02 |
 | [GOD'S COUNTRY](https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:07 | 2023-07-29 | 2023-08-01 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-28 | 2021-07-24 |
-| [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 | 2024-01-28 |  |
+| [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 | 2024-01-28 | 2024-02-15 |
 | [Grammy](https://open.spotify.com/track/6dm2JL4ghgS4nTlNdP7GYS) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Cloud 26](https://open.spotify.com/album/1gGWJfhTrSCPgjrbWTvoDz) | 3:17 | 2021-03-27 | 2021-05-09 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-03 | 2023-11-26 |
@@ -678,7 +679,7 @@
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-29 | 2022-10-31 |
 | [Light The Sky \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1HHzmFwcB8Cs7WyNukkCSn) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Light The Sky \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6wdzzvM5r17TGPXrIvKYJu) | 4:18 | 2022-12-11 | 2022-12-13 |
 | [Lights](https://open.spotify.com/track/6w3OVt4jAtVAXB4olwyfFD) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lights](https://open.spotify.com/album/1ViBskZXUYw7JotPVYsFNr) | 4:02 | 2021-12-18 | 2021-12-19 |
-| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 |  |
+| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 | 2024-02-15 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 | 2023-04-21 |
 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 | 2023-11-25 | 2024-01-07 |
 | [Lili](https://open.spotify.com/track/049e2VlfYsfIRrZk1bfAqX) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Lili](https://open.spotify.com/album/2y1RmOXemgi3JpFQCtywRo) | 3:02 | 2022-02-18 | 2022-02-22 |
@@ -1141,7 +1142,7 @@
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-01-09 | 2022-01-14 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-10 | 2023-06-16 |
-| [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-27 | 2024-02-14 |
+| [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-27 |  |
 | [Taline](https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm) | 2:56 | 2022-02-20 | 2023-04-01 |
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-31 | 2023-06-17 |
 | [Tango](https://open.spotify.com/track/1ktSlQqcgod7b4amYARarW) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 2:52 | 2021-03-27\* | 2021-08-15 |

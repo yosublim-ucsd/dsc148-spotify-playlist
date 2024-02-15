@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Sie7e
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,945 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,948 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 24 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 |
 | 25 | [Agua](https://open.spotify.com/track/2hzyzFA7VZrtvFaWIYxynR) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [De Vuelta a Casa](https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0) | 3:58 |
 | 26 | [Llévame](https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe), [Gabo Lugo](https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo) | [Llévame](https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM) | 4:18 |
-| 27 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
-| 28 | [Rockstar](https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Rockstar](https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw) | 3:20 |
+| 27 | [Rockstar](https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Rockstar](https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw) | 3:20 |
+| 28 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
 | 29 | [Hasta el final](https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Hasta el final](https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd) | 3:28 |
 | 30 | [Café](https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G), [Balbi](https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 3:07 |
 | 31 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 40 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 | 41 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
 | 42 | [Guarapo y Flor](https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Guarapo y Flor](https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ) | 2:59 |
-| 43 | [Aguadilla](https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Manu Durán](https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:19 |
+| 43 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
 | 44 | [La Pastilla de Tus Sueños, Pt\. 2](https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Cromo Rx](https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3) | 3:53 |
-| 45 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
+| 45 | [Aguadilla](https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Manu Durán](https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:19 |
 | 46 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
 | 47 | [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 |
 | 48 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
 | 49 | [Beso Con Sal](https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA) | [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Beso Con Sal](https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy) | 2:33 |
 | 50 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
 
-Snapshot ID: `MCw3YzU0NjFlMDc5YzNmOTY0OGVmMzNmMWVmYTM4NTIxNTc0YTk1MmRk`
+Snapshot ID: `MCw1OWJlOTI5OTRjODk2NTE0YzZjYjI1ZTgyOGVmOWJiNGJlYzlkZDAx`

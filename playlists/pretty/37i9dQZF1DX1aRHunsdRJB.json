@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10438,
+  "num_followers": 10444,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhiNDFhZGM2NGI4OWUwYmEwMWI0YmIzM2U1OGRiZGI3MmZlZDc0",
+  "snapshot_id": "MCw0MjM4YzM1ZWQyMzIzN2RjMjNiMDE4MjdhOWQ3MDZjZWVkODg0NzMx",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -115,26 +115,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "438",
-        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "438",
+        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Dear Promoter",
         "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 139000,
       "name": "Split in De Middle",
       "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Heaven Passport",
         "url": "https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 133746,
       "name": "Boss Lady (Sign Me Up)",
       "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stage Gone Bad",
-        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Stage Gone Bad",
-      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wileside Government",
         "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
       },
@@ -615,6 +595,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Stage Gone Bad",
+        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Stage Gone Bad",
+      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Caution Riddim",
         "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 189022,
       "name": "Up & Up",
       "url": "https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Nasty Up",
-      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 194222,
       "name": "Yuh Bad (No Stressing)",
       "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Mandrakes Riddim",
         "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 230769,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
+      },
+      "artists": [
+        {
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+        "name": "Rats Hole Riddim",
+        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
       },
       "artists": [
         {
-          "name": "Twani",
-          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
         }
       ],
-      "duration_ms": 213864,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
+      "duration_ms": 190560,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rats Hole Riddim",
-        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
+        "name": "Honda",
+        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
       },
       "artists": [
         {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+          "name": "Twani",
+          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
+      "duration_ms": 213864,
+      "name": "Honda",
+      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Smoke Mask Riddim",
+        "url": "https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1"
+      },
+      "artists": [
+        {
+          "name": "Lednek",
+          "url": "https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK"
+        }
+      ],
+      "duration_ms": 202023,
+      "name": "Down in de Meat",
+      "url": "https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Toatin Riddim",
         "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Smoke Mask Riddim",
-        "url": "https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1"
-      },
-      "artists": [
-        {
-          "name": "Lednek",
-          "url": "https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK"
-        }
-      ],
-      "duration_ms": 202023,
-      "name": "Down in de Meat",
-      "url": "https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp"
     },
     {
       "added_at": "2022-02-24 18:00:00",

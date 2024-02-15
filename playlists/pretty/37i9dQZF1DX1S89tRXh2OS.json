@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour prendre la route.",
-  "num_followers": 429274,
+  "num_followers": 429341,
   "original_name": "Sur la route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGY5ZWEwMmNkNGJiYzk2N2M3YzFmOTIyYjgyNWVmNWQ3MWQ0NTc5",
+  "snapshot_id": "MCxjZTg0YTU3MjBjYjhjZjM2NDA0OTZjMzAwNTVmYjY5OTBiYjQ2ODJi",
   "tracks": [
     {
       "added_at": "2024-01-31 14:26:38",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-01-31 14:26:38",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2024-01-31 14:26:38",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2024-01-31 14:26:38",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2024-01-31 14:26:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-31 14:26:38",
       "album": {
-        "name": "Greatest Hits: God's Favorite Band",
-        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
-    },
-    {
-      "added_at": "2024-01-31 14:26:38",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2024-01-31 14:26:38",
+      "album": {
+        "name": "Greatest Hits: God's Favorite Band",
+        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
     },
     {
       "added_at": "2024-01-31 14:26:38",

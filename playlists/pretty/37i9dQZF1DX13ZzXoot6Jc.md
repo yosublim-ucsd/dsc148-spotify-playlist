@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,186 likes - 83 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,201 likes - 83 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 53 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 |
 | 54 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
 | 55 | [I'll Be Here](https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [I'll Be Here](https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk) | 4:07 |
-| 56 | [The Whiskey's Gone](https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [The Whiskey's Gone](https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm) | 2:57 |
-| 57 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
+| 56 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
+| 57 | [The Whiskey's Gone](https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [The Whiskey's Gone](https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm) | 2:57 |
 | 58 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 59 | [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 |
 | 60 | [Chasing Tornadoes](https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Chasing Tornadoes](https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap) | 2:57 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 70 | [Two of Us](https://open.spotify.com/track/4SBF12nxiWZhQCwC7EGFiR) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Two of Us](https://open.spotify.com/album/6hBCrISl057IRjVjlghx5P) | 3:14 |
 | 71 | [Who Says You Can't Have Everything](https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 3:08 |
 | 72 | [Product Of \(Feat\. Lee Brice\)](https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x) | [Lewis Brice](https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Product Of \(Feat\. Lee Brice\)](https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY) | 2:53 |
-| 73 | [Man Of Constant Sorrow](https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Man Of Constant Sorrow](https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj) | 3:34 |
-| 74 | [Walking Each Other Home](https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gravel & Gold](https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4) | 3:45 |
+| 73 | [Walking Each Other Home](https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gravel & Gold](https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4) | 3:45 |
+| 74 | [Man Of Constant Sorrow](https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Man Of Constant Sorrow](https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj) | 3:34 |
 | 75 | [Sad Ass Country Song](https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
 | 76 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 |
 | 77 | [On Three](https://open.spotify.com/track/7qAXZbesT1QwNJa5YYUjR5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me \(Royal Edition Extended Version\)](https://open.spotify.com/album/2pymQjoyFaQuoGL1oOZeD9) | 2:40 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 82 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 | 83 | [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 |
 
-Snapshot ID: `MCw0NmJkMDY2MWFhNjE0MzI5ZGQ5MWE4OTE4NzgyNjljODZkOWI1NDBm`
+Snapshot ID: `MCw3ZGFmNDk3YmU5ZTAzNzRkOWVjNWFhZGY4YTliMzQ4Y2UxODBhYThh`

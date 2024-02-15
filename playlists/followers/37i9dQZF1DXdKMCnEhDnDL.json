@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 479271,
+  "2024-02-15": 479324,
   "date_first_scraped": "2023-02-25",
   "description": "De beste Nederlandse hits van vroeger en nu. Cover: Hannah Mae",
   "name": "Beste van NL",
@@ -87,10 +87,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 151028,
       "name": "100 SMSjes",
       "url": "https://open.spotify.com/track/4MA4LxSsJRbj4axg1uTi2n"
+    },
+    {
+      "album": {
+        "name": "De Tijd Gaat Mooie Dingen Doen",
+        "url": "https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO"
     },
     {
       "album": {
@@ -229,6 +251,28 @@
       "duration_ms": 188663,
       "name": "Afraid Of The Dark",
       "url": "https://open.spotify.com/track/2vSLSJH9lHKne3zUKYBVPI"
+    },
+    {
+      "album": {
+        "name": "Al Heb Ik Mijn Dag Niet",
+        "url": "https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Al Heb Ik Mijn Dag Niet",
+      "url": "https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC"
     },
     {
       "album": {
@@ -573,7 +617,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 163125,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
@@ -639,6 +683,28 @@
       "duration_ms": 186000,
       "name": "Bieber Van De Kroeg",
       "url": "https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn"
+    },
+    {
+      "album": {
+        "name": "Blijf Bij Mij",
+        "url": "https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179676,
+      "name": "Blijf Bij Mij",
+      "url": "https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi"
     },
     {
       "album": {
@@ -798,6 +864,60 @@
     },
     {
       "album": {
+        "name": "Hoezo?",
+        "url": "https://open.spotify.com/album/05g7zPOvUac2eSSDEUxXqs"
+      },
+      "artists": [
+        {
+          "name": "Clouseau",
+          "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "Daar Gaat Ze",
+      "url": "https://open.spotify.com/track/2vFzC766RC2m36ywFyj09S"
+    },
+    {
+      "album": {
+        "name": "Dan Volg Je Haar Benen",
+        "url": "https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Dan Volg Je Haar Benen",
+      "url": "https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM"
+    },
+    {
+      "album": {
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "Dansen Aan Zee",
+      "url": "https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
       },
@@ -809,7 +929,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 211174,
       "name": "Dat Heb Jij Gedaan",
       "url": "https://open.spotify.com/track/3BkP5vYURwcoAkKhzrLVd8"
@@ -1089,7 +1209,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 186000,
       "name": "Eigen Weg",
       "url": "https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj"
@@ -1187,6 +1307,24 @@
       "duration_ms": 178105,
       "name": "Geef Me Dan Iets",
       "url": "https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA"
+    },
+    {
+      "album": {
+        "name": "Het Beste Van Guus Meeuwis",
+        "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226213,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS"
     },
     {
       "album": {
@@ -1353,7 +1491,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 180025,
       "name": "Hee Joh Jip",
       "url": "https://open.spotify.com/track/5c5cD2VQJcc7VScwW6Ra4k"
@@ -1433,7 +1571,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 235265,
       "name": "Het Komt Wel Goed",
       "url": "https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ"
@@ -1593,7 +1731,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 183968,
       "name": "Hoodiedate",
       "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
@@ -1807,7 +1945,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 236920,
       "name": "Ik Wou Dat Ik Jou Was",
       "url": "https://open.spotify.com/track/5t6mxGSbrfKjocqUlsyAZH"
@@ -1991,7 +2129,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 238366,
       "name": "Laat Me Los",
       "url": "https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ"
@@ -2189,6 +2327,24 @@
       "duration_ms": 134400,
       "name": "Leven",
       "url": "https://open.spotify.com/track/2Mv9R8FDkPCjAghezGUgJC"
+    },
+    {
+      "album": {
+        "name": "Mama Kijk Ik Kan Het Zelf",
+        "url": "https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Mama Kijk Ik Kan Het Zelf",
+      "url": "https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9"
     },
     {
       "album": {
@@ -2576,6 +2732,24 @@
     },
     {
       "album": {
+        "name": "De Stilte Voorbij",
+        "url": "https://open.spotify.com/album/4NjZiNAFDFNtfbgyIHowGM"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Onderweg",
+      "url": "https://open.spotify.com/track/1nduf8eirAAiVLXoC1C7cz"
+    },
+    {
+      "album": {
         "name": "Onderweg Naar Later",
         "url": "https://open.spotify.com/album/7HeQ8ha8PXB1IUeJrLJmz7"
       },
@@ -2649,7 +2823,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 162918,
       "name": "Papa Mama",
       "url": "https://open.spotify.com/track/2hNXxcymoCnK2BCMjeN9wX"
@@ -2815,7 +2989,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 196000,
       "name": "Rommel",
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
@@ -2862,6 +3036,24 @@
     },
     {
       "album": {
+        "name": "Satisfyer",
+        "url": "https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121451,
+      "name": "Satisfyer",
+      "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
+    },
+    {
+      "album": {
         "name": "Schat Ik Ben Ok",
         "url": "https://open.spotify.com/album/15lDUXpXPWiAiXFmjbzHpy"
       },
@@ -2877,6 +3069,28 @@
       "duration_ms": 168181,
       "name": "Schat Ik Ben Ok",
       "url": "https://open.spotify.com/track/0SjRVIZcRHqIHuU540ZZN5"
+    },
+    {
+      "album": {
+        "name": "Achtentwintig",
+        "url": "https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233051,
+      "name": "September",
+      "url": "https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh"
     },
     {
       "album": {
@@ -3010,6 +3224,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1WnmijHXFebuls1KB2fVNg"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY"
+    },
+    {
+      "album": {
         "name": "Sterrenlopen (met S10)",
         "url": "https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ"
       },
@@ -3043,7 +3275,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 220946,
       "name": "Sterrenstof",
       "url": "https://open.spotify.com/track/4PW9WvbhNlrFoThvc7zheh"
@@ -3326,6 +3558,24 @@
     },
     {
       "album": {
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160301,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe"
+    },
+    {
+      "album": {
         "name": "Van Mij Alleen",
         "url": "https://open.spotify.com/album/0YueIkk5v6JJdOlMc2Tcc1"
       },
@@ -3495,7 +3745,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 164362,
       "name": "Vroeger",
       "url": "https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt"
@@ -3695,7 +3945,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 239032,
       "name": "What Are You Waiting For?",
       "url": "https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX"
@@ -3713,7 +3963,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 165613,
       "name": "Zeg Maar Niets Meer - Hazes Is De Basis",
       "url": "https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9"

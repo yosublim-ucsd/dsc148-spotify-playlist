@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 33887,
+  "num_followers": 33906,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx",
+  "snapshot_id": "MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 300747,
       "name": "Morning Spring",
       "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "The Fifth Season (Versions)",
-        "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
-      },
-      "artists": [
-        {
-          "name": "Lafawndah",
-          "url": "https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 674042,
-      "name": "You, at the End - Laurel Halo Version",
-      "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Blink a Few Times to Clear Your Eyes",
         "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
       },
@@ -1583,18 +1563,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Nine Spells",
-        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
+        "name": "The Fifth Season (Versions)",
+        "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
       "artists": [
         {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+          "name": "Lafawndah",
+          "url": "https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Spell I: Let the Waves In",
-      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
+      "duration_ms": 674042,
+      "name": "You, at the End - Laurel Halo Version",
+      "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1627,6 +1611,22 @@
       "duration_ms": 231618,
       "name": "Night Changes Many Thoughts",
       "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Nine Spells",
+        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
+      },
+      "artists": [
+        {
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Spell I: Let the Waves In",
+      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
     },
     {
       "added_at": "2023-09-08 14:04:07",

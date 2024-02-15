@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,833 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,869 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 |
-| 2 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) \[Spotify Singles\]](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
+| 2 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 3 | [So Below](https://open.spotify.com/track/7MYbFew463Qcnj3nsdU0NJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [What is Really Underneath?](https://open.spotify.com/album/6b7BEJklF29cidjmtLOC1Y) | 3:26 |
 | 4 | [BIRTH OF VENUS](https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 3:12 |
 | 5 | [BYE BYE](https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [BYE BYE](https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 100 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 
-Snapshot ID: `MCxkYjg2ZTg3OGZhYzIzNDUyMWVhYTM3ZjM0MGFhMjQ3M2U1MThiNDRi`
+Snapshot ID: `MCxjNTE1ZTBiNGY3N2U3MjE0YjdjNzY3OTE4NDA4YWQ4NTI3ZGFhYjk2`

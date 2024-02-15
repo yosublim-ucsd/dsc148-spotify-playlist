@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-729 songs - 1 day 19 hr 33 min
+730 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Headphones](https://open.spotify.com/track/07YRZrOmEGdDicx0YziCPf) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Headphones](https://open.spotify.com/album/57vIjEzVyQAutIjchCgzxn) | 3:24 | 2021-12-17 | 2022-07-28 |
 | [Headphones](https://open.spotify.com/track/7mQmu0JSoEyYU763IJXhIA) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Headphones](https://open.spotify.com/album/5jmUnHI6B32EloahOxu4sF) | 3:24 | 2022-07-22 |  |
 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 | 2022-07-22 | 2024-02-03 |
+| [heartbeat](https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 4:31 | 2023-10-06 |  |
 | [heartbeat](https://open.spotify.com/track/2firPG9DQoxNvslHjw9RvR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [heartbeat](https://open.spotify.com/album/2ZJPChgq8zw1IeVONS6TDB) | 4:32 | 2021-12-17 | 2022-07-29 |
 | [Heartbreak Money](https://open.spotify.com/track/0pDOQdtIIdLUZF87ga8tOk) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Heartbreak Money](https://open.spotify.com/album/2sEOgcQYdR6JPZRQT7bn4K) | 3:19 | 2022-01-24 | 2022-04-19 |
 | [heavenly light \(work tape\)](https://open.spotify.com/track/2trTIGZiPMmKmz5MPWlgdG) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [heavenly light \(work tape\)](https://open.spotify.com/album/2LUo6oFDSN7qzgRd3CxBlg) | 3:11 | 2022-07-29 |  |
@@ -428,7 +429,7 @@
 | [Mirrors \- Acoustic](https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC) | 3:44 | 2022-07-22 |  |
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-12-17 | 2023-10-24 |
 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-06 |  |
-| [Miss Me](https://open.spotify.com/track/5uetNbm1FlJdxsqigbMSB8) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:14 | 2021-12-17 |  |
+| [Miss Me](https://open.spotify.com/track/5uetNbm1FlJdxsqigbMSB8) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:14 | 2021-12-17 | 2024-02-15 |
 | [Missing the Mark](https://open.spotify.com/track/7yjLdEv8sRozkE9CejRi7v) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Missing the Mark](https://open.spotify.com/album/1VyYNWUIaQRv9gX5R8CltB) | 2:32 | 2021-12-17 | 2022-07-30 |
 | [Molly](https://open.spotify.com/track/2XLQJSuY0JIVItivadN84f) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Molly](https://open.spotify.com/album/5tfFt1QNgng16TJQIilxLx) | 3:04 | 2021-12-17 | 2022-07-29 |
 | [Molly](https://open.spotify.com/track/3rbcS4sYF7L86YGajPqJwR) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Everything I Want](https://open.spotify.com/album/1t3j5GWx4XuMIxhVlbDAtZ) | 3:04 | 2023-03-17 | 2024-02-14 |

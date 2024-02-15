@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 19406,
+  "2024-02-15": 19417,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to Arab women, at full volume. Cover: Dana Salah\n\n\n",
   "name": "EQUAL Arabia",
@@ -3822,6 +3822,28 @@
     },
     {
       "album": {
+        "name": "Habbeitak",
+        "url": "https://open.spotify.com/album/78Q7pQRA2J1QEIg1NGYgWw"
+      },
+      "artists": [
+        {
+          "name": "Nesma Mahgoub",
+          "url": "https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI"
+        },
+        {
+          "name": "OBADA Q",
+          "url": "https://open.spotify.com/artist/12YFoLfEdYUglaGcUeU6ty"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177998,
+      "name": "Habbeitak",
+      "url": "https://open.spotify.com/track/5sWtbEcIpGB0FLzERXf113"
+    },
+    {
+      "album": {
         "name": "Habeetah",
         "url": "https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I"
       },
@@ -4739,6 +4761,24 @@
       "duration_ms": 206566,
       "name": "Kam Sanah",
       "url": "https://open.spotify.com/track/7MrMMG6dvOkQAFeumvAAew"
+    },
+    {
+      "album": {
+        "name": "KAN",
+        "url": "https://open.spotify.com/album/2S5ec3ra7ZXHnVTkqDgJQ2"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "KAN",
+      "url": "https://open.spotify.com/track/0bG4e13MjolDszR22Qfub9"
     },
     {
       "album": {

@@ -1,29 +1,13 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 149532,
+  "num_followers": 149587,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmYzNTUxY2RhNDJhMTAxNTYzNTllMDhlMjFlOTRlNWM2Y2EzN2U3",
+  "snapshot_id": "MCwwNjRkMjFjNjJhYjk5YzU1YmM3ZjM5Y2RkMWFkZTUzYTVkZGFhYTBh",
   "tracks": [
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
-    },
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
@@ -51,6 +35,22 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Bishoun\u00e9: Alma del Huila",
-        "url": "https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "6 8",
-      "url": "https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Cheerleader",
@@ -895,6 +879,22 @@
       "duration_ms": 147134,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Bishoun\u00e9: Alma del Huila",
+        "url": "https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "6 8",
+      "url": "https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Thirstier",
-        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 261941,
-      "name": "Don't Go Puttin Wishes in My Head",
-      "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "More Like You",
         "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Thirstier",
+        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 261941,
+      "name": "Don't Go Puttin Wishes in My Head",
+      "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
     },
     {
       "added_at": "2023-06-01 04:00:00",

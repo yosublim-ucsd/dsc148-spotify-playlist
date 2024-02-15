@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q?si=iXij6B\_eQHq9EArbpLXrcw>Spillz Ochai</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,985 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,008 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 31 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 32 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
 | 33 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
-| 34 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
-| 35 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 34 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 35 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 36 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 |
 | 37 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 |
 | 38 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
 | 50 | [Pain To Praise](https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Pain To Praise](https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH) | 3:45 |
 
-Snapshot ID: `MCw5M2JmOTAwMjc0MjZkNDhlNDA0MDYyMDIyZmVhYmY0MWU5ZDJhNTMz`
+Snapshot ID: `MCxhMzM2NzM2YTJmMjdkYzNiYzYzNzNmOGUwOGUzNDZjZDVkMWYyOWU1`

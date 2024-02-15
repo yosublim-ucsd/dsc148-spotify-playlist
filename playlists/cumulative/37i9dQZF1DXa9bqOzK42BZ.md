@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA">Christina Shusho</a>
 
-138 songs - 13 hr 6 min
+139 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Rohoni Na Mwilini](https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF) | [Bale John](https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6) | [Utukufu](https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc) | 5:49 | 2022-06-24 | 2023-04-15 |
 | [Salama](https://open.spotify.com/track/0FD62g19MnyK9ZBXLOsogP) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Salama](https://open.spotify.com/album/1SGn3WiqZbUaIybmhL5x7a) | 3:47 | 2023-04-14 | 2023-06-16 |
 | [SAUTI YANGU](https://open.spotify.com/track/6fykSHV5vHbimF76Th4Yif) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [PENYA](https://open.spotify.com/album/25a9x8xqLHkc6LTNEpjYAd) | 4:09 | 2023-08-25 |  |
-| [Sema Asante](https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Sema Asante](https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc) | 2:35 | 2024-02-02 |  |
+| [SEMA ASANTE](https://open.spotify.com/track/2TZ4fabbGN00FOuAP2Hl1p) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [SEMA ASANTE](https://open.spotify.com/album/0kmO8vsAYqPMPEPj25gXPs) | 2:35 | 2024-02-02 |  |
+| [Sema Asante](https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Sema Asante](https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc) | 2:35 | 2024-02-02 | 2024-02-15 |
 | [Shida](https://open.spotify.com/track/1DwIdpfjh50nhswAniJpQW) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shida](https://open.spotify.com/album/6A83CUr0UmsmAZu8PahRe7) | 4:02 | 2023-08-18 |  |
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |

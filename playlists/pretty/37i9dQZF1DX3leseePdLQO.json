@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Mariangela.",
-  "num_followers": 10214,
+  "num_followers": 10229,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDQxYWE0ODhlMmVmZTI5Y2ExMzYxMTNiZWY4ZTg0OWI2ZWU3YWNm",
+  "snapshot_id": "MCwyODQwZDUxMDI4NDI0Yzg5Mzg3YWZiZTkwODc4ZTBiMDlmMjM2ODgx",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "1TRAGO",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1TRAGO",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 158373,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "1TRAGO",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "\u00bfY Si Eras T\u00fa?",
         "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 169613,
       "name": "\u00bfY Si Eras T\u00fa?",
       "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dharma +",
-        "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Bayam\u00f3n",
         "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Dharma +",
+        "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Como T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Como T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "El Disfraz",
         "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 168426,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Como T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 192757,
+      "name": "Como T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
         "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 154920,
       "name": "Que me quiera",
       "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/4w1zN3ihNY1remuplIBJCr"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "duration_ms": 167934,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/0yIdikJRUug750xxACKC8r"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Me Da Bastante Miedo",
         "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
       },
@@ -1411,6 +1431,22 @@
       "duration_ms": 186075,
       "name": "Me Da Bastante Miedo",
       "url": "https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nueve Vidas",
+        "url": "https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Nueve Vidas",
+      "url": "https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1471,26 +1507,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/4w1zN3ihNY1remuplIBJCr"
-      },
-      "artists": [
-        {
-          "name": "RUGGERO",
-          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        }
-      ],
-      "duration_ms": 167934,
-      "name": "ADN",
-      "url": "https://open.spotify.com/track/0yIdikJRUug750xxACKC8r"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Nueve Vidas",
-        "url": "https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Nueve Vidas",
-      "url": "https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
         "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
       },
       "artists": [
         {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1727,22 +1743,6 @@
       "duration_ms": 166535,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "A tu Lado",
-        "url": "https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz"
-      },
-      "artists": [
-        {
-          "name": "Tres Dedos",
-          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
-        }
-      ],
-      "duration_ms": 150894,
-      "name": "A tu Lado",
-      "url": "https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc"
     }
   ],
   "unique_name": "Crema Pop",

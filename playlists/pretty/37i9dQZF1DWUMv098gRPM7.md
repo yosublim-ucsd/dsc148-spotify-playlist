@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,172 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,175 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 27 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 |
 | 28 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 |
 | 29 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
-| 30 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 |
-| 31 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
+| 30 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
+| 31 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 |
 | 32 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
 | 33 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
 | 34 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
 | 35 | [Heartbreaker](https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 4:22 |
 | 36 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
-| 37 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 |
+| 37 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
 | 38 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
 | 39 | [Start Over](https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 2:10 |
 | 40 | [IMPORTED \(with 6LACK\)](https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:45 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 59 | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/track/0DfvMYHipoZ3u0AJf4LjKF) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/album/1HKFbE6Qx3xLhPIqxkZUqb) | 2:31 |
 | 60 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 61 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
-| 62 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 |
-| 63 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
+| 62 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
+| 63 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 |
 | 64 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
 | 65 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 66 | [Different \(with Majid Jordan\)](https://open.spotify.com/track/0Eq1ybB9XnhbYBWFhKnNhn) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
 | 75 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
 
-Snapshot ID: `MCwzYWFiZGM3NmE3MmViYThhNzdmZjQ0N2ZhYzRhNjI4OWU0ZDg4YzQ5`
+Snapshot ID: `MCwxNTJlMDEwOTNhNTVjNzg0ZjE2Y2E1NjRjYzViYzQwMDljN2Q3YzBi`

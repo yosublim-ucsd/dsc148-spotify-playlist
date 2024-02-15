@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,380 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,418 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 24 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 25 | [Tenderness](https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 4:01 |
 | 26 | [Heavy Days](https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe) | 3:47 |
-| 27 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
-| 28 | [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 |
+| 27 | [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 |
+| 28 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
 | 29 | [What Are You So Afraid Of](https://open.spotify.com/track/3KSJSi4vJedNzN32HpzGBM) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 2:27 |
 | 30 | [Happy on Mars](https://open.spotify.com/track/5jgrg6367ewS0BgsP6eIgx) | [Carpark](https://open.spotify.com/artist/6wNKTp1adxnPYP5L3Vja3b) | [Happy on Mars](https://open.spotify.com/album/1y5S6U7FaBA73iGx1EdQQO) | 3:35 |
 | 31 | [High](https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:37 |
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 44 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
 | 45 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 |
 | 46 | [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 |
-| 47 | [Somebody Else](https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa) | 5:31 |
-| 48 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
+| 47 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
+| 48 | [Somebody Else](https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa) | 5:31 |
 | 49 | [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 |
 | 50 | [Roll With The Punches](https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 3:46 |
 | 51 | [Quite Like You](https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Quite Like You](https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X) | 2:59 |
 | 52 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 |
-| 53 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
-| 54 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 |
-| 55 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
+| 53 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
+| 54 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
+| 55 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 |
 | 56 | [French Movie](https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip) | 3:19 |
 | 57 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
 | 58 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 66 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
 | 67 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
 | 68 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 |
-| 69 | [Seems Like Forever](https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU) | 5:18 |
-| 70 | [number own](https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [number own](https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c) | 2:39 |
+| 69 | [number own](https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [number own](https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c) | 2:39 |
+| 70 | [Seems Like Forever](https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU) | 5:18 |
 | 71 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
 | 72 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 73 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 |
+| 73 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
 | 74 | [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 |
-| 75 | [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 |
-| 76 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
-| 77 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
+| 75 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 |
+| 76 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
+| 77 | [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 |
 | 78 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 |
-| 79 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
-| 80 | [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 |
+| 79 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
+| 80 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 
-Snapshot ID: `MCw4YmQ4OWYwNjZmNzNmNDAyMTY2NGIzMmJiZjMwMTNmNDE1YmViNDdh`
+Snapshot ID: `MCwxNjcwZGJmMTVjMTUyM2QzYzkzZTA3YjMxY2Q3NzkwMjI3YzdlNTk2`

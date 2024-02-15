@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 33147,
+  "2024-02-15": 33149,
   "date_first_scraped": "2022-01-09",
   "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: TUANA \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 174986,
       "name": "a divinis",
       "url": "https://open.spotify.com/track/0s686kWyH7cKM5VHWcIn4N"
@@ -529,6 +529,24 @@
       "duration_ms": 128780,
       "name": "Art\u0131k",
       "url": "https://open.spotify.com/track/6tR7FZx5ipHwTfZPd2ieBd"
+    },
+    {
+      "album": {
+        "name": "Art\u0131k D\u00fc\u015f\u00fcnmem",
+        "url": "https://open.spotify.com/album/0SyTTtYh0zeDGbbbILoiTL"
+      },
+      "artists": [
+        {
+          "name": "Lavta",
+          "url": "https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165528,
+      "name": "Art\u0131k D\u00fc\u015f\u00fcnmem",
+      "url": "https://open.spotify.com/track/1nfjGR2ICLQJTz8kSWsqTX"
     },
     {
       "album": {
@@ -1157,10 +1175,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 128000,
       "name": "Benden Adam Olmaz",
       "url": "https://open.spotify.com/track/4AjreqJKqRkFmYRTYvsXfT"
+    },
+    {
+      "album": {
+        "name": "Beni Affedin",
+        "url": "https://open.spotify.com/album/0xR13vlW92DiZGXQbgfM6N"
+      },
+      "artists": [
+        {
+          "name": "Canb",
+          "url": "https://open.spotify.com/artist/2j6Njk4Gb8Txqu7UVz1Qsk"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170283,
+      "name": "Beni Affedin",
+      "url": "https://open.spotify.com/track/2Nnb3bAeL5KUgfs1lop4gO"
     },
     {
       "album": {
@@ -4275,7 +4311,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 220434,
       "name": "Her \u015eey B\u00f6yle G\u00fczel",
       "url": "https://open.spotify.com/track/2N3jKAsVz2YXR3a8dGmjRM"
@@ -5386,6 +5422,24 @@
     },
     {
       "album": {
+        "name": "Kendine Bir Bak",
+        "url": "https://open.spotify.com/album/14BfnJzSdW9J8iTYJm7nBa"
+      },
+      "artists": [
+        {
+          "name": "Idil",
+          "url": "https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166115,
+      "name": "Kendine Bir Bak",
+      "url": "https://open.spotify.com/track/5TyrniuEpKUHV1GR5lNqR6"
+    },
+    {
+      "album": {
         "name": "Kendine Gel",
         "url": "https://open.spotify.com/album/6dnHYDBXAOenHF4VeiVfEI"
       },
@@ -6169,7 +6223,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 135961,
       "name": "naber? ben iyi de\u011filim",
       "url": "https://open.spotify.com/track/0fFy6ctIZaq81JTssewNa3"
@@ -7422,6 +7476,24 @@
     },
     {
       "album": {
+        "name": "Sana Demedim Mi",
+        "url": "https://open.spotify.com/album/4RIMIxzg5YAundcH2Mc8dN"
+      },
+      "artists": [
+        {
+          "name": "Kara.",
+          "url": "https://open.spotify.com/artist/7L6Lus5mAd7didjnyvczPI"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Sana Demedim Mi",
+      "url": "https://open.spotify.com/track/1k0aUyxO6fcDAmePfCNIts"
+    },
+    {
+      "album": {
         "name": "Sana G\u00f6re",
         "url": "https://open.spotify.com/album/07BjCVv5cq7U0npxs6yZ3q"
       },
@@ -8523,6 +8595,24 @@
       "duration_ms": 190960,
       "name": "Toz",
       "url": "https://open.spotify.com/track/5feIgTH0OekqYXWtIg8PL8"
+    },
+    {
+      "album": {
+        "name": "UKALA",
+        "url": "https://open.spotify.com/album/7Kh7dCYSaWYZen1eAdiINy"
+      },
+      "artists": [
+        {
+          "name": "Kimera",
+          "url": "https://open.spotify.com/artist/4T4Iw2jsjHVIYirEEZLfVm"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "UKALA",
+      "url": "https://open.spotify.com/track/3Frrg5vlLgJMwhSa3817Sf"
     },
     {
       "album": {
@@ -10373,7 +10463,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 197577,
       "name": "\u00d6z\u00fcm",
       "url": "https://open.spotify.com/track/77r6q33Nn2lQUfy7R17tUV"

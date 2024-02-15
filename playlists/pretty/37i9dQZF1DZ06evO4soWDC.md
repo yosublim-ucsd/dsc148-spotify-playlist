@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791 likes - 44 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 794 likes - 44 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 25 | [Remiss of Me](https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 3:07 |
 | 26 | [Reeling](https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 2:48 |
 | 27 | [Overwhelmed / Ill Prepared](https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:00 |
-| 28 | [K.D.R](https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:03 |
+| 28 | [Western Junction](https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:04 |
 | 29 | [Never the Right Time](https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 4:06 |
 | 30 | [Isaac Bowen](https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:42 |
 | 31 | [Spin and Collapse](https://open.spotify.com/track/5FjHVV2PuGFY1qdgdUAjoQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:45 |
-| 32 | [Western Junction](https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:04 |
+| 32 | [K.D.R](https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:03 |
 | 33 | [The Shimmie Shake](https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:21 |
 | 34 | [Southbound](https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:40 |
 | 35 | [C](https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 1:32 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 43 | [Death Rattle](https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:40 |
 | 44 | [Guillotines in Arbour Park](https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:10 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBiZWE2N2RiMDk2YWIyNmUzOGU0ZDA5YTljNmRlZWQxZg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBlMzhhZTdiYzMwODI3YmQ4YmYyOTM2YWU0NzE4OGQwYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,045 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,064 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 |
 | 50 | [The Vampire](https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5) | 2:58 |
 
-Snapshot ID: `MCw4MWY3ODQxMTU5ODE2MTMxYTEyMzE3YjU2ZTc3MzdkOTAzYzA2MTgw`
+Snapshot ID: `MCxmNTZmNGEwOTY3NmI5YzEzZTA4MDY4NGNmNDM5MmE4NGY5ZmU2MjI4`

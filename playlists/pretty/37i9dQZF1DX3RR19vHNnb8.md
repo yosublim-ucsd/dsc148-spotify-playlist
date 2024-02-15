@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,664 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,683 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
+| 1 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 | 2 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
-| 3 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
+| 3 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 4 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 |
 | 5 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
 | 6 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 |
 | 50 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 
-Snapshot ID: `MCwyMTU3YmE4NjQyZTQ4MzI4ZDc1Yzc3YTU0NmNmZGI1MzIzYmJjZTc2`
+Snapshot ID: `MCw4ZGEyNGUxYzVhNjUxOTkwZGU5MDU3NGViNWI2ZmIzNzQ2ODAwMWFi`

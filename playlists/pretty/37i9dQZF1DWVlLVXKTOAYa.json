@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1054909,
+  "num_followers": 1055040,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGE4YTE0MDFkYmZhMWQ5M2Y3NjE5NDc1MjgzM2E0ODhiMGI5OTA4",
+  "snapshot_id": "MCwzYTQwN2IyNTJmODlhMDc1OTJhOGQ2MzZhMzRhN2VhYTVmNmNjNjg0",
   "tracks": [
     {
       "added_at": "2024-02-12 16:09:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 202395,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
+        "name": "drunk text",
+        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
         "name": "All Of The Girls You Loved Before",
         "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -1307,86 +1323,18 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
-        "name": "Everywhere, Everything (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
       "artists": [
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
-        "name": "Is It Love",
-        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 143669,
-      "name": "Is It Love",
-      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -1411,6 +1359,70 @@
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "Is It Love",
+        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 143669,
+      "name": "Is It Love",
+      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -1451,22 +1463,6 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
@@ -1487,6 +1483,26 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2024-02-12 16:09:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-12 16:09:00",
       "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2024-02-12 16:09:00",
-      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2024-02-12 16:09:00",
+      "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
       "added_at": "2024-02-12 16:09:00",

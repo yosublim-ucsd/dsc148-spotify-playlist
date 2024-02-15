@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,370 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,374 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 17 | [Lágrimas Negras \(feat\. Lila Downs\)](https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 4:35 |
 | 18 | [No Me Amenaces \(feat\. Lila Downs\)](https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr), [Mariachi Reyna De Los Angeles](https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pa' que Sientas Lo Que Siento](https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3) | 3:10 |
 | 19 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 |
-| 20 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
-| 21 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
+| 20 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
+| 21 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
 | 22 | [Un Mundo Raro \(feat\. Diego El Cigala\)](https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Salón Lágrimas y Deseo](https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy) | 3:32 |
 | 23 | [La Raíz de Mi Tierra](https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 4:12 |
 | 24 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [Son de Difuntos](https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:37 |
 | 50 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBjZjBmNWUzY2VjZWMxNTE5YThjZGFjM2E3ZWYzMDIwZQ==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDBhNmZiNDEzMTk2MDIzMTE0NDVjODU1YWRmOWQ4NTNkNQ==`

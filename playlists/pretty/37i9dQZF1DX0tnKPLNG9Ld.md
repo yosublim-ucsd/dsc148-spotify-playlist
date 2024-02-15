@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,898 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,937 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 45 | [You Stepped out of a Dream \- 2007 Remaster](https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Divine One](https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx) | 2:20 |
 | 46 | [Happy Little Sunbeam](https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc) | [Saga Jazz: Easy to Love \(Modern Series\)](https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY) | 2:47 |
 | 47 | [I Love Being Here With You](https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [When The Sun Goes Down](https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY) | 4:59 |
-| 48 | [Gone With The Wind](https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:43 |
+| 48 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
 | 49 | [This Time The Dream's On Me \- Remastered](https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:19 |
-| 50 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
+| 50 | [Gone With The Wind](https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:43 |
 | 51 | [Lullaby of Broadway \(with Harry James & His Orchestra\) \- Version 2](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 |
 | 52 | [Wandering \- Remastered](https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Motions & Emotions](https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV) | 2:54 |
 | 53 | [Corner Pocket](https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 5:15 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 56 | [Let's Dance](https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 2:32 |
 | 57 | [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 |
 | 58 | [It's A Wonderful World](https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:14 |
-| 59 | [Is a Good Man Real?](https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 4:13 |
-| 60 | [Doralice](https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:44 |
+| 59 | [Doralice](https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:44 |
+| 60 | [Is a Good Man Real?](https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 4:13 |
 | 61 | [One O'Clock Jump](https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 3:02 |
 | 62 | [What Game Shall We Play Today](https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 4:26 |
 | 63 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Lullaby of Birdland](https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Jazz Voices](https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT) | 2:29 |
 | 87 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 
-Snapshot ID: `MCwwN2JkNWZiNjRlMmY5YWUyMDg0ODAyNDE4MWZhMzI4M2UxNmYzZTg5`
+Snapshot ID: `MCw1NzBkMWJhYmZiNDUzNDhiODYyZDE3OThiMzJlNWQ5ODRkNDQ4NjAz`

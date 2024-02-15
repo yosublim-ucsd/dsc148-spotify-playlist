@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377,236 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,377,400 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 27 | [Bird Set Free](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:12 |
 | 28 | [Angel By The Wings](https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Angel By The Wings](https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b) | 5:19 |
 | 29 | [California Dreamin'](https://open.spotify.com/track/1QzIPFcpaapCryW5wRsgU4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [San Andreas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dI9CqM7hsrg2g8HbrnAES) | 3:36 |
-| 30 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
-| 31 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 |
-| 32 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
+| 30 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 |
+| 31 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
+| 32 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
 | 33 | [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 |
 | 34 | [Big Girls Cry](https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:30 |
 | 35 | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 50 | [Rainbow](https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm) | 3:17 |
 | 51 | [Guts Over Fear](https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [SHADYXV](https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU) | 5:01 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBmNGU0MGNjNDFmMTVlZmQyNDliYWIxNmQ2YjAxN2M0Zg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA5MGRlZGRiYzU4YzBiNTMwYmY1YmIxZGVmYzc3MTMwOQ==`

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd0as\u00fabele sin miedo, s\u00fabele hasta que reviente \ud83d\udd0a",
-  "num_followers": 153233,
+  "num_followers": 153276,
   "original_name": "q truene la bocina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTVlODYzYzgwMWY1ZjQzNDg1ZTE3MzFiMDhkM2QxNmM5NGM2NDQw",
+  "snapshot_id": "MCxhNDA1MWYxZjc5ZGY3NDk3NmJhZGIxMDcxMmUzN2IwMGFhMzg3NTFl",
   "tracks": [
     {
       "added_at": "2023-12-23 05:24:23",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -699,22 +715,6 @@
       "duration_ms": 158333,
       "name": "MARTILLAZO",
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 237080,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
         "name": "Pal Amor Soy Malo (Remix)",
         "url": "https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 156000,
       "name": "Pal Amor Soy Malo - Remix",
       "url": "https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
         "name": "Stereo Hits",
         "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
+        "name": "Manos de Tijera",
+        "url": "https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 230112,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
-        "name": "Manos de Tijera",
-        "url": "https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 230112,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
         "name": "Men in Salsa",
         "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
       },
@@ -1751,22 +1751,6 @@
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -1787,22 +1771,18 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
-        "name": "Borrachera Con Los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Los Honorables",
-          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -1819,6 +1799,26 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
+        "name": "Borrachera Con Los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Los Honorables",
+          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Con Todos Menos Conmigo",
+      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
         "name": "Y Yo Me Le Pego",
         "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Con Todos Menos Conmigo",
-      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 3: Con Tambora",
         "url": "https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2"
       },
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2023-12-23 05:24:23",
       "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
       },
@@ -2211,6 +2211,26 @@
       "duration_ms": 264173,
       "name": "Vuela, Vuela (Voyage, Voyage)",
       "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
+    },
+    {
+      "added_at": "2023-12-23 05:24:23",
+      "album": {
+        "name": "Te Marqu\u00e9 Pedo",
+        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Te Marqu\u00e9 Pedo",
+      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
     },
     {
       "added_at": "2023-12-23 05:24:23",
@@ -2251,26 +2271,6 @@
       "duration_ms": 153062,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2023-12-23 05:24:23",
-      "album": {
-        "name": "Te Marqu\u00e9 Pedo",
-        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
-      },
-      "artists": [
-        {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Marqu\u00e9 Pedo",
-      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
     },
     {
       "added_at": "2023-12-23 05:24:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: CVLTE
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,045 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,049 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 49 | [World's on Fire](https://open.spotify.com/track/5Zt6V422vpgt72tcJVieZ0) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [World's on Fire](https://open.spotify.com/album/48yD4jQdG7VGneO0802DVu) | 2:43 |
 | 50 | [Blame Brett](https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:57 |
 | 51 | [Time](https://open.spotify.com/track/1f60WuSbixEy7USRuqtqSa) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Time](https://open.spotify.com/album/69yEktH6MIS6icZTzlfMwT) | 3:14 |
-| 52 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
+| 52 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 53 | [Fallout \- Reimagined](https://open.spotify.com/track/5WRglege8fY78WiS4D5kym) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Fallout \(Reimagined\)](https://open.spotify.com/album/32RUVBrBxzhAMzLY5JgXl7) | 4:25 |
-| 54 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
+| 54 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 55 | [Power To Undo](https://open.spotify.com/track/0DgGr62ntCpgmjV2yDTOtI) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Power To Undo](https://open.spotify.com/album/7AdwPPWvFmeAdO56JB0Itk) | 2:50 |
-| 56 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
+| 56 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
 | 57 | [Steal My Soul](https://open.spotify.com/track/3s0NfU9BVACTDqRQSq2ZA1) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Part Time Believer](https://open.spotify.com/album/34s8PrE8XZ8OI4PcHr6aI1) | 3:13 |
 | 58 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
 | 59 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 |
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 68 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 |
 | 69 | [Weight \(feat\. Kelsy Karter & The Heroines & Nuno Bettencourt\)](https://open.spotify.com/track/1pkiuQdHbJ2bsdNp3YPKKR) | [Hudson Thames](https://open.spotify.com/artist/3AoNmoBJyEsBxlAjhrdxtw), [Nuno Bettencourt](https://open.spotify.com/artist/3konlNIREmuxZRIFKSPKmK), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Weight \(feat\. Kelsy Karter & The Heroines & Nuno Bettencourt\)](https://open.spotify.com/album/27WrIw6gOgnAkbg2tpeTjD) | 3:19 |
 | 70 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
-| 71 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
-| 72 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 |
+| 71 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 |
+| 72 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
 | 73 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 74 | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 |
-| 75 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
-| 76 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
+| 75 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
+| 76 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
 | 77 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 |
 | 78 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
 | 79 | [Hide Your Kids](https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hide Your Kids](https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc) | 2:15 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 91 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 92 | [Bubbly](https://open.spotify.com/track/7aLtFOQyLWC1L1XPN8RC3b) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Bubbly](https://open.spotify.com/album/1nFSYPn28BWJHvRrJH82E5) | 3:07 |
 | 93 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
-| 94 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 |
-| 95 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
-| 96 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
+| 94 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
+| 95 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
+| 96 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 |
 | 97 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
 | 98 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 |
 | 99 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 |
 
-Snapshot ID: `MCxjYmY4ODEzMGVhNDMyMzdmNzNhZTNkNjA0N2JmMDZiODE4YmMyZTcz`
+Snapshot ID: `MCwwOGZhYjg4NGRjN2MyYTIxZjUyZTk5ZDkzNjc3MDA0NDVkN2NlYjFm`

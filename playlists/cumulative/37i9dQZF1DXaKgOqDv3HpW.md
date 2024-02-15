@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-233 songs - 11 hr 27 min
+238 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ancient Presence](https://open.spotify.com/track/4fEP8wZL27vkaydhMuZGzq) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Ancient Presence](https://open.spotify.com/album/2x8VkZap61imM4ukBV26P8) | 2:09 | 2022-02-18 | 2022-09-15 |
 | [Another Wake](https://open.spotify.com/track/0YwgnE2yI600aenbcJdqgq) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 2:18 | 2022-02-18 | 2023-08-05 |
 | [Ante Meridiem \(432hz\)](https://open.spotify.com/track/7L20Kr6F8VnBMowigEQ1DH) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ante Meridiem \(432hz\)](https://open.spotify.com/album/2rSp0SgoVF37nfDHWgeonw) | 3:30 | 2022-02-18 | 2023-07-15 |
+| [Appena](https://open.spotify.com/track/7y6iolO0PqYMvSXhNpb1Jx) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Appena](https://open.spotify.com/album/37i1uyBqlEUzw9AGe7Xbay) | 3:35 | 2024-02-15 |  |
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-02-18 | 2023-08-05 |
 | [Astral Distance](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Astral Distance](https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N) | 2:05 | 2022-09-30 |  |
 | [At Day's End](https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [At Day's End](https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG) | 2:53 | 2022-08-15 |  |
@@ -43,6 +44,7 @@
 | [Belief](https://open.spotify.com/track/2WG8l4UerGKdjZ9p07R29G) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Belief](https://open.spotify.com/album/1dEXj573JMf3OsdfuoV2MD) | 2:59 | 2022-02-18 | 2023-08-05 |
 | [Beneath The Clouds](https://open.spotify.com/track/69JHzItxMyYakCOpqZhHUy) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Beneath The Clouds](https://open.spotify.com/album/0PEH9bzRJzUDz2mTDTxliA) | 3:10 | 2022-11-11 |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2022-02-18 | 2023-12-05 |
+| [Blissful](https://open.spotify.com/track/3LuRATATl6IEUsDUHxgLYW) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Blissful](https://open.spotify.com/album/2wtdveGHtM82JRmWxzIfsG) | 2:30 | 2024-02-15 |  |
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2022-02-18 |  |
 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2022-02-18 | 2022-09-15 |
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2022-02-18 | 2023-01-28 |
@@ -135,6 +137,7 @@
 | [Mixture](https://open.spotify.com/track/0OXgaVgiSiuPYjPRiFSyiY) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Sonorous](https://open.spotify.com/album/23dHOKDvEMYX4C1ukHTULU) | 3:18 | 2022-02-18 |  |
 | [Mon Bateau Tranquille](https://open.spotify.com/track/5dqRiHMA7pnxi2Z1mGRn2e) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Mon Bateau Tranquille](https://open.spotify.com/album/5TmPx2OZszYODpOgglUWah) | 3:23 | 2022-02-18 | 2023-04-07 |
 | [Moon Shimmer](https://open.spotify.com/track/7xhxmR9qab96Gou7NsKkPh) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Majestic Dream](https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9) | 2:32 | 2022-02-18 | 2023-07-01 |
+| [Moonlit Reflections](https://open.spotify.com/track/4evWXG9sdhBuCjXdNiY3tw) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [Moonlit Reflections](https://open.spotify.com/album/3XywnX7rmAZz0uW8kqQ2D0) | 2:49 | 2024-02-15 |  |
 | [Morning Reflection](https://open.spotify.com/track/444EJ06sxk2RAyemHmO5OM) | [Mikael Robbins](https://open.spotify.com/artist/68uqJ5ki8H7F4SHIh4kubp) | [Morning Reflection](https://open.spotify.com/album/5Je7r02QkjH8nLcEkminFc) | 3:49 | 2022-02-18 | 2023-07-01 |
 | [Movements of Dimensions](https://open.spotify.com/track/7BQDfK8Emfh80YJuvoGrb4) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 2:40 | 2022-02-18 | 2023-08-12 |
 | [My Father's Tears](https://open.spotify.com/track/0pFAWeCiim0NCmwRgbg1Q7) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [My Father's Tears](https://open.spotify.com/album/4YdXelsfVbqox0h7DW4HaG) | 1:40 | 2022-02-18 | 2022-12-10 |
@@ -222,11 +225,13 @@
 | [Ulayaw](https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Ulayaw](https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd) | 3:08 | 2022-02-18 |  |
 | [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 | 2022-05-05 |  |
 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 | 2022-02-18 |  |
+| [Velvet Rapsody](https://open.spotify.com/track/56SRF43k9hKZAMADNTSmIX) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Velvet Rapsody](https://open.spotify.com/album/3QEq7rcaIFVAvRhukeQLKO) | 2:26 | 2024-02-15 |  |
 | [Verlangen](https://open.spotify.com/track/75pcpojFTJnyfeGw0YrEQ9) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Verlangen](https://open.spotify.com/album/0rJlx5Lk9FZni8yreWrEFP) | 4:13 | 2022-02-18 |  |
 | [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 | 2022-12-02 |  |
 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 | 2022-02-18 |  |
 | [Voices](https://open.spotify.com/track/4Dioh7PnhNtYJa1Q8GTPw6) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Voices](https://open.spotify.com/album/6v1QSPpVnYMnnj95YJm4hs) | 2:36 | 2022-05-25 |  |
 | [Volta](https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2) | [Milo Leclercq](https://open.spotify.com/artist/2CACfYzbEfvbpMPHapIrrL) | [Volta](https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi) | 2:48 | 2022-03-08 |  |
+| [Vrangø](https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Vrangø](https://open.spotify.com/album/2N55QpvsyobZS4YEqwypcs) | 2:58 | 2024-02-15 |  |
 | [Wafted](https://open.spotify.com/track/73ODQSLCB4Mqmdax2fSjfU) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Wafted](https://open.spotify.com/album/6CRAVxIDnY18GMXLrrAgpe) | 2:12 | 2023-11-10 |  |
 | [Walking Alongside the Gates of Heaven](https://open.spotify.com/track/6vOynuMgg62np7cBtV5qjk) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:04 | 2022-07-08 |  |
 | [Water Poem](https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Water Poem](https://open.spotify.com/album/54GgnDXqx2jm1s70E0nSl5) | 2:40 | 2022-06-16 |  |

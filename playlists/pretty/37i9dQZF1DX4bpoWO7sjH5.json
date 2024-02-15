@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 35526,
+  "num_followers": 35520,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjAwN2NkYTAxNTFkNmJjZDFlMTIxMDc5YzQzNmY4ZDRmZmEzN2Q0",
+  "snapshot_id": "MCxjN2E5M2EyM2MxYzQ4M2FmZWFhNzc3YTA1M2UwZmQ3MWNjMmY1OTFm",
   "tracks": [
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Ella Dijo S\u00ed",
+        "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 166375,
+      "name": "Ella Dijo S\u00ed",
+      "url": "https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Concierto Navide\u00f1o (En Vivo Desde Monterrey, M\u00e9xico)",
         "url": "https://open.spotify.com/album/0429hLCtlpgVsucWSt6nuL"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Ella Dijo S\u00ed",
-        "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 166375,
-      "name": "Ella Dijo S\u00ed",
-      "url": "https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Diciembre o Junio",
         "url": "https://open.spotify.com/album/7q3p0OYnGu4pc9ktkJ9ysR"
       },
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Campanas de Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/3GkhdOhEohD9nhtZJRDxxG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 193823,
+      "name": "Campanas de Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/31qOC3cubVPKA6a7ry0Xus"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Un Le Lo Lai Diferente",
         "url": "https://open.spotify.com/album/7osJw3KtfYRtw2eItlqC4h"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 184346,
       "name": "All\u00e1 En Bel\u00e9n - Pista",
       "url": "https://open.spotify.com/track/4tzeOvyRwaQYTLra810GPU"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Campanas de Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/3GkhdOhEohD9nhtZJRDxxG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 193823,
-      "name": "Campanas de Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/31qOC3cubVPKA6a7ry0Xus"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Dios Anduvo en Pa\u00f1ales",
+        "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        },
+        {
+          "name": "Paola Pablo",
+          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
+        }
+      ],
+      "duration_ms": 186712,
+      "name": "Dios Anduvo en Pa\u00f1ales",
+      "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Lleg\u00f3 La Navidad",
         "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
       },
@@ -1583,6 +1603,22 @@
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "A Mar\u00eda",
+        "url": "https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "A Mar\u00eda",
+      "url": "https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1607,42 +1643,6 @@
       "duration_ms": 167000,
       "name": "Regres\u00e9 Para Navidad",
       "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Dios Anduvo en Pa\u00f1ales",
-        "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        },
-        {
-          "name": "Paola Pablo",
-          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
-        }
-      ],
-      "duration_ms": 186712,
-      "name": "Dios Anduvo en Pa\u00f1ales",
-      "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "A Mar\u00eda",
-        "url": "https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "A Mar\u00eda",
-      "url": "https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Tiempo de Navidad",
-        "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 247811,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Es Navidad",
         "url": "https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 250400,
       "name": "Navidad En Mi Pa\u00eds",
       "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Tiempo de Navidad",
+        "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 247811,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Toledo",
+          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Desde Que Naci\u00f3",
+      "url": "https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Welcome Home (Este Es Tu Hogar)",
         "url": "https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB"
       },
@@ -1911,38 +1927,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Toledo",
-          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Desde Que Naci\u00f3",
-      "url": "https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Naci\u00f3 El Perd\u00f3n",
-        "url": "https://open.spotify.com/album/4wATMFKV8ygIQvCFLc66Ze"
-      },
-      "artists": [
-        {
-          "name": "Conquistando Fronteras",
-          "url": "https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3"
-        }
-      ],
-      "duration_ms": 313002,
-      "name": "Naci\u00f3 El Perd\u00f3n",
-      "url": "https://open.spotify.com/track/3Cw3DoeXcDh4kHvJtx76cW"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Buscando Al Rey",
         "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 272250,
       "name": "Buscando Al Rey",
       "url": "https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Naci\u00f3 El Perd\u00f3n",
+        "url": "https://open.spotify.com/album/4wATMFKV8ygIQvCFLc66Ze"
+      },
+      "artists": [
+        {
+          "name": "Conquistando Fronteras",
+          "url": "https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3"
+        }
+      ],
+      "duration_ms": 313002,
+      "name": "Naci\u00f3 El Perd\u00f3n",
+      "url": "https://open.spotify.com/track/3Cw3DoeXcDh4kHvJtx76cW"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "En Navidad",
-        "url": "https://open.spotify.com/album/6o0ntlD4u83NeaMhLqisNP"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Rodriguez",
-          "url": "https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Oh Pueblecito de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/2GP30FqtFIXURVGj0T4GXk"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Rey de Gloria",
         "url": "https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 202674,
       "name": "Rey de Gloria",
       "url": "https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "En Navidad",
+        "url": "https://open.spotify.com/album/6o0ntlD4u83NeaMhLqisNP"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Rodriguez",
+          "url": "https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Oh Pueblecito de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/2GP30FqtFIXURVGj0T4GXk"
     },
     {
       "added_at": "2023-12-15 17:10:08",

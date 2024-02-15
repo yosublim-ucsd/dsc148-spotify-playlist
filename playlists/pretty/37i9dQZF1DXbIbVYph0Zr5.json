@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
-  "num_followers": 627353,
+  "num_followers": 627465,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzQ0M2NjOTA0YmE3ZGViODZkZmYwYWUwOTRlZWVjNTUzMWJlMDM5",
+  "snapshot_id": "MCw2ODk5NzVmYjVlYTNmZDQxYmM3ZDFmYjRkZThhZTM5MzU0MGVlMDUz",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Your Heart Or Mine",
-      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -495,8 +495,8 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 203173,
       "name": "Knee Deep (feat. Jimmy Buffett)",
       "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Strait Out Of The Box",
+        "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Check Yes Or No",
+      "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 224426,
       "name": "The Kind of Love We Make",
       "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Strait Out Of The Box",
-        "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Check Yes Or No",
-      "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Tyler Hubbard",
         "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 179640,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Out With A Bang",
         "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 224666,
       "name": "Dust On The Bottle",
       "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+        "name": "Outskirts",
+        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+      "duration_ms": 182706,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1335,8 +1335,8 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Outskirts",
-        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Outskirts",
-      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Lambs & Lions",
-        "url": "https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Greetings From...Jake",
         "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "Lambs & Lions",
+        "url": "https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 209320,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/1qHRFZE8qykNXYZadzmi1m"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2024-01-05 05:00:00",

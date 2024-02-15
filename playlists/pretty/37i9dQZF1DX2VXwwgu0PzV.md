@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC?si=DW1Vl\_CaRPa2Mqw5bzIa9Q">Oba Reengy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,161 likes - 84 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,211 likes - 84 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 57 | [Chosen](https://open.spotify.com/track/0yxtQVuKDXqpZRhsQCS6sV) | [Temzeey Calebs](https://open.spotify.com/artist/1a4lnXmvWj7R3HN8sfTUwN), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Chosen](https://open.spotify.com/album/590H6SNlig14qTO5K3CIy4) | 2:09 |
 | 58 | [Who Goes That Man](https://open.spotify.com/track/0tMKAOXphAtH2qia9Nm9C7) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Who Goes That Man](https://open.spotify.com/album/1WJhzMVowg8Em1ovKBMnpC) | 2:59 |
 | 59 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 |
-| 60 | [Jesus Christ is seen](https://open.spotify.com/track/3vqe006cBlMnYYAmbrYvXj) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/6zhXvRi37zhARlTYinBHJp) | 3:03 |
+| 60 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
 | 61 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
 | 62 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 |
 | 63 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 83 | [For Days](https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [For Days](https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK) | 2:22 |
 | 84 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 |
 
-Snapshot ID: `MCwwZWI1NjBhNzg2MTA4NGQxYmExOGVmYzQ4OGMxZjhiZTBiMjc5ZGZk`
+Snapshot ID: `MCw4NzkzZTU4NGY0Y2U2YWQ0Njg0NjgxZWNjZTUyN2ZjNjUxZjljYzhh`

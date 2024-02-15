@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: YG Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,221 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,269 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 58 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 |
 | 59 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
 | 60 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
-| 61 | [Blacklight](https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Blacklight](https://open.spotify.com/album/2QnOSMlVbSkEHPfrZLoNuq) | 5:09 |
+| 61 | [BLACKLIGHT](https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [BLACKLIGHT](https://open.spotify.com/album/2QnOSMlVbSkEHPfrZLoNuq) | 5:09 |
 | 62 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
 | 63 | [Closer Than We Can Get](https://open.spotify.com/track/2yurfRcpU4wa5ot5PL0mEE) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Closer Than We Can Get](https://open.spotify.com/album/4OzcxTjBq1f7K2SQrEsyYY) | 3:25 |
 | 64 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 100 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
-Snapshot ID: `MCw1YTQ3MTZjNDg3MzFjZjczYTViMTdmMGRjNjIxMzdlMTcxZDkyYmFk`
+Snapshot ID: `MCw2YzFkNjcxM2MwMGQ4YTljZWU1OWI3NjBlYTVhNTNhZDAzOTBlOTA3`

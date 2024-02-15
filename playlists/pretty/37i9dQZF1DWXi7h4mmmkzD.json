@@ -1,12 +1,12 @@
 {
   "description": "Nighttime is the right time for these party hits!",
-  "num_followers": 572812,
+  "num_followers": 572803,
   "original_name": "Country Nights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQxODk0Nzg2ODJjYWU2MmViMmZjM2U3NmEyNzA2NGIyMjA5OWY4",
+  "snapshot_id": "MCxlOGUyMjA1MWUwODNkZjQwZmY4MDY3ZTdlOGIzYjBiYzk5OWFkZDE2",
   "tracks": [
     {
       "added_at": "2023-05-23 12:53:22",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Caught Up In The Country",
-        "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        },
-        {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 160991,
-      "name": "Caught Up In The Country",
-      "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
+      "duration_ms": 219973,
+      "name": "I Don't Want This Night To End",
+      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+        "name": "Caught Up In The Country",
+        "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
         }
       ],
-      "duration_ms": 219973,
-      "name": "I Don't Want This Night To End",
-      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
+      "duration_ms": 160991,
+      "name": "Caught Up In The Country",
+      "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+        "name": "Here's To The Good Times...This Is How We Roll",
+        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+      "duration_ms": 220906,
+      "name": "This Is How We Roll",
+      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -715,22 +719,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Here's To The Good Times...This Is How We Roll",
-        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 220906,
-      "name": "This Is How We Roll",
-      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+        "name": "Red River Blue (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
+      "duration_ms": 229533,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 229533,
-      "name": "God Gave Me You",
-      "url": "https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF"
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
     },
     {
       "added_at": "2023-05-23 12:53:22",

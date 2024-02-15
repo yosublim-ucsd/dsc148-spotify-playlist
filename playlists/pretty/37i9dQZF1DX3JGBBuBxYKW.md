@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,424 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,459 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 55 | [Poco Asado, Mucho Humo](https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Voz de los Barrios](https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1) | 3:01 |
 | 56 | [Cumbia de los Dos](https://open.spotify.com/track/1zsAy63McXZ4C4rdo8HQcz) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/2CSzBTKBWaEm3CVLBpMStM) | 4:24 |
 | 57 | [La Chismeadera](https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2) | 3:39 |
-| 58 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
-| 59 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
+| 58 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
+| 59 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 60 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
 | 61 | [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 |
 | 62 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 |
 | 65 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 |
 
-Snapshot ID: `MCw1NGQxOTU1MzdkNTY1NzI5M2EwNjMxNDk5ZGM3OWQ2YmI1NTNkZTZm`
+Snapshot ID: `MCw1N2VhYzRiNTZjYjZjOGQzZmMwYjU2YTk5YzE4ZGU0YmVmY2M2OWE1`

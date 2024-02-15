@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,965 likes - 236 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,970 likes - 236 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 87 | [Falling For Boys](https://open.spotify.com/track/5AmTHXOp1sTFkYZBRBQ7zt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:03 |
 | 88 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 89 | [Truth Is](https://open.spotify.com/track/2AAL4PF8WtOgHKHajUBbwh) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:32 |
-| 90 | [Barbies](https://open.spotify.com/track/4IM1V7mJvYJSrDQIJnQl5S) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:43 |
-| 91 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
+| 90 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
+| 91 | [Barbies](https://open.spotify.com/track/4IM1V7mJvYJSrDQIJnQl5S) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:43 |
 | 92 | [GONE](https://open.spotify.com/track/2LCGFBu1ej6zt4r1VGPjny) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:06 |
 | 93 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 |
 | 94 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3zG8GtVDcRLUPNDeIvzY7i) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:35 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 235 | [Extra](https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj) | [Nick G](https://open.spotify.com/artist/34JaTpOGE15tJ1cJIfIsdD), [Young Truck](https://open.spotify.com/artist/6icQfbZCZWXEPOwpWrZixw) | [Extra](https://open.spotify.com/album/72wRKVCoeAFKnjUOzva2xL) | 2:53 |
 | 236 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 
-Snapshot ID: `Mjg0NjQ2MTAsMDAwMDAwMDAxMzZjZjIwMmJlZWIxYjZmZDdlNzBiMmZlMWY4YTliOA==`
+Snapshot ID: `Mjg0NjYwNTAsMDAwMDAwMDAxN2MwZDlmMTZmZTM3YTJiMDVmYjY2MjRjOGNhMGVhYw==`

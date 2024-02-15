@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 60837,
+  "num_followers": 60885,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWM2NzIxYjM1NzIyYTQzMTFmODY4OTVlNjRlOTU1NGMwMjI1OTZh",
+  "snapshot_id": "MCw0OGNmNDY1MzM3NzQ2NzAxNzk1YmNjOTMxNGMwNTU2ZWU3ZDI5YmIz",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171145,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171145,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Vibes Weekend",
         "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 173266,
       "name": "Vibes Weekend",
       "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -475,22 +491,6 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Verified Choppa 2",
-        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
-      },
-      "artists": [
-        {
-          "name": "Marksman",
-          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Verified Choppa 2",
-      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "I'll Never Die",
         "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 146311,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -691,18 +691,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+        "name": "Brrrp",
+        "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
       },
       "artists": [
         {
           "name": "Skeng",
           "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "John Coop",
+          "url": "https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG"
         }
       ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+      "duration_ms": 161182,
+      "name": "Brrrp",
+      "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -819,6 +823,38 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Tic Tac Toe",
         "url": "https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is"
       },
@@ -839,42 +875,6 @@
       "duration_ms": 141714,
       "name": "Tic Tac Toe",
       "url": "https://open.spotify.com/track/0kmhY9fQ1p1w4ui1e28FHW"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Brrrp",
-        "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        },
-        {
-          "name": "John Coop",
-          "url": "https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG"
-        }
-      ],
-      "duration_ms": 161182,
-      "name": "Brrrp",
-      "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Another Dolla",
-        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 163526,
-      "name": "Another Dolla",
-      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Bitcoin",
         "url": "https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 196800,
       "name": "Bitcoin",
       "url": "https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Another Dolla",
+        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 163526,
+      "name": "Another Dolla",
+      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
-      },
-      "artists": [
-        {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
-        }
-      ],
-      "duration_ms": 245995,
-      "name": "Crook",
-      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dawkniss",
         "url": "https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 161632,
       "name": "Dawkniss",
       "url": "https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
+      },
+      "artists": [
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "duration_ms": 245995,
+      "name": "Crook",
+      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Sweepstake Life",
-        "url": "https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn"
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/3m0ma3GvTHyf5Ia1g69awi"
       },
       "artists": [
         {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+          "name": "Rytikal",
+          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
         }
       ],
-      "duration_ms": 180323,
-      "name": "Sweepstake Life",
-      "url": "https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh"
+      "duration_ms": 273658,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/0n81yw2IFUG6imbKQbd1hT"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/3m0ma3GvTHyf5Ia1g69awi"
+        "name": "Sweepstake Life",
+        "url": "https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn"
       },
       "artists": [
         {
-          "name": "Rytikal",
-          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
         }
       ],
-      "duration_ms": 273658,
-      "name": "Chosen",
-      "url": "https://open.spotify.com/track/0n81yw2IFUG6imbKQbd1hT"
+      "duration_ms": 180323,
+      "name": "Sweepstake Life",
+      "url": "https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Gal Academy",
-        "url": "https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6"
-      },
-      "artists": [
-        {
-          "name": "DiCelebrityy",
-          "url": "https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg"
-        },
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 191051,
-      "name": "Gal Academy",
-      "url": "https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Condensed Milk",
         "url": "https://open.spotify.com/album/7cwuRBBw9qpJi5rijLEEcG"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 193469,
       "name": "Condensed Milk",
       "url": "https://open.spotify.com/track/6CqQVBWhL00BV2DfsxXoaZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Gal Academy",
+        "url": "https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6"
+      },
+      "artists": [
+        {
+          "name": "DiCelebrityy",
+          "url": "https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 191051,
+      "name": "Gal Academy",
+      "url": "https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P"
     },
     {
       "added_at": "2023-05-24 08:21:37",

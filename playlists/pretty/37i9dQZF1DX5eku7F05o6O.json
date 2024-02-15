@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDI4MWZiMWExMTI0MzhkZGRkZTFjYmMwNGU5ZGNhZjg2OGE3YTI1",
+  "snapshot_id": "MCw5NjAwMzc1MzU2MjlmNWIyNzEzZDEwOGMwMDliNThiZDIxM2ZiOWZl",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -151,22 +151,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Chaleur Humaine",
-        "url": "https://open.spotify.com/album/326nKcn9e238BwduPDzld7"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 262263,
-      "name": "Nuit 17 \u00e0 52",
-      "url": "https://open.spotify.com/track/1yNjs2dMriAHdL5zNU7OXl"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 292480,
       "name": "J'aurai cent ans",
       "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Chaleur Humaine",
+        "url": "https://open.spotify.com/album/326nKcn9e238BwduPDzld7"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 262263,
+      "name": "Nuit 17 \u00e0 52",
+      "url": "https://open.spotify.com/track/1yNjs2dMriAHdL5zNU7OXl"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -387,18 +387,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le cours des jours",
-        "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
       },
       "artists": [
         {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 317586,
-      "name": "Linol\u00e9um",
-      "url": "https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8"
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -423,18 +423,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
+        "name": "Le cours des jours",
+        "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
         }
       ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+      "duration_ms": 317586,
+      "name": "Linol\u00e9um",
+      "url": "https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Tricot machine",
+        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
+      },
+      "artists": [
+        {
+          "name": "TRICOT MACHINE",
+          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
+        }
+      ],
+      "duration_ms": 203173,
+      "name": "Super ordinaire",
+      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Siberia (Acoustic)",
         "url": "https://open.spotify.com/album/5MdYmMdRRXnaoL76QTAnSl"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 179682,
       "name": "Peace Sign (feat. Coeur de Pirate) [Acoustic]",
       "url": "https://open.spotify.com/track/4UuHx9j3TR8brPTovYp8QW"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Tricot machine",
-        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
-      },
-      "artists": [
-        {
-          "name": "TRICOT MACHINE",
-          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Super ordinaire",
-      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Bygone",
+        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9atrice Keeler",
+          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Je ne veux pas savoir",
+      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Le feu de chaque jour",
         "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bygone",
-        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9atrice Keeler",
-          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Je ne veux pas savoir",
-      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La Voix III",
         "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ubiquit\u00e9",
-        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
-      },
-      "artists": [
-        {
-          "name": "Martin Lizotte",
-          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Voltige",
-      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La grande nuit vid\u00e9o",
         "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 204704,
       "name": "Rouge-gorge",
       "url": "https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Ubiquit\u00e9",
+        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
+      },
+      "artists": [
+        {
+          "name": "Martin Lizotte",
+          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Voltige",
+      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Hisser haut",
-        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
-      },
-      "artists": [
-        {
-          "name": "David Gigu\u00e8re",
-          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "L'atelier",
-      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les Ombres Longues",
         "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 188520,
       "name": "Le nouveau vocabulaire",
       "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Hisser haut",
+        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
+      },
+      "artists": [
+        {
+          "name": "David Gigu\u00e8re",
+          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "L'atelier",
+      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "22h22",
-        "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Domenico",
-      "url": "https://open.spotify.com/track/7EDpfVvpvhHYztOSLci2ZL"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le long chemin (version acoustique)",
         "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 220146,
       "name": "Le long chemin - version acoustique",
       "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "22h22",
+        "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Domenico",
+      "url": "https://open.spotify.com/track/7EDpfVvpvhHYztOSLci2ZL"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Nord-est",
-        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 243977,
-      "name": "Nord-est",
-      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Alexe",
         "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 273473,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Nord-est",
+        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 243977,
+      "name": "Nord-est",
+      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le courant",
-        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
-      },
-      "artists": [
-        {
-          "name": "Claudelle",
-          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Le courant",
-      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "M\u00e9lodica",
         "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Vall\u00e9e d'argent",
-        "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
+        "name": "Le courant",
+        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
       "artists": [
         {
-          "name": "Sarah Bourdon",
-          "url": "https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus"
+          "name": "Claudelle",
+          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Samara",
-      "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
+      "duration_ms": 194042,
+      "name": "Le courant",
+      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Kirchner",
-        "url": "https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p"
+        "name": "Vall\u00e9e d'argent",
+        "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
       },
       "artists": [
         {
-          "name": "Julien Manaud",
-          "url": "https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f"
+          "name": "Sarah Bourdon",
+          "url": "https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus"
         }
       ],
-      "duration_ms": 180215,
-      "name": "Kirchner",
-      "url": "https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq"
+      "duration_ms": 284000,
+      "name": "Samara",
+      "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1639,6 +1623,22 @@
       "duration_ms": 278657,
       "name": "Pour ce que valent tes larmes",
       "url": "https://open.spotify.com/track/7Hfl43JElWss3izWHvuE4E"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Kirchner",
+        "url": "https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p"
+      },
+      "artists": [
+        {
+          "name": "Julien Manaud",
+          "url": "https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f"
+        }
+      ],
+      "duration_ms": 180215,
+      "name": "Kirchner",
+      "url": "https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq"
     },
     {
       "added_at": "2021-02-06 03:12:40",

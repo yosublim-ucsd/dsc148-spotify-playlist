@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,316 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,338 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 30 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 |
 | 31 | [Dembow Dominicano](https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Dembow Dominicano](https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za) | 2:36 |
 | 32 | [Tumbao](https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tumbao](https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2) | 2:39 |
-| 33 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
-| 34 | [Mata Sede](https://open.spotify.com/track/5wZAlqyfzH3EUawJlp3wqf) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Atómica](https://open.spotify.com/album/7oj2qCLRzyE9VTI4T7eime) | 3:15 |
+| 33 | [Mata Sede](https://open.spotify.com/track/5wZAlqyfzH3EUawJlp3wqf) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Atómica](https://open.spotify.com/album/7oj2qCLRzyE9VTI4T7eime) | 3:15 |
+| 34 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
 | 35 | [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 |
-| 36 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
-| 37 | [Gracias](https://open.spotify.com/track/3dd7sReSGh1ZQyGUAMXbQA) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 2:54 |
+| 36 | [Gracias](https://open.spotify.com/track/3dd7sReSGh1ZQyGUAMXbQA) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 2:54 |
+| 37 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
 | 38 | [Omaiga](https://open.spotify.com/track/5i8SITM9WdvP8i9sovMdNk) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Omaiga](https://open.spotify.com/album/5TIVcAaaSJSCcLfvWqJHn0) | 3:21 |
 | 39 | [Urau](https://open.spotify.com/track/3ar209bZ8iKi049HcYhRFQ) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Urau](https://open.spotify.com/album/7xHo1vDJY2neCNsvdvlZdI) | 2:16 |
 | 40 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 49 | [Anormales](https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Anormales](https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD) | 3:28 |
 | 50 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
 
-Snapshot ID: `MCw2NmNiYmU5NGIwZGE0MWE0NTU5OGZkYTBjMTRjNGQ2N2VkYTI1NjBk`
+Snapshot ID: `MCw3YzY0YmZlZjc3MWJhYzNmYTU0MTY1NTMyMzFlODJkZDA2MDk2MGI2`

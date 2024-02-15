@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: minor
 
-895 songs - 2 day 2 hr 38 min
+896 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,6 +657,7 @@
 | [卡式](https://open.spotify.com/track/6LGEh3lJXkDfgqyOLcM5Vf) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr) | [卡式](https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1) | 2:50 | 2022-06-16 | 2022-09-09 |
 | [卦彖象爻 Hexagrams](https://open.spotify.com/track/2Pi0ZC9ra6hOTyJs1xdsS6) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [卦彖象爻 Hexagrams](https://open.spotify.com/album/6VTaIJdZoRWIlXafYvv2cQ) | 4:29 | 2023-02-02 | 2023-07-14 |
 | [原石](https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag) | [Dvk.](https://open.spotify.com/artist/014lHDdSXKmOzcw3VLWNdD) | [岸邊 I](https://open.spotify.com/album/3P7a5UgCtvbt8c27DRq4vZ) | 2:41 | 2022-10-20 | 2023-02-03 |
+| [古怪情歌](https://open.spotify.com/track/4P0HaRPbekow8YCKhHsVB5) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls), [Midnight 海倫](https://open.spotify.com/artist/4MTGOJf14wiMGPB920iXNq) | [古怪情歌](https://open.spotify.com/album/5I1k8TRWMizDJv742hvehN) | 3:38 | 2024-02-08 |  |
 | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/track/43Y9A3yEEwdpZhlawhQChk) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/album/3y8cczL71BdIcjPVePxT2C) | 2:46 | 2023-12-07 |  |
 | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/track/5uEstLfRPUgShflpMbh0ON) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [絵麗奈 Erena So](https://open.spotify.com/artist/14SH1hZNtnwtiX9P7hHezA) | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/album/6TGMTWPg3jC81Y5yC4occr) | 3:24 | 2023-09-07 | 2023-12-01 |
 | [可否一起寂寞到最後](https://open.spotify.com/track/3KtINGlRBFf8MFHPEmm1OP) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [可否一起寂寞到最後](https://open.spotify.com/album/4jII8Ll5dJ3XxSpHvvWk3t) | 3:48 | 2024-01-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:1xy9x7h2jKEg8iG22Sml32">Tye Tribbett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,197 likes - 95 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,277 likes - 95 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 94 | [Planted](https://open.spotify.com/track/5E6lx3w4GqLbKPKQrYyFIn) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b), [Ethan Kent](https://open.spotify.com/artist/6tkZDZILZdLZaCuY801ef3) | [Planted](https://open.spotify.com/album/0iPVkBWSUkUvRs3GMAK5Pm) | 4:02 |
 | 95 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 
-Snapshot ID: `MCwwNzFjYjViNGI4NDE0NDVlMDcwOGI4NTQ1NDQwZjEzZmFlYWFhODky`
+Snapshot ID: `MCxkZmQ3MzE1ZjgzYzRkNDYwMDUxMDNmMDc1YzQxODU3YjBhNTBjN2U0`

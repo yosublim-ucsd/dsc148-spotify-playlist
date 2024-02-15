@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 700651,
+  "num_followers": 701293,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzhmNjg3NjNiNDExZmVlMWYzN2FjOTUwNDU5ODkzMjQ0MjA0YWNi",
+  "snapshot_id": "MCw1MzA0YTJlYTZmY2UwYjcyMWRjMTJmNmYyNjAxNTczZjVkMjBkNWQ3",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -535,18 +535,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -567,18 +567,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
       "artists": [
         {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "The Game (Deluxe Remastered Version)",
@@ -931,6 +915,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Running In The Family",
-        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lessons In Love",
-      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Communards",
@@ -1655,22 +1639,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
+        "name": "Running In The Family",
+        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
       },
       "artists": [
         {
-          "name": "Robert Palmer",
-          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
-        },
-        {
-          "name": "Eric 'ET' Thorngren",
-          "url": "https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2"
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
         }
       ],
-      "duration_ms": 363640,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1691,6 +1671,26 @@
       "duration_ms": 235693,
       "name": "Say Say Say - Remastered 2015",
       "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        },
+        {
+          "name": "Eric 'ET' Thorngren",
+          "url": "https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2"
+        }
+      ],
+      "duration_ms": 363640,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me",
-      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "The Innocents",
         "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 213373,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me",
+      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Better Than Heaven",
         "url": "https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 239693,
       "name": "Two of Hearts",
       "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2229,6 +2229,22 @@
       "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Invisible Touch - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "True (Special Edition)",
@@ -2261,22 +2277,6 @@
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Brothers in Arms",
@@ -2291,6 +2291,22 @@
       "duration_ms": 252466,
       "name": "Walk of Life",
       "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2325,22 +2341,6 @@
       "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Invisible Touch (2007 Remaster)",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Invisible Touch - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Hotter Than July",
@@ -2357,22 +2357,6 @@
       "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Forever Your Girl",
@@ -2387,6 +2371,22 @@
       "duration_ms": 251466,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-09-08 13:09:25",

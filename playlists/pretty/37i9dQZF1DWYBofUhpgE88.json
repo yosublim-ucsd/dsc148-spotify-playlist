@@ -1,12 +1,12 @@
 {
   "description": "Rap per non smettere mai di crederci \ud83d\udcaa\ud83c\udfcb\ufe0f\ud83c\udfc3\u200d\u2640",
-  "num_followers": 339732,
+  "num_followers": 339810,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGFhODNhYzhlMGQ0YjE4N2M4M2M5Yzg3NTU0MjhmZGNmYjE2MDk3",
+  "snapshot_id": "MCw5M2Q5NTljMGJmZmMzYTVjOTE4MWI2OTYyOTlhYzZjOTVkMTg0OTlj",
   "tracks": [
     {
       "added_at": "2024-02-08 14:59:10",
@@ -655,22 +655,18 @@
     {
       "added_at": "2024-02-08 14:59:10",
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
         }
       ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+      "duration_ms": 325506,
+      "name": "Shook Ones, Pt. II",
+      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
       "added_at": "2024-02-08 14:59:10",
@@ -707,22 +703,6 @@
     {
       "added_at": "2024-02-08 14:59:10",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 325506,
-      "name": "Shook Ones, Pt. II",
-      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
-    },
-    {
-      "added_at": "2024-02-08 14:59:10",
-      "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 205426,
       "name": "Money In The Grave (Drake ft. Rick Ross)",
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "added_at": "2024-02-08 14:59:10",
+      "album": {
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
       "added_at": "2024-02-08 14:59:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,527 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,552 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 12 | [Alco](https://open.spotify.com/track/4gUSSMx93QZOFVHHmXWhHV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 3:48 |
 | 13 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
 | 14 | [Fairlies](https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:10 |
-| 15 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
+| 15 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 16 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
-| 17 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
+| 17 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 18 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 |
-| 19 | [Perdida](https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR) | 3:00 |
-| 20 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
+| 19 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
+| 20 | [Perdida](https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR) | 3:00 |
 | 21 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 22 | [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 |
 | 23 | [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 42 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
 | 43 | [Mountain](https://open.spotify.com/track/6h3iuoFDWScrQZn3sy0tmA) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV) | 3:02 |
 | 44 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
-| 45 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
+| 45 | [9 lives](https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:27 |
 | 46 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
-| 47 | [9 lives](https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:27 |
-| 48 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
+| 47 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
+| 48 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
 | 49 | [Southwark](https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4) | 3:22 |
 | 50 | [Skin](https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 3:51 |
 | 51 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 69 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 70 | [Blue Hours](https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:53 |
 | 71 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
-| 72 | [Corduroy](https://open.spotify.com/track/0Od0Z3CyRiFK4OOEtyrw6H) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Mess](https://open.spotify.com/album/1RVYgPPuYGGdgV46Y98QiN) | 3:58 |
-| 73 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
+| 72 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
+| 73 | [Corduroy](https://open.spotify.com/track/0Od0Z3CyRiFK4OOEtyrw6H) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Mess](https://open.spotify.com/album/1RVYgPPuYGGdgV46Y98QiN) | 3:58 |
 | 74 | [Never Coming Home](https://open.spotify.com/track/0N0WwX2M7mN4TiLXRyKkCR) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Never Coming Home](https://open.spotify.com/album/5rGjW2lMjnC8slwNarPvpS) | 4:00 |
 | 75 | [Gotta Get through Til Monday](https://open.spotify.com/track/6sc5VQ55QPoECmYtcf5KMd) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/3gNq14kiiRXmLVGQeXRGYx) | 3:41 |
 | 76 | [Stacking Chairs](https://open.spotify.com/track/779oVM9a1jQAnKUMKQdVMd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We’re The Greatest](https://open.spotify.com/album/5dK1qxuVTRmckVMtThjoGu) | 3:08 |
 | 77 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
 | 78 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
-| 79 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
-| 80 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
+| 79 | [Spinning Heart](https://open.spotify.com/track/17nnRPp1cTVQ8XUacodl5c) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [WETLANDS](https://open.spotify.com/album/56l7sgYUPRc7kPX1DseBCv) | 5:14 |
+| 80 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
 
-Snapshot ID: `MCw4N2JiYjYxYzFkZjE3M2FmNDgzOTBlYTUxYjhjYjk4NDI5NTQ1NDI4`
+Snapshot ID: `MCwzNDQxMjRjMjhlNmQ2ZmI5YmM2OWRiYWM4ZDBhYWE1YzNhMjM2ZThk`

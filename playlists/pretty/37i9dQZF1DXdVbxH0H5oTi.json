@@ -1,12 +1,12 @@
 {
   "description": "No procrastination allowed. Only fun songs to help you get chores done.",
-  "num_followers": 501294,
+  "num_followers": 501442,
   "original_name": "Get Chores Done",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFiYTc1MGRkZDliNTI1YTk1ZWEzOWJlNGYwNzZjNDFmMDliMzU4",
+  "snapshot_id": "MCwyNzdiNzBjZmQwNWNlZmVlZTk1ZWRiMzAzOWM5ZTYzMDI5MmUzOWJi",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The Papercut Chronicles II",
         "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 210960,
       "name": "Stereo Hearts (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -1075,38 +1091,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 247906,
       "name": "Try",
       "url": "https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La_Original.mp3",
-        "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
         }
       ],
-      "duration_ms": 140625,
-      "name": "La_Original.mp3",
-      "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1263,38 +1259,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+        "name": "La_Original.mp3",
+        "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
       },
       "artists": [
         {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1319,6 +1299,26 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+      "duration_ms": 243493,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         }
       ],
-      "duration_ms": 243493,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Fearless (Taylor\u2019s Version): The I Remember What You Said Last Night Chapter",
         "url": "https://open.spotify.com/album/0XCoR1j5Sa2su9uDS9AScR"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 231124,
       "name": "You Belong With Me (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/4P7LVHDbzn7aI6wWRh5AHc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: Tisoki and Godlands",
-  "num_followers": 889237,
+  "num_followers": 889238,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDY4NGYyY2MwYTVhNzc2NGQ2MWIwOTRmZTAyZGVlMDA3ZWIwNWEz",
+  "snapshot_id": "MCxlNTk2ODFhMGE3Y2NhZTRkYTQxY2FjMjRiNmVhYzQ1MjgzMWFkN2Iw",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5olSyT5RMcIycGiSB3KPEZ"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/2IFUmKpBpgGxlPfBqprkmO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 224017,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5olSyT5RMcIycGiSB3KPEZ"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/2IFUmKpBpgGxlPfBqprkmO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1733,26 +1733,6 @@
       "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Lost In Mumbai",
-        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Lost In Mumbai",
-      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tokyo",
@@ -1771,6 +1751,26 @@
       "duration_ms": 250285,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Lost In Mumbai",
+        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Lost In Mumbai",
+      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1953,20 +1953,24 @@
       "url": "https://open.spotify.com/track/54ZY8FCkx9Mgs9EXB2KLk5"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-01-12 22:22:40",
       "album": {
-        "name": "All Again",
-        "url": "https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG"
+        "name": "GOATED",
+        "url": "https://open.spotify.com/album/7vhMu8cSg5nx9CQgXQTdjG"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+          "name": "Rickyxsan",
+          "url": "https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ"
+        },
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
         }
       ],
-      "duration_ms": 157859,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW"
+      "duration_ms": 180857,
+      "name": "GOATED",
+      "url": "https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp"
     }
   ],
   "unique_name": "Trap Mojito",

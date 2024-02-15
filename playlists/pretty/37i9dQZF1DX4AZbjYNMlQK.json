@@ -1,12 +1,12 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
-  "num_followers": 281372,
+  "num_followers": 281360,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmM5OGVmZjM1Mjk0NTAwZjIyYTZkZjk2OGY4OGQzYjkxNzgyMGU5",
+  "snapshot_id": "MCxlMjhiY2JkNzM2YTViNDU1Y2M3NjBiMTE1ZmQ1NzY5ZThkMWFkZWJi",
   "tracks": [
     {
       "added_at": "2023-12-20 18:00:15",
@@ -299,38 +299,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/1mEfHecK8f4IttPQqoICQQ"
-      },
-      "artists": [
-        {
-          "name": "Saak",
-          "url": "https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/5PNGu7VLAg5cznoJ9trohF"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "gracias navidad",
         "url": "https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW"
       },
@@ -351,18 +319,34 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
       "artists": [
         {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 202632,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
+      "duration_ms": 154453,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/1mEfHecK8f4IttPQqoICQQ"
+      },
+      "artists": [
+        {
+          "name": "Saak",
+          "url": "https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/5PNGu7VLAg5cznoJ9trohF"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -379,6 +363,22 @@
       "duration_ms": 181093,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Emmanuel Jingle Bell Rocks",
-        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 325397,
-      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
-      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 188520,
       "name": "Navidad Contigo",
       "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Emmanuel Jingle Bell Rocks",
+        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 325397,
+      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
+      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
     },
     {
       "added_at": "2023-12-20 18:00:15",

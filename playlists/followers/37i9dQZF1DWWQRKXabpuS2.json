@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 33547,
+  "2024-02-15": 33565,
   "date_first_scraped": "2021-12-28",
   "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0646\u0648\u0627\u0644 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
@@ -93,6 +93,24 @@
       "duration_ms": 251062,
       "name": "Abiha Mn Allah",
       "url": "https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx"
+    },
+    {
+      "album": {
+        "name": "Adaaj Ghanaj",
+        "url": "https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270250,
+      "name": "Adaaj Ghanaj",
+      "url": "https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq"
     },
     {
       "album": {
@@ -3949,7 +3967,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 300000,
       "name": "Tkhawfni",
       "url": "https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR"
@@ -3967,7 +3985,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 263690,
       "name": "Tmmor Jarhi",
       "url": "https://open.spotify.com/track/2kGTKsmne0Cpq3IWHOUGOi"
@@ -4083,6 +4101,24 @@
       "duration_ms": 196863,
       "name": "Wayn Ma Wayn",
       "url": "https://open.spotify.com/track/1kqMk4SFhqjURfdHaZHP5k"
+    },
+    {
+      "album": {
+        "name": "Wbass Wallah",
+        "url": "https://open.spotify.com/album/52dHi6cYaYewGLsEJxtTH6"
+      },
+      "artists": [
+        {
+          "name": "Haneen Hussain",
+          "url": "https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Wbass Wallah",
+      "url": "https://open.spotify.com/track/0tO10FXwItxlccWS8d2WoZ"
     },
     {
       "album": {

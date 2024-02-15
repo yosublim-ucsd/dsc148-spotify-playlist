@@ -1,12 +1,12 @@
 {
   "description": "Se prendi\u00f3 la fiesta, featuring Marc Anthony.",
-  "num_followers": 83800,
+  "num_followers": 83828,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWUzMTRkNTY2OWM3Njg0OTBlZDg2OGZkZWI3YTgyNDIwN2VmNWI1",
+  "snapshot_id": "MCwwMDgzZTEyZTMwOGFmNzg1M2NiMjQ2ZWZjZDJjMjhjZmY1NjRiMTU0",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Bailando Bachata",
         "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 180494,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -1087,26 +1103,6 @@
       "duration_ms": 233093,
       "name": "Fruta Fresca",
       "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1151,6 +1147,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -1183,6 +1199,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "La Tierra del Olvido",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Pa' Mayte",
+      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -1199,38 +1231,6 @@
       "duration_ms": 242373,
       "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 180494,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "La Tierra del Olvido",
-        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Pa' Mayte",
-      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Dejame Entrar",
+        "url": "https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Carito",
+      "url": "https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "De Qu\u00e9 Manera",
         "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 286466,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Dejame Entrar",
-        "url": "https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Carito",
-      "url": "https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Adicto (feat. Marc Anthony)",
-        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+        "name": "MAFIOSA",
+        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 209191,
-      "name": "Adicto (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
+      "duration_ms": 266217,
+      "name": "MAFIOSA",
+      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "MAFIOSA",
-        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
       },
       "artists": [
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 266217,
-      "name": "MAFIOSA",
-      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1503,22 +1503,6 @@
       "duration_ms": 223059,
       "name": "A Mover la Colita",
       "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Lao' a Lao'",
         "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Gente Valiente",
         "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 228226,
       "name": "Ya No Me Duele M\u00e1s",
       "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1743,22 +1727,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Mala y Peligrosa (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 264193,
-      "name": "Mala y Peligrosa (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9"
+      "duration_ms": 216897,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     }
   ],
   "unique_name": "SABOR",

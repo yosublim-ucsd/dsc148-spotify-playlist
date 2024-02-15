@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/chiney/">Chiney Ogwumike</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 | 38 | [Drunk in Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:23 |
 | 39 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 |
 | 40 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
-| 41 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
+| 41 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 42 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
 | 43 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
 | 44 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 | 49 | [Beautiful](https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Uncle Charlie Wilson](https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B) | [The Best Of Snoop Dogg](https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8) | 4:59 |
 | 50 | [Acers Heights](https://open.spotify.com/track/7N2N81qsnHqk97n7XYKXWk) | [DonPerro](https://open.spotify.com/artist/746NiiXHGjRZbLjKxm4Q7W) | [Acers Heights](https://open.spotify.com/album/7uqa7ovzhMfbw0aKNWiY0d) | 3:44 |
 
-Snapshot ID: `MCw5NGY4Mzg1YTY4MmIyZjIxYTJiMTA0NzY5Yjg3M2RlZGY2MmVjZmYz`
+Snapshot ID: `MCwyMDY3YWYwZjBlMzNiMDBhMTIzNGEwNDExNTRlYzQyZDI3ZjZmODYz`

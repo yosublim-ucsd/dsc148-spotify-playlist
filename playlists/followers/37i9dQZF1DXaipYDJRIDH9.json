@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 217106,
+  "2024-02-15": 217140,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 157521,
       "name": "Secret Language (Solo Piano Version)",
       "url": "https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL"
@@ -1703,6 +1703,24 @@
       "duration_ms": 186708,
       "name": "Then I Saw You",
       "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
+    },
+    {
+      "album": {
+        "name": "There Is Light",
+        "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "There Is Light",
+      "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
     },
     {
       "album": {

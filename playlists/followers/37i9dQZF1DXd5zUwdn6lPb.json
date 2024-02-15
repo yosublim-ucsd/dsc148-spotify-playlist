@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 307481,
+  "2024-02-15": 307619,
   "date_first_scraped": "2022-04-19",
   "description": "Enhance your focus with classical music.",
   "name": "Classical Focus",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 337000,
       "name": "Adagio in F, H.XVII No. 9",
       "url": "https://open.spotify.com/track/59Ym3OL08DzJHzsdqvzRQZ"
@@ -1271,6 +1271,28 @@
       "duration_ms": 154400,
       "name": "En r\u00eave, S. 207",
       "url": "https://open.spotify.com/track/0eiT0cfG4TT3u6Zw68A1Kw"
+    },
+    {
+      "album": {
+        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
+        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176585,
+      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
+      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
     },
     {
       "album": {

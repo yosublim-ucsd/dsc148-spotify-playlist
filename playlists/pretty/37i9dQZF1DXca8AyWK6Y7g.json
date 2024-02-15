@@ -1,12 +1,12 @@
 {
   "description": "pls don't say I'm too much \u25cf\ufe3f\u25cf cover: girl in red",
-  "num_followers": 1492660,
+  "num_followers": 1492698,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzE3MzdiMTQwZTQxMTUxYjE4MjFiYTVmY2VlYzk5OTczZDBjYWRi",
+  "snapshot_id": "MCxhNDc0OTMxY2Q2ODJkZmQzMDZiNDJhM2RkOWIyZDE1NWM4MzQ4MDc0",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "Glue Song (feat. Clairo)",
@@ -287,22 +303,6 @@
       "duration_ms": 135066,
       "name": "Glue Song (feat. Clairo)",
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "playpen",
-        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "we're all eating each other",
-      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "petals",
         "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 146769,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "playpen",
+        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "we're all eating each other",
+      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Lonely Dancers",
@@ -515,18 +499,18 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -543,6 +527,22 @@
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/6NrKSg2op9PLJI9BjpwPXe"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 174196,
-      "name": "Yard Sale",
-      "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "W.I.T.C.H.",
         "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/6NrKSg2op9PLJI9BjpwPXe"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+      "duration_ms": 174196,
+      "name": "Yard Sale",
+      "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -663,6 +647,22 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
         "name": "One More Shot (One Take Version)",
         "url": "https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250597,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "roots",
         "url": "https://open.spotify.com/album/5TPV8JYLrkm15MVr7RhFdi"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 166938,
       "name": "vices",
       "url": "https://open.spotify.com/track/762n155rz6x9e5UHjoxmVC"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -757,6 +757,26 @@
       "url": "https://open.spotify.com/track/0uhM3a59WXfYEsxbmjga6S"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "a girl like me",
@@ -787,26 +807,6 @@
       "duration_ms": 182400,
       "name": "stacy's brother",
       "url": "https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "All My Exes' Moms",
         "url": "https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 125407,
       "name": "All My Exes' Moms",
       "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Burton St.",
         "url": "https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ"
       },
@@ -983,22 +967,6 @@
       "duration_ms": 196213,
       "name": "Burton St.",
       "url": "https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
-        "name": "age tape 10",
-        "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "hard enough to stay alive",
-      "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1031,6 +999,38 @@
       "duration_ms": 149108,
       "name": "Home To Another One",
       "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "age tape 10",
+        "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "hard enough to stay alive",
+      "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Why Can\u2019t I Have Two? (2468) / DILF",
         "url": "https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 139662,
       "name": "Why Can\u2019t I Have Two? (2468)",
       "url": "https://open.spotify.com/track/7ISQPiQJSInnKnMxBNSwFs"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 201071,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "here lies what could've been",
         "url": "https://open.spotify.com/album/3zVrlJirpuPmf41auiBCpt"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 221298,
       "name": "here lies what could've been",
       "url": "https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 201071,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1549,6 +1549,22 @@
       "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Apartment A",
+        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Apartment A",
+      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
+    },
+    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "Without You",
@@ -1579,22 +1595,6 @@
       "duration_ms": 167533,
       "name": "the girl (that you can't get over)",
       "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Apartment A",
-        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Apartment A",
-      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 163927,
-      "name": "Girl Of Your Dreams",
-      "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 212946,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 163927,
+      "name": "Girl Of Your Dreams",
+      "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-01-12 05:14:51",
       "album": {
-        "name": "Timeline",
-        "url": "https://open.spotify.com/album/1AugVV9htPCWMFroakalq9"
-      },
-      "artists": [
-        {
-          "name": "Kylie Muse",
-          "url": "https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
-    },
-    {
-      "added_at": "2024-01-12 05:14:51",
-      "album": {
         "name": "swimming pools",
         "url": "https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 152106,
       "name": "swimming pools",
       "url": "https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo"
+    },
+    {
+      "added_at": "2024-01-12 05:14:51",
+      "album": {
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/1AugVV9htPCWMFroakalq9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Muse",
+          "url": "https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV"
     },
     {
       "added_at": "2024-01-12 05:14:51",
@@ -1953,22 +1953,6 @@
       "url": "https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Go Blonde",
-        "url": "https://open.spotify.com/album/2yGuGgNPhuTBqjy2LJnEl2"
-      },
-      "artists": [
-        {
-          "name": "Olivia Knox",
-          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
-        }
-      ],
-      "duration_ms": 144579,
-      "name": "Go Blonde",
-      "url": "https://open.spotify.com/track/4oDVKGJlwEK5aau8qzluRv"
-    },
-    {
       "added_at": "2024-01-12 05:14:51",
       "album": {
         "name": "Tantrum",
@@ -1983,6 +1967,22 @@
       "duration_ms": 151706,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Go Blonde",
+        "url": "https://open.spotify.com/album/2yGuGgNPhuTBqjy2LJnEl2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Knox",
+          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
+        }
+      ],
+      "duration_ms": 144579,
+      "name": "Go Blonde",
+      "url": "https://open.spotify.com/track/4oDVKGJlwEK5aau8qzluRv"
     }
   ],
   "unique_name": "young & free",

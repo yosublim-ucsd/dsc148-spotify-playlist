@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "album": {
         "name": "Darah",
         "url": "https://open.spotify.com/album/1fSHmbA2mAVQhLAZSZmNTO"
       },
@@ -474,7 +492,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"

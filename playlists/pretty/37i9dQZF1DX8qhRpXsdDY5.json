@@ -1,12 +1,12 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 208749,
+  "num_followers": 208735,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWMwZTQwZTIyMjI2ZTMzMzVjZmY4YjJlMWYyYjQwOTAzMWU4YmRh",
+  "snapshot_id": "MCwwNWVkNGQ5Njk2MjRjMDExMTRhYzRlNDA0MTcxNDI3NmFhOTkwNTQz",
   "tracks": [
     {
       "added_at": "2023-12-20 18:10:37",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
+        "name": "Regalo de Reyes",
+        "url": "https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Regalo de Reyes",
+      "url": "https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 217877,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
-        "name": "Regalo de Reyes",
-        "url": "https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Regalo de Reyes",
-      "url": "https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 176429,
-      "name": "Rodolfo el Reno",
-      "url": "https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Villancicos",
         "url": "https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 265560,
       "name": "Mi Estrella",
       "url": "https://open.spotify.com/track/4c8OEUMc9R5wn4xmx6ujwa"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 176429,
+      "name": "Rodolfo el Reno",
+      "url": "https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -727,22 +727,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Laura Xmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Patrick Williams Orchestra",
-          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
+          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
+          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
         }
       ],
-      "duration_ms": 181146,
-      "name": "Va a nevar (with the Patrick Williams Orchestra)",
-      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
+      "duration_ms": 156600,
+      "name": "Se Va Diciembre",
+      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -763,18 +759,22 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
+        "name": "Laura Xmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
-          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Patrick Williams Orchestra",
+          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Se Va Diciembre",
-      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
+      "duration_ms": 181146,
+      "name": "Va a nevar (with the Patrick Williams Orchestra)",
+      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
     },
     {
       "added_at": "2023-12-20 18:10:37",

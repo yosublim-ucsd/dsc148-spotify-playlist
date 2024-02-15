@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQ5NDk2YzYyZTgxYzlkOTM5NGZlYTg1MTJiNGM0ZjlhZjFmY2Yy",
+  "snapshot_id": "MCxmZTMwYzRiNTM5ZTc5ZTE1MjdiZGFhN2RmMjVjN2ZlM2Q3YWE5MTU4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Tripping Over Air",
         "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 182382,
       "name": "Tripping Over Air",
       "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Running In Circles / HURT",
-        "url": "https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW"
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
       "artists": [
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
         }
       ],
-      "duration_ms": 233321,
-      "name": "Running In Circles",
-      "url": "https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3"
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+        "name": "Running In Circles / HURT",
+        "url": "https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW"
       },
       "artists": [
         {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+      "duration_ms": 233321,
+      "name": "Running In Circles",
+      "url": "https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "We Need More Bricks",
-        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "We Need More Bricks",
-      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 187666,
       "name": "Don't Miss",
       "url": "https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "We Need More Bricks",
+        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "We Need More Bricks",
+      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Some Of It Was True",
-        "url": "https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Hope is a Dangerous Little Thing",
-      "url": "https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Pop Evil",
         "url": "https://open.spotify.com/album/3qytVWeUzpO3PkxPWurIfY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 203273,
       "name": "Be Legendary",
       "url": "https://open.spotify.com/track/1K48Rz8fb7x6zdJkyVoQoq"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Some Of It Was True",
+        "url": "https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Hope is a Dangerous Little Thing",
+      "url": "https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc"
     },
     {
       "added_at": "2023-12-15 05:00:00",

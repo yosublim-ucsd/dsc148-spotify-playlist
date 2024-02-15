@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,800 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,824 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Grey](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 93](https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL) | 4:53 |
 | 50 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 |
 
-Snapshot ID: `MCxhNmNjNDQyNjgxY2QzYmI0MzJjOTdjNjc0OTNlZWM5ODc1M2IzNzZm`
+Snapshot ID: `MCwxZTAyNjQ5Nzg3NGUxOTZjMGE1NTBhZWM4OTE1MWVmYTJkOTBjMTUy`

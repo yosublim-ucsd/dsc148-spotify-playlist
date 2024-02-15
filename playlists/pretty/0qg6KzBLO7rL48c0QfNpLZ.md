@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 83,304 likes - 183 songs - 8 hr 28 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 83,658 likes - 183 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

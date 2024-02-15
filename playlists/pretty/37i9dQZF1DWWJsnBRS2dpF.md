@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,472 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,538 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 49 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
 | 50 | [Butta Love](https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:56 |
 
-Snapshot ID: `MCxkODBmNDZjMTkzOWQyZGJlOGI2NjU5MjA2YTZmZDU0NDRhMDc3Njkx`
+Snapshot ID: `MCw1NGMyYjcyNmVlZmIwMzRhODY3MTk4NDVkMWY3M2UyYTAyMzI4ODBj`

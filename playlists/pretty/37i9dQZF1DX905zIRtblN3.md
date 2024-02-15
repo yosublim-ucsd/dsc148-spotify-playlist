@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Alfredo Olivas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,236,694 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,238,405 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 49 | [Nos Extraño \- En Vivo](https://open.spotify.com/track/7CVYguEu1LDPnYIQexs5xS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3) | 3:00 |
 | 50 | [Casi Completa](https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:10 |
 
-Snapshot ID: `MCxjOTU3MjE1Mzg5NGFmMTU1ZmZjZTA5NTcxYjQwNTY0Njc5ZDhkZDZk`
+Snapshot ID: `MCxkMjFlY2ZlYWMwODA5YTJhNjRhNWIyM2ZjM2ZiZjRkYWQ2MTA2Mjky`

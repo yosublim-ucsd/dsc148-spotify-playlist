@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,147 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,248 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 45 | [Starry Night](https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62) | 3:31 |
 | 46 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 47 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
-| 48 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 |
+| 48 | [My My](https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:05 |
 | 49 | [Not For Sale](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:01 |
-| 50 | [My My](https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:05 |
+| 50 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 |
 | 51 | [We Lost The Summer](https://open.spotify.com/track/1WrScpykT891CZhFThXJtj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:30 |
 | 52 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 |
 | 53 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 64 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 |
 | 65 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 |
 | 66 | [LALALAY](https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY](https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5) | 2:54 |
-| 67 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
-| 68 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 |
+| 67 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 |
+| 68 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
 | 69 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 |
 | 70 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
 | 71 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 99 | [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 |
 | 100 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 |
 
-Snapshot ID: `MCxhNDE1MjBmMWVkODlhMDgxMGI4NWUwYmZkNDNiMmYzYTI0OWMxYTli`
+Snapshot ID: `MCw3NGQzYjVjZmQ4MzA5YTlhOTcyNWFhNGJjNDE3YTYxOGVjYTc1MWY0`

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 583791,
+  "2024-02-15": 583788,
   "date_first_scraped": "2021-12-28",
   "description": "All-new releases by Latin artists! Cover: Danny Ocean",
   "name": "New Music Friday Latin",
@@ -81822,24 +81822,6 @@
     },
     {
       "album": {
-        "name": "NOCHE DE M\u00c1S",
-        "url": "https://open.spotify.com/album/7KLwy8lR8NIK7VkUGpacU1"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "date_added": "2024-02-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158400,
-      "name": "NOCHE DE M\u00c1S",
-      "url": "https://open.spotify.com/track/1l1pPdqaINEgZDE0nVV2ED"
-    },
-    {
-      "album": {
         "name": "Noche de Novela (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9"
       },
@@ -82005,6 +81987,24 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
+      "album": {
+        "name": "NOCHES DE M\u00c1S",
+        "url": "https://open.spotify.com/album/7KLwy8lR8NIK7VkUGpacU1"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "NOCHES DE M\u00c1S",
+      "url": "https://open.spotify.com/track/1l1pPdqaINEgZDE0nVV2ED"
     },
     {
       "album": {
@@ -101793,7 +101793,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 181076,
       "name": "Se Cans\u00f3",
       "url": "https://open.spotify.com/track/7wAgHMlG5DyyElIfBAjyQk"

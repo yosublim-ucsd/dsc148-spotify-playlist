@@ -2,9 +2,9 @@
 
 ### [Tamil Indie](https://open.spotify.com/playlist/37i9dQZF1DWVPZhZJQP9HE)
 
-> Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
+> Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar & Samyuktha Viswanathan
 
-502 songs - 1 day 5 hr 49 min
+503 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Podhum Podhum](https://open.spotify.com/track/4j9tfODoDROp4fWAe7a2R7) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Podhum Podhum](https://open.spotify.com/album/4dfDWrgqAyD9lCfU6xvJcX) | 2:20 | 2022-05-14 | 2022-07-28 |
 | [Poi](https://open.spotify.com/track/3svmW2GDrV5IO77FGyjPCz) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU), [Anjana Rajagopalan](https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4) | [Poi](https://open.spotify.com/album/7iD5iNc0s503kuTzyQDDhE) | 3:30 | 2023-11-06 |  |
 | [Poi Alternative](https://open.spotify.com/track/70yzpqshi0ZQqDFzdK5yzc) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb), [BIGSAM](https://open.spotify.com/artist/4DjnU0Is1P3CXnyew0mt3m) | [Poi Alternative](https://open.spotify.com/album/4xlpASEJ1p4tEG12KNd2YM) | 4:27 | 2023-12-13 |  |
+| [Poi Kaadhal](https://open.spotify.com/track/75puDBmZg806ES5fDGn1wo) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Umashankar Kannaiyan](https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T) | [Poi Kaadhal](https://open.spotify.com/album/573Tfa9eUyKwPR2mTbOyRB) | 0:54 | 2024-02-14 |  |
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-11-14 | 2024-01-05 |
 | [Poidhana](https://open.spotify.com/track/756zRtsR7enjgQRwJkGmCX) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2NX0YTJxgnw9XEaJamAtnJ) | 2:55 | 2023-11-14 |  |
 | [Polambal](https://open.spotify.com/track/4b50BdPjp56Ir3QNiXTn07) | [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ), [Viwin Frencies](https://open.spotify.com/artist/47ZrxtQrnCIPnKvYxGNdtx) | [Polambal](https://open.spotify.com/album/6ZKzJclfFSBK6lyPoLbMqU) | 3:32 | 2023-03-16 | 2023-03-23 |

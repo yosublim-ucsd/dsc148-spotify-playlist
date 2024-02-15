@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,786 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,780 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 |
 | 100 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
 
-Snapshot ID: `MCxlYzM1YWJlZjIyOGE4MGYxY2Q5MjRjYzdjMWFlZmI2NzQ3M2MyMzUw`
+Snapshot ID: `MCw0N2M2MjVmMjNkMjVkODJiYTRjNjIxODY3ZTQwOTQwMzEyYWM3MDRm`

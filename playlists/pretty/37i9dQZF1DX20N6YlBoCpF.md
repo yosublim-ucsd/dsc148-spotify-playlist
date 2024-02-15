@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx?si=6mgCojNATqaSCBppszNY1g">Ampie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,768 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,793 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 54 | [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 |
 | 55 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
 
-Snapshot ID: `MCwzOTFkZDZlODBjNWY0ZDhhODA5NDdmNmJkZDBmNmNjZTkyZjM4MzI0`
+Snapshot ID: `MCw3ZjViZTI2MzhmY2I3MTdmNTg2NTcyMTMwZjg2YzQ0YWFiZDQzODc5`

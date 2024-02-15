@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,660 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,668 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 21 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
 | 22 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1) | 9:54 |
 | 23 | [Turning Around\(Live\)](https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 4:48 |
-| 24 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
-| 25 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
+| 24 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
+| 25 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
 | 26 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
 | 27 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
 | 28 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 35 | [Lord Have Your Way](https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE) | [Efe Grace Official](https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS) | [Lord Have Your Way](https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD) | 6:08 |
 | 36 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
 | 37 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 |
-| 38 | [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 |
-| 39 | [Show Them](https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [REBIRTH \(Mary's Child\)](https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t) | 4:19 |
+| 38 | [Show Them](https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [REBIRTH \(Mary's Child\)](https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t) | 4:19 |
+| 39 | [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 |
 | 40 | [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 |
 | 41 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 |
 | 42 | [Amenuveve \(Grace\)](https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Final Say \(Live\)](https://open.spotify.com/album/5ArIzKQKQdpVAQAxY2cZFy) | 6:48 |
-| 43 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |
-| 44 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
+| 43 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
+| 44 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |
 | 45 | [Zamar Worship](https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT) | [Godee](https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB) | [Zamar Worship](https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H) | 12:31 |
 | 46 | [Awake](https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [The Awakening \(Alpha Edition\)](https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC) | 8:06 |
 | 47 | [Glory Chants](https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [MOVE VOL 1](https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck) | 7:13 |
-| 48 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
-| 49 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
-| 50 | [Victory Chant](https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Victory Chant](https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH) | 4:52 |
+| 48 | [Victory Chant](https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Victory Chant](https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH) | 4:52 |
+| 49 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
+| 50 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
 
-Snapshot ID: `MCxlYzQ1MjhiN2QzM2FkMTg0MmNlYjZlNWNiMzVlZmEzMTZjOGRkMzM0`
+Snapshot ID: `MCxkYjdhZDU1MGNhYTkwMTY3MDBhMDA4ZDI4YTMxZDI4ZThhZjg4MjU5`

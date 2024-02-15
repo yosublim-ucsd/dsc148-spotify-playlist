@@ -1,12 +1,12 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1280987,
+  "num_followers": 1280836,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzRkNWFiZDlhMjM3ZTcwNWUxNjQ2M2I1NGRhODc5NTQwZThiNDJh",
+  "snapshot_id": "MCwwMzA5YjI3MTVlNWQ0ODRiM2IwYzM1MmFmZDk2ZjlkYmM1YWY2MDk1",
   "tracks": [
     {
       "added_at": "2024-02-09 15:21:11",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "Everywhere, Everything (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -515,18 +495,22 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -543,6 +527,22 @@
       "duration_ms": 251480,
       "name": "Ultraviolence",
       "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -675,6 +691,22 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
       },
@@ -687,22 +719,6 @@
       "duration_ms": 220245,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -823,6 +823,38 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -835,22 +867,6 @@
       "duration_ms": 243599,
       "name": "Where do we go now?",
       "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -875,34 +891,18 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "I Won't Be Your Foe",
-        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
         "name": "Cigarettes & Wine (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 181666,
       "name": "Cigarettes & Wine (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
         "name": "Canaries in a Coal Mine",
         "url": "https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
         "name": "Chasing the Wind",
         "url": "https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 114375,
       "name": "Maybe My Soulmate Died",
       "url": "https://open.spotify.com/track/1xWMqWlcfGrdnQWim2PJVb"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2024-02-09 15:21:11",
@@ -1443,6 +1459,22 @@
     {
       "added_at": "2024-02-09 15:21:11",
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/1UPnkXDiS0y6tjmUdNQqvx"
+    },
+    {
+      "added_at": "2024-02-09 15:21:11",
+      "album": {
         "name": "Nicht allein",
         "url": "https://open.spotify.com/album/70GyiV8LToJYGYE6pxh8IL"
       },
@@ -1471,38 +1503,6 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
-        "name": "Utopie",
-        "url": "https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Utopie",
-      "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
-    },
-    {
-      "added_at": "2024-02-09 15:21:11",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     }
   ],
   "unique_name": "Wintergef\u00fchle",

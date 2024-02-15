@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,179 likes - 45 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,187 likes - 45 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 36 | [Deep Blue Day \- Remastered 2005](https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:58 |
 | 37 | [Lost In The Humming Air \- 2005 Digital Remaster](https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:21 |
 | 38 | [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 |
-| 39 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 |
+| 39 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 40 | [Silver Morning \- Remastered 2005](https://open.spotify.com/track/5HzfnZhtGRSenfvmdnY7aV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:39 |
 | 41 | [The Pearl \- 2005 Digital Remaster](https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:14 |
-| 42 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
+| 42 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 |
 | 43 | [Wind On Wind](https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 3:13 |
-| 44 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 |
-| 45 | [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 |
+| 44 | [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 |
+| 45 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBhMGI1ZTNiOGMzOTcyNGIzZTBkZDhkNWFkYmJmMjZiMg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA0ZjY3NzY3NWUzNTQyNzJlMzhhY2IxMzI5NjFjZmNmMw==`

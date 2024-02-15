@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Kimi ni Mita Kisetsu",
+        "url": "https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "Oujitsu",
+      "url": "https://open.spotify.com/track/7l1U8t0MjRDFkQyJuTP6rJ"
+    },
+    {
+      "album": {
         "name": "Our Place",
         "url": "https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD"
       },
@@ -1226,6 +1244,42 @@
       "duration_ms": 178453,
       "name": "Page One",
       "url": "https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2"
+    },
+    {
+      "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "Prepare Yourself!",
+      "url": "https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz"
+    },
+    {
+      "album": {
+        "name": "Q.1",
+        "url": "https://open.spotify.com/album/3283TUO9t88bpwilwlYp9k"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231713,
+      "name": "Q.1",
+      "url": "https://open.spotify.com/track/69wRfBpcspPBQYD8xaDyT8"
     },
     {
       "album": {
@@ -1896,6 +1950,24 @@
       "duration_ms": 237975,
       "name": "yunagieiso",
       "url": "https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ"
+    },
+    {
+      "album": {
+        "name": "Yuuhi Sasaru Heya",
+        "url": "https://open.spotify.com/album/5w6CXsVtKirb9AaXarMNtw"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "Yuuhi Sasaru Heya",
+      "url": "https://open.spotify.com/track/2nK5yfiQ8SuorCXJeJLAMX"
     },
     {
       "album": {
@@ -3070,7 +3142,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 231713,
       "name": "\u554f.1",
       "url": "https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO"
@@ -3124,7 +3196,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 193066,
       "name": "\u5915\u65e5\u3001\u523a\u3055\u308b\u90e8\u5c4b",
       "url": "https://open.spotify.com/track/1tFMW0Ca7Fvh3ekXNK4zGg"
@@ -3250,7 +3322,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 222933,
       "name": "\u5f80\u65e5",
       "url": "https://open.spotify.com/track/2r73737Z4jWYKizwA2px9u"
@@ -3736,7 +3808,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P"

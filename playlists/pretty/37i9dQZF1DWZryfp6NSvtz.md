@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Dea Matrona
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,990 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,138 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [A THOUSAND DREAMS AWAY](https://open.spotify.com/track/03VkCrbicuL4AMuOaO3e9p) | [Greyborn](https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis) | [A THOUSAND DREAMS AWAY](https://open.spotify.com/album/79NfBx8hqAlC2ml2m5Rzg3) | 5:35 |
 | 50 | [Microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 |
 
-Snapshot ID: `MCw2Mjk3MjA3NDViMGFmZTlkZjYyMDE0NmVkYThjYjBjNDAzZWY3Zjk2`
+Snapshot ID: `MCxkMmRiZDljOTFjN2Q1MGQ0YmRiZjg3NWU3YjdkZjFhNDVhNGY0NzQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,564 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,580 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 48 | [Aiya](https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sunsets in Lagos](https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb) | 3:43 |
 | 49 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 |
 | 50 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 |
-| 51 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
-| 52 | [Whoa!](https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Amaa Rae](https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR) | [Insert Project Name](https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw) | 3:25 |
+| 51 | [Whoa!](https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Amaa Rae](https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR) | [Insert Project Name](https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw) | 3:25 |
+| 52 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
 | 53 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 |
 | 54 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 |
 | 55 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 |
 | 56 | [Freaky](https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Freaky](https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h) | 3:57 |
 | 57 | [Mondays](https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [Mondays](https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK) | 2:14 |
-| 58 | [Lagos \(Everyday\)](https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Lagos \(Everyday\)](https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide) | 3:33 |
-| 59 | [Work](https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI) | [The Forbidden](https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Work](https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE) | 3:46 |
+| 58 | [Work](https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI) | [The Forbidden](https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Work](https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE) | 3:46 |
+| 59 | [Lagos \(Everyday\)](https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Lagos \(Everyday\)](https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide) | 3:33 |
 | 60 | [Up](https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Bri's Lounge](https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4) | 3:25 |
 
-Snapshot ID: `MCw3M2Q4MWNkMzdjYmM2MzYyOTYzNGEzNjM1MzdmMDQxNGE3ZTIzNWE5`
+Snapshot ID: `MCw0ZmVjMTlmYjYyNTEzZDdiNDUyZjFlNzMxNTk2ZTFkZDljOWFkMjY0`

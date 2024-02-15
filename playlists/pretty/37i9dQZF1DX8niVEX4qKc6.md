@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Mica Sotera
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,598 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,629 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 52 | [El Callejón de los Milagros](https://open.spotify.com/track/4VRPUoFBtTFcwco6YNFEx8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Ruiseñor, el Amor y la Muerte](https://open.spotify.com/album/5RqHno42QNZ7aZoyYnztbj) | 2:51 |
 | 53 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 54 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
-| 55 | [A Veces Vuelvo \- Acustico](https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 4:33 |
-| 56 | [Tu Nombre \- En Vivo En El Gran Rex / 2015](https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Tanta Magia \(En Vivo En El Gran Rex / 2015\)](https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN) | 3:34 |
-| 57 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
+| 55 | [Tu Nombre \- En Vivo En El Gran Rex / 2015](https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Tanta Magia \(En Vivo En El Gran Rex / 2015\)](https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN) | 3:34 |
+| 56 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
+| 57 | [A Veces Vuelvo \- Acustico](https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 4:33 |
 | 58 | [Besos, Limón y Miel](https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Besos, Limón y Miel](https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT) | 3:47 |
 | 59 | [Me Estás Tratando Mal \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Me Estás Tratando Mal \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM) | 4:26 |
 | 60 | [La Flor Azul](https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Amapola del 66](https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs) | 2:40 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 62 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 |
 | 63 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
 | 64 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
-| 65 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
-| 66 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
+| 65 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
+| 66 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
 | 67 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 |
 | 68 | [Mujer Amante \(versión acústica\)](https://open.spotify.com/track/6D1Theo7lCIUYI8SPtwdN2) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:52 |
 | 69 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 80 | [Pitada](https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 4:03 |
 | 81 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
 | 82 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
-| 83 | [Desapego](https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi) | 3:38 |
-| 84 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
-| 85 | [Nada Tengo](https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Nada Tengo](https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY) | 4:32 |
+| 83 | [Nada Tengo](https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Nada Tengo](https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY) | 4:32 |
+| 84 | [Desapego](https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi) | 3:38 |
+| 85 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
 | 86 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 87 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 |
 | 88 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Pasos Al Costado](https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turf](https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV) | 4:31 |
 | 100 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 |
 
-Snapshot ID: `MCxkMThjNzkxZGQ0NTYzNWUwZGRhZDJkMTJhOTBmZDRlNWY4ODE5NDY4`
+Snapshot ID: `MCxkOGU5YTRlNjdiMjM2MDJiN2Q1YTVhNDA1YmI4NzZhZWJiYmEzZDM1`

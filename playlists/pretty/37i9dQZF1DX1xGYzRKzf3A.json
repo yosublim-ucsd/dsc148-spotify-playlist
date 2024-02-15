@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 115987,
+  "num_followers": 116107,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWIzZjY3N2RmNjRmODQ3NWJhOWIxNzU2OTY1ZTczNzI5Mjk4ZWM5",
+  "snapshot_id": "MCwwMjkyZTUwYTlkMjMxNjU0ZjM2M2VmNWE4MDBiMmNmMmY2YzM4Njky",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Vampiresa",
-        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
-      },
-      "artists": [
-        {
-          "name": "Explosion Colombiana De Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
-        }
-      ],
-      "duration_ms": 314398,
-      "name": "La Vampiresa",
-      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "The Pre End Of The World Soundtrack",
         "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 194880,
       "name": "Noreste Caliente",
       "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "La Vampiresa",
+        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
+      },
+      "artists": [
+        {
+          "name": "Explosion Colombiana De Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
+        }
+      ],
+      "duration_ms": 314398,
+      "name": "La Vampiresa",
+      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
       },
       "artists": [
         {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
         }
       ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1167,6 +1151,22 @@
       "duration_ms": 193226,
       "name": "Cheka Wey (feat. Mery Dee)",
       "url": "https://open.spotify.com/track/1bzDPMw8W5Km5g94WHRefd"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 224333,
       "name": "Lo Mejor de Mi Vida",
       "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Quiero Volar",
+        "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Meza",
+          "url": "https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt"
+        },
+        {
+          "name": "y Su Tropicolombia",
+          "url": "https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "De Colombia Para El Mundo Mano A Mano",
         "url": "https://open.spotify.com/album/05KLjrRd1YzOhyCtsOAdKB"
       },
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Quiero Volar",
-        "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Meza",
-          "url": "https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt"
-        },
-        {
-          "name": "y Su Tropicolombia",
-          "url": "https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Quiero Volar",
-      "url": "https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Muchacha Encantadora",
         "url": "https://open.spotify.com/album/1RQiiNOHONxx63024KO320"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 287346,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/159c1Rvj1ThYoObWHXTC09"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "La Suegra",
-        "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 244375,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Obsesi\u00f3n",
-        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
+        "name": "La Suegra",
+        "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 152448,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
+      "duration_ms": 244375,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1551,6 +1535,22 @@
       "duration_ms": 153733,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 152448,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 252980,
-      "name": "Te Llevar\u00e9",
-      "url": "https://open.spotify.com/track/4ZD2ePc9gUJM7DokbfPzku"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 174880,
       "name": "Cada Vez Que Me Voy",
       "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 252980,
+      "name": "Te Llevar\u00e9",
+      "url": "https://open.spotify.com/track/4ZD2ePc9gUJM7DokbfPzku"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Botes y Boleros (En Vivo)",
-        "url": "https://open.spotify.com/album/5HYVtlNTOIlS0sJY3i26vX"
-      },
-      "artists": [
-        {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
-        },
-        {
-          "name": "Akilatados",
-          "url": "https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Rezando Por Ella - En Vivo",
-      "url": "https://open.spotify.com/track/6Lj9CyTg2BHdbTLLscmBsx"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Esto Es Lo Nuestro",
         "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 180491,
       "name": "Chimenea - En Vivo",
       "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Botes y Boleros (En Vivo)",
+        "url": "https://open.spotify.com/album/5HYVtlNTOIlS0sJY3i26vX"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        },
+        {
+          "name": "Akilatados",
+          "url": "https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Rezando Por Ella - En Vivo",
+      "url": "https://open.spotify.com/track/6Lj9CyTg2BHdbTLLscmBsx"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Juro Que Es por Ella",
-        "url": "https://open.spotify.com/album/4R0zKvzfufpo1ptWhG7tuh"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/5Qc5HoAa0zKDjTlzJw2OBh"
-        }
-      ],
-      "duration_ms": 250634,
-      "name": "Juro Que Es por Ella",
-      "url": "https://open.spotify.com/track/20yublwhQkHSiko0ranSlT"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Amar o Morir",
         "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 252266,
       "name": "Brindo por ti",
       "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Juro Que Es por Ella",
+        "url": "https://open.spotify.com/album/4R0zKvzfufpo1ptWhG7tuh"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/5Qc5HoAa0zKDjTlzJw2OBh"
+        }
+      ],
+      "duration_ms": 250634,
+      "name": "Juro Que Es por Ella",
+      "url": "https://open.spotify.com/track/20yublwhQkHSiko0ranSlT"
     },
     {
       "added_at": "2023-11-08 22:38:29",

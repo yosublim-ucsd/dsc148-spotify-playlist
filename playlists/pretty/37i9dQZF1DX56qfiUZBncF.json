@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 375983,
+  "num_followers": 376009,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDA0N2M2NDE3ZmNhMTkxY2UyMDg2ZGFmMTdlYTM2OGFhNmJiYTY4",
+  "snapshot_id": "MCw5NDg4YmQ4NTY1N2FiOTFkMDYxMmM2ZGIyMzExNjY5OWE0YTlkZTQ3",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199996,
-      "name": "Lose Your Head",
-      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "God Save The Animals",
         "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 224253,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Far From Here",
         "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 260338,
       "name": "Edge of the Dark",
       "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Julia (deep diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 184015,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 202247,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 184015,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "For The Very Last Time",
+        "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
+      },
+      "artists": [
+        {
+          "name": "Glassio",
+          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
+        }
+      ],
+      "duration_ms": 219788,
+      "name": "A Million Doubts",
+      "url": "https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "For The Very Last Time",
-        "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
-      },
-      "artists": [
-        {
-          "name": "Glassio",
-          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
-        }
-      ],
-      "duration_ms": 219788,
-      "name": "A Million Doubts",
-      "url": "https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Wake",
         "url": "https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 202500,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Beverly Blues",
-        "url": "https://open.spotify.com/album/35YyNe6AI5txgMjdHrhl4Y"
-      },
-      "artists": [
-        {
-          "name": "Opia",
-          "url": "https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/18ZlXU6zRcjPcxdGwr8gC9"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO"
       },
@@ -1435,22 +1419,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "EPHEMERA",
-        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+        "name": "Beverly Blues",
+        "url": "https://open.spotify.com/album/35YyNe6AI5txgMjdHrhl4Y"
       },
       "artists": [
         {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Opia",
+          "url": "https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh"
         }
       ],
-      "duration_ms": 167636,
-      "name": "Jeanie",
-      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
+      "duration_ms": 223813,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/18ZlXU6zRcjPcxdGwr8gC9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1471,6 +1451,26 @@
       "duration_ms": 224113,
       "name": "Together",
       "url": "https://open.spotify.com/track/7mEowvi9llcvmL3tLqmhAy"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 167636,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/5aeiWEPlbYxCydWtK1Jx3e"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/07DU8dRQofaACseJ4MF1AF"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/5aeiWEPlbYxCydWtK1Jx3e"
+        "name": "Avery",
+        "url": "https://open.spotify.com/album/643Gnd42azlZukIkuTucy6"
       },
       "artists": [
         {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+          "name": "Oscar Welsh",
+          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
         }
       ],
-      "duration_ms": 202906,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/07DU8dRQofaACseJ4MF1AF"
+      "duration_ms": 194634,
+      "name": "Avery",
+      "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1667,22 +1683,6 @@
       "duration_ms": 255976,
       "name": "WONDER - PVRIS Remix",
       "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Avery",
-        "url": "https://open.spotify.com/album/643Gnd42azlZukIkuTucy6"
-      },
-      "artists": [
-        {
-          "name": "Oscar Welsh",
-          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Avery",
-      "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
     },
     {
       "added_at": "2023-01-11 21:01:15",

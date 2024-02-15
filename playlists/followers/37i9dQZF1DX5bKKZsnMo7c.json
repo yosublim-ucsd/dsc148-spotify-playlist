@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 369780,
+  "2024-02-15": 370096,
   "date_first_scraped": "2022-05-30",
   "description": "All eyes on you. Cover: Jagwar Twin",
   "name": "Limelight",
@@ -2085,7 +2085,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 137142,
       "name": "Funny Bunny",
       "url": "https://open.spotify.com/track/41iwYZWC9wiyOqeEigSywk"
@@ -3899,6 +3899,24 @@
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+    },
+    {
+      "album": {
+        "name": "Jennifer's Body Music From The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ"
     },
     {
       "album": {

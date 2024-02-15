@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 63319,
+  "num_followers": 63309,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmU2YzVjYmQ5ZDI4MTIwMzAxYjVmOTJhMjlmYTc0ZTEwY2Q0NmZm",
+  "snapshot_id": "MCwzM2M2Y2ExNjNjZDJkYzg3OThkMjViNTY1ZjYyODgwODY4NmY0YmJm",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 102483,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 214733,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 102483,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
-      },
-      "artists": [
-        {
-          "name": "Capital Lights",
-          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "His Favorite Christmas Story",
-      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "I'm With You",
         "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 244932,
       "name": "I'm With You",
       "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+      },
+      "artists": [
+        {
+          "name": "Capital Lights",
+          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "His Favorite Christmas Story",
+      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
         "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 126144,
       "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Merry Flippin' Christmas Vol. 1",
-        "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
+        "name": "Jack Skellington",
+        "url": "https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp"
       },
       "artists": [
         {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
         }
       ],
-      "duration_ms": 188720,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/5MDemOoy0G8IlBKfHWzlIg"
+      "duration_ms": 173695,
+      "name": "Jack Skellington",
+      "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1015,6 +1015,38 @@
       "duration_ms": 217426,
       "name": "Ex-Miss",
       "url": "https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Merry Flippin' Christmas Vol. 1",
+        "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/5MDemOoy0G8IlBKfHWzlIg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Played In Space: The Best of Something Corporate",
+        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Forget December",
+      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1047,38 +1079,6 @@
       "duration_ms": 137346,
       "name": "This Time of Year",
       "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Played In Space: The Best of Something Corporate",
-        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Forget December",
-      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Jack Skellington",
-        "url": "https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp"
-      },
-      "artists": [
-        {
-          "name": "The Jins",
-          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
-        }
-      ],
-      "duration_ms": 173695,
-      "name": "Jack Skellington",
-      "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A More Angry Than Naughty Kamakazi Christmas",
-        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
+        "name": "Sleeping on Trash: A Collection of Songs Recorded 2005-2010",
+        "url": "https://open.spotify.com/album/1aLWn5986dV6gSNecZkTSd"
       },
       "artists": [
         {
-          "name": "Kamakazi",
-          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
         }
       ],
-      "duration_ms": 52250,
-      "name": "It's Beginning to Look a Lot Like Shitmas",
-      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
+      "duration_ms": 156453,
+      "name": "Christmas at 22",
+      "url": "https://open.spotify.com/track/1ecQqTY7y6QMzKMJcMXeXQ"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1475,34 +1475,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Sleeping on Trash: A Collection of Songs Recorded 2005-2010",
-        "url": "https://open.spotify.com/album/1aLWn5986dV6gSNecZkTSd"
+        "name": "A More Angry Than Naughty Kamakazi Christmas",
+        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
       },
       "artists": [
         {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+          "name": "Kamakazi",
+          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
         }
       ],
-      "duration_ms": 156453,
-      "name": "Christmas at 22",
-      "url": "https://open.spotify.com/track/1ecQqTY7y6QMzKMJcMXeXQ"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Angels We Have Heard On High",
-        "url": "https://open.spotify.com/album/5Vfxiz4U5upC1MURchp7nr"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 158475,
-      "name": "Angels We Have Heard On High",
-      "url": "https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs"
+      "duration_ms": 52250,
+      "name": "It's Beginning to Look a Lot Like Shitmas",
+      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1519,6 +1503,22 @@
       "duration_ms": 139133,
       "name": "New Year's Revolution",
       "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Angels We Have Heard On High",
+        "url": "https://open.spotify.com/album/5Vfxiz4U5upC1MURchp7nr"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 158475,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs"
     },
     {
       "added_at": "2023-11-18 13:41:26",

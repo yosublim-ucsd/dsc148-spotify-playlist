@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > ¿XD...? ¿Te refieres a Magaly Chávez?
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,303 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,346 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 21 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 22 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
 | 23 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
-| 24 | [RAPTURE](https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [RAPTURE](https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g) | 2:44 |
-| 25 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
+| 24 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
+| 25 | [RAPTURE](https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [RAPTURE](https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g) | 2:44 |
 | 26 | [La Curiosidad](https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:36 |
 | 27 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
 | 28 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 39 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 |
 | 40 | [ABRE LAS PATOTAS](https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [ABRE LAS PATOTAS](https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI) | 2:49 |
 | 41 | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po) | [SwaggGlock](https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY) | 2:52 |
-| 42 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 3:09 |
-| 43 | [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 |
+| 42 | [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 |
+| 43 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 3:09 |
 | 44 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
 | 45 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
 | 46 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 59 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
 | 60 | [Ciudad Gris](https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O \- Rock](https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu) | 3:28 |
 
-Snapshot ID: `MCxlNjk2NGMwZGFlMzQwYWNkOGU3OGY1MzIzODMzYzIzN2JiODI0MGM3`
+Snapshot ID: `MCw4OGE0OWRlNWRmZWFkYzY2NmJkYzVkYmRmM2NkMWFjZjY1MWVmMTkx`

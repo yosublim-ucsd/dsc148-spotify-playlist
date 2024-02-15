@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 81555,
+  "num_followers": 81631,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2FlZjUwNzhmODcxZmQ3NzY2ODFlZmQ3NWJlYzEwMGNhM2Q5YTE4",
+  "snapshot_id": "MCw4ZDEyMjM0YTJhMWQxMzM2ZDBiMjQ5OThmNDk3YjJmMGUyOTdjMDUx",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 208293,
       "name": "10 Freaky Girls (with 21 Savage)",
       "url": "https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -331,22 +331,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Die A Legend",
-        "url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w"
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         },
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Pop Out (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -391,22 +391,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+        "name": "Die A Legend",
+        "url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+      "duration_ms": 166560,
+      "name": "Pop Out (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -443,34 +443,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Stunna 4 Vegas",
-          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 165726,
-      "name": "Go Stupid",
-      "url": "https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -499,26 +471,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -539,6 +491,54 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 165726,
+      "name": "Go Stupid",
+      "url": "https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 213132,
+      "name": "Roll in Peace (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 213132,
-      "name": "Roll in Peace (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
       "added_at": "2022-11-04 04:00:00",

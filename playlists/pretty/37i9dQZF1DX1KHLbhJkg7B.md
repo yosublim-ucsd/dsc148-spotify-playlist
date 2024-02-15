@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,646 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,696 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 89 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
 | 90 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
 | 91 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 |
-| 92 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 |
-| 93 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 92 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 93 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 |
 | 94 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 95 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
-| 96 | [What’s Up?](https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [What's Up?](https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l) | 4:38 |
-| 97 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
-| 98 | [I Love You Always Forever \- Acoustic](https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY) | [Everly Fair](https://open.spotify.com/artist/3x9nHuhEIv8DT7PYbyO4EE) | [I Love You Always Forever \(Acoustic\)](https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u) | 2:40 |
-| 99 | [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 |
+| 96 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
+| 97 | [I Love You Always Forever \- Acoustic](https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY) | [Everly Fair](https://open.spotify.com/artist/3x9nHuhEIv8DT7PYbyO4EE) | [I Love You Always Forever \(Acoustic\)](https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u) | 2:40 |
+| 98 | [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 |
+| 99 | [What’s Up?](https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [What's Up?](https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l) | 4:38 |
 | 100 | [Feeling Whitney](https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Feeling Whitney](https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw) | 3:37 |
 
-Snapshot ID: `MCw5MjQ5ZjVlM2EwMzRjNTczMzNhNzU3YzRlYjM3YTAyNDZmYjM4MDJl`
+Snapshot ID: `MCw2NzQxMTM0Y2VjOTQxZmU2NjBkN2Q5ODA2M2Y4Y2UyY2I5OTQwZTE0`

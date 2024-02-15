@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 57025,
+  "2024-02-15": 57026,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -5120,6 +5120,28 @@
     },
     {
       "album": {
+        "name": "Deega Digari (from \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/0zhHQFeUFa8NO2NRA32oCj"
+      },
+      "artists": [
+        {
+          "name": "Upendra",
+          "url": "https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH"
+        },
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234660,
+      "name": "Deega Digari (from \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/5DYHIgledsCJP9RFJF8kRN"
+    },
+    {
+      "album": {
         "name": "Deguladi (From \"Mancha\")",
         "url": "https://open.spotify.com/album/23sS7uikMdfagPQn6VOKpZ"
       },
@@ -7823,7 +7845,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 195000,
       "name": "Geleya (From \"Salaar Cease Fire - Kannada\")",
       "url": "https://open.spotify.com/track/5bbwl8HDP5UO4CHU4DoamL"
@@ -9913,7 +9935,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 229426,
       "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
       "url": "https://open.spotify.com/track/6hPq0V8yd4qHP64V6aFfEw"
@@ -11005,6 +11027,24 @@
       "duration_ms": 232624,
       "name": "Jopana Jopana (From \"Dear Sathya\")",
       "url": "https://open.spotify.com/track/429kjIyw141PNJDRKZ2Cvv"
+    },
+    {
+      "album": {
+        "name": "Jotheyale Irale Title Track (from \"Jotheyale Irale\")",
+        "url": "https://open.spotify.com/album/5ZiA23HJTgH7kfOaDpeSkR"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225932,
+      "name": "Jotheyale Irale Title Track (from \"Jotheyale Irale\")",
+      "url": "https://open.spotify.com/track/557KPRnvxQ99Bur4pLK3OF"
     },
     {
       "album": {
@@ -17128,6 +17168,32 @@
     },
     {
       "album": {
+        "name": "Nenapirali (From \"Bachelor Party\")",
+        "url": "https://open.spotify.com/album/0zrwq9wD9h4635jdK6BCIX"
+      },
+      "artists": [
+        {
+          "name": "Arjun Ramu",
+          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+        },
+        {
+          "name": "Chandrajith Belliappa",
+          "url": "https://open.spotify.com/artist/3vfIXwJAxZWk8Copg77ByO"
+        },
+        {
+          "name": "Akshath Acharya",
+          "url": "https://open.spotify.com/artist/7nfu70hQQZaL8zQ5XVlndi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227701,
+      "name": "Nenapirali (From \"Bachelor Party\")",
+      "url": "https://open.spotify.com/track/2LPAUe9OyNcBhp1ExQrBJC"
+    },
+    {
+      "album": {
         "name": "Nenne Tanaka (From \"Trivikrama\")",
         "url": "https://open.spotify.com/album/7G2DtZGuybwxA5YScHSHFm"
       },
@@ -18087,7 +18153,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 226081,
       "name": "O Praanave",
       "url": "https://open.spotify.com/track/2xwd7RCg2197tH6syHl7Je"
@@ -22493,10 +22559,36 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 237948,
       "name": "Soul Of Karthik",
       "url": "https://open.spotify.com/track/7h3IPTrBGKdWUBQmzYjkeS"
+    },
+    {
+      "album": {
+        "name": "Soul of Shakhahaari (Title Track) [From \"Shakhahaari\"]",
+        "url": "https://open.spotify.com/album/0fRP2clcTbmugsXwWmF7aU"
+      },
+      "artists": [
+        {
+          "name": "Chaithra J Achar",
+          "url": "https://open.spotify.com/artist/5TSbHC0mvwnP6RBewptu2B"
+        },
+        {
+          "name": "Vishwajith Rao",
+          "url": "https://open.spotify.com/artist/4yoso4oy6CJUzfVOS6zkjS"
+        },
+        {
+          "name": "Mayur Ambekallu",
+          "url": "https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236184,
+      "name": "Soul of Shakhahaari (Title Track) - From \"Shakhahaari\"",
+      "url": "https://open.spotify.com/track/3DWtEObUfssRvORPVL6Fqz"
     },
     {
       "album": {

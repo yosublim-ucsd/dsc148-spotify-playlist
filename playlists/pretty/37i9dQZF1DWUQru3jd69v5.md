@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Néza
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,585 likes - 45 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,583 likes - 45 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guerra Con Me Stesso](https://open.spotify.com/track/6ByL4vOXiTkHyCShfEvwcE) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Guerra Con Me Stesso](https://open.spotify.com/album/1UHR9djVH1lY3iaJycPVng) | 2:09 |
-| 2 | [Medico \(128bpm \- C\#min\)](https://open.spotify.com/track/1zelXhcUYHJlgO0Zt8eaOM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [EXPORT](https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s) | 3:15 |
+| 2 | [Medico](https://open.spotify.com/track/1zelXhcUYHJlgO0Zt8eaOM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [EXPORT](https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s) | 3:15 |
 | 3 | [7UP](https://open.spotify.com/track/4s8ZTHaLXl96NxjVy8qSjT) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [7UP](https://open.spotify.com/album/5IyMgAKUtFV7yHH8owqypb) | 2:39 |
 | 4 | [Plaza Freestyle](https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [DJ Princex](https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl) | [Plaza Freestyle](https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3) | 1:28 |
 | 5 | [Passa Il Tempo \(feat\. Nabi\)](https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 3:26 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 44 | [ORMAI](https://open.spotify.com/track/3M7tqi0Ebb4AoSEhuYaY1f) | [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [ORMAI](https://open.spotify.com/album/2T5LTATAl3rPJIJins2Gws) | 2:07 |
 | 45 | [Federico](https://open.spotify.com/track/4ERrFf4AtLQAcLlsgtv29z) | [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [Federico](https://open.spotify.com/album/4doOQDtIkkjGr2Hz77cjLT) | 3:11 |
 
-Snapshot ID: `MCxhNDA0NDZjY2FhZGNjNjY5YmVmM2Q4ODQwNWEzN2VjMmZiM2FjYzJl`
+Snapshot ID: `MCw2ZjkyZGI2OTYzN2IyNDljYzllYjBkMmI2YmFkYjg5YzY3ZmY5MzA5`

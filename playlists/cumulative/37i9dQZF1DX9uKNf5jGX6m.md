@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-740 songs - 1 day 13 hr 1 min
+744 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Entering](https://open.spotify.com/track/3RAWbLYWWskUMQHJ12jJDA) | [Memoryan](https://open.spotify.com/artist/7qkMcHkUrGOE4FI4k12kVR) | [Entering](https://open.spotify.com/album/19hV2XAdZmVAU3xkSJ7ORo) | 3:00 | 2022-05-31 | 2022-10-04 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-15 | 2023-08-11 |
 | [Envisaged](https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Envisaged](https://open.spotify.com/album/3XpTcC7Q5AXP0gQxGjLB39) | 2:45 | 2022-09-01 | 2023-01-04 |
+| [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-14 |  |
 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-02-09 |  |
 | [Erlaxatu](https://open.spotify.com/track/3ROErV7ENsyuiM8CYd4uNP) | [Aingeni](https://open.spotify.com/artist/0cUxB8x7iRbqVCgZmdBtk8) | [Erlaxatu](https://open.spotify.com/album/7CfQJT2XMbcy52URkSYap1) | 2:38 | 2022-10-25 |  |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-06-20 |  |
@@ -356,6 +357,7 @@
 | [legacy](https://open.spotify.com/track/4EWCM7S4DAtpSJ0BOiM9LK) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [legacy](https://open.spotify.com/album/6BCFck8IVatMnjeOIDjP3T) | 4:09 | 2021-12-21 | 2022-08-12 |
 | [Lenient Motion](https://open.spotify.com/track/7hPX3L0FjSXXWdh9VeLgHF) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Lenient Motion](https://open.spotify.com/album/0WlL5FsQE1nIJ50BEZJp8o) | 2:37 | 2022-05-31 | 2022-10-16 |
 | [Leniter](https://open.spotify.com/track/6TsWlVkbmD6PUVFNuNrzmw) | [Mente](https://open.spotify.com/artist/0s44CtxQI8KCHmf9R9kwtQ) | [Leniter](https://open.spotify.com/album/0lKpz8qThCynvYNgB6EAgN) | 2:55 | 2022-06-22 | 2023-01-21 |
+| [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 | 2024-02-14 |  |
 | [Let The Lights On](https://open.spotify.com/track/5jbEgWSfbxBA7573jEnYhr) | [Christine Malowe](https://open.spotify.com/artist/6v132t3GaQZqfu3okc5VoO) | [Let The Lights On](https://open.spotify.com/album/4L3rZkyKokj7M23tAAgLCF) | 3:01 | 2022-11-25 | 2023-06-21 |
 | [Letting Go](https://open.spotify.com/track/1S7ulK4PlPK3KvOWrAq0PG) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Inner Spirit](https://open.spotify.com/album/0mV5nvQuTZt7HpQO6q9CXA) | 2:35 | 2021-12-21 | 2022-07-29 |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 | 2023-01-04 |
@@ -579,6 +581,7 @@
 | [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 | 2022-09-01 | 2022-12-15 |
 | [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 | 2022-11-25 | 2023-08-30 |
 | [Serenede](https://open.spotify.com/track/59RgVD5OaEP23JhlmmMyiF) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Serenade](https://open.spotify.com/album/3AfPQxx0pD4kUpOOnhp0ek) | 3:58 | 2023-08-11 |  |
+| [Shaded Cosmos](https://open.spotify.com/track/3uvYdddUFjnlW9ONU4k4eD) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Shaded Cosmos](https://open.spotify.com/album/0GQ0KcLnEwMAAaI3Qf7Von) | 2:32 | 2024-02-14 |  |
 | [Shadow Scape](https://open.spotify.com/track/5TGJIsUo3MOjlD2N88nHey) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Shadow Scape](https://open.spotify.com/album/58jsMRx6Nn9pcTSqs7T37N) | 2:59 | 2024-01-26 |  |
 | [Shadows](https://open.spotify.com/track/6fdDm8BUpOpM5fbxv3zhSZ) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Shadows](https://open.spotify.com/album/1RqHF0Lf1nrRnExXA9Tpjg) | 3:11 | 2022-09-01 | 2023-01-21 |
 | [Shania](https://open.spotify.com/track/4qT4Srv4tmsn94cl0S0SzZ) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Shania](https://open.spotify.com/album/2q0jUrQW9uSwfr1EtXnBP4) | 2:22 | 2022-09-01 | 2023-01-04 |
@@ -592,6 +595,7 @@
 | [Simplicity](https://open.spotify.com/track/0LdLscWL2kMfEgTNKTe9n5) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Simplicity](https://open.spotify.com/album/2epRyfhK3oBrbBnHRvjXTM) | 3:25 | 2023-01-03 |  |
 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 | 2022-08-11 | 2023-02-10 |
 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 | 2023-01-20 |  |
+| [Sleeper](https://open.spotify.com/track/42wQLkL4TdggBqHbvo6E14) | [Sylwana](https://open.spotify.com/artist/5ykD7uK6jVcdssmF8qcyaQ) | [Sleeper](https://open.spotify.com/album/0KZCisewEjpiSipGXtZF8f) | 3:03 | 2024-02-14 |  |
 | [Sleeping Trees](https://open.spotify.com/track/4LGW9dwnuR8a3G1GWcAubi) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Forest Wisdom](https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa) | 3:03 | 2021-12-21 | 2022-01-29 |
 | [Sleepwaves](https://open.spotify.com/track/3TzJZVPEKdiyFcv6aKDkOg) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Sleepwaves](https://open.spotify.com/album/0B0KkOA8LKhE16HTnPq1aX) | 2:52 | 2022-08-11 |  |
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2021-12-21 | 2022-10-16 |

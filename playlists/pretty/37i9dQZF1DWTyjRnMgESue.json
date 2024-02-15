@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Adrianne Lenker",
-  "num_followers": 72363,
+  "num_followers": 72397,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDMwYzYxNDIzYTg4ZjZiZDljYjJjNTA1NzE5OGE5Y2YzZTJmNWE0",
+  "snapshot_id": "MCwwZTI2ODgwMDk4MzhlOWNkNWFlNGFhMzc5NTNiZTJhMGU4NTE1OWRm",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "ROOM FOR 2",
         "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 151500,
       "name": "ROOM FOR 2",
       "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -779,22 +779,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 194000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 203324,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Cate\u2019s Brother",
         "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 180589,
       "name": "Cate\u2019s Brother",
       "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Catch Your Eye",
-      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "APART",
         "url": "https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 180707,
       "name": "Bed I Made - ft. Alessia Cara",
       "url": "https://open.spotify.com/track/370wRdlSnMviWrX6Emc0D2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
     },
     {
       "added_at": "2024-02-09 05:00:00",

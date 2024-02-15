@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,776 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,780 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 7 | [Davy Crockett](https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Archive From 1959 \- The Billy Childish Story](https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb) | 2:55 |
 | 8 | [Calvin](https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Acme](https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq) | 3:02 |
 | 9 | [Good Man](https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 2:57 |
-| 10 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
+| 10 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
 | 11 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
-| 12 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
+| 12 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
 | 13 | [Nitroglycerine](https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 3:52 |
 | 14 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
 | 15 | [I Can't Stop Thinking About It](https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Horndog Fest](https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK) | 3:03 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 28 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
 | 29 | [I'll Wait](https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 3:00 |
 | 30 | [Rock & Roll Nurse](https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn) | [Compulsive Gamblers](https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY) | [Crystal Gazing Luck Amazing](https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP) | 4:10 |
-| 31 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 |
-| 32 | [You'll Be Sorry Now](https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Beware the Ides of March](https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV) | 2:11 |
+| 31 | [Isolation](https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:24 |
+| 32 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 |
 | 33 | [Early in the Morning](https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:40 |
-| 34 | [Isolation](https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:24 |
+| 34 | [You'll Be Sorry Now](https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Beware the Ides of March](https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV) | 2:11 |
 | 35 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 |
 | 36 | [Swampland](https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM) | [Scientists](https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1) | [Sedition](https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv) | 5:19 |
 | 37 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCwwNjQzYjZjOGUzZDE4NGZjZWIyMDVkOTY3NjRiYTZhNmMzY2U4OWY3`
+Snapshot ID: `MCw1ZmQyZjc0YjM1YWU1ZjYyNzY5Zjk2Y2NkOWMyOTZmZTllMTBkZTNm`

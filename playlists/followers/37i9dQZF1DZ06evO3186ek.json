@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 133848,
+  "2024-02-15": 133922,
   "date_first_scraped": "2022-09-15",
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
   "name": "This Is Maverick City Music",
@@ -442,7 +442,7 @@
     },
     {
       "album": {
-        "name": "Crazy Love (feat. JWLKRS Worship)",
+        "name": "Crazy Love (feat. JWLKRS Worship & Chandler Moore)",
         "url": "https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22"
       },
       "artists": [
@@ -451,23 +451,23 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "Naomi Raine",
           "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         },
         {
           "name": "JWLKRS Worship",
           "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 358151,
-      "name": "Crazy Love (feat. JWLKRS Worship)",
+      "name": "Crazy Love (feat. JWLKRS Worship & Chandler Moore)",
       "url": "https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf"
     },
     {
@@ -696,7 +696,7 @@
     },
     {
       "album": {
-        "name": "God Problems",
+        "name": "God Problems (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
       },
       "artists": [
@@ -705,19 +705,19 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "Naomi Raine",
           "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 590857,
-      "name": "God Problems",
+      "name": "God Problems (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
     },
     {

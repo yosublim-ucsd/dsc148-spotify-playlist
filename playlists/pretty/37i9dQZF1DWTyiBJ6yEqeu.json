@@ -1,12 +1,12 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 5295955,
+  "num_followers": 5296575,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGJiOTQ0YjQyOThhMzQ4MjVhYjBiYzNjNGM4OGFhMzQ0NzI3ZWUx",
+  "snapshot_id": "MCxiODFmNDJjMmM1NDJjN2EwOGQyOTJjOTYyMjkxNDAzOTI2MmE2MTI0",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
+      "added_at": "2024-02-06 15:22:32",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tacata (Remix)",
@@ -415,26 +431,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -455,6 +451,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2024-02-06 15:22:32",
-      "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "Bandit",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Too Hard",
         "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 162053,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
       },
       "artists": [
         {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
       "artists": [
         {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
         }
       ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1331,46 +1331,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -1395,6 +1355,46 @@
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2024-02-02 05:00:00",

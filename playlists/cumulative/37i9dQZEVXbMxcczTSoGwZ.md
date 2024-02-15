@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,833 songs - 4 day 2 hr 9 min
+1,834 songs - 4 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1312,6 +1312,7 @@
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-03 | 2023-01-03 |
 | [Reckless](https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Reckless](https://open.spotify.com/album/1fNVh4Q9l4k7WKEWsH7hnS) | 2:44 | 2023-08-11 | 2023-11-19 |
 | [REDFLAG](https://open.spotify.com/track/2vRXnE2BH566tbMfH6ODgn) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [REDFLAG](https://open.spotify.com/album/5uXfQMfUzpz43I33ErQV9L) | 2:27 | 2023-07-22 | 2023-07-30 |
+| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-02-14 |  |
 | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/track/7vCzRSmOiztXt4ikVp0uMU) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/album/7zNoZoPUdCMVRPkJaWwsGl) | 2:52 | 2021-10-04 | 2021-10-19 |
 | [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 | 2023-08-09 |
 | [Reiviluola \- Remix](https://open.spotify.com/track/4eVRTOy6vUWuwD03ccIXYv) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Reiviluola \(Remix\)](https://open.spotify.com/album/3F9pbcw4b20EvSNQoMYhZx) | 3:19 | 2022-12-31 | 2023-01-19 |
@@ -1467,7 +1468,7 @@
 | [Stara \(feat\. Costi\)](https://open.spotify.com/track/0heKuoYddK5ee4WQor56E0) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Stara \(feat\. Costi\)](https://open.spotify.com/album/0zTJauZs2sl6CbRxPEQU7M) | 3:05 | 2022-05-28 | 2022-06-05 |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |
 | [Starry Eyes](https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:28 | 2022-01-09 | 2022-01-11 |
-| [STARS](https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:55 | 2024-02-12 |  |
+| [STARS](https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:55 | 2024-02-12 | 2024-02-15 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-05-08 |
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2022-05-12 | 2022-06-05 |

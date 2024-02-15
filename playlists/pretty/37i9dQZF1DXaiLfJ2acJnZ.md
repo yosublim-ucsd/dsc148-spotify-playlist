@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,308 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,311 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 43 | [Without You](https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Without You](https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w) | 2:32 |
 | 44 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 45 | [Mountain](https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Mountain](https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw) | 2:49 |
-| 46 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 |
+| 46 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 |
 | 47 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 |
-| 48 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 |
+| 48 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 |
 | 49 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
 | 50 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
 | 51 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [More to me](https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [More to me](https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL) | 2:15 |
 | 80 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 
-Snapshot ID: `MCxkOTJhMDQyMTM1YWMwNTU4YjZiNDczYWUxZjQ5MWU3MjU4ZDQ3Njc3`
+Snapshot ID: `MCxlMDU0NTZmNTA3Y2Q1ZmZjMmI5OWJkOTY1NTkzZjNkMzM5MzdkY2Q3`

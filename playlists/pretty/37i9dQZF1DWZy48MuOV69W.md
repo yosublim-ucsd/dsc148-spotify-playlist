@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,643 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,632 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 12 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/6UpuOy5AFhLa1W3V7gl6J2) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:51 |
 | 13 | [It's Christmas Time Again](https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas With Peggy Lee](https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr) | 3:00 |
 | 14 | [Ole Santa](https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:45 |
-| 15 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
-| 16 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag) | 4:16 |
-| 17 | [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 |
+| 15 | [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 |
+| 16 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
+| 17 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 |
 | 18 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
-| 19 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 |
+| 19 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag) | 4:16 |
 | 20 | [Santa Claus Is Comin' To Town \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles \- Christmas](https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6) | 2:46 |
 | 21 | [An Old Fashioned Christmas](https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Christmas Collection](https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa) | 3:46 |
 | 22 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 55 | [Rest in Peace](https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Canterbury Cathedral Girls' Choir](https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 4:08 |
 
-Snapshot ID: `MCwzMzFmZDJiMjkwYjk5NDY4Y2RlN2M5MmU3YTFlOWU3YjlhZDNjMjMw`
+Snapshot ID: `MCwyZWNjMjRhNmNhYzk2OWFjOWUzMWVkOGZkMWM1NTFmN2JjYTVlOTZl`

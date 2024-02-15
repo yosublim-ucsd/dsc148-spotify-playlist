@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,555 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,806 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 30 | [I Love You Boy](https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [While You Were Sleeping, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM) | 4:24 |
 | 31 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |
 | 32 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
-| 33 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
-| 34 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 |
+| 33 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 |
+| 34 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
 | 35 | [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
 | 36 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 37 | [Breath](https://open.spotify.com/track/12cDuwg8jJ4N7RokLnFWfQ) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 45 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
 | 46 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 47 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
-| 48 | [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 |
-| 49 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
+| 48 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
+| 49 | [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 |
 | 50 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 
-Snapshot ID: `MCw5OGVjNmNmYzE1N2Q3NDM4MmZhMDIxZTc2MDMwODc1N2E4OTUyZTZk`
+Snapshot ID: `MCwyMzJlYjdhYjBlM2JlYzg2ODlkODRmZDBiYzRkZDhjNWNkNWVlMTU2`

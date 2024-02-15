@@ -4,7 +4,7 @@
 
 > Pop para refrescarte los días, featuring Mariangela.
 
-169 songs - 8 hr 30 min
+170 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2023-04-04 |  |
 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-04-04 |  |
 | [A Las 3](https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [A Las 3](https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge) | 2:42 | 2023-06-02 |  |
-| [A tu Lado](https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [A tu Lado](https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz) | 2:30 | 2023-09-15 |  |
+| [A tu Lado](https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [A tu Lado](https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz) | 2:30 | 2023-09-15 | 2024-02-15 |
 | [a tu manera](https://open.spotify.com/track/2AjqXajOx969ANhfnEaFeo) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:57 | 2023-04-28 | 2023-04-30 |
 | [Aceleré](https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [DARA](https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft) | 2:53 | 2023-10-27 |  |
 | [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 |  |
@@ -45,6 +45,7 @@
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-23 | 2023-11-11 |
 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-04-04 | 2024-02-07 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-04-04 |  |
+| [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 | 2024-02-09 |  |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-04-04 |  |
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-04-28 |  |
 | [dejarse querer](https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [dejarse querer](https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV) | 3:02 | 2023-12-08 |  |

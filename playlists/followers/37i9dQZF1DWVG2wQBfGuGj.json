@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 73036,
+  "2024-02-15": 73117,
   "date_first_scraped": "2023-05-16",
   "description": "Surrender to the chill of the White Island with these laid-back house and nu-disco groovers. ",
   "name": "Ibiza Lounge",
@@ -1872,6 +1872,24 @@
     },
     {
       "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/1smvijwgTKDpqpagdamITk"
+      },
+      "artists": [
+        {
+          "name": "bonaira",
+          "url": "https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124576,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh"
+    },
+    {
+      "album": {
         "name": "Lilac Luster",
         "url": "https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH"
       },
@@ -2121,6 +2139,24 @@
       "duration_ms": 143685,
       "name": "misty mind",
       "url": "https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/4SyF0ZSP8m4u5qBpD6RXxe"
+      },
+      "artists": [
+        {
+          "name": "Zach Baker",
+          "url": "https://open.spotify.com/artist/4SadLoynVcpRHr8gXb3mg1"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179052,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/79FNpQWkuGVlwhp6lv9VyF"
     },
     {
       "album": {
@@ -2665,6 +2701,24 @@
       "duration_ms": 157958,
       "name": "Relax (Hold On)",
       "url": "https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD"
+    },
+    {
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/5G6oBLVinroyJnO760V6Gu"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353103,
+      "name": "Revoluci\u00f3n, Pt. I",
+      "url": "https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV"
     },
     {
       "album": {

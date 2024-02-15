@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 402370,
+  "num_followers": 402489,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmJlMDk4YzQ3ZDJjNDgxMzdlZTM3ZjdlYTA1NTRkM2Y0OTZlM2Ni",
+  "snapshot_id": "MCwxNzdjMzVjMzFjMDgyMjVjNTZhOGZmYjU3MjIxODMzNmQ2MTgxMWMw",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 293398,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Vuelve a Casa",
         "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 343746,
       "name": "Ven, Te Necesito",
       "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293398,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -191,18 +191,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Con El Coraz\u00f3n En La Mano",
-        "url": "https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV"
+        "name": "Sin Miedo a Nada",
+        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
       },
       "artists": [
         {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 301125,
-      "name": "No Me Soltar\u00e1s",
-      "url": "https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8"
+      "duration_ms": 243066,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -227,6 +227,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Con El Coraz\u00f3n En La Mano",
+        "url": "https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 301125,
+      "name": "No Me Soltar\u00e1s",
+      "url": "https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Piedras Vivas",
         "url": "https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 315653,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Sin Miedo a Nada",
-        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -347,18 +347,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Regreso a Ti",
-        "url": "https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA"
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 252376,
-      "name": "Vives t\u00fa y vivo yo",
-      "url": "https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5"
+      "duration_ms": 241072,
+      "name": "Promesas",
+      "url": "https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -379,22 +383,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
+        "name": "Regreso a Ti",
+        "url": "https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 241072,
-      "name": "Promesas",
-      "url": "https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7"
+      "duration_ms": 252376,
+      "name": "Vives t\u00fa y vivo yo",
+      "url": "https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Te Puedo Sentir",
-        "url": "https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "Tu Poeta",
-      "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Incontenible Es Tu Amor",
         "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 333217,
       "name": "El Gran Yo Soy",
       "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Te Puedo Sentir",
+        "url": "https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Tu Poeta",
+      "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Viene De Ti",
-        "url": "https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 255537,
-      "name": "Viene De Ti",
-      "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Ganas De Vivir",
         "url": "https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 237146,
       "name": "Ganas De Vivir",
       "url": "https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Viene De Ti",
+        "url": "https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 255537,
+      "name": "Viene De Ti",
+      "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 234399,
-      "name": "Soy Tu Dios",
-      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Alumbras Mi Vida",
         "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 182857,
       "name": "T\u00fa Eres Mi Gozo",
       "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 234399,
+      "name": "Soy Tu Dios",
+      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -859,26 +859,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 238710,
-      "name": "Yo Soy As\u00ed",
-      "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Jes\u00fas en el Centro (En Vivo)",
         "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 237367,
       "name": "GOZO",
       "url": "https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 238710,
+      "name": "Yo Soy As\u00ed",
+      "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 256464,
-      "name": "Se Nota En Tus Ojos",
-      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1035,22 +1035,6 @@
       "duration_ms": 343616,
       "name": "Construir\u00e9 Mi Vida",
       "url": "https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
-        }
-      ],
-      "duration_ms": 465335,
-      "name": "De Lo M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1087,6 +1071,22 @@
       "duration_ms": 226306,
       "name": "No Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 256464,
+      "name": "Se Nota En Tus Ojos",
+      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
     },
     {
       "added_at": "2021-05-21 19:19:27",

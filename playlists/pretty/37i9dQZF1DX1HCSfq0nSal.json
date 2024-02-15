@@ -1,12 +1,12 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
-  "num_followers": 805860,
+  "num_followers": 805975,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjIwMzVkOGMxNDA0NTIzYjlhY2E3YmJlMGM4NGZmNWIzNDVlOTM4",
+  "snapshot_id": "MCxiNzBmZDg2NjY4ZmI2Y2U0YzkzYmNlZDkzOTgyMzRmYzhlMzNjYjEx",
   "tracks": [
     {
       "added_at": "2024-02-12 14:44:06",
@@ -23,6 +23,78 @@
       "duration_ms": 175586,
       "name": "X'CLUSIVO",
       "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
+    },
+    {
+      "added_at": "2024-02-12 14:44:06",
+      "album": {
+        "name": "BAD BOY",
+        "url": "https://open.spotify.com/album/2lFhyjDXD7EvLkHeV55RKS"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/0sFyqFZE8YkkOMA9IFZ3S6"
+    },
+    {
+      "added_at": "2024-02-12 14:44:06",
+      "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "SI SABE FERXXO",
+      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
+    },
+    {
+      "added_at": "2024-02-12 14:44:06",
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": "2024-02-12 14:44:06",
@@ -51,62 +123,6 @@
     {
       "added_at": "2024-02-12 14:44:06",
       "album": {
-        "name": "SI SABE",
-        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "SI SABE FERXXO",
-      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
-    },
-    {
-      "added_at": "2024-02-12 14:44:06",
-      "album": {
-        "name": "LA \u00daLTIMA",
-        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "LA \u00daLTIMA",
-      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
-    },
-    {
-      "added_at": "2024-02-12 14:44:06",
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
-    },
-    {
-      "added_at": "2024-02-12 14:44:06",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
@@ -123,6 +139,22 @@
       "duration_ms": 233333,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2024-02-12 14:44:06",
+      "album": {
+        "name": "LA \u00daLTIMA",
+        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "LA \u00daLTIMA",
+      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
     },
     {
       "added_at": "2024-02-12 14:44:06",
@@ -167,38 +199,6 @@
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
-    },
-    {
-      "added_at": "2024-02-12 14:44:06",
-      "album": {
-        "name": "BAD BOY",
-        "url": "https://open.spotify.com/album/2lFhyjDXD7EvLkHeV55RKS"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Gaby Music",
-          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "BAD BOY",
-      "url": "https://open.spotify.com/track/0sFyqFZE8YkkOMA9IFZ3S6"
     },
     {
       "added_at": "2024-02-12 14:44:06",

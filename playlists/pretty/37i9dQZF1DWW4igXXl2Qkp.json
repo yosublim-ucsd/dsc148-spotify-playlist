@@ -1,13 +1,105 @@
 {
   "description": "The best new hip-hop music by independent artists and labels. Cover: tg.blk\n",
-  "num_followers": 232447,
+  "num_followers": 232499,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDU0M2JjODkxZmJhMjY5OTZmYTYwNjgyZWY2ZTQyN2M3MTUyNDZj",
+  "snapshot_id": "MCw4YTNkZDJiOGE3MWE4ZmQ4MmQ3MTliODc1MzM2Yjc0ZWJiZjAzYzkz",
   "tracks": [
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/2XMvYdbzvxdwWoloonr6DC"
+      },
+      "artists": [
+        {
+          "name": "Sage X Price",
+          "url": "https://open.spotify.com/artist/7HFWAHYOe2o2diWwiWX5Db"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/22r7GEr3quvsOap3Td9RrU"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "bodega",
+        "url": "https://open.spotify.com/album/62qODPbhRPKkiwEpuaOT3S"
+      },
+      "artists": [
+        {
+          "name": "looking at birds",
+          "url": "https://open.spotify.com/artist/55LMgqxBcpk6uQESQiEGvn"
+        },
+        {
+          "name": "deadxbeat",
+          "url": "https://open.spotify.com/artist/7mFjcuFvOr6TzHj0cqLX3J"
+        },
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        }
+      ],
+      "duration_ms": 104031,
+      "name": "bodega",
+      "url": "https://open.spotify.com/track/7KKWRb3TRp3VtuFmsVYyhS"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/5SWy1dVTkQ7S9vOrHSosZf"
+      },
+      "artists": [
+        {
+          "name": "Carly Gibert",
+          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
+        }
+      ],
+      "duration_ms": 116437,
+      "name": "WILLOW",
+      "url": "https://open.spotify.com/track/7o7iqca2xFSMNXv8Nyo1Pn"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "proper vertigo",
+        "url": "https://open.spotify.com/album/0hespTH5RFMqT37DBEaGhY"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Sol ChYld",
+          "url": "https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz"
+        }
+      ],
+      "duration_ms": 189729,
+      "name": "proper vertigo",
+      "url": "https://open.spotify.com/track/4a0FB9DqWyo5Bqe7rDteya"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "porno story",
+        "url": "https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 137061,
+      "name": "porno story!",
+      "url": "https://open.spotify.com/track/4mkc5jirrlrhIvC7geeVRK"
+    },
     {
       "added_at": "2024-02-07 05:00:00",
       "album": {
@@ -41,6 +133,58 @@
       "url": "https://open.spotify.com/track/7M4nQ7b78fbsGGB29M4CUk"
     },
     {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/6QA0eSqbB5gWhoP47ETFP9"
+      },
+      "artists": [
+        {
+          "name": "Jibba",
+          "url": "https://open.spotify.com/artist/029SlRrVfzLIqkprRLsZhM"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1auvnGKOfKYpFhPucN14GN"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "This Run's Personal",
+        "url": "https://open.spotify.com/album/6fXpvM5J1ZVKfBl4uougDu"
+      },
+      "artists": [
+        {
+          "name": "PM FRVR",
+          "url": "https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "This Run's Personal",
+      "url": "https://open.spotify.com/track/5vE8PcNVlUgloRzipbERuj"
+    },
+    {
+      "added_at": "2024-01-10 15:42:26",
+      "album": {
+        "name": "NYDFRYSTL",
+        "url": "https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 108187,
+      "name": "NYDFRYSTL",
+      "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
+    },
+    {
       "added_at": "2024-02-07 05:00:00",
       "album": {
         "name": "KEEPER",
@@ -71,6 +215,62 @@
       "duration_ms": 63947,
       "name": "tip jar",
       "url": "https://open.spotify.com/track/4sCUQSaXHsLruBP05kCWbC"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "The Color Chocolate, Vol. 1",
+        "url": "https://open.spotify.com/album/3B9qAyredyx8AuluJi3OYr"
+      },
+      "artists": [
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0BYalJxAfqJnKCX34Mw4e5"
+        }
+      ],
+      "duration_ms": 181403,
+      "name": "Peaches and Herb",
+      "url": "https://open.spotify.com/track/3HADu1xxaiAJpUWJqrVJ7d"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "Penalty of Leadership",
+        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "No Pun Intended",
+      "url": "https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI"
+    },
+    {
+      "added_at": "2024-02-14 15:20:54",
+      "album": {
+        "name": "omega",
+        "url": "https://open.spotify.com/album/7aQxHjRVcI0O7v4qSs1zgj"
+      },
+      "artists": [
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "omega",
+      "url": "https://open.spotify.com/track/6LThhAnu5UpqQwh1cxwDy3"
     },
     {
       "added_at": "2024-01-31 15:25:16",
@@ -355,22 +555,6 @@
       "duration_ms": 146666,
       "name": "Door Dash",
       "url": "https://open.spotify.com/track/14NjvajwODFtcJXpkylDlK"
-    },
-    {
-      "added_at": "2024-01-10 15:42:26",
-      "album": {
-        "name": "NYDFRYSTL",
-        "url": "https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 108187,
-      "name": "NYDFRYSTL",
-      "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
     },
     {
       "added_at": "2024-02-07 05:00:00",

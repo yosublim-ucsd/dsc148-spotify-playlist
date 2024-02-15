@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: Glixen
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,490 likes - 126 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,590 likes - 126 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [foreversoon](https://open.spotify.com/track/1A2qoClL5RvAVP8tpMoojq) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [foreversoon](https://open.spotify.com/album/0DfOwAstY8aE4kWXgXa6o6) | 3:43 |
 | 2 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 |
-| 3 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) \[Spotify Singles\]](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
+| 3 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 4 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 |
 | 5 | [Pile Of Photos](https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Pile Of Photos](https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg) | 2:19 |
 | 6 | [Here, Together](https://open.spotify.com/track/0dI51Bofvlbr8GFVPYUoBG) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Here, Together](https://open.spotify.com/album/5S5tdf2coiu87SQu5eOFty) | 3:37 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 125 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 126 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCxlOTliMjZlNzI2NGIyM2E2Njg0NDM2ZWQ4MmZiYThmZDU4MzQ3MjA1`
+Snapshot ID: `MCw3YjNjOTdiMjZmYzdjNDI4YzRhZTkxNTljMDkzM2NmNGU4MjEwODI5`

@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 652272,
+  "num_followers": 652262,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDc5MTBmMDQ3ODk3NWU3MmRiZWU0NjE1ZjMxNWIxOWE1N2FkMGEw",
+  "snapshot_id": "MCw2YWVlYmViYzBkNzgxMmNhMDU1MWJlNTQ0YTdmYTM1N2UxNTMwMzAy",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
       "artists": [
         {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
         }
       ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -923,6 +907,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2020-08-27 15:58:21",

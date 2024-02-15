@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 99 | [Small Talk](https://open.spotify.com/track/1yZ4DgpOllcy8ylgOLGKMy) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:15 |
 | 100 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 |
 | 101 | [Back By The Weekend](https://open.spotify.com/track/5mt5VkHrCC1Za06vGFKrLK) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/6NWaFNsDGbS8YRxm6lkaDM) | 2:55 |
-| 102 | [FWMM](https://open.spotify.com/track/32EYQDXyv12fdeOousjeAd) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 3:25 |
-| 103 | [Stretch](https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Stretch](https://open.spotify.com/album/7AVMVoBNIuqrQVGEvlQyTA) | 3:07 |
+| 102 | [Stretch](https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Stretch](https://open.spotify.com/album/7AVMVoBNIuqrQVGEvlQyTA) | 3:07 |
+| 103 | [FWMM](https://open.spotify.com/track/32EYQDXyv12fdeOousjeAd) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 3:25 |
 | 104 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 |
 | 105 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 |
 | 106 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 120 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 121 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Mjg0NjQ2MTAsMDAwMDAwMDA5MGMyNWRjM2FjYjYyZTkwYjAzNTc1YzE4ZjI4N2EyYw==`
+Snapshot ID: `Mjg0NjYwNTAsMDAwMDAwMDA0NTQ5ODg2ZDg5YTU2ZWU2MTgxMDFmMWVhOGVlYTBmMw==`

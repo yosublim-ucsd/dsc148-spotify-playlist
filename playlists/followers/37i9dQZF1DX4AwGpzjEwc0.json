@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 37933,
+  "2024-02-15": 37948,
   "date_first_scraped": "2023-10-15",
   "description": "Un suave trasfondo musical para mantener el foco en tus tareas.",
   "name": "M\u00fasica Instrumental para Estudiar",
@@ -1659,6 +1659,24 @@
       "duration_ms": 148600,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ"
+    },
+    {
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
+      },
+      "artists": [
+        {
+          "name": "Agatha Messina",
+          "url": "https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
     },
     {
       "album": {
@@ -7029,6 +7047,24 @@
       "duration_ms": 186708,
       "name": "Then I Saw You",
       "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
+    },
+    {
+      "album": {
+        "name": "There Is Light",
+        "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "There Is Light",
+      "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
     },
     {
       "album": {

@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 169046,
       "name": "D15BLO",
       "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
@@ -3776,6 +3776,24 @@
       "duration_ms": 166303,
       "name": "estrella",
       "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
+    },
+    {
+      "album": {
+        "name": "El Abismo",
+        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
+      },
+      "artists": [
+        {
+          "name": "Molinette Cinema",
+          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Estrellas en la Oscuridad",
+      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: فهد العامري
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,798 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,875 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jeetk](https://open.spotify.com/track/7M0FzzZNLa4hicFxzfaviH) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [Fahad 2024](https://open.spotify.com/album/4uEthD59d5aDXHxdRVh5Jy) | 3:47 |
-| 2 | [كل أحبك](https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:20 |
+| 1 | [كل أحبك](https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:20 |
+| 2 | [Jeetk](https://open.spotify.com/track/7M0FzzZNLa4hicFxzfaviH) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [Fahad 2024](https://open.spotify.com/album/4uEthD59d5aDXHxdRVh5Jy) | 3:47 |
 | 3 | [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 |
 | 4 | [Rdy](https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Rdy](https://open.spotify.com/album/0IoOphEIvuBQxelbffR5Jc) | 4:30 |
 | 5 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 40 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 |
 
-Snapshot ID: `MCwzMTczYzBiODQ2OTNmMmZkYzQ0ZmEzNjVmNWEzZTg0ZDk0ZWE1Yzll`
+Snapshot ID: `MCxmNGRmZTdjZTI4YjJmNTY4ODU1YTYzMTEyYWM4Y2MzNDI3NDQ0Nzgw`

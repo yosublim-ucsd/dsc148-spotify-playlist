@@ -1,12 +1,12 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 910690,
+  "num_followers": 910729,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2VjMzJkNDA2MDM2MDUxNWQ4ZTAzYmU4OWQzZDU4Mzk0MjNkYTIz",
+  "snapshot_id": "MCxhMTliZDQxZTk1ZWU2ZmZiZDg4ODlhNTIwNTk5NWQwOWUxYTRmNjVi",
   "tracks": [
     {
       "added_at": "2024-02-06 19:36:52",
@@ -651,22 +651,18 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "The Essential Van Morrison",
-        "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
       "artists": [
         {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Gloria (feat. Van Morrison) - Stereo Version",
-      "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
+      "duration_ms": 346333,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -687,18 +683,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+        "name": "The Essential Van Morrison",
+        "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
       "artists": [
         {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
+      "duration_ms": 156800,
+      "name": "Gloria (feat. Van Morrison) - Stereo Version",
+      "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
     },
     {
       "added_at": "2024-02-06 19:36:52",

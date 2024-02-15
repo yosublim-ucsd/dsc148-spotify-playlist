@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2059060,
+  "num_followers": 2059001,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM0OTM5ZGE5NGQzMzAzMmM2OGQ2NjBmZWM4ZDQ2MzQzMDAyMzcy",
+  "snapshot_id": "MCwxZmNmNTgyYmM3Mzc0ODY3MWNkMDc5ZWI2OWY5MWZjMjI4ZjJkMjI1",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Colder Heavens - EP",
-        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -891,22 +895,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Ana\u00efs Mitchell",
-        "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Bright Star",
-      "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Made To Love Someone",
@@ -1131,6 +1115,38 @@
       "duration_ms": 186845,
       "name": "Made To Love Someone",
       "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Ana\u00efs Mitchell",
+        "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Bright Star",
+      "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Wonderful World",
         "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 165801,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Ash & Clay",
-        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Whisper In Her Ear",
-      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
         "url": "https://open.spotify.com/album/0fouq8lLLJduDBkbsyh5UH"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 195840,
       "name": "Eyes Wide Open - From \"North Star\"",
       "url": "https://open.spotify.com/track/4JfmeKq7mQtRaqMlFPxdMD"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Ash & Clay",
+        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Whisper In Her Ear",
+      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
+        "name": "Without People",
+        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
       },
       "artists": [
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
         }
       ],
-      "duration_ms": 189282,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
+      "duration_ms": 186143,
+      "name": "Seeing Other People",
+      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Without People",
-        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 186143,
-      "name": "Seeing Other People",
-      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Only The Strong",
-      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Great Irish Songbook",
         "url": "https://open.spotify.com/album/7ngRumkLaxTRd7vNsirCns"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 326159,
       "name": "The West Coast of Clare",
       "url": "https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
     },
     {
       "added_at": "2023-09-29 04:00:00",

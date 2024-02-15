@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Una mezcla de rock y punk para motivarte\. Get pumped!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,691 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,716 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 31 | [Devuélveme a mi chica](https://open.spotify.com/track/6pYbhX5gYix4ESpbSUArnA) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Lo Mejor De Los Hombres G](https://open.spotify.com/album/0luVrYnp61bSbpScEHXyt0) | 3:14 |
 | 32 | [Memorama](https://open.spotify.com/track/7iXKhg6krcRdWs4S7wbO3x) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Memorama](https://open.spotify.com/album/3zUYkrazJypLRvUkVJXxML) | 3:08 |
 | 33 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
-| 34 | [Amateur \(Rock Me Amadeus\)](https://open.spotify.com/track/0cOXDRG1giESc1QVrHpbGE) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Con Todo Respeto](https://open.spotify.com/album/2GNihtEdqoByWHoFK7bTAt) | 4:19 |
-| 35 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 |
+| 34 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 |
+| 35 | [Amateur \(Rock Me Amadeus\)](https://open.spotify.com/track/0cOXDRG1giESc1QVrHpbGE) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Con Todo Respeto](https://open.spotify.com/album/2GNihtEdqoByWHoFK7bTAt) | 4:19 |
 | 36 | [De Música Ligera](https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:32 |
 | 37 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 |
 | 38 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 49 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 |
 | 50 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 |
 
-Snapshot ID: `MCwyMjU5YTE3YWRkN2U5NDg2YWI1Yzk4Y2RlMGRhMTY2MWMxYTBiNzg5`
+Snapshot ID: `MCw0YzhmYjU0NGFiNjc4MGYxYTdjY2NhZTM3NmVlZjg2ZTZiOGRkNzdk`

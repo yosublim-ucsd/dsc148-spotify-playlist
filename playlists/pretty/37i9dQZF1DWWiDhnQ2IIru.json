@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3022046,
+  "num_followers": 3022446,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzljODFkZTc2NTAzMTVlNzA1NDgyMTc2MGQwYzI2MjllOTVkYTEz",
+  "snapshot_id": "MCw4MTk3OWMzYjIyMzRhZmYwMjIzY2FhNWVkNjA3MDNhOTI2NmFiMGRj",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -91,22 +91,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 252239,
-      "name": "A Horse with No Name",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+      "duration_ms": 303373,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -127,34 +123,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
         }
       ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+      "duration_ms": 252239,
+      "name": "A Horse with No Name",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -171,6 +155,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 322548,
       "name": "Bennie And The Jets - Remastered 2014",
       "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "A Day At The Races (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Doctor My Eyes - 1997 Remaster",
-      "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "In Color",
         "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Doctor My Eyes - 1997 Remaster",
+      "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Rubberband Man / Now That We're Together",
-        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "The Rubberband Man",
-      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Frampton",
         "url": "https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 243266,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Rubberband Man / Now That We're Together",
+        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "The Rubberband Man",
+      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
     },
     {
       "added_at": "2021-02-10 18:00:33",

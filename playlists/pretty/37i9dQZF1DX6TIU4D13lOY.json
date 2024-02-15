@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 247944,
+  "num_followers": 248002,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDc4MGIwYTFiMzg0YmU4NGY0MGM2N2VjOGIyZWFiYjYxZmM1OTlj",
+  "snapshot_id": "MCxjMjE5NGQ2NDQzZTExOGFkZDY1NjlkMDZiZmRhMWYwYjNmOWQyNjcz",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Essential Playlist",
-        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
-      },
-      "artists": [
-        {
-          "name": "Bertie Higgins",
-          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Key Largo",
-      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "The Pretender",
         "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
       },
@@ -859,18 +843,34 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "What's Wrong with This Picture?",
-        "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
+        "name": "The Essential Playlist",
+        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
       },
       "artists": [
         {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+          "name": "Bertie Higgins",
+          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
         }
       ],
-      "duration_ms": 264893,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
+      "duration_ms": 198946,
+      "name": "Key Largo",
+      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 309018,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -891,18 +891,18 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
+        "name": "What's Wrong with This Picture?",
+        "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
         }
       ],
-      "duration_ms": 309018,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
+      "duration_ms": 264893,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
     },
     {
       "added_at": "2020-01-07 15:31:11",

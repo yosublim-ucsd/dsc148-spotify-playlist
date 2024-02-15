@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 858155,
+  "2024-02-15": 858346,
   "date_first_scraped": "2022-04-20",
   "description": "This is our playground! \ud83e\udea9\u200a",
   "name": "Electronic Circus",
@@ -281,7 +281,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 334284,
       "name": "AMA",
       "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
@@ -601,6 +601,24 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "album": {
+        "name": "BAE",
+        "url": "https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232750,
+      "name": "BAE",
+      "url": "https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8"
     },
     {
       "album": {
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 317818,
       "name": "EPICA MAXIMA",
       "url": "https://open.spotify.com/track/1ln3mQQP4daxuTtvcJTSyP"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 348815,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
@@ -3238,6 +3256,28 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164983,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
+    },
+    {
+      "album": {
         "name": "I Want It All (feat. Elderbrook) [Remixes]",
         "url": "https://open.spotify.com/album/0c7jQkV3HG2b6KhG7P0gfc"
       },
@@ -3413,6 +3453,46 @@
       "duration_ms": 221612,
       "name": "Is This Our Earth?",
       "url": "https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M"
+    },
+    {
+      "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+    },
+    {
+      "album": {
+        "name": "ULTRAKUNST",
+        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280226,
+      "name": "JE N'EXISTE PAS",
+      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
     },
     {
       "album": {
@@ -4317,7 +4397,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 187096,
       "name": "My City's On Fire",
       "url": "https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ"
@@ -5443,6 +5523,24 @@
       "duration_ms": 357559,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO"
+    },
+    {
+      "album": {
+        "name": "Eros Massacre",
+        "url": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250145,
+      "name": "Romantika",
+      "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
     },
     {
       "album": {

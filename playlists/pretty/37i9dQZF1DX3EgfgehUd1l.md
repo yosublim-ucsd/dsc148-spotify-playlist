@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,647 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,659 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 34 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
 | 35 | [Love Letters In The Sand \- Re\-Recorded In Stereo](https://open.spotify.com/track/1LqqyL3TJOqGhxFXnJOMJ6) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Greatest Love Songs](https://open.spotify.com/album/2QrI3TGnuVXj6iwf5X7VoI) | 2:10 |
 | 36 | [It Doesn't Matter Anymore](https://open.spotify.com/track/38s1KAGSzopcquTCeN6jnj) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:03 |
-| 37 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
-| 38 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
+| 37 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
+| 38 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 39 | [Blue Moon \- Take 9/M](https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:42 |
 | 40 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 | 41 | [Banana Boat Song](https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Banana Boat Song](https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA) | 3:04 |
 | 42 | [\('Til\) I Kissed You](https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:26 |
 | 43 | [Side By Side](https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:52 |
 | 44 | [Catch a Falling Star \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:28 |
-| 45 | [A Certain Smile \- From the 20th Century Fox Film "A Certain Smile"](https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:48 |
-| 46 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
+| 45 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
+| 46 | [A Certain Smile \- From the 20th Century Fox Film "A Certain Smile"](https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:48 |
 | 47 | [April Love](https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone Sings](https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW) | 2:43 |
 | 48 | [Island In The Sun](https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Essential Harry Belafonte](https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi) | 3:21 |
 | 49 | [When](https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp) | [Kalin Twins](https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH) | [The Kalin Twins](https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE) | 2:26 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 76 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:59 |
 | 77 | [Hey There \- from The "Pajama Game"](https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:52 |
 | 78 | [Softly Softly](https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [The Magic Of Ruby Murray](https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue) | 2:29 |
-| 79 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
+| 79 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
 | 80 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 |
 
-Snapshot ID: `MCwwM2FmZWJmODFmZDFmMjY5MzdlNzQ2ODMzNThmODgyNThkYzEwNTQ3`
+Snapshot ID: `MCxmOGMxODg2MzY1NDliOTRlMTA1MzA0MWY4OTI4OWQwOWNhMGJiOWFh`

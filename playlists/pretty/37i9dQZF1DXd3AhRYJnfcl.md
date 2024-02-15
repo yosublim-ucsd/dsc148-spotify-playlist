@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj?si=aixR9sNdTbS4SInFysL33A">  هيفاء وهبي<br/> </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,975 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,300 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [اللي جاي بتاعنا](https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [اللي جاي بتاعنا](https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR) | 2:40 |
 | 50 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 |
 
-Snapshot ID: `MCxmNWZlYTE4NDI0OWE1ODVlM2ZmNzBlNTVkZTYyM2Q0NTdjMjczY2Y0`
+Snapshot ID: `MCwxZDdlZDVjMzQ2ZTJhOTEzMWQ3OTEwZGNhNDE4NzNlZDExNWY3ZjJi`

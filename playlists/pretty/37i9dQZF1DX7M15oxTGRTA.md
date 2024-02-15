@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,580 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,645 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 53 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
 | 54 | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws) | 4:13 |
 | 55 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
-| 56 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
-| 57 | [Always](https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [All In The Name Of Love](https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15) | 4:46 |
+| 56 | [Always](https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [All In The Name Of Love](https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15) | 4:46 |
+| 57 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 58 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
 | 59 | [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 |
 | 60 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 67 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
 | 68 | [Your Song](https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Glow](https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL) | 5:38 |
 | 69 | [Can't Get over You](https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 5:17 |
-| 70 | [Good Love](https://open.spotify.com/track/5tPwHmwrwVcdosAvMzzQ2z) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 5:33 |
-| 71 | [Come Back To Me](https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:32 |
-| 72 | [Settle for My Love \- Remastered Version](https://open.spotify.com/track/22R71ZKypKapgaFnsIE99Z) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Forget Me Nots](https://open.spotify.com/album/0nmo06KvlBGr2ypKt38IId) | 5:13 |
+| 70 | [Come Back To Me](https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:32 |
+| 71 | [Settle for My Love \- Remastered Version](https://open.spotify.com/track/22R71ZKypKapgaFnsIE99Z) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Forget Me Nots](https://open.spotify.com/album/0nmo06KvlBGr2ypKt38IId) | 5:13 |
+| 72 | [Good Love](https://open.spotify.com/track/5tPwHmwrwVcdosAvMzzQ2z) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 5:33 |
 | 73 | [On My Own \- Single Version](https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Patti LaBelle's Greatest Hits](https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R) | 4:43 |
 | 74 | [A Love of Your Own](https://open.spotify.com/track/3pbAV1Q2j1mNW78wqegBGt) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Soul Searching](https://open.spotify.com/album/76IzhBKiaMSqNO0NDWWO7q) | 5:36 |
 | 75 | [Tonight Is the Night \- Live](https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 8:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 99 | [Um dia de domingo](https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 5:00 |
 | 100 | [Me dê motivos](https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 4:51 |
 
-Snapshot ID: `MCwwMDg4ZTdlOGZmNWVkZGZiZWQ0NmE2NDk1ZjRmZGY0YWFmMjViOWVj`
+Snapshot ID: `MCw3MGQwZTFkNzhmNzRkNzFiMTJlNjA4M2E4NTc3MzdmZmNlMGQzNzhl`

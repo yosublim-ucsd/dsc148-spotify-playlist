@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,013 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,087 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 50 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE) | [El Chivo](https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7) | [Si Ladran No Muerden](https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J) | 4:26 |
 
-Snapshot ID: `MCwwZDVlMjliOWFmYWJhNTc1MmY2NTgxOGMwZDdjZjVmYTkxM2U4NzUy`
+Snapshot ID: `MCwzODQ4NzY3MTk3NjE1YTM1MGQ5NjRkOTZmN2QzMDBkMzYwOTkzM2Uw`

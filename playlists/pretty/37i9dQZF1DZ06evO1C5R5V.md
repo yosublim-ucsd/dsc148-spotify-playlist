@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,914 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,924 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 14 | [Se Mujer](https://open.spotify.com/track/3G3q1cJpEp9qu0Csrw0tda) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:17 |
 | 15 | [Sobrevivi](https://open.spotify.com/track/2Sn5IUotjtSlx8G0I9Q1Gy) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:02 |
 | 16 | [En Algún Lugar en el Cielo](https://open.spotify.com/track/6uRi7gpG1xlAO7BycXs1x3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:04 |
-| 17 | [Antes Me Gustabas](https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:25 |
+| 17 | [El Chamuco](https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:59 |
 | 18 | [Y Es por Eso Que Me Voy](https://open.spotify.com/track/4fZEwW4lSFMm6l6PL5bfT4) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 4:24 |
 | 19 | [Trenes Y Gatos](https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes Y Gatos](https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF) | 3:05 |
 | 20 | [La Ultima Canción](https://open.spotify.com/track/2K2ezQeRp5uqmZxZdMrEAJ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:17 |
-| 21 | [El Chamuco](https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:59 |
+| 21 | [Antes Me Gustabas](https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:25 |
 | 22 | [Barata y Descontón](https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Barata y Descontón](https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u) | 4:10 |
 | 23 | [Mujer de Hotel](https://open.spotify.com/track/4e04rx2va5YIQE1s231gi1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 4:35 |
 | 24 | [Urbanidad](https://open.spotify.com/track/2NeGTh2VbfJHEXOxhVa3Ku) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:45 |
 | 25 | [Amor por Nada](https://open.spotify.com/track/5L2umLhtRL6iZGnZjZuto3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 4:32 |
-| 26 | [María](https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 5](https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp) | 4:24 |
-| 27 | [Tiempo de Lluvia](https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:52 |
+| 26 | [Tiempo de Lluvia](https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:52 |
+| 27 | [María](https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 5](https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp) | 4:24 |
 | 28 | [Otro Día](https://open.spotify.com/track/2g44zupqx5AajCy6XD5fMT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 5:06 |
 | 29 | [Piénsalo Bien](https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:50 |
 | 30 | [El Primer Destino](https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Yayo](https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf) | 3:57 |
 | 50 | [Presentación, Pt\. 2 \- En Vivo](https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 1:00 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBkYWM2OGJkOTEyZWE3MWQyMGI1NTVjYTE5MGU1OWNjZg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBhMmNmYjlmMTFlOTRiNGNlNGNhZGZmOTUyNDJhNWRkMQ==`

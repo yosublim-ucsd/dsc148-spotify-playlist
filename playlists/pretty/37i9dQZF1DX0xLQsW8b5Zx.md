@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,919 likes - 60 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,914 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 20 | [Ideas of Love](https://open.spotify.com/track/2CroqpGLYfhN8Xpa4xMfRz) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [Ideas of Love](https://open.spotify.com/album/20REkK3lmFtR8F77ls05XH) | 3:00 |
 | 21 | [Umbrella](https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7) | 3:06 |
 | 22 | [Rebel Rouser](https://open.spotify.com/track/35ySEC3RyS1w36bkpgj1lT) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Have 'Twangy' Guitar Will Travel](https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R) | 2:23 |
-| 23 | [Rip It Up](https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 1:52 |
-| 24 | [Tainted Love](https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [More Mayhem](https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu) | 2:45 |
-| 25 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
-| 26 | [North Side Gal](https://open.spotify.com/track/0CwX2DEmDAxx4WYMjty8Mh) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO) | 2:31 |
+| 23 | [Tainted Love](https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [More Mayhem](https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu) | 2:45 |
+| 24 | [Rip It Up](https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 1:52 |
+| 25 | [North Side Gal](https://open.spotify.com/track/0CwX2DEmDAxx4WYMjty8Mh) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO) | 2:31 |
+| 26 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
 | 27 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
 | 28 | [Red Hot \- Remastered 2022](https://open.spotify.com/track/4xDt9STUARW0vyDbPCI9Yi) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Sun Records Originals: Flyin' Saucers Rock & Roll](https://open.spotify.com/album/0bj7M9oajGqNlBM7H3CHIS) | 2:29 |
 | 29 | [Frankie Please](https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw) | 2:43 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 46 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
 | 47 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
 | 48 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 |
-| 49 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
-| 50 | [Mona Lisa](https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like, Mann: Carl Mann Sings](https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ) | 2:26 |
+| 49 | [Mona Lisa](https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like, Mann: Carl Mann Sings](https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ) | 2:26 |
+| 50 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
 | 51 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 |
 | 52 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
-| 53 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
-| 54 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
+| 53 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
+| 54 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 55 | [Baby Come Back](https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0) | [TT Grace](https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc) | [Baby Come Back](https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L) | 3:21 |
 | 56 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
 | 57 | [Drugstore Rock'n'roll](https://open.spotify.com/track/2CSc9piC2paA385jhFIXcR) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [Presenting Janis Martin](https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
 | 60 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
 
-Snapshot ID: `MCxkZjVmNjkwMmMwMmM3ZmY1ZjYwNzk0OTQyZDEzMTNjZGQ2Y2ExYzk3`
+Snapshot ID: `MCw2ZGUwOWMxMDJjNzRmMWRlNTdhYmM5ZTNjMDQxM2IyYmYyNDQ1OTky`

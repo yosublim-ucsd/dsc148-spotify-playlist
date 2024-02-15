@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Henrik",
-  "num_followers": 891304,
+  "num_followers": 891483,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI3NzU4YWRjZmFiZTU3Y2ZjZjlkZjI1ZDMwM2ZmMTVkYzBhMzkz",
+  "snapshot_id": "MCw5NjZjOGQyY2VmYmJlMDNlYTFiNTg3OTE4MGQyOWJmMGVhYmRhMjRk",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Signal Sender",
         "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 200137,
       "name": "Signal Sender",
       "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "My Repair",
-      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "My Repair",
+      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 168712,
       "name": "Eloise",
       "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL"
       },
@@ -1343,6 +1327,38 @@
       "duration_ms": 202000,
       "name": "Leave",
       "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/3R6tZohZ0UgpffwNA9Q54e"
       },
       "artists": [
         {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
         }
       ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+      "duration_ms": 124503,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/3R6tZohZ0UgpffwNA9Q54e"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 124503,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Yours to Break",
         "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 211826,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "fifth avenue",
-        "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
+        "name": "We Still Move on Dance Floors",
+        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
       },
       "artists": [
         {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
         }
       ],
-      "duration_ms": 173376,
-      "name": "fifth avenue",
-      "url": "https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj"
+      "duration_ms": 163893,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
     },
     {
       "added_at": "2024-02-09 05:00:00",

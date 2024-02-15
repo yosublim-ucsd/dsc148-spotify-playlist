@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable halftime shows\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,336 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,819 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 99 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g) | [The Blues Brothers Original Motion Picture Soundtrack](https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH) | 3:23 |
 | 100 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 
-Snapshot ID: `MCw3OTQwMDU3ZmNlMDY1NDNmZjNjMDhkMDBiNGQ4NGRmMDgxYTNiZWYx`
+Snapshot ID: `MCwyNGJiOGI1MThkZGQ1MzEyYzc3MWQ1NGNmODQ1ZDA3Y2RjMDIxMWRi`

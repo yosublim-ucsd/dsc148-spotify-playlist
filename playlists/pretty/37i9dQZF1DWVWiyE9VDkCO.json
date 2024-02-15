@@ -1,12 +1,12 @@
 {
   "description": "Hits zum Tanzen und Mitsingen - von damals bis heute.",
-  "num_followers": 1036114,
+  "num_followers": 1036097,
   "original_name": "Party Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjY3MzM3NmYyMTQwYTM4NTFmNTdiNTkzOTU1OTJmMGY1YmQ5MzJl",
+  "snapshot_id": "MCw2ZWFlOWNkYzFlYTM3MDM1OGRmMTRmMmIxMzZmMmM2YzQ5YjJmNTI1",
   "tracks": [
     {
       "added_at": "2024-01-08 09:47:24",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -355,6 +355,30 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -407,30 +431,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 250373,
-      "name": "Yeah! (feat. Lil Jon & Ludacris)",
-      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -619,34 +635,18 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
       "artists": [
         {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Modjo (Remastered)",
-        "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 307153,
-      "name": "Lady - Hear Me Tonight",
-      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Modjo (Remastered)",
+        "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 307153,
+      "name": "Lady - Hear Me Tonight",
+      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1567,22 +1583,6 @@
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2024-01-08 09:47:24",

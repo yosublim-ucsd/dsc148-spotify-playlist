@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,871 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,878 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 35 | [La Venganza del Tahúr](https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Autenticos](https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL) | 3:19 |
 | 36 | [Gerardo Gonzalez](https://open.spotify.com/track/2aipeBHbFwBtPNDyOVxpta) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 2:36 |
 | 37 | [Triste Recuerdo](https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:05 |
-| 38 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 |
-| 39 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 |
+| 38 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 |
+| 39 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 |
 | 40 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 |
 | 41 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/3uLPwbEVinsPoM1XAeMOIh) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:31 |
-| 42 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 |
-| 43 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
+| 42 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
+| 43 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 |
 | 44 | [Cuánto Me Cuesta](https://open.spotify.com/track/3oDxYmvYgseohA7m347NZK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 2:36 |
 | 45 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
 | 46 | [Te Traigo Estas Flores A Dueto Con Freddie Martinez](https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Enséñame A Olvidar](https://open.spotify.com/track/4hFXPOaJg12M1NT67WlHCa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:27 |
 | 50 | [Lágrimas](https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lagrimas](https://open.spotify.com/album/0JN8mZ3miJNMroapco383C) | 2:18 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBkZjFkZDE2NzBhZTlkMTc2NWE0NmNkNzZlMmM4Y2I5Mg==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDBmNmYyM2JlNjVmNGUyMjhhM2I1NWQzOTA3NTNmODZlMQ==`

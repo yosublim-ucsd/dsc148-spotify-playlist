@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: P1Harmony\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: The Wind\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-533 songs - 1 day 5 hr 45 min
+534 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Gravity](https://open.spotify.com/track/4HgkahWUngIceLYNV1djsr) | [TREI](https://open.spotify.com/artist/2olRUnJBxMWrHpShDSwYoe) | [BORN](https://open.spotify.com/album/4yFUqAksHb5fEogC57WDxP) | 3:12 | 2022-03-31 | 2022-04-10 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-04-01 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2023-10-14 |
+| [H! TEEN](https://open.spotify.com/track/1hYMSd05OHbOSjQ3aWh0g4) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Our : YouthTeen](https://open.spotify.com/album/6oYjYDCYOXcPUBc7nk9Gto) | 2:59 | 2024-02-14 |  |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 |  |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-08 | 2023-01-14 |
 | [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 | 2023-07-19 | 2023-10-10 |
@@ -455,7 +456,7 @@
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-05 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 | 2022-10-27 |
-| [Suit Up](https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Suit Up](https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke) | 3:02 | 2024-01-22 |  |
+| [Suit Up](https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Suit Up](https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke) | 3:02 | 2024-01-22 | 2024-02-15 |
 | [Sunshower](https://open.spotify.com/track/3fcDHjyxOQoGV4UuMdagu0) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 5th EP Album Prelude of Love Chapter 2\. 'Growing Pains'](https://open.spotify.com/album/7c4HuyVRABrlh7eOdhozwd) | 3:13 | 2023-04-26 | 2023-05-01 |
 | [SUPER Clap](https://open.spotify.com/track/52ubrjNeYr0bJNuYGmxfpV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Time\_Slip \- The 9th Album](https://open.spotify.com/album/7jKVdT1syYOuRRWcjo50og) | 3:29 | 2022-03-31 | 2022-04-18 |
 | [Superhuman](https://open.spotify.com/track/0TU7xhMfZbI1okpLyHptFV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:57 | 2022-03-11 | 2022-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture, Maverick Sabre
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,419 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,441 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Teletransporte](https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Lau de Prá](https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt) | [Teletransporte](https://open.spotify.com/album/7ce0OYD2CrKIs70fXvKycS) | 2:45 |
 | 50 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 |
 
-Snapshot ID: `MCw5Y2FmNDhmODkzZWZiNjVhY2EzYjM3Njk0NWJkNDNlNDliNTFlODcy`
+Snapshot ID: `MCw4ODA4MzVlNjNlNjZjN2Q5NWFhNDBkMjZjYzNkNzdiZTlmNzBlMjVk`

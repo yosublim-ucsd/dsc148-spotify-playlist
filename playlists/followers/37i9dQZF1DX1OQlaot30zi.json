@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 40949,
+  "2024-02-15": 40966,
   "date_first_scraped": "2022-05-12",
   "description": "Sempre aggiornata. Con nuovi brani di Il Tre, Geolier, Ghali, Artie 5ive e tanti altri. ",
   "name": "Novit\u00e0 Rap Italiano",
@@ -27001,6 +27001,36 @@
       "duration_ms": 211429,
       "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
       "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
+    },
+    {
+      "album": {
+        "name": "Il Doc 4 (feat. Ernia, Emis Killa & Niky Savage)",
+        "url": "https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216685,
+      "name": "Il Doc 4 (feat. Ernia, Emis Killa & Niky Savage)",
+      "url": "https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3"
     },
     {
       "album": {

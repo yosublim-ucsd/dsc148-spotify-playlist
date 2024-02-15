@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,593 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,606 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 6 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
 | 7 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
 | 8 | [Palmar](https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Palmar](https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY) | 3:12 |
-| 9 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 |
+| 9 | [De mí, de mí, de mí](https://open.spotify.com/track/71O4eV3KvxjJ2mycKTBvwr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:37 |
 | 10 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 |
-| 11 | [De mí, de mí, de mí](https://open.spotify.com/track/71O4eV3KvxjJ2mycKTBvwr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:37 |
+| 11 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 |
 | 12 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
 | 13 | [Para Qué Sufrir](https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:46 |
 | 14 | [Siento por Ciento](https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Siento por Ciento](https://open.spotify.com/album/1mqgokTnTTkTMjZQ86V0g1) | 2:54 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 19 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 |
 | 20 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 21 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
-| 22 | [Ciclo](https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 2:52 |
-| 23 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
-| 24 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
+| 22 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
+| 23 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
+| 24 | [Ciclo](https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 2:52 |
 | 25 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 |
 | 26 | [Volero](https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:11 |
 | 27 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 71 | [Sin Yolanda](https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [Gutinho](https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:50 |
 | 72 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
 | 73 | [Quiero Enamorarte](https://open.spotify.com/track/1piCERW239XDrsdsyXxXwd) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Quiero Enamorarte](https://open.spotify.com/album/0szu8Z1zY73sybd8CCyZdA) | 3:08 |
-| 74 | [Suave y Pegao](https://open.spotify.com/track/4YKRvsBW0T6Db4Owvx6TNf) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Suave y Pegao](https://open.spotify.com/album/1HIbD7tva2Sp1wjkKEJZhJ) | 4:16 |
-| 75 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
+| 74 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
+| 75 | [Suave y Pegao](https://open.spotify.com/track/4YKRvsBW0T6Db4Owvx6TNf) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Suave y Pegao](https://open.spotify.com/album/1HIbD7tva2Sp1wjkKEJZhJ) | 4:16 |
 
-Snapshot ID: `MCxmOWRjZTM4MjJjZmEyNTBmYWNkMjhjYTA0OTdhMzA0MTVhNGUzYTRi`
+Snapshot ID: `MCw1YmU5NTQ5NmM3ZjA4OGFiZjYxZjI1MTRkMmRmNWFhNmFmY2Y2NDhm`

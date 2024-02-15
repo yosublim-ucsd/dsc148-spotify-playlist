@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-377 songs - 1 day 3 hr 23 min
+378 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dragon Night](https://open.spotify.com/track/70kKRjCxCn6oTWmT2RamK9) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 3:48 | 2022-05-17 | 2022-07-29 |
 | [Dragon Night](https://open.spotify.com/track/6x5LWmrBMf1zTZ77UkuEqu) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 3:48 | 2022-09-20 | 2022-10-03 |
 | [DRIVE US CRAZY](https://open.spotify.com/track/75SsCHs3qM6mXEuHClkCT5) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [DRIVE US CRAZY](https://open.spotify.com/album/3RKqfMngxktugTGzWQ5Be7) | 4:05 | 2022-05-17 | 2022-06-17 |
+| [DRIVE US CRAZY](https://open.spotify.com/track/7vH37GEcPembG3vdUY3bHx) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:05 | 2024-01-23 |  |
 | [Easy come, Easy go!](https://open.spotify.com/track/34nuDpuPidmEdI59zskdnM) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:03 | 2022-06-23 | 2022-07-16 |
 | [Easy come, Easy go!](https://open.spotify.com/track/2ncCiJamFs0oPwadYHeLnB) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Easy come, Easy go!](https://open.spotify.com/album/4dWNEvBo7llubwmwiiXCDH) | 4:03 | 2022-05-17 | 2022-07-27 |
 | [EXIST](https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5) | 3:59 | 2022-06-23 | 2022-10-02 |
@@ -241,7 +242,7 @@
 | [す、好きなんかじゃない！](https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない！」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 3:56 | 2022-09-20 |  |
 | [せかいのっびのびトレジャー!](https://open.spotify.com/track/1AdZsqtHt4XGHy2TLomUtC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:30 | 2022-06-23 | 2022-07-29 |
 | [ときめきエクスペリエンス!](https://open.spotify.com/track/52sMyIxbz7FuCnaQyCacIk) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」OP主題歌「ときめきエクスペリエンス!」](https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh) | 4:17 | 2022-05-17 | 2022-07-28 |
-| [ときめきエクスペリエンス！](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 | 2022-10-25 |  |
+| [ときめきエクスペリエンス！](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 | 2022-10-25 | 2024-02-15 |
 | [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 | 2022-09-20 |  |
 | [どきどきSING OUT!](https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 4:09 | 2022-05-17 | 2022-07-28 |
 | [ないすみちゅっ!](https://open.spotify.com/track/2KBY80dH79sb17t4qNrbeJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:17 | 2022-06-23 | 2022-07-25 |

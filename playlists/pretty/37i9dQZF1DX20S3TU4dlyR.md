@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Nonpalidece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,863 likes - 89 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,872 likes - 89 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,23 +79,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 69 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
 | 70 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 71 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
-| 72 | [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 |
-| 73 | [¿QMH?](https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [¿QMH?](https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3) | 3:33 |
+| 72 | [¿QMH?](https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [¿QMH?](https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3) | 3:33 |
+| 73 | [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 |
 | 74 | [Dela](https://open.spotify.com/track/4sEJncSrPDPuUe4hlp0xvI) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Dela](https://open.spotify.com/album/7hCmxe0ra4M5DaOth4hWnP) | 4:24 |
 | 75 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 76 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
 | 77 | [Cerquita](https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [La Vida Es Una Canción II](https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd) | 4:18 |
 | 78 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
 | 79 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
-| 80 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral Campopiano](https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
-| 81 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
+| 80 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
+| 81 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral Campopiano](https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
 | 82 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 | 83 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 |
 | 84 | [Desinformation](https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Desinformation](https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J) | 4:03 |
 | 85 | [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 |
 | 86 | [La Ventanita](https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [El Gran Poder, Vol\. 2](https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U) | 3:35 |
-| 87 | [Es Real](https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Es Real](https://open.spotify.com/album/67sqDVeSGLXUmM3cPx4B3d) | 4:17 |
-| 88 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
+| 87 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
+| 88 | [Es Real](https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Es Real](https://open.spotify.com/album/67sqDVeSGLXUmM3cPx4B3d) | 4:17 |
 | 89 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
 
-Snapshot ID: `MCwwNjUzZGRkYmM1OWJmZTJjOTgzZjEzY2FiMDkyMzU2NGJmY2RjMGRh`
+Snapshot ID: `MCw0OTZlZjY0NDMwMjFkYmJlZjAwNGY4ZjlkMTljOGNmZGVhNGM0NjFl`

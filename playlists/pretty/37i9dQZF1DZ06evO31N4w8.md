@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,143 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,164 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 32 | [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 |
 | 33 | [¿Y Ahora Que?](https://open.spotify.com/track/222ealJk2LBZ56PX07GuLL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 3:26 |
 | 34 | [Señorita Cantinera \- Ft\. Polo Urias](https://open.spotify.com/track/3mGgITcQH3mFDEaiILoF44) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv), [Polo Urias Y Su Maquina Norteña](https://open.spotify.com/artist/0zM1RE17huCYfueF8Iut1Z) | [Señorita Cantinera \(Ft\. Polo Urias\)](https://open.spotify.com/album/4ZxwyGJIOlWK2Lat34y0w5) | 4:10 |
-| 35 | [El Maquinista](https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:03 |
+| 35 | [Estabas Tan Linda](https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:42 |
 | 36 | [No Le Digas a Nadie](https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:22 |
-| 37 | [Estabas Tan Linda](https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:42 |
+| 37 | [El Maquinista](https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:03 |
 | 38 | [Por Tu Maldito Amor](https://open.spotify.com/track/6gVntjxduFYV1JmT9eSjtc) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:49 |
 | 39 | [Capricho Maldito](https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:56 |
 | 40 | [No Digas Mentiras](https://open.spotify.com/track/23e6dU25FC7HSLxAQntHF5) | [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [No Digas Mentiras](https://open.spotify.com/album/2gIFbMCEIcu2p7yf4NFPt0) | 2:50 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 43 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 |
 | 44 | [Ya Para Que](https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:39 |
 | 45 | [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 |
-| 46 | [Como Piedra En Pozo](https://open.spotify.com/track/1AIN8gEZXRwTJ30YYZsGjo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:39 |
-| 47 | [Reina De Reyes](https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Moraleja](https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL) | 3:14 |
+| 46 | [Reina De Reyes](https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Moraleja](https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL) | 3:14 |
+| 47 | [Como Piedra En Pozo](https://open.spotify.com/track/1AIN8gEZXRwTJ30YYZsGjo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:39 |
 | 48 | [Tenía Razón Mi 'Amá](https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:01 |
 | 49 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Seguimos Firme](https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7) | 3:31 |
 | 50 | [Busca Otro Amor](https://open.spotify.com/track/4m95i8gZfz5uUtxcDghKzj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Corazon Cerrado](https://open.spotify.com/album/1h8QkUflLLufMQUmZevdTI) | 3:22 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA3NWM0MDliMWYzZDkyZjViZThhNDYwYWFkY2I5MjQ3MA==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA0MTMyNTUyMjY4NzdhM2MyMTQ1YzlhZTI3ZTM5MmRlMw==`

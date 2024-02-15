@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Valentinstag\-Takeover featuring eine feine Auswahl an Love + Heartbreak\-Songs, kuratiert von Paula Hartmann 🩶
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,791 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,476 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 49 | [Junimond](https://open.spotify.com/track/22CpeaLcxTA6tMe5grCUee) | [Rio Reiser](https://open.spotify.com/artist/0YcKbZwjx2BEoKLzfqlmgH) | [Rio I.](https://open.spotify.com/album/3xysdJ6QWv6IdH6rfePkMx) | 3:54 |
 | 50 | [Für mich soll’s rote Rosen regnen](https://open.spotify.com/track/5z4YDW5oMQ2bInAN4Nsg6x) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Starke Frauen](https://open.spotify.com/album/5Xaw05y8yvgFHvyNvyEVIH) | 3:11 |
 
-Snapshot ID: `MCwyNjc3NGJlZTU1ODk1ZjQzMzZkY2M1NWYwZGQyNmVkMWRhMjNmNWFk`
+Snapshot ID: `MCwyODhjZDUxY2RkZTU2YzEyNDU5YmI3ZmYzNWEwYjYxNDMxNzg5YzE3`

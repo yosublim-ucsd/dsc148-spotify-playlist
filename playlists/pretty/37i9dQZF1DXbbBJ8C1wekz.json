@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 130149,
+  "num_followers": 130183,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDcyNDIwZTIyOTZkYTEzMWRjOTcxMjg1Zjc3YjE0MjkwYzBiNzQ0",
+  "snapshot_id": "MCxmMWJhMDE4YjRiNmQzYTFjZWU2YTA3MTlmZjNkYjQyYmIxYWI4Y2Vl",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -363,30 +363,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -583,6 +583,34 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/7mr4JyA7pJdSAOulzgRZ2r"
+      },
+      "artists": [
+        {
+          "name": "Volp",
+          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
+        },
+        {
+          "name": "Goude",
+          "url": "https://open.spotify.com/artist/2k9gWCSvF2AtrdLNCOcWW2"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "duration_ms": 213332,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/1wtfZcywQbynryjXGBNfMQ"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -615,34 +643,6 @@
       "duration_ms": 195073,
       "name": "Tendenciosa",
       "url": "https://open.spotify.com/track/3hLoH18k4pP6eXEljzNHHr"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Favorita",
-        "url": "https://open.spotify.com/album/7mr4JyA7pJdSAOulzgRZ2r"
-      },
-      "artists": [
-        {
-          "name": "Volp",
-          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
-        },
-        {
-          "name": "Goude",
-          "url": "https://open.spotify.com/artist/2k9gWCSvF2AtrdLNCOcWW2"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Vk Mac",
-          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
-        }
-      ],
-      "duration_ms": 213332,
-      "name": "Favorita",
-      "url": "https://open.spotify.com/track/1wtfZcywQbynryjXGBNfMQ"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -2007,6 +2007,30 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Bvlgari",
+        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "4tune",
+          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "Bvlgari",
+      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Xeque-Mate (feat. Paiva Prod)",
         "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
       },
@@ -2031,30 +2055,6 @@
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Bvlgari",
-        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "4tune",
-          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Bvlgari",
-      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -2163,6 +2163,30 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "The Box Medley 3",
         "url": "https://open.spotify.com/album/5p54YkCYQFGpU1pMlTBOp3"
       },
@@ -2255,30 +2279,6 @@
       "duration_ms": 228661,
       "name": "Fiquei Rico Cedo",
       "url": "https://open.spotify.com/track/6tfEPfl4xxKUj4fAKsUd7w"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
     },
     {
       "added_at": "2024-02-02 03:01:00",

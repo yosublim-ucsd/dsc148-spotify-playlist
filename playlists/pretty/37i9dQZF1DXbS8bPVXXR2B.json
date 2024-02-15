@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 227297,
+  "num_followers": 227336,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw",
+  "snapshot_id": "MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Hi-Life",
-        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
-      },
-      "artists": [
-        {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        }
-      ],
-      "duration_ms": 540986,
-      "name": "Disco Hi - Life",
-      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 408142,
       "name": "Number One - 12\" Version",
       "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "duration_ms": 540986,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin' Out",
-        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
-      },
-      "artists": [
-        {
-          "name": "Split Decision Band",
-          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
-        }
-      ],
-      "duration_ms": 195114,
-      "name": "Watchin' Out",
-      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin' Out",
+        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
+      },
+      "artists": [
+        {
+          "name": "Split Decision Band",
+          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Watchin' Out",
+      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Island",
         "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
-      },
-      "artists": [
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 453706,
-      "name": "Family - Stereo Version",
-      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
         "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 438199,
       "name": "Haven't You Heard - 12\" Version",
       "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+      },
+      "artists": [
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Family - Stereo Version",
+      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
     },
     {
       "added_at": "2022-09-05 16:54:43",

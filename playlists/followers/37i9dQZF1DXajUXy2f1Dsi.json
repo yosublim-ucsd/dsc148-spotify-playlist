@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 28136,
+  "2024-02-15": 28136,
   "date_first_scraped": "2021-12-21",
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
   "name": "Top Latin Classical",
@@ -5373,12 +5373,12 @@
       },
       "artists": [
         {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
           "name": "Milo\u0161 Karadagli\u0107",
           "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
       "date_added": "2022-01-01",

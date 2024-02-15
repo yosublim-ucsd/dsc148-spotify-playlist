@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,510 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,597 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 |
 | 50 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 
-Snapshot ID: `MCwzYTAzMjc4ZGY3MGQyYWI3MDAyYzc2Nzg0NzE1N2U2NDhjMWQxYTRh`
+Snapshot ID: `MCw2OWQ0NjNhY2FjMjkyOTEyMzg1YTA4NzZjZTVhYWZhOTY1MGFmN2Fk`

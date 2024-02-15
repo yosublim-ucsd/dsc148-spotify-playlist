@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,966 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,965 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 5 | [Pensamientos Intrusivos](https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:12 |
 | 6 | [el paso \(with Cuco\)](https://open.spotify.com/track/5DqK2SiQaWkzj7K2eOvCYW) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [como yo \(live\)](https://open.spotify.com/album/1jpU9hjK0yvwqTvKnsDMIM) | 3:05 |
 | 7 | [2NDO CHANCE](https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:52 |
-| 8 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
-| 9 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 |
+| 8 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 |
+| 9 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
 | 10 | [Mata](https://open.spotify.com/track/1m43bKhTmsUVIVYEdRDzXn) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C) | [Mata](https://open.spotify.com/album/7i9x6F8kOA5AsQetVTMZoN) | 2:41 |
 | 11 | [Dame Amor](https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Dame Amor](https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs) | 3:29 |
 | 12 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 15 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
 | 16 | [Dime \(with Conexión Divina\)](https://open.spotify.com/track/0RUEaNVgRbaj8Mm1qPaHri) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Dime \(with Conexión Divina\)](https://open.spotify.com/album/62LsTv9SDFBUihRPwVUsLr) | 3:52 |
 | 17 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 |
-| 18 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
-| 19 | [Esperando](https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Esperando](https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO) | 2:21 |
+| 18 | [Esperando](https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Esperando](https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO) | 2:21 |
+| 19 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
 | 20 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [MI HOGAR \(with maye\)](https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH) | 2:55 |
 | 21 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 22 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 29 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
 | 30 | [Cuéntame](https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cuéntame](https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS) | 2:56 |
 | 31 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
-| 32 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
-| 33 | [PLAYMAKER PT.2](https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [PLAYMAKER PT.2](https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN) | 2:45 |
+| 32 | [PLAYMAKER PT.2](https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [PLAYMAKER PT.2](https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN) | 2:45 |
+| 33 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
 | 34 | [VAN A VER](https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Town Shit Vol\. 3](https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA) | 2:24 |
 | 35 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 |
 | 36 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 39 | [C'est La Vie](https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [C'est La Vie](https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7) | 3:05 |
 | 40 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 | 41 | [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 |
-| 42 | [Forma de Ser](https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo) | [Krofon](https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Forma de Ser](https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU) | 2:49 |
-| 43 | [freak](https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [mundo dulce](https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1) | 2:32 |
+| 42 | [freak](https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [mundo dulce](https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1) | 2:32 |
+| 43 | [Forma de Ser](https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo) | [Krofon](https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Forma de Ser](https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU) | 2:49 |
 | 44 | [Olivia Rodrigo](https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Olivia Rodrigo](https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu) | 2:21 |
 | 45 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
 | 46 | [LA TANGA](https://open.spotify.com/track/100QTgMwBISQLjrime1jF8) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [LA TANGA](https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf) | 2:18 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 53 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
 | 54 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
 
-Snapshot ID: `MCw1NzZmOTc4NmI2NDA2YmYwOWNhMDZmMTc2OGRkY2M5YWQyZjZhMjA0`
+Snapshot ID: `MCwyNDAyNTIwM2M5OTg4ZTIzNTJiZDg1M2I4MTk4MGI0ZmIyYjgzZGZi`

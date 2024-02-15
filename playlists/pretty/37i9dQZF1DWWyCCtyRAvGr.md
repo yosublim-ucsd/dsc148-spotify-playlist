@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,204 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,278 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 11 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 |
 | 12 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 |
 | 13 | [How Unlucky Can One Man Be](https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [Nick Holt](https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo), [The Teardrops](https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto) | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ) | 7:13 |
-| 14 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
-| 15 | [Buzz Me, Babe](https://open.spotify.com/track/2lvBjTlia0x9GXfnZ3jbui) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:14 |
+| 14 | [Buzz Me, Babe](https://open.spotify.com/track/2lvBjTlia0x9GXfnZ3jbui) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:14 |
+| 15 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 16 | [Ten Long Years](https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:40 |
 | 17 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
 | 18 | [Little Red Rooster](https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 3:35 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 74 | [Thanks, But No Thanks](https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 4:17 |
 | 75 | [Fast Talking Woman Blues](https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE) | 3:23 |
 | 76 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 |
-| 77 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |
-| 78 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
+| 77 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
+| 78 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |
 | 79 | [Love on the Rocks](https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA) | 3:42 |
 | 80 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
 | 81 | [Don't Deal With The Devil](https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r) | [Sean Stephen](https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp) | [Shadows and Ghosts](https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa) | 3:50 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 90 | [The Celebrated Walkin' Blues](https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 8:50 |
 | 91 | [The Game](https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6) | [Lightnin' Ray](https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s) | [Two Sides to the Story](https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn) | 6:05 |
 | 92 | [Lovedog](https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:48 |
-| 93 | [Rainy Day Blues](https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Songbird](https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv) | 5:31 |
-| 94 | [Laundromat Blues \- Mono Mix](https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 3:08 |
+| 93 | [Laundromat Blues \- Mono Mix](https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 3:08 |
+| 94 | [Rainy Day Blues](https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Songbird](https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv) | 5:31 |
 | 95 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
 | 96 | [Jake's Blues](https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI) | [Johnnie Red Latham](https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U) | [Jake's Blues](https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I) | 3:56 |
 | 97 | [Midnight in Mississippi '22](https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Midnight in Mississippi '22](https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 99 | [Armadillo Shuffle](https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Larry Luddecke](https://open.spotify.com/artist/4i6n9Ol2aduAd7XVCnaYOx) | [Moods 'n' Blues](https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU) | 2:01 |
 | 100 | [Like a Ship](https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 4:23 |
 
-Snapshot ID: `MCxjYzllNzlmYjMyMmUxODM4ZjliMWIxODI4ZTdlN2FhZjAxYjRjMjll`
+Snapshot ID: `MCxiMGRmZmJiYjdiZDliODllNzJjNzg5MmE3NWU0MjRmYzVjNWE4MzFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,441 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,446 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 11 | [Duda Morena](https://open.spotify.com/track/77DfJYwlIxQFbcNoZcVjuh) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/1n7pvXzyXqEDCrCaR7SJbc) | 4:53 |
 | 12 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
 | 13 | [Moliendo Café](https://open.spotify.com/track/7eOtKm3fNAeAhAoIZmJuEY) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Iag Bari](https://open.spotify.com/album/6zUrmT5eJIG2lNajO4AxJj) | 2:27 |
-| 14 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 |
+| 14 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 15 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
-| 16 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
+| 16 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 |
 | 17 | [La Gran Alianza del Norte](https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Piloncillo y Bacanora](https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd) | 2:47 |
 | 18 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 |
 | 19 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 |
 | 20 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
 | 21 | [La Violencia](https://open.spotify.com/track/2ZSh2anXpuTLC6utOkavyb) | [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Violencia](https://open.spotify.com/album/3YgJr7L4JQGqDvA7qwkzYm) | 3:10 |
-| 22 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
-| 23 | [Piel Canela](https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Mambo Ska](https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6) | 2:51 |
-| 24 | [Bella ciao \- Live, Rome / 2016](https://open.spotify.com/track/64ATEI3hHvVfzTES9d4sgt) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 3:45 |
+| 22 | [Bella ciao \- Live, Rome / 2016](https://open.spotify.com/track/64ATEI3hHvVfzTES9d4sgt) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 3:45 |
+| 23 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
+| 24 | [Piel Canela](https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Mambo Ska](https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6) | 2:51 |
 | 25 | [Djelem Djelem](https://open.spotify.com/track/03nCB2bLgZMahtLTtKk0pU) | [Barcelona Gipsy Klezmer Orchestra](https://open.spotify.com/artist/3PTfq1DY4qdmJaIySsHinw) | [Imbarca](https://open.spotify.com/album/19MmbEcj7NqppcIlQaaS32) | 4:52 |
 | 26 | [Khade sukar / How Beautiful](https://open.spotify.com/track/11qTgJvOSQQgW2NZ1cjRFB) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/0HDfjaHDB5c8PIzpg5H6je) | 3:27 |
 | 27 | [Vamos a Morir](https://open.spotify.com/track/2IFFqBY6Khw7vgVezoXXkY) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda, Pt\. 1](https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc) | 3:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 46 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
 | 47 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 |
 | 48 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
-| 49 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:37 |
-| 50 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
+| 49 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
+| 50 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:37 |
 
-Snapshot ID: `MCwzM2UxYjk4YTBlM2I1ZTE5MjljNTc1ZWEzM2I5MGE3NTJiMjJjNTVk`
+Snapshot ID: `MCwzZWI2ZmNiMTgzZmY2OTg1MzM5MDE4M2ViOTJjZWNkOTdjMzg1NGVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,487 likes - 150 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,567 likes - 150 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 60 | [Las Nachas](https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:15 |
 | 61 | [Que la Dejen Ir al Baile Sola](https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:35 |
 | 62 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 |
-| 63 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
-| 64 | [El Baile del Sacadito](https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [20 Exitos de Ley](https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1) | 3:36 |
+| 63 | [El Baile del Sacadito](https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [20 Exitos de Ley](https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1) | 3:36 |
+| 64 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
 | 65 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 |
 | 66 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 |
 | 67 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
@@ -116,10 +116,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 106 | [Es Parte Del Show](https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Es Parte Del Show](https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx) | 2:53 |
 | 107 | [Es Viernes](https://open.spotify.com/track/6SXlVEDXV7bMS4A3kbAGlc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Es Viernes](https://open.spotify.com/album/6wxNV1UqQ5r80Dee8C1QOJ) | 3:36 |
 | 108 | [Cuando Los Frijoles Bailan](https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 1](https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr) | 2:59 |
-| 109 | [Qué Pensaste](https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN) | [Grupo Dominio](https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Qué Pensaste](https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes) | 3:20 |
-| 110 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
-| 111 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
-| 112 | [Macarena](https://open.spotify.com/track/5PZaVbwGxAWt3jcr9rMKzW) | [Identidad](https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka) | [Los Saxofones Alegres](https://open.spotify.com/album/5TxTOWMPcucYoAe1yFlKJC) | 2:59 |
+| 109 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
+| 110 | [Qué Pensaste](https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN) | [Grupo Dominio](https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Qué Pensaste](https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes) | 3:20 |
+| 111 | [Macarena](https://open.spotify.com/track/5PZaVbwGxAWt3jcr9rMKzW) | [Identidad](https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka) | [Los Saxofones Alegres](https://open.spotify.com/album/5TxTOWMPcucYoAe1yFlKJC) | 2:59 |
+| 112 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
 | 113 | [Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana](https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Una No Es Ninguna](https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw) | 4:11 |
 | 114 | [Tan Bonita](https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Tan Bonita](https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj) | 3:13 |
 | 115 | [Que La Dejen Ir Al Baile](https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 2:25 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 149 | [Zapateado Encabronado \#2](https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Lo Más Escuchado De](https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp) | 3:19 |
 | 150 | [La Pareja Ideal \- En Vivo](https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 4:14 |
 
-Snapshot ID: `MCw2YjIyZjRjYmNmNjVkZjhkN2YyMTVlYzhiZmY4MzZiOTEzZGZmZTEx`
+Snapshot ID: `MCxiNGI0M2JhOTNjNDkxM2VkMDY3MWZkZWMwMzcwZWU1MjllODk3MDlh`

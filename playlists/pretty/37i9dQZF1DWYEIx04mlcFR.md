@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Nicole Horts en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,647 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,650 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 9 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 |
 | 10 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 11 | [feliz año nuevo](https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U) | [feliz año nuevo](https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG) | 2:43 |
-| 12 | [Alucín](https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Alucín](https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ) | 2:12 |
+| 12 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |
 | 13 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 |
 | 14 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
 | 15 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
 | 16 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
-| 17 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |
+| 17 | [Alucín](https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Alucín](https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ) | 2:12 |
 | 18 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
 | 19 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 20 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 47 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 |
 | 48 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
 | 49 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
-| 50 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
-| 51 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
+| 50 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
+| 51 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
 | 52 | [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 |
 | 53 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 | 54 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 74 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 | 75 | [nunca me dejes </3](https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [nunca me dejes </3](https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0) | 3:26 |
 
-Snapshot ID: `MCw3ZmM2MjY5Zjg2ZjM5Y2RkZWFhNWIwOTI5MjZiZWMwNDg4YzRkYzk1`
+Snapshot ID: `MCw3ODhmMDE0MDEzOTMxNDQ3Y2E4YTcyNDJiNDdmZTgzN2JkZGQwMDI5`

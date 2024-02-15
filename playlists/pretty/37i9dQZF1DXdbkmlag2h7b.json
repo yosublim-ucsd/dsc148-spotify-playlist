@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631720,
+  "num_followers": 631755,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTgyYjBjZmM3OTY2YjFmMjEzMWY1ODhmNWY4MjYwMmI5Mzc4ZDU2",
+  "snapshot_id": "MCwzOWYyNWY0OGNkZTY5YjE2OTM3ZWIzZGU0Y2I4YjkwNWJiOWJiYTBl",
   "tracks": [
     {
       "added_at": "2024-01-31 19:26:23",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "String Of Light",
         "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
-      },
-      "artists": [
-        {
-          "name": "Night Songs",
-          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
-        }
-      ],
-      "duration_ms": 181318,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Ulayaw",
         "url": "https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
-      },
-      "artists": [
-        {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Surrounded By Clouds",
         "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 158550,
       "name": "Surrounded By Clouds",
       "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Lumiere",
-        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
-      },
-      "artists": [
-        {
-          "name": "Deep Vibrations",
-          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lumiere",
-      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Rivers of Relief",
         "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Legend Of Zea",
-        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
       },
       "artists": [
         {
-          "name": "Cora Zea",
-          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+          "name": "Deep Vibrations",
+          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
         }
       ],
-      "duration_ms": 211583,
-      "name": "Afternoon Spirits",
-      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
+      "duration_ms": 168000,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -807,6 +791,22 @@
       "duration_ms": 141704,
       "name": "Humpback Whales",
       "url": "https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Legend Of Zea",
+        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
+      },
+      "artists": [
+        {
+          "name": "Cora Zea",
+          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+        }
+      ],
+      "duration_ms": 211583,
+      "name": "Afternoon Spirits",
+      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "The Shed",
+        "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
+      },
+      "artists": [
+        {
+          "name": "Alex Miracone",
+          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
+        }
+      ],
+      "duration_ms": 150750,
+      "name": "The Shed",
+      "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "The Shed",
-        "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
       },
       "artists": [
         {
-          "name": "Alex Miracone",
-          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
         }
       ],
-      "duration_ms": 150750,
-      "name": "The Shed",
-      "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
+      "duration_ms": 270880,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Floating Hearts",
-        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
-      },
-      "artists": [
-        {
-          "name": "Julyan Brynn",
-          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
-        }
-      ],
-      "duration_ms": 199831,
-      "name": "Svalbard",
-      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
+        "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
       },
       "artists": [
         {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
         }
       ],
-      "duration_ms": 270880,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "The Acoustic Mind - Vol. 1",
-        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
-      },
-      "artists": [
-        {
-          "name": "Aur\u00e9lien Trigo",
-          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
-        }
-      ],
-      "duration_ms": 172589,
-      "name": "Headroom",
-      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Distant Voices",
         "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 176571,
       "name": "Distant Voices",
       "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "The Acoustic Mind - Vol. 1",
+        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lien Trigo",
+          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
+        }
+      ],
+      "duration_ms": 172589,
+      "name": "Headroom",
+      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "Caleufu",
         "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
       },
       "artists": [
         {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+      "duration_ms": 205505,
+      "name": "Oriental Journey",
+      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1391,22 +1407,6 @@
       "duration_ms": 124212,
       "name": "Aion",
       "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Mysterium",
-        "url": "https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT"
-      },
-      "artists": [
-        {
-          "name": "Auguste Henrique",
-          "url": "https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL"
-        }
-      ],
-      "duration_ms": 167522,
-      "name": "Mysterium",
-      "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Winter Night Mist",
-        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+        "name": "Mysterium",
+        "url": "https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Auguste Henrique",
+          "url": "https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL"
         }
       ],
-      "duration_ms": 193095,
-      "name": "Winter Night Mist",
-      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
+      "duration_ms": 167522,
+      "name": "Mysterium",
+      "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1535,6 +1519,22 @@
       "duration_ms": 187636,
       "name": "Into Gratitude - Stripped",
       "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Winter Night Mist",
+        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 193095,
+      "name": "Winter Night Mist",
+      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
     },
     {
       "added_at": "2024-01-31 19:26:23",

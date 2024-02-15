@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: TWICE \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: CHUU \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-392 songs - 21 hr 52 min
+393 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Chillin' Chillin'](https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:26 | 2021-11-29 | 2022-07-29 |
 | [CHO](https://open.spotify.com/track/0I8H0lm68BUZphZx3Qu611) | [Feverse](https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ) | [CHO](https://open.spotify.com/album/3xRq6x8OjeM3rrLU2Mepgc) | 3:24 | 2023-05-09 | 2023-06-13 |
 | [Chococo](https://open.spotify.com/track/3uJiBnEDBji3kNOA22exfL) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:40 | 2021-11-29 | 2022-05-02 |
+| [Chocolate](https://open.spotify.com/track/0e9skrsECOVqRRNFgFdA5c) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Chocolate](https://open.spotify.com/album/1kQUndHexxKgQMfJxfPt8A) | 3:07 | 2024-02-14 |  |
 | [Close To You](https://open.spotify.com/track/1DS38HjEoXLWnPeIoyI2X9) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 6th Mini Album \[Once upon a time\]](https://open.spotify.com/album/5FH6bvjJY0GCZwMgNvarAR) | 3:36 | 2021-11-29 | 2022-06-27 |
 | [CLOVER](https://open.spotify.com/track/3NMNdvHprM0MoV1sAWO7LK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:21 | 2022-01-04 | 2022-07-16 |
 | [Coloring Book](https://open.spotify.com/track/1PhrSUBNfKgUX7wMMURdTI) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [COLORING BOOK](https://open.spotify.com/album/38AAuqV2wFULToBRMPn3Ne) | 3:05 | 2022-02-14 | 2022-04-14 |
@@ -164,7 +165,7 @@
 | [Invincible](https://open.spotify.com/track/3FWXkGqJx0giJzQNqkcK74) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [EVOLution <⟡>](https://open.spotify.com/album/3Y0JJMZ92U2D5zKGQDfkH5) | 3:17 | 2023-10-11 | 2023-12-10 |
 | [It is said](https://open.spotify.com/track/0Wh19bKFCH8x2HwQhwQZmu) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [BANANA ALLERGY MONKEY](https://open.spotify.com/album/3dGBubYrajwhcnMubZ3H8F) | 3:31 | 2022-04-04 | 2022-04-28 |
 | [JACKPOT](https://open.spotify.com/track/1n5cGoShTaChH3yQyNQIY5) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [JACKPOT](https://open.spotify.com/album/4zMss13uNw7D8cYEALWXEe) | 3:25 | 2022-01-04 | 2022-07-18 |
-| [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 | 2024-01-03 |  |
+| [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 | 2024-01-03 | 2024-02-15 |
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-11-29 | 2022-07-28 |
 | [JELLY JELLY](https://open.spotify.com/track/7yHmdxQBHXPSVrHaw8urk1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:30 | 2021-11-29 | 2022-04-18 |
 | [JJan! Koong! Kwang!](https://open.spotify.com/track/0mACEYbz42CQdqAPjIJHi6) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Welcome to MOMOLAND](https://open.spotify.com/album/3i5ryBAE1wpNq50qqDxxUG) | 3:19 | 2022-01-04 | 2022-07-05 |

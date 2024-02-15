@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 102309,
+  "2024-02-15": 102313,
   "date_first_scraped": "2023-11-24",
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
   "name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
@@ -765,7 +765,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 204400,
       "name": "ex-Doll",
       "url": "https://open.spotify.com/track/0TU1Nb3hB9kbEocPI5XFfu"
@@ -921,6 +921,28 @@
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "album": {
+        "name": "Hypothetically",
+        "url": "https://open.spotify.com/album/1xBgzEANBKR6AhYDva26Bg"
+      },
+      "artists": [
+        {
+          "name": "SH\u014cJO",
+          "url": "https://open.spotify.com/artist/6UHps917v3QGDMJ0HkiBO0"
+        },
+        {
+          "name": "Lisa Remar",
+          "url": "https://open.spotify.com/artist/71Pw9VanbUtPzvO0XiO9im"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167315,
+      "name": "Hypothetically",
+      "url": "https://open.spotify.com/track/75bCi1IBr1ot7uMSFMTUad"
     },
     {
       "album": {

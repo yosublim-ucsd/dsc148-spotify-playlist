@@ -4,7 +4,7 @@
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-103 songs - 6 hr 0 min
+104 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Feeling You](https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Feeling You](https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H) | 3:21 | 2023-12-08 |  |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2023-12-08 |  |
 | [freckles,](https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [freckles,](https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ) | 3:50 | 2023-12-08 |  |
-| [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 | 2023-12-08 |  |
+| [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 | 2023-12-08 | 2024-02-15 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-12-08 |  |
 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2023-12-08 |  |
 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 | 2023-12-08 |  |
@@ -61,6 +61,7 @@
 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2023-12-08 | 2024-02-03 |
 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 | 2023-12-08 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2023-12-08 |  |
+| [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 | 2024-02-09 |  |
 | [London](https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [London](https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss) | 3:16 | 2023-12-08 |  |
 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2023-12-08 |  |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2023-12-08 |  |

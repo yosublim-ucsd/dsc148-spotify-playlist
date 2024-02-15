@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,446 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,465 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 5 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 6 | [animal crossing \~ new horizons lofi](https://open.spotify.com/track/3LQTJhA1bJpKNwEzwpdJzk) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [animal crossing \~ new horizons lofi](https://open.spotify.com/album/0z0eXgUqLEI4SxJt30cU33) | 1:07 |
 | 7 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
-| 8 | [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 |
+| 8 | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Subvrbs](https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n) | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI) | 2:34 |
 | 9 | [kishu inu](https://open.spotify.com/track/42yJL8dXr3S4c0kO6bfpBS) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [kishu inu](https://open.spotify.com/album/4lgPT8tIzb69EMZ7lm30WO) | 2:16 |
-| 10 | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Subvrbs](https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n) | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI) | 2:34 |
+| 10 | [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 |
 | 11 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
 | 12 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 |
 | 13 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 23 | [this girl](https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 2:02 |
 | 24 | [viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ) | 1:26 |
 | 25 | [Cut My Hair](https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [How Are You](https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly) | 2:07 |
-| 26 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 |
-| 27 | [Monday Loop](https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/3xAIeIUqff7nui62qizWZL) | 1:31 |
+| 26 | [Monday Loop](https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/3xAIeIUqff7nui62qizWZL) | 1:31 |
+| 27 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 |
 | 28 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
 | 29 | [Sakura Trees](https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Buena Vista](https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx) | 1:39 |
 | 30 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
 | 31 | [Sorry, I Like You](https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D) | [Burbank](https://open.spotify.com/artist/4iHB5bp1wwN5qTbVPaBykO) | [Sorry, I Like You](https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA) | 2:02 |
 | 32 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 |
 | 33 | [Redbone](https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g) | 1:42 |
-| 34 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 |
-| 35 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
-| 36 | [Resonance](https://open.spotify.com/track/3xzGdiAHys1YBL8touis1S) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/0eng8FkzAYHcUoZ4YLMXpO) | 3:32 |
+| 34 | [Resonance](https://open.spotify.com/track/3xzGdiAHys1YBL8touis1S) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/0eng8FkzAYHcUoZ4YLMXpO) | 3:32 |
+| 35 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 |
+| 36 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
 | 37 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
 | 38 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 39 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 49 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
 | 50 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
 
-Snapshot ID: `MCxkMWFkMWQ4NzUwMjc2NzI2Y2I5MjQ1OTFmNmFhNDNlZWJlNjk2ZDFi`
+Snapshot ID: `MCwxOWIwYmM4MDk2NDBkZTUzNjAyYWIxNGZiODJkMzY4MDUyYTE0MThm`

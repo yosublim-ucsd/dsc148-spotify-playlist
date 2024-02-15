@@ -2,7 +2,7 @@
 
 ### [Dillihood](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Rap from the hoods of Dilli featuring Ikka
+> Rap from the hoods of Dilli featuring Raga
 
 122 songs - 6 hr 22 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 483217,
+  "num_followers": 483381,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmQ5NzY0NWM5Mjk4NzlhMzljYTUyMjNhZDA1OGUxZjc0MzZkOWVm",
+  "snapshot_id": "MCw5NDFlNzg3NWQxOTI3ODViMDZkNmM0ZGU3OTU1MmE2OTllZThkNTM1",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Rather Be (feat. Jess Glynne)",
         "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2387,6 +2387,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
       },
@@ -2407,26 +2427,6 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2571,34 +2571,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The London Sessions",
-        "url": "https://open.spotify.com/album/6CIslPQSknp875cigkhKJC"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        },
-        {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 215759,
-      "name": "Jackie Chan",
-      "url": "https://open.spotify.com/track/4vvnuJlgBeNVwq3TNmLMNX"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
@@ -2639,6 +2611,34 @@
       "duration_ms": 173658,
       "name": "Sunroof - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The London Sessions",
+        "url": "https://open.spotify.com/album/6CIslPQSknp875cigkhKJC"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        },
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215759,
+      "name": "Jackie Chan",
+      "url": "https://open.spotify.com/track/4vvnuJlgBeNVwq3TNmLMNX"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2747,26 +2747,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "A Town Called Paradise (Deluxe)",
         "url": "https://open.spotify.com/album/1116PKIKlArm87HVaPtonW"
       },
@@ -2787,26 +2767,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Blood, Sweat & 3 Years",
-        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Take Me Home (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "You for Me",
         "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
       },
@@ -2823,6 +2783,46 @@
       "duration_ms": 175435,
       "name": "You for Me",
       "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Blood, Sweat & 3 Years",
+        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Take Me Home (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 430519,
+  "num_followers": 430526,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWZlZmZlYTI0ZjBlZmU0YjlhZjJhYTEwYjRiZmI2ODc0OTRhMzMw",
+  "snapshot_id": "MCxkODhkYjM3NDZmYTJlNzBkYjA5YjljYjIwOTYzMzhkZjE5MWFkOWI3",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:57",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        }
+      ],
+      "duration_ms": 249250,
+      "name": "Parar el Tiempo",
+      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
         "name": "A fuego lento (feat. Vicente Garcia)",
         "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 199398,
       "name": "A fuego lento (feat. Vicente Garcia)",
       "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
-      },
-      "artists": [
-        {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
-        }
-      ],
-      "duration_ms": 249250,
-      "name": "Parar el Tiempo",
-      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 204718,
-      "name": "De Vez en Cuando",
-      "url": "https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
         "name": "Some More Horizons (Digital Version)",
         "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 328866,
       "name": "Ai mi morena - Chocolate Restyle",
       "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 204718,
+      "name": "De Vez en Cuando",
+      "url": "https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
         "name": "Red Hot Chile Papers",
         "url": "https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 286363,
       "name": "Red Hot Chile Papers",
       "url": "https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 301925,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "Game On",
-        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
         }
       ],
-      "duration_ms": 301925,
-      "name": "Game On",
-      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
+      "duration_ms": 200303,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -939,22 +955,6 @@
       "duration_ms": 173311,
       "name": "Amor Frutero",
       "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 200303,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
         "name": "Musica Para Despues De Almuerzo",
         "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 195693,
       "name": "Despues De Almuerzo Parte 3",
       "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
-      },
-      "artists": [
-        {
-          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
+        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
+      },
+      "artists": [
+        {
+          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Mar Y Cielo",
-      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
         "name": "Calentura: Global Bassment",
         "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
       },
@@ -1455,22 +1435,6 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
@@ -1483,6 +1447,42 @@
       "duration_ms": 208320,
       "name": "El Chuchumb\u00e9",
       "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Mar Y Cielo",
+      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2024-02-09 00:01:57",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-02-09 00:01:57",
       "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
-    },
-    {
-      "added_at": "2024-02-09 00:01:57",
-      "album": {
         "name": "Meus Momentos: Paulinho Da Viola",
         "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 240640,
       "name": "Perdoa",
       "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
+    },
+    {
+      "added_at": "2024-02-09 00:01:57",
+      "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2024-02-09 00:01:57",

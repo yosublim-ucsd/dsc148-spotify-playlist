@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-192 songs - 12 hr 11 min
+193 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,13 +67,14 @@
 | [Eres Tú](https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:38 | 2022-02-01 |  |
 | [Eres Tú](https://open.spotify.com/track/4tRFdhdqMUkGfnAkis3lNv) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Eres Tú](https://open.spotify.com/album/5fMxsjcd2Gr3bjYy938V5T) | 3:38 | 2021-12-06 | 2022-07-29 |
 | [Ese Tipo Soy Yo \(Esse Cara Sou Eu\)](https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Esencial Roberto Carlos](https://open.spotify.com/album/4TbDEyxlABxYoyanHe6oOR) | 4:33 | 2021-12-06 | 2023-04-12 |
-| [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 | 2021-12-06 |  |
+| [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 | 2021-12-06 | 2024-02-15 |
 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 | 2021-12-06 |  |
 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 | 2021-12-06 |  |
 | [Este Corazón](https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:30 | 2021-12-06 |  |
 | [Falta Amor](https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Falta Amor](https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m) | 3:23 | 2022-02-01 |  |
 | [Feliz Por Ti](https://open.spotify.com/track/2e2dOJMIieLvAh2g7kN9dP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Feliz Por Ti](https://open.spotify.com/album/27XAaGZpB9Rogg30c9g9As) | 2:57 | 2023-10-27 |  |
 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 | 2022-02-01 |  |
+| [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 | 2024-02-09 |  |
 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 | 2021-12-06 | 2023-02-10 |
 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 | 2023-01-13 | 2023-04-09 |
 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 | 2021-12-06 |  |

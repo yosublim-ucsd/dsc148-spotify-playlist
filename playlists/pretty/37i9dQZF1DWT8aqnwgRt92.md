@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,419,100 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419,562 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 21 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 |
 | 22 | [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 |
 | 23 | [愛は薬](https://open.spotify.com/track/1rf80hAVw6y8rVc1HsOpuv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [愛は薬](https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP) | 4:24 |
-| 24 | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/album/2eBtB6yN4jRfMe9zER6af3) | 4:06 |
+| 24 | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN) | 4:06 |
 | 25 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [t.komuro](https://open.spotify.com/artist/2bE0EJMa2PapJUQZYlyE6P) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 |
 | 26 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 |
 | 27 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [ステゴロ](https://open.spotify.com/track/4WRPyGX4Ihz78H0Vg3hH98) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ステゴロ](https://open.spotify.com/album/5lf1lZAzjWi5X1VeU5poUt) | 2:41 |
 | 85 | [Muchauman no Theme](https://open.spotify.com/track/6yjINBA8ANAe6daFoPSeOb) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [Muchauman no Theme](https://open.spotify.com/album/4JT0mrCRYo1tE1pUNsqIQe) | 0:34 |
 
-Snapshot ID: `MCwxNzQzMTg5NjBiNzY0MjdmZGMyYTMzZTJkY2Q2MTlmMDQzZmI0NDcw`
+Snapshot ID: `MCw2NGM4MTY0YzA1N2I5NjRhMWNkZThjZTQ3MGU4MDAyNGQ1NWZmMjY3`

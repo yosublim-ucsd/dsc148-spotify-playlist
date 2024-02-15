@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczt8d1q77fm.md) - [plain]
 
 > Jess Judith takes over Fuego! Featuring Rauw Alejandro, Young Miko, Ozuna & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,854 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,868 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczt8d1q77fm.md) - [plain]
 | 16 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 17 | [La Old Skul](https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:34 |
 | 18 | [OG Black](https://open.spotify.com/track/4Zqp1yolC5Llwva0JTXXVj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:10 |
-| 19 | [WHITE MIKE 1.5](https://open.spotify.com/track/6r7hkTB5uuX2TVSjPULPQj) | [K Londrez](https://open.spotify.com/artist/5D6rWi0ikRl7IfWQULE3a0) | [DRAFT DREAMZ](https://open.spotify.com/album/5eGYnyTUFIe5MBCl4YY1bw) | 3:32 |
+| 19 | [WHITE MIKE 1.5](https://open.spotify.com/track/6r7hkTB5uuX2TVSjPULPQj) | [K Londrez](https://open.spotify.com/artist/5D6rWi0ikRl7IfWQULE3a0) | [Playboii: DRAFT DREAMZ](https://open.spotify.com/album/5eGYnyTUFIe5MBCl4YY1bw) | 3:32 |
 | 20 | [Chulo Sin H](https://open.spotify.com/track/3JrDGB9yr55ZIp7NJJYft7) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Doxis Edition \(The Mixtape\)](https://open.spotify.com/album/4cBfno1IQkzjdaxScuvxsf) | 4:44 |
 | 21 | [La Ocasión](https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [La Ocasión](https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG) | 5:36 |
 | 22 | [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczt8d1q77fm.md) - [plain]
 | 24 | [5 Star](https://open.spotify.com/track/5B840Ui53HVbqRNJmuZvDF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:32 |
 | 25 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
 
-Snapshot ID: `MCxlNzc0MWIzYThiZmMyOGYwZTQ0YjY5NjFjMDBhMWU3ZWM1NjdmMTJl`
+Snapshot ID: `MCw3YzFlYjMxZDYyYmM5NWVhM2I3ZjQ5YzJlZmIzMjQ5MmNlZWM1ZDk3`

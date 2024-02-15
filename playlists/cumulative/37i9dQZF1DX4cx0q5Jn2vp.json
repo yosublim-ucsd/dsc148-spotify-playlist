@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "",
+  "description": "kailangan pa ba ng valentine's day kung araw-araw ka nasa puso ko...",
   "name": "Kilig Pa More",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 191266,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 244067,
       "name": "Habang Buhay",
       "url": "https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD"
@@ -1365,6 +1365,28 @@
     },
     {
       "album": {
+        "name": "Lahat Ng Bukas",
+        "url": "https://open.spotify.com/album/7flIBguWZI3J5lURZT6Sbk"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        },
+        {
+          "name": "Keanna Mag",
+          "url": "https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201529,
+      "name": "Lahat Ng Bukas",
+      "url": "https://open.spotify.com/track/3s39TR3Iarc2013cuvDGQ7"
+    },
+    {
+      "album": {
         "name": "LANGGA",
         "url": "https://open.spotify.com/album/41IH920y2sDEY2JUrGqcVt"
       },
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM"
@@ -1880,6 +1902,24 @@
       "duration_ms": 227298,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d"
+    },
+    {
+      "album": {
+        "name": "Ni Yao De Ai",
+        "url": "https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250346,
+      "name": "Ni Yao De Ai",
+      "url": "https://open.spotify.com/track/0GiRQNwTZvDFXojuuJaSFg"
     },
     {
       "album": {
@@ -2054,6 +2094,24 @@
       "duration_ms": 207213,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/5wDbCy1UXyCV79jpTm4xyF"
+    },
+    {
+      "album": {
+        "name": "pwede ba kitang ligawan?",
+        "url": "https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135860,
+      "name": "pwede ba kitang ligawan?",
+      "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
     },
     {
       "album": {
@@ -2484,7 +2542,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
@@ -2694,7 +2752,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 168493,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"

@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 42182,
+  "num_followers": 42187,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjkzNTI5ZmE4N2M0ZWM1MzA1MDVmZGUzNzFkMTRjNWNkZjJkM2Iw",
+  "snapshot_id": "MCw0ZTliZTM2YzFhN2EyNDU3MzgwNTRkMDQyZmEyNzIyYjAxNGQzZGY3",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbia Beat Volume 1",
-        "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
-      },
-      "artists": [
-        {
-          "name": "Los Wembler's de Iquitos",
-          "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "Un Silbido Amoroso",
-      "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Caldero",
         "url": "https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 358400,
       "name": "Cigarros y Tragos",
       "url": "https://open.spotify.com/track/6O8QYW20bbKpo4csMPjflw"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cumbia Beat Volume 1",
+        "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
+      },
+      "artists": [
+        {
+          "name": "Los Wembler's de Iquitos",
+          "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
+        }
+      ],
+      "duration_ms": 155013,
+      "name": "Un Silbido Amoroso",
+      "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
     },
     {
       "added_at": "2023-03-28 05:33:43",
@@ -911,22 +911,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Hijo de Tigre",
-        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
+        "name": "Media Hora de Cumbia",
+        "url": "https://open.spotify.com/album/3jV7I7oR1eRf71cU8VN3PP"
       },
       "artists": [
         {
-          "name": "La Cumbia Chicharra",
-          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
-        },
-        {
-          "name": "Emilie Rambaud",
-          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
+          "name": "Agrupacion Ilegal Los Imparciales",
+          "url": "https://open.spotify.com/artist/60NkGg5tp5ElDdKNfhJbMT"
         }
       ],
-      "duration_ms": 356693,
-      "name": "La We\u00e1",
-      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
+      "duration_ms": 297239,
+      "name": "Cumbia Psicodelica (Dub)",
+      "url": "https://open.spotify.com/track/09V3pHWcxfC2Cf00loUtWj"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -943,6 +939,26 @@
       "duration_ms": 221393,
       "name": "La Danza del Petrolero",
       "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Hijo de Tigre",
+        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia Chicharra",
+          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
+        },
+        {
+          "name": "Emilie Rambaud",
+          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
+        }
+      ],
+      "duration_ms": 356693,
+      "name": "La We\u00e1",
+      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -967,18 +983,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Media Hora de Cumbia",
-        "url": "https://open.spotify.com/album/3jV7I7oR1eRf71cU8VN3PP"
+        "name": "Arroz con coco (Remastered)",
+        "url": "https://open.spotify.com/album/211Z7MBXhzAw6xyITuUIj2"
       },
       "artists": [
         {
-          "name": "Agrupacion Ilegal Los Imparciales",
-          "url": "https://open.spotify.com/artist/60NkGg5tp5ElDdKNfhJbMT"
+          "name": "Lucho Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
         }
       ],
-      "duration_ms": 297239,
-      "name": "Cumbia Psicodelica (Dub)",
-      "url": "https://open.spotify.com/track/09V3pHWcxfC2Cf00loUtWj"
+      "duration_ms": 147097,
+      "name": "Arroz con coco - Remastered",
+      "url": "https://open.spotify.com/track/5oRqpLr600Qy8rMypM7foD"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -995,22 +1011,6 @@
       "duration_ms": 242306,
       "name": "Primavera en la Selva",
       "url": "https://open.spotify.com/track/4hLkkCMgDmve1pRdqtHL1R"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Arroz con coco (Remastered)",
-        "url": "https://open.spotify.com/album/211Z7MBXhzAw6xyITuUIj2"
-      },
-      "artists": [
-        {
-          "name": "Lucho Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
-        }
-      ],
-      "duration_ms": 147097,
-      "name": "Arroz con coco - Remastered",
-      "url": "https://open.spotify.com/track/5oRqpLr600Qy8rMypM7foD"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 271613,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/5S1bAi1KLbF0Cho7cB6G2Y"
-    },
-    {
       "added_at": "2022-03-11 03:28:26",
       "album": {
         "name": "Teniente Harina (Cumbia Manifiesto, Pt. 2)",
@@ -1091,6 +1075,22 @@
       "duration_ms": 141882,
       "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
       "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 271613,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/5S1bAi1KLbF0Cho7cB6G2Y"
     },
     {
       "added_at": "2022-02-15 02:15:55",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Legado: Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
-      },
-      "artists": [
-        {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
-        }
-      ],
-      "duration_ms": 156366,
-      "name": "El Pinochito Saltarin",
-      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Nixon en la Playa",
         "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 128684,
       "name": "La Ni\u00f1a Cu\u00e1ntica",
       "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Legado: Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
+      },
+      "artists": [
+        {
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        }
+      ],
+      "duration_ms": 156366,
+      "name": "El Pinochito Saltarin",
+      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
+      "added_at": "2022-11-18 17:45:57",
+      "album": {
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+    },
+    {
       "added_at": "2022-04-09 05:03:37",
       "album": {
         "name": "Diablo",
@@ -1315,22 +1331,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2022-11-18 17:45:57",
-      "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1363,6 +1363,22 @@
       "duration_ms": 213333,
       "name": "Lazalypso",
       "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
+    },
+    {
+      "added_at": "2023-02-28 04:34:35",
+      "album": {
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Very, Very, Well",
-        "url": "https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll"
-      },
-      "artists": [
-        {
-          "name": "Lito Barrientos y su Orquesta",
-          "url": "https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6"
-        }
-      ],
-      "duration_ms": 165664,
-      "name": "Cumbia en do Menor",
-      "url": "https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
         "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
       },
@@ -1429,20 +1429,20 @@
       "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
-      "added_at": "2023-02-28 04:34:35",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+        "name": "Very, Very, Well",
+        "url": "https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll"
       },
       "artists": [
         {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+          "name": "Lito Barrientos y su Orquesta",
+          "url": "https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6"
         }
       ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+      "duration_ms": 165664,
+      "name": "Cumbia en do Menor",
+      "url": "https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "The Roots of Chicha 2",
-        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
-      },
-      "artists": [
-        {
-          "name": "Manzanita",
-          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Paga la Cuenta Sinverguenza",
-      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
-    },
-    {
       "added_at": "2022-09-30 03:44:30",
       "album": {
         "name": "Formose\u00f1a",
@@ -1635,6 +1619,22 @@
       "duration_ms": 246440,
       "name": "Ag\u00fcita de Manantial",
       "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "The Roots of Chicha 2",
+        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
+      },
+      "artists": [
+        {
+          "name": "Manzanita",
+          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Paga la Cuenta Sinverguenza",
+      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
     },
     {
       "added_at": "2021-10-20 15:37:42",

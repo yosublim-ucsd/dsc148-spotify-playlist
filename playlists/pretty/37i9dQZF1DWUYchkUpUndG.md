@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=0sjVWfxTQe6yBJa9p0wMig>Abbey Ojomu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,493 likes - 99 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,508 likes - 99 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 42 | [Trust And Obey](https://open.spotify.com/track/5DfMLXDG8Q2T78XEDu1avD) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Miss Walters](https://open.spotify.com/artist/3J1jZDeGe96n61dhQ7q9hV), [MelisaGotGrace](https://open.spotify.com/artist/2ccIMIxCvapO1nDBI3SzwH) | [Trust And Obey](https://open.spotify.com/album/439FjrdO2UFsOjK5OUFse8) | 3:27 |
 | 43 | [Onise Iyanu](https://open.spotify.com/track/4beqtaxy0o1J1z7tz6y7bJ) | [Victoria Tunde](https://open.spotify.com/artist/55ZRUXQccOx4UT3GFIFU1E), [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB) | [Onise Iyanu](https://open.spotify.com/album/5AuVhKxPvgre8HS2GbCYxL) | 5:57 |
 | 44 | [Call Me Blessed](https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Call Me Blessed](https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud) | 2:25 |
-| 45 | [Lord You Reign](https://open.spotify.com/track/5ZQLqiWXQtZYahdWmsW6Zp) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Lord You Reign](https://open.spotify.com/album/4RaTTMu3prxDgXFPLblcUo) | 3:17 |
+| 45 | [Lord You Reign](https://open.spotify.com/track/5ZQLqiWXQtZYahdWmsW6Zp) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH), [Ufedolove](https://open.spotify.com/artist/62o7Uv2PuIQT5mYS01xh9d) | [Lord You Reign](https://open.spotify.com/album/4RaTTMu3prxDgXFPLblcUo) | 3:17 |
 | 46 | [Ni](https://open.spotify.com/track/4GTOFwdBhi5KyPtpo4Guia) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B) | [Ni](https://open.spotify.com/album/6Lm2WDLu9BNfUQTJfCoJGa) | 3:45 |
 | 47 | [BIG BIG WAY](https://open.spotify.com/track/0XGZvAtlH8kT6NseNoNLA8) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [BIG BIG WAY](https://open.spotify.com/album/2SjuxCBdux4BKazNGcrx7n) | 3:48 |
 | 48 | [Elohim You Are Beautiful](https://open.spotify.com/track/1w2ntFDJY5xjkbtlbLScE7) | [Eljoe onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Elohim You Are Beautiful](https://open.spotify.com/album/7nGpXqp2fHRBUBW5MSFCct) | 4:13 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [Praise You](https://open.spotify.com/track/3OCjr7dR2Gj5G7EDAuNoIy) | [Blessing Oghie](https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn) | [Praise You](https://open.spotify.com/album/0coafqDwin3oqBT1PeRP4C) | 3:52 |
 | 99 | [right on time](https://open.spotify.com/track/76k4FjyawxbCKQB6iZgSz7) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [right on time](https://open.spotify.com/album/5BV4LwixG89LDAmMsXaj5q) | 2:35 |
 
-Snapshot ID: `MCw1MmUxNTIxMTBlMzM3OWQzZThjYmUwZmZiMjg0N2ZjYmViZjgzYjI0`
+Snapshot ID: `MCxkMzc1ZDc0MmE0OTgzOGNiOTEwYzc0MGY4NzMwMzdmNjk4NmY3YzZk`

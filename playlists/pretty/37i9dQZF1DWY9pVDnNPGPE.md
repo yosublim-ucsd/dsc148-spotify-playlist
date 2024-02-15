@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,764 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,767 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 21 | [Can you stay](https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [Can you stay \(From Semantic Error\)](https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU) | 3:02 |
 | 22 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 23 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
-| 24 | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
-| 25 | [I Know](https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf) | [Seunghui](https://open.spotify.com/artist/2pUvBa7S10ktiy75OIsxs3), [Jiho](https://open.spotify.com/artist/5k4usYTOytsTDumir9NDEb), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [START\-UP \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb) | 3:18 |
+| 24 | [I Know](https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf) | [Seunghui](https://open.spotify.com/artist/2pUvBa7S10ktiy75OIsxs3), [Jiho](https://open.spotify.com/artist/5k4usYTOytsTDumir9NDEb), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [START\-UP \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb) | 3:18 |
+| 25 | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
 | 26 | [Alright!](https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Garden](https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ) | 3:04 |
 | 27 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 28 | [Mm Mm \(Prod\. by Cosmic Boy\)](https://open.spotify.com/track/5FQZK2QsHAnu6i2tHpbwpP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw) | 2:46 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 37 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
 | 38 | [Je N'aime Que Toi](https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N'aime Que Toi](https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd) | 3:16 |
 | 39 | [DA DA!](https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 2:54 |
-| 40 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 |
-| 41 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 |
+| 40 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 |
+| 41 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 |
 | 42 | [SummerSweet](https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU) | 2:30 |
 | 43 | [Alone](https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:41 |
 | 44 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 49 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
 | 50 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 |
 
-Snapshot ID: `MCw4Mzg2ZDY4NjExNmIyNDFkNTBkODkzNjZlZjliMTY3OTQwMjk5ZmIx`
+Snapshot ID: `MCwzNmM5ZDc4NmYxOTA3Y2I4OTQ1N2YzNDA0YWEyZDc5YWI2MzY4OTIy`

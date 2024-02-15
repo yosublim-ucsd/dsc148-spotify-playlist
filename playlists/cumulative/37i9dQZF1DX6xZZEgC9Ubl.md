@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-921 songs - 1 day 17 hr 45 min
+923 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Holding On](https://open.spotify.com/track/6CN7FuZ7o1xle9TNxApGeQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Holding On](https://open.spotify.com/album/7CIDA4a6EIj1k88sln1tKl) | 2:06 | 2020-12-13\* | 2022-04-23 |
 | [Holding On](https://open.spotify.com/track/4yePx3vjQVM5gPmbYBEnSc) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Holding On](https://open.spotify.com/album/2lubPCgx6xQH6n9x4qVzFk) | 3:11 | 2023-08-04 |  |
 | [Hollywood](https://open.spotify.com/track/6feMlyAvbHdATEoY7Y3aXk) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Hollywood](https://open.spotify.com/album/7s17WGsNLykas9aE8F8FFH) | 2:45 | 2022-07-01 | 2022-07-23 |
+| [Hollywood Dreaming](https://open.spotify.com/track/6XfwGXSf180uhTlUn7cczH) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Gab3](https://open.spotify.com/artist/0Yt7UjpW2AJojjZrgGysUl) | [Hollywood Dreaming](https://open.spotify.com/album/6fULyBvbyfvtMTfQqJFuaO) | 2:05 | 2024-02-14 |  |
 | [Holographic](https://open.spotify.com/track/5hXz8mmUh5Sz2pyecHRFEf) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Holographic](https://open.spotify.com/album/4p8JCzCQbFcou9iavDEOmO) | 2:49 | 2021-02-02 | 2021-02-27 |
 | [Holy Smokes](https://open.spotify.com/track/3EpF150nXMSNjiH0bbmXIL) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Holy Smokes \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0TysZSXUKnqnQMeY40eaqg) | 3:01 | 2021-07-17 | 2021-08-03 |
 | [homesick](https://open.spotify.com/track/0YzlJHWcXUvbVcwglKY2CB) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [homesick](https://open.spotify.com/album/1qC227PmAT4jsgURUWtTUm) | 2:58 | 2022-01-14 | 2022-04-05 |
@@ -462,6 +463,7 @@
 | [life waster](https://open.spotify.com/track/6TCKkbyGVo5uvTEfJvkcE3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [life waster](https://open.spotify.com/album/3v3XnEkDxBDcRQhXy02e2Q) | 2:21 | 2022-06-03 | 2022-08-06 |
 | [Life's A Mess \(feat\. Halsey\)](https://open.spotify.com/track/4h5N4KyWZMtpeH9vhXSXjd) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 3:22 | 2021-01-15 | 2021-07-01 |
 | [Life's A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 | 2021-03-06 | 2022-07-29 |
+| [LIKE THAT](https://open.spotify.com/track/0vMV2iLBNdLDB9ir2mOfdW) | [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [LIKE THAT](https://open.spotify.com/album/7vwSC0DEgRSCP81lMUhMw5) | 3:06 | 2024-02-14 |  |
 | [Lithromantic](https://open.spotify.com/track/27ttJZEvVuAYy7USdob8Gs) | [weeklyn](https://open.spotify.com/artist/70dC1Y9HyCqgdtSTAzMbWw), [Crymode](https://open.spotify.com/artist/0PzKxurt3mnHw8VehwNrrg) | [Lithromantic](https://open.spotify.com/album/0jAw8V8pCWyXdNUygYn2xV) | 3:08 | 2021-08-30 | 2022-07-29 |
 | [LONELY STAR](https://open.spotify.com/track/32l1LuAKdR0O1XwERz2Lko) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [LONELY STAR](https://open.spotify.com/album/6tx2Djeb0TbrOD6EsIEcZm) | 3:00 | 2021-12-03 | 2022-07-29 |
 | [Losing Interest](https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Dibyo](https://open.spotify.com/artist/4GOxZH5EE1JMHO0z8QiW4t) | [Missing](https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu) | 2:00 | 2022-06-10 | 2023-09-02 |

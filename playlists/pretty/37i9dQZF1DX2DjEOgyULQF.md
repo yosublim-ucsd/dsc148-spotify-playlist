@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain](/playlists/plain/37i9dQZF1DX2DjEOgyULQF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2DjEOgyULQF)
 
-### [Nature Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX2DjEOgyULQF)
+### [Relajación natural](https://open.spotify.com/playlist/37i9dQZF1DX2DjEOgyULQF)
 
-> Ambient with the soothing sounds of water, rain and birds.
+> Música ambient con sonidos relajantes de agua, lluvia y aves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,421 likes - 146 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,576 likes - 146 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 145 | [Wisdom \- Gentle Ocean](https://open.spotify.com/track/5bhXeDbBHVK7Wof82isDD7) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:28 |
 | 146 | [Wisdom \- Gentle Forest](https://open.spotify.com/track/45hvuICHf2TG5iS3IQCh2S) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:26 |
 
-Snapshot ID: `MCxhYWNiMDFmNjA1ODc5Y2I1ZmUwMWFkNjM5YzY3N2E1MTA2ZDM1ZDNh`
+Snapshot ID: `MCwyM2M4YjgyMjgwNzFlMzczNmQxNWQzZjgyNjhiZTZhYzUyNTI0MmRh`

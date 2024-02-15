@@ -4,7 +4,7 @@
 
 > Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
-149 songs - 7 hr 51 min
+151 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-28 | 2023-09-16 |
 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 | 2023-07-26 | 2024-01-05 |
 | [OOPS](https://open.spotify.com/track/0h5iRnyKnCJKUiYK6FGcOZ) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [OOPS](https://open.spotify.com/album/4aXCiLc9rfJi4laU49oVnz) | 2:23 | 2023-07-26 | 2023-08-14 |
-| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-10-13 |  |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-10-13 | 2024-02-15 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-26 | 2023-09-26 |
 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 | 2023-08-18 | 2023-10-21 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-07-26 | 2023-11-11 |
@@ -124,6 +124,8 @@
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-07-26 |  |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2023-07-26 |  |
 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 |  |
+| [Somebody Like You](https://open.spotify.com/track/1UPnkXDiS0y6tjmUdNQqvx) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:20 | 2024-02-09 |  |
 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 | 2023-09-15 | 2024-02-08 |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-17 |  |
 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 | 2023-07-26 | 2023-11-11 |
@@ -145,7 +147,7 @@
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2023-10-20 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 |  |
 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 | 2024-02-01 |  |
-| [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 | 2023-10-13 |  |
+| [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 | 2023-10-13 | 2024-02-15 |
 | [vielleicht in einem jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [vielleicht in einem jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 | 2023-07-26 | 2023-08-26 |
 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 | 2023-08-18 | 2023-10-22 |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2023-10-27 |  |

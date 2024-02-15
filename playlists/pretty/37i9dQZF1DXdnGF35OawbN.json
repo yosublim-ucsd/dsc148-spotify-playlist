@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack del verano 2024 \ud83c\udfdd\ufe0f Cover: KAROL G",
-  "num_followers": 3721156,
+  "num_followers": 3721159,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmQ0OTA1Zjk1M2I5MTNjZTM1ODQ4NzRkZDZkNmU2NmI0YWNlOWFi",
+  "snapshot_id": "MCxjODNhY2E5MjE0NTQyYWU3YzMwNmVkYWM0MDE4MTBiZmEzYjhjYWI4",
   "tracks": [
     {
       "added_at": "2024-01-25 23:19:11",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-01-25 23:19:11",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "bad idea right?",
-      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2024-01-25 23:19:11",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
     },
     {
       "added_at": "2024-01-25 23:19:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-01-25 23:19:11",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
+      "added_at": "2024-01-25 23:19:11",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2024-01-25 23:19:11",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-01-25 23:19:11",
       "album": {
-        "name": "Shorty Party",
-        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "La Kelly",
-          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Shorty Party",
-      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
         "name": "Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+    },
+    {
+      "added_at": "2024-01-25 23:19:11",
+      "album": {
+        "name": "Shorty Party",
+        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "La Kelly",
+          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Shorty Party",
+      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
     },
     {
       "added_at": "2024-01-25 23:19:11",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-01-25 23:19:11",
       "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+    },
+    {
+      "added_at": "2024-01-25 23:19:11",
+      "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
     },
     {
       "added_at": "2024-01-25 23:19:11",

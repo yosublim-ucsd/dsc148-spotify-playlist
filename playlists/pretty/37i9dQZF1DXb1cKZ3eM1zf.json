@@ -1,12 +1,12 @@
 {
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2024",
-  "num_followers": 49800,
+  "num_followers": 49799,
   "original_name": "Pinkpop Best of - 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzc4NWQwYzYzZDJkODAwODZlZTIyNTFkZGI5NWVlMzg3ODdhMjAy",
+  "snapshot_id": "MCxlZTViMzEwMjNlZmU4ZGY2MDA1OGQzYmY3MGNjNmJjYzE0N2Q4OGM1",
   "tracks": [
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "On How Life Is",
-        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Whoa, Nelly! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "On How Life Is",
+        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1582,18 +1582,6 @@
         {
           "name": "Fugees",
           "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
         }
       ],
       "duration_ms": 226986,
@@ -2035,22 +2023,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -2063,6 +2035,22 @@
       "duration_ms": 190173,
       "name": "Lifestyles of the Rich & Famous",
       "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2203,6 +2191,22 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 259959,
+      "name": "Metalingus",
+      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -2231,22 +2235,6 @@
       "duration_ms": 265666,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/1sEDn0QkcjWGVoti0Da4kA"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "Metalingus",
-      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2287,22 +2275,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289453,
-      "name": "Alive And Kicking",
-      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
       },
@@ -2315,6 +2287,22 @@
       "duration_ms": 171693,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289453,
+      "name": "Alive And Kicking",
+      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2383,6 +2371,22 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
+        "name": "Era Vulgaris",
+        "url": "https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Make It Wit Chu",
+      "url": "https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
@@ -2431,22 +2435,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Era Vulgaris",
-        "url": "https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Make It Wit Chu",
-      "url": "https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -2463,18 +2451,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
         }
       ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+      "duration_ms": 187533,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
     }
   ],
   "unique_name": "Pinkpop Best of - 2024",

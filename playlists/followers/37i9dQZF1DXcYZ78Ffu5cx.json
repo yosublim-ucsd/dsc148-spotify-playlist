@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 10362,
+  "2024-02-15": 10379,
   "date_first_scraped": "2023-06-02",
   "description": "music, waves, friends and a good time.",
   "name": "Fiesta en Bote",
@@ -65,6 +65,24 @@
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
+    },
+    {
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "album": {
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 182293,
       "name": "Mi Vecinita",
       "url": "https://open.spotify.com/track/18DmZ510OB9XATcFbQ8vDZ"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 181076,
       "name": "Se Cans\u00f3",
       "url": "https://open.spotify.com/track/7wAgHMlG5DyyElIfBAjyQk"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 303106,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"

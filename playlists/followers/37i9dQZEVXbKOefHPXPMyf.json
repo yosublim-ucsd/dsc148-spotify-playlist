@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 17860,
+  "2024-02-15": 17861,
   "date_first_scraped": "2022-01-10",
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
@@ -5389,7 +5389,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
@@ -8919,7 +8919,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 158643,
       "name": "Dejame Saber",
       "url": "https://open.spotify.com/track/7Djet6Q24R8EtzzBdPcmiA"
@@ -10991,7 +10991,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 149424,
       "name": "El Rey De La Rapidas",
       "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
@@ -12388,6 +12388,24 @@
     },
     {
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
       },
@@ -12475,7 +12493,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 200735,
       "name": "Felicidad (De la serie 'Berlin' de Netflix)",
       "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
@@ -14184,6 +14202,24 @@
     },
     {
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
         "name": "GRL GVNG",
         "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
       },
@@ -14555,6 +14591,44 @@
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Hell\u2019s Greatest Dad",
+      "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
     },
     {
       "album": {
@@ -18812,6 +18886,28 @@
     },
     {
       "album": {
+        "name": "Lo Intent\u00e9",
+        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199139,
+      "name": "Lo Intent\u00e9",
+      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
+    },
+    {
+      "album": {
         "name": "Vikorg",
         "url": "https://open.spotify.com/album/2s1lH466ICjtzwgCDljKQK"
       },
@@ -19375,6 +19471,24 @@
       "duration_ms": 316280,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"
+    },
+    {
+      "album": {
+        "name": "Love wins all",
+        "url": "https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271080,
+      "name": "Love wins all",
+      "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
     },
     {
       "album": {
@@ -24219,7 +24333,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
@@ -33017,7 +33131,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
@@ -37811,7 +37925,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
@@ -38077,7 +38191,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
@@ -38555,6 +38669,48 @@
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Shoba Narayan",
+          "url": "https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj"
+        },
+        {
+          "name": "Patina Miller",
+          "url": "https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188677,
+      "name": "You Didn\u2019t Know",
+      "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
     },
     {
       "album": {

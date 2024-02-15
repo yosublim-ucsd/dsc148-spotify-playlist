@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,840 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,868 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 35 | [A Mistake](https://open.spotify.com/track/0w7XPnFp1jA7w7C8t89zJi) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:56 |
 | 36 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
 | 37 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 |
-| 38 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
-| 39 | [Hunned Bandz](https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP) | 2:48 |
+| 38 | [Hunned Bandz](https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP) | 2:48 |
+| 39 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
 | 40 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
 | 41 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
 | 42 | [Weird Girl](https://open.spotify.com/track/1HVDJhXoyZumT5sezqpkvA) | [Mommy Long Legs](https://open.spotify.com/artist/1cZJetf4bkK5CE3VeU18h0) | [Assholes](https://open.spotify.com/album/5Nd64Y626QAncRetjqNc5H) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [GOOD GRIEF](https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 2:58 |
 | 50 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
 
-Snapshot ID: `MCxmMTc0MWRhNmU0MmY3NTZlNjMyMWYwMmY0NjY3ZWMwZGNhMGQ2NWU4`
+Snapshot ID: `MCxhNmY5NDUzYmYyYzU1ZTc4ZmFiMWFlNWQ1YmNlMjlkYWUxMzM0OTk1`

@@ -1,12 +1,12 @@
 {
   "description": "me acuerdo del d\u00eda que del dinero yo me enamor\u00e9 \ud83d\udcb8\ud83d\udcb0\ud83d\udcb8 con Eladio Carrion en la portada",
-  "num_followers": 9127,
+  "num_followers": 9186,
   "original_name": "mi primera chamba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWVlMzQ4ZDFhMWIyZTY5ZjczODQ3OTFmZTAxZDZlNDJhN2JhMjBi",
+  "snapshot_id": "MCxhNjZkNDA2NWFiMDY2ZTJlOGVjYTNhY2U1NzRiNWVmMGI3M2M1MmRh",
   "tracks": [
     {
       "added_at": "2023-11-16 21:52:17",
@@ -171,26 +171,6 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 220116,
-      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
-      "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 220116,
+      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+      "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
     },
     {
       "added_at": "2023-11-16 21:52:17",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
     },
     {
       "added_at": "2023-11-16 21:52:17",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "PORFA",
-      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
         "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
         "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 143291,
       "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
       "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "PORFA",
+      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
     },
     {
       "added_at": "2023-11-16 21:52:17",

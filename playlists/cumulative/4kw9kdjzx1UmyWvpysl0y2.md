@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-657 songs - 1 day 14 hr 3 min
+658 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Hope](https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Hope](https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT) | 3:20 | 2022-08-10 | 2022-10-21 |
 | [Hopeful](https://open.spotify.com/track/6D94kYTNC5WWi218Xi6K6Q) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Hopeful](https://open.spotify.com/album/4Y4QTmcND8jyE7zCKuRL7b) | 3:51 | 2022-10-07 | 2022-12-08 |
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
+| [Hypnosis](https://open.spotify.com/track/2Gcufl4PVGv384tmFpi6QS) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Hypnosis](https://open.spotify.com/album/0i4UodNeG7dNTr0QfjoDPE) | 3:18 | 2024-02-14 |  |
 | [i can feel your eyes on me](https://open.spotify.com/track/3R1lKIXCkHnzKvHkBtdRhP) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:23 | 2022-12-03 | 2023-02-25 |
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |
 | [I Love You](https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [I Love You](https://open.spotify.com/album/4mk78tvVOFI787pk2SsYMs) | 3:02 | 2022-09-16 | 2022-11-15 |
@@ -374,7 +375,7 @@
 | [Mirrors](https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [BELELA](https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62) | [Mirrors](https://open.spotify.com/album/5NoNQjHMRQ0bmO2BfOoxv1) | 3:21 | 2022-07-26 | 2022-10-07 |
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-01 | 2022-09-17 |
 | [Moment \- Worlds Version](https://open.spotify.com/track/7wfquD5DrEBAqqZEXJoJa2) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V), [Isaac App](https://open.spotify.com/artist/2OSFdgs18suoiLJWRcqiEy) | [Moment \(Worlds Version\)](https://open.spotify.com/album/7jLueD1XaPlGgP6NSogvXx) | 3:07 | 2022-08-01 | 2022-10-19 |
-| [Money Moves](https://open.spotify.com/track/3suSF65zOkTbdxe4Rqq4fl) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [Clique / Money Moves](https://open.spotify.com/album/0e6cA2frdBLzNMXHqGRjvX) | 2:43 | 2023-11-01 |  |
+| [Money Moves](https://open.spotify.com/track/3suSF65zOkTbdxe4Rqq4fl) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [Clique / Money Moves](https://open.spotify.com/album/0e6cA2frdBLzNMXHqGRjvX) | 2:43 | 2023-11-01 | 2024-02-15 |
 | [Monster](https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Monster](https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0) | 3:04 | 2022-09-15 | 2022-11-12 |
 | [Moonstone](https://open.spotify.com/track/2QWxkFKhi9YUtrQmf9JHxU) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Moonstone](https://open.spotify.com/album/4kcRF7VJVx69pJXecrPDyi) | 3:20 | 2023-03-14 | 2023-06-08 |
 | [More Than This](https://open.spotify.com/track/7JKzCzNua4DT4lBMPrchUI) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [More Than This](https://open.spotify.com/album/0RrkXtaPZqAAJnU4fGZ4Y8) | 3:37 | 2023-01-06 | 2023-03-22 |

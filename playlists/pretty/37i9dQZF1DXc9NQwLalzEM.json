@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 192892,
+  "num_followers": 192904,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzQxM2FhNjJjOTcyYTNlMTJlYmU5NzQ3MDljMjkxMTYyOGMzMzg1",
+  "snapshot_id": "MCxiMjlmMWYxNWVmMjhlMmRkOTYzNTY4YzI5MTIzOWVhNjBhMjEzZTRj",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "You Can Count On Me",
-        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
+        "name": "Young, Tough And Terrible",
+        "url": "https://open.spotify.com/album/4B1BWIoETGx6guwhJVp8zP"
       },
       "artists": [
         {
-          "name": "Mel Carter",
-          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
+          "name": "The Lost Generation",
+          "url": "https://open.spotify.com/artist/3GyivO62GLk3C8DqfawQwV"
         }
       ],
-      "duration_ms": 196520,
-      "name": "You Can Count On Me",
-      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
+      "duration_ms": 214893,
+      "name": "This Is The Lost Generation",
+      "url": "https://open.spotify.com/track/2kLALLtckvLqjGD50PGNNy"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Young, Tough And Terrible",
-        "url": "https://open.spotify.com/album/4B1BWIoETGx6guwhJVp8zP"
+        "name": "You Can Count On Me",
+        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
       },
       "artists": [
         {
-          "name": "The Lost Generation",
-          "url": "https://open.spotify.com/artist/3GyivO62GLk3C8DqfawQwV"
+          "name": "Mel Carter",
+          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
         }
       ],
-      "duration_ms": 214893,
-      "name": "This Is The Lost Generation",
-      "url": "https://open.spotify.com/track/2kLALLtckvLqjGD50PGNNy"
+      "duration_ms": 196520,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Essential MFSB",
-        "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
-      },
-      "artists": [
-        {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        }
-      ],
-      "duration_ms": 250773,
-      "name": "My Mood",
-      "url": "https://open.spotify.com/track/6MdCS3louSciZtWoE9tfVI"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Soul Clan",
         "url": "https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 165200,
       "name": "Baby Make Me Feel So Good",
       "url": "https://open.spotify.com/track/0wSvnAFcmkeP9gU5L6RRjQ"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Essential MFSB",
+        "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        }
+      ],
+      "duration_ms": 250773,
+      "name": "My Mood",
+      "url": "https://open.spotify.com/track/6MdCS3louSciZtWoE9tfVI"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Masters Series: 70's Soul Vol. 2",
-        "url": "https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN"
-      },
-      "artists": [
-        {
-          "name": "Al Matthews",
-          "url": "https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Cellarful Of Motown! (Vol. 2)",
         "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 176533,
       "name": "Every Time I See You, I Go Wild!",
       "url": "https://open.spotify.com/track/0DElF1k1KEGkRcMtQcHOYH"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Masters Series: 70's Soul Vol. 2",
+        "url": "https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN"
+      },
+      "artists": [
+        {
+          "name": "Al Matthews",
+          "url": "https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Lift This Hurt b/w You're Being Unfair",
-        "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
-      },
-      "artists": [
-        {
-          "name": "Elvin Spencer",
-          "url": "https://open.spotify.com/artist/6qU8k346Etf0hHeYaAoxk1"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Lift This Hurt",
-      "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Eccentric Soul: Twinight's Lunar Rotation",
         "url": "https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 137077,
       "name": "Baby I've Got It",
       "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Lift This Hurt b/w You're Being Unfair",
+        "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
+      },
+      "artists": [
+        {
+          "name": "Elvin Spencer",
+          "url": "https://open.spotify.com/artist/6qU8k346Etf0hHeYaAoxk1"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Lift This Hurt",
+      "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
-      },
-      "artists": [
-        {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "City of Brotherly Love",
-      "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Dave Hamilton's Detroit Dancers",
         "url": "https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 183360,
       "name": "Heavenly Thing",
       "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+      },
+      "artists": [
+        {
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "City of Brotherly Love",
+      "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Solid Sender - MotownSelect.com",
-        "url": "https://open.spotify.com/album/6cwHIvLhEj4X9hY67ucqNI"
-      },
-      "artists": [
-        {
-          "name": "Chico Leverett",
-          "url": "https://open.spotify.com/artist/3BwLzYfk9PWQyUTLJ0xYc2"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Solid Sender - Single Version",
-      "url": "https://open.spotify.com/track/0C2nCE9diyaGWZFlBl2Pnx"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "True Love - MotownSelect.com",
         "url": "https://open.spotify.com/album/0bF0RwQWHCtemt4HjXrWfj"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 130826,
       "name": "True Love - Single Version",
       "url": "https://open.spotify.com/track/3zrKt6uyBYjU2flFH4t5A7"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Solid Sender - MotownSelect.com",
+        "url": "https://open.spotify.com/album/6cwHIvLhEj4X9hY67ucqNI"
+      },
+      "artists": [
+        {
+          "name": "Chico Leverett",
+          "url": "https://open.spotify.com/artist/3BwLzYfk9PWQyUTLJ0xYc2"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Solid Sender - Single Version",
+      "url": "https://open.spotify.com/track/0C2nCE9diyaGWZFlBl2Pnx"
     },
     {
       "added_at": "2022-05-11 12:29:38",

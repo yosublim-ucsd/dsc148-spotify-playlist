@@ -8,6 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["Il y a"](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 | 2023-12-07 |  |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-17 | 2023-10-27 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2023-07-27 | 2023-09-22 |
 | [5 AM](https://open.spotify.com/track/2vZ8h5CXVsOlClCXj89DDW) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [5 AM](https://open.spotify.com/album/6vyHKqHP0VDK8v5lWeLefY) | 3:05 | 2023-10-05 | 2023-12-09 |
@@ -74,7 +75,6 @@
 | [HORIZON](https://open.spotify.com/track/5RwpbhPihTkwqLWldaMTE1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/2qyAcVIZv3wwnmAUOIXInf) | 3:12 | 2023-07-27 | 2023-08-18 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-23 |  |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 | 2024-02-01 |  |
-| [Il y a](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 | 2023-12-07 |  |
 | [In The Stars \- French Version](https://open.spotify.com/track/0GucRM0BPRGxuzYPN3tF6T) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In The Stars \(French Version\)](https://open.spotify.com/album/2VmbPgtq2R4rqZbZQjWD3u) | 2:56 | 2023-07-27 | 2023-10-27 |
 | [Insomnies \- Alternative version](https://open.spotify.com/track/0R9CHXARoc0sX0FgQctIDd) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Insomnies \(Alternative version\)](https://open.spotify.com/album/7uFpQNvHDCvAMWLppQBAqy) | 3:00 | 2023-08-03 | 2023-10-06 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-12-14 |  |

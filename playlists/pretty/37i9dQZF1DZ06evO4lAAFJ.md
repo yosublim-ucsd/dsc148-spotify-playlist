@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,636 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,692 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 48 | [LA KILIÉ](https://open.spotify.com/track/1xtfUae857RhiCclSlAOIV) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:11 |
 | 49 | [AISLAMIENTO](https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:26 |
 
-Snapshot ID: `Mjg0NjM3ODUsMDAwMDAwMDAzNGRiMWZiOWE4YTVkNmUyYjY5MjUxNTA4MzRkNDNkZg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAyZGZkNGI4YjI0NmQwZDY3YzY4ZWRmYWMzOTVhMjMzMQ==`

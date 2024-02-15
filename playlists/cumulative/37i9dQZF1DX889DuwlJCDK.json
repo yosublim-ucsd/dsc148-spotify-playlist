@@ -2969,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Kimi ni Mita Kisetsu",
+        "url": "https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "Oujitsu",
+      "url": "https://open.spotify.com/track/7l1U8t0MjRDFkQyJuTP6rJ"
+    },
+    {
+      "album": {
         "name": "Our Place",
         "url": "https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD"
       },
@@ -3128,6 +3146,24 @@
       "duration_ms": 191000,
       "name": "Player",
       "url": "https://open.spotify.com/track/7pCPywA8iN4WVJdNcPXOSL"
+    },
+    {
+      "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "Prepare Yourself!",
+      "url": "https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz"
     },
     {
       "album": {
@@ -7592,7 +7628,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 222933,
       "name": "\u5f80\u65e5",
       "url": "https://open.spotify.com/track/2r73737Z4jWYKizwA2px9u"
@@ -8874,7 +8910,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P"

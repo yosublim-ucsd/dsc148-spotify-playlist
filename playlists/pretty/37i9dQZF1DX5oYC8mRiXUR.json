@@ -1,12 +1,12 @@
 {
   "description": "No dust was found after cleaning to this playlist.",
-  "num_followers": 659191,
+  "num_followers": 659172,
   "original_name": "Cleaning Kit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzlkZWIwZTU5MWMzOTkxMGZmMzU0M2Y1YmNhNjZlYjM0OGQ5Zjg2",
+  "snapshot_id": "MCxiMjJkODIzNGUwZGRmNjNlYTc2M2Y5ZDU2N2ZlMTYxZmM5NzcyYmIw",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 229360,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -431,22 +435,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 229360,
-      "name": "Time of Our Lives",
-      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 223080,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -1595,18 +1611,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
       "artists": [
         {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1627,26 +1647,6 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1703,30 +1703,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Pantysito",
-        "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Pantysito",
-      "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1747,6 +1723,30 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Pantysito",
+        "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Pantysito",
+      "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1807,18 +1807,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1847,22 +1851,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
@@ -2327,18 +2343,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+        "name": "Queremos Rock",
+        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
       },
       "artists": [
         {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
         }
       ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+      "duration_ms": 224224,
+      "name": "Ya Lo Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2359,22 +2375,6 @@
       "duration_ms": 210093,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Queremos Rock",
-        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        }
-      ],
-      "duration_ms": 224224,
-      "name": "Ya Lo Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA"
     },
     {
       "added_at": "2023-11-17 05:00:00",

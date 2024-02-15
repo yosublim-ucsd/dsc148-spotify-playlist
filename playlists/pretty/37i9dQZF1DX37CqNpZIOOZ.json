@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 22171,
+  "num_followers": 22177,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWViZmU4YjU1M2ZlNzlhNmY2NmRmZTA3YzQ2ODhkYjhjNjRkNWI1",
+  "snapshot_id": "MCw1OTkzYjJhYWNjN2JlY2Q0M2YxNzg2MjJmOTJjYmM1OGY2MTQ5MTdi",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -595,34 +595,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
-        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Lise Davidsen",
-          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
-      "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Don Quixote / Romance for Cello and Orchestra",
         "url": "https://open.spotify.com/album/7LJ0xREZmgCSt8r1Z4cb2F"
       },
@@ -647,6 +619,34 @@
       "duration_ms": 596640,
       "name": "Romanze in F Major, TrV 118: Romance for Cello and Orchestra",
       "url": "https://open.spotify.com/track/5GsKhvtc4KHo9cwf58lpHi"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
+        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
+      "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -707,34 +707,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
-        "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Julia Varady",
-          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
-        },
-        {
-          "name": "Bamberg Symphony",
-          "url": "https://open.spotify.com/artist/7qs9lBPZgZzLAYAWfHLAll"
-        },
-        {
-          "name": "Dietrich Fischer-Dieskau",
-          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
-        }
-      ],
-      "duration_ms": 270240,
-      "name": "Die Liebe der Danae, Op. 83, TrV 278: Wie ungibst du mich mit frieden",
-      "url": "https://open.spotify.com/track/1aOVTTniKZA9cIOq6DBKLi"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
       },
@@ -759,6 +731,34 @@
       "duration_ms": 266160,
       "name": "4 Letzte Lieder, TrV 296: No. 2, September",
       "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
+        "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Julia Varady",
+          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
+        },
+        {
+          "name": "Bamberg Symphony",
+          "url": "https://open.spotify.com/artist/7qs9lBPZgZzLAYAWfHLAll"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+        }
+      ],
+      "duration_ms": 270240,
+      "name": "Die Liebe der Danae, Op. 83, TrV 278: Wie ungibst du mich mit frieden",
+      "url": "https://open.spotify.com/track/1aOVTTniKZA9cIOq6DBKLi"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -867,30 +867,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
-        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Weimar Staatskapelle",
-          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 364893,
-      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
-      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 265000,
       "name": "Alphorn, o. Op.",
       "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
+        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Weimar Staatskapelle",
+          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 364893,
+      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
+      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -991,54 +991,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
-        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "duration_ms": 348533,
-      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
-      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/4x850YHmpioj4WsUwiaduE"
       },
@@ -1091,6 +1043,54 @@
       "duration_ms": 421200,
       "name": "Ariadne auf Naxos, Op. 60 / Opera: Ein Sch\u00f6nes war: hiess Theseus - Ariadne",
       "url": "https://open.spotify.com/track/4HFqlyxdEybDTBMTlR3ETW"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
+        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "duration_ms": 348533,
+      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
+      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Songs of Love and Death",
-        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Hilko Dumno",
-          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "8 Gedichte aus Letzte Blatter, Op. 10, TrV 141: No. 8. Allerseelen",
-      "url": "https://open.spotify.com/track/5DjbLzDmbP21ZVgCtvWY1J"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: 3 Hymns - Opera arias",
         "url": "https://open.spotify.com/album/5g5pDsEAVjQvO6WdAxQehK"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 522960,
       "name": "3 Hymnen von Friedrich Holderlin, Op. 71, TrV 240: No. 1. Hymne an die Liebe",
       "url": "https://open.spotify.com/track/2GcpNElIe6a5nUCcXujryB"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Songs of Love and Death",
+        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Hilko Dumno",
+          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "8 Gedichte aus Letzte Blatter, Op. 10, TrV 141: No. 8. Allerseelen",
+      "url": "https://open.spotify.com/track/5DjbLzDmbP21ZVgCtvWY1J"
     },
     {
       "added_at": "2022-06-20 09:55:21",

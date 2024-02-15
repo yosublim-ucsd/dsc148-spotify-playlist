@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,693 likes - 47 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,703 likes - 47 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 7 | [You're So Last Summer \- Remastered](https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:01 |
 | 8 | [Tidal Wave](https://open.spotify.com/track/1LX0mHhWjzv03627Qi80Qd) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 2:32 |
 | 9 | [Set Phasers To Stun](https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:03 |
-| 10 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
+| 10 | [What's It Feel Like To Be A Ghost?](https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:47 |
 | 11 | [Timberwolves At New Jersey \- Remastered](https://open.spotify.com/track/1JFPraHovseDzutd6BOIry) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:25 |
 | 12 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
 | 13 | [This Photograph Is Proof \(I Know You Know\)](https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:11 |
-| 14 | [What's It Feel Like To Be A Ghost?](https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:47 |
+| 14 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 15 | [There's No 'I' In Team \- Remastered](https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:48 |
 | 16 | [The One](https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:17 |
 | 17 | [Number Five With A Bullet](https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:49 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 46 | [Capital M\-E](https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 2:48 |
 | 47 | [Everything Must Go](https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 4:44 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAzZmU5YTJiYzU1Zjg4MDMxODJiNDdjZWRkMjdjYjk2OA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAyZmEyOTQ1ZDQwMTI5NzEyNzIzYTdjYjA4OGVkYzg5Zg==`

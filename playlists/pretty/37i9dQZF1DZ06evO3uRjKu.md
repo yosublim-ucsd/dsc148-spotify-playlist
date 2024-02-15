@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,651 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,674 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Solo Es Otro Sabado](https://open.spotify.com/track/6ihRQHClQC49RuYNiTTbFH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 2:42 |
 | 50 | [La Puñalada](https://open.spotify.com/track/63ZtQzrp4WNK6uYggoza7K) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:05 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA3YWRiMWM3ZjlmMzZmYmQ4Y2JiOGU5MDBjZDQ0MDBmZg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA0YzM0YjAxZWI5M2Y1YzIxMGUxOTZlNzdmYzM4YWUzNw==`

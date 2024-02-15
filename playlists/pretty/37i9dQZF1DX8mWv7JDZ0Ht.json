@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Nairo",
-  "num_followers": 433707,
+  "num_followers": 433724,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTdlNmM4YTc2N2ZhN2EzOTQ2Y2UzZTI4MmNiNGZlODMwNzI4ZDYz",
+  "snapshot_id": "MCw5MGI3YjFmMmRjZmZiMDczYjgxNDkwMGU5OThlYzYyY2EzODZjYzJh",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Carinha De Problema",
         "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 163258,
       "name": "Carinha De Problema",
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 169250,
       "name": "Cortejo",
       "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "LIVRE",
-        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
-      },
-      "artists": [
-        {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
-        }
-      ],
-      "duration_ms": 195989,
-      "name": "S\u00f3 Respira",
-      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Pecadinho",
         "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 126000,
       "name": "Pecadinho",
       "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "LIVRE",
+        "url": "https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        }
+      ],
+      "duration_ms": 195989,
+      "name": "S\u00f3 Respira",
+      "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -587,22 +587,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "T\u00f4 te olhando",
-        "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
       },
       "artists": [
         {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
         }
       ],
-      "duration_ms": 150306,
-      "name": "T\u00f4 te olhando",
-      "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -639,18 +635,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+        "name": "T\u00f4 te olhando",
+        "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
       },
       "artists": [
         {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 142750,
-      "name": "Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
+      "duration_ms": 150306,
+      "name": "T\u00f4 te olhando",
+      "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Quando isso vai passar?",
         "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "que se fosse",
-        "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
       "artists": [
         {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 139666,
-      "name": "que se fosse",
-      "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 167424,
       "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "que se fosse",
+        "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "que se fosse",
+      "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Ai, Que Calor",
-        "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ai, Que Calor",
-      "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "calma na alma",
         "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 149285,
       "name": "calma na alma",
       "url": "https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Ai, Que Calor",
+        "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ai, Que Calor",
+      "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "\u00c9 Sobre Isso",
-        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
+        "name": "Cultivar (Deluxe)",
+        "url": "https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS"
       },
       "artists": [
         {
-          "name": "Ferri",
-          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 195141,
-      "name": "\u00c9 Sobre Isso",
-      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
+      "duration_ms": 128427,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "\u00c9 Sobre Isso",
+        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
+      },
+      "artists": [
+        {
+          "name": "Ferri",
+          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
+        }
+      ],
+      "duration_ms": 195141,
+      "name": "\u00c9 Sobre Isso",
+      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Lindo Dom",
         "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 193842,
       "name": "Lindo Dom",
       "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Cultivar (Deluxe)",
-        "url": "https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 128427,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Dan\u00e7ando na Beira",
+        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Dan\u00e7ando na Beira",
+      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 153137,
       "name": "1000 Contatinhos",
       "url": "https://open.spotify.com/track/5jJMRcf2rPRQufITrQ7aY9"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Dan\u00e7ando na Beira",
-        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Dan\u00e7ando na Beira",
-      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
     },
     {
       "added_at": "2024-02-09 03:00:00",

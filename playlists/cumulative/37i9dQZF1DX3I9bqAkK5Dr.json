@@ -217,6 +217,32 @@
     },
     {
       "album": {
+        "name": "Ayyo",
+        "url": "https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt"
+      },
+      "artists": [
+        {
+          "name": "Jedediah.wtf",
+          "url": "https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT"
+        },
+        {
+          "name": "Asura",
+          "url": "https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6"
+        },
+        {
+          "name": "Ricky B",
+          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Ayyo",
+      "url": "https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o"
+    },
+    {
+      "album": {
         "name": "Befikr Maama",
         "url": "https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5"
       },
@@ -507,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Choopultho",
+        "url": "https://open.spotify.com/album/55Ik0PjSYOhVnb7yfyV1Rk"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133055,
+      "name": "Choopultho",
+      "url": "https://open.spotify.com/track/37G3Mabw6o250OpJX24vTp"
+    },
+    {
+      "album": {
         "name": "From The Bottom of My Heart",
         "url": "https://open.spotify.com/album/5uLM5Pxs42aenO0tcqoYNP"
       },
@@ -723,6 +767,44 @@
     },
     {
       "album": {
+        "name": "Ee Parichayam",
+        "url": "https://open.spotify.com/album/4BEJzmCEMiuazcDu2TFiSK"
+      },
+      "artists": [
+        {
+          "name": "Praneeth Muzic",
+          "url": "https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Pavani Vasa",
+          "url": "https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        },
+        {
+          "name": "Prem",
+          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
+        },
+        {
+          "name": "Lakshmi Durga",
+          "url": "https://open.spotify.com/artist/4LUU58BaoLm4snXuQDE1g1"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220195,
+      "name": "Ee Parichayam",
+      "url": "https://open.spotify.com/track/4kiMKHxNaw8oiH1vJSFXZT"
+    },
+    {
+      "album": {
         "name": "Ee Reyi Paadindi",
         "url": "https://open.spotify.com/album/5z0MyArgL7EF3WgGr9JAKf"
       },
@@ -734,7 +816,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 346983,
       "name": "Ee Reyi Paadindi",
       "url": "https://open.spotify.com/track/53draxwLuyB3NzfCDmIRBv"
@@ -1308,7 +1390,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 330514,
       "name": "Kadali",
       "url": "https://open.spotify.com/track/1rAbZfXSxYr5omE7n6EJkS"
@@ -1514,7 +1596,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 194181,
       "name": "Karuna",
       "url": "https://open.spotify.com/track/5nzBrLJixlLLmTMFQnYscF"
@@ -1922,7 +2004,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 204124,
       "name": "Maninchave",
       "url": "https://open.spotify.com/track/5RNlt35rdp8wekW9WZ4tWs"
@@ -2126,6 +2208,24 @@
       "duration_ms": 220000,
       "name": "Mounam",
       "url": "https://open.spotify.com/track/3COqF1lLItjkhOSGJPRtA2"
+    },
+    {
+      "album": {
+        "name": "My Dear Manohari",
+        "url": "https://open.spotify.com/album/51n5LmZmLI0aNEK4P1Yiax"
+      },
+      "artists": [
+        {
+          "name": "P.L Naidu",
+          "url": "https://open.spotify.com/artist/00bXZCUqYETc603nuULtBK"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240966,
+      "name": "My Dear Manohari",
+      "url": "https://open.spotify.com/track/7Dh6ndqN64dZFRYGuBvo82"
     },
     {
       "album": {
@@ -2541,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Ninne Ninne",
+        "url": "https://open.spotify.com/album/5Sm18efBdqqLZEfdEtQGmF"
+      },
+      "artists": [
+        {
+          "name": "Satya Yamini",
+          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256355,
+      "name": "Ninne Ninne",
+      "url": "https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg"
+    },
+    {
+      "album": {
         "name": "Noi",
         "url": "https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V"
       },
@@ -2790,6 +2908,28 @@
       "duration_ms": 216298,
       "name": "Oh Cheli",
       "url": "https://open.spotify.com/track/7xQuTzWxHFncW6mBEvXegI"
+    },
+    {
+      "album": {
+        "name": "Oh Cheliya",
+        "url": "https://open.spotify.com/album/6juo4ohIEBETOHgt7DCpVO"
+      },
+      "artists": [
+        {
+          "name": "Asish Nikhil",
+          "url": "https://open.spotify.com/artist/7M8nOk20KqAFd5u7PaIjuy"
+        },
+        {
+          "name": "Arka",
+          "url": "https://open.spotify.com/artist/0QG7C7jjHPQTOf4GBJhXyA"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189622,
+      "name": "Oh Cheliya",
+      "url": "https://open.spotify.com/track/4YG0YWJiqkjUfbCVDtOj9d"
     },
     {
       "album": {
@@ -3518,7 +3658,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 227303,
       "name": "Raane Raava",
       "url": "https://open.spotify.com/track/02sEnHsPSSlyxdRzxpqOJg"
@@ -3676,10 +3816,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 174000,
       "name": "Sathya - Expression Of Love",
       "url": "https://open.spotify.com/track/4vIJqRzuVkLWg7wKMOL7St"
+    },
+    {
+      "album": {
+        "name": "Satyabhama",
+        "url": "https://open.spotify.com/album/6wgbTGIpgyBheHFtQeQi2f"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kim",
+          "url": "https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221081,
+      "name": "Satyabhama",
+      "url": "https://open.spotify.com/track/5gZh6GzAsZI7wUcwcyUihL"
     },
     {
       "album": {
@@ -3738,7 +3896,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 207671,
       "name": "Silakole Nuvvu Raye Pilla",
       "url": "https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9"

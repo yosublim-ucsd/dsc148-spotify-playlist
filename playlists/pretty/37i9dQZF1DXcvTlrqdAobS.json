@@ -1,12 +1,12 @@
 {
   "description": "The songs that soundtracked Summer 2023. ",
-  "num_followers": 26760,
+  "num_followers": 26764,
   "original_name": "Summer Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjg5MGYxYmYxOGNlZDg3YzcyNjY3Zjc4Y2QyNmEzM2UwOGEzZTAz",
+  "snapshot_id": "MCxiM2FmN2JmZGE0NTM5OGFmOTAzZDc3YThlZDUyNjQzNDk2MGY1Y2Uz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "3:15 (Breathe)",
+        "url": "https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "3:15 (Breathe)",
+      "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "3:15 (Breathe)",
-        "url": "https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "3:15 (Breathe)",
-      "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 188361,
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
     },
     {
       "added_at": "2023-10-13 04:00:00",

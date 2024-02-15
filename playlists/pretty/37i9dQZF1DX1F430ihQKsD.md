@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Jane Penny
+> La scène musicale montréalaise au premier plan\. Photo: Jane Penny
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,788 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,799 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 |
 | 100 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
 
-Snapshot ID: `MCxkMTA4ZDk5ZDI5NWJmNTYyZjdhMWJjMGNkZTQwMTFiNjk5ZWUyZGY2`
+Snapshot ID: `MCxiMDA1NTRlY2U5Y2EwYzU0MGI2ZDRhNTAwNmRjNWZiYTRlMTYwM2M2`

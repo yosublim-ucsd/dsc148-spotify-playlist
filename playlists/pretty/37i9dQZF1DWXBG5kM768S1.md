@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,200 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,204 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 26 | [Himmelblå](https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd) | 3:45 |
 | 27 | [Lite og stort](https://open.spotify.com/track/20N6iAf42TLvjPVnQaCAEn) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Henda i været](https://open.spotify.com/album/5tC2V5bpIrr14ka5wAxFEQ) | 3:11 |
 | 28 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU) | 4:13 |
-| 29 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
-| 30 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
+| 29 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
+| 30 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
 | 31 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
 | 32 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
 | 33 | [Jovial](https://open.spotify.com/track/35zPbkQMTbuFydsC263MFl) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 | 50 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 
-Snapshot ID: `MCw5ZDhlODg0NGZkODM0YjhhZWExY2FjYTA3YzFiNTViZGFjNGEyMmRi`
+Snapshot ID: `MCw2YWUwM2IyNzVjMWVkZmI1M2Y1MzMxYjdiYTYwNjM1MTEzYjVmMjMw`

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 144490,
+  "2024-02-15": 144590,
   "date_first_scraped": "2022-05-11",
   "description": "Gazing at pedals, soaring celestially high. Cover: Glixen",
   "name": "Shoegaze Now",
@@ -827,6 +827,24 @@
       "duration_ms": 251675,
       "name": "Be My Best",
       "url": "https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE"
+    },
+    {
+      "album": {
+        "name": "Be Quiet and Drive (Far Away) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "album": {
@@ -5575,6 +5593,24 @@
       "duration_ms": 310773,
       "name": "Lips",
       "url": "https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc"
+    },
+    {
+      "album": {
+        "name": "Lonely Day - Spotify Singles",
+        "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lonely Day - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
     },
     {
       "album": {

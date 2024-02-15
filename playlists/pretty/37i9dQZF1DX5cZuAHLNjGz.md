@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,003 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,658 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 |
 | 101 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 |
 
-Snapshot ID: `MCwyZjBhMjQ4NmFjNWFlYmQwODM4M2IyZGQxNDRjY2VjYWYzNTM5YjBi`
+Snapshot ID: `MCxkNWRkMmY2Y2RlNGFmNDc1MDI0OWY4MjU0MWNjZGU3NzIxYmE3MmVm`

@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 35198,
+  "num_followers": 35246,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjY2ZmNiYjA5NTVlMWYwOTI1ZmVjNjdkMDhlMWY1OTU5YjhiNGU2",
+  "snapshot_id": "MCwzYmMxZDQ2MWVkOTk5NTcyODgxNjBiYWU1ZGJjMjhhNGI1MGU5YWJl",
   "tracks": [
     {
       "added_at": "2023-12-08 21:38:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 390013,
-      "name": "Someone Great",
-      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Kiasmos",
         "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 360705,
       "name": "Looped",
       "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 390013,
+      "name": "Someone Great",
+      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 316919,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -583,18 +599,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/2zJc8xRHUCfMQwIlVe0NG9"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
         }
       ],
-      "duration_ms": 316919,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
+      "duration_ms": 181149,
+      "name": "Marijuana",
+      "url": "https://open.spotify.com/track/4MPyyq69wHFvmjCKSpN4Ri"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -611,22 +627,6 @@
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/2zJc8xRHUCfMQwIlVe0NG9"
-      },
-      "artists": [
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        }
-      ],
-      "duration_ms": 181149,
-      "name": "Marijuana",
-      "url": "https://open.spotify.com/track/4MPyyq69wHFvmjCKSpN4Ri"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
-      },
-      "artists": [
-        {
-          "name": "Ghost Loft",
-          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
-        }
-      ],
-      "duration_ms": 172496,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
+      },
+      "artists": [
+        {
+          "name": "Ghost Loft",
+          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
+        }
+      ],
+      "duration_ms": 172496,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 345560,
       "name": "Blind - Radio Edit",
       "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 117967,
-      "name": "Can't See What Is Burning There - Mixed",
-      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 231640,
       "name": "Movements (Chapter III)",
       "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 117967,
+      "name": "Can't See What Is Burning There - Mixed",
+      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 300266,
-      "name": "Body Language - Interpretation",
-      "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "California Girls",
         "url": "https://open.spotify.com/album/4U5EFFFsaynpAmTG6DS2MQ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 216923,
       "name": "California Girls",
       "url": "https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "Body Language - Interpretation",
+      "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Someday Somewhere",
+        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Someday Somewhere",
-        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Genesis Series",
         "url": "https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 230720,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Worlds",
-        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
     },
     {
       "added_at": "2023-12-08 21:38:00",

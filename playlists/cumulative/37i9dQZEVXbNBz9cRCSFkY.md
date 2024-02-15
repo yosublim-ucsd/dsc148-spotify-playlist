@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-783 songs - 1 day 23 hr 1 min
+784 songs - 1 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-11 | 2022-05-13 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-05 |  |
-| [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 | 2023-11-18 |  |
+| [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 | 2023-11-18 | 2024-02-15 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-05-29 | 2023-11-19 |
 | [Habang Buhay](https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2021-11-03 | 2022-10-23 |
 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 | 2023-09-07 | 2024-01-24 |
@@ -279,6 +279,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-31 | 2023-10-06 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-11-13 | 2023-06-01 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-06-24 | 2022-05-02 |
+| [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 | 2024-02-14 |  |
 | [Hey Stephen \(Taylor’s Version\)](https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:14 | 2021-04-11 | 2021-04-18 |
 | [Higa](https://open.spotify.com/track/63qA4ydokzNOFpsaNlsYsC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 4:05 | 2021-03-27\* | 2022-03-10 |
 | [Higa](https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 4:05 | 2022-03-09 | 2023-10-15 |

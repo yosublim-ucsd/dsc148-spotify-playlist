@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-860 songs - 2 day 3 hr 31 min
+861 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-07-18 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-09-26 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-25 |
-| [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 | 2023-04-24 |  |
+| [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 | 2023-04-24 | 2024-02-15 |
 | [Ask About Me](https://open.spotify.com/track/2xXZwpCUwaotGISP5rSmVE) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:19 | 2021-09-17 | 2021-09-20 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-08-30 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
@@ -662,6 +662,7 @@
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-11 | 2021-07-05 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-04 | 2022-07-09 |
 | [Saadgi](https://open.spotify.com/track/1bT07gNaWDkAax9AcNgMpX) | [Raaka](https://open.spotify.com/artist/3X5AtwrY5omMtHVG0osUFE) | [Saadgi](https://open.spotify.com/album/45s28VrRNQ9bCeIOYySrAE) | 3:34 | 2023-02-22 | 2023-02-25 |
+| [Saajan Ve](https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Saajan Ve](https://open.spotify.com/album/2ZkGpdiIY4jnHrmoEQrGGW) | 2:51 | 2024-02-14 |  |
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2021-12-17 | 2022-03-02 |
 | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 | 2022-01-19 | 2022-04-08 |
 | [Saari Duniya Jalaa Denge](https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 | 2023-11-26 |  |

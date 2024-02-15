@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,466 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,497 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 10 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 11 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:36 |
 | 12 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
-| 13 | [Present](https://open.spotify.com/track/4EqTqw8zW7JGIYDQ8PPbYe) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Present](https://open.spotify.com/album/57B7wdk6YuFHxDZyBERvTK) | 4:26 |
+| 13 | [Present](https://open.spotify.com/track/5ZA0IAAjEC5tn3jOJhGPLJ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Present](https://open.spotify.com/album/35iKr3pjxUGUtEC1FUkiL6) | 4:26 |
 | 14 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
 | 15 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 |
 | 16 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 25 | [花束](https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 4:46 |
 | 26 | [LOVESICK](https://open.spotify.com/track/6yIufrUS29JZvg9wJkjg3H) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [LOVESICK](https://open.spotify.com/album/4Lzh9AFYarUOMPO6vVs8XD) | 2:45 |
 | 27 | [Subtitle](https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV) | 5:05 |
-| 28 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
+| 28 | [Koi suru wakusei "Anata"](https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Koi suru wakusei "Anata"](https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx) | 3:28 |
 | 29 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 |
 | 30 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 |
 | 31 | [feat\. あなた](https://open.spotify.com/track/1Y8w8X8vqCcruiNXVqrGPt) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [feat\. あなた](https://open.spotify.com/album/6eXHmzEFeY1Q3Hwvz793j7) | 3:20 |
 | 32 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
-| 33 | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/album/1bPXXUszurgUndYpS540rI) | 3:28 |
+| 33 | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8) | 3:28 |
 | 34 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 |
 | 35 | [恋と呼ばないで](https://open.spotify.com/track/0yOM3ZxlUWynKBTeTvVYtH) | [ほのかりん](https://open.spotify.com/artist/2gNQP8hLHUGMdSzUb7vgXJ) | [恋と呼ばないで](https://open.spotify.com/album/64R2Rx4DErXusAVOigtXtu) | 4:04 |
 | 36 | [I wish](https://open.spotify.com/track/7lhCMNcxl4cESmwsXQT5LK) | [Misako Uno](https://open.spotify.com/artist/7GZ4sfSqYerIzoy01IiBBI) | [I wish](https://open.spotify.com/album/4rkp4NwmGk3rD7RFEiQp1f) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 69 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 70 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 |
 
-Snapshot ID: `MCxkZGU3ZTNkZmEzMGIyYmUyY2ViMTc0ZWQ3ODBlODAzMDYwYjE3MzFh`
+Snapshot ID: `MCwwNWQyZTY5MWM3YjRlOTVhZDY1NmE0MWY3MDU1MGYxZDI3ZTY1NzNk`

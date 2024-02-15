@@ -1,12 +1,12 @@
 {
   "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: girl in red",
-  "num_followers": 6153,
+  "num_followers": 6169,
   "original_name": "The WISHLIST: \u6ce8\u76ee\u306e\u6d0b\u697d\u7279\u96c6",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWNjMTM4ZGUzNTBjZDYxNjk4MjE3OWQ0MDdmMDFhNTgwYWZjZGFh",
+  "snapshot_id": "MCwyOTk1NWZiNjI5OWI2MmYxOTVhMzI3MjM4ZjY4MTJhNzJjMGE4ZWE5",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -144,7 +144,7 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 140946,
+      "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
     },
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
     },
     {
       "added_at": "2024-02-13 15:00:00",

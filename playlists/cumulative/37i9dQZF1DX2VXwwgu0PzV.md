@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC?si=DW1Vl\_CaRPa2Mqw5bzIa9Q">Oba Reengy</a>
 
-562 songs - 1 day 8 hr 54 min
+563 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [Jesu ni Logo](https://open.spotify.com/track/3QIzMA6hCj4b5jUIrQceax) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [A Decade After](https://open.spotify.com/album/2pxHAlyrr3PYW8jQPYxmg5) | 3:57 | 2023-02-02 | 2023-02-11 |
 | [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-11-17 | 2023-12-30 |
 | [Jesus \(I'm Yours\)](https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Jesus \(I'm Yours\)](https://open.spotify.com/album/1MkXYkXFkGcOsGMZtyDSiY) | 2:15 | 2023-04-21 | 2023-05-26 |
-| [Jesus Christ is seen](https://open.spotify.com/track/3vqe006cBlMnYYAmbrYvXj) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/6zhXvRi37zhARlTYinBHJp) | 3:03 | 2023-10-20 |  |
+| [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 | 2023-12-11 |  |
+| [Jesus Christ is seen](https://open.spotify.com/track/3vqe006cBlMnYYAmbrYvXj) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/6zhXvRi37zhARlTYinBHJp) | 3:03 | 2023-10-20 | 2024-02-15 |
 | [Jesus Is Not A Scam \- Live](https://open.spotify.com/track/6qdgk35vRqgJV0hTFREzlw) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Jesus Is Not A Scam \(Live\)](https://open.spotify.com/album/0z3XoOAg6Y5r4qxmaEsHRl) | 5:48 | 2023-08-25 | 2023-10-20 |
 | [Jesus Iye](https://open.spotify.com/track/4jcantRx2m6O7NAVvopqSb) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesus Iye](https://open.spotify.com/album/7KDurcyV9btooGNJegwVtl) | 8:45 | 2023-12-05 | 2023-12-11 |
 | [Jesus You Set Me Free](https://open.spotify.com/track/6B8rlAW9iprZCrz5zld4qw) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Jesus You Set Me Free](https://open.spotify.com/album/5h4BZhMSikZrXMR1n1b1tv) | 2:43 | 2023-04-07 | 2023-06-23 |

@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Agent Orange",
+        "url": "https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Ausgebombt",
+      "url": "https://open.spotify.com/track/2URuChhPo6T4Z2DTNrdegI"
+    },
+    {
+      "album": {
         "name": "Dark Days Ahead",
         "url": "https://open.spotify.com/album/7hJfhI1Eht1CvetUEKTtEp"
       },
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 230560,
       "name": "Give Me Leather",
       "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"

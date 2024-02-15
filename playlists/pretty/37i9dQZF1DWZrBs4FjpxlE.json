@@ -1,12 +1,12 @@
 {
   "description": "we got you bro. Cover: Post Malone",
-  "num_followers": 71838,
+  "num_followers": 72060,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjk1YWI5ZmE5MGNkYzUyMGQzYjNmMTU3MWQ3MjRhM2I1ZjAwZjg4",
+  "snapshot_id": "MCxmMDgxNDVmZDNlZmM1ODYxYWY3ZmY2OTQ5Zjc5NTNkOTgwNmIyMzNj",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Still Sleep?",
-        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -371,34 +355,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
         }
       ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 119133,
-      "name": "Jocelyn Flores",
-      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -419,6 +387,38 @@
       "duration_ms": 196400,
       "name": "Falling Down - Bonus Track",
       "url": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2023-08-18 04:01:00",

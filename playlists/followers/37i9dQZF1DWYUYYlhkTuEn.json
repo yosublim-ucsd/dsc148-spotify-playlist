@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 228724,
+  "2024-02-15": 228753,
   "date_first_scraped": "2023-12-19",
   "description": "Let's flow to the beats of downtempo deep house.",
   "name": "Yoga Electronica",
@@ -1053,10 +1053,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 366006,
       "name": "Smek - Rey&Kjavik Remix",
       "url": "https://open.spotify.com/track/1PyfWp1rg8omX2DOtg65pR"
+    },
+    {
+      "album": {
+        "name": "Smek (Rey&Kjavik Remix)",
+        "url": "https://open.spotify.com/album/7Kk2AhZYfBN1OsCthy3XjZ"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        },
+        {
+          "name": "Rey&Kjavik",
+          "url": "https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366006,
+      "name": "Smek - Rey&Kjavik Remix",
+      "url": "https://open.spotify.com/track/3EJHAXAPhqKoUppERPCJtT"
     },
     {
       "album": {

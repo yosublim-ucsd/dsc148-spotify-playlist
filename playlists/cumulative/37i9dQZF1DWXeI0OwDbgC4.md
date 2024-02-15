@@ -4,7 +4,7 @@
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-103 songs - 5 hr 50 min
+104 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Destroy Myself Just For You](https://open.spotify.com/track/40iHwasC0kEK8fgaEfQReF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/1X71Gke5NpopGMNbNxEB35) | 2:26 | 2023-01-31 |  |
 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 | 2023-01-31 |  |
 | [doing well](https://open.spotify.com/track/0Q6YrLKv9PUVcj4qfKewxB) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4) | [doing well](https://open.spotify.com/album/6kihcoNftMnN3IP66yuTnd) | 2:19 | 2024-02-03 |  |
-| [Don't](https://open.spotify.com/track/7HlywI6BHiSqaGW6s9AMc2) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Don't](https://open.spotify.com/album/2JXdXksGomTPabnSuQyZ8f) | 2:15 | 2024-02-03 |  |
+| [Don't](https://open.spotify.com/track/7HlywI6BHiSqaGW6s9AMc2) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Don't](https://open.spotify.com/album/2JXdXksGomTPabnSuQyZ8f) | 2:15 | 2024-02-03 | 2024-02-15 |
 | [DON'T HAVE TO LISTEN](https://open.spotify.com/track/0DHaymgPUqiFr4NqcR8a5C) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [DON'T HAVE TO LISTEN](https://open.spotify.com/album/1XUgd89ly1qKKVZDsEtetc) | 2:20 | 2024-02-03 |  |
 | [drifting](https://open.spotify.com/track/0Woa87rWzBuT7fR08Mbu1d) | [Chaitha](https://open.spotify.com/artist/4A2xXq0rdC0FX2g9tBCePf) | [drifting](https://open.spotify.com/album/5FRTmrrhi3e9R9hByHDjL5) | 2:06 | 2024-02-03 |  |
 | [Emotions](https://open.spotify.com/track/3TtxaSTGwLOyWNA73lPioY) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Nick Green](https://open.spotify.com/artist/3uTopDebC672CTjrscfjdp) | [Emotions](https://open.spotify.com/album/65lQW4dB6DUFThK0DIZzPV) | 3:49 | 2024-02-03 |  |
@@ -40,6 +40,7 @@
 | [Ghosts](https://open.spotify.com/track/0MA3ooeTuRjMxF0IHgPeT4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Ghosts](https://open.spotify.com/album/7eoAw7Mk6wpc7RZG3WdJqW) | 3:12 | 2024-02-03 |  |
 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 | 2023-01-31 |  |
 | [God Only Knows](https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:49 | 2023-01-31 |  |
+| [Good Parts](https://open.spotify.com/track/1pMf7KYlEZPtc0lhUaAGBh) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Good Parts](https://open.spotify.com/album/3Wk3wyZuXvi0ODAZgDogc6) | 2:15 | 2024-02-03 |  |
 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 | 2023-01-31 |  |
 | [Heartbreak Hero](https://open.spotify.com/track/1xvD9RjTZ8F03VyA1qlrWX) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Heartbreak Hero](https://open.spotify.com/album/5oThcyRZSILQz8NhXlEibE) | 3:27 | 2024-02-03 |  |
 | [Heaven Come Down](https://open.spotify.com/track/1CwHBCIGMO7KgPzT0zE6LT) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Heaven Come Down](https://open.spotify.com/album/0RwtZrhaetPKrGFGIm75sl) | 3:51 | 2024-02-03 |  |

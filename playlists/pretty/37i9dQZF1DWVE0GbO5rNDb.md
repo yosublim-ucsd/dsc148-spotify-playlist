@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,675 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,679 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 52 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
 | 53 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 | 54 | [Faith](https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Faith](https://open.spotify.com/album/1fWvjg33oklUf7Y9qzhpJp) | 3:35 |
-| 55 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 |
-| 56 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 |
+| 55 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 |
+| 56 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 |
 | 57 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 | 58 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
 | 59 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 70 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
 | 71 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 |
 | 72 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
-| 73 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
-| 74 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 |
+| 73 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 |
+| 74 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 75 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
 | 76 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 |
 | 77 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Behind the Moon](https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m) | [K!llx](https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ), [ConKi](https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF) | [Behind the Moon](https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9) | 2:44 |
 | 100 | [Sunrise](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/6a65EL0FbTxEZ837CMrtYg) | 2:18 |
 
-Snapshot ID: `MCwyODViZWE5Y2EyYzYyOWJmMGYzNzlhMzM0OWYyNDU1OWRlODMyM2Mw`
+Snapshot ID: `MCwxOTU0ZTA1YzM0ZWZlYThhNDhlYWVmYTE5Mjg2ODJlNWQyMzUxNTkw`

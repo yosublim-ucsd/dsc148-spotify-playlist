@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 74414,
+  "2024-02-15": 74447,
   "date_first_scraped": "2023-01-15",
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
   "name": "New UK Garage",
@@ -1604,6 +1604,28 @@
     },
     {
       "album": {
+        "name": "Near U",
+        "url": "https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a"
+      },
+      "artists": [
+        {
+          "name": "Isenberg",
+          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
+        },
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272238,
+      "name": "Near U",
+      "url": "https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ"
+    },
+    {
+      "album": {
         "name": "Needle On The Record (4am Mix)",
         "url": "https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW"
       },
@@ -1987,7 +2009,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 195843,
       "name": "Shining",
       "url": "https://open.spotify.com/track/5ezWIpNsX82DNuzMm9pef7"

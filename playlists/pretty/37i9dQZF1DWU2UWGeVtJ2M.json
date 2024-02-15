@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 157478,
+  "num_followers": 157522,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTQwMTVlMDI0N2IxNDhiNTY1NzU2MzBlZmRhMDlkY2FmNTM4ZjJh",
+  "snapshot_id": "MCwxN2I4ZDhkN2I5NGZjMzJkYzEzNWJjOTVkNjAxYmM2OTdiYjBlMDBl",
   "tracks": [
     {
       "added_at": "2024-02-12 08:21:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Treat Me",
-        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "Treat Me",
-      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
         "name": "GRADIENT",
         "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 177777,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/3t52A63M852sUyVOYWPheG"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
+        "name": "Play Me Something Nice",
+        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 201301,
+      "name": "Play Me Something Nice",
+      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
         "name": "Love Me / Love Me Not",
         "url": "https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 228389,
       "name": "Feels So Good \u25d1",
       "url": "https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
-        "name": "Play Me Something Nice",
-        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 201301,
-      "name": "Play Me Something Nice",
-      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 202230,
+      "name": "Revenge Of The Number",
+      "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 200213,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 202230,
-      "name": "Revenge Of The Number",
-      "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 198594,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 220346,
       "name": "Firebabe",
       "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 198594,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
+        "name": "Gone 2 Long",
+        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
+      },
+      "artists": [
+        {
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Gone 2 Long",
+      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
         "name": "Late (Again)",
         "url": "https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Gone 2 Long",
-        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
       "artists": [
         {
-          "name": "PRETTYMUCH",
-          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
         }
       ],
-      "duration_ms": 195013,
-      "name": "Gone 2 Long",
-      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
-        "name": "TRAVELIN'",
-        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
-      },
-      "artists": [
-        {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "TRAVELIN'",
-      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2024-02-12 08:21:00",

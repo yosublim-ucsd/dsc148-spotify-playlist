@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,880 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,924 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 18 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
 | 19 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 20 | [Shelter](https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Shelter](https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e) | 2:40 |
-| 21 | [in the bleak midwinter](https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [in the bleak midwinter](https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4) | 1:36 |
-| 22 | [Call Me](https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB) | [Sviral.](https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE) | [Call Me](https://open.spotify.com/album/5UpWqT6j0EeQW6kM4WlG4N) | 3:00 |
-| 23 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
+| 21 | [Call Me](https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB) | [Sviral.](https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE) | [Call Me](https://open.spotify.com/album/5UpWqT6j0EeQW6kM4WlG4N) | 3:00 |
+| 22 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
+| 23 | [in the bleak midwinter](https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [in the bleak midwinter](https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4) | 1:36 |
 | 24 | [sleepless](https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [sleepless](https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr) | 2:29 |
 | 25 | [Long Whale Song](https://open.spotify.com/track/47UkAwI7ygrMl6JZ5ZExPQ) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Long Whale Song](https://open.spotify.com/album/5VwTFSh4mFOM0VleoTFPZv) | 19:25 |
 | 26 | [Fallen Down \(Reprise\) \- Piano Slowed & Reverb](https://open.spotify.com/track/3Ttu9jVJBNSkyOuydS9RZ6) | [Augustin Garnier](https://open.spotify.com/artist/4l0fkLKO9mQEVub2zoouh8) | [Fallen Down \(Reprise\)](https://open.spotify.com/album/5jqDoz4ZXsfUQyh6PrQO9b) | 2:30 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 31 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 |
 | 32 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
 | 33 | [A Time to Wait](https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X) | [Alicks](https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM) | [Help Me Out](https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi) | 3:27 |
-| 34 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 |
-| 35 | [against me](https://open.spotify.com/track/0MUdyQzdbl7rQAXfWj8hZ3) | [Louffy](https://open.spotify.com/artist/13CLRpzYn8vvea8owycaQd) | [against me](https://open.spotify.com/album/5dGHZpTT9FeAg0n7wlorDc) | 1:34 |
+| 34 | [against me](https://open.spotify.com/track/0MUdyQzdbl7rQAXfWj8hZ3) | [Louffy](https://open.spotify.com/artist/13CLRpzYn8vvea8owycaQd) | [against me](https://open.spotify.com/album/5dGHZpTT9FeAg0n7wlorDc) | 1:34 |
+| 35 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 |
 | 36 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 37 | [fable](https://open.spotify.com/track/4dNCtqHEBPcFt08498i6oW) | [a vow](https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C) | [fable](https://open.spotify.com/album/13TD4kdtXztxz5sSmwHSy7) | 2:50 |
 | 38 | [where the light is](https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [where the light is](https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1) | 2:06 |
 | 39 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 40 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
 | 41 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
-| 42 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
-| 43 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
-| 44 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
-| 45 | [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 |
+| 42 | [One Last Time](https://open.spotify.com/track/2qxRVh7mFAYt7Lw2IWM9xu) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/1e2ImujfGAYW1leJOICcTr) | 2:20 |
+| 43 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
+| 44 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
+| 45 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 | 46 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 |
 | 47 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
 | 48 | [No Time Left](https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl) | [Hazy](https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl) | [Nirvana](https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz) | 1:45 |
-| 49 | [i'm tired](https://open.spotify.com/track/4JkoMKb96mV3nlXRq6yeTP) | [kxrrvpt](https://open.spotify.com/artist/3GeAdMUV0vvmyZrYBuGcwl) | [A Collection of Soul Crushing Songs](https://open.spotify.com/album/1lSL83KK9CuxdfbP6dSC5r) | 0:47 |
+| 49 | [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 |
 | 50 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 
-Snapshot ID: `MCw4MmQ2MzVlMjQ3MDJjZmYxNWNhNzFiYmJmODAxYmI2ZWRiODcyYWU3`
+Snapshot ID: `MCxhZmE3ZWNkMTI0OWE0ZjMwN2JlYjhkZDdjNGNkNTFhYzhjOWIzODM2`

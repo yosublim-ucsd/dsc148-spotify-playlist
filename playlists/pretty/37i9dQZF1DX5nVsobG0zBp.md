@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: T\-Rex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,161 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,184 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Cima Favela](https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB) | [Cima Favela](https://open.spotify.com/album/1MuVGDebeM6n2s0FuVUvcK) | 4:27 |
 | 80 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 
-Snapshot ID: `MCxhZDg5YzE4NGExNjY2ODU5ODAyODRkYTE4ODM1NjVhNmUwNTczNzZh`
+Snapshot ID: `MCwzMWVkNGRhZjYzMDEwOGE5MTA4NTQ0ZDFiZTk4NDg3YzY5NWE5ODQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,775 likes - 94 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,058 likes - 94 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 55 | [You](https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:24 |
 | 56 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 | 57 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 |
-| 58 | [Don't Pretend](https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Pretend](https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS) | 2:45 |
-| 59 | [Care for You](https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:32 |
+| 58 | [Care for You](https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:32 |
+| 59 | [Don't Pretend](https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Pretend](https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS) | 2:45 |
 | 60 | [Hair Down](https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/6GkRXv0hCHePEkqkhxCpk2) | 3:36 |
 | 61 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 |
 | 62 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
 | 94 | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6) | 6:17 |
 
-Snapshot ID: `MCw3ZGI3NTUwM2EwMDQ4ODc4OTE4MDMyZThlY2MyMGU5OThlMGFhODcy`
+Snapshot ID: `MCw3M2E4Zjg0NjMxMjUzNTYwYmMxNDg1YjgzNTJhN2JlMTBhMThkMjc0`

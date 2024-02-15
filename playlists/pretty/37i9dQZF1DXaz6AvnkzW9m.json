@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 miguel cornejo, Calle 24 en portada.",
-  "num_followers": 121254,
+  "num_followers": 121373,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDhkOGZkNDJhZTVmODhjYzUxODI0ZTBmOGFjZWQyZDU3NDU1NDFk",
+  "snapshot_id": "MCxlMzQ4NzcyMGUxOGEzZDM3YzM3YzBkZTJjNzU3MzQ5ZmIyMmQ4MWJh",
   "tracks": [
     {
       "added_at": "2024-02-02 17:12:32",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-02-02 17:12:32",
       "album": {
-        "name": "Me Gusta Mi Vida",
-        "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
-      },
-      "artists": [
-        {
-          "name": "Joan Y Su Elite",
-          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
-        },
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 227726,
-      "name": "Me Gusta Mi Vida",
-      "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
-    },
-    {
-      "added_at": "2024-02-02 17:12:32",
-      "album": {
         "name": "De Lunes A Viernes",
         "url": "https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 153443,
       "name": "De Lunes A Viernes",
       "url": "https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af"
+    },
+    {
+      "added_at": "2024-02-02 17:12:32",
+      "album": {
+        "name": "Me Gusta Mi Vida",
+        "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
+      },
+      "artists": [
+        {
+          "name": "Joan Y Su Elite",
+          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 227726,
+      "name": "Me Gusta Mi Vida",
+      "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
     },
     {
       "added_at": "2024-02-02 17:12:32",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-02-02 17:12:32",
       "album": {
+        "name": "Moda",
+        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 175804,
+      "name": "Moda",
+      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
+    },
+    {
+      "added_at": "2024-02-02 17:12:32",
+      "album": {
         "name": "Les Cerre La Boca",
         "url": "https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 172248,
       "name": "Tiempos de Guerra",
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
-    },
-    {
-      "added_at": "2024-02-02 17:12:32",
-      "album": {
-        "name": "Moda",
-        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Moda",
-      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
     },
     {
       "added_at": "2024-02-02 17:12:32",

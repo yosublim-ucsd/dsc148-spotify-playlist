@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,512 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,576 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 3 | [Dois Enganados](https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs) | 2:52 |
 | 4 | [Vestido Curto \- Ao Vivo](https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vestido Curto \(Ao Vivo\)](https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC) | 2:31 |
 | 5 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
-| 6 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 |
-| 7 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 |
+| 6 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 |
+| 7 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 |
 | 8 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 | 9 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
 | 10 | [Nota 100 \- Ao Vivo](https://open.spotify.com/track/6pOLoZWfX2vwDYibVw8RGv) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Nota 100 \(Ao Vivo\)](https://open.spotify.com/album/32jxqjJYztfYeR9fEeYmIf) | 2:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 47 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |
 | 48 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
 | 49 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 |
-| 50 | [Seja Louco](https://open.spotify.com/track/2xtzAzvXznNX03U9wk3s5S) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Seja Louco](https://open.spotify.com/album/5Gr3jsmL0Jb291VTdFiqsE) | 2:39 |
+| 50 | [Declaração pro Bar \- Ao Vivo](https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:41 |
 
-Snapshot ID: `MCw0YzcwZTQ2ZDkwZGE4NzFiNzhjMjFkMGE1YjY3ZGY5OTI5MGUyNDZj`
+Snapshot ID: `MCw5YWU4MzAwZWIwMGVjYWU0MjY5YjQzNjk0NTFhMzRkYmZhMzE1NmI0`

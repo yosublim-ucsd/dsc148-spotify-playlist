@@ -1,12 +1,12 @@
 {
   "description": "Hymns for darker hours.",
-  "num_followers": 183196,
+  "num_followers": 183304,
   "original_name": "Dark Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODVmMWJjNWQ2ZmZmYmRkOGVkMWVkMDg5MjNmYzYzOTcyYmQ5ZGZk",
+  "snapshot_id": "MCw4NWE4NmI3ZWI2NzliY2UxZWU5Y2NmYTM2YWE5ZGViNjcyYTIwZWI2",
   "tracks": [
     {
       "added_at": "2023-12-01 18:02:47",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
+        "name": "sentient",
+        "url": "https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5"
+      },
+      "artists": [
+        {
+          "name": "Etsu",
+          "url": "https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk"
+        },
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "duration_ms": 204356,
+      "name": "sentient",
+      "url": "https://open.spotify.com/track/2JaBzgwkxZ2TVfCPZOlNOo"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
         "name": "Before You Sleep",
         "url": "https://open.spotify.com/album/0lQDTQArkfPvc5K8l46rvj"
       },
@@ -259,22 +279,18 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "sentient",
-        "url": "https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5"
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
       "artists": [
         {
-          "name": "Etsu",
-          "url": "https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk"
-        },
-        {
-          "name": ".diedlonely",
-          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
         }
       ],
-      "duration_ms": 204356,
-      "name": "sentient",
-      "url": "https://open.spotify.com/track/2JaBzgwkxZ2TVfCPZOlNOo"
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "OTVR",
-        "url": "https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u"
+        "name": "Vaara",
+        "url": "https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7"
       },
       "artists": [
         {
-          "name": "Vokeebok\u00e6ybgo Lochtyblchvvaii",
-          "url": "https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq"
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
         }
       ],
-      "duration_ms": 521375,
-      "name": "><\u22c3\u2283\u2283\u2211",
-      "url": "https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5"
+      "duration_ms": 309708,
+      "name": "Vaara",
+      "url": "https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -371,34 +371,18 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Vaara",
-        "url": "https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7"
+        "name": "OTVR",
+        "url": "https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u"
       },
       "artists": [
         {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+          "name": "Vokeebok\u00e6ybgo Lochtyblchvvaii",
+          "url": "https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq"
         }
       ],
-      "duration_ms": 309708,
-      "name": "Vaara",
-      "url": "https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
-        "name": "Under",
-        "url": "https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI"
-      },
-      "artists": [
-        {
-          "name": "Jeroen Dirrix",
-          "url": "https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Under",
-      "url": "https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD"
+      "duration_ms": 521375,
+      "name": "><\u22c3\u2283\u2283\u2211",
+      "url": "https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -415,6 +399,22 @@
       "duration_ms": 139680,
       "name": "Torrek",
       "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Under",
+        "url": "https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Dirrix",
+          "url": "https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Under",
+      "url": "https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Unfinished",
-        "url": "https://open.spotify.com/album/092PUhslAi3ldIwtlPiQ98"
-      },
-      "artists": [
-        {
-          "name": "nthng",
-          "url": "https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO"
-        }
-      ],
-      "duration_ms": 223999,
-      "name": "Ending Theme",
-      "url": "https://open.spotify.com/track/3xkWegiABp4TsIMpT41Qhg"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Lost Album",
         "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 576000,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/092PUhslAi3ldIwtlPiQ98"
+      },
+      "artists": [
+        {
+          "name": "nthng",
+          "url": "https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO"
+        }
+      ],
+      "duration_ms": 223999,
+      "name": "Ending Theme",
+      "url": "https://open.spotify.com/track/3xkWegiABp4TsIMpT41Qhg"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "The Weavers",
-        "url": "https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs"
-      },
-      "artists": [
-        {
-          "name": "Syntropy",
-          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
-        }
-      ],
-      "duration_ms": 152541,
-      "name": "The Weavers",
-      "url": "https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Pompeii",
         "url": "https://open.spotify.com/album/3WGKBFVmZNW5Jt3bRheWev"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 219413,
       "name": "Insidious",
       "url": "https://open.spotify.com/track/0j4jbuU1XL2ShDIE4OHqel"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "The Weavers",
+        "url": "https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "duration_ms": 152541,
+      "name": "The Weavers",
+      "url": "https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Stumhetens toner",
-        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
-      },
-      "artists": [
-        {
-          "name": "Isorinne",
-          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
-        }
-      ],
-      "duration_ms": 304832,
-      "name": "T\u00e5rl\u00f6s sorg",
-      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 333293,
       "name": "Dandelion Heart",
       "url": "https://open.spotify.com/track/3I0GGpVe3nCNUwmCre6pRU"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Stumhetens toner",
+        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
+      },
+      "artists": [
+        {
+          "name": "Isorinne",
+          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
+        }
+      ],
+      "duration_ms": 304832,
+      "name": "T\u00e5rl\u00f6s sorg",
+      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
+        "name": "Fantas for Saxophone and Voice",
+        "url": "https://open.spotify.com/album/45focVBvv4bXhAfrJhj82J"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Bendik Giske",
+          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+        }
+      ],
+      "duration_ms": 436341,
+      "name": "Fantas for Saxophone and Voice",
+      "url": "https://open.spotify.com/track/6t7dqTSiUgR0WANDNLyHFC"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
         "name": "Alt:01",
         "url": "https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs"
       },
@@ -1467,22 +1487,6 @@
       "duration_ms": 170000,
       "name": "Cube",
       "url": "https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
-        "name": "Born Again In The Voltage",
-        "url": "https://open.spotify.com/album/3yOT3k3clE4z4dz4NagZyL"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 396000,
-      "name": "Rendering Intuitions",
-      "url": "https://open.spotify.com/track/0oFKwoS8foZNhVGXTewACT"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -1535,6 +1539,22 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
+        "name": "Born Again In The Voltage",
+        "url": "https://open.spotify.com/album/3yOT3k3clE4z4dz4NagZyL"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 396000,
+      "name": "Rendering Intuitions",
+      "url": "https://open.spotify.com/track/0oFKwoS8foZNhVGXTewACT"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs"
       },
@@ -1559,38 +1579,22 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+        "name": "Cellulosed Bodies (Original Score)",
+        "url": "https://open.spotify.com/album/0E4j6OuXlMFhVq3ZXJT8G7"
       },
       "artists": [
         {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Chasing Shadows, Pt. 1",
-      "url": "https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
-        "name": "Fantas for Saxophone and Voice",
-        "url": "https://open.spotify.com/album/45focVBvv4bXhAfrJhj82J"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+          "name": "Augustus Muller",
+          "url": "https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk"
         },
         {
-          "name": "Bendik Giske",
-          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
         }
       ],
-      "duration_ms": 436341,
-      "name": "Fantas for Saxophone and Voice",
-      "url": "https://open.spotify.com/track/6t7dqTSiUgR0WANDNLyHFC"
+      "duration_ms": 145453,
+      "name": "Stretching / Invading",
+      "url": "https://open.spotify.com/track/5gNw8EWLnREMt0QQaOvLGx"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -1615,22 +1619,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/1z8Ljm0ST8ICL9lkJNZSev"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        }
-      ],
-      "duration_ms": 300199,
-      "name": "\u00d6skufall",
-      "url": "https://open.spotify.com/track/3S11oqCytN74MIuTsXOKBD"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Natthall",
         "url": "https://open.spotify.com/album/7u22N4Jgi0wp8Qb2B6FtxI"
       },
@@ -1651,22 +1639,34 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Cellulosed Bodies (Original Score)",
-        "url": "https://open.spotify.com/album/0E4j6OuXlMFhVq3ZXJT8G7"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Augustus Muller",
-          "url": "https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk"
-        },
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 145453,
-      "name": "Stretching / Invading",
-      "url": "https://open.spotify.com/track/5gNw8EWLnREMt0QQaOvLGx"
+      "duration_ms": 304000,
+      "name": "Chasing Shadows, Pt. 1",
+      "url": "https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/1z8Ljm0ST8ICL9lkJNZSev"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "duration_ms": 300199,
+      "name": "\u00d6skufall",
+      "url": "https://open.spotify.com/track/3S11oqCytN74MIuTsXOKBD"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 173798,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Cast Of Mind",
         "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 435276,
       "name": "Bondage To Formula",
       "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 173798,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "It Should've Happened A Long Time Ago",
-        "url": "https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm"
-      },
-      "artists": [
-        {
-          "name": "Paul Motian Trio",
-          "url": "https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/4sOeCVCew7f63JaVnflu2U"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "M\u00f6rkrets Narr",
         "url": "https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9"
       },
@@ -1955,22 +1939,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
-        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amara",
-          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
-        }
-      ],
-      "duration_ms": 188875,
-      "name": "Piano II",
-      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Vergers",
         "url": "https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib"
       },
@@ -1987,34 +1955,34 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Indifference",
-        "url": "https://open.spotify.com/album/2NOcwQdh1hOi3YudH6pwD9"
+        "name": "It Should've Happened A Long Time Ago",
+        "url": "https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm"
       },
       "artists": [
         {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+          "name": "Paul Motian Trio",
+          "url": "https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Indifference - Slowed",
-      "url": "https://open.spotify.com/track/1gjBYuGJM1RPLKrhQy5Sjo"
+      "duration_ms": 183066,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/4sOeCVCew7f63JaVnflu2U"
     },
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "five cycles through an empty chamber",
-        "url": "https://open.spotify.com/album/5k2FfmQtwwj83auNkMDPTe"
+        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
+        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
       },
       "artists": [
         {
-          "name": "Emra Grid",
-          "url": "https://open.spotify.com/artist/20sUjZQrFJhslGZLMpvyIY"
+          "name": "Vanessa Amara",
+          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
         }
       ],
-      "duration_ms": 576000,
-      "name": "the river race",
-      "url": "https://open.spotify.com/track/7tA1grFgMTBKiRwebiyvF8"
+      "duration_ms": 188875,
+      "name": "Piano II",
+      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2035,18 +2003,18 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Low Smoulder / Canary",
-        "url": "https://open.spotify.com/album/3bUoijDzf8zWf0KfYF1OA1"
+        "name": "five cycles through an empty chamber",
+        "url": "https://open.spotify.com/album/5k2FfmQtwwj83auNkMDPTe"
       },
       "artists": [
         {
-          "name": "William Ryan Fritch",
-          "url": "https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl"
+          "name": "Emra Grid",
+          "url": "https://open.spotify.com/artist/20sUjZQrFJhslGZLMpvyIY"
         }
       ],
-      "duration_ms": 386500,
-      "name": "Low Smoulder",
-      "url": "https://open.spotify.com/track/7d8ZJaA8vvqu3FoIhGZ73V"
+      "duration_ms": 576000,
+      "name": "the river race",
+      "url": "https://open.spotify.com/track/7tA1grFgMTBKiRwebiyvF8"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2067,6 +2035,22 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
+        "name": "Indifference",
+        "url": "https://open.spotify.com/album/2NOcwQdh1hOi3YudH6pwD9"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Indifference - Slowed",
+      "url": "https://open.spotify.com/track/1gjBYuGJM1RPLKrhQy5Sjo"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
         "name": "is this nature escape",
         "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
       },
@@ -2083,6 +2067,46 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
+        "name": "Low Smoulder / Canary",
+        "url": "https://open.spotify.com/album/3bUoijDzf8zWf0KfYF1OA1"
+      },
+      "artists": [
+        {
+          "name": "William Ryan Fritch",
+          "url": "https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl"
+        }
+      ],
+      "duration_ms": 386500,
+      "name": "Low Smoulder",
+      "url": "https://open.spotify.com/track/7d8ZJaA8vvqu3FoIhGZ73V"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Sleeping Sculptures",
+        "url": "https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq"
+      },
+      "artists": [
+        {
+          "name": "Voice Of Art",
+          "url": "https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk"
+        },
+        {
+          "name": "Kenneth Bager",
+          "url": "https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU"
+        },
+        {
+          "name": "Troels Hammer",
+          "url": "https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR"
+        }
+      ],
+      "duration_ms": 241278,
+      "name": "Ten Days Of Silence",
+      "url": "https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
         "name": "Neon (Remastered)",
         "url": "https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui"
       },
@@ -2095,22 +2119,6 @@
       "duration_ms": 360000,
       "name": "The Smoke In The Photo - Remastered",
       "url": "https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
-        "name": "Nuuk",
-        "url": "https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc"
-      },
-      "artists": [
-        {
-          "name": "Thomas K\u00f6ner",
-          "url": "https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Nuuk (Air)",
-      "url": "https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2147,42 +2155,18 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Sleeping Sculptures",
-        "url": "https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq"
+        "name": "Nuuk",
+        "url": "https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc"
       },
       "artists": [
         {
-          "name": "Voice Of Art",
-          "url": "https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk"
-        },
-        {
-          "name": "Kenneth Bager",
-          "url": "https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU"
-        },
-        {
-          "name": "Troels Hammer",
-          "url": "https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR"
+          "name": "Thomas K\u00f6ner",
+          "url": "https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v"
         }
       ],
-      "duration_ms": 241278,
-      "name": "Ten Days Of Silence",
-      "url": "https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
-        "name": "Shadow Box",
-        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
-      },
-      "artists": [
-        {
-          "name": "Vanity Productions",
-          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Melts All Your Memories",
-      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
+      "duration_ms": 290813,
+      "name": "Nuuk (Air)",
+      "url": "https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2199,6 +2183,22 @@
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Shadow Box",
+        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
+      },
+      "artists": [
+        {
+          "name": "Vanity Productions",
+          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Melts All Your Memories",
+      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "The All in Every This",
-        "url": "https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9"
-      },
-      "artists": [
-        {
-          "name": "Glenneth",
-          "url": "https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa"
-        }
-      ],
-      "duration_ms": 511974,
-      "name": "Devolve",
-      "url": "https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Kinesthesia",
         "url": "https://open.spotify.com/album/2ZdAP7EYlFz4iH89riAGx1"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 228000,
       "name": "the water rushing over my skin",
       "url": "https://open.spotify.com/track/3XV3UzNtzopyJAgLh5TqtF"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "The All in Every This",
+        "url": "https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9"
+      },
+      "artists": [
+        {
+          "name": "Glenneth",
+          "url": "https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa"
+        }
+      ],
+      "duration_ms": 511974,
+      "name": "Devolve",
+      "url": "https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Mindstorm",
-        "url": "https://open.spotify.com/album/08o76ydmfNHnB6VwzlhlrD"
+        "name": "Soundtracks for Winter Departures",
+        "url": "https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269"
       },
       "artists": [
         {
-          "name": "mindrae.",
-          "url": "https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R"
+          "name": "ILUITEQ",
+          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
         }
       ],
-      "duration_ms": 150000,
-      "name": "gates",
-      "url": "https://open.spotify.com/track/1L7S9ISZQC1IuEgYGd91v8"
+      "duration_ms": 288626,
+      "name": "The Arrival",
+      "url": "https://open.spotify.com/track/43hoTnsjs3Vsx8P1SCQLlP"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Soundtracks for Winter Departures",
-        "url": "https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269"
-      },
-      "artists": [
-        {
-          "name": "ILUITEQ",
-          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "The Arrival",
-      "url": "https://open.spotify.com/track/43hoTnsjs3Vsx8P1SCQLlP"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/4ihYSzyNbJ2Xk5XgmdyFtS"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 152279,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/6ghDVCa0ybhPsQVtj9DxF0"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "Mindstorm",
+        "url": "https://open.spotify.com/album/08o76ydmfNHnB6VwzlhlrD"
+      },
+      "artists": [
+        {
+          "name": "mindrae.",
+          "url": "https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "gates",
+      "url": "https://open.spotify.com/track/1L7S9ISZQC1IuEgYGd91v8"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2403,6 +2403,38 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
+        "name": "Winter Ashes",
+        "url": "https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N"
+      },
+      "artists": [
+        {
+          "name": "Anthony Linell",
+          "url": "https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS"
+        }
+      ],
+      "duration_ms": 318995,
+      "name": "H\u00e1vam\u00e1l",
+      "url": "https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "1 Room",
+      "url": "https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
         "name": "Pale Ravine",
         "url": "https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz"
       },
@@ -2435,6 +2467,22 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Northern Light",
+      "url": "https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc"
+    },
+    {
+      "added_at": "2023-12-01 18:02:47",
+      "album": {
         "name": "Slow for an Instant",
         "url": "https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j"
       },
@@ -2447,22 +2495,6 @@
       "duration_ms": 260000,
       "name": "Still Like the South Wind",
       "url": "https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "1 Room",
-      "url": "https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U"
     },
     {
       "added_at": "2023-12-01 18:02:47",
@@ -2483,38 +2515,6 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 152213,
-      "name": "Northern Light",
-      "url": "https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
-        "name": "Building Reflections",
-        "url": "https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G"
-      },
-      "artists": [
-        {
-          "name": "Nature of Wires",
-          "url": "https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL"
-    },
-    {
-      "added_at": "2023-12-01 18:02:47",
-      "album": {
         "name": "Dokkaebi",
         "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
       },
@@ -2531,18 +2531,18 @@
     {
       "added_at": "2023-12-01 18:02:47",
       "album": {
-        "name": "Winter Ashes",
-        "url": "https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N"
+        "name": "Building Reflections",
+        "url": "https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G"
       },
       "artists": [
         {
-          "name": "Anthony Linell",
-          "url": "https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS"
+          "name": "Nature of Wires",
+          "url": "https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi"
         }
       ],
-      "duration_ms": 318995,
-      "name": "H\u00e1vam\u00e1l",
-      "url": "https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m"
+      "duration_ms": 195200,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL"
     },
     {
       "added_at": "2023-12-01 18:02:47",

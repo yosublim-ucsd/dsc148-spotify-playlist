@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 62465,
+  "2024-02-15": 62500,
   "date_first_scraped": "2022-08-06",
   "description": "Turn traffic stops into jam sessions.",
   "name": "Traffic Jams Naija ",
@@ -2289,6 +2289,28 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "album": {
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195875,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/0UqEAKC6380mgNiIZ7dSN9"
     },
     {
       "album": {
@@ -6165,7 +6187,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 199288,
       "name": "Marry",
       "url": "https://open.spotify.com/track/1RdJBwpiYkf3mB8Tlak7ck"
@@ -7121,7 +7143,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 204631,
       "name": "Normally",
       "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
@@ -8497,7 +8519,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"

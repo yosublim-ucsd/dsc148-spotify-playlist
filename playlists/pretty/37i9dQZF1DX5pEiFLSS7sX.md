@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,919 likes - 100 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,986 likes - 100 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 86 | [When My Heart Became Aware](https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 3:58 |
 | 87 | [Nothing Is Holding Me Back](https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Here On Earth](https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA) | 4:24 |
 | 88 | [I Am No Victim](https://open.spotify.com/track/2XkTROEhPw2Abzri1F20iL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:41 |
-| 89 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
+| 89 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
 | 90 | [Goodness](https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 5:35 |
 | 91 | [Find Me](https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 4:25 |
 | 92 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 | 93 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 94 | [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 |
-| 95 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
+| 95 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
 | 96 | [Prophesy Your Promise](https://open.spotify.com/track/4X0WNlQtcoGOf4mWlUIeD7) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 5:41 |
 | 97 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
-| 98 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
-| 99 | [Heart Wide Open](https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 4:42 |
+| 98 | [Heart Wide Open](https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 4:42 |
+| 99 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
 | 100 | [Move \- Live](https://open.spotify.com/track/4SsE5oHM1nOEH8XEbEpugm) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:50 |
 
-Snapshot ID: `MCw1Y2I2Nzc0ODk1YmRkNGI1NjU4NjM1MzlhNjhiMTNkMTI4NmRjY2Yw`
+Snapshot ID: `MCxkMjdkOTk3OTE1YzBjZThhMTcxZTEyNmFlYzE5ZTRkYWM3M2Y1OWEw`

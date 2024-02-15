@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ryu, the Runner, Enzo from the Block
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,322 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,347 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 75 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 |
 
-Snapshot ID: `MCw5OWM5NDNmMzBlZjRhN2ZmYjc5NDk0ZjZhNzU2OGQ3MWZlODQ4MWIx`
+Snapshot ID: `MCw3YmQ3ZjE1NGI0MDU0ZTIzNWUzY2ZkZjJmYjM0MzczNTNmOGY2MDNi`

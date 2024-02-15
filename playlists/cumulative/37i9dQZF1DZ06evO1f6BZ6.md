@@ -4,11 +4,12 @@
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 56 min
+52 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Less Talk And A Lot More Action](https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 2:50 | 2024-02-07 |  |
+| [A Little Too Late](https://open.spotify.com/track/5djhyxT7ZIzM1rP2XE2ygb) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 4:08 | 2024-02-14 |  |
 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 | 2024-02-07 |  |
 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 | 2024-02-07 |  |
 | [As Good As I Once Was](https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:47 | 2024-02-07 |  |
@@ -47,7 +48,7 @@
 | [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 | 2024-02-07 |  |
 | [Shut up and Hold On](https://open.spotify.com/track/4LbyaKFseyaiyCCvbF1j2z) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Drinks After Work](https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH) | 2:55 | 2024-02-07 |  |
 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 | 2024-02-07 |  |
-| [Sundown \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:33 | 2024-02-07 |  |
+| [Sundown \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:33 | 2024-02-07 | 2024-02-15 |
 | [The Taliban Song \- Live](https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:58 | 2024-02-07 |  |
 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 | 2024-02-07 |  |
 | [Trailerhood](https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 2:53 | 2024-02-07 |  |

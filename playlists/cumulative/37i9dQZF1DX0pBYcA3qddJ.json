@@ -5,7 +5,7 @@
   "tracks": [
     {
       "album": {
-        "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc:\u30d4\u30a2\u30ce\u5354\u594f\u66f2 \u7b2c1\u756a\u3001\u4ed6",
+        "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\uff1a\u30d4\u30a2\u30ce\u5354\u594f\u66f2 \u7b2c1\u756a\u3001\u4ed6",
         "url": "https://open.spotify.com/album/5o0pobWmxuMZi83CpVYuKM"
       },
       "artists": [
@@ -5977,6 +5977,24 @@
     },
     {
       "album": {
+        "name": "Body Meets Dress",
+        "url": "https://open.spotify.com/album/6mIzzvDK2VNsrbUorkay1w"
+      },
+      "artists": [
+        {
+          "name": "Blumepopo",
+          "url": "https://open.spotify.com/artist/04RNBUTa49gFIa0Kqc7UYQ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "manasashi",
+      "url": "https://open.spotify.com/track/1msvCHfs8WX8GEaJfZ4Iu2"
+    },
+    {
+      "album": {
         "name": "Me Time",
         "url": "https://open.spotify.com/album/4P0VkjOeK4srTWqEe2M8sH"
       },
@@ -10250,6 +10268,32 @@
     {
       "album": {
         "name": "UNICORN",
+        "url": "https://open.spotify.com/album/6wLYM2M4RLKsXSbcoR3NHe"
+      },
+      "artists": [
+        {
+          "name": "Nanaco Sato",
+          "url": "https://open.spotify.com/artist/5jBW0pDTtDdHdYQnQu8iIN"
+        },
+        {
+          "name": "Toru Okada",
+          "url": "https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO"
+        },
+        {
+          "name": "Yusuke Sato",
+          "url": "https://open.spotify.com/artist/6ekst7TqSc5t6qan4yEt0n"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207685,
+      "name": "UNICORN",
+      "url": "https://open.spotify.com/track/0DgGervwg1jBfFNFn7vKao"
+    },
+    {
+      "album": {
+        "name": "UNICORN",
         "url": "https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV"
       },
       "artists": [
@@ -10268,7 +10312,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 207685,
       "name": "UNICORN",
       "url": "https://open.spotify.com/track/44MRKShx562b6moPwz1wI8"
@@ -11304,7 +11348,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 223573,
       "name": "\u307e\u306a\u3056\u3057",
       "url": "https://open.spotify.com/track/42RuSzxp1B7DXgQBj1mYF3"

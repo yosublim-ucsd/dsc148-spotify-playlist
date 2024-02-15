@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 180550,
+  "num_followers": 180622,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTE1NzMwZDBmNGZhZmZmMjhjNmIxYmZmOGNlNmE1MmUwODNhYmFh",
+  "snapshot_id": "MCwwZjNhNTgxZjk3ODBlNGUwYTY5NDY0YzM4ODc2ZDM1ZGIxZDQyMzgz",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Turn Down for What",
         "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 213733,
       "name": "Turn Down for What",
       "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -955,8 +955,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Nothing but the Beat 2.0",
-        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
       },
       "artists": [
         {
@@ -964,13 +964,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Titanium (feat. Sia)",
-      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
+      "duration_ms": 201040,
+      "name": "Who's That Chick? (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 208561,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+        "name": "Nothing but the Beat 2.0",
+        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
       "artists": [
         {
@@ -1140,37 +1140,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Who's That Chick? (feat. Rihanna)",
-      "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Sorry For Party Rocking",
-        "url": "https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq"
-      },
-      "artists": [
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        },
-        {
-          "name": "Lauren Bennett",
-          "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
-        },
-        {
-          "name": "GoonRock",
-          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Party Rock Anthem",
-      "url": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1199,18 +1175,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+        "name": "Sorry For Party Rocking",
+        "url": "https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lauren Bennett",
+          "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
+        },
+        {
+          "name": "GoonRock",
+          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
         }
       ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
+      "duration_ms": 262173,
+      "name": "Party Rock Anthem",
+      "url": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1227,6 +1211,22 @@
       "duration_ms": 159999,
       "name": "Drop That Low (When I Dip)",
       "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Freaks - Radio Edit",
-      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 179960,
       "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
       "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Freaks - Radio Edit",
+      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "Move Your Body - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "Move Your Body - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Astronomia",
-        "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Astronomia",
-      "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 189399,
       "name": "Prayer in C - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Astronomia",
+        "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Astronomia",
+      "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "REMEDY",
-        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "REMEDY",
-      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 203133,
       "name": "Peanut Butter Jelly",
       "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "REMEDY",
+        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
     }
   ],
   "unique_name": "Dance Hits 2010s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Mad Caddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,215 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,265 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 100 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 
-Snapshot ID: `MCw4M2I3MmJiMGJkNjgxZTA3NWRhYzdjZDZhZTQzZGQwYzczOGNhYjVh`
+Snapshot ID: `MCwyY2JkYjJmYmNiNTc2MDhkMmNjZmE2YzdjNTYyNWRlOWRmNTA2ZGUx`

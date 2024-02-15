@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,821 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,857 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 74 | [Distant](https://open.spotify.com/track/0sUh3Wq1Gf8K47d1E7BrtG) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:24 |
 | 75 | [Bloom](https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:01 |
 
-Snapshot ID: `MCw2Njc0MGU2OGNiOTg0MzQ4MjFkYjdkZGFjZTA5YzYxMzJiZGMxZDdm`
+Snapshot ID: `MCwwYTg5Y2E0NzVhYzNlZDM2NmQxYjA0ODNkZjIyMzg5ZjlhNGY4M2U1`

@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 83502,
+  "num_followers": 83526,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGZiN2FkMzI0MjYyOTA3NDA5YjIzYzViOGRmNjFjN2VkNTdkZTkw",
+  "snapshot_id": "MCw5MjcyYTdkM2UyZTExYWVlZjJjOGYzMTYxNTZhY2I4ZDBiZGIyZTY3",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -59,6 +59,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange (2005 Remaster)",
+      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "La Grange (2005 Remaster)",
-      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 184960,
       "name": "One Bourbon, One Scotch, One Beer",
       "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "A Bothered Mind",
         "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -755,6 +739,22 @@
       "duration_ms": 232866,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 227751,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246177,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 227751,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
+        "name": "I'm Glad Trouble Don't Last Always",
+        "url": "https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
+      "duration_ms": 257586,
+      "name": "I'm Glad Trouble Don't Last Always",
+      "url": "https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "I'm Glad Trouble Don't Last Always",
-        "url": "https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 257586,
-      "name": "I'm Glad Trouble Don't Last Always",
-      "url": "https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O"
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Fast Fingers",
-        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Little Angel Child",
-      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
@@ -1307,22 +1291,6 @@
       "duration_ms": 317320,
       "name": "What Kind Of Woman Is This?",
       "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1339,6 +1307,38 @@
       "duration_ms": 300880,
       "name": "Your Heart Is As Black As Night",
       "url": "https://open.spotify.com/track/5pjQtnAoVLWChCwIZEL2C1"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Little Angel Child",
+      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
+      "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 199734,
       "name": "Inflation",
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
-      "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Essential Sonny Boy Williamson",
-        "url": "https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "I Be Trying",
@@ -1511,6 +1495,22 @@
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Essential Sonny Boy Williamson",
+        "url": "https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1577,6 +1577,22 @@
       "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
+        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "The Pleasure's All Mine",
+      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
+    },
+    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Trouble Is...",
@@ -1627,22 +1643,6 @@
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
-        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
     }
   ],
   "unique_name": "Blues Drive",

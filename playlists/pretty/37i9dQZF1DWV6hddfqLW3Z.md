@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,565 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,646 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 30 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
 | 31 | [Paciência](https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Na Pressão](https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG) | 4:44 |
 | 32 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
-| 33 | [Se fosse tão fácil \- Acústico](https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Se fosse tão fácil \(Acústico\)](https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9) | 3:18 |
-| 34 | [Voce E Linda \- Remixed Original Album](https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Uns](https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3) | 4:52 |
+| 33 | [Voce E Linda \- Remixed Original Album](https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Uns](https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3) | 4:52 |
+| 34 | [Se fosse tão fácil \- Acústico](https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Se fosse tão fácil \(Acústico\)](https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9) | 3:18 |
 | 35 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
 | 36 | [Apesar de Querer](https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/0ErKcgeiea7yFFpyBvXIpb) | 4:04 |
 | 37 | [Ninguém](https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Onde?](https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS) | 3:10 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 42 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 |
 | 43 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 |
 | 44 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
-| 45 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
-| 46 | [Chega de Saudade](https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:03 |
+| 45 | [Chega de Saudade](https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:03 |
+| 46 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
 | 47 | [Pra Melhorar](https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Pra Melhorar](https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv) | 4:16 |
 | 48 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 49 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Grão de Amor](https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Saiba](https://open.spotify.com/album/68Yj9neF1g9YG1Joo1noqM) | 3:05 |
 | 70 | [Vilarejo \- Ao Vivo](https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas Ao Vivo](https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b) | 4:33 |
 
-Snapshot ID: `MCwzMWY2YWQ3ZGQxNTJlOGZkODczOGQ4MjZiOWZlMTgyM2QzNWU3MDQ3`
+Snapshot ID: `MCwzYWM4OGRjMzM3OGViNjI4Y2U2OWNlYzgzZTA4ZWE2YjZkYzUwNTEy`

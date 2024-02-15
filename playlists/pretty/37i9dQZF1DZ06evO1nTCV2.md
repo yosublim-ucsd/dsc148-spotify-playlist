@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,590 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,591 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 22 | [Self Defense](https://open.spotify.com/track/7LU42REV9PNkZfnivCckZb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:40 |
 | 23 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 |
 | 24 | [New York, New York](https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:46 |
-| 25 | [Sword and Stone](https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:19 |
+| 25 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 |
 | 26 | [So Lost](https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:41 |
 | 27 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 |
 | 28 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
-| 29 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 |
+| 29 | [Sword and Stone](https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:19 |
 | 30 | [Tomorrow Never Comes](https://open.spotify.com/track/0On3jM7uFiphkDSQpjbJM9) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:24 |
 | 31 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 |
 | 32 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 40 | [Do You Still Love Me?](https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:59 |
 | 41 | [Why](https://open.spotify.com/track/7A2Nu23pMnODXpUgjgnS58) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:17 |
 | 42 | [To Be With You \(Live\)](https://open.spotify.com/track/7G0mtQvZD2kIRV2kI3mD3p) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:17 |
-| 43 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
-| 44 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
+| 43 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
+| 44 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
 | 45 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
 | 46 | [Anything I Say to You Now \(Live\)](https://open.spotify.com/track/55UIfce4XNbIQzsRUCD17N) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 4:28 |
-| 47 | [Out of the Woods](https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 6:07 |
-| 48 | [Mercy](https://open.spotify.com/track/51cT1IVnSSyeO0Q9aoJrx5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:24 |
+| 47 | [Mercy](https://open.spotify.com/track/51cT1IVnSSyeO0Q9aoJrx5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:24 |
+| 48 | [Out of the Woods](https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 6:07 |
 | 49 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
 | 50 | [Outbound Train \(Live\)](https://open.spotify.com/track/1rzRw9ldxDDUsSVALuhpX7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:54 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA5ZTkyOGU4ZTIzNTc1NzYwNDM0NTJiZGQwMjNkYTRjOA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAzNDY1ZjYzYTMwNzdmODE3ZjhmYjc5MmExZTc3ZTQzMg==`

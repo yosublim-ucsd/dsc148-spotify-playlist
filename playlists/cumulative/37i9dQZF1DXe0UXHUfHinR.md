@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-699 songs - 2 day 7 hr 14 min
+700 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Days Of Wine And Roses](https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 3:21 | 2022-10-27 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar](https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR) | 3:46 | 2022-10-27 |  |
 | [De Tor Ahead](https://open.spotify.com/track/585SL1gwCrAsddD4iYFK2M) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:50 | 2022-10-27 |  |
+| [Dear Kathy](https://open.spotify.com/track/151RegbPut96kOvkSiPqLb) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:48 | 2024-02-01 |  |
 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 | 2022-10-27 |  |
 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 | 2023-01-18 | 2023-03-21 |
 | [Deep In A Dream](https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 6:42 | 2022-10-27 |  |
@@ -448,7 +449,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-10-27 |  |
 | [Never Will I Marry](https://open.spotify.com/track/2bOUrmH6OljKtXOLjvVEU8) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:19 | 2022-10-27 |  |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2022-10-27 | 2024-01-26 |
-| [Night Dreamer \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:15 | 2023-08-30 |  |
+| [Night Dreamer \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:15 | 2023-08-30 | 2024-02-15 |
 | [Night Lights](https://open.spotify.com/track/7jGGHvY9NqG8uSgnbqNF82) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Walkman Jazz : Gerry Mulligan](https://open.spotify.com/album/6S6PvrkZJLydWWV7569wLw) | 4:52 | 2024-02-01 |  |
 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 | 2022-10-27 |  |
 | [Now's The Time](https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 3:01 | 2022-10-27 |  |

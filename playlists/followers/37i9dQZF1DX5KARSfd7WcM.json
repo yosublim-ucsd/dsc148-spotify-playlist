@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 793190,
+  "2024-02-15": 793186,
   "date_first_scraped": "2022-05-30",
   "description": "Show the world what love is made of. Listen to the music from Heartstopper, new season now streaming on Netflix. ",
   "name": "Heartstopper: Official Playlist",
@@ -969,10 +969,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 189634,
       "name": "Moment In The Sun",
       "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
+    },
+    {
+      "album": {
+        "name": "Headful of Sugar",
+        "url": "https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189634,
+      "name": "Moment In The Sun - Bonus Track",
+      "url": "https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz"
     },
     {
       "album": {

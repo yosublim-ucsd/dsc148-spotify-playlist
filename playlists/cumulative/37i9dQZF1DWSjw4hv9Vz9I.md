@@ -4,7 +4,7 @@
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-126 songs - 7 hr 35 min
+127 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2021-09-10 |  |
 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 | 2021-07-13 |  |
 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2021-07-13 |  |
-| [Come On Over feat\. Afrodyete](https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Dusk Till Dawn](https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv) | 4:26 | 2021-07-13 |  |
+| [Come On Over feat\. Afrodyete](https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Dusk Till Dawn](https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv) | 4:26 | 2021-07-13 | 2024-02-15 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-13 |  |
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2021-07-13 |  |
 | [Do It Again](https://open.spotify.com/track/0JEL0mNhB89bnkvPAuffd4) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:59 | 2021-07-13 |  |
@@ -112,6 +112,7 @@
 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 | 2021-07-13 |  |
 | [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 | 2021-07-13 |  |
 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-12-13 |  |
+| [Tell Me You Want Me](https://open.spotify.com/track/7zbKHWBsTWNXxfnbXspD14) | [J + the Bishops](https://open.spotify.com/artist/3X03z6e5Be1XeWxSMwCfFI) | [Tell Me You Want Me](https://open.spotify.com/album/1aatsTnusZbPtOW3LLMQ1I) | 3:36 | 2021-07-13 |  |
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2021-07-13 |  |
 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 | 2021-07-13 |  |
 | [The Keys](https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/2uYzXe3PhOs9p7jW3jDZue) | 3:37 | 2021-07-13 |  |

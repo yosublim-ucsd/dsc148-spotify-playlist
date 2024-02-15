@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,918 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,963 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 16 | [Stuck In A Dream \(feat\. Gunna\)](https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Certified Hitmaker](https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp) | 2:03 |
 | 17 | [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 |
 | 18 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
-| 19 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
-| 20 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 |
+| 19 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 |
+| 20 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
 | 21 | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox) | 2:46 |
 | 22 | [ca$h $hit](https://open.spotify.com/track/48rsYvIQXUAtxcmIoStOaM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:11 |
 | 23 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 50 | [No Time \(feat\. Gunna\)](https://open.spotify.com/track/5pHJv0bgNsT9nPoK2BjNBn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:39 |
 | 51 | [Numbers \(feat\. Roddy Ricch, Gunna and London On Da Track\)](https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:08 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBkYzA5ZDA4MDQ0ZWViM2I3YzMwZTkzYzI5YjI2ZWZlZg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBmOTRkZTA3MGZlYWM2Y2E0MGQ3MjQyZTIxOWVjMWZiNQ==`

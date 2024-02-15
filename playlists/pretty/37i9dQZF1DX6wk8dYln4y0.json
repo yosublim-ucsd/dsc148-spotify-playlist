@@ -1,12 +1,12 @@
 {
   "description": "Spotify 's *hits different* - a playlist pop-up in Sydney feat. your favourite artists. Click  <a href=\"https://spoti.fi/hitsdifferentsummercampday1\"> here </a> for more info. Cover: Ruel",
-  "num_followers": 532013,
+  "num_followers": 531990,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGM3YWM2YzBmMWIxYmJjOTgwOTA0MjQyMjQxNzE4NWJjOGNlOWE3",
+  "snapshot_id": "MCw0MzdhOTQxNzJlYjk1NWQ2YTBjM2M1YWU3MWI4YzA4MTg3NGZkMjA4",
   "tracks": [
     {
       "added_at": "2024-02-08 13:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-02-08 13:00:00",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-02-08 13:00:00",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "added_at": "2024-02-08 13:00:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-02-08 13:00:00",

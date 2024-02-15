@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,383 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,341 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 54 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 55 | [Mama](https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:04 |
 
-Snapshot ID: `MCwxZGEwNzViYTRjM2RjMjYzZDJmZWEyNDMyN2FlNjk5YWNkZjE3MDll`
+Snapshot ID: `MCxhNmUzNzAzOTA3NWJiZmEyNTFkZjdkNTVkN2Y3MGZmNTRjZDRjNDE5`

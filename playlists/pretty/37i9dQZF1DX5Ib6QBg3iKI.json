@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 132127,
+  "num_followers": 132113,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmM0ODNlZWVlZWJkOWFiYWM5OTVjNGQ3NmZlNWI0NjYxNjdmZjcw",
+  "snapshot_id": "MCw0NmViZDZjNTVkZmFmMjYyY2RmNTNmZGI0YmUxNmZhZmYwZjZlMTVh",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
     },
     {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
       "added_at": "2023-12-20 11:32:39",
       "album": {
         "name": "Silent Night",
@@ -775,22 +791,6 @@
       "duration_ms": 213160,
       "name": "Lonely This Christmas",
       "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "The Whisper",
         "url": "https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L"
       },
@@ -955,6 +971,22 @@
       "duration_ms": 251310,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Bing's Gold Records - The Original Decca Recordings",
+        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -991,38 +1023,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Bing's Gold Records - The Original Decca Recordings",
-        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "The Magic Of Boney M. (Special Remix Edition)",
         "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 242186,
       "name": "Mary's Boy Child / Oh My Lord",
       "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 164600,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "Together In Electric Dreams",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "A Dreamer's Holiday",
         "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
       },
       "artists": [
         {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 215058,
-      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
+      "duration_ms": 164600,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Together In Electric Dreams",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
+      "duration_ms": 215058,
+      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
     },
     {
       "added_at": "2023-11-28 17:00:03",

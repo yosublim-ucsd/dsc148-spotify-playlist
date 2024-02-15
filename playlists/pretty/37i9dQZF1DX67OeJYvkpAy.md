@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,344 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,338 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 9 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 |
 | 10 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
 | 11 | [Frozen Gold](https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3) | 2:18 |
-| 12 | [Love & Attention](https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Love & Attention](https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3) | 2:37 |
-| 13 | [Missing You](https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt) | [Mboogz](https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB) | [Missing You](https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1) | 3:33 |
+| 12 | [Missing You](https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt) | [Mboogz](https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB) | [Missing You](https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1) | 3:33 |
+| 13 | [Love & Attention](https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Love & Attention](https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3) | 2:37 |
 | 14 | [Derby to Moston](https://open.spotify.com/track/1tgXsEwPOCa2FVWCuofXp7) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [Derby to Moston](https://open.spotify.com/album/37O4vQPS8aXYH9DP5m3xBa) | 3:02 |
 | 15 | [4am](https://open.spotify.com/track/7afBX5p6Qw5RPfpedhEMWS) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/0SDeBHRN5zC4oWSWyyKrep) | 3:13 |
 | 16 | [Clearest of Signs](https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [Clearest of Signs](https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCxjOTZiNDRjNzg1NjI4YjkxNzQzMjI2ZmFlMGI3YzI2YzY3MmMwMjk1`
+Snapshot ID: `MCwyZjZhZDExYTdiMzBhOGYyNDVlNzVjNDQ3YmJmODQzM2ZlZjdlNTMy`

@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 208140,
+  "num_followers": 208243,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2",
+  "snapshot_id": "MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Other Lights",
-        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 128773,
-      "name": "An Ending, a Beginning",
-      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Small Craft On A Milk Sea",
         "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 132306,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Other Lights",
+        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 128773,
+      "name": "An Ending, a Beginning",
+      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596772,
+      "name": "Immunity - Remaster 2023",
+      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596772,
-      "name": "Immunity - Remaster 2023",
-      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Solo Piano",
-        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
-      },
-      "artists": [
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Hi Scores",
         "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 419565,
       "name": "Everything You Do Is A Balloon",
       "url": "https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Solo Piano",
+        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "I Become A Shade",
-        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
-      },
-      "artists": [
-        {
-          "name": "Seoul",
-          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "Stay With Us",
-      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Sabresonic",
         "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I Become A Shade",
+        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
+      },
+      "artists": [
+        {
+          "name": "Seoul",
+          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
+        }
+      ],
+      "duration_ms": 237945,
+      "name": "Stay With Us",
+      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "The Way You Talk",
-      "url": "https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Bright Serpent",
         "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
       "artists": [
         {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
         }
       ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 220355,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Love In The Time Of Lexapro",
         "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Short And Sweet",
         "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 293306,
       "name": "I Think Of You",
       "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Far Away Trains Passing By",
-        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 397986,
-      "name": "Passing By - 2019 remaster",
-      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+        "name": "Far Away Trains Passing By",
+        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
       },
       "artists": [
         {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Light Bodied",
-      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
+      "duration_ms": 397986,
+      "name": "Passing By - 2019 remaster",
+      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Light Bodied",
+      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1615,26 +1615,6 @@
       "duration_ms": 342604,
       "name": "Lonely Romance",
       "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "I Will Make Room for You (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 497500,
-      "name": "I Will Make Room for You - Four Tet Remix",
-      "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1659,6 +1639,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "I Will Make Room for You (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 497500,
+      "name": "I Will Make Room for You - Four Tet Remix",
+      "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
+        "name": "Themes for a New Earth",
+        "url": "https://open.spotify.com/album/0X0yNR4beqvHw4HtqNfj1g"
       },
       "artists": [
         {
-          "name": "S+C+A+R+R",
-          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 167986,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
+      "duration_ms": 284705,
+      "name": "Kilika",
+      "url": "https://open.spotify.com/track/3W2uJ9jgY0l55Rs1BCmgTu"
     }
   ],
   "unique_name": "Electronica Romantica",

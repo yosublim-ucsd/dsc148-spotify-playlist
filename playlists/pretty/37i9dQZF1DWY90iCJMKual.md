@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Felip, PLAYERTWO
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,440 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,480 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
+| 1 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 2 | [Slow Burn](https://open.spotify.com/track/4Vc9QBoqlzWzDNEHwwKKTU) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Slow Burn](https://open.spotify.com/album/0Yb4SCZrLJYzxS3muoDYUl) | 2:18 |
 | 3 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 |
 | 4 | [Shawty](https://open.spotify.com/track/0S7aR94L2NOJYDHWB97Yy6) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Shawty](https://open.spotify.com/album/51qJ7XaO2Eh4DLIyS8SzZ0) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 |
 | 50 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 |
 
-Snapshot ID: `MCxjYTU2OGFiMzI0NWEyZDI4YmE3M2YwODk0MTY1ZDRhNWI4OTlhNGY1`
+Snapshot ID: `MCw4MDM0ZDA0YmJjMzYzOWNjZWYyNjQyNjI4YjFkN2RlYmMzMWI5YWU1`

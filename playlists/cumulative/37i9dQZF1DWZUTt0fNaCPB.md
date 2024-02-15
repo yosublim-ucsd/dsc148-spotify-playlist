@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-205 songs - 13 hr 2 min
+206 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-07-05 |  |
 | [Same Direction](https://open.spotify.com/track/4QVD4vVkYveZuO0xkyi6AX) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:15 | 2022-07-05 | 2024-01-19 |
 | [Same Direction](https://open.spotify.com/track/4TE3J7Je90igUpS3ntQS7W) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/3wwRx7Tjr2BXD9Z4yGliie) | 3:15 | 2022-04-01 | 2022-04-21 |
+| [Same Direction](https://open.spotify.com/track/4yfJXAokD3j8HXoYASBfPX) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:15 | 2023-10-25 |  |
 | [Save Me](https://open.spotify.com/track/04y87ZHRUltfVDeJBg3krN) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Save Me](https://open.spotify.com/album/0b3GR8IkCHjIoCdjqOvqUC) | 2:48 | 2022-04-01 | 2022-04-16 |
 | [Seal The Deal](https://open.spotify.com/track/67gIy3f2Kfdun5illopj4t) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal](https://open.spotify.com/album/70D2TjnHZG72kUxZoUeBQk) | 4:09 | 2021-12-15 | 2022-07-29 |
 | [Seal The Deal](https://open.spotify.com/track/7HyEcQge7Nj46xNFpKrsi5) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 4:09 | 2022-08-12 | 2022-10-19 |
@@ -199,7 +200,7 @@
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2021-12-15 |  |
 | [War Is Killing Us All](https://open.spotify.com/track/65b1ds24VRmAsCAWef8RgQ) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [War Is Killing Us All](https://open.spotify.com/album/2p19Bf53q3lieWDazEtHU7) | 3:38 | 2022-04-01 | 2022-04-21 |
 | [Watch Me Burn](https://open.spotify.com/track/2LXQ6hH9OrEn11xz28xz82) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Blue Collar Revolver](https://open.spotify.com/album/5m8dQxfd0eU4HJjqH4tkml) | 3:30 | 2021-12-15 | 2022-07-29 |
-| [Watch Me Burn](https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Blue Collar Revolver](https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV) | 3:30 | 2022-10-18 |  |
+| [Watch Me Burn](https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Blue Collar Revolver](https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV) | 3:30 | 2022-10-18 | 2024-02-15 |
 | [We Got the Moves](https://open.spotify.com/track/4EFb9FhLyFiDbYKwBwDZre) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [We Got the Moves](https://open.spotify.com/album/3DlJt0IZ2E2YHTdyP9napb) | 3:26 | 2023-10-25 |  |
 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 | 2023-10-25 |  |
 | [When Legends Rise](https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:52 | 2022-07-05 | 2023-11-04 |

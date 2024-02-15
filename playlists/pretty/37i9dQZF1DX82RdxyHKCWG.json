@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Lil Nas X",
-  "num_followers": 125230,
+  "num_followers": 125235,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2EwNTY2MmFhZGZhMjkwZTAzMWIzNzI1OGU3NDg1MDFhZWUyNmI2",
+  "snapshot_id": "MCxhMjY3MWRkMGViNDExMjQzYTMyZjFhNWU1MTY2NjA2NmM4NzQ1YjA3",
   "tracks": [
     {
       "added_at": "2024-02-12 14:30:01",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
-        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
-        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
         "name": "Think U The Shit (Fart)",
         "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 141639,
       "name": "Think U The Shit (Fart)",
       "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
-        "name": "MY HOUSE",
-        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 262941,
-      "name": "MY HOUSE",
-      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -567,26 +567,18 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
-        "name": "Airplane Tickets",
-        "url": "https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 198514,
-      "name": "Airplane Tickets",
-      "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -615,22 +607,22 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -655,6 +647,50 @@
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
+        "name": "Airplane Tickets",
+        "url": "https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 198514,
+      "name": "Airplane Tickets",
+      "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -711,42 +747,6 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
       },
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
-        "name": "No Man's Land",
-        "url": "https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        }
-      ],
-      "duration_ms": 138234,
-      "name": "No Man's Land",
-      "url": "https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "duration_ms": 138234,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -847,6 +847,22 @@
       "duration_ms": 244684,
       "name": "One Of The Girls",
       "url": "https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
+        "name": "Lonely Dancers",
+        "url": "https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 149027,
+      "name": "Lonely Dancers",
+      "url": "https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -919,22 +935,6 @@
       "duration_ms": 205173,
       "name": "ELECTROWAVEBABY",
       "url": "https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
-        "name": "Lonely Dancers",
-        "url": "https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 149027,
-      "name": "Lonely Dancers",
-      "url": "https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 207611,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
         "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
         "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 225893,
       "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 207611,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4"
     },
     {
       "added_at": "2024-02-12 14:30:01",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-02-12 14:30:01",
       "album": {
+        "name": "This Is Me\u2026Now",
+        "url": "https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 253378,
+      "name": "This Is Me\u2026Now",
+      "url": "https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4"
+    },
+    {
+      "added_at": "2024-02-12 14:30:01",
+      "album": {
         "name": "QUER DAN\u00c7AR",
         "url": "https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 149163,
       "name": "Heart Still Beating",
       "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
-    },
-    {
-      "added_at": "2024-02-12 14:30:01",
-      "album": {
-        "name": "This Is Me\u2026Now",
-        "url": "https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 253378,
-      "name": "This Is Me\u2026Now",
-      "url": "https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4"
     },
     {
       "added_at": "2024-02-12 14:30:01",

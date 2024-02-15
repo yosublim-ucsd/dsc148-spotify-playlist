@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Caroline Polachek + Weyes Blood
 
-563 songs - 1 day 11 hr 20 min
+564 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Lookin' 4 Pleasure](https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF) | [Lookin' 4 Pleasure](https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF) | 3:39 | 2022-05-20 | 2022-06-01 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2021-06-03 | 2022-09-10 |
 | [Loser](https://open.spotify.com/track/32j6e9Wh6dk0jG9KZn9HBe) | [Causeway](https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i) | [We Were Never Lost](https://open.spotify.com/album/7edH6cPIKeJcS50pQ5DS45) | 4:05 | 2022-06-03 | 2022-07-29 |
-| [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 |  |
+| [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 | 2024-02-15 |
 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 | 2022-01-31 | 2022-04-01 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-05-20 | 2022-07-19 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-20 |  |
@@ -466,6 +466,7 @@
 | [Spirit](https://open.spotify.com/track/3bCllR1v5AhEwm9Wl8kyBT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Spirit](https://open.spotify.com/album/48uz1gNCoyPJve0UcggHhj) | 4:48 | 2021-06-03 | 2022-07-26 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 | 2022-10-21 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-01 | 2022-10-22 |
+| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-14 |  |
 | [Stains](https://open.spotify.com/track/3jqRDmH8YN6GT6j53kPi3a) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Stains](https://open.spotify.com/album/0ju0P8smAdTlOuWsd5sYdY) | 3:58 | 2021-06-11 | 2022-04-21 |
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-29 | 2023-10-30 |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2023-08-29 |  |

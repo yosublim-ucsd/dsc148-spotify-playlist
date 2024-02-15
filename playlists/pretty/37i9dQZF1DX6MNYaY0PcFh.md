@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,414 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,447 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 31 | [Friday Nights](https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Friday Nights](https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ) | 3:25 |
 | 32 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
 | 33 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 |
-| 34 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
-| 35 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
+| 34 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
+| 35 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
 | 36 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 37 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 |
 | 38 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 45 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
 | 46 | [Arrival](https://open.spotify.com/track/5utzfRVETLaJUETsgPyUBX) | [Yemi](https://open.spotify.com/artist/21ujgB2lJW9NT1D46pWuDj), [Edward White](https://open.spotify.com/artist/5hS9c3HfGey4nXQxjcrCS1) | [Arrival](https://open.spotify.com/album/0Dn3aTnI80EYspDqrUTFDS) | 3:46 |
 | 47 | [Flex](https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Flex](https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY) | 2:50 |
-| 48 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
-| 49 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
+| 48 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
+| 49 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
 | 50 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
 | 51 | [Wait](https://open.spotify.com/track/2KqiYfpsHKOztBfS1IGrnO) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Wait](https://open.spotify.com/album/5IKgIZI5z9g7r4e927d3zN) | 3:59 |
 | 52 | [Show Me](https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Show Me](https://open.spotify.com/album/61AStQYO30jVau93JxRtXP) | 4:29 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 56 | [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 |
 | 57 | [Lights In The Crowd](https://open.spotify.com/track/4CycOEzwvbrYnNq44aGBrc) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [Cesco & Chums](https://open.spotify.com/album/0j2KirysBHVgamExBrmjKL) | 3:34 |
 | 58 | [345](https://open.spotify.com/track/5uD2NZgs3MKQHj9fUiVIZN) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [345](https://open.spotify.com/album/5qV7RWCvG3uCjzt1MdAU0G) | 3:20 |
-| 59 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 |
-| 60 | [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 |
+| 59 | [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 |
+| 60 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 |
 
-Snapshot ID: `MCxmMzkxNWUxYzJiYTc3NTFiMmIxZGU5N2U2N2Q5MzRkMDJiZTExNDc4`
+Snapshot ID: `MCw5ODg5MzcwNGEwOWJmMzZkYTNmYmNlZDZlMzhhZWJiOGY5YjgzZjBj`

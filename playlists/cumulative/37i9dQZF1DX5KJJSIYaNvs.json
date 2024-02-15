@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "Laapataa Ladies",
+        "url": "https://open.spotify.com/album/6RRszKfdIZFMYabAL8vDGB"
+      },
+      "artists": [
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146055,
+      "name": "Beda Paar",
+      "url": "https://open.spotify.com/track/4efU3uJn1mLTFNGXBVHuHR"
+    },
+    {
+      "album": {
         "name": "Berang",
         "url": "https://open.spotify.com/album/45ZIuB3SzUQqMxyIbnWbyX"
       },
@@ -860,6 +886,32 @@
       "duration_ms": 170666,
       "name": "Deny Me",
       "url": "https://open.spotify.com/track/7y9udl44FlkXa9FpApa76N"
+    },
+    {
+      "album": {
+        "name": "Laapataa Ladies",
+        "url": "https://open.spotify.com/album/6RRszKfdIZFMYabAL8vDGB"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268070,
+      "name": "Dheeme Dheeme",
+      "url": "https://open.spotify.com/track/4zZdpeVGyMzATJzuS626XU"
     },
     {
       "album": {
@@ -2249,6 +2301,32 @@
     },
     {
       "album": {
+        "name": "Parmanu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GiigLzpKQvUUGonFW8u2Z"
+      },
+      "artists": [
+        {
+          "name": "Jeet Gannguli",
+          "url": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+        },
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185129,
+      "name": "Jitni Dafa",
+      "url": "https://open.spotify.com/track/5eJ3sPNxQ2m32DkmMQHTEc"
+    },
+    {
+      "album": {
         "name": "Jodaa",
         "url": "https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB"
       },
@@ -2660,7 +2738,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 146430,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
@@ -4948,7 +5026,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 269184,
       "name": "Samjhawan",
       "url": "https://open.spotify.com/track/0rk2X5TAhraBC5aCIXK2Rq"
@@ -5904,7 +5982,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 184670,
       "name": "Vaseegara / Zara Zara Mashup",
       "url": "https://open.spotify.com/track/3B7eDo0JA8rkMRsPa9n7rq"

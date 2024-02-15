@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,811 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,830 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 21 | [A Gunshot to the Head of Trepidation](https://open.spotify.com/track/3uq1JSqEFzVzcmFJc6SXDS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:55 |
 | 22 | [Silence in the Snow](https://open.spotify.com/track/6R8XKSzEw5DteWa9zAOhq3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:40 |
 | 23 | [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 |
-| 24 | [The Defiant](https://open.spotify.com/track/1OsDIdCx9t0khbY88vFpLN) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 4:29 |
+| 24 | [Throes of Perdition](https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:54 |
 | 25 | [Rain](https://open.spotify.com/track/4P23Pn5zl9QCkyto32fAaR) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:11 |
-| 26 | [Throes of Perdition](https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:54 |
+| 26 | [The Defiant](https://open.spotify.com/track/1OsDIdCx9t0khbY88vFpLN) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 4:29 |
 | 27 | [The Phalanx](https://open.spotify.com/track/14XbzZfy5y9U60gtjjfzdH) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 7:15 |
-| 28 | [Bleed Into Me](https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:48 |
+| 28 | [Kirisute Gomen](https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 6:27 |
 | 29 | [The Wretchedness Inside](https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:31 |
-| 30 | [Kirisute Gomen](https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 6:27 |
+| 30 | [Bleed Into Me](https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:48 |
 | 31 | [The Shadow Of The Abattoir](https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 7:11 |
 | 32 | [Black](https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:27 |
 | 33 | [Other Worlds](https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [No Way to Heal](https://open.spotify.com/track/3gPaGEKEKPjWqxEwF1ILyf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:05 |
 | 50 | [Capsizing the Sea](https://open.spotify.com/track/0NM1S9231y3Pgz6oI3on2f) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 1:30 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA1OTlkYjY1NTFmOGU5YzZhNmM0YjM0MjA4MTIwMDVkYQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBlMzgwOWMxNzliMjllZDZkYzM4Mzk3MTgxYjU2YzMzZQ==`

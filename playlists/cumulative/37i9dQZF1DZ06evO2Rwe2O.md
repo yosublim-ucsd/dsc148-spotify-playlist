@@ -4,7 +4,7 @@
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 9 min
+59 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [If We Are The Body \(feat\. Hannah Kerr\)](https://open.spotify.com/track/12AUzHL6cmZNCKZT3HZIMN) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:03 | 2023-10-10 |  |
 | [If You Died Tonight](https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 3:52 | 2023-03-10 |  |
 | [In Christ](https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:25 | 2023-03-10 |  |
-| [It's All About You](https://open.spotify.com/track/2pnm4XSwVkbc6waMzF9odE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:02 | 2023-03-10 |  |
+| [It's All About You](https://open.spotify.com/track/2pnm4XSwVkbc6waMzF9odE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:02 | 2023-03-10 | 2024-02-15 |
 | [Jesus I Believe](https://open.spotify.com/track/3HRfH5dCEmrc4kquT51XgE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:37 | 2023-03-10 |  |
 | [Just Like Somebody Else](https://open.spotify.com/track/2Yo8YXctpvkdKzFgrI4eZP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:44 | 2024-02-04 |  |
 | [Just The Way I Am](https://open.spotify.com/track/5DWxGimczAZe7byauhrUba) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:46 | 2023-03-10 |  |
@@ -52,6 +52,7 @@
 | [Sacrifice](https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 5:39 | 2023-03-10 |  |
 | [Set Me Free](https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:11 | 2023-03-10 |  |
 | [The Lion and the Lamb](https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:06 | 2023-03-10 |  |
+| [The Lion And The Lamb \- Commentary](https://open.spotify.com/track/4ZFKyJtBb6g4GB6ebhr9YZ) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Commentary\)](https://open.spotify.com/album/1RcpKkIRh7dnQvpIRi2BuY) | 1:18 | 2024-02-14 |  |
 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 | 2023-03-10 |  |
 | [The Only One](https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:17 | 2023-03-10 |  |
 | [This Is What We Live For](https://open.spotify.com/track/4JRQpTXsde4JQtIO3D76iT) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [When The Light Comes](https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R) | 3:55 | 2023-03-10 |  |

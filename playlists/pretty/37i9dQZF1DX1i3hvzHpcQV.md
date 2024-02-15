@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,651 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,149 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Maamadura \- From "Jigarthanda DoubleX"](https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Maamadura \(From "Jigarthanda DoubleX"\)](https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS) | 2:48 |
-| 2 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 |
+| 1 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 |
+| 2 | [Maamadura \- From "Jigarthanda DoubleX"](https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Maamadura \(From "Jigarthanda DoubleX"\)](https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS) | 2:48 |
 | 3 | [Unakku Thaan](https://open.spotify.com/track/7xnSWKXH8XVc8vML9132SZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhvani Kailas](https://open.spotify.com/artist/66wcf4Q64sXblp7ZHTaJC7) | [Chithha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO) | 3:36 |
 | 4 | [Railin Oligal \- From "Blue Star"](https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Railin Oligal \(From "Blue Star"\)](https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC) | 2:37 |
 | 5 | [Anbenum \(From "Leo"\)](https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Anbenum \(From "Leo"\)](https://open.spotify.com/album/4bf7T0AXRlgHjLZVxhIkfz) | 3:34 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 | 50 | [Mudhal Nee Mudivum Nee Title Track](https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y) | 5:32 |
 | 51 | [Oo Solriya Oo Oo Solriya](https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Pushpa \- The Rise](https://open.spotify.com/album/6mirm559XB8jiveF7ONuUx) | 3:43 |
 
-Snapshot ID: `MCw3MzcxMDkzYWZmY2ZlMGQwYWQ2ZWY2MjZkOWI5YmU5ZGVjYzM1OTg0`
+Snapshot ID: `MCw2NWM1ZDY3YmFhNDA2NjgwMzIwNjg2N2UwYzMzZjE4NWQ4NTA3MTMw`

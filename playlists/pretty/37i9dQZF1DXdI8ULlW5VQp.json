@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 65279,
+  "num_followers": 65305,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDExZTY4ODI5NDQzYTYzN2YyMDc2ZjU3M2QwNjA0NWQ4YWFkNWFl",
+  "snapshot_id": "MCw4NTY2OTViODM1ZWM3MjM5MmE3NTM5YzI0MDRjNGE2MWI3ZGQ2MzBm",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "La Gata Bajo la Lluvia (Sesi\u00f3n Ac\u00fastica en Vivo)",
-        "url": "https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 248896,
-      "name": "La Gata Bajo la Lluvia - Sesi\u00f3n Ac\u00fastica en Vivo",
-      "url": "https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
         "url": "https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 205744,
       "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
       "url": "https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "La Gata Bajo la Lluvia (Sesi\u00f3n Ac\u00fastica en Vivo)",
+        "url": "https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 248896,
+      "name": "La Gata Bajo la Lluvia - Sesi\u00f3n Ac\u00fastica en Vivo",
+      "url": "https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "tal vez el amor",
         "url": "https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/10aN8c0GaKn8cCNTa8REYh"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 241780,
       "name": "Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/3mE3dc4gce6Z2KvKwJqHnh"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
     },
     {
       "added_at": "2023-09-26 16:29:26",

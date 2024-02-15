@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 231,
+  "num_followers": 242,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDFkZjVjMTUzYmMyMmJjZDdiNzZiMTIzMzM4MGNmOTNjZDlhZDJj",
+  "snapshot_id": "MCw5ZTc3ZTUxODFiZTE4M2NjYjk0MjE5NTM3OTQwMGU5ZmFjNWVhYzk5",
   "tracks": [
     {
       "added_at": "2024-01-16 00:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
-    },
-    {
-      "added_at": "2024-01-16 00:00:00",
-      "album": {
         "name": "El Mito de la Caverna",
         "url": "https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 228469,
       "name": "Isla de los Bienaventurados (Buler\u00edas)",
       "url": "https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt"
+    },
+    {
+      "added_at": "2024-01-16 00:00:00",
+      "album": {
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Asi lo siento",
-        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
+        "name": "Recital Flamenco. 12 de Sus Toques Originales",
+        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
       },
       "artists": [
         {
-          "name": "Rafael Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
+          "name": "Manolo Sanlucar",
+          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
         }
       ],
-      "duration_ms": 197520,
-      "name": "Vivienne - Rumba",
-      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
+      "duration_ms": 279293,
+      "name": "El Ca\u00f1averal - Guajira",
+      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -903,34 +903,18 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Recital Flamenco. 12 de Sus Toques Originales",
-        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
+        "name": "Asi lo siento",
+        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
       "artists": [
         {
-          "name": "Manolo Sanlucar",
-          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+          "name": "Rafael Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
         }
       ],
-      "duration_ms": 279293,
-      "name": "El Ca\u00f1averal - Guajira",
-      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
-    },
-    {
-      "added_at": "2024-01-16 00:00:00",
-      "album": {
-        "name": "M\u00fasica De Espa\u00f1a",
-        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
-      },
-      "artists": [
-        {
-          "name": "Guitarras De Oro",
-          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
-        }
-      ],
-      "duration_ms": 221637,
-      "name": "Rumbita (Guitar Version)",
-      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
+      "duration_ms": 197520,
+      "name": "Vivienne - Rumba",
+      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -947,6 +931,22 @@
       "duration_ms": 181498,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
+    },
+    {
+      "added_at": "2024-01-16 00:00:00",
+      "album": {
+        "name": "M\u00fasica De Espa\u00f1a",
+        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
+      },
+      "artists": [
+        {
+          "name": "Guitarras De Oro",
+          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
+        }
+      ],
+      "duration_ms": 221637,
+      "name": "Rumbita (Guitar Version)",
+      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
     },
     {
       "added_at": "2024-01-16 00:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-16 00:00:00",
       "album": {
-        "name": "Only In Paris",
-        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bossanova in My Heart",
-      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
-    },
-    {
-      "added_at": "2024-01-16 00:00:00",
-      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 144948,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI"
+    },
+    {
+      "added_at": "2024-01-16 00:00:00",
+      "album": {
+        "name": "Only In Paris",
+        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bossanova in My Heart",
+      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
     },
     {
       "added_at": "2024-01-16 00:00:00",

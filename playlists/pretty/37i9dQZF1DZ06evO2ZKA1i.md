@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,101 likes - 51 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,136 likes - 51 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Vavoom: Ted The Mechanic](https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 4:16 |
 | 51 | [Fault Line \- 2000 Remaster](https://open.spotify.com/track/2f51DOVhCVWo1FU1IJYYsf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 1:46 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBlY2QxYzkzNzE2NTg3OTlkNjczOTkwYjJhZmY3MTQ0OQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAyMGZmOWU5OGZkMWY2YjJmOGI4NjdmOGJmODA4MGQzOQ==`

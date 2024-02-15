@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 346020,
+  "2024-02-15": 346088,
   "date_first_scraped": "2022-04-14",
   "description": "Cherish the day with these low-key favorites.",
   "name": "Easy Acoustic",
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
@@ -3329,7 +3329,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 221847,
       "name": "Silence - Acoustic",
       "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"

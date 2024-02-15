@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,359 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,394 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [Mariposa De Coalcomán](https://open.spotify.com/track/746EOusLLWulE6bWw41iAH) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Mariposa De Coalcomán](https://open.spotify.com/album/37qgqu8z3XbatGZ8X6h40C) | 4:53 |
 | 100 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
 
-Snapshot ID: `MCwyOTExMzQ0MWY2NDAxZWJjY2RlMzU1YjNjY2IxMjFhOGRiMzMwZDBk`
+Snapshot ID: `MCwwMzAyODk0ODg5ZTkyZmZjNmY0YzRmZmM4YmE2NjRiOWNmMjM1MWE0`

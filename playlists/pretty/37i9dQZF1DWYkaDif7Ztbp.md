@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=R1hNqCb4SXa84KZjwmTHyQ"> Victony</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,225 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,757 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 | 50 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 
-Snapshot ID: `MCw0YTZhMzJhNmY0ZjZkYmZkZmM0MjdmODNlN2U5MGFmMjA3NjViMTlm`
+Snapshot ID: `MCxiNGEyYmUxYzhkMzVjYzMzMDBhMzEwNDlhNzQzYzYxM2MwOTg3NTdl`

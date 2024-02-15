@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 199402,
+  "num_followers": 199426,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjk1YzhlYjU5NDk3NmFkNTU3NTJiMDQwOTExMTNmZWVmZGYwNjk4",
+  "snapshot_id": "MCw3NWIzMDE0ZDA1MTllZmVmY2Y3ZjYxYTk4MGM3ZDAwM2ZjYWEzYjYx",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        }
-      ],
-      "duration_ms": 170397,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "duration_ms": 170397,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -963,22 +963,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Jireh (Reyer Remix)",
-        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
+        "name": "Never Too Far",
+        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
       "artists": [
         {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
         },
         {
-          "name": "Esther Lisette",
-          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
         }
       ],
-      "duration_ms": 184012,
-      "name": "Jireh - Reyer Remix",
-      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+      "duration_ms": 184901,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Never Too Far",
-        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
+        "name": "Jireh (Reyer Remix)",
+        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
       },
       "artists": [
         {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
         },
         {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+          "name": "Esther Lisette",
+          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
         }
       ],
-      "duration_ms": 184901,
-      "name": "Never Too Far",
-      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
+      "duration_ms": 184012,
+      "name": "Jireh - Reyer Remix",
+      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 205377,
       "name": "Future",
       "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 174314,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Step Into The Fight (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/7CfPzqn1xDzytHi7FBKcxO"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
+        }
+      ],
+      "duration_ms": 213868,
+      "name": "Step Into The Fight - Gregatron Remix",
+      "url": "https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "The Same Jesus (Reyer Remix)",
         "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
       },
@@ -1331,46 +1351,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Come and Be My Love",
-        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Come and Be My Love",
-      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Step Into The Fight (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/7CfPzqn1xDzytHi7FBKcxO"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
-        }
-      ],
-      "duration_ms": 213868,
-      "name": "Step Into The Fight - Gregatron Remix",
-      "url": "https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "High Low (Remix)",
         "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 164383,
       "name": "High Low - Remix",
       "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Come and Be My Love",
+        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Come and Be My Love",
+      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
     },
     {
       "added_at": "2023-01-13 21:46:56",

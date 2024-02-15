@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944,002 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,029 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 34 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 |
 | 35 | [Wildfire](https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:13 |
 | 36 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 |
-| 37 | [Shape of Love](https://open.spotify.com/track/6eQYZ57P28uc8caJagxYcZ) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:08 |
-| 38 | [I Need Never Get Old](https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:13 |
+| 37 | [I Need Never Get Old](https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:13 |
+| 38 | [Shape of Love](https://open.spotify.com/track/6eQYZ57P28uc8caJagxYcZ) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:08 |
 | 39 | [Love Me Like You Used To](https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:40 |
 | 40 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
 | 41 | [Ain't No Man](https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [True Sadness](https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q) | 3:32 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 63 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
 | 64 | [Either Way](https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Seven Sisters](https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ) | 2:15 |
 | 65 | [Katie Queen of Tennessee](https://open.spotify.com/track/4C7GZbwKnoucpGdkBQ9iGt) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/771ZFXvbXuZEFPiPyQGxFh) | 3:28 |
-| 66 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
-| 67 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 |
-| 68 | [Family](https://open.spotify.com/track/7j9eqHzhqBEfr9Unn6zdOS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 2:19 |
-| 69 | [Sweetest Thing](https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny) | 3:38 |
+| 66 | [Sweetest Thing](https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny) | 3:38 |
+| 67 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
+| 68 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 |
+| 69 | [Family](https://open.spotify.com/track/7j9eqHzhqBEfr9Unn6zdOS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 2:19 |
 | 70 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
 | 71 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
 | 72 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Life's What You Make It](https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [Life's What You Make It](https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2) | 3:06 |
 | 100 | [Amsterdam](https://open.spotify.com/track/07h7XnD84Kzg8EsMqj1H5R) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Amsterdam](https://open.spotify.com/album/1G5wziJiffg6QNea5Xqp86) | 2:59 |
 
-Snapshot ID: `MCxjNGYwZmZiMzIyYzZiZjIyMzI4NDZjNDJlNzRhMWY3ZTkzMDc2NGNh`
+Snapshot ID: `MCwyNTliNWM0YWNlM2VhYzdkOTAwNmMzNDA0ZTIyYWE1MTE5MWZkZTVk`

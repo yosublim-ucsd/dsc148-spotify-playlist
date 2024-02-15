@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,029 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,039 likes - 48 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 |
 | 48 | [Selfish](https://open.spotify.com/track/4eNqp9ciUPRVKWse6Cq96D) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Universe Wrapped In Flesh](https://open.spotify.com/album/3LtfbvdzJkDkmZK1wSocLH) | 2:15 |
 
-Snapshot ID: `MCw0OGRhZWM0YzhmNmIxZmMyNTc0OTg3MzA4NWUzYzljNGNjMjQ0NzQ1`
+Snapshot ID: `MCxmODUzNDA3NjZkOTYzMGFlNWE3ZjNlMGVjNTkxYmJiNWRjNmRiMjUx`

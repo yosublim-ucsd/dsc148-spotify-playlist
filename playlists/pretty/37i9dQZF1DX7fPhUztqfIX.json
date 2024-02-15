@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 120543,
+  "num_followers": 120605,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
+  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -979,26 +979,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Church Of The City (Live)",
-        "url": "https://open.spotify.com/album/1eQch9c6HSlHyy9HJmGV1J"
-      },
-      "artists": [
-        {
-          "name": "Church of the City",
-          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
-        },
-        {
-          "name": "Ileia Shara\u00e9",
-          "url": "https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr"
-        }
-      ],
-      "duration_ms": 472093,
-      "name": "Land Of The Living (You Don\u2019t Lie) - Live",
-      "url": "https://open.spotify.com/track/6sfda4n7moZQvRtUHG3LwN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Todos A La Mesa",
         "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 290133,
       "name": "Even The Impossible - Live",
       "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Church Of The City (Live)",
+        "url": "https://open.spotify.com/album/1eQch9c6HSlHyy9HJmGV1J"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        },
+        {
+          "name": "Ileia Shara\u00e9",
+          "url": "https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr"
+        }
+      ],
+      "duration_ms": 472093,
+      "name": "Land Of The Living (You Don\u2019t Lie) - Live",
+      "url": "https://open.spotify.com/track/6sfda4n7moZQvRtUHG3LwN"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Altars",
         "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 300826,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "All Of Us (All Praise) [Live]",
+        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "All Praise - Live",
+      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "All Of Us (All Praise) [Live]",
-        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
-      },
-      "artists": [
-        {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
-        }
-      ],
-      "duration_ms": 386906,
-      "name": "All Praise - Live",
-      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        }
+      ],
+      "duration_ms": 303141,
+      "name": "Midnight - Radio Version",
+      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Kingdom Dreamers",
         "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 230220,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 303141,
-      "name": "Midnight - Radio Version",
-      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1907,18 +1907,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
+        "name": "Here Comes This Dreamer (Live)",
+        "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
       },
       "artists": [
         {
-          "name": "Battledrums",
-          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
         }
       ],
-      "duration_ms": 341328,
-      "name": "Edge of Heaven",
-      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
+      "duration_ms": 253756,
+      "name": "Heaven's Well - Live",
+      "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1939,22 +1943,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Here Comes This Dreamer (Live)",
-        "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
       },
       "artists": [
         {
-          "name": "Grace City",
-          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
-        },
-        {
-          "name": "Chase Wagner",
-          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+          "name": "Battledrums",
+          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
         }
       ],
-      "duration_ms": 253756,
-      "name": "Heaven's Well - Live",
-      "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
+      "duration_ms": 341328,
+      "name": "Edge of Heaven",
+      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
-      },
-      "artists": [
-        {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "God of the Breakthrough",
         "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 262800,
       "name": "God of the Breakthrough",
       "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Grace That Changes Everything",
+        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
     },
     {
       "added_at": "2021-06-12 04:00:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,629 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,638 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 56 | [Might Forgive You](https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd) | 4:09 |
 | 57 | [Viento](https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Viento](https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9) | 2:48 |
 | 58 | [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 |
-| 59 | [Moving Men \- Metronomy Remix](https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Born a Loser \(Deluxe Edition\)](https://open.spotify.com/album/1IbTYBq7imKlDRQCYhuReB) | 4:00 |
-| 60 | [6º](https://open.spotify.com/track/01gUmOHTgzy32ZsFMogigO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Dime Algo \(bonito\)](https://open.spotify.com/album/1ptQkJGdf3wGa331GlN8Nc) | 3:12 |
+| 59 | [6º](https://open.spotify.com/track/01gUmOHTgzy32ZsFMogigO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Dime Algo \(bonito\)](https://open.spotify.com/album/1ptQkJGdf3wGa331GlN8Nc) | 3:12 |
+| 60 | [Moving Men \- Metronomy Remix](https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Born a Loser \(Deluxe Edition\)](https://open.spotify.com/album/1IbTYBq7imKlDRQCYhuReB) | 4:00 |
 | 61 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 |
 | 62 | [Drinkee \(Radio Edit\)](https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee \(Radio Edit\)](https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7) | 3:11 |
 | 63 | [Realidades No Ordinarias](https://open.spotify.com/track/58VAdJ19ENSELUjofs5Ocn) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT), [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Realidades No Ordinarias, Vol\. 2](https://open.spotify.com/album/6RhTZGJrzknEtNjWQqTkaI) | 4:49 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Los Buenos Tiempos](https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3), [Solo Valencia](https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH) | [Máquina Yin Yang](https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x) | 4:34 |
 | 69 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 
-Snapshot ID: `MCxhNjVhZGE0Y2YwYzRjNzFlNjQzMGQzNTdhNDAxOGJlYTgzMTBjZGU3`
+Snapshot ID: `MCw1MjM5N2E4ZDE3YWIzOGJlMTY4M2UxOTg0ZDkzODFhODUzYjQ4YmRi`

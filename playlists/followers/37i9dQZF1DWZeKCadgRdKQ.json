@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 4240467,
+  "2024-02-15": 4241789,
   "date_first_scraped": "2019-05-26",
   "description": "Keep calm and focus with ambient and post-rock music.",
   "name": "Deep Focus",
@@ -1797,6 +1797,24 @@
       "duration_ms": 155993,
       "name": "Cloud5",
       "url": "https://open.spotify.com/track/1rfbQdf8AYt7qZOIzaP5PP"
+    },
+    {
+      "album": {
+        "name": "clouds at dawn",
+        "url": "https://open.spotify.com/album/4o5ZQeQKnvYuRr0CoMFF8Z"
+      },
+      "artists": [
+        {
+          "name": "Harry Bloom",
+          "url": "https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144791,
+      "name": "clouds at dawn",
+      "url": "https://open.spotify.com/track/37heyT3ubZt6EY0rYBZVXJ"
     },
     {
       "album": {
@@ -6906,6 +6924,24 @@
     },
     {
       "album": {
+        "name": "Oscillation",
+        "url": "https://open.spotify.com/album/6IMdxAN1dBLS1l0doB7D8y"
+      },
+      "artists": [
+        {
+          "name": "Mimber",
+          "url": "https://open.spotify.com/artist/4L3x3vTCpJgWtpD1wd4L01"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143060,
+      "name": "Oscillation",
+      "url": "https://open.spotify.com/track/0rZ0wSyuHnIb5ViR9EDdgH"
+    },
+    {
+      "album": {
         "name": "ouma",
         "url": "https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ"
       },
@@ -7177,6 +7213,24 @@
       "duration_ms": 146496,
       "name": "phosphorescence",
       "url": "https://open.spotify.com/track/2g7oWQYXIurU5x2YtMAC7H"
+    },
+    {
+      "album": {
+        "name": "Photographic",
+        "url": "https://open.spotify.com/album/19oaWHGwgVl7fgXmn6PHZM"
+      },
+      "artists": [
+        {
+          "name": "Skeru",
+          "url": "https://open.spotify.com/artist/579775ikDoHL7F0HSFYK9l"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139934,
+      "name": "Photographic",
+      "url": "https://open.spotify.com/track/1K2pzcuinGj4FEzIgruh4B"
     },
     {
       "album": {
@@ -7825,6 +7879,24 @@
       "duration_ms": 207734,
       "name": "River Deep",
       "url": "https://open.spotify.com/track/3KBoMRQ6EbCiTzOCzy4pvF"
+    },
+    {
+      "album": {
+        "name": "River Flowing",
+        "url": "https://open.spotify.com/album/7kxXzAyAlFed4vIfYwcyBB"
+      },
+      "artists": [
+        {
+          "name": "Fluvis",
+          "url": "https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147585,
+      "name": "River Flowing",
+      "url": "https://open.spotify.com/track/7alIC3oj16G5K1JzjjoUpQ"
     },
     {
       "album": {

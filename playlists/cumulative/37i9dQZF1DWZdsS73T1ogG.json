@@ -12031,6 +12031,24 @@
     },
     {
       "album": {
+        "name": "MULTIVERSO",
+        "url": "https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "MULTIVERSO",
+      "url": "https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ"
+    },
+    {
+      "album": {
         "name": "Munchisito y Chao",
         "url": "https://open.spotify.com/album/3p38C0gN42NetsZA02LiX9"
       },
@@ -19098,7 +19116,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 197938,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc"

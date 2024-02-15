@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,230 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,379 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 40 | [Si Tuviera una Fortuna](https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:16 |
 | 41 | [Compatible Contigo](https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:35 |
 | 42 | [No Sé Que Pasó](https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No Sé Que Pasó](https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH) | 3:36 |
-| 43 | [No Cambio](https://open.spotify.com/track/7ArwxXsucZMkx6iSD8fQTk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:41 |
-| 44 | [Nos Fuimos por Ahi](https://open.spotify.com/track/4n1VqkX5cVZSskfxNO5piu) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow) | 4:20 |
+| 43 | [Nos Fuimos por Ahi](https://open.spotify.com/track/4n1VqkX5cVZSskfxNO5piu) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow) | 4:20 |
+| 44 | [No Cambio](https://open.spotify.com/track/7ArwxXsucZMkx6iSD8fQTk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:41 |
 | 45 | [Así la Vivo Yo](https://open.spotify.com/track/4SYaEOPOUyeNkU7OQm97TQ) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Yaz Tarelo](https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB) | [Así la Vivo Yo](https://open.spotify.com/album/4u1qy1RYfnKF0cRgZGrftW) | 3:47 |
 | 46 | [Primero Lo Que Deja](https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 4:54 |
-| 47 | [Azucar Limon](https://open.spotify.com/track/0uHZXo88X7MAzCtcFIn2P9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:54 |
-| 48 | [Noche De Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 |
+| 47 | [Noche De Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 |
+| 48 | [Azucar Limon](https://open.spotify.com/track/0uHZXo88X7MAzCtcFIn2P9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:54 |
 | 49 | [Muerto En Vida](https://open.spotify.com/track/6fUvI9lKWniwvioNewRWOr) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 3](https://open.spotify.com/album/016skxbuyQuGo26uPdNUTr) | 3:10 |
 | 50 | [No Vale La Pena](https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Vale la Pena](https://open.spotify.com/album/1Xf1J2t3uTb2dMgnH3gout) | 3:38 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBkYWEzNTA5NmEwY2VlOGJjMGY4OWJiZDAyMDkwNDM1YQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA1YjM3MDhmMGEyMWU5MThkMDU1ZmQyNTJlOTA3NjNlZA==`

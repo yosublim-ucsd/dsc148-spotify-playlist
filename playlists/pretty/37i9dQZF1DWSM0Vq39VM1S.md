@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,320 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,395 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 9 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 10 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 |
 | 11 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
-| 12 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
-| 13 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
+| 12 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
+| 13 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 14 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 |
 | 15 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
 | 16 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
 | 17 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 18 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
 | 19 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 |
-| 20 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 |
-| 21 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 |
+| 20 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 |
+| 21 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 |
 | 22 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 23 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 24 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 63 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
 | 64 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 65 | [Homegrown](https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 4:02 |
-| 66 | [A Man I Know](https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [Sometimes Awake](https://open.spotify.com/album/6IH8hFGQ2t5YKTcgNJTy4h) | 3:53 |
-| 67 | [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 |
+| 66 | [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 |
+| 67 | [A Man I Know](https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [Sometimes Awake](https://open.spotify.com/album/6IH8hFGQ2t5YKTcgNJTy4h) | 3:53 |
 | 68 | [Talk to Me \- Live](https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Like A Million Dreams \(Live\)](https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey) | 3:49 |
 | 69 | [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 |
 | 70 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
-| 71 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 |
-| 72 | [Flaws](https://open.spotify.com/track/7kGSlff8LYntGZQVk65liB) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe) | 3:19 |
+| 71 | [Flaws](https://open.spotify.com/track/7kGSlff8LYntGZQVk65liB) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe) | 3:19 |
+| 72 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 |
 | 73 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 |
 | 74 | [Agape](https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Islands](https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp) | 4:17 |
 | 75 | [I Do](https://open.spotify.com/track/3uDEamEvGTIcuZiwYtCWG1) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb) | 3:37 |
 
-Snapshot ID: `MCxlYmMyYTFiODlhNDYzYWRjOWIzZjAyN2I0YzI5MTUzNmFkNzJjZWEx`
+Snapshot ID: `MCwyOWMzOGU2YzI2ZGMzMzQ0MTBjMWZjZDNhOWI3Mjc1YTFjZWZjMzRm`

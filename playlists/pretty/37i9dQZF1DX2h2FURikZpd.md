@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 7 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 8 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 9 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
-| 10 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 |
-| 11 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 |
+| 10 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 |
+| 11 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 |
 | 12 | [Salitre](https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Salitre](https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8) | 3:40 |
 | 13 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
 | 14 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
 | 30 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 |
 
-Snapshot ID: `MCw4OGZjMmMyMjliYTJmOGMyNmNhMjU0ZGNhYmUwYWU4Y2E4OTEyZWU4`
+Snapshot ID: `MCw4MGM4MGE2ODNmNjBlOTNmMDc0MTUxMzQwODhjNTY0NDAyMDk1ODE5`

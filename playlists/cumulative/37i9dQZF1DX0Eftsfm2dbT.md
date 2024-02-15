@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  千葉雄喜
 
-480 songs - 1 day 0 hr 37 min
+482 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [HIT MAKER !!!](https://open.spotify.com/track/7wwrSDeyJcfV5RGvFEnTSn) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 3:48 | 2023-09-21 | 2023-12-06 |
 | [Hope](https://open.spotify.com/track/3pA9teCcxI6k42jaWQPmxn) | [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe) | [Hope](https://open.spotify.com/album/1VLFfDuuqsC3xYyeKtzQnW) | 2:52 | 2023-10-24 | 2023-11-01 |
 | [Hope](https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP) | [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe) | [Hope](https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc) | 2:52 | 2023-10-24 | 2023-10-26 |
-| [HOT BOYZ](https://open.spotify.com/track/6dOwdgtWFX9KEFM59qK5Xu) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof) | 2:13 | 2024-02-14 |  |
+| [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 | 2024-02-14 |  |
+| [HOT BOYZ](https://open.spotify.com/track/6dOwdgtWFX9KEFM59qK5Xu) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof) | 2:13 | 2024-02-14 | 2024-02-15 |
 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 | 2024-01-23 |  |
 | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/album/2WeYegm46CmTZ5ddJJSlGT) | 3:26 | 2023-12-26 | 2024-01-12 |
 | [Iburi Gacko Flow pt.2](https://open.spotify.com/track/2uzlLXfDZDEgu46Pz4ohsW) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [Yung Colty](https://open.spotify.com/artist/6InHIz4YmrobstXDE8OvBv), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [LOYALTY](https://open.spotify.com/album/5uG6tQHwmirEfkBqiRvqYM) | 3:01 | 2023-12-13 | 2024-01-17 |
@@ -396,6 +397,7 @@
 | [tetote](https://open.spotify.com/track/4jJi5kCvHjD7mRGx3lntbp) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [tetote](https://open.spotify.com/album/4OFhxMicg5pmdVaac6WFYY) | 2:02 | 2023-11-29 | 2023-12-06 |
 | [TETSU](https://open.spotify.com/track/7C56vYddCPWRLR3rAfzFTE) | [IRONSTONE](https://open.spotify.com/artist/5H0BuahS3WSkksuBC9UDYf), [KyonCeeAPartment](https://open.spotify.com/artist/2rAzjET9lHGRElU88HcK84) | [TETSU](https://open.spotify.com/album/22W6gNgCkqRJim4HvxQ72s) | 3:41 | 2024-01-16 | 2024-01-24 |
 | [thanks](https://open.spotify.com/track/01ZsXCb8HrueIEVZNewduy) | [dodo](https://open.spotify.com/artist/1YwZlTKyH1RiGnCDb8O7TT) | [thanks](https://open.spotify.com/album/2sDc5FcStPvo1fAMswhX3v) | 3:15 | 2023-09-28 | 2023-11-30 |
+| [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 | 2024-02-14 |  |
 | [The Grower's Club Anthem](https://open.spotify.com/track/53JuXTNeS9Z6d9NWA2IfTG) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [The Grower's Club Anthem](https://open.spotify.com/album/5YCRnaqmGB3yF2ZO33ex50) | 3:23 | 2023-09-28 | 2023-10-25 |
 | [The Out of Africa Hypothesis](https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Zo Zhit](https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx) | [The Out of Africa Hypothesis](https://open.spotify.com/album/3tGPmRJlRvjfEYTSbUt28r) | 4:42 | 2023-10-03 | 2023-10-18 |
 | [The Out of Africa Hypothesis](https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [荘子it](https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T) | [The Out of Africa Hypothesis](https://open.spotify.com/album/68f9vnn8h2C7vuvp4bwPU4) | 4:42 | 2023-10-03 | 2023-10-05 |

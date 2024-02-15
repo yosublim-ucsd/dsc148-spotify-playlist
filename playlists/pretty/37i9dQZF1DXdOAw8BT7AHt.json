@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 452153,
+  "num_followers": 452108,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWYxZDdjODkzMzA5ZDA0YTBmODRiNDZmOGM5MTgxMmU0YWE1NGZm",
+  "snapshot_id": "MCw2NGM0NWVmMjI1N2I3N2I2MzgzYTIzYmUzZWZhODViMzI3MzBhNzM3",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 145367,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Baku's Revenge (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 151268,
       "name": "Facedown",
       "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Kids Wanna Dance",
-        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Kids Wanna Dance",
-      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "3 Days Sober",
         "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 177209,
       "name": "3 Days Sober",
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Kids Wanna Dance",
+        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Kids Wanna Dance",
+      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Cave World (Deluxe)",
         "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 124120,
       "name": "No Guilt",
       "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Lads Lads Lads",
+        "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 191755,
+      "name": "Lads Lads Lads",
+      "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Down There!",
         "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Lads Lads Lads",
-        "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 191755,
-      "name": "Lads Lads Lads",
-      "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Hiccup",
         "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Gonna Get Better",
-        "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
-      },
-      "artists": [
-        {
-          "name": "Uninvited",
-          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
-        }
-      ],
-      "duration_ms": 195694,
-      "name": "Gonna Get Better",
-      "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Pah!",
         "url": "https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 105000,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Gonna Get Better",
+        "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
+      },
+      "artists": [
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+        }
+      ],
+      "duration_ms": 195694,
+      "name": "Gonna Get Better",
+      "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Cry Your Eyes Out",
-        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 147475,
-      "name": "Cry Your Eyes Out",
-      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "my little tony",
-        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+        "name": "Cry Your Eyes Out",
+        "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
       },
       "artists": [
         {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
         }
       ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
+      "duration_ms": 147475,
+      "name": "Cry Your Eyes Out",
+      "url": "https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "my little tony",
+        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "MORE UK GRIM",
-        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 213402,
-      "name": "Under The Rules",
-      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Daydrinker",
         "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 165758,
       "name": "Daydrinker",
       "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "MORE UK GRIM",
+        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 213402,
+      "name": "Under The Rules",
+      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Boys In Blue / H.A.N.G",
-        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
-      },
-      "artists": [
-        {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
-        }
-      ],
-      "duration_ms": 148466,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "EP ii",
         "url": "https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 232679,
       "name": "Madman",
       "url": "https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Boys In Blue / H.A.N.G",
+        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 148466,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Big Pharma",
-        "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 166314,
-      "name": "Big Pharma",
-      "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Grade 2",
         "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 182243,
       "name": "Fast Pace",
       "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Big Pharma",
+        "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 166314,
+      "name": "Big Pharma",
+      "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Daylight Robbery",
-        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+        "name": "BIG HIT SINGLE",
+        "url": "https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D"
       },
       "artists": [
         {
-          "name": "Boy Bleach",
-          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
         }
       ],
-      "duration_ms": 170200,
-      "name": "Daylight Robbery",
-      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
+      "duration_ms": 189600,
+      "name": "BIG HIT SINGLE",
+      "url": "https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD"
     },
     {
       "added_at": "2024-01-19 00:00:00",

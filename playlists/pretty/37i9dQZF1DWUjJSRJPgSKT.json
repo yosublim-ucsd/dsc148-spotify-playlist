@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 28208,
+  "num_followers": 28250,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2UyNDNiYTJkZjJmNWQ2NjhiNGQxNzU0Y2Y0ZWQ0OGFiNGMxNWJl",
+  "snapshot_id": "MCw5NTE5NjMwYTM4ZDBlMmI3NjIwZGEzOTgzNjNhNzI3ZDM2M2I3MmE4",
   "tracks": [
     {
       "added_at": "2024-02-01 09:52:32",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Boogie Stop Shuffle",
+      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "Bird And Diz (Expanded Edition)",
         "url": "https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 157306,
       "name": "Leap Frog - Take 11 / Take 6 / Master Take",
       "url": "https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Boogie Stop Shuffle",
-      "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Song For My Father",
-        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
+        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
+        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 370626,
-      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
+      "duration_ms": 175040,
+      "name": "Humph - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
-        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
       "artists": [
         {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 175040,
-      "name": "Humph - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5"
+      "duration_ms": 370626,
+      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
     },
     {
       "added_at": "2024-02-01 09:52:32",

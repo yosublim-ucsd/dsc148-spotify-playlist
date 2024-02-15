@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,025 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,063 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 44 | [Circus](https://open.spotify.com/track/773RId8EM5wexAlZMlVMeL) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:48 |
 | 45 | [Here to Love](https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:42 |
 | 46 | [Superlove](https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0) | 3:28 |
-| 47 | [Minister Of Rock 'N Roll](https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 3:34 |
+| 47 | [Little Girl's Eyes](https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 7:44 |
 | 48 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
-| 49 | [Little Girl's Eyes](https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 7:44 |
+| 49 | [Minister Of Rock 'N Roll](https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 3:34 |
 | 50 | [Black Velveteen](https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 4:50 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAzNjI0ZjBlMzRkMGVmZGJlZDE0ZWFjOGViMzNjOTgyNA==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAzZTFiYzJlNGNlMWMwNmQyYzlmM2U1MTczZjFhYjVhZA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,742 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,745 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 81 | [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 |
 | 82 | [Closer](https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Beaubien Dream](https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ) | 6:57 |
 | 83 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 |
-| 84 | [Sometimes](https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox) | [Olivier Verhaeghe](https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs) | [Horchata](https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh) | 5:22 |
-| 85 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 |
-| 86 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
-| 87 | [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 |
+| 84 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 |
+| 85 | [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 |
+| 86 | [Sometimes](https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox) | [Olivier Verhaeghe](https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs) | [Horchata](https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh) | 5:22 |
+| 87 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 88 | [Supply The Love](https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Supply The Love](https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf) | 2:35 |
 | 89 | [A Tune For Jack](https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:45 |
 | 90 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
 | 100 | [Someday \- salute Remix](https://open.spotify.com/track/0cVdMdtrHdCuHQBWjzvQed) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [MIRRORS \(REMIXED\)](https://open.spotify.com/album/3vd7dqateXRTskHSU2CT0v) | 4:49 |
 
-Snapshot ID: `MCw5MjMyYWZmMGJjMGEyNmE1MjlmN2I3YTk1NzQ0Yjg3NWJlOTk3NTc1`
+Snapshot ID: `MCw4ODNhOGQyOTU5NTJhNmYxOTVjZWRjMjY5MGE5ZTM4MTNmYTE2MWQx`

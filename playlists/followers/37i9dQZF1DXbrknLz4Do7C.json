@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 41748,
+  "2024-02-15": 41786,
   "date_first_scraped": "2021-12-28",
   "description": "Some of the best Christian, Gospel, and inspirational songs of the year.  Cover: <a href=\"spotify:artist:55qfDfgj4Qi3JGe6KpqGtC\">Blessing Offor</a>  #SpotifyWrapped",
   "name": "Best Christian & Gospel Songs of 2023",
@@ -3781,7 +3781,7 @@
     {
       "album": {
         "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp"
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
       "artists": [
         {
@@ -3796,6 +3796,28 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173178,
+      "name": "no longer bound",
+      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
+    },
+    {
+      "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-14",
       "duration_ms": 180000,
       "name": "No Longer Bound",
       "url": "https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3"

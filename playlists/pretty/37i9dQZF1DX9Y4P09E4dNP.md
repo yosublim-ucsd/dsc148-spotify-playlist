@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,757 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,776 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 |
 | 2 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 |
-| 3 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 |
-| 4 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
+| 3 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
+| 4 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 |
 | 5 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 |
 | 6 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 |
 | 7 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 25 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
 | 26 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
 | 27 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 |
-| 28 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
+| 28 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 |
 | 29 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
-| 30 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 |
+| 30 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
 | 31 | [Questions](https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Questions](https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz) | 3:25 |
 | 32 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 |
 | 33 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv) | 5:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 40 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 |
 
-Snapshot ID: `MCw0NDI5OGVhY2ZiN2I2Mzk1OTBkYzhkMDk3OTdlY2I1NjI3ZWZkNjIz`
+Snapshot ID: `MCxlZGMxNDk1NzRhZjkwMDFkNTczODcyOWY4ZDM0NTlhZDk5ODExNDhi`

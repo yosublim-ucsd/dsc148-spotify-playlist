@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 91380,
+  "num_followers": 91407,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2U5NmQ1MDU3YzIwNWM0YWIxNjQwZTkwZjVkYzZkNDE0MTJhYmUz",
+  "snapshot_id": "MCxhODE0NDMzMmIxNDY2ZGRhODFjZWQ3NDAwNjQyYjg0Njk4YWIyZmJi",
   "tracks": [
     {
       "added_at": "2022-10-04 15:35:20",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 164895,
       "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
       "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -955,18 +935,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Astronaut In The Ocean",
-        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
       "artists": [
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 132780,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
+      "duration_ms": 199994,
+      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1023,6 +1007,22 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Astronaut In The Ocean",
+        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 132780,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Burbujas de Cristal",
         "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
       },
@@ -1175,18 +1155,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 225152,
-      "name": "Como Jordan",
-      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1207,6 +1191,22 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 176208,
-      "name": "El Vago De Los Nike",
-      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 176208,
+      "name": "El Vago De Los Nike",
+      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Los Mensajes del Whatsapp",
+      "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Los Mensajes del Whatsapp",
-      "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Entre Nosotros",
-        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 192352,
-      "name": "Entre Nosotros",
-      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -2315,6 +2295,26 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Entre Nosotros",
+        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
     },
     {
       "added_at": "2022-10-04 15:35:20",

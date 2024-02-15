@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-109 songs - 7 hr 50 min
+110 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All Ways Love](https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw) | 3:42 | 2020-11-25 |  |
 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 | 2020-11-25 |  |
 | [Back to the Old](https://open.spotify.com/track/2stKuE9vUhRJhbsfmY8mkg) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5hEP35eW2n4STHtvtZwRaa) | 5:49 | 2020-11-25 | 2022-07-29 |
-| [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 | 2020-11-25 |  |
+| [Back to the Old](https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Undercurrent](https://open.spotify.com/album/5a1dmR0nQcrgDJKLGAg1M7) | 5:49 | 2020-11-25 | 2024-02-15 |
 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 | 2020-11-25 |  |
 | [Call on the Wolves](https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Call on the Wolves](https://open.spotify.com/album/3ne5IY3MK0FoaxXccvBvR4) | 5:33 | 2020-11-25 | 2022-07-29 |
 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 | 2020-11-25 | 2023-09-19 |
@@ -92,6 +92,7 @@
 | [Storm Boy](https://open.spotify.com/track/1JLefnfRa3hBj16IXiR3bb) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy \(Summer Mix\)](https://open.spotify.com/album/4IXIhA6aDUSE1L3duROdW6) | 3:59 | 2020-11-25 | 2022-07-26 |
 | [Strength In One](https://open.spotify.com/track/4P9FHUCbqSq3xxvQLf0HzV) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Strength In One](https://open.spotify.com/album/2xdVExzi5zrygsVIWkPvCu) | 4:00 | 2020-11-25 | 2023-01-04 |
 | [Stronger \(Acoustic\)](https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd) | 3:03 | 2020-11-25 | 2024-02-04 |
+| [Stronger \- Acoustic](https://open.spotify.com/track/21Yq2RZa4fyV6juXaCQOFV) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/5434GTkVlcoMWYaKUUBIXd) | 3:03 | 2023-01-03 |  |
 | [Stronger \- Acoustic](https://open.spotify.com/track/4iip1qIgTsVQGNNXxpYV09) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/6XcdZEX9Snsp4l2KHcSyl7) | 3:03 | 2020-11-25 | 2022-07-27 |
 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 | 2020-11-25 |  |
 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/3gR5vEwHrvEntTYnzxZXEd) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/album/19EF3cr5bfiQFPGEg4Te8L) | 3:59 | 2020-11-25 | 2022-07-29 |

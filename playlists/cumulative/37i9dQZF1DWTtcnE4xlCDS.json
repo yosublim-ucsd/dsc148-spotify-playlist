@@ -2668,6 +2668,52 @@
     {
       "album": {
         "name": "mumin",
+        "url": "https://open.spotify.com/album/6GgluRmM0NlHcp3mGzOEw5"
+      },
+      "artists": [
+        {
+          "name": "Tokyo den nou",
+          "url": "https://open.spotify.com/artist/5zQQQNlFkChLPIOBqKrtXq"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Masayoshi Iimori",
+          "url": "https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU"
+        },
+        {
+          "name": "Native Rapper",
+          "url": "https://open.spotify.com/artist/3wNofqxR3a4Qw0zw5ioQDR"
+        },
+        {
+          "name": "Neneruneru(CV:ICHIGORINAHAMU)",
+          "url": "https://open.spotify.com/artist/3UnMfAwxNRWBFcZyfcBZGH"
+        },
+        {
+          "name": "Yanami Rain",
+          "url": "https://open.spotify.com/artist/4pZgAwjt7hUOA1Gms1N4NA"
+        },
+        {
+          "name": "Kanou Hikari",
+          "url": "https://open.spotify.com/artist/1n6T65VSCZtYerzxkpv36T"
+        },
+        {
+          "name": "ichigorinahamu",
+          "url": "https://open.spotify.com/artist/0LOIeaZ2PuCkTjJai7LwOq"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "mumin",
+      "url": "https://open.spotify.com/track/0WCp9slTSV4PmbD2NN7luE"
+    },
+    {
+      "album": {
+        "name": "mumin",
         "url": "https://open.spotify.com/album/5sjCweO5es6KEnFxoMhR6d"
       },
       "artists": [
@@ -2706,7 +2752,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 165000,
       "name": "mumin",
       "url": "https://open.spotify.com/track/0WcQxjHUHUWlFY4uo7zIus"

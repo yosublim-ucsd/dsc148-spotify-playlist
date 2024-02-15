@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 
 > The UK's biggest playlist\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,023,754 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,023,903 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 | 69 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 70 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MCxkN2JjYjQ2ZmE1OGQxYjZmMTk3ZDg3YzcwOTM5YTMxNTc1ZGNlYzAw`
+Snapshot ID: `MCxkOTFiZDkyZjEzOTY4ODUwYmFlYzk2ZDM1MTFjNjM3NzQ1MmMyOTM0`

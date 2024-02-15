@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 3694,
+  "num_followers": 3695,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTk4NjVlMzk4ZWQ5MjBlYTRhYWFmMzZhZWI1NGIzMDVhMjJkNGQy",
+  "snapshot_id": "MCw2YmFiZmQ0OWQ3Njk0YjhmNWQ1NjQwMjY0MTJlNmQ1OTZlODRhZDkw",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -767,18 +767,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "La Puerta Dorada",
-        "url": "https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy"
+        "name": "Quemonito",
+        "url": "https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb"
       },
       "artists": [
         {
-          "name": "Edu Requejo",
-          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Raylen",
+          "url": "https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l"
         }
       ],
-      "duration_ms": 223730,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC"
+      "duration_ms": 220463,
+      "name": "Quemonito",
+      "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -799,22 +803,18 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Quemonito",
-        "url": "https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb"
+        "name": "La Puerta Dorada",
+        "url": "https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Raylen",
-          "url": "https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l"
+          "name": "Edu Requejo",
+          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
         }
       ],
-      "duration_ms": 220463,
-      "name": "Quemonito",
-      "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
+      "duration_ms": 223730,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC"
     },
     {
       "added_at": "2022-11-30 14:18:55",

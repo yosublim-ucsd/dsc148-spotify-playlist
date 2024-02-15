@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 218234,
+  "num_followers": 218263,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmIyZDdlOWNjOTJjYWRhY2I4OWJhOTZmZWMxNDY2MWQxYjc5NjA3",
+  "snapshot_id": "MCwzMjM5OWNlZmJlNzcyNzI3NGUzOTU4NjRjNTQ3MDRiOGRkMTI2NGVm",
   "tracks": [
     {
       "added_at": "2024-02-04 07:34:15",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -847,18 +863,38 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "Narcotics (with Bryant Myers)",
+        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Narcotics (with Bryant Myers)",
+      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -907,58 +943,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "Narcotics (with Bryant Myers)",
-        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 173991,
-      "name": "Narcotics (with Bryant Myers)",
-      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "REINA",
-      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -979,22 +979,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 232131,
-      "name": "MOJABI GHOST",
-      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
+      "duration_ms": 211879,
+      "name": "REINA",
+      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "DONDE SE APRENDE A QUERER?",
-      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
         "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "JET_Set.mp3",
-        "url": "https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 145919,
-      "name": "JET_Set.mp3",
-      "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -1855,6 +1835,26 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "JET_Set.mp3",
+        "url": "https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 145919,
+      "name": "JET_Set.mp3",
+      "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "PUNTO G",
         "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
       },
@@ -1867,30 +1867,6 @@
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1931,6 +1907,30 @@
       "duration_ms": 195653,
       "name": "FERXXO 151",
       "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2024-02-04 07:34:15",

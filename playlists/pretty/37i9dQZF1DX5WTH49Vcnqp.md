@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,387 likes - 81 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,388 likes - 81 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 80 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 81 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 |
 
-Snapshot ID: `MCw4MGIwODQxMTJkOWU5ZWViMzFmMzZkNDBmMDU4OTJiNjU3MmNiODFh`
+Snapshot ID: `MCwyYjQ2MDQ3ODJhYzJiYjA5MzhmNjE5MmMxYTNlNzhmOTZmMjQ5ZTU1`

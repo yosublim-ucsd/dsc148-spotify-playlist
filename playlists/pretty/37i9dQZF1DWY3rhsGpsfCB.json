@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 18903,
+  "num_followers": 18916,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzcwMGUxNDI5NjIyOTkyMmIwODFhMDM3M2U5YzBmZTU5OWMwMTM3",
+  "snapshot_id": "MCw0MTk1YzUxZDRiYzlmZTk1ZDZmOGE0NTUzNGI2YWU5MWYwN2VlZGM0",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -671,30 +691,6 @@
       "duration_ms": 133564,
       "name": "Realize (feat. taves)",
       "url": "https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Routine Lover",
-        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
-      },
-      "artists": [
-        {
-          "name": "Good Nation",
-          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Routine Lover",
-      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -719,22 +715,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "7 SEAS",
-        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
+        "name": "Routine Lover",
+        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
         },
         {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Messi",
-      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+      "duration_ms": 168510,
+      "name": "Routine Lover",
+      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Afro Love",
+        "url": "https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 204684,
+      "name": "For Instance",
+      "url": "https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5"
       },
@@ -787,6 +803,26 @@
       "duration_ms": 170666,
       "name": "True Love",
       "url": "https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 199825,
+      "name": "Make It Easy (with Coco Jones)",
+      "url": "https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -827,26 +863,6 @@
       "duration_ms": 186586,
       "name": "40 Days",
       "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 199825,
-      "name": "Make It Easy (with Coco Jones)",
-      "url": "https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -975,6 +991,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "FACETS",
+        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
@@ -991,22 +1023,6 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "FACETS",
-        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 192278,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1091,30 +1107,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Foreigner (Remix)",
-        "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Foreigner - Remix",
-      "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
       },
@@ -1139,6 +1131,30 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Foreigner (Remix)",
+        "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Foreigner - Remix",
+      "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 228470,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "TEARS OF THE SUN",
-        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "YBGFA",
-      "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1199,6 +1199,22 @@
       "duration_ms": 240000,
       "name": "Unfortunately",
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "TEARS OF THE SUN",
+        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "YBGFA",
+      "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1339,6 +1355,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Good Problem",
+        "url": "https://open.spotify.com/album/4SofMhHpBJ5vX9QoH6WuiL"
+      },
+      "artists": [
+        {
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 203688,
+      "name": "Good Problem",
+      "url": "https://open.spotify.com/track/4vvTr4HtaAIMyPAZzruWeB"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Hillary Remix (feat. Pabi Cooper)",
         "url": "https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH"
       },
@@ -1383,26 +1419,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Good Problem",
-        "url": "https://open.spotify.com/album/4SofMhHpBJ5vX9QoH6WuiL"
-      },
-      "artists": [
-        {
-          "name": "Clay and Friends",
-          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
-        },
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 203688,
-      "name": "Good Problem",
-      "url": "https://open.spotify.com/track/4vvTr4HtaAIMyPAZzruWeB"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
@@ -1439,6 +1455,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "JJC",
+        "url": "https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "JJC",
+      "url": "https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "For Keeps - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
       },
@@ -1471,22 +1503,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "JJC",
-        "url": "https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "JJC",
-      "url": "https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Muse - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ"
       },
@@ -1499,26 +1515,6 @@
       "duration_ms": 303260,
       "name": "Muse - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/2rdCVvFfQtpebICFxdUCXI"
-      },
-      "artists": [
-        {
-          "name": "Chop Daily",
-          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
-        },
-        {
-          "name": "Shay Alor\u00e9",
-          "url": "https://open.spotify.com/artist/3HXgAe4ayE1BFeuQ2J2RLk"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/3osTR4NBgwFKxg4uok8gsQ"
     }
   ],
   "unique_name": "Cocoa Butter ",

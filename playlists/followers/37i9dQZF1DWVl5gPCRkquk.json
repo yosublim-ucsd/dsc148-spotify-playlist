@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 861661,
+  "2024-02-15": 861678,
   "date_first_scraped": "2021-12-21",
   "description": "Channel some chilled-out back yard vibes.",
   "name": "Chill Folk",
@@ -2425,7 +2425,7 @@
     {
       "album": {
         "name": "Housewarming (The New Recording)",
-        "url": "https://open.spotify.com/album/0M7Jed3vq0wZgWZs1hF9g6"
+        "url": "https://open.spotify.com/album/4yno9flAxwdn27FQMrah4Y"
       },
       "artists": [
         {
@@ -2436,6 +2436,24 @@
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Housewarming (The New Recording)",
+      "url": "https://open.spotify.com/track/56IUBnYVLK5ojzG4UEgVB8"
+    },
+    {
+      "album": {
+        "name": "Housewarming (The New Recording)",
+        "url": "https://open.spotify.com/album/0M7Jed3vq0wZgWZs1hF9g6"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-14",
       "duration_ms": 250293,
       "name": "Housewarming - The New Recording",
       "url": "https://open.spotify.com/track/71kjx4TQWb4Fm9MJZhLFZ6"
@@ -3755,7 +3773,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 239805,
       "name": "Officer of Love",
       "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
@@ -4139,7 +4157,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/7yXjeZ4Iw5R78hLXkRs3ku"

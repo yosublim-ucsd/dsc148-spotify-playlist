@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 361107,
+  "num_followers": 361173,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjg3OTY5YWI0NDYwNzlmOTZkNWYxY2E5MTc3OWMzZDNiZmE4YzIx",
+  "snapshot_id": "MCw4YmJiYWRhMTBiMTMyZTFkOTFkZmU0OGNkZDU2NmFjMmUyODUwNWJk",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -50,10 +50,6 @@
         {
           "name": "Fugees",
           "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
       "duration_ms": 298773,
@@ -147,6 +143,26 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Slow Jam (feat. Monica)",
+      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
       },
@@ -179,26 +195,6 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Slow Jam (feat. Monica)",
-      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -251,18 +247,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Million",
-        "url": "https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU"
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 271493,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3"
+      "duration_ms": 237626,
+      "name": "How Come You Don't Call Me",
+      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -283,18 +279,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+        "name": "Million",
+        "url": "https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 237626,
-      "name": "How Come You Don't Call Me",
-      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
+      "duration_ms": 271493,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3"
     },
     {
       "added_at": "2021-01-15 05:01:00",

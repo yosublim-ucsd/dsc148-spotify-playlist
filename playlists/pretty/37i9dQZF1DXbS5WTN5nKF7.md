@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,825 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,988 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 16 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 |
 | 17 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 |
 | 18 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
-| 19 | [Il y a](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 |
+| 19 | ["Il y a"](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 |
 | 20 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
 | 21 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 |
 | 22 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 50 | [Plus de place pour ta peine](https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj) | 2:32 |
 
-Snapshot ID: `MCw3YzMzMGNiNWQ3NzMzZTZlNDlhMWU0ZDQ2YWEyNDFlMzZmMjIzY2Q4`
+Snapshot ID: `MCw1MWEzMWJhZjhjZTJmODAwNTI1NjUzNGJjM2NlYWIxMDhmMWRkNjU5`

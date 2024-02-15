@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,211 songs - 3 day 4 hr 13 min
+1,212 songs - 3 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [hikari no toriru](https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4) | [南條愛乃](https://open.spotify.com/artist/1UVUtRS6I6rZji2w8o1CXd) | [hikari no toriru](https://open.spotify.com/album/18zrUwavFbepselMuuGsb6) | 3:44 | 2024-01-18 | 2024-01-31 |
 | [Himitsu](https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Himitsu](https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a) | 3:27 | 2023-10-03 | 2023-10-13 |
 | [Hitokokyuuno](https://open.spotify.com/track/5lXSuW2M9n3k04gpN805Nm) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Hitokokyuuno](https://open.spotify.com/album/3KwlgE0oPtRi5ZdZL3Cqff) | 3:50 | 2023-06-13 | 2023-07-05 |
+| [Hitorino Yoru \- From CrosSing](https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN) | 4:06 | 2024-02-13 |  |
 | [HOLLOW HUNGER](https://open.spotify.com/track/1lW6lfQZszjBQVN5rDLGKj) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [HOLLOW HUNGER](https://open.spotify.com/album/2QNbOtPZP2TvtZYBzVIbW2) | 3:43 | 2022-08-23 | 2022-09-02 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-07-28 | 2022-10-19 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/4OJVRrXhEdvtUCL3jtpdla) | [Wxchi](https://open.spotify.com/artist/0QfAfi0YfXU5M6aWRAJcYy) | [HOLLOW HUNGER](https://open.spotify.com/album/0cCWAbgxj9xluHmdCx2lv7) | 3:43 | 2022-09-20 | 2022-10-09 |
@@ -914,7 +915,7 @@
 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 | 2023-10-03 | 2023-10-13 |
 | [ヒトコキュウノ](https://open.spotify.com/track/243gRzaTKOgWb9dtqY0vfG) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB) | [ヒトコキュウノ](https://open.spotify.com/album/0j93DKTBbnkbeaypHQirLR) | 3:50 | 2023-06-13 | 2023-06-15 |
 | [ヒトミナカ](https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [ヒトミナカ](https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m) | 4:12 | 2023-01-05 | 2023-03-22 |
-| [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/album/2eBtB6yN4jRfMe9zER6af3) | 4:06 | 2024-02-13 |  |
+| [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/album/2eBtB6yN4jRfMe9zER6af3) | 4:06 | 2024-02-13 | 2024-02-15 |
 | [ヒミツ恋ゴコロ](https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI) | 3:38 | 2022-07-05 | 2022-10-05 |
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-05-28 | 2022-07-08 |
 | [ビボウロク](https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ビボウロク](https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA) | 3:25 | 2022-07-12 | 2022-09-15 |

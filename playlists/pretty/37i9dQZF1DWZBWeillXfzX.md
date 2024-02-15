@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,896 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,905 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 35 | [28 Days](https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:00 |
 | 36 | [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 |
 | 37 | [Change In Me \(The Rebirth\)](https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 4:37 |
-| 38 | [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 |
-| 39 | [Groove With Me](https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 4:01 |
+| 38 | [Groove With Me](https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 4:01 |
+| 39 | [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 |
 | 40 | [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 |
 | 41 | [Creepin'](https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:41 |
 | 42 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 46 | [Gettin Old](https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Rock Bottom](https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV) | 3:17 |
 | 47 | [Shufflin' West Coast](https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m), [Tim Pierce](https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4), [Johnny Lee Schell](https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi), [Toshi Yanagi](https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj), [Michael Thompson](https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE), [Brent Mason](https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Shufflin' West Coast](https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0) | 4:22 |
 | 48 | [Sweet Tea](https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 9:59 |
-| 49 | [Signs](https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 5:35 |
+| 49 | [What You’re Made Of](https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 4:18 |
 | 50 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 |
 
-Snapshot ID: `MCxiY2NlNTMzMDAwOWYyOTFjMjU3NDUxOTkxMTI0OWZkZWZhMWE1YTVh`
+Snapshot ID: `MCw3MTE0MTEzNjFmMjU0OGUzZWExYWE1NjY4MzJjOGYzOTI2MDFhOWVm`

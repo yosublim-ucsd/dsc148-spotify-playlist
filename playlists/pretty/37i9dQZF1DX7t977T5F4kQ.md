@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,971 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,977 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
 | 80 | [Plenty Evil](https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Plenty Evil](https://open.spotify.com/album/4LGC4uOB6sSUIirDU0w5GS) | 3:09 |
 
-Snapshot ID: `MCwyNThlYmM1MjcwMjE1YWIyMzg5NWNkZmRkYjBkYzg0NTA1MWEwNGE3`
+Snapshot ID: `MCwzOTgwZmZkYzE5NzU1MGQ3MGE3MGI4YmYyMDljZThjNWU5ZGRlYjQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,333 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,425 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 24 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
 | 25 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 |
 | 26 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
-| 27 | [Piece Of Your Heart](https://open.spotify.com/track/5RDUCbvwPZdmjFbhZ5EY4N) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:32 |
-| 28 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
+| 27 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
+| 28 | [Piece Of Your Heart](https://open.spotify.com/track/5RDUCbvwPZdmjFbhZ5EY4N) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:32 |
 | 29 | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8) | 3:28 |
 | 30 | [High On Life \(feat\. Bonn\)](https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [High On Life \(feat\. Bonn\)](https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim) | 3:50 |
 | 31 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Jerusalema \(feat\. Nomcebo Zikode\) \- Edit](https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z) | 3:08 |
 | 60 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 |
 
-Snapshot ID: `MCwyNjVjN2U0NWFiNzRiOGE0ZGQwNGUyMjJmYWU0MTUzMWJkNmYxYTc1`
+Snapshot ID: `MCxmMWUyYTcyYTZiMmVhMWQ1MTdkODBkNDY2OTc5MWQ1NjQxMmE5MWFh`

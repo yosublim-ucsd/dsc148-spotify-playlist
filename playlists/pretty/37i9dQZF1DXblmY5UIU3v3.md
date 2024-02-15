@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,085 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,325 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 23 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 |
 | 24 | [All The Way Up](https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [All The Way Up](https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor) | 2:55 |
 | 25 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
-| 26 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
-| 27 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
+| 26 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
+| 27 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
 | 28 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
 | 29 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
 | 30 | [Sztoj Pa Moru](https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2) | [BROHM](https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i), [Thingstad](https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G) | [Sztoj Pa Moru](https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs) | 2:18 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 36 | [Jump Up](https://open.spotify.com/track/0oDRLwXOjJ0B879sOkEDoO) | [Ad Voca](https://open.spotify.com/artist/04LFpk0NPwhUVezsZDcdkx) | [Jump Up](https://open.spotify.com/album/5rjVS6Aaus2JOw5Mc9FzmJ) | 2:46 |
 | 37 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 |
 | 38 | [Blast](https://open.spotify.com/track/6IueCsicxdsbMj1HTF8jxq) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [KSKV](https://open.spotify.com/artist/07BMRyGNDQEqrjtlqjfYuh) | [Blast](https://open.spotify.com/album/7De3XSkwYMfun0zzYzQRm4) | 2:36 |
-| 39 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
-| 40 | [E S C O B a R](https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy) | [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki), [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W) | [E S C O B a R](https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa) | 3:05 |
+| 39 | [E S C O B a R](https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy) | [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki), [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W) | [E S C O B a R](https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa) | 3:05 |
+| 40 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
 | 41 | [Look at Me](https://open.spotify.com/track/4lkBJU3iKwpO0dJiBZ5wAj) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/2QNjFtr2gEXQOmKIn5maJq) | 2:19 |
 | 42 | [Italiano](https://open.spotify.com/track/6F5ZZ11gmn7f2PfQSGONDp) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [Italiano](https://open.spotify.com/album/0tELMNBziMylG4DlPRCUkR) | 2:30 |
 | 43 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Candy Shop](https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z) | [BeeBars](https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Candy Shop](https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K) | 2:20 |
 | 50 | [Let It Go](https://open.spotify.com/track/44EZq7xrWPvMsNCnqNXAQS) | [SUER](https://open.spotify.com/artist/1rDU02wIRYl8HsfyOTEs4I), [VOLB3X](https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu) | [Let It Go](https://open.spotify.com/album/70YGL5tFmT2lNNLxUrmC8P) | 2:41 |
 
-Snapshot ID: `MCxhY2FhMjE4ODA3M2UyOTk2Mjk1MGVjMzFjMDg5ZDgxYjczM2M4MjNh`
+Snapshot ID: `MCxkYmIzZmRkN2ZjYzhiOWYxMzAwNzQxMjA5ZmFlOWFiNjRmOGIwZGJm`

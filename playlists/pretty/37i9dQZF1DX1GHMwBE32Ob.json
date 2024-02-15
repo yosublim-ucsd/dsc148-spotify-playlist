@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zlatan & Asake",
-  "num_followers": 44984,
+  "num_followers": 45099,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjc2ZWIwMmJiMzFhYTllZTQ0YzliYzVhZDI2ZmE3ODk2YTVhZTkx",
+  "snapshot_id": "MCw4ZGYyMWEyZjQxMDZhMTBhZjU5ODA3MDMxY2Y4ZjA2NzFhOTdhYThh",
   "tracks": [
     {
       "added_at": "2024-02-08 17:26:48",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-02-08 17:26:48",
       "album": {
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
+    },
+    {
+      "added_at": "2024-02-08 17:26:48",
+      "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 130000,
       "name": "Metro",
       "url": "https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo"
-    },
-    {
-      "added_at": "2024-02-08 17:26:48",
-      "album": {
-        "name": "Ask About Me",
-        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Ask About Me",
-      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "added_at": "2024-02-08 17:26:48",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-08 17:26:48",
       "album": {
-        "name": "Tiff",
-        "url": "https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 132257,
-      "name": "Tiff",
-      "url": "https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R"
-    },
-    {
-      "added_at": "2024-02-08 17:26:48",
-      "album": {
         "name": "Wale (Remix) [feat. Simi]",
         "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 188135,
       "name": "Wale (Remix) [feat. Simi]",
       "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
+    },
+    {
+      "added_at": "2024-02-08 17:26:48",
+      "album": {
+        "name": "Tiff",
+        "url": "https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 132257,
+      "name": "Tiff",
+      "url": "https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R"
     },
     {
       "added_at": "2024-02-08 17:26:48",
@@ -915,22 +915,22 @@
     {
       "added_at": "2024-02-08 17:26:48",
       "album": {
-        "name": "PARIWO",
-        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD"
       },
       "artists": [
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         }
       ],
-      "duration_ms": 120439,
-      "name": "PARIWO",
-      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
+      "duration_ms": 143300,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0"
     },
     {
       "added_at": "2024-02-08 17:26:48",
@@ -959,22 +959,22 @@
     {
       "added_at": "2024-02-08 17:26:48",
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD"
+        "name": "PARIWO",
+        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
       },
       "artists": [
         {
-          "name": "Anonymous Music",
-          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
-        },
-        {
           "name": "Mohbad",
           "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 143300,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0"
+      "duration_ms": 120439,
+      "name": "PARIWO",
+      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
     },
     {
       "added_at": "2024-02-08 17:26:48",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-08 17:26:48",
       "album": {
-        "name": "Busy",
-        "url": "https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Busy",
-      "url": "https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic"
-    },
-    {
-      "added_at": "2024-02-08 17:26:48",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 144000,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC"
+    },
+    {
+      "added_at": "2024-02-08 17:26:48",
+      "album": {
+        "name": "Busy",
+        "url": "https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic"
     }
   ],
   "unique_name": "Street Energy ",

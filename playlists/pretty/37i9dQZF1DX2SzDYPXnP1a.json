@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 55187,
+  "num_followers": 55303,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzBiZGJjYjdiOTYyYjQyNDhkYTQ4ZDk4ZmVjNTA5MmYxNjY5NmM0",
+  "snapshot_id": "MCxmNTkwOWM5ZWVlNGFlMzcxMGEyODRlMjUzYjFmNjJhYzllYjI0YzFh",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -267,18 +267,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "Cowboy Killer",
+        "url": "https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Ryan Charles",
+          "url": "https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS"
         }
       ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
+      "duration_ms": 132506,
+      "name": "Cowboy Killer",
+      "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Cowboy Killer",
-        "url": "https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Ryan Charles",
-          "url": "https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 132506,
-      "name": "Cowboy Killer",
-      "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 173636,
-      "name": "Love You Again",
-      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -419,22 +403,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 221573,
       "name": "Bottoms Up - Remix",
       "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 173636,
+      "name": "Love You Again",
+      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
     },
     {
       "added_at": "2024-01-12 05:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 39,
+  "2024-02-15": 39,
   "date_first_scraped": "2023-10-18",
   "description": "",
   "name": "Worldly",
@@ -875,6 +875,24 @@
       "duration_ms": 445493,
       "name": "Angola Kuia",
       "url": "https://open.spotify.com/track/4DA7YzKV3ILAT7PrFlxMOq"
+    },
+    {
+      "album": {
+        "name": "Keira",
+        "url": "https://open.spotify.com/album/2MCLTuwWCBLuWaI91DRpVP"
+      },
+      "artists": [
+        {
+          "name": "Susso",
+          "url": "https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325872,
+      "name": "Ansumana",
+      "url": "https://open.spotify.com/track/7HYUvtCD0BklQbtf6hoRjk"
     },
     {
       "album": {

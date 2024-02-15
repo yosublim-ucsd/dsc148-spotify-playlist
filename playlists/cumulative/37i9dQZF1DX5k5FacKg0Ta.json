@@ -3857,20 +3857,28 @@
     },
     {
       "album": {
-        "name": "New Trio (with Arttu Huopainen & Tuomas Talvi)",
+        "name": "New Trio",
         "url": "https://open.spotify.com/album/59puCqIkLQKOoIch2vUwTB"
       },
       "artists": [
         {
           "name": "Markus Niittynen",
           "url": "https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn"
+        },
+        {
+          "name": "Arttu Huopainen",
+          "url": "https://open.spotify.com/artist/5cIaKrqiTvvun23Rx8oXc8"
+        },
+        {
+          "name": "Tuomas Talvi",
+          "url": "https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk"
         }
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 365914,
-      "name": "Well You Needn't (with Arttu Huopainen & Tuomas Talvi)",
+      "name": "Well You Needn't",
       "url": "https://open.spotify.com/track/1hsPPlUwPFJEsSiaUwv6uz"
     },
     {

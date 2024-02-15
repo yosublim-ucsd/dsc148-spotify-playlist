@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lang Lang
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,139 likes - 73 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,209 likes - 73 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 72 | [Fünf Lieder für Mathilde Wesendonck: Der Engel](https://open.spotify.com/track/60HkYd0LuGueZrxIGVXyzW) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Roksolana Chraniuk](https://open.spotify.com/artist/5uoQJGLmvTmoIKFJRgskRL), [Mai Yakushiji](https://open.spotify.com/artist/2nTyBCn3Twe2Vur7SHC1ic) | [Richard Wagner: Fünf Lieder für Mathilde Wesendonck: Der Engel](https://open.spotify.com/album/09Uph7loJk6HqV0skcp5Wb) | 3:18 |
 | 73 | [Suite for Violin & Piano in G Minor, Op\. 99: III\. Intermezzo](https://open.spotify.com/track/3ipNDQfO0CyUtudfKOMY5l) | [Philipp Scharwenka](https://open.spotify.com/artist/1xldmEWcUklELLd6NvMAkm), [P Scharwenka](https://open.spotify.com/artist/0KdpCwzOnGDA4nxwqV317C), [Amalia Hall](https://open.spotify.com/artist/6Zgs1pEbv1wgInJGDNoqF2), [Christopher Park](https://open.spotify.com/artist/1kldJ8gFXbk1Neh2te3Eht) | [Scharwenka: Works for Violin & Piano](https://open.spotify.com/album/7uZXlx1tLmkLESm0DsI8Ie) | 4:02 |
 
-Snapshot ID: `MCxhZmJkNTExZGE3MWQyOTE1Nzg5ZDk0NmUyYzQ0NTU5MzNiM2IwMmNk`
+Snapshot ID: `MCxhY2VhMThhMGYzNDhlMDc1ZTg3M2ViNWU2MzUyNzAzNDZhYTI4N2Fh`

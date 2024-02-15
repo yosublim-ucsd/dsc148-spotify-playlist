@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114607,
+  "num_followers": 114609,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmY1YTI3NGZhNGEzNGMyOWM2NmY2OGIyNGY4NTI2YzQ4MGY5M2Qz",
+  "snapshot_id": "MCxiNDU3MmZhYzI4N2M0ZTNhYmI1MTczNTM2MWVmM2Y5OWYxMDZkYzll",
   "tracks": [
     {
       "added_at": "2024-02-04 07:36:46",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2024-02-04 07:36:46",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
-      },
-      "artists": [
-        {
-          "name": "El Gerard",
-          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
         "name": "V\u00e1monos",
         "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 121142,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
+      },
+      "artists": [
+        {
+          "name": "El Gerard",
+          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
     },
     {
       "added_at": "2024-02-04 07:36:46",

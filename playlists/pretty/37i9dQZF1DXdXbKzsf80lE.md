@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,022 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,133 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 12 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 |
 | 13 | [Cabeça Branca](https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [O Pai Das Crianças \(Part\. 1\)](https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu) | 2:27 |
 | 14 | [Recairei \- Ao Vivo](https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Piseiro 2020 Ao Vivo](https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP) | 2:46 |
-| 15 | [Investe Em Mim](https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Investe Em Mim](https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu) | 3:06 |
-| 16 | [Acaso](https://open.spotify.com/track/5AeydY71HZkZQ5dRHU9bHG) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Piseiro Atualizado](https://open.spotify.com/album/3idY4AEprTpacZXWLQyHgn) | 3:20 |
+| 15 | [Acaso](https://open.spotify.com/track/5AeydY71HZkZQ5dRHU9bHG) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Piseiro Atualizado](https://open.spotify.com/album/3idY4AEprTpacZXWLQyHgn) | 3:20 |
+| 16 | [Investe Em Mim](https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Investe Em Mim](https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu) | 3:06 |
 | 17 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 | 18 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
 | 19 | [Ele É Ele, Eu Sou Eu](https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Safadão Amplificado](https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG) | 2:35 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 71 | [Sextou](https://open.spotify.com/track/2N0Xa9oYEcL544AH2qVQME) | [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv), [Pedrinho Pisadinha](https://open.spotify.com/artist/3vL5YvNXI8BDr7foh27rzv) | [O Maior Piseiro de Todos os Tempos!](https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI) | 2:27 |
 | 72 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 |
 | 73 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
-| 74 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 |
-| 75 | [Internacional](https://open.spotify.com/track/2HqQRmR4YQUsK30oEJLUlj) | [Cachorrão do Brega](https://open.spotify.com/artist/0zdAfAcNxThQ4gONcWuiDn) | [2k18.2](https://open.spotify.com/album/1crnwii1wMT2AqMHjf1UHd) | 1:54 |
-| 76 | [Decida](https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Estouro das Vaquejadas](https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD) | 2:42 |
+| 74 | [Internacional](https://open.spotify.com/track/2HqQRmR4YQUsK30oEJLUlj) | [Cachorrão do Brega](https://open.spotify.com/artist/0zdAfAcNxThQ4gONcWuiDn) | [2k18.2](https://open.spotify.com/album/1crnwii1wMT2AqMHjf1UHd) | 1:54 |
+| 75 | [Decida](https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Estouro das Vaquejadas](https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD) | 2:42 |
+| 76 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 |
 | 77 | [Nega Chegando](https://open.spotify.com/track/3TfTAYr1AJvl7rAHaJ6QB4) | [O Boy da Seresta](https://open.spotify.com/artist/4TShXxXZjnjd1nnEw9R5Hs), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Nega Chegando](https://open.spotify.com/album/7DIu7GIcbR1eungYkB1ZBW) | 2:18 |
 | 78 | [My Baby](https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7) | [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp) | 2:24 |
 | 79 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 99 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
 | 100 | [Isca](https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Isca](https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv) | 2:42 |
 
-Snapshot ID: `MCw2N2ZhNzM1ODE4MzlhNDFjNTk5N2I1OTU2YmUyOTdiZWM5Mzg1NzA4`
+Snapshot ID: `MCw4NWI4ZmYzMGQ2Nzg5OGY1YzM2YzYzYzQxMGM5NTllMDRmZDRiYzhm`

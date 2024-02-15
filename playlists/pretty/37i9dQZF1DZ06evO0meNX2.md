@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,112 likes - 27 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,139 likes - 27 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 5 | [Mexican Flan](https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:58 |
 | 6 | [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 |
 | 7 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 |
-| 8 | [Olvídame Tú](https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06) | 3:41 |
-| 9 | [Golpes De La Vida](https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:43 |
+| 8 | [Golpes De La Vida](https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:43 |
+| 9 | [Olvídame Tú](https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06) | 3:41 |
 | 10 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 |
 | 11 | [De A De Veras](https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:42 |
 | 12 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 26 | [En Una De Pista](https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:01 |
 | 27 | [Chavo Félix](https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:46 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA3MTdlZGU3MmI3ZWU1MDJlMjNkNGJlMDJjZjc3NWZiOQ==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA0MzMxM2Q2ZTkxODY2Y2E1ZTI2M2RlZGE4M2RlYjY4OA==`

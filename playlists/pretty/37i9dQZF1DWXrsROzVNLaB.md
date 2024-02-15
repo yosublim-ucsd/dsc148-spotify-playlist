@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,839 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,837 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 52 | [Praise The Lord \(Evermore\)](https://open.spotify.com/track/1A82wdBbRssHNP5PZSQctn) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [Mercy Road](https://open.spotify.com/album/4NkTCWHns2QHBm6KW4ToMl) | 4:44 |
 | 53 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 54 | [Beauty For Ashes \- Live](https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 4:54 |
-| 55 | [Blameless](https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Blameless](https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj) | 3:54 |
+| 55 | [O The Blood](https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Women Of Faith Presents Gateway Worship A Collection](https://open.spotify.com/album/02Dzh1mJtEVEQqCcRtMslq) | 5:29 |
 | 56 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
 | 57 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 |
-| 58 | [Light to You](https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 6:04 |
-| 59 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
-| 60 | [O The Blood](https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Women Of Faith Presents Gateway Worship A Collection](https://open.spotify.com/album/02Dzh1mJtEVEQqCcRtMslq) | 5:29 |
+| 58 | [Blameless](https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Blameless](https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj) | 3:54 |
+| 59 | [Light to You](https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 6:04 |
+| 60 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
 | 61 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
 | 62 | [It Was Finished](https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:45 |
 | 63 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 75 | [Unveil My Eyes](https://open.spotify.com/track/6lhmoisNBy3xgRCfc9NM6j) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:03 |
 
-Snapshot ID: `MCxjNmFlMWQ3ODMxOGM2NjQ5NmMyNDliYjRkMTU4Y2Y0ZGNhZTE0NmVm`
+Snapshot ID: `MCxlYzA5N2FmZmQyM2ZhM2IzOWNkMWQwZTVlOGUwZmRlNTViODM3ODEx`

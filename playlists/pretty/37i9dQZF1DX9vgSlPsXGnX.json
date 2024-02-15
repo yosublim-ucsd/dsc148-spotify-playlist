@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 74762,
+  "num_followers": 74801,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzk1NjBhMmFkMmVjYTJjZTEzMDU4OGFkODljODNjYjY5ZDNlYjk4",
+  "snapshot_id": "MCwyOWI3ZDY3NTAzYjQ5ZDhiZGY2N2QzMmQxZTQ2ZmJkMjMyZDg3Yjcx",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Cada Noche Un Amor",
+        "url": "https://open.spotify.com/album/3mqlr428rzRpER555YbBJN"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 178173,
       "name": "En la Palma de la Mano",
       "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Cada Noche Un Amor",
-        "url": "https://open.spotify.com/album/3mqlr428rzRpER555YbBJN"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Las 2 Grandes Orquestas de Venezuela",
-        "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
       },
       "artists": [
         {
-          "name": "La Billo",
-          "url": "https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR"
-        },
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 247906,
-      "name": "Flores Negras - Fichas Negras",
-      "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
+      "duration_ms": 194466,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+        "name": "Las 2 Grandes Orquestas de Venezuela",
+        "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "La Billo",
+          "url": "https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR"
+        },
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+      "duration_ms": 247906,
+      "name": "Flores Negras - Fichas Negras",
+      "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Dos Leyendas del Bolero",
-        "url": "https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk"
-      },
-      "artists": [
-        {
-          "name": "Pedro Vargas",
-          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
-        }
-      ],
-      "duration_ms": 177684,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los 100 Mejores Boleros, Vol. 3",
         "url": "https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 167293,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Dos Leyendas del Bolero",
+        "url": "https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Vargas",
+          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
+        }
+      ],
+      "duration_ms": 177684,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx"
     },
     {
       "added_at": "2021-12-26 12:28:38",

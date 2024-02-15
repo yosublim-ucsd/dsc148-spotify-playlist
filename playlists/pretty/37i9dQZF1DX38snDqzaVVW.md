@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,744 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,763 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 43 | [Lam Tooro](https://open.spotify.com/track/6RXdIw5UTnCIIcWjFvBeis) | [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [Mansour Seck](https://open.spotify.com/artist/7HAuGBgyiW6xu9tARZUObr) | [Djam Leelii: The Adventurers](https://open.spotify.com/album/3fI60xJqLkfhnbAf907JsS) | 6:40 |
 | 44 | [Umri Prije Smrti](https://open.spotify.com/track/6EO0FVP1JQT7saa6869wtX) | [Dino Merlin](https://open.spotify.com/artist/7BjXGqrW02WB9cnLKKzwrK) | [Sredinom](https://open.spotify.com/album/2lgizMNXc7yi5cf79QSGkV) | 3:40 |
 | 45 | [Marley](https://open.spotify.com/track/0syx6Mn8xjTIv2jGuQtTgu) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY), [Mutabaruka](https://open.spotify.com/artist/6bm0wrRCDNh2EzfG7OKQar) | [Dakar \- Kingston](https://open.spotify.com/album/2kjgphBtC6e0YFDPCbF8Kd) | 3:34 |
-| 46 | [Aw'at Ya Donya](https://open.spotify.com/track/5qUImdujG67dNsT4m4ZVWp) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Hayran](https://open.spotify.com/album/4QEWO0Xa509hrgU6jqGRBV) | 4:59 |
+| 46 | [Aw2at Ya Donya](https://open.spotify.com/track/5qUImdujG67dNsT4m4ZVWp) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Hayran](https://open.spotify.com/album/4QEWO0Xa509hrgU6jqGRBV) | 4:59 |
 | 47 | [Aya Benzer](https://open.spotify.com/track/49Iygx392WIEaP29lq7FOR) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Detay](https://open.spotify.com/album/74YzxQhbs1K1kZZHObjwCw) | 3:56 |
 | 48 | [Anou Malane](https://open.spotify.com/track/5ZGZMUwUqgyKwqi8Hsf59Q) | [Abdallah Oumbadougou](https://open.spotify.com/artist/29uudPDBxe9VchRED2cfD6) | [Anou Malane](https://open.spotify.com/album/65jwU55tBTrTj5zjOUUJW7) | 5:00 |
 | 49 | [Friday](https://open.spotify.com/track/5IGnoUdp0ZCwOwkK62EPGp) | [Enfant Libya](https://open.spotify.com/artist/54B1txPNBqgBrbgpixSRbF) | [Music from Saharan Cellphones, Vol\. 2](https://open.spotify.com/album/6ZpWlc0Q1OM8VEjcsS2RPF) | 1:01 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 55 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 56 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MCxmMTlhM2I5MTgxZjI3OGZiOTkwN2IyNzVkYzYwYjVkOTg3MGZjNzZm`
+Snapshot ID: `MCw5M2U5YjA3N2MwYmI5MjhmNGMzY2EzMDI3ODZjMGYwY2M0ZTViZjM4`

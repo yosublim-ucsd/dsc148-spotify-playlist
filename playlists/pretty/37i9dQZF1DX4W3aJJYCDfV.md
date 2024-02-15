@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Little Simz, Declan McKenna, USHER and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,427 likes - 130 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,462 likes - 130 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [Reason](https://open.spotify.com/track/6f1Zxmu7RduHlYmRjjVMAo) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Reason](https://open.spotify.com/album/3NG60sV7y2HQEtJB2ZJVvC) | 2:31 |
 | 130 | [Won't Come Back](https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Won't Come Back](https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX) | 3:54 |
 
-Snapshot ID: `MCw4YjIyN2NiNDA5NzQ3ZWY5ZDkzNjU2MzljNTUyOWFmODQwYmVhNzll`
+Snapshot ID: `MCw4YWI1MWI3NmRmYTdlMWM0NWU0NmI5ZTY3YWY2ODgyOTQyMGVlNTUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Yugo Szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,171 likes - 90 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,177 likes - 90 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [certain](https://open.spotify.com/track/6VvLXMAYBjKUqCa7EzS6Tw) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [certain](https://open.spotify.com/album/7JZmOjUUxv3bhLy66PXl1E) | 2:59 |
 | 90 | [Amazing](https://open.spotify.com/track/3HREDHrvyXwYcIEelACqrS) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS) | [Amazing](https://open.spotify.com/album/4lUVP97eMZal2dtaJMvtcY) | 2:59 |
 
-Snapshot ID: `MCw4MDgwOGYxNWUwNTBjMmM0YTIwYTE5YmE0NzYzYjM3OWQ1M2M5Y2M0`
+Snapshot ID: `MCxkNTkyNTYyNDQ0Yzg2ZWFlZTAwMGVmZjhkMzU4Zjc4Y2E4NTY4NDFi`

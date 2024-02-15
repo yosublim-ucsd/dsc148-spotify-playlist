@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Jul au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478,940 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,210 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Mucho Cuir](https://open.spotify.com/track/5Iol6n8dmMjguHDCc8WUh2) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 3:05 |
 | 40 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 |
 
-Snapshot ID: `MCw3NDI0NWE5NTdiYWYxNTUwNDg0NmI4OTU4Nzk4MTNiODAzYjc3ZWRm`
+Snapshot ID: `MCxlODJmNzRkMjI4NmIxNzg3ZWZiMjgxMmYzNjYxNDE4YmYyYmFkZGE2`

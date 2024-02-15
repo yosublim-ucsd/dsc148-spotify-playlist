@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: MAX, HUH YUNJIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301,492 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,301,617 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 9 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
 | 10 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
 | 11 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 |
-| 12 | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
+| 12 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 13 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 14 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
 | 15 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 |
 | 50 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |
 
-Snapshot ID: `MCw4YTcwZjgxYTUzZjM4Y2QzZDdiZmMyYjkxNzU1OTYwMWI3MjE2M2Zi`
+Snapshot ID: `MCw4ZDM0NTc0M2RkYWMxZjJjYjYxNjkxMmFjMzI2YzlmZWRhNDg2YzAy`

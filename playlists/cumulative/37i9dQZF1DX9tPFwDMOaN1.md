@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! Cover: DPR IAN
 
-413 songs - 22 hr 4 min
+415 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Back Down](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : SET IN](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) | 2:48 | 2022-12-28 | 2023-04-22 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 |  |
 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 | 2023-07-25 | 2023-11-11 |
-| [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-15 |  |
+| [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-15 | 2024-02-15 |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-13 |  |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-11-22 |
 | [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 | 2023-09-29 | 2023-10-30 |
@@ -207,6 +207,7 @@
 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 | 2023-06-16 | 2023-09-09 |
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-20 | 2023-02-07 |
 | [Killer](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Killer \- The 2nd Album Repackage](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) | 3:50 | 2023-02-16 | 2023-04-01 |
+| [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 | 2024-02-14 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-13 | 2022-01-17 |
 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-18 | 2023-11-28 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-27 | 2023-08-29 |
@@ -236,6 +237,7 @@
 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2023-03-24 | 2023-10-21 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-13 | 2022-08-25 |
 | [Loved](https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Loved](https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq) | 2:36 | 2023-11-03 | 2023-11-28 |
+| [LTNS](https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga) | [DK](https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF) | [LTNS](https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm) | 3:42 | 2024-02-14 |  |
 | [Madness](https://open.spotify.com/track/7n21DchMhEHga46iMecQHW) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [INCENSE](https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z) | 2:57 | 2023-01-13 | 2023-03-11 |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-22 | 2022-06-25 |
 | [MAKE U DANCE](https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep) | 2:37 | 2021-12-13 | 2021-12-24 |
@@ -259,7 +261,7 @@
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-13 | 2022-07-02 |
 | [Nightwalker](https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [TEN \- The 1st Mini Album](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) | 3:24 | 2024-02-13 |  |
 | [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-01-25 |  |
-| [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-11-22 |  |
+| [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-11-22 | 2024-02-15 |
 | [Nobody Knows](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 3:15 | 2023-12-13 |  |
 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-01-05 | 2022-02-17 |
 | [Nundongja](https://open.spotify.com/track/3YYUMVgLZblkHVnzOEPka7) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Nundongja](https://open.spotify.com/album/2PTCsSugNnA0olmMfw7ScH) | 3:45 | 2022-01-05 | 2022-01-27 |

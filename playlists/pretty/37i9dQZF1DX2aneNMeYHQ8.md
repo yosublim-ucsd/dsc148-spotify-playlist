@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,904 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,905 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 95 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 |
 | 96 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 97 | [U&ME](https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK) | 3:18 |
-| 98 | [Talk to Me](https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Talk to Me](https://open.spotify.com/album/6a0hKzzXU9yfULzFLnASm7) | 4:02 |
-| 99 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 |
+| 98 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 |
+| 99 | [Talk to Me](https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Talk to Me](https://open.spotify.com/album/6a0hKzzXU9yfULzFLnASm7) | 4:02 |
 | 100 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 
-Snapshot ID: `MCwzNGRkZjQ2MmY2NDYyOWMxMzQ0Mzk0ZjhjYTk1YmNmNmU4MmFlNmJm`
+Snapshot ID: `MCw3OGNmNDViYTI5NzkyY2UyYjM4ZTlhNDg3OTM5Zjg3Mzk2ZjY4ODA3`

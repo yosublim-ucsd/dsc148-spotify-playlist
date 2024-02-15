@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 71346,
+  "num_followers": 71410,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjQwNTM4MTM3YTA0MmIyMzlmYWQ4OGNkMDE1NTQxNWNlNGYzZDlj",
+  "snapshot_id": "MCw3Yzc3MjNmMTkzOTI0ZDRlMjJmY2JlMWJhNDRiMWY3ZjU0ZTUwYTlh",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "In Your Love",
-        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "In Your Love",
-      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "In Your Love",
+        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        }
-      ],
-      "duration_ms": 152703,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 152703,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "summer camp",
-        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
         {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 172354,
-      "name": "sunny day",
-      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     }
   ],
   "unique_name": "Lazy Afternoon",

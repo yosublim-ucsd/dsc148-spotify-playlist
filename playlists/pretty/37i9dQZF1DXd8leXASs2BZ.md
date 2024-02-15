@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,876 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,884 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 22 | [Scarlet](https://open.spotify.com/track/7tb84qAWR15yAfVAyvCZRJ) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic), [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD) | [DuskAlwaysWithU](https://open.spotify.com/album/6ViwVwDlteRNlk7tnkz3QV) | 2:24 |
 | 23 | [summer clouds](https://open.spotify.com/track/3AerkVgVqgoKMz5z13kxPD) | [SCAR\-FACE](https://open.spotify.com/artist/5QAk6haiGEN53kHBo9pMSU) | [summer clouds](https://open.spotify.com/album/1DUFIDCjQcAxPV2dYTkHdy) | 2:44 |
 | 24 | [Lovers & Friends](https://open.spotify.com/track/6YghSDBOpbzqFj7PymW93D) | [Ym3boi](https://open.spotify.com/artist/200hgruptiem9UnOCoU2fg) | [Lovers & Friends](https://open.spotify.com/album/2DD1Xy3CjEcsepJEBStfGg) | 2:33 |
-| 25 | [花束](https://open.spotify.com/track/76w5LRGxbVIEbkpke35vR3) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/5MDVcLYeo1Ib9mE3AUxPJY) | 2:01 |
+| 25 | [HANATABA](https://open.spotify.com/track/1BoeX6br7WrPILgP8UKOsr) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/0E0CWMmEQHwnC6sS8fJYu5) | 2:01 |
 | 26 | [Travel case](https://open.spotify.com/track/7zxFJ61jULg6IDOlfc2tPl) | [sou](https://open.spotify.com/artist/1Wx4kInxSku2hoO33t9c57) | [Travel case](https://open.spotify.com/album/3uRbCc8PXPc4QgjYuw8POq) | 2:20 |
 | 27 | [Home](https://open.spotify.com/track/5LrWEVkWY3N09bt5zCj0gx) | [S Carti](https://open.spotify.com/artist/4fSjc5gtf1H43hnZVZIpWK) | [Jazzy&Me](https://open.spotify.com/album/3fE836KnAbE7cPSb0VXtm7) | 2:00 |
 | 28 | [Hotbox](https://open.spotify.com/track/24yflAQpScsE9WvjQLAyxc) | [SpiderWeb](https://open.spotify.com/artist/32D17rve5oq3kWoTnJLkhn) | [Mango Fontaine](https://open.spotify.com/album/5vmHKffV0LTgQKzxSj3Maa) | 3:28 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 35 | [12even9e](https://open.spotify.com/track/644B9tJ7kKZHrkel5DXHos) | [Sato Yagami](https://open.spotify.com/artist/66IdVh8hBhBmxSzuR5eDtF) | [12even9e](https://open.spotify.com/album/3v2RclwsQuKXxGwFT7ayrN) | 1:49 |
 | 36 | [Intro](https://open.spotify.com/track/7lFq5rNntI0abNXzINWNt6) | [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Intro](https://open.spotify.com/album/5fUyFfI0R6bsuXYJVMGdGg) | 2:05 |
 | 37 | [TYOSTAR](https://open.spotify.com/track/0OQgrwS228jqSQZ9UmwWxc) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [TYOSTAR](https://open.spotify.com/album/1bqw62lT3nY7fGMFWhjF2x) | 2:49 |
-| 38 | [Letters](https://open.spotify.com/track/1nJ4haAgJRDd4ICVeIpC6h) | [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt), [spendmylifeup](https://open.spotify.com/artist/14lZo0nHPjDEhOaKvLTlEY) | [Letters](https://open.spotify.com/album/4Hn3En8nGF5YPgPtD9w4ks) | 2:49 |
+| 38 | [Letters](https://open.spotify.com/track/1VfWLAu4LZrermWZnhbt1E) | [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt), [spendmylifeup](https://open.spotify.com/artist/14lZo0nHPjDEhOaKvLTlEY) | [Letters](https://open.spotify.com/album/16NQco0m6Uhh1UbNtVqx5A) | 2:49 |
 | 39 | [Victory Royale](https://open.spotify.com/track/2MqNyhJOdEhWpOmdpDVZN3) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74), [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx) | [Victory Royale](https://open.spotify.com/album/28fup0xuStDyTjR7kKp8Pq) | 1:21 |
 | 40 | [cuz u just memories](https://open.spotify.com/track/0kKcamlEotnUhruCyvFG3p) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [cuz u just memories](https://open.spotify.com/album/3FkLIyoMGYCSAJxeIfw5cs) | 2:04 |
 | 41 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
 | 42 | [Oretatigakininaru](https://open.spotify.com/track/1RzEhKm9w4yUd0djV9Q7vJ) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Chaochao](https://open.spotify.com/artist/2wTbreIopS4qmQMvWZxtlJ), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/0CXdVXLHiJGG5LhsfSqhBg) | 3:23 |
 | 43 | [Skrrrby Doo \- Delux](https://open.spotify.com/track/2Q8i83kzoXTCNPqx4DBcuu) | [Playsson](https://open.spotify.com/artist/53zqQpFYtM8Z0N1KYdNjmp), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Real Trap 2 \(Delux\)](https://open.spotify.com/album/5pqqxStYqI2WwipOMtt0xe) | 2:12 |
-| 44 | [Weak self tudo kill](https://open.spotify.com/track/0DtNuPvSJMz60cQMiU69Sr) | [Mateu$](https://open.spotify.com/artist/5RtERHSgI7w2G6hyVAMO9n) | [Weak self tudo kill](https://open.spotify.com/album/6LMTXUorrSUkUUXfDp27Rw) | 2:50 |
+| 44 | [Weak self tudo kill](https://open.spotify.com/track/0jhIDDoBSGDEASKYz29Cvx) | [Mateu$](https://open.spotify.com/artist/5RtERHSgI7w2G6hyVAMO9n) | [Weak self tudo kill](https://open.spotify.com/album/4An4TKXHjJzXOczBin3Zq3) | 2:50 |
 | 45 | [Sea Side Wave](https://open.spotify.com/track/3EYx1oD5mLtTeKJeBw7EwJ) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj) | 2:04 |
 | 46 | [blue money](https://open.spotify.com/track/4ICj6bauSMU1Z6KsvQHxCz) | [YOUNG GAGA GG DIOR](https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd), [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN) | [blue money](https://open.spotify.com/album/0cc770cLcUN7gCKWTNMU1O) | 3:15 |
 | 47 | [Deep Inside](https://open.spotify.com/track/3RMlPlFIBtplMhm1r3Yp5z) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [Ry\-lax](https://open.spotify.com/artist/6BpKACmMhqNkkSSihR8cDI) | [Deep Inside](https://open.spotify.com/album/7hxrB01zm8NgOnCrLpSPqn) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCxmOWM2YTFmNDI1ZDAwMDUwZTViMzg1YmYzOGZmMjNiZTVlYTNiZjlh`
+Snapshot ID: `MCxmZTc2YmIxY2E5NzY3Y2U0NTIxNTJjM2NjMGRmODg1YmVkYmEzNmEw`

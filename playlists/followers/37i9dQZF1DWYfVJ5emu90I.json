@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 16778,
+  "2024-02-15": 16777,
   "date_first_scraped": "2022-11-25",
   "description": "Heavy beats for midnight drifting in Tokyo.",
   "name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
@@ -25,6 +25,24 @@
       "duration_ms": 161057,
       "name": "27CLUB feat. LEX",
       "url": "https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1"
+    },
+    {
+      "album": {
+        "name": "4 MY CULT",
+        "url": "https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "4 MY CULT",
+      "url": "https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp"
     },
     {
       "album": {
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 141724,
       "name": "B.G.P",
       "url": "https://open.spotify.com/track/7xD6PhbwNjeu5Vm5ewFRaX"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 135601,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6"
@@ -1851,6 +1869,24 @@
       "duration_ms": 212583,
       "name": "Run It Back",
       "url": "https://open.spotify.com/track/1eWlti11pK0nmijVe4kxMG"
+    },
+    {
+      "album": {
+        "name": "SAICO",
+        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167429,
+      "name": "SAICO",
+      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
     },
     {
       "album": {

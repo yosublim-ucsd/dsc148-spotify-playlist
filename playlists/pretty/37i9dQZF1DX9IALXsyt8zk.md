@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,220 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,218 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Wave in my heart \(feat\. YUNHWAY\)](https://open.spotify.com/track/2POnJrG4QgjHycZJ7t4gRG) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Wave in my heart with KozyPop](https://open.spotify.com/album/4FaoFCLOnEE8LQJLar4Sxp) | 3:06 |
 | 50 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
 
-Snapshot ID: `MCw5NGFkMjUzMzJlMzIxYWJjNWMxMzZmYmU3MDUwYjk1Njk5YjE4MzYx`
+Snapshot ID: `MCxjNmI5YzdiZGQ3ZDA5MDQ4YWY1OGExMzFjYzA3MzljYjcwOWI4ZTU1`

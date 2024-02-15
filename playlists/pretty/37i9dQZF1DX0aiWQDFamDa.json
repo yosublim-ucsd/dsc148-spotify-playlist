@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 48196,
+  "num_followers": 48223,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjhiOGU1YmQ2ZTBkZDMzNTZjZDZmNzFjMTJiM2I2YTliZDI3NzI2",
+  "snapshot_id": "MCw2NDA2Nzk2N2U0OTEwNThkN2ZlNTk3NTkwZWE1YmE0MjQ0MmI3Zjdk",
   "tracks": [
     {
       "added_at": "2024-01-04 08:28:26",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Warm Valley",
+      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 225946,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Warm Valley",
-      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Mindful in Solitude",
-        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
-      },
-      "artists": [
-        {
-          "name": "Ryder Quartet",
-          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
-        }
-      ],
-      "duration_ms": 233323,
-      "name": "The Way of the Winds",
-      "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Tammy's Song",
         "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 260690,
       "name": "Tammy's Song",
       "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Mindful in Solitude",
+        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "duration_ms": 233323,
+      "name": "The Way of the Winds",
+      "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "The Boss Is Back!",
         "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 367693,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Think about that",
-        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 166057,
-      "name": "Think about that",
-      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 264920,
       "name": "Alba",
       "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Think about that",
+        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 166057,
+      "name": "Think about that",
+      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -879,22 +879,6 @@
       "duration_ms": 300618,
       "name": "Unsentimental",
       "url": "https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Quiet Time",
-        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
-      },
-      "artists": [
-        {
-          "name": "John Brown",
-          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
-        }
-      ],
-      "duration_ms": 492933,
-      "name": "When October Goes",
-      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Quiet Time",
+        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
+      },
+      "artists": [
+        {
+          "name": "John Brown",
+          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
+        }
+      ],
+      "duration_ms": 492933,
+      "name": "When October Goes",
+      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Noir De Noir",
         "url": "https://open.spotify.com/album/5EBzEgLhw2nVVUVL1gmnP5"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 155786,
-      "name": "The Longing",
-      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "At the Movies",
         "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 240903,
       "name": "End Music",
       "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "The Longing",
+      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Earfood",
-        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Moon Beams [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 300706,
       "name": "In Love, In Vain",
       "url": "https://open.spotify.com/track/24HJ0wbvFZflLOlr9SzM6h"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 208606,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 244879,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 208606,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD"
     },
     {
       "added_at": "2024-01-04 08:28:26",

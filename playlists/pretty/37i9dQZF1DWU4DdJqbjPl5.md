@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kxBgQcr1Sqasp\_6DZCsG1w"> Black Sherif </a> and <a href="https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4?si=4oMj4ZMGQQ2IvBl0mur3QA"> Mabel </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,488 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,545 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 36 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 |
 | 37 | [IYD](https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 |
 | 38 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
-| 39 | [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 |
+| 39 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 |
 | 40 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 |
 | 41 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 |
 | 42 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
 | 80 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 |
 
-Snapshot ID: `MCw0YjU1MjI0Mzk4YmM3ZDFjMGE1ZWY2OWI1NjI5MmVkNTE3MTRmYzg3`
+Snapshot ID: `MCw2MWYwYzNkYzAyMGM2MGJmMDcxYTBmYzI4NzJmZjFmYmU4YTJkOTQz`

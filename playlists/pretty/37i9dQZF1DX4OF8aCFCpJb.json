@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68646,
+  "num_followers": 68649,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWI5NGQ3NGEwNWNhODc1NGYxYzYwNGUwNWYwMTBiNGI2MzVlYTQx",
+  "snapshot_id": "MCxkMzlmMGY0YjUzZjU3YzE0NGYzNDM1N2RhMWJkNjdkMmNlMmFmYmMy",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Come By",
+        "url": "https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG"
+      },
+      "artists": [
+        {
+          "name": "Atso",
+          "url": "https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN"
+        }
+      ],
+      "duration_ms": 199872,
+      "name": "Come By",
+      "url": "https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
       },
@@ -331,26 +347,6 @@
       "duration_ms": 260399,
       "name": "You Are My Angel",
       "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
-      },
-      "artists": [
-        {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
-        },
-        {
-          "name": "Eek-A-Mouse",
-          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
-        }
-      ],
-      "duration_ms": 260168,
-      "name": "Smugglaren",
-      "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -387,54 +383,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Helt Off",
-        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
+        "name": "One",
+        "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
       },
       "artists": [
         {
-          "name": "Helt Off",
-          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
         },
         {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+          "name": "Eek-A-Mouse",
+          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Babylonsjukan",
-      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Rudeboy Love",
-        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 220201,
-      "name": "Rudeboy Love",
-      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
+      "duration_ms": 260168,
+      "name": "Smugglaren",
+      "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -455,6 +419,42 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Rudeboy Love",
+        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 220201,
+      "name": "Rudeboy Love",
+      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Helt Off",
+        "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
+      },
+      "artists": [
+        {
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Babylonsjukan",
+      "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Tippa p\u00e5 t\u00e5",
         "url": "https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 181040,
       "name": "Tippa p\u00e5 t\u00e5",
       "url": "https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -527,22 +543,6 @@
       "duration_ms": 189600,
       "name": "Mera tid",
       "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Mellan Raderna",
         "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 193908,
       "name": "Enda V\u00e4gen Fram",
       "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Reggaestrerad",
-        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 223122,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "ANITYA",
         "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Resa Sig Opp",
         "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+        "name": "Reggaestrerad",
+        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+      "duration_ms": 223122,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
     },
     {
       "added_at": "2024-02-08 23:00:00",

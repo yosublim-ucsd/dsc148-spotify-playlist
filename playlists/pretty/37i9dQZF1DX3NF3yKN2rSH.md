@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,260 likes - 100 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,257 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 29 | [Waymaker \- Bonus Track, Live](https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65) | 8:20 |
 | 30 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
 | 31 | [Blood is Still the Blood \(feat\. Chandler Moore, Nicole Binion, Ryan Ofei\)](https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 10:03 |
-| 32 | [Fill Me Up \- Live](https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:58 |
+| 32 | [Your Spirit](https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 7:51 |
 | 33 | [Don't Cry \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:08 |
 | 34 | [A Great Work](https://open.spotify.com/track/54PHTV8sTaZqYDLsLAmLDG) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [A Great Work](https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp) | 6:45 |
 | 35 | [Reckless Love](https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Road to DeMaskUs](https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3) | 5:22 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 52 | [He Got Up](https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK) | [Deacon D.A.S.](https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [He Got Up](https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK) | 3:49 |
 | 53 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
 | 54 | [Worth Fighting For \- 1 Mic 1 Take](https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Resilience](https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt) | 4:01 |
-| 55 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
-| 56 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
+| 55 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
+| 56 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
 | 57 | [Finished Work \- Live From Chattanooga, TN](https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Nothing Like Your Presence](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 7:47 |
 | 58 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 59 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Power In the Blood v1.1](https://open.spotify.com/track/57E9knoyqDbb3RtntQiuly) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Disciples](https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv) | [Classic Gold: Live In London: Andrae Crouch & The Disciples](https://open.spotify.com/album/2uPR6aDZknw2wWgM4uHkHt) | 4:46 |
 | 100 | [Nothing But the Blood v1.1](https://open.spotify.com/track/4ipBtVQxxQSlx8rYHMXG0V) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/3NTA5iKL3O6gCkxyKRWEVC) | 4:26 |
 
-Snapshot ID: `MCw4NDA4MWM0ZGUwZWUwNjgxYzE4MjQ4OTE3N2Y1ZmVmNDIwMmY0MWFl`
+Snapshot ID: `MCw5ZDU3YTA2MTVmMjg3MmFjNGRkNWU4NjRjYzkwOWZmNmE0ODFlODk4`

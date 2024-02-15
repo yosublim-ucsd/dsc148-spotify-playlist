@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 708798,
+  "num_followers": 708842,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGI2ZjAwMzU4NGE4MmMxODJmZGI5MGUwNTM1YTUzZTZmYjA5YzJi",
+  "snapshot_id": "MCwyZjViYjBlMzQ4ZjRlMTcwM2Q0MDlmOThmMzc1ZWY0MzUxYTIyNTM4",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -415,6 +415,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -439,22 +455,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Caer",
         "url": "https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "SELF TITLED",
         "url": "https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 160676,
       "name": "OUT OF MY MIND",
       "url": "https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1315,74 +1315,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "BLINK AND YOU'LL MISS IT//",
-        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 168975,
-      "name": "MARRY KILL F*CK//",
-      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -1411,6 +1343,74 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "BLINK AND YOU'LL MISS IT//",
+        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "MARRY KILL F*CK//",
+      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
+      },
+      "artists": [
+        {
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
+        }
+      ],
+      "duration_ms": 218025,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Lucky For You",
         "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Adderall",
-        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
-      },
-      "artists": [
-        {
-          "name": "Max Frost",
-          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
-        }
-      ],
-      "duration_ms": 218025,
-      "name": "Adderall",
-      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Sure Enough",
-        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Sure Enough",
-      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Matter",
         "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
     },
     {
       "added_at": "2024-01-12 05:00:00",

@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-180 songs - 9 hr 54 min
+181 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 | 2022-09-16 | 2023-11-04 |
 | [Ain't Missin' You](https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/023kFfJCSir9ZO6PjS13UB) | 2:56 | 2023-08-18 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-12-03 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-14 |  |
 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 | 2022-02-09 |  |
 | [Before He Could](https://open.spotify.com/track/1RQ38vNdWlETjupj9IXdQm) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Finally](https://open.spotify.com/album/0HeTHWLmcrCShhRz79CKUe) | 3:30 | 2021-12-03 | 2022-02-05 |
 | [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-01-22 |  |

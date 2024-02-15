@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 137742,
+  "num_followers": 138028,
   "original_name": "Las 100 mejores baladas rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGY4OWVjMjIxYWNhNzM4NDljODc3N2NkZTMxNGIxNzZlM2QwZjI3",
+  "snapshot_id": "MCxiZjBkMDllNWM4NDUzNmQ1OGI1MjYxYzQ2NWRiMjA3YTYwYjQ0M2E2",
   "tracks": [
     {
       "added_at": "2024-02-13 23:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 239426,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 241066,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 230646,
       "name": "Lo siento",
       "url": "https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 329155,
-      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 249973,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
+        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 329155,
+      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
       },
       "artists": [
         {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 266040,
-      "name": "Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
     }
   ],
   "unique_name": "Las 100 mejores baladas rom\u00e1nticas",

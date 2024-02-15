@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDcyMzNhYzcwYTEzMDgzNmQxZmUyOWFjNzUzMDI3NjRmZjlkNzc0",
+  "snapshot_id": "MCwyY2QzZGE0NjZlNjQ4OTcwZTg2NGQ0Y2YzMzgyZjlkOTNhNGVkMGU3",
   "tracks": [
     {
       "added_at": "2024-02-09 14:37:01",
@@ -487,17 +487,25 @@
     {
       "added_at": "2024-02-09 14:37:01",
       "album": {
-        "name": "New Trio (with Arttu Huopainen & Tuomas Talvi)",
+        "name": "New Trio",
         "url": "https://open.spotify.com/album/59puCqIkLQKOoIch2vUwTB"
       },
       "artists": [
         {
           "name": "Markus Niittynen",
           "url": "https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn"
+        },
+        {
+          "name": "Arttu Huopainen",
+          "url": "https://open.spotify.com/artist/5cIaKrqiTvvun23Rx8oXc8"
+        },
+        {
+          "name": "Tuomas Talvi",
+          "url": "https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk"
         }
       ],
       "duration_ms": 365914,
-      "name": "Well You Needn't (with Arttu Huopainen & Tuomas Talvi)",
+      "name": "Well You Needn't",
       "url": "https://open.spotify.com/track/1hsPPlUwPFJEsSiaUwv6uz"
     },
     {

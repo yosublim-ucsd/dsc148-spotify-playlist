@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-298 songs - 15 hr 44 min
+303 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [432hz Healing Breath](https://open.spotify.com/track/619a0hCjOWgTYnJ6pGYm6A) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Breath](https://open.spotify.com/album/0hRwcHs2JKtcirMyoPGbz8) | 3:36 | 2021-12-17 | 2023-01-21 |
 | [432hz Sea of Fog](https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 3:54 | 2021-12-17 | 2023-03-10 |
 | [963 Hz Miracle Creek](https://open.spotify.com/track/4DUlzJYHrdNxxdJlt94nP3) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [963 Hz Miracle Creek](https://open.spotify.com/album/0mz84nyqMCYq8tJB4xbwLV) | 2:02 | 2023-01-20 |  |
+| [A New Day \(by a Forest Stream\)](https://open.spotify.com/track/5Gx8X9lJUJy8QfFzo61DMM) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Forest Sunrise](https://open.spotify.com/album/4iIlz2x6TrEeGimx3idJy5) | 3:44 | 2024-02-15 |  |
 | [Abloom](https://open.spotify.com/track/44r59nq6u7G8x2hQgYNBT8) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Abloom](https://open.spotify.com/album/1Lg1RbTgB8FijKZPeGU8p7) | 2:56 | 2024-01-26 |  |
 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 | 2022-03-04 |  |
 | [Above The Trees](https://open.spotify.com/track/6vUWjoUSF92bxEXheAQwPg) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Above The Trees](https://open.spotify.com/album/5A02FmfjCW12ChMUxc3PXn) | 3:16 | 2022-02-16 |  |
@@ -62,6 +63,7 @@
 | [Continuous Movement](https://open.spotify.com/track/1WKko6CV5UVITWLPM97WPl) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Continuous Movement](https://open.spotify.com/album/0cCmSDmOwDKT6Kp6RB4ltI) | 2:32 | 2023-03-16 |  |
 | [Creek Of Wonder \(Meditation\)](https://open.spotify.com/track/3rbYnf1AoDwPoNTBUYRPaI) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Creek Of Wonder](https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew) | 3:04 | 2023-10-04 |  |
 | [Deep Canyon \- Sound Bath](https://open.spotify.com/track/0djnuIQ6iW0QIaIZRdgQaP) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Deep Canyon \(Sound Bath\)](https://open.spotify.com/album/79kfrMA3wytdzEOsFwYdNn) | 2:01 | 2023-02-24 |  |
+| [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-15 |  |
 | [Deep in the Forest](https://open.spotify.com/track/4DuZpMMRGsLlCCrrA6hwiT) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Deep in the Forest](https://open.spotify.com/album/4V17VetgclqdDBWxdDkdkK) | 2:38 | 2023-10-20 |  |
 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-03-04 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2021-12-17 |  |
@@ -135,6 +137,7 @@
 | [Jubran's Lake \(432hz\)](https://open.spotify.com/track/4P5fMFcTqzz8yEPMT9bF8d) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2021-12-17 |  |
 | [La pluie de Saint Michel](https://open.spotify.com/track/3qEJ0eRAf40TTrofN7rmP7) | [Luc Sobonne](https://open.spotify.com/artist/3yr6NkSYlRKW7VUxx05GEX) | [La Pluie de Saint Michel](https://open.spotify.com/album/2zOgF9MTJ0mz57mX33dDrC) | 2:31 | 2021-12-17 |  |
 | [Lapse of Time](https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Lapse of Time](https://open.spotify.com/album/4vOLXGeE4xrCmrtEIqCjVm) | 2:32 | 2021-12-17 |  |
+| [Lazy Lanta](https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Lazy Lanta](https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi) | 3:30 | 2024-02-15 |  |
 | [Le Djonk Calme](https://open.spotify.com/track/7pkLnul01bkK0QwuBqnAGK) | [Drew\-10](https://open.spotify.com/artist/0Xlsc8iACDFB2p9Y0XT6qs) | [Le Djonk Calme](https://open.spotify.com/album/7nPx5lxjFVVjmbpcAIVUJj) | 5:01 | 2021-12-17 | 2022-03-05 |
 | [Legacy Drift \- Nature Noise Version](https://open.spotify.com/track/3hnpbd1LlHPeCCw7ugjTsO) | [Aquaimo](https://open.spotify.com/artist/0TVxrxLRIiSOUrJdmjgg4f) | [Legacy Drift](https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD) | 2:11 | 2022-02-16 |  |
 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 | 2021-12-17 | 2022-09-03 |
@@ -268,6 +271,7 @@
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2022-12-09 |  |
 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2021-12-17 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-12-17 | 2023-05-23 |
+| [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-02-15 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-04-21 |  |
 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2021-12-17 |  |
 | [The Outcast](https://open.spotify.com/track/56URZGF8ntwKhgSt1fphPs) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Edge of Dimensions](https://open.spotify.com/album/1PUrSd7GrmaOcBdO3diz11) | 3:08 | 2021-12-17 | 2023-01-21 |
@@ -275,6 +279,7 @@
 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 | 2021-12-17 |  |
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 |  |
 | [The Walk Across](https://open.spotify.com/track/2ti4RtTCj8HxSADB6SHrh4) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 3:14 | 2021-12-17 | 2022-09-03 |
+| [The Waters of Shanti](https://open.spotify.com/track/4QVhmUB84DlDhbodr1aamr) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [The Waters of Shanti](https://open.spotify.com/album/2ySNnVUVJJtZjJ0BvDL7Z4) | 2:29 | 2024-02-15 |  |
 | [Thunder Meditation](https://open.spotify.com/track/0H6uoyF3rH3bzccleZ3nZE) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Thunder Meditation](https://open.spotify.com/album/2N37AZizDFyq8uT1HqpIbt) | 4:37 | 2022-07-22 | 2023-10-05 |
 | [Thunder Meditation](https://open.spotify.com/track/6roWjQjFjuNXdX5ApbWTR5) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Thunder Meditation](https://open.spotify.com/album/12jjifPSSSvIZvrxDxuZI2) | 4:37 | 2021-12-17 | 2022-07-29 |
 | [Tones of Nature](https://open.spotify.com/track/78jPG2b6dRYEn5xtf36TxI) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:54 | 2021-12-17 |  |

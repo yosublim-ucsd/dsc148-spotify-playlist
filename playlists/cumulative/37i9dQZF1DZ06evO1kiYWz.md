@@ -4,7 +4,7 @@
 
 > This is Campo De Almas.\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 36 min
+57 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,13 +43,14 @@
 | [La Nueva Ola](https://open.spotify.com/track/0FKSQLCfGK9W3EUNBB48ER) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 3:46 | 2023-08-25 |  |
 | [Las Piedras Y El Mar](https://open.spotify.com/track/4okjSLPKtwsJZ8zDnbsbrI) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 4:14 | 2023-08-25 |  |
 | [Miedo a Volar](https://open.spotify.com/track/5MPAv574bRIqyHoNEREzE8) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 4:18 | 2023-08-25 |  |
-| [Niebla](https://open.spotify.com/track/6WQVbZqLH7hYZmTHMt1Gup) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:49 | 2023-08-25 |  |
+| [Niebla](https://open.spotify.com/track/6WQVbZqLH7hYZmTHMt1Gup) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:49 | 2023-08-25 | 2024-02-15 |
 | [No Tengas Miedo](https://open.spotify.com/track/5hiiPTaXZMzCdfzcOFtkAw) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf), [Álvaro Urquijo](https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:59 | 2023-08-25 |  |
 | [Oscura Niña](https://open.spotify.com/track/5BVI3hvrd4gU8ez6u9AqWE) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:44 | 2023-08-25 |  |
 | [Oscuro](https://open.spotify.com/track/7Bd0qgZWx0PZvF6nIypxaz) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 4:55 | 2023-08-25 |  |
 | [Otra Tarde](https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 2:41 | 2023-08-25 |  |
 | [Platónica](https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:20 | 2023-08-25 |  |
 | [Prohibido \(En Vivo\)](https://open.spotify.com/track/4e38Gxfa52p5oyaPjFs8qt) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 3:20 | 2023-08-25 | 2023-11-11 |
+| [Prólogo](https://open.spotify.com/track/4flqyBEAga3H8rEXCtHX7v) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 1:03 | 2024-02-14 |  |
 | [Soledad](https://open.spotify.com/track/3Ssagp8xrmFMnKogrLGtNn) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:50 | 2023-08-25 |  |
 | [Solo \(En Vivo\)](https://open.spotify.com/track/01kq9SxOF4oh8rMHxtXr48) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 4:59 | 2023-08-25 |  |
 | [Solo Busco Mi Libertad \(En Vivo\)](https://open.spotify.com/track/4mLoYsCH10vWkbt6ubNWcr) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 3:07 | 2023-08-25 | 2024-01-04 |

@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Jagwar Twin
 
-330 songs - 17 hr 48 min
+332 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [In The Morning](https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [In The Morning](https://open.spotify.com/album/75NiNeiZxUtPBIg5qORqnA) | 2:44 | 2023-08-22 | 2023-09-23 |
 | [Inarticulation](https://open.spotify.com/track/1V8lTzBz2irnrqIVsjOuFL) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Inarticulation](https://open.spotify.com/album/4EEIHZ5NSNBBJG2RhLYdBW) | 2:43 | 2022-09-02 | 2022-12-10 |
 | [Infinite Jest](https://open.spotify.com/track/4qH2jxgvGcGuxh2JReRte4) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Infinite Jest](https://open.spotify.com/album/0qgrQvpCkOLz3kCTUPr1CZ) | 4:34 | 2022-05-17 | 2022-11-30 |
+| [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2024-02-14 |  |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-07-21 |  |
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2022-06-14 | 2022-07-13 |
 | [it's ok!](https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [it’s ok!](https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX) | 3:05 | 2023-04-21 |  |
@@ -185,8 +186,9 @@
 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 | 2022-05-17 | 2022-11-26 |
 | [Like or Like Like](https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov) | 2:38 | 2022-10-21 | 2023-01-07 |
 | [Like or Like Like](https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj) | 2:38 | 2022-09-20 | 2022-12-04 |
-| [Long Gone](https://open.spotify.com/track/5HcPpRhTGsj9VEIYd3r8a0) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Long Gone](https://open.spotify.com/album/1bAD7LRQyKFCaaBxjLkWte) | 3:36 | 2023-07-21 |  |
-| [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 | 2024-01-22 |  |
+| [Long Gone](https://open.spotify.com/track/5HcPpRhTGsj9VEIYd3r8a0) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Long Gone](https://open.spotify.com/album/1bAD7LRQyKFCaaBxjLkWte) | 3:36 | 2023-07-21 | 2024-02-15 |
+| [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 | 2024-01-22 |  |
+| [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 | 2024-01-22 | 2024-02-15 |
 | [LOVE](https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4) | 2:52 | 2022-11-16 | 2023-01-21 |
 | [LOVE](https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht) | 2:52 | 2022-11-16 | 2023-05-20 |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-09-02 | 2022-12-10 |

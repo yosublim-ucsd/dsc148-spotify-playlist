@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 3065128,
+  "num_followers": 3065513,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzkxZjJlMTRkNzMwODhiNGQ3MjUxY2MzYWYwMjk1YjIxYTk0NjU4",
+  "snapshot_id": "MCw3MDJiNjFjZTEyZTg0NDgyYmQyZGEzYWQyYzRhZDBiODkzZDFmYTMy",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 196133,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Make Way for Dionne Warwick",
         "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1395,22 +1411,6 @@
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1643,6 +1627,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Hits'n'Flips",
-        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
-      },
-      "artists": [
-        {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade of Pale - Original Single Version",
-      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Idea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
+        "name": "Hits'n'Flips",
+        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
         }
       ],
-      "duration_ms": 188306,
-      "name": "I Started A Joke",
-      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1755,6 +1739,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Idea (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "I Started A Joke",
+      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 160864,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 160864,
-      "name": "Will You Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Face to Face (Deluxe)",
         "url": "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT"
       },
@@ -1903,22 +1903,6 @@
       "duration_ms": 212946,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Sings Lonely and Blue",
-        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1951,6 +1935,22 @@
       "duration_ms": 153333,
       "name": "Where Did Our Love Go",
       "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Mr. Soul",
         "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 158680,
       "name": "Nothing Can Change This Love",
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Stay Awhile / I Only Want To Be With You",
+        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 163586,
       "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
       "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Stay Awhile / I Only Want To Be With You",
-        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -2423,18 +2407,34 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
         }
       ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "She's Not There",
+      "url": "https://open.spotify.com/track/6s6jmTumtDJGOB725jMJ8z"
     }
   ],
   "unique_name": "All Out 60s",

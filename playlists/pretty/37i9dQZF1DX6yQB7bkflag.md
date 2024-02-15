@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,382 likes - 87 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,395 likes - 87 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 13 | [Bukan Denganku](https://open.spotify.com/track/4S7pJQ5qyMhLIPZpRnfQqH) | [Febinda Tito](https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ) | [Romansa 3 Babak](https://open.spotify.com/album/06ZX2ViHb0nwZf5glrK6O0) | 3:06 |
 | 14 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
 | 15 | [come 'n find me](https://open.spotify.com/track/3OjEf6zYCbxM8zqolCafK0) | [Mea Shahira](https://open.spotify.com/artist/29bENDLYu1dHDXV0sXtfRC), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [come 'n find me](https://open.spotify.com/album/16v1QKaSFFzlwf20eGsV3x) | 3:20 |
-| 16 | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
+| 16 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 17 | [Almost over you](https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:24 |
 | 18 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
 | 19 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 86 | [CLOSER](https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [CLOSER](https://open.spotify.com/album/0z0LGO3fqevrJKVodLmLuG) | 2:22 |
 | 87 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 |
 
-Snapshot ID: `MCxkMjc5ZjZjM2QwMWMxNTQzMjRkNWQzNmZhOWYxZjU1ODVlZjY3Zjkz`
+Snapshot ID: `MCxiN2E4NDhhNDg1NjVkZjE5YTBjNTAwYTI1NGEyZTUxM2VlYWQxNzZl`

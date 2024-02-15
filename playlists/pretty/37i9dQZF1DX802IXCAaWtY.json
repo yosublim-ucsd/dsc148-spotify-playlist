@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1159951,
+  "num_followers": 1160378,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmM1ZDE4NmE0MmFiYzEwODhjYTZiOTQwZGM4ZTNkNmE0OTZhNjhm",
+  "snapshot_id": "MCw0NjFmNDA1MTVhMjU3ZWVjN2FkNjBlZTY5MWQxMjYyNDAxNmE3MTYw",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -35,22 +35,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Who Needs Guitars Anyway?",
         "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 214883,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
-      },
-      "artists": [
-        {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
       },
@@ -327,18 +311,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Saturday Night Single",
-        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
       "artists": [
         {
-          "name": "Whigfield",
-          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
         }
       ],
-      "duration_ms": 247405,
-      "name": "Saturday Night - Radio Mix",
-      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -355,6 +339,22 @@
       "duration_ms": 222458,
       "name": "We Like To Party! (The Vengabus)",
       "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 255546,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+          "name": "No Mercy",
+          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
         }
       ],
-      "duration_ms": 255546,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+      "duration_ms": 272093,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -439,22 +455,6 @@
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "My Promise",
-        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
-      },
-      "artists": [
-        {
-          "name": "No Mercy",
-          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 224220,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "Back in My Life",
-      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Amplified Heart",
         "url": "https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 249533,
       "name": "Missing - Todd Terry Club Mix",
       "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Back in My Life",
+      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 212560,
       "name": "Stay - Original Single Edit",
       "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf"
     },
     {
       "added_at": "2023-07-14 10:06:53",

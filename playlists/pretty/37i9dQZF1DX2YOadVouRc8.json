@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 21873,
+  "num_followers": 21903,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTk2NWZjY2JhZTYyZmQyMGUyYjJmZWNmY2UyYWRkMzhiZmNlYmJj",
+  "snapshot_id": "MCwzMjZjNzQ1Y2ZiNzRjNGYyNTM4NjhkNTZlZmI2MGU0NWQyYzFlNDgw",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Toxic Love Story",
-        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
+        "name": "Jambazz",
+        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
       },
       "artists": [
         {
-          "name": "Jontae",
-          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Toxic Love Story",
-      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
+      "duration_ms": 139573,
+      "name": "Jambazz",
+      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Jambazz",
-        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
+        "name": "Toxic Love Story",
+        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
       },
       "artists": [
         {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "Jontae",
+          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
         }
       ],
-      "duration_ms": 139573,
-      "name": "Jambazz",
-      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
+      "duration_ms": 140160,
+      "name": "Toxic Love Story",
+      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -711,18 +711,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
       "artists": [
         {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -743,22 +747,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Quick Question",
-        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Quick Question",
-      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Jowo",
         "url": "https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 163200,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Quick Question",
+        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Quick Question",
+      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "We Cut Keys 2",
+        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Compare",
+      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Mr O\u00falala",
         "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "We Cut Keys 2",
-        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Compare",
-      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj"
+      },
+      "artists": [
+        {
+          "name": "Sean Tizzle",
+          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 165550,
+      "name": "No Shame",
+      "url": "https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj"
-      },
-      "artists": [
-        {
-          "name": "Sean Tizzle",
-          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 165550,
-      "name": "No Shame",
-      "url": "https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "san siro (remix)",
         "url": "https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII"
       },
@@ -1159,26 +1159,6 @@
       "duration_ms": 207575,
       "name": "san siro - remix",
       "url": "https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Push (feat. Omah Lay)",
-        "url": "https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 162787,
-      "name": "Push (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1203,26 +1183,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+        "name": "Push (feat. Omah Lay)",
+        "url": "https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         },
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 186401,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+      "duration_ms": 162787,
+      "name": "Push (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1247,6 +1223,54 @@
       "duration_ms": 268303,
       "name": "I Made It (feat. Bobby Shmurda & Bien)",
       "url": "https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Breakfast in Lagos",
+        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
+      },
+      "artists": [
+        {
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Fire Wood",
+      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1291,30 +1315,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Breakfast in Lagos",
-        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
-      },
-      "artists": [
-        {
-          "name": "Sholz",
-          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Valentino Rose",
-          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Fire Wood",
-      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Magixx",
-        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Love Don't Cost A Dime",
-      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Magixx",
+        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Love Don't Cost A Dime",
+      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
     },
     {
       "added_at": "2024-02-09 00:01:00",

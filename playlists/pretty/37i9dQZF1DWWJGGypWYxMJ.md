@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 
 > pov, you ask for your Martini shaken...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,262 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 25 | [Goldfinger \- Digitally Remastered](https://open.spotify.com/track/4PM4GGaZ0ju7h9YTdY5rPV) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [The Great Shirley Bassey, Vol\. 2](https://open.spotify.com/album/4Lbh8m0ln0ZGQmBvDvk4sF) | 2:47 |
 | 26 | [Topless Party](https://open.spotify.com/track/7lCzY3lj586QbvglU8TCtU) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 3:04 |
 | 27 | [Prestige Production](https://open.spotify.com/track/0V4KebkV3eBkb5FbsnHlC9) | [Neil Richardson](https://open.spotify.com/artist/7EkKwcqYPySE4sq6H4wjae) | [Kpm 1000 Series: Impact and Action \- Volume II](https://open.spotify.com/album/0ZPW807OV3f8XgnpJ7YGIs) | 2:08 |
-| 28 | [International Flight](https://open.spotify.com/track/78ieDlhI5ZDvt2RlvTTYYS) | [David Snell](https://open.spotify.com/artist/47BWEfq4CgZGZ1wXdwsMNG) | [Kpm 1000 Series: Big Business / Wind of Change](https://open.spotify.com/album/5KjRUiHG28Lv7rILL40ONY) | 2:02 |
+| 28 | [Solar Flares](https://open.spotify.com/track/2c4PAjYO0Ym9DB3iCGcM4I) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 3:31 |
 | 29 | [Ladybird](https://open.spotify.com/track/1s308gmAYYsxggU0lJaDl2) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Friends and Lovers](https://open.spotify.com/album/2xKGehr8nY9YKMoRKq0rPT) | 4:31 |
-| 30 | [Solar Flares](https://open.spotify.com/track/2c4PAjYO0Ym9DB3iCGcM4I) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 3:31 |
+| 30 | [International Flight](https://open.spotify.com/track/78ieDlhI5ZDvt2RlvTTYYS) | [David Snell](https://open.spotify.com/artist/47BWEfq4CgZGZ1wXdwsMNG) | [Kpm 1000 Series: Big Business / Wind of Change](https://open.spotify.com/album/5KjRUiHG28Lv7rILL40ONY) | 2:02 |
 | 31 | [Move Move Move](https://open.spotify.com/track/4R0I4XYV2S0H3x0xTSzTkM) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 2:54 |
 | 32 | [Girl in a Sportscar](https://open.spotify.com/track/3YT4KUgun2us1WLg3f0T9z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:42 |
 | 33 | [Perfume from Panama](https://open.spotify.com/track/7FDf7bbsUsjMA5rs8ogC7Q) | [Syd Dale](https://open.spotify.com/artist/3zIU8LPjTkHA4kvYK4UrM4) | [Kpm Brownsleeves: Kpmlpb 40](https://open.spotify.com/album/0sUArLCg49QIhiquQuT8zh) | 2:36 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 39 | [Survivor](https://open.spotify.com/track/413Iz32UCzyMh7AAPdUtLB) | [Klaus Weiss](https://open.spotify.com/artist/0KPSMJaJZl9IpAIVsXkrDz) | [Time Signals](https://open.spotify.com/album/6KwO3tSkwEzoknDeb8ABwS) | 2:43 |
 | 40 | [Tropicola](https://open.spotify.com/track/3xZJn2CfcdZdJfz42zfkd0) | [Stringtronics](https://open.spotify.com/artist/3sx7cXQfuXo1mZwAs2tFDs) | [Tropicola](https://open.spotify.com/album/0TaZtcEIgep7xDMoW6efu4) | 2:41 |
 | 41 | [Flying Objects](https://open.spotify.com/track/5U7hr4cozVfOLnX72w0VsA) | [Roger Webb](https://open.spotify.com/artist/6ZfH4kBv9tPVIfklLH36jO) | [Cosmic Future Groove, Vol\. 2](https://open.spotify.com/album/0Y8qRGFwC5sZIo3LmXHOWL) | 3:40 |
-| 42 | [Videodisc](https://open.spotify.com/track/3bSk74kxpt19gLVNGs4Qrl) | [Trevor Bastow](https://open.spotify.com/artist/36FuDX7HmO5E58DBRSX7SN) | [Bruton BRH9: Shape of Things to Come](https://open.spotify.com/album/0oC6ZkqQ6gd5l66iqgx8f7) | 2:37 |
-| 43 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
+| 42 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
+| 43 | [Videodisc](https://open.spotify.com/track/3bSk74kxpt19gLVNGs4Qrl) | [Trevor Bastow](https://open.spotify.com/artist/36FuDX7HmO5E58DBRSX7SN) | [Bruton BRH9: Shape of Things to Come](https://open.spotify.com/album/0oC6ZkqQ6gd5l66iqgx8f7) | 2:37 |
 | 44 | [Running fast](https://open.spotify.com/track/0wOiCSxhbj4rPmbXQxU2ld) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Feelings](https://open.spotify.com/album/21FhgWtwCOj5SgsPVnTSX2) | 4:26 |
 | 45 | [Footprints on the Moon](https://open.spotify.com/track/1FR5wm25N11HhaSkcbGwP3) | [Johnny Harris](https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT) | [Movements](https://open.spotify.com/album/6nQgTZlXPkuNhQqPBAl3wJ) | 3:11 |
 | 46 | [Cobwebs and Rainbows](https://open.spotify.com/track/0tjoIFhgOdPL8Oepm7ZO2k) | [Dick Walter](https://open.spotify.com/artist/3bhwPW2KAIrtctvKZXmWVN) | [Pure Big Band \- Part 2 / Vocals](https://open.spotify.com/album/6ZzW5gbGwFXl1OgU3sxeBg) | 3:03 |
 | 47 | [Sunny Wing](https://open.spotify.com/track/4vg3KGQs568DXacMJUbAaT) | [Yan Tregger](https://open.spotify.com/artist/54LPgNBQ4T81nNmvcu4Zyv) | [Catchy](https://open.spotify.com/album/1b0jYUGcifFqzvNYXDzrLJ) | 2:10 |
-| 48 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 |
-| 49 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
-| 50 | [Cha tatch ka](https://open.spotify.com/track/6DGAPpaH9L7nWWlxVWpMcu) | [Bernard Estardy](https://open.spotify.com/artist/4Q9cCxYDsJQc4MhC2pQZhm) | [La formule du baron](https://open.spotify.com/album/7w4P7eIRiL8WKalceUxMWK) | 2:27 |
+| 48 | [Main Title \- From "Thunderball"](https://open.spotify.com/track/0yaLrtLWGYWVmvvNOlRZDj) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Movie Night: Famous Soundtracks](https://open.spotify.com/album/2ryZgGxfvRhpbtIHF2FEAR) | 3:03 |
+| 49 | [Exclusive Blend](https://open.spotify.com/track/64ZdWos9KcvgKOK9dCirVI) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 3:24 |
+| 50 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
 
-Snapshot ID: `MCw4ZDY5MmQxZjFkYjVmMDY1MTMyODU5YWQ1YmE4MzQ3NGM3MDE4MTlm`
+Snapshot ID: `MCxjOTVkMjEyZTJjMTA0NDQ4NGQxNWU1Yzk5M2Q3MTg0ZTg4ZWZjNDFh`

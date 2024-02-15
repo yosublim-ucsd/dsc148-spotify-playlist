@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-257 songs - 16 hr 21 min
+258 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Caminhos Cruzados](https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:58 | 2022-05-13 | 2022-07-29 |
 | [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 | 2022-06-28 | 2023-11-24 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2023-01-13 |  |
+| [Carnival](https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Carnival](https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP) | 3:06 | 2024-02-07 |  |
 | [Cavaquinho](https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa) | [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Braziliana](https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST) | 2:13 | 2022-05-13 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-11-11 |  |
 | [Cheek to cheek](https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Cheek to cheek](https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b) | 2:41 | 2023-06-13 |  |
@@ -114,7 +115,7 @@
 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-05-13 |  |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-22 |  |
 | [I Wish I Knew How It Would Feel to be Free \- Studio Rio Version](https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 4:53 | 2022-05-13 |  |
-| [I Wished on the Moon](https://open.spotify.com/track/6INyWFbiJFlZ6pmtaty1QE) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [I Wished on the Moon](https://open.spotify.com/album/6aALwyIISIOXJnXe5KqcH2) | 4:44 | 2023-06-13 |  |
+| [I Wished on the Moon](https://open.spotify.com/track/6INyWFbiJFlZ6pmtaty1QE) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [I Wished on the Moon](https://open.spotify.com/album/6aALwyIISIOXJnXe5KqcH2) | 4:44 | 2023-06-13 | 2024-02-15 |
 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 | 2022-05-13 |  |
 | [I've Never Been in Love Before](https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I've Never Been in Love Before](https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1) | 3:56 | 2023-01-19 |  |
 | [In a mellow tone](https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Jazz + Bossa](https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj) | 3:07 | 2022-05-13 |  |

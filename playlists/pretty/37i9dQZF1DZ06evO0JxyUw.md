@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,726 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,756 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 19 | [What a Girl Wants](https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:35 |
 | 20 | [Ain't No Other Man](https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:48 |
 | 21 | [Loyal Brave True](https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 2:46 |
-| 22 | [Learning To Fly](https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Learning To Fly](https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06) | 2:56 |
-| 23 | [Just A Fool](https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:13 |
+| 22 | [Just A Fool](https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:13 |
+| 23 | [Learning To Fly](https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Learning To Fly](https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06) | 2:56 |
 | 24 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 |
 | 25 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 |
 | 26 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 38 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
 | 39 | [Something's Got A Hold On Me \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 3:04 |
 | 40 | [You Lost Me](https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:17 |
-| 41 | [Steppin' Out with My Baby \(with Christina Aguilera\)](https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Viva Duets](https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv) | 2:02 |
+| 41 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
 | 42 | [Por Siempre Tú](https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:04 |
 | 43 | [But I Am A Good Girl \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:29 |
-| 44 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
+| 44 | [Steppin' Out with My Baby \(with Christina Aguilera\)](https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Viva Duets](https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv) | 2:02 |
 | 45 | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy) | 4:08 |
 | 46 | [Contigo en la Distancia](https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:43 |
 | 47 | [Te Deseo Lo Mejor](https://open.spotify.com/track/2gQ60QJ3Q2fBuQAtBMUSQh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [Infatuation](https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:17 |
 | 50 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBkMGE3NDY3YzFmNDk3MTE3MjQxYjU4Y2FkODIwZTY2OQ==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDBmNGZiMzJkZWFjZjFmMTZmMTNjODQzZmI1ZGQ4ZjlkNQ==`

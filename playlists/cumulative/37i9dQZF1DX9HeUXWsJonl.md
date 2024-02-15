@@ -4,7 +4,7 @@
 
 > Les hits tunisiens du moment\. Cover: Samara
 
-195 songs - 11 hr 55 min
+196 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Ena](https://open.spotify.com/track/2ALQWCgk5wq7qJco8XCng0) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/306Ofv0B37wDNlgX354JtR) | 5:12 | 2023-03-30 | 2023-09-26 |
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2021-12-10 | 2023-04-01 |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2022-11-07 | 2023-06-11 |
-| [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-05 |  |
+| [Ena Wayek](https://open.spotify.com/track/6CD97XQ4oLX0Z4RFqscm3k) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena Wayek](https://open.spotify.com/album/1C9AHey6Z6L3YFW6eM9tiO) | 3:11 | 2024-02-14 |  |
+| [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-05 | 2024-02-15 |
 | [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 | 2021-12-10 | 2022-11-10 |
 | [Galbi](https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Galbi](https://open.spotify.com/album/5y7m6UDox56LbgePd50uXX) | 4:20 | 2022-07-11 | 2023-12-05 |
 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 | 2022-11-09 | 2023-12-15 |
@@ -119,7 +120,7 @@
 | [MCHEW !](https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [MCHEW !](https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK) | 3:28 | 2022-12-27 |  |
 | [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 | 2022-05-14 |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2023-03-22 | 2023-08-06 |
-| [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2023-11-21 |  |
+| [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2023-11-21 | 2024-02-15 |
 | [MESTWI](https://open.spotify.com/track/0mMcpkFCjggJilJZOZUkAj) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [DON PAC](https://open.spotify.com/artist/4pHDepQgiozHdmlY65PJDZ) | [MESTWI](https://open.spotify.com/album/0XGaToEjWwqHU9O2xDdDKt) | 4:13 | 2023-08-19 |  |
 | [Mia Amore](https://open.spotify.com/track/6cSVVeutV5aqIlGf75EdtA) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Mia Amore](https://open.spotify.com/album/7kpHGEFLS5TX3gmDLJeb1w) | 2:50 | 2023-07-20 | 2023-09-12 |
 | [Mouj El Bahar](https://open.spotify.com/track/2SL62n2nNp0dY332iKc8Th) | [Saif ElRezgui](https://open.spotify.com/artist/77oNTNdel3zaotNHdI4x65), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Mouj El Bahar](https://open.spotify.com/album/1rcEdLVrSG3vaI3RnJqDu4) | 3:29 | 2021-12-10 | 2022-02-23 |

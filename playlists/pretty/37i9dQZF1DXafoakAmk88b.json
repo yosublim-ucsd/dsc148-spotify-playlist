@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: hemlocke springs",
-  "num_followers": 42760,
+  "num_followers": 42826,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjUxZThkYWJmMzA0YTM5OTNiMDQ4M2QxZTM2MDYwYjFlNDZjZTgy",
+  "snapshot_id": "MCwzN2I1MzFkNjM2NmE3ZmYxMWZhZjEwNThkOGZkN2IxOTYwYjcwZjhm",
   "tracks": [
     {
       "added_at": "2024-02-10 01:44:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "moreward(FORWARD)",
         "url": "https://open.spotify.com/album/4dz4CiyJKCoHWyA7MuHbBx"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 201464,
       "name": "MUSTARD (with 6LACK)",
       "url": "https://open.spotify.com/track/1vITRP5ITGjLK5v8LjjVo0"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2024-02-10 01:44:05",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "The End of the World",
         "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 235773,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
     },
     {
       "added_at": "2024-02-10 01:44:05",

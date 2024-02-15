@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842 likes - 41 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,862 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 | 7 | [Unexpected](https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Unexpected](https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3) | 2:54 |
 | 8 | [Oh Babe](https://open.spotify.com/track/3baxT5h8rJ3j5RPVpanOz9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/0gO51tYSNKHZk6zjv0dglZ) | 2:49 |
 | 9 | [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 |
-| 10 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
-| 11 | [Money Zone](https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Money Zone](https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP) | 2:51 |
+| 10 | [Money Zone](https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Money Zone](https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP) | 2:51 |
+| 11 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 12 | [Is It Me](https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Is It Me](https://open.spotify.com/album/1PwT4vLwRrpzOcJlnogRSf) | 2:32 |
 | 13 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 | 14 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 |
 | 15 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 |
 | 16 | [Shake The Dice \(SUBSHIFT Remix\)](https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake The Dice \(Remixes\)](https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH) | 3:16 |
-| 17 | [I Want](https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [I Want](https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl) | 2:54 |
-| 18 | [Bad Decisions](https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:04 |
+| 17 | [Bad Decisions](https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:04 |
+| 18 | [I Want](https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [I Want](https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl) | 2:54 |
 | 19 | [Furious!](https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Furious!](https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49) | 3:18 |
 | 20 | [Shutdown](https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0) | 2:52 |
 | 21 | [My Mind](https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294) | 3:08 |
@@ -36,18 +36,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 | 26 | [After Party](https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Party](https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b) | 3:36 |
 | 27 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |
 | 28 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 |
-| 29 | [Let Me](https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Let Me](https://open.spotify.com/album/5now3yDgsj3mt2p27bUfXU) | 2:58 |
-| 30 | [In My Bag](https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [In My Bag](https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9) | 3:04 |
+| 29 | [In My Bag](https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [In My Bag](https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9) | 3:04 |
+| 30 | [Let Me](https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Let Me](https://open.spotify.com/album/5now3yDgsj3mt2p27bUfXU) | 2:58 |
 | 31 | [Waiting](https://open.spotify.com/track/51Ovzmx3WMnHZqMdNq7xrv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Waiting](https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf) | 2:37 |
 | 32 | [Trouble](https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 2:49 |
 | 33 | [U Know It](https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:39 |
-| 34 | [Amped](https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 3:01 |
-| 35 | [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 |
+| 34 | [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 |
+| 35 | [Amped](https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 3:01 |
 | 36 | [Honey Dip](https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ) | 3:03 |
-| 37 | [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 |
-| 38 | [The Streets](https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 2:38 |
-| 39 | [Raise It Up](https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [MC Kane](https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt) | [Raise It Up](https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE) | 3:55 |
+| 37 | [Raise It Up](https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [MC Kane](https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt) | [Raise It Up](https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE) | 3:55 |
+| 38 | [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 |
+| 39 | [The Streets](https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 2:38 |
 | 40 | [Light It Up](https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:08 |
 | 41 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBhN2IxNDU3OGJkNGY3NzU4YmMxMDNkNmQ4ODcyNzk4NA==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDAyZGU4MGIzYTU0ZGVhYWVkOTIyZjMyZTg2NGE1NjEzOA==`

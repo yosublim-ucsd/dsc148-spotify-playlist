@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 
 > Las más bichotas de la escena featuring Aura BAE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,451 likes - 85 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,467 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 61 | [Papi Quiero Perrear](https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Papi Quiero Perrear](https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY) | 2:15 |
 | 62 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 |
 | 63 | [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 |
-| 64 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
-| 65 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
+| 64 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
+| 65 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
 | 66 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
 | 67 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
 | 68 | [Tengo To](https://open.spotify.com/track/07Y65et1sMhIcVP4MA7p0R) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 3:02 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 79 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
 | 80 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 |
 | 81 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 |
-| 82 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
-| 83 | [VETE](https://open.spotify.com/track/3xsTk82106zLb4kJY25qg2) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [VETE](https://open.spotify.com/album/3td8hNShAqNOZSTBeaRD7v) | 2:28 |
-| 84 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
+| 82 | [VETE](https://open.spotify.com/track/3xsTk82106zLb4kJY25qg2) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [VETE](https://open.spotify.com/album/3td8hNShAqNOZSTBeaRD7v) | 2:28 |
+| 83 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
+| 84 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
 | 85 | [Solita \- Remix](https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Solita \(Remix\)](https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C) | 3:50 |
 
-Snapshot ID: `MCw1NWNmMmUzODAwNjA4YzU2MDc1OGIyODU2MmRjMGJjZTA2NDJlNmE4`
+Snapshot ID: `MCw3ZjY4MjYyNTg1OGYyZjAwMzhkNThlNGI2ODI5MTc0ODZmMDFkMzQy`

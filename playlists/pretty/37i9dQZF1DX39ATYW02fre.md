@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,288 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,351 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 21 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
 | 22 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 23 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
-| 24 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
-| 25 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
+| 24 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
+| 25 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
 | 26 | [Break Apart](https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:34 |
 | 27 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 28 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 42 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 43 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 44 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 |
-| 45 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
-| 46 | [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 |
+| 45 | [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 |
+| 46 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
 | 47 | [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 |
 | 48 | [Older](https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:37 |
 | 49 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 | 50 | [Bamboo](https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Seeds in Sand](https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH) | 4:22 |
 
-Snapshot ID: `MCxhNzBjOTU3NGU2MzA4OTJhY2Q0OGU1ZWU5MGQyZmNiY2JjNzg3YzI5`
+Snapshot ID: `MCw1ZGFiZTI3YzFlY2NkNjk3N2I1NGY3NjA2ZmE1YTQ1YWQ0ZjU4ZjRm`

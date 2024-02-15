@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,336 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,489 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 24 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 |
 | 25 | [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 |
 | 26 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
-| 27 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
+| 27 | [Goin For Broke](https://open.spotify.com/track/5bu8p495FPdRySYSptdny2) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Goin For Broke](https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau) | 3:22 |
 | 28 | [TRUCK BED](https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [TRUCK BED](https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq) | 2:47 |
-| 29 | [Goin For Broke](https://open.spotify.com/track/5bu8p495FPdRySYSptdny2) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Goin For Broke](https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau) | 3:22 |
+| 29 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
 | 30 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
 | 31 | [Better Off](https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Better Off](https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6) | 3:18 |
 | 32 | [Outlaws & Outsiders](https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Who I Am](https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU) | 3:17 |
 | 33 | [Wanna Be Saved](https://open.spotify.com/track/0QIycBLxxiOSt72lTxb61k) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/1VQpcSSC03gR55vH8orBOz) | 3:08 |
-| 34 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
+| 34 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 |
 | 35 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
-| 36 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 |
+| 36 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
 | 37 | [Running Away](https://open.spotify.com/track/3DqluBhdHm3yd7g5UKQgCo) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Running Away](https://open.spotify.com/album/0tUApfCmluO2i5lNTbPcgg) | 3:14 |
 | 38 | [Country Boy \(feat\. Charlie Daniels, Chris Young, & George Jones\)](https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh), [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Town Line](https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG) | 4:43 |
 | 39 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 |
 | 100 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 |
 
-Snapshot ID: `MCxiM2RhY2I2ZjBhNjQxOWI4YWVmZmYxMDNmYzFjZDM5ZjczY2UwYzUz`
+Snapshot ID: `MCxkN2MxNDY3ODM5NjQwNWYzZDNlNGRmNGY4ZWI3ODBjMTAxZjM2ZDFh`

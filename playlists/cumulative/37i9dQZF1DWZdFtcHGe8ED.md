@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-395 songs - 1 day 4 hr 11 min
+396 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Armed To The Teeth](https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Armed To The Teeth](https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn) | 4:26 | 2021-12-17 |  |
 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 | 2021-12-17 | 2022-07-28 |
 | [Ausgebombt](https://open.spotify.com/track/21firHs3loUdDk1fXPM1bT) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange](https://open.spotify.com/album/6lg87gGVKeXKei65FnE8JN) | 3:05 | 2022-07-13 | 2022-07-29 |
+| [Ausgebombt](https://open.spotify.com/track/2URuChhPo6T4Z2DTNrdegI) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange](https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G) | 3:05 | 2024-01-12 |  |
 | [Authority](https://open.spotify.com/track/6GkXvjZVcL1Eaajzm9hb9r) | [Iron Reagan](https://open.spotify.com/artist/160vd9V7P2OiPVOndsKCJO) | [Dark Days Ahead](https://open.spotify.com/album/7hJfhI1Eht1CvetUEKTtEp) | 1:20 | 2021-12-17 | 2022-03-05 |
 | [Awakening](https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI) | [Paladin](https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ) | [Ascension](https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN) | 5:41 | 2021-12-17 | 2022-07-24 |
 | [Beneath The Wheel](https://open.spotify.com/track/3JqTeGdODAcf9mWM9mKJOO) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 5:36 | 2022-12-15 |  |
@@ -139,7 +140,7 @@
 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 | 2021-12-17 | 2022-07-29 |
 | [Fuel for Fire](https://open.spotify.com/track/6KXZXc8GC0hNMirU7U1Osh) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:00 | 2021-12-17 | 2022-03-04 |
 | [Fuel the Fire](https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI) | [Tonic Breed](https://open.spotify.com/artist/77xERzMN8ghZCov8PRbCVR), [Bernt Jansen](https://open.spotify.com/artist/2mxHsWZS5kzzF5KjFfmpUb), [Dirk Verbeuren](https://open.spotify.com/artist/4zG9AWbdwEqp2pjrjDnYNV) | [Fuel the Fire](https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi) | 4:56 | 2022-07-22 | 2022-07-26 |
-| [Give Me Leather](https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 3:50 | 2021-12-17 |  |
+| [Give Me Leather](https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 3:50 | 2021-12-17 | 2024-02-15 |
 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 | 2021-12-17 | 2022-07-28 |
 | [Glorious End](https://open.spotify.com/track/2YQfqDIGHWOswe12u1An4C) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Glorious End](https://open.spotify.com/album/37zCU0b0Y54C76MhZ2hnHG) | 6:40 | 2021-12-17 | 2022-07-28 |
 | [Goat Of Mendes \- Single Version](https://open.spotify.com/track/1H3mwH8mKVgW8xPOSgR68s) | [Impaled Nazarene](https://open.spotify.com/artist/4Q7d9egO7iMngBWfgvm57d) | [Goat of Mendes](https://open.spotify.com/album/0YSgicFo3Ze8GObg3xSpOa) | 2:25 | 2021-12-17 | 2022-02-14 |

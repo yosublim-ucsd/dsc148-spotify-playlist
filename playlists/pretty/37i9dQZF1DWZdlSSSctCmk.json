@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 117295,
+  "num_followers": 117320,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY1ZWJmMjdjNDcwMDE1YTc4NDMyOTMwZThmYjZmYTA0ZGY1YTVi",
+  "snapshot_id": "MCwzNDlkNWJmYTdhY2YzZjMzY2U1ZWYxZGU3MTY0ZDEzYmMxOGUwN2Nm",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 454480,
       "name": "La ritournelle",
       "url": "https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 262978,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Since Then. 2017",
         "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 274080,
       "name": "Venasque",
       "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262978,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
+      },
+      "artists": [
+        {
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+        }
+      ],
+      "duration_ms": 347250,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Mister Mellow",
         "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 493000,
       "name": "Intimate Fantasy",
       "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Wandering",
-        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
-      },
-      "artists": [
-        {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
-        }
-      ],
-      "duration_ms": 347250,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0pKEwIOy9w7BHOEAcWPgwf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 224840,
       "name": "Paz",
       "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0pKEwIOy9w7BHOEAcWPgwf"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Mutual Feelin' (Edit)",
-        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
-      },
-      "artists": [
-        {
-          "name": "Somethin' Sanctified",
-          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Mutual Feelin' - Edit",
-      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/1gsqDxThoqZbNPTIZnn3JC"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Mutual Feelin' (Edit)",
+        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
+      },
+      "artists": [
+        {
+          "name": "Somethin' Sanctified",
+          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Mutual Feelin' - Edit",
+      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
       },
@@ -1643,6 +1643,22 @@
       "duration_ms": 448352,
       "name": "Impossible Island",
       "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Simulcast",
+        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 250383,
+      "name": "Outer Sunset",
+      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Simulcast",
-        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 250383,
-      "name": "Outer Sunset",
-      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Cantoma (Deluxe)",
         "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
       },
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "10.000 Hours",
-        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 267697,
-      "name": "House in the Hills",
-      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Cerebral Hemispheres",
         "url": "https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 279224,
       "name": "Sands of Aruba",
       "url": "https://open.spotify.com/track/7DNpkhHwYqLpegThVQxwUB"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "10.000 Hours",
+        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 267697,
+      "name": "House in the Hills",
+      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
     }
   ],
   "unique_name": "Balearic Beats",

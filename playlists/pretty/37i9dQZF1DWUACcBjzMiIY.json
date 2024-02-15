@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
-  "num_followers": 218723,
+  "num_followers": 218718,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGRhZjA1MjZmNmEwYzg5ZmY4Y2UxNGFiODYzOWJmMzIzNzk1M2Vk",
+  "snapshot_id": "MCw0ZjA5NDljNjY4MjVhMDcxMDA2OWY5NzEwZmIyNWM2NzJkYmVkODQ3",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 202000,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
-      },
-      "artists": [
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Up From Below - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Home (2019 Remaster)",
-      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Home (2019 Remaster)",
+      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "On How Life Is",
-        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
       "artists": [
         {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 239440,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+      "duration_ms": 258826,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+        "name": "On How Life Is",
+        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+      "duration_ms": 239440,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Amethyst",
+        "url": "https://open.spotify.com/album/51jD9mF5wg2WMBd4xVeYTi"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6eJ2rRy68QOduhNLW3M1Yy"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/1ciAVKFdlpLi2eGDlXv6Bo"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4zzzZ1UNfr75ASG1lUE9L1"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Amethyst",
-        "url": "https://open.spotify.com/album/51jD9mF5wg2WMBd4xVeYTi"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6eJ2rRy68QOduhNLW3M1Yy"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Heavier Things",
-        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 237906,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -2179,18 +2163,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 199266,
-      "name": "It's a Beautiful Day",
-      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
+      "duration_ms": 237906,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2207,6 +2191,22 @@
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "It's a Beautiful Day",
+      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "Just A Little Bit Of Your Heart",
-      "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "Just A Little Bit Of Your Heart",
+      "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "This Town",
-        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Ella Eyre",
         "url": "https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 230711,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -2823,6 +2807,22 @@
       "duration_ms": 166826,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2023-11-03 04:00:00",

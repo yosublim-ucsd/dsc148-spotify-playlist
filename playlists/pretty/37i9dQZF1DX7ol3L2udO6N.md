@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,617 likes - 96 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,636 likes - 96 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 44 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
 | 45 | [Sing a Song](https://open.spotify.com/track/0YoisXt3HPgCSUAdy4H1aW) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Brothers](https://open.spotify.com/album/179hjubBB92h9w4h1mSMoK) | 4:10 |
 | 46 | [Sittin' Up In My Room \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/4330XmgVWlx98Y3Naswycg) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:52 |
-| 47 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
+| 47 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 48 | [FRIENDSHIP](https://open.spotify.com/track/0mNnK7dRqfHyZyoCMHGMLU) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [FRIENDSHIP](https://open.spotify.com/album/7FYhyvoCHvbGmHEk20TBJJ) | 4:47 |
 | 49 | [Love & Peace Forever](https://open.spotify.com/track/2Kw3diedKv9wcwsLMLHk9x) | [TRF](https://open.spotify.com/artist/74UwkYjA5WAPyrTYFO3mW9) | [TRF 15th Anniversary BEST \- MEMORIES \-](https://open.spotify.com/album/4HP7diHmPqKm20Jn0LVrVR) | 5:20 |
 | 50 | [Can't Stop Fallin' in Love \- Straight Run](https://open.spotify.com/track/4SPAqFp2rnqbVpicstRrmc) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [Can't Stop Fallin' in Love](https://open.spotify.com/album/1DUtl6Arf8kmDPINGxxzwN) | 5:48 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 95 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 |
 | 96 | [誰より好きなのに](https://open.spotify.com/track/7a7RuBVD7ZXW9bFVWLcoTr) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [THE SINGLES SONY MUSIC YEARS 1993〜2002](https://open.spotify.com/album/6L0RnoV3X2PtQoyY203VZJ) | 4:39 |
 
-Snapshot ID: `MCw0ZTE0OTJkNDVjZDY2MmQ1ZTdkYzI0MmJlYjdlMjljNTc1ZjFlMTIw`
+Snapshot ID: `MCw2OGY3OGUzZDY3MGNhMTUxMjc5N2FjMjE2NDNiZGY1YTNjZjk1ZTI2`

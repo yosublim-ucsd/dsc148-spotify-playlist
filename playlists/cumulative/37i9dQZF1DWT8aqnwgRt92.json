@@ -4855,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "Hitorino Yoru - From CrosSing",
+        "url": "https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN"
+      },
+      "artists": [
+        {
+          "name": "\u6e15\u4e0a \u821e",
+          "url": "https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "Hitorino Yoru - From CrosSing",
+      "url": "https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w"
+    },
+    {
+      "album": {
         "name": "HOLLOW HUNGER",
         "url": "https://open.spotify.com/album/2QNbOtPZP2TvtZYBzVIbW2"
       },
@@ -16968,7 +16986,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 246826,
       "name": "\u30d2\u30c8\u30ea\u30ce\u591c - from CrosSing",
       "url": "https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl"

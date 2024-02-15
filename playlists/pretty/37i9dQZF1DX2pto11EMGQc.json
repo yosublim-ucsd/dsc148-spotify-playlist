@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 92510,
+  "num_followers": 92508,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2QzM2E2OWI3ZmI0ZWJmZWM5MTEzYWVmMTYwOThjN2NiODBlZDY5",
+  "snapshot_id": "MCw2Y2Q4YmY1NDY2OTg2MWE1NzQwZDVjNTYzZTEwY2U3OTQ5M2Y3ZTg0",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -559,6 +559,26 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Magic In The Hamptons (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
+      },
+      "artists": [
+        {
+          "name": "Social House",
+          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Magic In The Hamptons (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "Passion, Pain & Pleasure (Deluxe Version)",
         "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
       },
@@ -579,22 +599,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Magic In The Hamptons (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
+        "name": "Turn Down for What",
+        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
       },
       "artists": [
         {
-          "name": "Social House",
-          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 164640,
-      "name": "Magic In The Hamptons (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
+      "duration_ms": 213733,
+      "name": "Turn Down for What",
+      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -631,26 +651,6 @@
       "duration_ms": 268866,
       "name": "Party Up",
       "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "Turn Down for What",
-        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Turn Down for What",
-      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -727,34 +727,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-        "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -767,6 +739,30 @@
       "duration_ms": 287000,
       "name": "Country Grammar (Hot Shit)",
       "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Snap Yo Fingers - Single",
+        "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "Snap Yo Fingers",
+      "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -795,26 +791,30 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Snap Yo Fingers - Single",
-        "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
       },
       "artists": [
         {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 274386,
-      "name": "Snap Yo Fingers",
-      "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
     },
     {
       "added_at": "2022-05-11 15:37:27",

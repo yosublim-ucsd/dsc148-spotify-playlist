@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,666 likes - 50 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,692 likes - 50 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 31 | [Amazing God](https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:56 |
 | 32 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 |
 | 33 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
-| 34 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
-| 35 | [Yeshua](https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Yeshua](https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78) | 8:53 |
-| 36 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 |
+| 34 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 |
+| 35 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
+| 36 | [Yeshua](https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Yeshua](https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78) | 8:53 |
 | 37 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 |
 | 38 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
 | 39 | [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [Mma Mma](https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited Verse 2](https://open.spotify.com/album/20YMmzwkCTcSgbk4hB3Jj4) | 4:41 |
 | 50 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
 
-Snapshot ID: `MCw2NDYxMTg3Y2UyZGQzNDFiMTBkM2RhZWMwYjY0YjkxYWRmNjc2YmVi`
+Snapshot ID: `MCwyMTZjNWQ4ZGZhZmMyMDkxN2MyZjlmZmY1Yzg2YjE1OGVkNDQwYjBl`

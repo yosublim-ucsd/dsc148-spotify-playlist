@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Alejo
 
-942 songs - 2 day 2 hr 21 min
+943 songs - 2 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Mood \- Remix](https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Mood \(Remix\)](https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L) | 4:07 | 2023-09-08 | 2023-11-11 |
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-13 | 2023-11-11 |
 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 | 2022-08-19 | 2022-11-12 |
+| [MULTIVERSO](https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [MULTIVERSO](https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU) | 3:32 | 2024-02-13 |  |
 | [Munchisito y Chao](https://open.spotify.com/track/4O3jVlC5g6crPM0TOsoUjA) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Munchisito y Chao](https://open.spotify.com/album/3p38C0gN42NetsZA02LiX9) | 2:18 | 2022-03-29 | 2022-07-09 |
 | [MUSEO](https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:15 | 2022-04-15 | 2022-07-09 |
 | [Musiando \(Sesión 11\)](https://open.spotify.com/track/5TPG3fyIni3kMBIAIPGH4Q) | [Trap House Latino](https://open.spotify.com/artist/1dJxxEzHPucXmosEl8pNiH), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dimelo Ninow](https://open.spotify.com/artist/797WGYmfHakSqOgtHMFkGa) | [Musiando \(Sesión 11\)](https://open.spotify.com/album/0oN7lGVuLMB0gfmRprjPNC) | 2:20 | 2023-11-24 | 2023-12-16 |
@@ -873,7 +874,7 @@
 | [Tu Perreas?](https://open.spotify.com/track/3HB9ttaGSwZ0ilCDpY0ZJJ) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:55 | 2023-03-10 | 2023-06-19 |
 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 | 2023-03-03 | 2023-04-29 |
 | [Tu Silueta](https://open.spotify.com/track/4TJOoYtoaH8mK1blB4wLJx) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Tu Silueta](https://open.spotify.com/album/5TIRcRu0NyCHbkPw9soAha) | 3:17 | 2023-01-13 | 2023-03-11 |
-| [Tu Voz](https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Tu Voz](https://open.spotify.com/album/1s13sfeodGFEldVyphkLly) | 3:17 | 2023-12-15 |  |
+| [Tu Voz](https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Tu Voz](https://open.spotify.com/album/1s13sfeodGFEldVyphkLly) | 3:17 | 2023-12-15 | 2024-02-15 |
 | [TU$$I \(with Dei V\)](https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TU$$I \(with Dei V\)](https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo) | 2:43 | 2023-10-20 | 2024-01-25 |
 | [Tu2Ru \- Reggaeton Version](https://open.spotify.com/track/1vTI9hSr1Mx32Yy4nHhncT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tu2Ru \(with Nio Garcia\)](https://open.spotify.com/album/7INP6va1mqzHgLUwqXPIgi) | 2:56 | 2022-06-10 | 2022-07-30 |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-05-26 | 2023-09-09 |

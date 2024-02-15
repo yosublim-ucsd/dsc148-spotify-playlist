@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,644 likes - 104 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,662 likes - 104 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 103 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 |
 | 104 | [Perfumed and Glossy](https://open.spotify.com/track/38gu8ZYmqaTP2fJrae4Nax) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Perfumed and Glossy](https://open.spotify.com/album/6HBZrBAM5Gg2tVDPxpj0Q1) | 2:40 |
 
-Snapshot ID: `MCw4YjBiNWY1NTIzYzY2Y2MwMDMxYTZlMmVhZjY1Y2NhM2M0NmFmMTBh`
+Snapshot ID: `MCw5YzE0ODNiMjU0NmMzYWM1NzNhNjhhZjMxMGZlOTg5ZDhmOTI2OTgy`

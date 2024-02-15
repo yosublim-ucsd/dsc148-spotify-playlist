@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,505 songs - 3 day 6 hr 23 min
+1,506 songs - 3 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,7 @@
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-30 | 2023-12-30 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-30 | 2022-05-07 |
 | [Honestly](https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Honestly](https://open.spotify.com/album/3WXrhTdhPwXaki8g8bmwVm) | 2:57 | 2023-01-10 | 2023-02-15 |
-| [HOODRAT](https://open.spotify.com/track/71MzcOebEC5KoWBbzvFPkj) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:42 | 2024-02-12 |  |
+| [HOODRAT](https://open.spotify.com/track/71MzcOebEC5KoWBbzvFPkj) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:42 | 2024-02-12 | 2024-02-15 |
 | [hope ur miserable](https://open.spotify.com/track/4JYijTDaaV48IotViPKOm6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [hope ur miserable](https://open.spotify.com/album/7CnjqYvhqexT3lRJA3TDQS) | 2:25 | 2023-10-28 | 2023-11-24 |
 | [Hopelessly Hopeless](https://open.spotify.com/track/6Kvo2pdl5JPTvYKgaq5lYm) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly Hopeless](https://open.spotify.com/album/6IcKjirOFkykNCjo6O7wD9) | 3:24 | 2022-01-29 | 2022-03-13 |
 | [Hopelessly Hopeless](https://open.spotify.com/track/7esGcqsNB1vSVAeVDfOW1c) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hopelessly Hopeless](https://open.spotify.com/album/47IT3hOIZeu74pmfsNDaJH) | 3:15 | 2023-01-21 | 2023-04-02 |
@@ -1338,6 +1338,7 @@
 | [Tenerife Tapes](https://open.spotify.com/track/1w0rQ13DQRjFLG3Y06skMK) | [Rike Venner](https://open.spotify.com/artist/7r0CzlT427mU4iMq7i4Yz6) | [Tenerife Tapes](https://open.spotify.com/album/6XIPoInykmgMCLmZNJolyh) | 1:37 | 2022-09-02 | 2022-09-11 |
 | [Tenerife Tapes](https://open.spotify.com/track/60deDJnxH7G68DwxfbN9aQ) | [Rike Venner](https://open.spotify.com/artist/7r0CzlT427mU4iMq7i4Yz6) | [Tenerife Tapes](https://open.spotify.com/album/3HIlENmXwDDFfmdV1WG407) | 1:37 | 2022-09-10 | 2022-11-22 |
 | [Tenn Lys](https://open.spotify.com/track/1b6c0rgE2KpMXDEP4XaYpy) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Tenn Lys](https://open.spotify.com/album/57Y9n5ls5KcQpkHqjJe9WD) | 3:59 | 2022-11-28 | 2023-12-06 |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-14 |  |
 | [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-08-06 |
 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 | 2023-07-01 | 2023-07-11 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-03-06 |

@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: FZMZ feat\. icy
 
-355 songs - 20 hr 35 min
+356 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Virtual Daydreamer](https://open.spotify.com/track/6PO9MBYjh9htdZpm8YFL1g) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [Virtual Daydreamer](https://open.spotify.com/album/265wytKiSVQL3OnmLzXld9) | 3:10 | 2023-12-12 | 2023-12-14 |
 | [We The Female!](https://open.spotify.com/track/41n2nfFUIBVjiypYmzPqkp) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 3:04 | 2023-12-19 | 2024-01-19 |
 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2023-12-27 | 2024-01-12 |
+| [Wiiremo](https://open.spotify.com/track/6SBpSPzQhBcb19KscPfxTW) | [ibu](https://open.spotify.com/artist/7wES4DtZ2ftjwynm0bqyJG), [Cuffboi](https://open.spotify.com/artist/3UwWOONCd9germG5Pu7wz3), [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1) | [Wiiremo](https://open.spotify.com/album/2Q8iJxK5nwA3nhBv1Q7e6L) | 2:16 | 2024-02-14 |  |
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2023-12-07 | 2023-12-27 |
 | [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 | 2023-08-24 | 2023-10-13 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-05-09 | 2023-12-08 |
@@ -268,7 +269,7 @@
 | [スマイリーを探して](https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:31 | 2024-01-16 |  |
 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 | 2023-06-22 | 2023-12-08 |
 | [センチメンタリズム \- feat\. 芹澤 優](https://open.spotify.com/track/7BIFJ3tHxrU28sBICphJQY) | [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [FUTUREmode](https://open.spotify.com/artist/6Vd60p0nesFh1BT0cSJERo) | [センチメンタリズム \(feat\. 芹澤 優\)](https://open.spotify.com/album/3zNOIekTZH9wpKrqdfsKW9) | 3:45 | 2023-12-19 |  |
-| [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-30 |  |
+| [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-30 | 2024-02-15 |
 | [ダブル・プッシュ・オフ。](https://open.spotify.com/track/5TiirG23LRTNq0hRuML8iq) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq), [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [ダブル・プッシュ・オフ。](https://open.spotify.com/album/5TrVfUhS0GLtkJ8uapOmGF) | 2:54 | 2023-11-28 | 2023-12-20 |
 | [ダーリン](https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 2:28 | 2023-06-08 | 2023-12-08 |
 | [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 | 2023-09-30 |

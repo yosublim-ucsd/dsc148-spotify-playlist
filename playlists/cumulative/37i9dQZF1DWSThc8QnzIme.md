@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: Sabrina Carpenter
 
-424 songs - 22 hr 21 min
+425 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-28 | 2023-09-28 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-15 |  |
-| [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 | 2022-09-23 |  |
+| [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 | 2022-09-23 | 2024-02-15 |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2022-04-29 | 2023-03-11 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 | 2023-05-24 |
 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-04-28 |  |
@@ -362,6 +362,7 @@
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2022-04-29 | 2022-09-17 |
 | [Talk About Love](https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Talk About Love](https://open.spotify.com/album/5i6UvFvn2My0AZCwyDIXGN) | 3:48 | 2024-02-02 |  |
 | [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 | 2022-09-24 |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-14 |  |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-29 | 2022-06-18 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-04-29 | 2023-01-29 |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-03-31 | 2023-11-25 |

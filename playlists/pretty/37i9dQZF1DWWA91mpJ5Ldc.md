@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,397 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,411 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 42 | [Em Outro Lugar](https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa) | 3:37 |
 | 43 | [Roupa Branca](https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc) | 2:27 |
 | 44 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
-| 45 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 |
-| 46 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
+| 45 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
+| 46 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 |
 | 47 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
 | 48 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
-| 49 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
-| 50 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
+| 49 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
+| 50 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
 | 51 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 52 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
 | 53 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 |
 | 54 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 |
 | 55 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
 | 56 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
-| 57 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
-| 58 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 |
+| 57 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 |
+| 58 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
 | 59 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 60 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
 
-Snapshot ID: `MCwxYjAxODhiNjhlMWY5ZjVjY2FiNzAwY2MxNjhhMDMzYzZlNGRiYjEx`
+Snapshot ID: `MCw1MjMxOTgwMWRiZGM0Mjg2NWIwYzIzZjY1ZjI4MmQ1NzY5YjM4ZmFh`

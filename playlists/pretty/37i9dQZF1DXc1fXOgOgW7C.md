@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,712 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,736 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 66 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 67 | [Ingrediente](https://open.spotify.com/track/6M6aCePRkHqmQsUGa6BegN) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 3:36 |
 | 68 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 |
-| 69 | [Víctimas del Cielo](https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Brindando por Nada](https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx) | 4:13 |
-| 70 | [El Mundo Extraño](https://open.spotify.com/track/3z6CZiS2I89YQ2N0FMtGlG) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 3:58 |
+| 69 | [El Mundo Extraño](https://open.spotify.com/track/3z6CZiS2I89YQ2N0FMtGlG) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 3:58 |
+| 70 | [Víctimas del Cielo](https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Brindando por Nada](https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx) | 4:13 |
 
-Snapshot ID: `MCw4YmY0NGY0ZWRhMDljMzY3MTA2NGEyY2Q5OTJiNjNjNzU2NDIzN2Nk`
+Snapshot ID: `MCw0MWYxMTQ0YjE2YTBhM2M0NWQ4NmI2OWVlZWFlNDYyNTA0NDFjZTRh`

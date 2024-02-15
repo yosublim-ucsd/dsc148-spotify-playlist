@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 637926,
+  "2024-02-15": 637906,
   "date_first_scraped": "2021-12-21",
   "description": "Ease into the day",
   "name": "Mellow Morning",
@@ -2865,6 +2865,24 @@
     {
       "album": {
         "name": "Daylight",
+        "url": "https://open.spotify.com/album/20pY9EnEZVp4jTtFPQU9aN"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "I Think It's You",
+      "url": "https://open.spotify.com/track/10RdiY6mHq40y6JfMm5iek"
+    },
+    {
+      "album": {
+        "name": "Daylight",
         "url": "https://open.spotify.com/album/54gsb9kVm2J8i2M7raLNph"
       },
       "artists": [
@@ -2893,7 +2911,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 217266,
       "name": "I Think It\u2019s You",
       "url": "https://open.spotify.com/track/5063zWIUKknkMJ7D9GbGSG"

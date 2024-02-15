@@ -1,15 +1,15 @@
 {
   "description": "Poslechn\u011bte si \u017eeny z \u010ceska a Slovenska na plnou hlasitost. Cover: Dara Rolins",
-  "num_followers": 7275,
+  "num_followers": 7285,
   "original_name": "EQUAL CZ&SK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjNiOTIwMzZmODlkOWMzOGYwYTExOTI1NTI5ODc0ZTRhYzAwZGJm",
+  "snapshot_id": "MCwwYzQ0NGZlMGE0NGJhMDVjMDBiZDE4OTgwMWEwNDM0YWY5MjYzYjE3",
   "tracks": [
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Lep\u0161\u00ed svet",
         "url": "https://open.spotify.com/album/0MZp4x46gR2eQnsaqttpSX"
@@ -29,7 +29,175 @@
       "url": "https://open.spotify.com/track/2v69sBDSYs4CcD7Q4vXZ0W"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "Struny",
+        "url": "https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB"
+      },
+      "artists": [
+        {
+          "name": "Jana Kirschner",
+          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
+        }
+      ],
+      "duration_ms": 237597,
+      "name": "Struny",
+      "url": "https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "she",
+        "url": "https://open.spotify.com/album/1oNLeUk0a0uqLq5qFGmIDg"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "she",
+      "url": "https://open.spotify.com/track/0YbytPAQHKpmAQD3VJfRNo"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "Plamen",
+        "url": "https://open.spotify.com/album/5UVpyYtfiltAtklCG18lto"
+      },
+      "artists": [
+        {
+          "name": "Kate\u0159ina Marie Tich\u00e1",
+          "url": "https://open.spotify.com/artist/0WGRcXFn2jyD7Jq6wIHv6O"
+        },
+        {
+          "name": "Bandjeez",
+          "url": "https://open.spotify.com/artist/4h6oUuYebAvVFnivWb92jt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ta t\u0159et\u00ed",
+      "url": "https://open.spotify.com/track/4heqA9uJGPBQsfpCMHaVue"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "Jak p\u0159e\u017e\u00edt sv\u00e9ho mu\u017ee",
+        "url": "https://open.spotify.com/album/5p0bLhCnbBFcpFEENcaLcI"
+      },
+      "artists": [
+        {
+          "name": "Eva Buresova",
+          "url": "https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "This Is How It Goes",
+      "url": "https://open.spotify.com/track/3l1vodmJxBAYhSteqm0mQG"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "MAGNETY",
+        "url": "https://open.spotify.com/album/4tn01uOzdGYaQ8TeDo8AIk"
+      },
+      "artists": [
+        {
+          "name": "Jasmin",
+          "url": "https://open.spotify.com/artist/5m53CoCQ0bkn6L4vHvtn80"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "MAGNETY",
+      "url": "https://open.spotify.com/track/4PJmNMkhHRe3sA2gx8Uf0z"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "knz",
+        "url": "https://open.spotify.com/album/3N9PZtN0HYojkotOPLUaxe"
+      },
+      "artists": [
+        {
+          "name": "Katarzia",
+          "url": "https://open.spotify.com/artist/5EssQRYnIgCOcvPauVySR1"
+        }
+      ],
+      "duration_ms": 182988,
+      "name": "v o n i a \u0161 . a k o . \u017e i v o t",
+      "url": "https://open.spotify.com/track/4k1eT0x5dYLNKdc3pKDypW"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "m\u00f4j zlodej vie",
+        "url": "https://open.spotify.com/album/3tDB2wKGkNi96zKYJmfLKx"
+      },
+      "artists": [
+        {
+          "name": "Call Dominika",
+          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
+        }
+      ],
+      "duration_ms": 177967,
+      "name": "m\u00f4j zlodej vie",
+      "url": "https://open.spotify.com/track/1ir73a0B8PhZKugHawO2At"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "bruised knees.",
+        "url": "https://open.spotify.com/album/5Yl1A6AW7DYoGE8GSkhTn5"
+      },
+      "artists": [
+        {
+          "name": "Erika Rein",
+          "url": "https://open.spotify.com/artist/1OPKyDIfV8KG5aLoqJKU9v"
+        },
+        {
+          "name": "Isama Zing",
+          "url": "https://open.spotify.com/artist/7GHiwVC9jHzIijSkp99Us2"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "bruised knees.",
+      "url": "https://open.spotify.com/track/1FdMVZ4dsrY2YmUrHKSOqz"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "Povedz mi",
+        "url": "https://open.spotify.com/album/4p8Tmz3cdeaWafzN22yNLP"
+      },
+      "artists": [
+        {
+          "name": "Martina Schindlerov\u00e1",
+          "url": "https://open.spotify.com/artist/0pVhrgaWzyigcJ3cJNqeog"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Povedz mi",
+      "url": "https://open.spotify.com/track/4e8cprjpVCmzTr2XJJHjg5"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
+      "album": {
+        "name": "Nekone\u010dn\u00e1",
+        "url": "https://open.spotify.com/album/5KLbgEwbrE2hw6TpxVck3F"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Mikulcova",
+          "url": "https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Nekone\u010dn\u00e1",
+      "url": "https://open.spotify.com/track/6Q2DAdf7B8Ca9F4Fauq9BI"
+    },
+    {
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/7tmQfh6QLVPjcJVnqrcnIc"
@@ -45,7 +213,7 @@
       "url": "https://open.spotify.com/track/21RsFzAqYUMNXnHGiV6WnH"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/3lbLDBvtuKDRdl8TPVU1zz"
@@ -61,7 +229,7 @@
       "url": "https://open.spotify.com/track/4Poz3erzkMKu4ZsPyrNWyI"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Vyhajpovan\u00fd",
         "url": "https://open.spotify.com/album/310wMDHXShh9yQTZfPvVok"
@@ -77,7 +245,7 @@
       "url": "https://open.spotify.com/track/7a7CGTug8pYbpsIoF2Xmsh"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Amulet",
         "url": "https://open.spotify.com/album/6KT0RRKyulI7rS9xMEnkWh"
@@ -93,7 +261,7 @@
       "url": "https://open.spotify.com/track/63XSpVxlmFfHYQE9PjyPFO"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Negativ",
         "url": "https://open.spotify.com/album/0tc1w0b9t541oN0v1ooFgK"
@@ -109,7 +277,7 @@
       "url": "https://open.spotify.com/track/35BpFHEqHEQPq7Gclub5fh"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Tatranci",
         "url": "https://open.spotify.com/album/3cyY3KbQB5aYCMpLKXa0mt"
@@ -129,7 +297,7 @@
       "url": "https://open.spotify.com/track/66U0f7G2QJryNBtB9wU8le"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Wonder Woman",
         "url": "https://open.spotify.com/album/1FFmxc0ZSiUSsobPvjIzff"
@@ -149,7 +317,7 @@
       "url": "https://open.spotify.com/track/4D9l9hnMuS87bmCX8chxLF"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "The Angel's Share",
         "url": "https://open.spotify.com/album/38Extbt1wy1ky712mF6kUv"
@@ -165,23 +333,7 @@
       "url": "https://open.spotify.com/track/7keRd39WNx0wL1zbFRxpv6"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "hihi.",
-        "url": "https://open.spotify.com/album/3hJu8BDndIk1KcdQ5afvO5"
-      },
-      "artists": [
-        {
-          "name": "Erika Rein",
-          "url": "https://open.spotify.com/artist/1OPKyDIfV8KG5aLoqJKU9v"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "hihi.",
-      "url": "https://open.spotify.com/track/2OvJQxzDJKfdsKh1xkdn80"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "NECHCEM BY\u0164 SAMA",
         "url": "https://open.spotify.com/album/0ZEXpqmwpyS7PTOxpfvaSg"
@@ -197,7 +349,7 @@
       "url": "https://open.spotify.com/track/3HltJWFmC7EAzXCCt7OKdQ"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Josei",
         "url": "https://open.spotify.com/album/4nrOyDLbT5VNpxyVBProE9"
@@ -213,7 +365,7 @@
       "url": "https://open.spotify.com/track/08ugmCtC486EWztQ1yk4r7"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "frenzy",
         "url": "https://open.spotify.com/album/2NBZCo2O4riCY0s4MTG5sa"
@@ -229,7 +381,7 @@
       "url": "https://open.spotify.com/track/72t6yWouL1ZRKmk1YL6ed8"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "GOSSIP",
         "url": "https://open.spotify.com/album/1FFV2r8wzsZWqTTAqQ5VQ9"
@@ -245,23 +397,7 @@
       "url": "https://open.spotify.com/track/13gANQEWsSW3zCo4P09oPL"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "v svete m\u0155tveho",
-        "url": "https://open.spotify.com/album/4AjDP7xBAO4mmevUCRLCsq"
-      },
-      "artists": [
-        {
-          "name": "Call Dominika",
-          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
-        }
-      ],
-      "duration_ms": 144048,
-      "name": "v svete m\u0155tveho",
-      "url": "https://open.spotify.com/track/1cu5SxAQ01l7Xhx0YChgcB"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/4Rj6u8XFYJrhv4A3SYd6O8"
@@ -277,7 +413,7 @@
       "url": "https://open.spotify.com/track/441QDetxso0p1qEzigNfh2"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Fighter Inside You",
         "url": "https://open.spotify.com/album/098Ti0qouqpuu85I1kxGpK"
@@ -293,7 +429,7 @@
       "url": "https://open.spotify.com/track/2TQ5K30tE1c24neybwfqVX"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6effVSFuKbrT6dXKRADv0U"
@@ -309,7 +445,7 @@
       "url": "https://open.spotify.com/track/4dg6lCXY6apCZRFf0CESj3"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Wolfrunners",
         "url": "https://open.spotify.com/album/6ZDV12O9DivtVzYUdCemmC"
@@ -325,7 +461,7 @@
       "url": "https://open.spotify.com/track/3fbhLp2fHr4D0hMtKEk7xa"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "anxiety",
         "url": "https://open.spotify.com/album/6BVW41CjIdgoXIfvleoekL"
@@ -341,23 +477,7 @@
       "url": "https://open.spotify.com/track/2WmB3XShEry2bfysbdv03Z"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "This Is How It Goes",
-        "url": "https://open.spotify.com/album/1fEZcdZbEuOWiYPivmzWJ9"
-      },
-      "artists": [
-        {
-          "name": "Eva Buresova",
-          "url": "https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "This Is How It Goes",
-      "url": "https://open.spotify.com/track/3FLfp6AVpJMhSSNjU5XVwK"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "VRSTVY",
         "url": "https://open.spotify.com/album/6ExhKN1Fx28Lo5H0VAObj0"
@@ -377,7 +497,7 @@
       "url": "https://open.spotify.com/track/1rx7oc1f3AlskkY627AfLu"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "S\u013eub, \u017ee pre\u017eijem",
         "url": "https://open.spotify.com/album/37H5xt5gurPAwIeRxFbbTp"
@@ -393,7 +513,7 @@
       "url": "https://open.spotify.com/track/6SL5m1WkCKJFQUYDMKRtAN"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/5D3y25TX8YjmJn1fR6LWbf"
@@ -417,7 +537,7 @@
       "url": "https://open.spotify.com/track/27Dk76Njkj0pysahHpIyB5"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/0TBSHL5acJQfKLjlst3SAe"
@@ -433,7 +553,7 @@
       "url": "https://open.spotify.com/track/3I9vkpxO4ucNbPwpk2cRbt"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Higher Than Earth",
         "url": "https://open.spotify.com/album/3iUtyjdn75eOVlmJ3V1zhG"
@@ -453,7 +573,7 @@
       "url": "https://open.spotify.com/track/1En4cGGNrt2Ok3VIdsgwPv"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Will I See You Again",
         "url": "https://open.spotify.com/album/4x2DdTZxmuiJfuutYSHESa"
@@ -469,7 +589,7 @@
       "url": "https://open.spotify.com/track/5Z2NUfG8SbFN7MYHyuAGJY"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Na to hezk\u00fd vzpom\u00ednej",
         "url": "https://open.spotify.com/album/5hpa3Hg5clQtqOmVW9pVF2"
@@ -489,7 +609,7 @@
       "url": "https://open.spotify.com/track/0iOJyep6NuH7S5CV0YwzS1"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "ILLUMIN8",
         "url": "https://open.spotify.com/album/2fnUrqHA36JskCNa95SuaR"
@@ -505,7 +625,7 @@
       "url": "https://open.spotify.com/track/1aEqcsN1iGoFnZKww2oEX2"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Oni",
         "url": "https://open.spotify.com/album/4eugd1iizKyMtboKuk2FMc"
@@ -521,7 +641,7 @@
       "url": "https://open.spotify.com/track/20UIB8qsqjUeVfFGTqCz5V"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Presne Tak",
         "url": "https://open.spotify.com/album/32vCQZTho9OSnfe05Cp5BQ"
@@ -537,7 +657,7 @@
       "url": "https://open.spotify.com/track/6kKL61DXOSrKaUrsw5CTgz"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Fortune's child",
         "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
@@ -553,7 +673,7 @@
       "url": "https://open.spotify.com/track/4WuBRsw8NvN8gAjiQGfVhM"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Overdosed",
         "url": "https://open.spotify.com/album/7ie1QNQJDIXdGYxCxzlO31"
@@ -569,7 +689,7 @@
       "url": "https://open.spotify.com/track/1yFp9g9qSDKcX78YsznBsS"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Toxic Treatments",
         "url": "https://open.spotify.com/album/6978OwaL7hgYZzXmz66q08"
@@ -585,7 +705,7 @@
       "url": "https://open.spotify.com/track/0fVcY7mduJx7IOqHSpdtNl"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "MASKOFF",
         "url": "https://open.spotify.com/album/4ioMeY9oSfz90sohdMWt10"
@@ -601,7 +721,7 @@
       "url": "https://open.spotify.com/track/2fXDH40c889uFom455zRJL"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/3il33Qa3lrteg2wCm1YFj1"
@@ -617,7 +737,7 @@
       "url": "https://open.spotify.com/track/768vsDwp0MoLU9MUdgZzZe"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Pierrot",
         "url": "https://open.spotify.com/album/7foxDHD3JCo1exrcPK8xbR"
@@ -637,7 +757,7 @@
       "url": "https://open.spotify.com/track/60Xjwo9ik1gbXInUQnkMxA"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Nenad\u011bl\u00e1\u0161 nic",
         "url": "https://open.spotify.com/album/4RmksZqJvhgeexH8Pk1OBL"
@@ -653,7 +773,7 @@
       "url": "https://open.spotify.com/track/5myNamapnnfnCw0clHiQMH"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "How Deep is Your Love",
         "url": "https://open.spotify.com/album/0SUB4PxlfJCYLMDlkMBCYY"
@@ -669,7 +789,7 @@
       "url": "https://open.spotify.com/track/7lEUuoe4TA3IocEMvQ4Pps"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Energia",
         "url": "https://open.spotify.com/album/7GFCkkuCJSmwASekE36HcY"
@@ -689,23 +809,7 @@
       "url": "https://open.spotify.com/track/4tJuJJDGmnBB4rrHL1ZDAr"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Plamen",
-        "url": "https://open.spotify.com/album/2qOy6HYIWwPCwoj2UnQHAm"
-      },
-      "artists": [
-        {
-          "name": "Kate\u0159ina Marie Tich\u00e1",
-          "url": "https://open.spotify.com/artist/0WGRcXFn2jyD7Jq6wIHv6O"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Plamen",
-      "url": "https://open.spotify.com/track/7tHJ6WzWqlIWvE3LbA11gw"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "BALANS",
         "url": "https://open.spotify.com/album/6Sr4JtqlCrTsp4XvXNic8V"
@@ -729,23 +833,7 @@
       "url": "https://open.spotify.com/track/4WbmRXdOrnGAkORGsdfMZ5"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Piesok",
-        "url": "https://open.spotify.com/album/4TMwYKhTwM7vMWzkJiZCVO"
-      },
-      "artists": [
-        {
-          "name": "Katarzia",
-          "url": "https://open.spotify.com/artist/5EssQRYnIgCOcvPauVySR1"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Piesok",
-      "url": "https://open.spotify.com/track/4N2AhohDL4vNi0Awo7y3Sf"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Co bylo za n\u00e1s (feat. Monika Bag\u00e1rov\u00e1)",
         "url": "https://open.spotify.com/album/5EGQsgubo8aWUFG3Q2kRuy"
@@ -765,7 +853,7 @@
       "url": "https://open.spotify.com/track/6ddwz70c7EGZDxQx4wWoAI"
     },
     {
-      "added_at": "2024-01-09 23:00:00",
+      "added_at": "2024-02-14 14:42:43",
       "album": {
         "name": "Time In Space",
         "url": "https://open.spotify.com/album/3HSvi1pEZyPWYlhmDjfrU2"
@@ -779,86 +867,6 @@
       "duration_ms": 255746,
       "name": "Time In Space",
       "url": "https://open.spotify.com/track/3CAhlGAZbKOgYkWQLakmHu"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Zas r\u00e1na",
-        "url": "https://open.spotify.com/album/75FGIToJP29KoQcw8nyLGs"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Trajerov\u00e1",
-          "url": "https://open.spotify.com/artist/3B1rBvGP5KruZ3KZl5riW4"
-        }
-      ],
-      "duration_ms": 132307,
-      "name": "Zas r\u00e1na",
-      "url": "https://open.spotify.com/track/5ylBwJPXUfRQ2vhw15JtQK"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Pretty Smile",
-        "url": "https://open.spotify.com/album/72K19epx9XwDfUTBvxAMsg"
-      },
-      "artists": [
-        {
-          "name": "5etra",
-          "url": "https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd"
-        }
-      ],
-      "duration_ms": 185865,
-      "name": "Pretty Smile",
-      "url": "https://open.spotify.com/track/5AwYZk09lMGtsDlC7XNNhp"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Hriechom",
-        "url": "https://open.spotify.com/album/2JLqYiNIPiFS8NDsGBqP2O"
-      },
-      "artists": [
-        {
-          "name": "Barbora Pie\u0161ov\u00e1",
-          "url": "https://open.spotify.com/artist/3DoE735qK35SCZrRIYlmgv"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Hriechom",
-      "url": "https://open.spotify.com/track/53iiP3kG8xuYSxaEQGAgAs"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "Pokoj",
-        "url": "https://open.spotify.com/album/1qrY29Hy6gYOfCy6KCwprp"
-      },
-      "artists": [
-        {
-          "name": "Anna Julie Slov\u00e1\u010dkov\u00e1",
-          "url": "https://open.spotify.com/artist/45C0jb0FPI7HncTBp0eGjO"
-        }
-      ],
-      "duration_ms": 173802,
-      "name": "Pokoj",
-      "url": "https://open.spotify.com/track/2rmTnyigSJHF5fYveUE8EF"
-    },
-    {
-      "added_at": "2024-01-09 23:00:00",
-      "album": {
-        "name": "No a co",
-        "url": "https://open.spotify.com/album/5V0dLUYIqjDQkVSMvJ6EW3"
-      },
-      "artists": [
-        {
-          "name": "Ewa Farna",
-          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
-        }
-      ],
-      "duration_ms": 163705,
-      "name": "No a co",
-      "url": "https://open.spotify.com/track/5JMz22e5dypbfB5avDjrFy"
     }
   ],
   "unique_name": "EQUAL CZ&SK",

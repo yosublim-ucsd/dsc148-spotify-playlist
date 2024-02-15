@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Corridor
 
-157 songs - 9 hr 9 min
+158 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 | 2023-02-10 |  |
 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 | 2023-02-10 |  |
 | [DIMANCHE SOIR](https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:09 | 2023-02-10 |  |
-| [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 | 2023-02-10 |  |
+| [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 | 2023-02-10 | 2024-02-15 |
 | [DVTR](https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [DVTR](https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW) | 2:16 | 2023-10-27 | 2024-01-27 |
 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 | 2023-02-10 | 2023-03-11 |
 | [Ekuan Ek\(u\)](https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 3:46 | 2023-04-07 | 2024-01-27 |
@@ -135,6 +135,7 @@
 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 | 2023-02-10 |  |
 | [Si oui ou non](https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Si oui ou non](https://open.spotify.com/album/1BBSrtHVh6HuAmaOVgahGm) | 2:20 | 2023-06-02 | 2023-06-17 |
 | [Still Stained](https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Still Stained](https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv) | 3:01 | 2023-06-30 | 2023-08-23 |
+| [Stéréo](https://open.spotify.com/track/6YyFB2Qyn8Wv0XeCe7zxez) | [Loïc April](https://open.spotify.com/artist/4fnRDn8I09X3FEegktJWVt) | [Stéréo](https://open.spotify.com/album/22Hh0sucnNATw5MQkftTzK) | 2:47 | 2024-02-02 |  |
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 |  |
 | [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 | 2023-10-27 |  |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |

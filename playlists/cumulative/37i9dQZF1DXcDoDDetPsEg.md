@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-928 songs - 1 day 23 hr 51 min
+929 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Cap 2 da Side](https://open.spotify.com/track/4O6uoBjLCGRqSTopXl9x8x) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Cap 2 da Side](https://open.spotify.com/album/5YS7zT4TXxqj2VGRlYe7dN) | 2:36 | 2023-08-10 | 2023-10-24 |
 | [Captain](https://open.spotify.com/track/3V6smv7JlVHAPnp8xegMAd) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Captain](https://open.spotify.com/album/1FaRi2v5fyJPdrwi2PfdAN) | 2:30 | 2022-05-27 | 2022-06-25 |
 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/0VGEXZO5nkh701P96U8Rer) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box \(Happi Remix\)](https://open.spotify.com/album/4OEt3YmstjCdjPy6jFXXU5) | 2:30 | 2022-10-13 | 2022-11-19 |
+| [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-14 |  |
 | [Carpe Diem](https://open.spotify.com/track/5mwe2MGlVC6GS4MSDjlKgQ) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Carpe Diem](https://open.spotify.com/album/2m5rzib7yidaLv2vsFift9) | 2:31 | 2023-03-03 | 2023-04-09 |
 | [Casablanca \(feat\. Morad\)](https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:34 | 2023-09-01 | 2023-12-30 |
 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 | 2024-01-26 |  |

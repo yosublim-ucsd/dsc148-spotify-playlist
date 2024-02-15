@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨 feat\. Jonas Benyoub
 
-138 songs - 5 hr 56 min
+139 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [555](https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Takket være livet](https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC) | 3:30 | 2023-11-09 | 2024-01-19 |
 | [95](https://open.spotify.com/track/41rOFUwgdYCySkMPb99RjL) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a), [Philip Emilio](https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn) | [95](https://open.spotify.com/album/3IKvmlokK9vfru4Aki55GX) | 2:42 | 2023-09-21 | 2023-10-13 |
 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 | 2023-11-09 |  |
-| [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-09-28 |  |
+| [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-09-28 | 2024-02-15 |
 | [Automatic](https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2024-01-04 |  |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 | 2024-01-10 |
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 |  |
@@ -37,6 +37,7 @@
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-21 |  |
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2023-09-21 | 2023-09-29 |
 | [DEJA VU](https://open.spotify.com/track/1lIAdiuji8iJXGHOdAGCj7) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:19 | 2023-10-19 | 2023-11-11 |
+| [Distrikt 4](https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [Distrikt 4](https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ) | 2:06 | 2024-02-09 |  |
 | [Dreams](https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT) | 2:08 | 2023-09-21 |  |
 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 | 2023-09-21 |  |
 | [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 | 2024-02-08 |  |

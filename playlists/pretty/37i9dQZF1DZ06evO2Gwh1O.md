@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,553 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,556 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 15 | [The Distance](https://open.spotify.com/track/4z6nCgne1X6YJEnQdAHaYb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:26 |
 | 16 | [10.45 Amsterdam Conversations](https://open.spotify.com/track/4t0VJ7J6QMZBE5lz0LdbjU) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 3:39 |
 | 17 | [Recovery](https://open.spotify.com/track/5Xf3jkF3S5IB2u29aSLKjf) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK) | 3:30 |
-| 18 | [Storytelling](https://open.spotify.com/track/5eptCQgkvncBHbWn6Slzje) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 3:34 |
+| 18 | [She Drove Me to Daytime Television](https://open.spotify.com/track/6v1iCqLDznDBwjDkP2tCt8) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 3:35 |
 | 19 | [All Hands on Deck, Pt\. 1: Raise the Sail](https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:26 |
 | 20 | [Rookie](https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Split](https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf) | 4:15 |
 | 21 | [Monsters](https://open.spotify.com/track/3k0coNayddFcRWKYJujrx4) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK) | 3:29 |
-| 22 | [She Drove Me to Daytime Television](https://open.spotify.com/track/6v1iCqLDznDBwjDkP2tCt8) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 3:35 |
+| 22 | [Storytelling](https://open.spotify.com/track/5eptCQgkvncBHbWn6Slzje) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 3:34 |
 | 23 | [The Diary](https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:40 |
 | 24 | [Best Friends and Hospital Beds](https://open.spotify.com/track/6B1XIYrH0g7uuf9yNeDsue) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:45 |
 | 25 | [1%](https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 49 | [Inequality](https://open.spotify.com/track/5ohutul21ZtJtb16LiSjdk) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 2:53 |
 | 50 | [Waterfront Dance Club](https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 4:24 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA4MWQzYmMxMDI4MDA0MzY1YzFhZWMyYjhiYzI3ZDA1Mw==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA3NDM0ODFiNTUwMjBkN2M0ZjUwMzFmOTdlZjBjZDY2Nw==`

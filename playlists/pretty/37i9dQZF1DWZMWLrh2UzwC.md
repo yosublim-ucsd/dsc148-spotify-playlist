@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,394 likes - 87 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,401 likes - 87 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 15 | [雙鯉書](https://open.spotify.com/track/7s5xaeT5lfZ5Wxl2Iwmuqm) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [雙鯉書 \(錄音室版\)](https://open.spotify.com/album/2oeSXUrXbZBZwxVhojVyys) | 3:17 |
 | 16 | [Broken Symphony](https://open.spotify.com/track/2afqv6rNNOE6HZ36vkbSq3) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [DIVINE](https://open.spotify.com/album/0QfsqeNAmd48QUzPHYV2V8) | 4:22 |
 | 17 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
-| 18 | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter \(feat\. DENȲ\)](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
+| 18 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 19 | [Almost over you](https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:24 |
 | 20 | [Mr\. Heaven Blue](https://open.spotify.com/track/1hstaoZSc6kBCloExIw4NR) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Mr\. Heaven Blue](https://open.spotify.com/album/0OJe2GmUV9DO0i3bOvvHHM) | 3:04 |
 | 21 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 86 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 |
 | 87 | [Cold Love Zombie](https://open.spotify.com/track/10U3vRuWMfShveAsXGXDMy) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [Cold Love Zombie](https://open.spotify.com/album/6cspnvSQ3ZaaB6e8nfz7ly) | 4:37 |
 
-Snapshot ID: `MCw0ZGNkZWFkODkwZmJlOGNkMmY1OGZhM2VjYWY3ZDU1MTczNGIxMTk0`
+Snapshot ID: `MCw1NDE1NzU3NWE0NDQ3YmFiYmNhZTdiNjZiODQzNGZjM2MzYjExODNm`

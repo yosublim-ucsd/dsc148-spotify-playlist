@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,138 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,269 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 14 | [My Feeling \- Daddy's Prime Time Edit](https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [My Feeling](https://open.spotify.com/album/0wZmxx9tdFJGYkkTjZ5ew5) | 3:48 |
 | 15 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 |
 | 16 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 |
-| 17 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
-| 18 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
+| 17 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
+| 18 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 19 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
 | 20 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
 | 21 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 | 60 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Boss Drum](https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W) | 6:15 |
 
-Snapshot ID: `MCw0MDllZDdhYjgwNzNiM2M2MjAxNjY5YmQwMGE1ZGIzZWZiNjkyYTQ0`
+Snapshot ID: `MCw4MGU2ZGJjMTQ4YjUxMmY1ODdmZGQyNGJhYTgwZmU3YjAwMjdkYjMz`

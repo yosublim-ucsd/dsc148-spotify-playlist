@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 395110,
+  "num_followers": 395195,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWJhM2U5YjMzMGJmNDhlZDFhYWM5OThlNzBkNmQzYTYzNjczN2Vh",
+  "snapshot_id": "MCxkZmQwMWQyZTMwNjExODRjMTEyM2U0ZGFlNmIzMWE3ZDEzMDBiMmNm",
   "tracks": [
     {
       "added_at": "2024-02-09 11:27:30",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
+        "name": "Die Nacht von Freitag auf Montag",
+        "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "duration_ms": 178578,
+      "name": "Die Nacht von Freitag auf Montag",
+      "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
-        "name": "Die Nacht von Freitag auf Montag",
-        "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 178578,
-      "name": "Die Nacht von Freitag auf Montag",
-      "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -355,30 +355,6 @@
       "duration_ms": 265494,
       "name": "Bleib in der Schule",
       "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
-        "name": "Fliesentisch Romantik 2",
-        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Easy Peasy",
-      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -419,6 +395,30 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
+        "name": "Fliesentisch Romantik 2",
+        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Easy Peasy",
+      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
         "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
         "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
         "name": "Inselfieber",
         "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 153956,
       "name": "Inselfieber",
       "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
         "name": "Nummer Eins",
         "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 208877,
       "name": "Ich schwanke noch",
       "url": "https://open.spotify.com/track/6l38mlHmXSlVmDFO6YZgQH"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
         "name": "Partyanimal",
         "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 139159,
       "name": "Partyanimal",
       "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
+        "name": "Lass uns nicht geh'n (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
+      },
+      "artists": [
+        {
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Lass uns nicht geh'n - Stereoact Remix",
+      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -959,22 +979,18 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Lass uns nicht geh'n (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
+        "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
+        "url": "https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr"
       },
       "artists": [
         {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 164840,
-      "name": "Lass uns nicht geh'n - Stereoact Remix",
-      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
+      "duration_ms": 168696,
+      "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
+      "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
-        "url": "https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 168696,
-      "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
-      "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
         "name": "Scheiss auf Schickimicki (Video Edit)",
         "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 198750,
       "name": "Scheiss auf Schickimicki - Video Edit",
       "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
-      },
-      "artists": [
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
         }
       ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -1107,22 +1091,6 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -1139,6 +1107,38 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2024-02-09 11:27:30",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
-      },
-      "artists": [
-        {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2024-02-09 11:27:30",
-      "album": {
         "name": "Kabinenparty (feat. MAKZ 38) [Kreisliga Mix]",
         "url": "https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x"
       },
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
+    },
+    {
+      "added_at": "2024-02-09 11:27:30",
+      "album": {
         "name": "Holterdiepolter",
         "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
       },
@@ -1479,18 +1479,22 @@
     {
       "added_at": "2024-02-09 11:27:30",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+        "name": "Anna-Lena",
+        "url": "https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Deejay Matze",
+          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+      "duration_ms": 180741,
+      "name": "Anna-Lena",
+      "url": "https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2023",

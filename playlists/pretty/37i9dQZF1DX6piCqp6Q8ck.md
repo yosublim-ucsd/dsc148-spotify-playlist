@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,241 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,221 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 17 | [Christmas In New Orleans](https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:55 |
 | 18 | [The Happiest Christmas Tree](https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:43 |
 | 19 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:25 |
-| 20 | [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 |
-| 21 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 4:18 |
+| 20 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 4:18 |
+| 21 | [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 |
 | 22 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 23 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 24 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 70 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 
-Snapshot ID: `MCxlYzk2YTc5OTQ0NjMwODdjMThjNzZjOWNmZDcyOWQ4YzIyNDhjOTU3`
+Snapshot ID: `MCxmODU1MDIwZGRhMmNiYzlmNGEyMGQ2MDBmMGMxZjhiZTg1NGU4MTc3`

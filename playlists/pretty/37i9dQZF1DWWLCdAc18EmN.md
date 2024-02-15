@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLCdAc18EmN.md) - [plain]
 
 > Be careful what you wish for...Listen to the music from the Wish, available now on digital.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,481 likes - 55 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,553 likes - 55 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLCdAc18EmN.md) - [plain]
 | 54 | [Magnifico's Rise](https://open.spotify.com/track/1Ieh8gWpb6JcZTVuxYZmHR) | [Dave Metzger](https://open.spotify.com/artist/4xYAJbccuTDFnsuA4FzCSr) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 3:27 |
 | 55 | [Rosas Finale](https://open.spotify.com/track/5hu8xurmav1O85wAYo66fM) | [Dave Metzger](https://open.spotify.com/artist/4xYAJbccuTDFnsuA4FzCSr) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 2:29 |
 
-Snapshot ID: `MCxkMjRlYWE4M2UzOTFkNWZkMjA3YjE0MmY5NjAzYWI5MThmN2Q0NTk2`
+Snapshot ID: `MCw0MDI3MTc4MjY0NzEwMWQ2Y2E3NDNmYmZjMjkwNTQ4OGRkYzk2ZDJl`

@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 273713,
+  "num_followers": 273746,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjNkMTJiYTJkZGVlOTY5MzAzMjc0Njc5Yjc0MTRhODNlZWRkY2Vh",
+  "snapshot_id": "MCw4ZGQwMzE0NjQ1ZDEyZTNlODFiMDlhZGM1NGNiZWE2YTRlY2ZkY2M0",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -355,8 +355,8 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -491,8 +491,8 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 266000,
       "name": "If You Had My Love",
       "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 246533,
       "name": "Si T\u00fa Supieras",
       "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "La Tierra del Olvido",
-        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "La Tierra del Olvido",
-      "url": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 251440,
       "name": "No Llores por Mi",
       "url": "https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "La Tierra del Olvido",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "La Tierra del Olvido",
+      "url": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 277426,
       "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
       "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i"
     },
     {
       "added_at": "2023-02-17 21:06:33",

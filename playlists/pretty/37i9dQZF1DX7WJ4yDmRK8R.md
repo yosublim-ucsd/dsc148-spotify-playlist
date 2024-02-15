@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,816 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,895 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 80 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
 | 81 | [Round We Go](https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd presents C'est La Vie](https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN) | 4:18 |
 | 82 | [On and On](https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [In Black And White](https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn) | 2:17 |
-| 83 | [El Coo Cooi](https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 2:37 |
-| 84 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
+| 83 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
+| 84 | [El Coo Cooi](https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 2:37 |
 | 85 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 |
 | 86 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
 | 87 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [I Can't Wait](https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:22 |
 | 100 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
 
-Snapshot ID: `MCxhMWExYjU0YzhlYmJmMmY0ZTFiZTY2MDM4ZTcxODFlMDBjOGQ1Y2I3`
+Snapshot ID: `MCwwOWU0Y2QxOGMzODMxN2MxMTk1N2MwMzBmZTU2ZDRjMDE4ZDkyYzcx`

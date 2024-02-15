@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 268886,
+  "num_followers": 268906,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzNmNDk2MWMxNjgwMjMwMjY1NjVlZTU4N2M0ZWJiN2VjNGQwYjhi",
+  "snapshot_id": "MCw1NjRjNDQwZTBkMWM5NWI1Nzk2N2UzZmUxZjNkNGQwNzg5ZDIxM2Q0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:33:45",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "23",
+      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "23",
-      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Si T\u00fa La Quieres",
-        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
         "name": "Ojos Noche (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
+        "name": "Si T\u00fa La Quieres",
+        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 254773,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "El d\u00eda menos pensado",
-        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
+        "name": "Llamada Perdida",
+        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 224675,
-      "name": "El d\u00eda menos pensado",
-      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
+      "duration_ms": 166333,
+      "name": "Llamada Perdida",
+      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Llamada Perdida",
-        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
+        "name": "El d\u00eda menos pensado",
+        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Llamada Perdida",
-      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+      "duration_ms": 224675,
+      "name": "El d\u00eda menos pensado",
+      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
     },
     {
       "added_at": "2024-02-01 19:33:45",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-02-01 19:33:45",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 188126,
-      "name": "Regresa",
-      "url": "https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW"
-    },
-    {
-      "added_at": "2024-02-01 19:33:45",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2024-02-01 19:33:45",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 188126,
+      "name": "Regresa",
+      "url": "https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW"
     },
     {
       "added_at": "2024-02-01 19:33:45",

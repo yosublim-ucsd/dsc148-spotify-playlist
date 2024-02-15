@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 4137,
+  "2024-02-15": 4139,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - UAE.",
   "name": "Top 50 - UAE",
@@ -2607,7 +2607,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 173142,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/5KjA5zka5EirRz2BGqShCc"
@@ -4248,6 +4248,32 @@
     },
     {
       "album": {
+        "name": "TECHNOTIK",
+        "url": "https://open.spotify.com/album/3eSWQbXmJyfI9evR5SyCVw"
+      },
+      "artists": [
+        {
+          "name": "Becca Brazil",
+          "url": "https://open.spotify.com/artist/0LYUoy1JvwjNIXk2fSS1N8"
+        },
+        {
+          "name": "Turnmeuptone",
+          "url": "https://open.spotify.com/artist/7fIhuqLHSUN69vKxnmR2yR"
+        },
+        {
+          "name": "Brandon Gomes",
+          "url": "https://open.spotify.com/artist/65yYDBSj69NyjJdpjU0jX3"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Chasing Status",
+      "url": "https://open.spotify.com/track/5UNh22GgJZjTV5M6UkOh3K"
+    },
+    {
+      "album": {
         "name": "The Diamond Collection",
         "url": "https://open.spotify.com/album/1DsM0AOBGPPIDp0gWN8Zb4"
       },
@@ -5681,7 +5707,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -8467,7 +8493,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 199440,
       "name": "GOOD (DON'T DIE)",
       "url": "https://open.spotify.com/track/6soQZdONN0ZsQ9hZ6Pkef4"
@@ -9539,7 +9565,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 222982,
       "name": "HOODRAT",
       "url": "https://open.spotify.com/track/71MzcOebEC5KoWBbzvFPkj"
@@ -9597,7 +9623,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -16363,7 +16389,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -17945,7 +17971,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 194713,
       "name": "PROBLEMATIC",
       "url": "https://open.spotify.com/track/1ty0at2tUKqMGTyYbJ43eL"
@@ -19101,7 +19127,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 271169,
       "name": "Satranga (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
@@ -22969,7 +22995,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -23207,7 +23233,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
@@ -24651,7 +24677,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

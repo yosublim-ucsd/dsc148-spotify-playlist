@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,220 likes - 90 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,445 likes - 90 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 25 | [Radio](https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:37 |
 | 26 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
 | 27 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
-| 28 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 29 | [Killing Me Slowly](https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 3:57 |
+| 28 | [Killing Me Slowly](https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 3:57 |
+| 29 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 30 | [Metalingus](https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:19 |
 | 31 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
 | 32 | [Suite\-Pee](https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:31 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 86 | [Anti\-Everything](https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:14 |
 | 87 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
 | 88 | [Th1rt3en or Nothing](https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Four by Four](https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK) | 3:45 |
-| 89 | [Fleur de lis](https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [Conspiracy](https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH) | 4:13 |
-| 90 | [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 |
+| 89 | [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 |
+| 90 | [Fleur de lis](https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [Conspiracy](https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH) | 4:13 |
 
-Snapshot ID: `MCw1MmUyNGNkMGU0OWVmMGUwM2ZkMTc3NDUyMDYzYmM2MDQwOWY0ZWYy`
+Snapshot ID: `MCw5ZDg1MzhiNmZlNTgzYzdlMjIyYTBhMGUxMmM2NjNlZWE4MWU1MzA2`

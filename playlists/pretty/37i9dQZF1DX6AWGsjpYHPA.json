@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 140039,
+  "num_followers": 140098,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTNkN2I3ZTIxOTg4OWIwNTNkMWNkMDM1YTliOWFlZTJjZDE1NWNh",
+  "snapshot_id": "MCxhODY4NzAzNDMzMTc3MGRkYThiM2FiODU1MjEzMGE3ZDQ1ZGE5ODRm",
   "tracks": [
     {
       "added_at": "2024-01-03 14:56:32",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
         "name": "Your Queen Is A Reptile",
         "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 397477,
       "name": "Jazz, Vol. 1",
       "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
+        "name": "Studio One Presents Jennifer Lara",
+        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lara",
+          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
+        }
+      ],
+      "duration_ms": 318493,
+      "name": "I Am in Love",
+      "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 449773,
       "name": "Maiysha (So Long) (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
-        "name": "Studio One Presents Jennifer Lara",
-        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lara",
-          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
-        }
-      ],
-      "duration_ms": 318493,
-      "name": "I Am in Love",
-      "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 217346,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
     },
     {
       "added_at": "2024-01-03 14:56:32",

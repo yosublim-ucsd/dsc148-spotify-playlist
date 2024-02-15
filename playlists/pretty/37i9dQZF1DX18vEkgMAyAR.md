@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,931 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,960 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 | 60 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 |
 
-Snapshot ID: `MCw0Y2Y3M2JlNDk2ZjVmNGU5MWE1NGJjNDEzOTZjMjBkNTBjMjYyMjJj`
+Snapshot ID: `MCwzNjA5ZmZjNjVmZDAwYjcwNmIyZGMxNWNhOWZlYWM2MmVlNjYyNTQ4`

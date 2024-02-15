@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 839693,
+  "2024-02-15": 839780,
   "date_first_scraped": "2023-07-28",
   "description": "Le meilleur de la musique d'hier et d'aujourd'hui pour une journ\u00e9e parfaite.",
   "name": "La vie est belle",
@@ -2615,10 +2615,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-599 songs - 1 day 9 hr 36 min
+600 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 | 2022-10-11 | 2023-05-28 |
 | [My Generation](https://open.spotify.com/track/6hNjbG7duJDrYxyKfvWArE) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [My Generation](https://open.spotify.com/album/2qBMe3EKMi3tZbykJJwrW7) | 4:19 | 2022-03-25 | 2022-07-19 |
 | [My Home](https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R) | 3:26 | 2023-10-24 | 2024-02-14 |
+| [My Home](https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND) | 3:26 | 2024-02-09 |  |
 | [My Oh My](https://open.spotify.com/track/2okt1sEb4uh6OkLJ4cgMWx) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [My Oh My](https://open.spotify.com/album/2Ch5romj95XcP2lXYRXfYS) | 2:39 | 2021-12-16 | 2022-03-09 |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-08-02 | 2023-05-17 |
 | [Nashville](https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 5:16 | 2022-03-29 | 2022-04-16 |
@@ -577,7 +578,7 @@
 | [What Happened To Us](https://open.spotify.com/track/0JRI1BFQeXr9Psp5giqOcA) | [Leah Moran](https://open.spotify.com/artist/5fSNN8Okh5RzKnYyBFBsFe) | [What Happened To Us](https://open.spotify.com/album/2DncM1htN6lXqxhQXT0K7k) | 4:18 | 2022-03-25 | 2022-04-20 |
 | [What Next](https://open.spotify.com/track/65VklTwNc5HoOH46Y8dN5g) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [What Next](https://open.spotify.com/album/2XoMPeRE5MuVrVrp5tptqu) | 3:31 | 2021-12-16 | 2022-04-27 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-18 |  |
-| [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-22 |  |
+| [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-22 | 2024-02-15 |
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-14 | 2023-03-14 |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-01-25 | 2022-05-12 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-05-31 | 2023-08-02 |

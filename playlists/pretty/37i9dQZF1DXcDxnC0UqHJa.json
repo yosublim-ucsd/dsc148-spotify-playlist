@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 465251,
+  "num_followers": 465278,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTgwY2QzZWUzZjkwOGVhMWUwMjBiOTFiNjVjNmVkMThmYjhhMDIz",
+  "snapshot_id": "MCw0MzgxZGI3YjNmNTFjZmVjMjllZWM5NTgxZmEyODMzNzRhNDZkZWQ3",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+        "name": "Hey Me, Hey Mama",
+        "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+      "duration_ms": 210604,
+      "name": "Hey Me, Hey Mama",
+      "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 251057,
       "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Hey Me, Hey Mama",
-        "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 210604,
-      "name": "Hey Me, Hey Mama",
-      "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 152885,
       "name": "I Think We\u2019re Alone Now",
       "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 208532,
-      "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "You Don't Know How It Feels",
         "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
       },
@@ -1659,6 +1639,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 208532,
+      "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
@@ -1671,38 +1671,6 @@
       "duration_ms": 145280,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 191757,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1723,18 +1691,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Unknown Legend",
-        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 248360,
-      "name": "Unknown Legend",
-      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+      "duration_ms": 191757,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1755,6 +1723,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Unknown Legend",
+        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Unknown Legend",
+      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Tea, Milk & Honey",
         "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Pieces of the Sky (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
       },
@@ -1867,18 +1847,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Music Is You: A Tribute to John Denver",
-        "url": "https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2"
+        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
       },
       "artists": [
         {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Alynda Segarra",
+          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
         }
       ],
-      "duration_ms": 236546,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
+      "duration_ms": 239299,
+      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1895,6 +1879,22 @@
       "duration_ms": 185013,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/4uCXm0ydtmLqyBwVdpHLtW"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Music Is You: A Tribute to John Denver",
+        "url": "https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
     },
     {
       "added_at": "2024-02-02 05:00:00",

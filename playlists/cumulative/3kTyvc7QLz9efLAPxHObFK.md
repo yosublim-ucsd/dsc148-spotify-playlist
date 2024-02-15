@@ -4,7 +4,7 @@
 
 > 
 
-1,140 songs - 2 day 15 hr 55 min
+1,141 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,6 +922,7 @@
 | [Still Standing](https://open.spotify.com/track/53FPadcS11cmTKUioqiCqx) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Still Standing](https://open.spotify.com/album/5vdIQ8joVaPCiWB26QqihZ) | 3:14 | 2023-06-17 |  |
 | [STITCH ME UP](https://open.spotify.com/track/6x37HbiBJpoB74rMe3Un0Q) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [STITCH ME UP](https://open.spotify.com/album/1mMJKx5OAln3EflCiVPMqk) | 2:49 | 2023-07-21 |  |
 | [Storm](https://open.spotify.com/track/2sSB4AIjGTU5spfLY3N0MA) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Storm](https://open.spotify.com/album/0sH3RB7zYq4GaylU1aFJA5) | 3:03 | 2023-10-20 |  |
+| [STRAIGHT TO YOUR FACE](https://open.spotify.com/track/5AlV3eQBdoXAg1dVzdUu15) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2), [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [STRAIGHT TO YOUR FACE](https://open.spotify.com/album/7jBJVHPvgGmfxQs3BG5W0v) | 2:37 | 2024-02-14 |  |
 | [Stuck \(Inside This Place\)](https://open.spotify.com/track/06gq1dRdcHHA7P6M3oa1dK) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [Stuck \(Inside This Place\)](https://open.spotify.com/album/5a93fhzm9DDewyNYDpeqRp) | 2:35 | 2023-03-25 |  |
 | [Stuck In My Head!](https://open.spotify.com/track/5I0VErywtUY6kiP0ukQ14T) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Stuck In My Head!](https://open.spotify.com/album/6KjGY1q7rlXl70Zaftl49E) | 3:17 | 2023-04-16 |  |
 | [Sugar Daddy](https://open.spotify.com/track/562wxG0VqBaQdjwTNi24Lu) | [Mr\. Bassmeister](https://open.spotify.com/artist/5aT7fqsgVA5IKJHtkfpPDw) | [Sugar Daddy](https://open.spotify.com/album/233cyjdSMcF37MNJ038Sv5) | 4:28 | 2022-11-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,604 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,624 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 59 | [OGNI VOLTA CHE](https://open.spotify.com/track/07hBXO23Q8jkOQkzvZjPPi) | [Figlio d'Arte](https://open.spotify.com/artist/4g50InsFufwu6IejKiNmIj) | [OGNI VOLTA CHE](https://open.spotify.com/album/09ssavVZzTYSM1MQXtZHBq) | 2:28 |
 | 60 | [HOLLIWOOD 3000](https://open.spotify.com/track/1uHvkOZBk3k5hd4huHocOo) | [didettagli](https://open.spotify.com/artist/7tQVVoWSMYuWR5jBqRmsBL) | [HOLLIWOOD 3000](https://open.spotify.com/album/0aWjphDAxNE6loH1szXBO3) | 2:31 |
 
-Snapshot ID: `MCw4MGFiZTlmOWEyZDRmZGViYjQ4NWIwMmNmM2ZkYjEyZWQzMzI5MzQ5`
+Snapshot ID: `MCw1MDg5YmU1M2Y4ZDZmMTY3ZWJjZDI4ZWZlZDc0ZTk0NTVlNjA5ZjA5`

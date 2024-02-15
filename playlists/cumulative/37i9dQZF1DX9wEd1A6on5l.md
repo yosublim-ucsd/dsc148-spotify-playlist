@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-360 songs - 17 hr 30 min
+361 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2022-06-09 | 2023-02-07 |
 | [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 | 2022-08-08 | 2023-03-13 |
 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-25 | 2023-03-18 |
+| [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 | 2024-02-09 |  |
 | [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2023-06-30 | 2023-09-29 |
 | [Marry](https://open.spotify.com/track/1RdJBwpiYkf3mB8Tlak7ck) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Marry](https://open.spotify.com/album/6FOPrXcN2OdzaTJeV4mwL4) | 3:19 | 2023-12-22 |  |
 | [Metro](https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Yo X](https://open.spotify.com/artist/5Dv0JAo4jUBcrG1rHzCzcV) | [Metro](https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq) | 2:10 | 2024-01-05 |  |
@@ -325,7 +326,7 @@
 | [Summer Love](https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Summer Love](https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8) | 2:59 | 2022-06-09 | 2022-12-09 |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-06-09 | 2023-01-21 |
 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 | 2024-01-15 |  |
-| [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-09 |  |
+| [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-09 | 2024-02-15 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-01-12 | 2023-04-15 |
 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 | 2023-09-28 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-21 | 2023-10-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,607 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,609 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 35 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
 | 36 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 |
 | 37 | [Come On Eileen \- Single Edit](https://open.spotify.com/track/58VaIfHQzC0jflv7zEWyoZ) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk), [Kevin Rowland](https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m) | [Too\-Rye\-Ay \(As It Should Have Sounded 2022\)](https://open.spotify.com/album/6JvOKlgjSQmr5BJnXSpI6h) | 3:25 |
-| 38 | [Slå mig hårt i ansiktet](https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Fulkultur](https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X) | 3:31 |
-| 39 | [Heartbeats](https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m) | 3:51 |
+| 38 | [Heartbeats](https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m) | 3:51 |
+| 39 | [Slå mig hårt i ansiktet](https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Fulkultur](https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X) | 3:31 |
 | 40 | [Dom andra](https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:46 |
 | 41 | [Vart jag mig i världen vänder](https://open.spotify.com/track/7nLMZKhfkFZLr9rz4VyOpF) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Ett fel närmare rätt](https://open.spotify.com/album/5GkyGLEWLO3RNzZAmOZgLt) | 3:32 |
 | 42 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Time for Heroes](https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket](https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX) | 2:40 |
 | 45 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 |
 
-Snapshot ID: `MCwxYWM0YjBmZGJkOGIwNjI3ZjEzMjdlMDBmNmM0NWYxMTZiZDhlNTkx`
+Snapshot ID: `MCxhZGM3ZWJmNmFmNzIyYzYzZWI0OTkzMTcyYmY0MDk4ZDJhOWUyNjli`

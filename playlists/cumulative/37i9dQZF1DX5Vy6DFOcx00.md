@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,298 songs - 2 day 21 hr 50 min
+1,299 songs - 2 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,8 @@
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-03-29 | 2023-04-13 |
 | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P) | 2:18 | 2023-05-18 | 2023-09-22 |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-02-08 | 2022-03-14 |
-| [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 | 2024-01-25 |  |
+| [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 | 2024-01-25 |  |
+| [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 | 2024-01-25 | 2024-02-15 |
 | [Lost](https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:54 | 2022-01-06 | 2022-05-25 |
 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2021-10-19 | 2022-10-26 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-07-07 | 2022-07-18 |

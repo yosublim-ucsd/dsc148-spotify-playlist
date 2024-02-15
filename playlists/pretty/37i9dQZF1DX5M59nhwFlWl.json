@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 149138,
+  "num_followers": 149195,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmUyYWFlMWUzM2ExZDk0MGU4ZDk4MTlmYzljOWRmMWY5NjRjYjRh",
+  "snapshot_id": "MCxkNDRkZjMzMjllMzgxNTQyY2Q5ZjQ3MTlmNmJlZTJiMjQ4MGZjZTc5",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Electriclarryland",
-        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
-      },
-      "artists": [
-        {
-          "name": "Butthole Surfers",
-          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 239546,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/0sqE6XPi9VAaWl5NxDyMQK"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Electriclarryland",
+        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "duration_ms": 297266,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
     },
     {
       "added_at": "2022-06-29 18:33:46",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Above (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
-      },
-      "artists": [
-        {
-          "name": "Mad Season",
-          "url": "https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "I Don't Know Anything",
-      "url": "https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 309106,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Above (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+      },
+      "artists": [
+        {
+          "name": "Mad Season",
+          "url": "https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "I Don't Know Anything",
+      "url": "https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ"
     },
     {
       "added_at": "2022-06-29 18:33:46",

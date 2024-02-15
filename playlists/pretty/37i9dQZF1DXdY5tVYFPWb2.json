@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 157336,
+  "num_followers": 157358,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTQ3ZmM1MDVmYmFjNzI3NzEzNzkxZjJiNWJmZjczOWJjMzQwYjc4",
+  "snapshot_id": "MCxjNTEyMmEyMWQyZTZlMTlkNjQzM2UzNWY2N2RmYzlhYjQwNTFiYTMx",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
       },
@@ -1311,50 +1295,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u7121\u9650\u3055",
-        "url": "https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ"
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 241920,
-      "name": "\u7121\u9650\u3055",
-      "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "Kiss Me, Winter",
-        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 221737,
-      "name": "Kiss Me, Winter",
-      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+      "duration_ms": 239746,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1375,6 +1327,54 @@
       "duration_ms": 249285,
       "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
       "url": "https://open.spotify.com/track/06PEfLlv6z45MkCKemgyXM"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "\u7121\u9650\u3055",
+        "url": "https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "\u7121\u9650\u3055",
+      "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Kiss Me, Winter",
+        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 221737,
+      "name": "Kiss Me, Winter",
+      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -1431,18 +1447,34 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+      "duration_ms": 223083,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 229088,
+      "name": "nestling",
+      "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1467,22 +1499,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 229088,
-      "name": "nestling",
-      "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 223083,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 201642,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 249254,
-      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1619,6 +1619,22 @@
       "duration_ms": 224600,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Groovy night",
+        "url": "https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e"
+      },
+      "artists": [
+        {
+          "name": "POP ART TOWN",
+          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
+        }
+      ],
+      "duration_ms": 268821,
+      "name": "Groovy night",
+      "url": "https://open.spotify.com/track/6xj8bD4v3Z4U3SKbCs9Ekx"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "Groovy night",
-        "url": "https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e"
-      },
-      "artists": [
-        {
-          "name": "POP ART TOWN",
-          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
-        }
-      ],
-      "duration_ms": 268821,
-      "name": "Groovy night",
-      "url": "https://open.spotify.com/track/6xj8bD4v3Z4U3SKbCs9Ekx"
     },
     {
       "added_at": "2024-02-13 15:00:00",

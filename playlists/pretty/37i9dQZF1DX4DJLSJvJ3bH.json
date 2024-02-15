@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 119616,
+  "num_followers": 119602,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjgyMjA0MjM3NzMxYmRjZWMzZWM2NDc3MTUyMmZlMjYwZDA0ZGZj",
+  "snapshot_id": "MCw5OTU2NWJkZDdlN2Q0NmEwMjZmNjg5Zjc5MzMxYjliODczY2UwZWIw",
   "tracks": [
     {
       "added_at": "2023-12-19 09:25:36",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Once in Royal David's City",
-        "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
-      },
-      "artists": [
-        {
-          "name": "Red Brick Lane",
-          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
-        }
-      ],
-      "duration_ms": 165225,
-      "name": "Once in Royal David's City",
-      "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 329000,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Once in Royal David's City",
+        "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
+      },
+      "artists": [
+        {
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+        }
+      ],
+      "duration_ms": 165225,
+      "name": "Once in Royal David's City",
+      "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "The Time of the Year",
+        "url": "https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8"
+      },
+      "artists": [
+        {
+          "name": "Niklas Gabrielsson with Martin Landstr\u00f6m & His Orchestra",
+          "url": "https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "The Time of the Year",
+      "url": "https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "We Wish You A Merry Christmas",
         "url": "https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 161129,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
-        "name": "The Time of the Year",
-        "url": "https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8"
-      },
-      "artists": [
-        {
-          "name": "Niklas Gabrielsson with Martin Landstr\u00f6m & His Orchestra",
-          "url": "https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "The Time of the Year",
-      "url": "https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > Afrobeats' favourite couple Adekunle Gold & Simi give us a glimpse into their love story with their favourite afrobeats love songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,527 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,777 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 49 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
 | 50 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 |
 
-Snapshot ID: `MCwyMjBiZGFlZjA1Y2E4YzkzZjY5ZDM4YjFmNWFiYTU0NGU2MTVmYWYy`
+Snapshot ID: `MCw4YjVmY2NjNzRhZmIwYzMxZDUxMWVhMmE2Y2Q2MjRjMTgyZGRjYmU0`

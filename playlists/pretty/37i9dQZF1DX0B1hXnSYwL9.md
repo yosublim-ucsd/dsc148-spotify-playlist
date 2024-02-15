@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0B1hXnSYwL9.md) - [plain]
 
 > Canciones para sacarle brillo a la pista de baile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,923 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,928 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0B1hXnSYwL9.md) - [plain]
 | 25 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
 | 26 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
 | 27 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
-| 28 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
+| 28 | [Lluvia](https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:57 |
 | 29 | [La Boda](https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:49 |
-| 30 | [Lluvia](https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:57 |
+| 30 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
 | 31 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 |
 | 32 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
 | 33 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0B1hXnSYwL9.md) - [plain]
 | 99 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |
 | 100 | [Romeo y Julieta](https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ) | [Jorge Dominguez y su Grupo Super Class](https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh) | [Dueño de tu amor](https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN) | 4:13 |
 
-Snapshot ID: `MCxlNmI1MjA0ODQ5ZjA3Njk0NDI3MDllZWJiNTE1MTRjZjRlZjVkZWJj`
+Snapshot ID: `MCw5ZWI3MDg4MTIwNDM4ZWVlOGQ5NWVlYmY0NTg4YjA2NWQyM2RmNjMz`

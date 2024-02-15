@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: BOABOA
+> The best new music by independent artists in the Nordics\. Cover: Amanda Cy
 
 100 songs - 5 hr 7 min
 

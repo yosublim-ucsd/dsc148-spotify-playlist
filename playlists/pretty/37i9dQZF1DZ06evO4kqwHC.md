@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 
 > This is Foo Fighters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,968 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,074 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 30 | [Run](https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 5:23 |
 | 31 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 |
 | 32 | [Stranger Things Have Happened](https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 5:21 |
-| 33 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
-| 34 | [Bridge Burning](https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:46 |
+| 33 | [Bridge Burning](https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:46 |
+| 34 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 35 | [Hey, Johnny Park!](https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:08 |
 | 36 | [Let It Die](https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:04 |
 | 37 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 49 | [Good Grief](https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:01 |
 | 50 | [Making A Fire](https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:15 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA0YzUxZDY0YTI1NWJlNTFhNjg5YTM0NWFjNGNjYmQ4Yg==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA4Y2Y3MDFlYjE2N2FhYTNmMTU2NzAxZDg1MDc4YzBmNA==`

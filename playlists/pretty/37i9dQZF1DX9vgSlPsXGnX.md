@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,762 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,801 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 46 | [Delirio](https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [Johnny Rodriguez Y Su Trio](https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 3:10 |
 | 47 | [Albricias](https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 2:20 |
 | 48 | [Como un Lunar](https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 3:09 |
-| 49 | [En la Palma de la Mano](https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:58 |
-| 50 | [Amor de Mis Amores](https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Cada Noche Un Amor](https://open.spotify.com/album/3mqlr428rzRpER555YbBJN) | 3:04 |
+| 49 | [Amor de Mis Amores](https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Cada Noche Un Amor](https://open.spotify.com/album/3mqlr428rzRpER555YbBJN) | 3:04 |
+| 50 | [En la Palma de la Mano](https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:58 |
 | 51 | [Cuando Estemos Viejo](https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Esta Noche...Billo](https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA) | 2:27 |
 | 52 | [Sombras Nada Más](https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:39 |
 | 53 | [Veronica](https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:51 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 59 | [Nuestro Juramento](https://open.spotify.com/track/0cGYk1dJWiA0fUSgQuAGpY) | [Los Jefes](https://open.spotify.com/artist/2yCqVZMT1Q1rCz86KiKQUp) | [Los Jefes Interpretan al Inmortal Julio Jaramillo](https://open.spotify.com/album/3SjcynTYHXUywEqdpv2KFA) | 3:26 |
 | 60 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 |
 | 61 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
-| 62 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
+| 62 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
 | 63 | [La Número Cien](https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:50 |
-| 64 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
+| 64 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
 | 65 | [Mi Manera De Amar](https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 4:11 |
 | 66 | [Somos Novios](https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Serie 20 Exitos](https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO) | 2:35 |
 | 67 | [Odiame](https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:17 |
 | 68 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
 | 69 | [Besos De Fuego](https://open.spotify.com/track/0gcHTyuJ19PvuDAcaw0uEX) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 2:21 |
 | 70 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
-| 71 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
-| 72 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 |
+| 71 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 |
+| 72 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 | 73 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
 | 74 | [Siempre en Mi Corazón \(2019 \- Remaster\)](https://open.spotify.com/track/1kFRo0Pi2hPaxCxBme55Sl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\) \(2019 Remaster\)](https://open.spotify.com/album/2u9pOUyXvLInVwya0I4hcJ) | 3:39 |
 | 75 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 
-Snapshot ID: `MCwwYzk1NjBhMmFkMmVjYTJjZTEzMDU4OGFkODljODNjYjY5ZDNlYjk4`
+Snapshot ID: `MCwyOWI3ZDY3NTAzYjQ5ZDhiZGY2N2QzMmQxZTQ2ZmJkMjMyZDg3Yjcx`

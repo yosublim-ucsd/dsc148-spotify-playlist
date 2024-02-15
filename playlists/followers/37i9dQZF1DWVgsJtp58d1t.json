@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 1006469,
+  "2024-02-15": 1006835,
   "date_first_scraped": "2022-02-25",
   "description": "New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month. Cover: <a href=\"spotify:artist:1YRqgFNXqRyMDRr8ClS1NL\">Kaliii</a> ",
   "name": "This Is Frequency",
@@ -265,6 +265,24 @@
       "duration_ms": 109714,
       "name": "150",
       "url": "https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh"
+    },
+    {
+      "album": {
+        "name": "16 CARRIAGES",
+        "url": "https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233521,
+      "name": "16 CARRIAGES",
+      "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
     },
     {
       "album": {
@@ -21431,7 +21449,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 237611,
       "name": "Heavenly Father (Live) - Spotify Ten Version",
       "url": "https://open.spotify.com/track/4jS3qNCepG51ykCim7tiHY"
@@ -23245,7 +23263,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 107533,
       "name": "I Ain't Feelin It",
       "url": "https://open.spotify.com/track/0e0tBV3cm7RiTPzMCEegT1"
@@ -43541,7 +43559,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 124307,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/5FwhprNsUarRkLXqBE8tK8"
@@ -48465,6 +48483,24 @@
       "duration_ms": 146133,
       "name": "Texas",
       "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
+    },
+    {
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "album": {

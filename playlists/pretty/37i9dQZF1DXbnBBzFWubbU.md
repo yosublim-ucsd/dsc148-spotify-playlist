@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,415 likes - 91 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,440 likes - 91 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 90 | [Mere Rashke Qamar \- Slap House](https://open.spotify.com/track/0VQ54Fx4iEaw39YfKFmKvl) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [DJ Rik](https://open.spotify.com/artist/184efJpcsSYBb0vx58nZhh) | [Mere Rashke Qamar \- Slap House](https://open.spotify.com/album/55U3LDRMJWOwGeBdJkJ1Jg) | 2:57 |
 | 91 | [ASA](https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [ASA](https://open.spotify.com/album/2luwSaYCJk1SRCYkhkZs88) | 3:48 |
 
-Snapshot ID: `MCw1NDk5YjUwNDhmNDcyZmNjMzRjMzA4YzY3ZTUyOGY5MDdjZTE1OTNh`
+Snapshot ID: `MCxiMmZmNjQxYTBkODY4N2I3ZTlkNTE3YmZiNWUzYWVhYWM4YTVlNmUw`

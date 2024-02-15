@@ -4,7 +4,7 @@
 
 > Apaga a luz e deixa rolar.
 
-65 songs - 3 hr 37 min
+66 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Love 66](https://open.spotify.com/track/6xqEi8MYklEc6N2sU61lqY) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Love 66](https://open.spotify.com/album/74xvo4Pvay6Adp8h1NHEPp) | 5:22 | 2023-06-16 |  |
 | [Luzes Apagadas](https://open.spotify.com/track/2mhI8Js7ZkMVwsQif3R5wZ) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Baficca](https://open.spotify.com/artist/589OLUilByLppoNWT0Xrvy) | [Luzes Apagadas](https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH) | 3:42 | 2023-06-16 |  |
 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 | 2023-06-16 |  |
-| [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 | 2023-06-16 |  |
+| [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 | 2023-06-16 | 2024-02-15 |
 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 | 2023-06-16 |  |
 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 | 2023-06-16 |  |
 | [Noite de Verão](https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Noite de Verão](https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd) | 4:13 | 2023-06-16 |  |
@@ -53,6 +53,7 @@
 | [Playlist Transante](https://open.spotify.com/track/2qCps28vIziXwOKmici1g7) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Playlist Transante](https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS) | 3:17 | 2023-06-16 |  |
 | [Pode Ficar](https://open.spotify.com/track/6SIo6ZNtDG2Rq3aXuKZRtf) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Pode Ficar](https://open.spotify.com/album/5FmcsJ7dZwLBbYPdYNhyMM) | 3:16 | 2023-06-16 |  |
 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 | 2023-06-16 |  |
+| [Quero Mais](https://open.spotify.com/track/7tDghG79gNiQzE1wgLI8Fp) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Scarlett Wolf](https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Quero Mais](https://open.spotify.com/album/46fGZIUMxdnL93QP6DJZCY) | 2:45 | 2023-11-24 |  |
 | [Saudade](https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Saudade](https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm) | 3:04 | 2023-06-16 |  |
 | [Saudade daquilo](https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 2:58 | 2023-06-16 |  |
 | [Ser](https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [S](https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8) | 3:31 | 2023-06-16 |  |

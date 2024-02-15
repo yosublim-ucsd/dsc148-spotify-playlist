@@ -4,7 +4,7 @@
 
 > Una selección de éxitos para ponerle ritmo a las tareas del hogar.
 
-443 songs - 1 day 1 hr 25 min
+444 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Cuando Me Enamoro](https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 3:20 | 2022-02-08 |  |
 | [Cuando nadie me ve](https://open.spotify.com/track/2263Za725p6KB7tvrCnid8) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Grandes exitos 1997\-2004](https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK) | 5:08 | 2022-02-08 | 2022-05-02 |
 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 | 2022-02-08 |  |
-| [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 | 2022-02-08 |  |
+| [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 | 2022-02-08 | 2024-02-15 |
 | [Cuando Te Veo](https://open.spotify.com/track/66ahetX2yLo15DDrOAwuie) | [Daniela Herrero](https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske) | [Cuando Te Veo](https://open.spotify.com/album/4H9lZRigGunQhbMCEZtwD1) | 2:36 | 2023-08-03 | 2023-08-24 |
 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 | 2022-03-11 | 2022-06-13 |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-04-01 | 2022-09-17 |
@@ -330,6 +330,7 @@
 | [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 | 2023-03-31 | 2023-08-25 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-24 | 2023-01-28 |
 | [Playa](https://open.spotify.com/track/3OYk6SZD86hLCR8tCebf89) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 2:27 | 2022-03-29 | 2022-04-20 |
+| [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-08 |  |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-02-03 |  |
 | [Por Primera Vez](https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/5DeSD9bKMtDQCN1ErYy7jj) | 3:03 | 2022-02-08 | 2022-07-29 |
 | [Por Pura Curiosidad](https://open.spotify.com/track/1mTcpdbAO60aQgOld1WzFh) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/3IoPgNvM9CTiFg8FvJ0CIn) | 3:25 | 2022-03-29 | 2022-04-20 |

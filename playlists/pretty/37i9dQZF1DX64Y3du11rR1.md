@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,095 likes - 106 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,112 likes - 106 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 44 | [To Build a Home](https://open.spotify.com/track/5JH1Rg7hoAdUIYNlx304hc) | [Circumnavigate](https://open.spotify.com/artist/5K2y9FGdE8Kfwwa5wXB3o7) | [To Build a Home](https://open.spotify.com/album/2XL7Qjr9XqC4ljSdFObUYT) | 5:55 |
 | 45 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 |
 | 46 | [Edge of Desire](https://open.spotify.com/track/5rUP1a9DK0qavCALVdg8lV) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/021ZE1jBAigr08tah7BN04) | 5:31 |
-| 47 | [Slow Dancing In A Burning Room](https://open.spotify.com/track/5gbcELGepcr1pifCJKqu4j) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Slow Dancing In A Burning Room](https://open.spotify.com/album/38hPy8jWiGNL218bxXYail) | 2:42 |
+| 47 | [Slow Dancing In A Burning Room](https://open.spotify.com/track/5Nx6lRKR2FiueWR1LQSo08) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Slow Dancing In A Burning Room](https://open.spotify.com/album/3DhhY6I5RWJ3GjW1Dh9AaS) | 2:42 |
 | 48 | [No One's Gonna Love You](https://open.spotify.com/track/0cQmxIOVXnwTDBeT6tCwpV) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [No One's Gonna Love You](https://open.spotify.com/album/20dnZ3BrNrsHnkTyHb6MW7) | 4:00 |
 | 49 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 |
 | 50 | [Whatcha Say \- Acoustic](https://open.spotify.com/track/4gq1H2QM58lNLMSeKBfRgW) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Whatcha Say \- Acoustic](https://open.spotify.com/album/3EQAXU3Bz94vwmTtB6VwSR) | 3:07 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 105 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 |
 | 106 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 |
 
-Snapshot ID: `MCxiYmM0NjMzY2E5ZDg0YzExODcwOTVjNWE2MzM4Zjc3ZmUxOGU3NjU0`
+Snapshot ID: `MCw5M2Y5MjZjNWMyYzgxZWRiN2M0YzQ2NzcyOTEyOWYxODYxMDZhN2Vl`

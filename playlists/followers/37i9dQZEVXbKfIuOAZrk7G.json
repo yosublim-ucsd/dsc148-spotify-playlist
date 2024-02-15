@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 55310,
+  "2024-02-15": 55311,
   "date_first_scraped": "2022-01-01",
   "description": "Your daily update of the most viral tracks right now - Canada.",
   "name": "Viral 50 - Canada",
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 210860,
       "name": "90s Rap Mashup",
       "url": "https://open.spotify.com/track/067ogyD1BIeZDh4UD0yV3Y"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 190392,
       "name": "Aa",
       "url": "https://open.spotify.com/track/476WPJ4GsgLDkJiAFbHJRo"
@@ -3373,7 +3373,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 175396,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
@@ -6433,7 +6433,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 151829,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/0BhdrTIB5flACZyaLjdzp4"
@@ -10575,7 +10575,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 211468,
       "name": "DOWN BY LAW",
       "url": "https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh"
@@ -11560,6 +11560,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "engravings",
         "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
       },
@@ -12223,6 +12241,28 @@
       "duration_ms": 174239,
       "name": "Fact (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD"
+    },
+    {
+      "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/2aWJw4wM4FuXfZPoOGcg3i"
+      },
+      "artists": [
+        {
+          "name": "Tom MacDonald",
+          "url": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
+        },
+        {
+          "name": "Ben Shapiro",
+          "url": "https://open.spotify.com/artist/3gkJWMJxN26opykgDVsYtY"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/2ue12T2b9JXlErJJ6NSs8W"
     },
     {
       "album": {
@@ -15372,6 +15412,24 @@
     },
     {
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
         "name": "Growing Old With You",
         "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
       },
@@ -16388,6 +16446,44 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Hell\u2019s Greatest Dad",
+      "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R"
       },
@@ -16541,6 +16637,24 @@
       "duration_ms": 124791,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W"
+    },
+    {
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "album": {
@@ -21958,6 +22072,24 @@
     },
     {
       "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
+    },
+    {
+      "album": {
         "name": "The Last Rocket",
         "url": "https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U"
       },
@@ -22759,7 +22891,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 149142,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG"
@@ -26016,6 +26148,36 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193235,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/1M74sedyFRUKNJQ3K8nb0f"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/1KJbPTveoIhLa6gKfEhDN4"
       },
@@ -26379,6 +26541,24 @@
       "duration_ms": 115200,
       "name": "Murder In My Mind - Sped Up",
       "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
+    },
+    {
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
       "album": {
@@ -27175,7 +27355,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -27617,7 +27797,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 158590,
       "name": "No More Excuses",
       "url": "https://open.spotify.com/track/6LhdsGjia8IwpmKl2wHnDn"
@@ -33804,6 +33984,24 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "album": {
         "name": "GTTM: Goin Thru the Motions",
         "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
       },
@@ -36348,6 +36546,24 @@
     },
     {
       "album": {
+        "name": "Spin You Around (1/24)",
+        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209427,
+      "name": "Spin You Around (1/24)",
+      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
+    },
+    {
+      "album": {
         "name": "Spinnin",
         "url": "https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4"
       },
@@ -37141,7 +37357,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -37159,7 +37375,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 337714,
       "name": "Subconscious",
       "url": "https://open.spotify.com/track/49tZayx9YX7rAFwOVdwQhw"
@@ -38021,7 +38237,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 210000,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/1OowIk5KiP8vTOR1vVzCLG"
@@ -38477,6 +38693,32 @@
       "duration_ms": 189136,
       "name": "Tere Vaaste",
       "url": "https://open.spotify.com/track/5GhNEr3AQtMhHGYLRgCSV5"
+    },
+    {
+      "album": {
+        "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153083,
+      "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE"
     },
     {
       "album": {
@@ -39867,6 +40109,24 @@
       "duration_ms": 103500,
       "name": "Think Of Me Once In A While, Take Care",
       "url": "https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX"
+    },
+    {
+      "album": {
+        "name": "Think U The Shit (Fart)",
+        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
     },
     {
       "album": {
@@ -45031,7 +45291,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
@@ -45617,6 +45877,48 @@
       "duration_ms": 172066,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel Original Soundtrack (Part 2)",
+        "url": "https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Shoba Narayan",
+          "url": "https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj"
+        },
+        {
+          "name": "Patina Miller",
+          "url": "https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188677,
+      "name": "You Didn\u2019t Know",
+      "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
     },
     {
       "album": {

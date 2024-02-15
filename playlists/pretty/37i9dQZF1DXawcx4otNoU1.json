@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 500159,
+  "num_followers": 500233,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTQwN2ZlODVmM2RiZDQ4ZTFjNWQyNTE3ZTVhMjM1MDU1OTkzZTFl",
+  "snapshot_id": "MCwyMDNlYTkxOGVkNmVlODJlNGYxMmQxM2NhOTQ1ZTFkNWI3ZTA1MzFi",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      "duration_ms": 223440,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -175,22 +179,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 223440,
-      "name": "My Boo",
-      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Trigga Reloaded",
         "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 197854,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Love Someone",
-        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205463,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 236680,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Love Someone",
+        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205463,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Life On Earth - EP",
-        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Unbreakable Smile",
@@ -1521,6 +1505,22 @@
       "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "One Call Away (Acoustic + Remixes)",
@@ -1535,6 +1535,22 @@
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
+    },
+    {
+      "added_at": "2023-03-17 11:15:09",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 246053,
       "name": "Fade",
       "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
-    },
-    {
-      "added_at": "2023-03-17 11:15:09",
-      "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 141757,
-      "name": "Honey (with Muni Long)",
-      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Greatest Covers Ever",
         "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 141757,
+      "name": "Honey (with Muni Long)",
+      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Bridge Back to Your Heart",
-        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
-      },
-      "artists": [
-        {
-          "name": "The Beach",
-          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Bridge Back to Your Heart",
-      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Bridge Back to Your Heart",
+        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+      },
+      "artists": [
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Bridge Back to Your Heart",
+      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Paupers Field",
-        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "If the Creek Don't Rise",
-      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Can You Take It",
         "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 181783,
       "name": "Can You Take It",
       "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Paupers Field",
+        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "If the Creek Don't Rise",
+      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
     },
     {
       "added_at": "2023-02-10 11:00:00",

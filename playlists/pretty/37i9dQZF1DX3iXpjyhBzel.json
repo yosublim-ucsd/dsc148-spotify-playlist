@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1023873,
+  "num_followers": 1024398,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzYwNWZmYzAwOTUyZjAyNzJlMzFlNzg0MWYyMmQyNmEzY2JmNTUy",
+  "snapshot_id": "MCw0ODVhODVjN2M2N2JlNTY2YTZiZGMwZDNjN2RjZjgxZjVkYjhmZjIw",
   "tracks": [
     {
       "added_at": "2024-01-15 18:23:19",
@@ -447,22 +447,18 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
+        "name": "Quarto Secreto",
+        "url": "https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
         }
       ],
-      "duration_ms": 319866,
-      "name": "Esperan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
+      "duration_ms": 307220,
+      "name": "Quarto Secreto",
+      "url": "https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR"
     },
     {
       "added_at": "2024-01-15 18:23:19",
@@ -483,18 +479,22 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
-        "name": "Quarto Secreto",
-        "url": "https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87"
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
       },
       "artists": [
         {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 307220,
-      "name": "Quarto Secreto",
-      "url": "https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR"
+      "duration_ms": 319866,
+      "name": "Esperan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
     },
     {
       "added_at": "2024-01-15 18:23:19",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-01-15 18:23:19",
       "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
+    },
+    {
+      "added_at": "2024-01-15 18:23:19",
+      "album": {
         "name": "Pra Sempre YHWH",
         "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 453667,
       "name": "Pra Sempre YHWH",
       "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
-    },
-    {
-      "added_at": "2024-01-15 18:23:19",
-      "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2024-01-15 18:23:19",

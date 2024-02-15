@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,554 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,542 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 67 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
 | 68 | [Dark Bar Daisy](https://open.spotify.com/track/1I4CgfY1bvPRPF08Rs2yEG) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:04 |
 | 69 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
-| 70 | [Richmond County Line](https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Richmond County Line](https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR) | 3:41 |
+| 70 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 |
 | 71 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
 | 72 | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG) | 3:15 |
-| 73 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
+| 73 | [Richmond County Line](https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Richmond County Line](https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR) | 3:41 |
 | 74 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 |
-| 75 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 |
+| 75 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
 | 76 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
 | 78 | [All Nighters](https://open.spotify.com/track/27aaoGMu0VqHzKTMPqgpa5) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [All Nighters](https://open.spotify.com/album/7eKLAHDf4EAjFqGZDPMQ2N) | 3:30 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 87 | [Fine & Dandy](https://open.spotify.com/track/0HRBAbJgZuQM3Ku66svJFZ) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Fine & Dandy](https://open.spotify.com/album/4SJS7Bx8c2eYe5mcBTHgw3) | 3:39 |
 | 88 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 89 | [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 |
-| 90 | [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 |
-| 91 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 |
+| 90 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 |
+| 91 | [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 |
 | 92 | [Hope It Don’t Take Forever](https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1) | [Corey Hunt and the Wise](https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC) | [Hope It Don’t Take Forever](https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP) | 3:44 |
 | 93 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
 | 94 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 |
 | 95 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 |
 | 96 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 |
 | 97 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 |
-| 98 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 |
-| 99 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
-| 100 | [Dramamine Dreams](https://open.spotify.com/track/60SuPrdFMXcQW9w6vXvxS3) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Kolton Moore & the Clever Few](https://open.spotify.com/album/7mCkI0xX5X1CAToGU6ZDOE) | 4:37 |
+| 98 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
+| 99 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 |
+| 100 | [Cigarettes and Milk](https://open.spotify.com/track/0HzZnV2SmvysrMb6VCO3az) | [Kenny Feidler](https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q) | [Cigarettes and Milk](https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx) | 3:51 |
 
-Snapshot ID: `MCxkMDkzNmViZmQ1MTY0OTZkNzM4MTQxYmU2NDEzZDQ4NGI3MmRlNzBm`
+Snapshot ID: `MCxiMTBkZWZkNjI5MWMwMGU0MGEzZmNmMzI5NzdhNGI4YWJjNTlmNjRi`

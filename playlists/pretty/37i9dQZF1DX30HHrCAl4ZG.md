@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from The Last Dinner Party 🕯️
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,929 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,913 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 | 100 | [I'm Only Me When I'm With You](https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [I'm Only Me When I'm With You](https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M) | 4:07 |
 
-Snapshot ID: `MCxlNjE2NTdjOWYzMWJlNTU5ZDA5YjA4N2FiMTAzOWVmNzE0ZjJlNGVl`
+Snapshot ID: `MCwwY2VkNjQyZWVlOTZiNTE1NDM1Mjg5MzIwM2MyMDI5MmE1NDg1NjYw`

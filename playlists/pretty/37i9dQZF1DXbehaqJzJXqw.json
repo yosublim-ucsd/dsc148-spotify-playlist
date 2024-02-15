@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 382467,
+  "num_followers": 382741,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDE4NzA1Mjc4NmQwMzg5NThjZTkxNDE4ZjVmZWZkNTA5MGRiMzRl",
+  "snapshot_id": "MCxmZmI0N2ViMGM1OTM1Y2VkNzA2ZWQ1MmYxMDU2ZTQyNDcwMzgxNTM5",
   "tracks": [
     {
       "added_at": "2024-02-07 09:04:03",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-07 09:04:03",
       "album": {
+        "name": "Um Rio",
+        "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "\u00c0 quoi \u00e7a sert l'amour",
+      "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
+    },
+    {
+      "added_at": "2024-02-07 09:04:03",
+      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 289413,
       "name": "Menilmontant",
       "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2024-02-07 09:04:03",
-      "album": {
-        "name": "Um Rio",
-        "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "\u00c0 quoi \u00e7a sert l'amour",
-      "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
     },
     {
       "added_at": "2024-02-07 09:04:03",

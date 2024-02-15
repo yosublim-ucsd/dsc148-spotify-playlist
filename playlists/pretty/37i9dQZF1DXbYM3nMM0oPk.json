@@ -1,12 +1,12 @@
 {
   "description": "A mega mix of 75 favorites from the last few years! ",
-  "num_followers": 7719563,
+  "num_followers": 7721286,
   "original_name": "Mega Hit Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODAxMTQwN2UwZjRmZmZiYTk3MjU1NmUwMDYzMTY2NTJkMjYzN2I5",
+  "snapshot_id": "MCw3YWNiNzFlM2I2MDI1ZDgyZThhYzRiMmQzY2JhYmJjMTZjZGI3ODY1",
   "tracks": [
     {
       "added_at": "2023-11-07 15:29:23",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "7 rings",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
         "name": "Speak Your Mind (Deluxe)",
         "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "death bed (coffee for your head)",
-        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "death bed (coffee for your head)",
-      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
     },
     {
       "added_at": "2023-11-07 15:29:23",

@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 215082,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 184746,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/56s9OQ9s0YX3U0JncipqLU"
@@ -7911,6 +7911,24 @@
     },
     {
       "album": {
+        "name": "Ni 1 Complejo",
+        "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174580,
+      "name": "Ni 1 Complejo",
+      "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
+    },
+    {
+      "album": {
         "name": "No Words",
         "url": "https://open.spotify.com/album/1zqo2hzuuP6ZZtg7a6bMZz"
       },
@@ -7926,6 +7944,24 @@
       "duration_ms": 189690,
       "name": "No Words",
       "url": "https://open.spotify.com/track/11Q0l1bZkmXJk3LStYGuAy"
+    },
+    {
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
     },
     {
       "album": {
@@ -8470,6 +8506,28 @@
       "duration_ms": 202193,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
       "album": {

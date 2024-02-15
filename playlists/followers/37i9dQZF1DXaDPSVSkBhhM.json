@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 67059,
+  "2024-02-15": 67069,
   "date_first_scraped": "2022-05-15",
   "description": "\u00a1Pop-punk por siempre!",
   "name": "Escena Pop Punk",
@@ -317,6 +317,24 @@
       "duration_ms": 157232,
       "name": "Bajo la Misma Luna (Yo Estoy Pensando Que Tu Estas Pensando en Mi)",
       "url": "https://open.spotify.com/track/0XFK8dOXAG5AJiVUJmEqfF"
+    },
+    {
+      "album": {
+        "name": "Bes\u00e9 a un Wey",
+        "url": "https://open.spotify.com/album/18UySn67VXr6hlPPwSxEUh"
+      },
+      "artists": [
+        {
+          "name": "Dark Hollywood",
+          "url": "https://open.spotify.com/artist/2ilPTU4xAAZlJRBgQUMRZa"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Bes\u00e9 a un Wey",
+      "url": "https://open.spotify.com/track/1HPcE9Kv5gFDJzs4m4gqj2"
     },
     {
       "album": {
@@ -1064,6 +1082,36 @@
     },
     {
       "album": {
+        "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
+        "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        },
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215394,
+      "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
+      "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "album": {
         "name": "Gracias por la Herida",
         "url": "https://open.spotify.com/album/5Dgg26VbrIcbkVaZUyTgRQ"
       },
@@ -1249,6 +1297,28 @@
       "duration_ms": 203003,
       "name": "La Naturaleza Incoherente del Ser",
       "url": "https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG"
+    },
+    {
+      "album": {
+        "name": "La Playlist (feat. Dark Hollywood)",
+        "url": "https://open.spotify.com/album/2gbXUTUyxWBQBUgxuMeG7L"
+      },
+      "artists": [
+        {
+          "name": "Winnie Wey!",
+          "url": "https://open.spotify.com/artist/1nLg6gDxjMxnL9FkOpTCLo"
+        },
+        {
+          "name": "Dark Hollywood",
+          "url": "https://open.spotify.com/artist/2ilPTU4xAAZlJRBgQUMRZa"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189474,
+      "name": "La Playlist (feat. Dark Hollywood)",
+      "url": "https://open.spotify.com/track/3FLhFMOQMarM41phY2wK2w"
     },
     {
       "album": {
@@ -1505,7 +1575,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 172595,
       "name": "M\u00e1s Grande Fan",
       "url": "https://open.spotify.com/track/5tOPehxktAzU578weAZ3Un"
@@ -1559,7 +1629,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
@@ -1801,7 +1871,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 193866,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5irJ73zDIM0EZjUUlcmvJw"

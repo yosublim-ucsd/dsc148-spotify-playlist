@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,775 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,815 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 43 | [Fue un Placer Conocerte](https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 3:00 |
 | 44 | [Costumbres](https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [CU4TRO](https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1) | 4:41 |
 | 45 | [Amor de un Rato](https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 4:32 |
-| 46 | [Amor Eterno](https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS) | 5:33 |
+| 46 | [Ya No Me Interesas](https://open.spotify.com/track/4XlercokC5c2nq3O7fR2Kk) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:24 |
 | 47 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
-| 48 | [Ya No Me Interesas](https://open.spotify.com/track/4XlercokC5c2nq3O7fR2Kk) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:24 |
+| 48 | [Amor Eterno](https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS) | 5:33 |
 | 49 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 |
 | 50 | [No Vale la Pena](https://open.spotify.com/track/7agHrgJy572LT9Dxv7V6VT) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T) | 2:34 |
 | 51 | [Nadie Baila Como Tú/El Noa Noa \- Medley](https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Con Amor Eterno](https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4) | 4:13 |
 | 52 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 3:50 |
 | 53 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/6a8S3GwLGN71SynG79zBfX) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje A Las Grandes Canciones, Vol\. II](https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW) | 4:13 |
 | 54 | [Te Sigo Amando \- En Vivo](https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Vivo Desde El Río Nilo](https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt) | 2:43 |
-| 55 | [Querida](https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:29 |
-| 56 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
+| 55 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
+| 56 | [Querida](https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:29 |
 | 57 | [Así fue](https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Eres tan distinta a todas](https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb) | 5:03 |
 | 58 | [El Dia Que Me Acaricies Lloraré](https://open.spotify.com/track/6zcdLtTcaqCT4KAtESlNiY) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 3:51 |
 | 59 | [Perdóname, Olvídalo](https://open.spotify.com/track/30xebTEQYvnzSMJbENL6mw) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Filippa Giordano](https://open.spotify.com/artist/40f4c3LvZNQAjn487No6K4) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
 | 100 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 
-Snapshot ID: `MCxjODM1YzY0MGQ1ODNjNDVkYWU2NmM4NDZhYTBmMDgzYTljNjg2MmNl`
+Snapshot ID: `MCwxMzZiYTNlZjkzMGY5OTRjNTI1OGNlMzk5ZjdiMzU0YTNjNWIwMWJl`

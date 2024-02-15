@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,259 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,299 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 6 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
 | 7 | [Ramblin' Man](https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Super Deluxe\)](https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw) | 4:48 |
 | 8 | [Caught Up In You](https://open.spotify.com/track/3jYRpwbctfqB77uU7T7K3U) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Special Forces](https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW) | 4:39 |
-| 9 | [Keep Your Hands to Yourself](https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 3:25 |
+| 9 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
 | 10 | [Flirtin' with Disaster](https://open.spotify.com/track/61BywQA7q8KjpGjp3rHuRv) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Flirtin' With Disaster](https://open.spotify.com/album/7uFDBROeCBVOlV9CfZv0cT) | 4:59 |
 | 11 | [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 |
-| 12 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
+| 12 | [Keep Your Hands to Yourself](https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 3:25 |
 | 13 | [Fooled Around And Fell In Love](https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Struttin' My Stuff](https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY) | 4:36 |
 | 14 | [Long Haired Country Boy](https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 4:00 |
 | 15 | [When Will I Be Loved](https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 2:04 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 58 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
 | 59 | [Jim Dandy](https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs) | [Black Oak Arkansas](https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU) | [High On The Hog](https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC) | 2:41 |
 | 60 | [\(Ghost\) Riders In The Sky](https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Platinum & Gold Collection](https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v) | 5:46 |
-| 61 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
+| 61 | [Uneasy Rider](https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [16 Biggest Hits](https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz) | 5:18 |
 | 62 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
-| 63 | [Uneasy Rider](https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [16 Biggest Hits](https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz) | 5:18 |
+| 63 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
 | 64 | [Homesick](https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Quinella](https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN) | 4:13 |
 | 65 | [Don't Pass Me By](https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Open All Night](https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg) | 4:53 |
 | 66 | [Takin' Up Space](https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ) | [Van Zant](https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1) | [Get Right With The Man](https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
 | 100 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
 
-Snapshot ID: `MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5`
+Snapshot ID: `MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi`

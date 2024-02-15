@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 83824,
+  "num_followers": 83841,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGViMDg3OGJmNmI3NTYzZTgyYjY4MzBkNjY2YjA0YzdkYjlkYzMz",
+  "snapshot_id": "MCxmYzI4NDI4MDYyYzNmZTJhYzM1ZTc1MmZhZGEwYTk2OTkyOGYyODVj",
   "tracks": [
     {
       "added_at": "2024-01-25 20:25:36",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 167044,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Primeras Canciones",
         "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 247959,
       "name": "Sabr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 167044,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -639,18 +639,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Algo Tiene Que Cambiar",
-        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 265473,
-      "name": "M\u00e1s Sencillo",
-      "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -675,22 +679,18 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
       "artists": [
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+      "duration_ms": 265473,
+      "name": "M\u00e1s Sencillo",
+      "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+      "duration_ms": 200040,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
-      },
-      "artists": [
-        {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 237456,
       "name": "Otro Lado",
       "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154087,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Paradisco",
         "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 233042,
       "name": "Paradisco",
       "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 154087,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "GUARACHA",
-        "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        }
-      ],
-      "duration_ms": 157688,
-      "name": "GUARACHA",
-      "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "GUARACHA",
+        "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        }
+      ],
+      "duration_ms": 157688,
+      "name": "GUARACHA",
+      "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+        "name": "rangerover",
+        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+      "duration_ms": 186945,
+      "name": "rangerover",
+      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
     }
   ],
   "unique_name": "Radio Indie",

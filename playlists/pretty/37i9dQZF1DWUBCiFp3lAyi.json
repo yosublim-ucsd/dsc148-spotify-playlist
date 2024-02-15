@@ -1,12 +1,12 @@
 {
   "description": "Your personalized GTA radio station. ",
-  "num_followers": 531142,
+  "num_followers": 531469,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTA1MmQ3NWU0YzA4ZmRlNGUzMTE1YTFlZDhmYWU0YjA2OWY5NGZm",
+  "snapshot_id": "MCw5MGJhZjc1ZmNhYjcwMDI2MWZhZWQ2OTRiZTBiNjMwZjA4NzFiODhm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:01:00",
@@ -319,22 +319,26 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         },
         {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 252239,
-      "name": "A Horse with No Name",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -359,26 +363,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
         },
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
         }
       ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+      "duration_ms": 252239,
+      "name": "A Horse with No Name",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Oxymoron (Deluxe)",
         "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 299960,
       "name": "Collard Greens",
       "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 324422,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Billy Idol",
         "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Danzig",
-        "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Danzig",
-          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Danzig",
+        "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Meet Me Halfway",
-      "url": "https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 246640,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2023-12-15 05:01:00",

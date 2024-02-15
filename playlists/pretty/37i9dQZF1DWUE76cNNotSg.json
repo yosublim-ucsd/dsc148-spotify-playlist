@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 509970,
+  "num_followers": 510154,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjMyZGQxZGEwZGUzNzAxYzc3M2QyZDA1ZmUzNWYzY2NmMTk3ZWEw",
+  "snapshot_id": "MCwwNmZhZjliMDFmOGQzZGYzYzFkZDIxMDUwOTg5ZDVlOGQ1ZTg5ODQ1",
   "tracks": [
     {
       "added_at": "2024-02-13 23:37:32",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-02-13 23:37:32",
       "album": {
+        "name": "Love Will Save Me",
+        "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 277561,
+      "name": "Love Will Save Me",
+      "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
+    },
+    {
+      "added_at": "2024-02-13 23:37:32",
+      "album": {
         "name": "Fabrique Club",
         "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 212346,
       "name": "Up To Something",
       "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
-    },
-    {
-      "added_at": "2024-02-13 23:37:32",
-      "album": {
-        "name": "Love Will Save Me",
-        "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 277561,
-      "name": "Love Will Save Me",
-      "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
     },
     {
       "added_at": "2024-02-13 23:37:32",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-02-13 23:37:32",
       "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2024-02-13 23:37:32",
+      "album": {
         "name": "On the Quiet (Expanded Edition)",
         "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 259146,
       "name": "Far Away Place",
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
-    },
-    {
-      "added_at": "2024-02-13 23:37:32",
-      "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
-      },
-      "artists": [
-        {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
-        }
-      ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2024-02-13 23:37:32",

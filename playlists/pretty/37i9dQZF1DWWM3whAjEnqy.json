@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42714,
+  "num_followers": 42770,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
+  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Lonely Diamond",
-        "url": "https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm"
+        "name": "Venus Ate Mars",
+        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o"
+      "duration_ms": 285003,
+      "name": "Left Me Like Summer",
+      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Lonely Diamond",
+        "url": "https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "In the Sky",
         "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Venus Ate Mars",
-        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 285003,
-      "name": "Left Me Like Summer",
-      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 255520,
-      "name": "We Will Run",
-      "url": "https://open.spotify.com/track/75jqKUwTZo2UtqW7xAzIni"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
+      "duration_ms": 255520,
+      "name": "We Will Run",
+      "url": "https://open.spotify.com/track/75jqKUwTZo2UtqW7xAzIni"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Land & Sea",
+        "url": "https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Days in the Sun",
+      "url": "https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Brodie Street / Daquiri",
         "url": "https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Land & Sea",
-        "url": "https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q"
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
         }
       ],
-      "duration_ms": 214647,
-      "name": "Days in the Sun",
-      "url": "https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR"
+      "duration_ms": 225000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1047,6 +1047,22 @@
       "duration_ms": 272640,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1095,22 +1111,6 @@
       "duration_ms": 276196,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Laps Around The Sun",
-        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Laps Around The Sun",
-      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 157787,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "HOPE Campaign Tribute Album 2010",
         "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 216636,
       "name": "On Our Own",
       "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 157787,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Art of Escape",
-        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
       },
       "artists": [
         {
-          "name": "Hein Cooper",
-          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 198582,
-      "name": "Rusty",
-      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
+      "duration_ms": 199437,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
     }
   ],
   "unique_name": "Coast to Coast",

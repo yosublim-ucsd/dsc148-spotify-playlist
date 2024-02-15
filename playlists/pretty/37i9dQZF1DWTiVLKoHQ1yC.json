@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 174965,
+  "num_followers": 175009,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmIxODE4YTU1MTJjMzIyOTE0ZWFmMDhmNmI3ZTQxMjdjNDM0Yjli",
+  "snapshot_id": "MCxlMTA4MzZiMDc5NzJmZTY3MmIxN2RhMTIyNDI5OWZjNTY2MmFmMTQ2",
   "tracks": [
     {
       "added_at": "2024-02-02 08:52:45",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "L'owe L'owe",
+        "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
+      },
+      "artists": [
+        {
+          "name": "DJ Qness",
+          "url": "https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0"
+        },
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        }
+      ],
+      "duration_ms": 449149,
+      "name": "L'ow\u00e8 L'ow\u00e8",
+      "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "No Judgement (K\u00f6lsch Remix Edit)",
         "url": "https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo"
       },
@@ -639,26 +659,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "L'owe L'owe",
-        "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
-      },
-      "artists": [
-        {
-          "name": "DJ Qness",
-          "url": "https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0"
-        },
-        {
-          "name": "Dele Sosimi",
-          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
-        }
-      ],
-      "duration_ms": 449149,
-      "name": "L'ow\u00e8 L'ow\u00e8",
-      "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Piece Of Art",
         "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
-        "name": "Lofthaus",
-        "url": "https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        }
-      ],
-      "duration_ms": 187900,
-      "name": "Lofthaus",
-      "url": "https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -711,6 +695,22 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Lofthaus",
+        "url": "https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "duration_ms": 187900,
+      "name": "Lofthaus",
+      "url": "https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 249677,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "All We Have Is Now / Stay The Same",
         "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 239789,
       "name": "Freedom Call",
       "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
-        }
-      ],
-      "duration_ms": 249677,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
     },
     {
       "added_at": "2024-02-02 08:52:45",

@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 619030,
+  "num_followers": 619122,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjZiZjIyZjU3YTYyNTI4OGVjYTZiODQyZWEzNjYwMjZkMjJkMTRl",
+  "snapshot_id": "MCwzY2Y3OGI3ODM3N2ZjZThkZmRmMGY2NTI4MTg5NTYxMTViNmEwZWMz",
   "tracks": [
     {
       "added_at": "2023-11-14 11:01:57",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Running up That Hill",
-        "url": "https://open.spotify.com/album/7fKT7JDZJvg0LhaXp9Tltw"
-      },
-      "artists": [
-        {
-          "name": "Dayne S",
-          "url": "https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h"
-        }
-      ],
-      "duration_ms": 307624,
-      "name": "Running up That Hill",
-      "url": "https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "The Dream (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 210156,
       "name": "The Dream (feat. Martina Camargo)",
       "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Running up That Hill",
+        "url": "https://open.spotify.com/album/7fKT7JDZJvg0LhaXp9Tltw"
+      },
+      "artists": [
+        {
+          "name": "Dayne S",
+          "url": "https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h"
+        }
+      ],
+      "duration_ms": 307624,
+      "name": "Running up That Hill",
+      "url": "https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "La Perla (Tourist Remix)",
         "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "You Can Dance Now",
-        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "You Can Dance Now",
-      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Kilian",
         "url": "https://open.spotify.com/album/6Yxa8CBEMR8SQfeBxgObf3"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 420115,
       "name": "Kilian",
       "url": "https://open.spotify.com/track/3q0bx1u5sP4KYE3XldP0PP"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Camaleon",
+        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "duration_ms": 359211,
+      "name": "Camaleon",
+      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 357283,
       "name": "Trojan Love - Original Club Mix",
       "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Camaleon",
-        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 359211,
-      "name": "Camaleon",
-      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5"
-      },
-      "artists": [
-        {
-          "name": "Sintra",
-          "url": "https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Sintra",
+          "url": "https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e"
         }
       ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+      "duration_ms": 224262,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1423,6 +1407,22 @@
       "duration_ms": 393442,
       "name": "To Be Written - Lunar Plane Remix",
       "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Better In The Dark",
+        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 352054,
+      "name": "Better In The Dark",
+      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Restless & Wild",
         "url": "https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Better In The Dark",
-        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 352054,
-      "name": "Better In The Dark",
-      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
     }
   ],
   "unique_name": "Deep House Blend",

@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1128418,
+  "num_followers": 1128791,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTU5ZGUwYWE2NDI1ZDk3ZTdlN2ExNGFkZjJmOWIyZmYyYzAyNzVm",
+  "snapshot_id": "MCxmYjllYzQ3YWU0ZDFjZjk0MmQ3ZDU2OGJlZTg2MmFlODdmYmI5ODM3",
   "tracks": [
     {
       "added_at": "2024-02-09 20:08:05",
@@ -121,6 +121,54 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
+      "added_at": "2024-02-14 21:04:40",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
+    },
+    {
+      "added_at": "2024-02-14 21:04:40",
+      "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "I Forgot To Be Your Lover",
+        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
+    },
+    {
       "added_at": "2024-02-09 20:08:05",
       "album": {
         "name": "Dreamland",
@@ -159,22 +207,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "I Forgot To Be Your Lover",
-        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 147985,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Skin and Bones",
         "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
       },
@@ -207,22 +239,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -267,6 +267,38 @@
       "duration_ms": 251510,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -351,6 +383,22 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "I Belong In Your Arms",
+      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
         "name": "Sacred Hearts Club",
         "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
@@ -379,22 +427,6 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "I Belong In Your Arms",
-      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -579,22 +611,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting on You)",
-      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Sadnecessary (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "For the Light",
-        "url": "https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Free Animal",
-      "url": "https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -639,6 +639,38 @@
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting on You)",
+      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "For the Light",
+        "url": "https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Free Animal",
+      "url": "https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -675,6 +707,22 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
         "name": "Visions Of A Life",
         "url": "https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz"
       },
@@ -703,22 +751,6 @@
       "duration_ms": 243520,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -875,6 +907,22 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
+        "name": "Cold War Kids",
+        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 192654,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
@@ -891,22 +939,6 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. D4vd)",
       "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Cold War Kids",
-        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 192654,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -975,22 +1007,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Era Vulgaris",
-        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Make It Wit Chu",
-      "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "I Told You So",
         "url": "https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j"
       },
@@ -1003,6 +1019,22 @@
       "duration_ms": 254866,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Era Vulgaris",
+        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Make It Wit Chu",
+      "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Dreaming My Dreams",
-      "url": "https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R"
       },
@@ -1179,6 +1195,22 @@
       "duration_ms": 237560,
       "name": "Honest - From The Amazing Spider-Man 2 Soundtrack",
       "url": "https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Dreaming My Dreams",
+      "url": "https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1595,38 +1627,6 @@
       "duration_ms": 218004,
       "name": "Stars Are on Your Side",
       "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "The Birthday Party",
-        "url": "https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 277896,
-      "name": "The Birthday Party",
-      "url": "https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY"
     }
   ],
   "unique_name": "You & Me",

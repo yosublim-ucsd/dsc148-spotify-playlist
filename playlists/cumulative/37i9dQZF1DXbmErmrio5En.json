@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180033,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
+    },
+    {
+      "album": {
         "name": "27AM",
         "url": "https://open.spotify.com/album/7IEniMglg0CFSh8bKfGJen"
       },

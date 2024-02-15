@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,068 likes - 32 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,081 likes - 32 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 13 | [Winterbreak](https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:57 |
 | 14 | [Solid](https://open.spotify.com/track/3TN26MWVgoxlt7rbtZ8Xb8) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:21 |
 | 15 | [Pink Light](https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:11 |
-| 16 | [August \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Live At Electric Lady](https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T) | 3:48 |
+| 16 | [My Heart Will Go On \- triple j Like a Version](https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [My Heart Will Go On \(triple j Like A Version\)](https://open.spotify.com/album/3itkPk0ru3z6Ve5MMnQTrF) | 3:43 |
 | 17 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 |
 | 18 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 |
 | 19 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 |
-| 20 | [My Heart Will Go On \- triple j Like a Version](https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [My Heart Will Go On \(triple j Like A Version\)](https://open.spotify.com/album/3itkPk0ru3z6Ve5MMnQTrF) | 3:43 |
+| 20 | [August \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Live At Electric Lady](https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T) | 3:48 |
 | 21 | [Everything](https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:06 |
 | 22 | [No Idea](https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:54 |
 | 23 | [Navy Blue](https://open.spotify.com/track/62fQs5LcdcyambpTxDnjmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:58 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 31 | [With Myself \- MUNA Remix](https://open.spotify.com/track/1e2HAlEuK8NAEYwXbr1BAO) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [With Myself \(MUNA Remix\)](https://open.spotify.com/album/2H6mRDnIJw7cpXSeSdC9XY) | 3:09 |
 | 32 | [Around U](https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 5:13 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAzMjM1NmYzZGIxODA5ZmVlMGM4ZThlYWUxZGE0ZmVjYw==`
+Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDA0MDRhYTNkMDMzMjU1MmRiZGMxOTZlZmUwMjY3NmQ5Yw==`

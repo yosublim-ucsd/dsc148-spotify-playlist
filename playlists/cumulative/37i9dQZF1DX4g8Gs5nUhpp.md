@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Hoàng Thùy Linh
 
-225 songs - 14 hr 19 min
+226 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Hoa Cỏ Lau](https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Hoa Cỏ Lau](https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM) | 3:30 | 2023-07-05 | 2023-08-08 |
 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 | 2023-10-18 | 2023-11-08 |
 | [Hình Trái Tim](https://open.spotify.com/track/1hyDeosKOqqI4YcqFgzNlQ) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Hình Trái Tim](https://open.spotify.com/album/7oS4wfpgF8ISnA0TBQwqmA) | 3:56 | 2023-01-11 | 2023-02-01 |
+| [Hạ Phỏm](https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 | 2024-02-14 |  |
 | [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 | 2023-08-02 |  |
 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 | 2022-05-27 |  |
 | [Khác Biệt To Lớn Hơn](https://open.spotify.com/track/7CVdUE4KKpZkmHYAGVN0o4) | [Trinh Thang Binh](https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N), [Liz Kim Cương](https://open.spotify.com/artist/6pYrL6H11sEmjp5ZJytWmK) | [Khác Biệt To Lớn Hơn](https://open.spotify.com/album/4NwKHyjNEf456fHaEQFw9d) | 4:12 | 2022-06-28 | 2022-07-27 |
@@ -120,7 +121,7 @@
 | [Martini](https://open.spotify.com/track/73YA19nNitv1AzmxQlabGq) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:20 | 2023-10-25 | 2023-11-08 |
 | [Mascara](https://open.spotify.com/track/2Jaaw8PrdUfPlU6o6tL5dl) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Mascara](https://open.spotify.com/album/0u3o3ESS1rnXlpF3VDI3gj) | 4:53 | 2022-05-27 | 2023-02-13 |
 | [Miên Man](https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Miên Man](https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw) | 3:17 | 2023-09-10 |  |
-| [Miền Đất Hứa](https://open.spotify.com/track/2I9QJOvD1lamK9tHffY4La) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Miền Đất Hứa](https://open.spotify.com/album/158jBhgDeXUrzDvSEA6hlL) | 3:59 | 2023-11-30 | 2023-12-11 |
+| [Miền Đất Hứa](https://open.spotify.com/track/2I9QJOvD1lamK9tHffY4La) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Miền Đất Hứa](https://open.spotify.com/album/158jBhgDeXUrzDvSEA6hlL) | 3:59 | 2023-11-30 |  |
 | [Muốn Nói Với Em](https://open.spotify.com/track/1HDrKXya87GMQfAGPlqNS9) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/4xxZSGefRZ1LOryWzpQGEc) | 3:53 | 2022-05-27 | 2022-07-29 |
 | [Muốn Nói Với Em](https://open.spotify.com/track/5Um995yUx3GSJ6uNOMaaP4) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/1D5q4yg90UnV6e4sMRuLzz) | 3:53 | 2022-07-27 | 2023-12-22 |
 | [Muốn Nói Với Em](https://open.spotify.com/track/7r7Dw8VpuPBAUyiNYNMCfd) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/5mcNPJloU8ubtwq7Fjdosg) | 3:53 | 2022-11-07 | 2022-11-13 |

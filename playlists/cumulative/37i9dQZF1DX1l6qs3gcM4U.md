@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Yasmine & Neyna.
 
-344 songs - 20 hr 32 min
+345 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cabo Verde](https://open.spotify.com/track/4ZaJIFetJil7VcxS6v4acb) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Museu](https://open.spotify.com/album/1aMmsWFPsp3xmSoOS6a1LH) | 3:04 | 2023-12-01 |  |
 | [Cada Detalhe Teu](https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79) | 3:26 | 2022-07-22 | 2022-10-21 |
 | [Cada Detalhe Teu](https://open.spotify.com/track/2Vwgxwetkkc87mAcjM0rgw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/7LvYLQTaKMrhRZq2vrSn6G) | 3:28 | 2021-12-10 | 2022-07-19 |
-| [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 | 2021-12-10 |  |
+| [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 | 2021-12-10 | 2024-02-15 |
 | [Chama a Polícia](https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS) | [Jenny Cabral](https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Chama a Polícia](https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7) | 3:02 | 2023-09-07 | 2023-09-15 |
 | [Chega Mais](https://open.spotify.com/track/62QnPfgjS0g6OZA94Y9kYO) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Chega Mais](https://open.spotify.com/album/4C5NUgH6nrd0FcxugTWGIl) | 3:14 | 2023-12-01 | 2023-12-15 |
 | [Chocolate](https://open.spotify.com/track/39M2ax2nivC7jKJrYxrTuQ) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Chocolate](https://open.spotify.com/album/6imRBmBRoHhUV2YGUto0IF) | 3:03 | 2022-10-20 | 2022-11-04 |
@@ -224,6 +224,7 @@
 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 | 2022-07-01 |  |
 | [O Que Podemos Ser](https://open.spotify.com/track/7oswOjkF7Q3UFxfyw0Df8t) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [O Que Podemos Ser](https://open.spotify.com/album/2eUWLweyMjgAB0KQzRpOkU) | 3:04 | 2022-04-22 | 2022-06-06 |
 | [Only One](https://open.spotify.com/track/47VfEFD5N2nJNasEwnNaGk) | [Dynamo](https://open.spotify.com/artist/6WcIS4bP0CR0yZyuIaq387) | [Only One](https://open.spotify.com/album/3jQGpLyTwrw96I0lWeawGA) | 3:50 | 2022-03-25 | 2022-07-23 |
+| [Over Again](https://open.spotify.com/track/4nqJ8iwqwbvvuVWuas7lXQ) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Over Again](https://open.spotify.com/album/0Wu7EvHRSspzoQlD5d0RIS) | 3:27 | 2024-02-09 |  |
 | [Pa Bo](https://open.spotify.com/track/4kG9TzsANyoGlBBBZOF3ly) | [Dji Matias](https://open.spotify.com/artist/5mOlzlTezQGdusDUogjXnP), [Friderika](https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS) | [Pa Bo](https://open.spotify.com/album/4QymS0mQNSsiVyV9Ntyw3F) | 3:17 | 2022-07-22 | 2022-07-28 |
 | [Padrinho](https://open.spotify.com/track/0lbLACKqa1sg7RitjHpVxC) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Puto Portugues](https://open.spotify.com/artist/2cSucEp5rNKjsY6B18Hzpt) | [Padrinho](https://open.spotify.com/album/0JDH6EcD4OWOewBkVG0UOW) | 3:39 | 2022-04-22 | 2022-06-07 |
 | [Paké](https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Paké](https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA) | 3:40 | 2022-08-04 |  |

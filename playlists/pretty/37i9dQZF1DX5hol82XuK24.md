@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,926 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,008 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 46 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 |
 | 47 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
 | 48 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
-| 49 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
-| 50 | [MSQ No\-Extra](https://open.spotify.com/track/4KPv9BQVlUJSt8QVi5Jf4x) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [A Different Arrangement](https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG) | 4:16 |
+| 49 | [MSQ No\-Extra](https://open.spotify.com/track/4KPv9BQVlUJSt8QVi5Jf4x) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [A Different Arrangement](https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG) | 4:16 |
+| 50 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
 | 51 | [Night Time](https://open.spotify.com/track/53AfCfybXX2rNfTSej1mOB) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:36 |
 | 52 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
 | 53 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 |
 | 54 | [Anyone's Ghost](https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 2:54 |
 | 55 | [Strange Harvest](https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV) | [Tempers](https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2) | [Services](https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU) | 4:10 |
-| 56 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
-| 57 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
+| 56 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
+| 57 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
 | 58 | [Burn Out](https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Let Them In](https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou) | 3:53 |
 | 59 | [Satanic Slumber Party](https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq) | 3:03 |
 | 60 | [Head Over Heels](https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Head Over Heels](https://open.spotify.com/album/2E708oixNbIE32J644UTEj) | 3:57 |
@@ -84,20 +84,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 74 | [Port](https://open.spotify.com/track/4zjArpFbVaNz27Z5vX5Oda) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/6VjvuxKncdSNpaQW9WMOEZ) | 4:42 |
 | 75 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
 | 76 | [Hard Candy](https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Hard Candy](https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru) | 1:53 |
-| 77 | [Slowdance I](https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 4:01 |
-| 78 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
+| 77 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
+| 78 | [Slowdance I](https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 4:01 |
 | 79 | [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 |
 | 80 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
-| 81 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
-| 82 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
+| 81 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
+| 82 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
 | 83 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 | 84 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
 | 85 | [I Stood Bleeding](https://open.spotify.com/track/7iwRXTRE81MwsiORhGYVlH) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/02ysyopK7YANMs08B9KRrQ) | 4:10 |
 | 86 | [Take Me Down \- Nourished by Time Version](https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Take Me Down \(Nourished by Time Version\)](https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr) | 4:03 |
 | 87 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
 | 88 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
-| 89 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
-| 90 | [Miracle of Life](https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx) | 3:36 |
+| 89 | [Miracle of Life](https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx) | 3:36 |
+| 90 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 91 | [Blue May](https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Within a Dream](https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL) | 3:53 |
 | 92 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
 | 93 | [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 |
 | 100 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
 
-Snapshot ID: `MCwxMzUwYjQ5N2ZkMDYzNDUyYmM1YzM1OTA1OTQyNGQ4NTUyNDkwM2Y4`
+Snapshot ID: `MCxjMWQ1NmMzZjYzYmFlZGRlMTA1MzQ5ZTA4Y2M4MGY2ZTdiOTZmNGY3`

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 87268,
+  "2024-02-15": 87270,
   "date_first_scraped": "2023-10-10",
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
   "name": "Neo Tango",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 226000,
       "name": "Buenos Aires Dreams",
       "url": "https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 134272,
       "name": "Porque Canto Asi",
       "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"

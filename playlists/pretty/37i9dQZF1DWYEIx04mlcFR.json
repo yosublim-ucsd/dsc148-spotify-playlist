@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Nicole Horts en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 67647,
+  "num_followers": 67650,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmM2MjY5Zjg2ZjM5Y2RkZWFhNWIwOTI5MjZiZWMwNDg4YzRkYzk1",
+  "snapshot_id": "MCw3ODhmMDE0MDEzOTMxNDQ3Y2E4YTcyNDJiNDdmZTgzN2JkZGQwMDI5",
   "tracks": [
     {
       "added_at": "2024-01-26 16:23:21",
@@ -199,18 +199,18 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "Aluc\u00edn",
-        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
+        "name": "Gran Disco Mini Precio - Dulce Beat",
+        "url": "https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir"
       },
       "artists": [
         {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
         }
       ],
-      "duration_ms": 132680,
-      "name": "Aluc\u00edn",
-      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
+      "duration_ms": 185933,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "Gran Disco Mini Precio - Dulce Beat",
-        "url": "https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir"
+        "name": "Aluc\u00edn",
+        "url": "https://open.spotify.com/album/5YGXC5CG8RQH01q139D9kJ"
       },
       "artists": [
         {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF"
+      "duration_ms": 132680,
+      "name": "Aluc\u00edn",
+      "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
     },
     {
       "added_at": "2024-01-26 16:23:21",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-26 16:23:21",
       "album": {
-        "name": "de mi cabeza no te vas",
-        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "de mi cabeza no te vas",
-      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
-    },
-    {
-      "added_at": "2024-01-26 16:23:21",
-      "album": {
         "name": "rangerover",
         "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 186945,
       "name": "rangerover",
       "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+    },
+    {
+      "added_at": "2024-01-26 16:23:21",
+      "album": {
+        "name": "de mi cabeza no te vas",
+        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "de mi cabeza no te vas",
+      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
     },
     {
       "added_at": "2024-01-26 16:23:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,852 likes - 94 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,851 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [Green](https://open.spotify.com/track/278yAd5uTMx6KqQtHb6WbK) | [Swan](https://open.spotify.com/artist/5jGvXj4Virggz7GjqBTs9h) | [Underneath My Façade](https://open.spotify.com/album/6HUe9xQOYJO9Uv1IB2VlRm) | 3:18 |
 | 94 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 |
 
-Snapshot ID: `MCwyYzRmYWM0NzIxYmViNjQ4ZDgzYmIxNzdiMzhiMjU0MTYwMjdiMWVm`
+Snapshot ID: `MCw2YjEwMjIyNzkxMGU1ZDdjZWIyYWNmNWQwYzgyYmE4N2RlMzYzYzcz`

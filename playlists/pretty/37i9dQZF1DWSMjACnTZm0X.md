@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=dGhp7NuDSJmSh2fFBvmDgg">DJ Maphorisa</a>, <a href="https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn?si=6tjTdz\-TT6SVycK\-KT\-fgg">WurlD</a>, <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YNR6zE0lRiKg86KXS2pIeg">ODUMODUBLVCK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,874 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,912 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 4 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 5 | [Party Mode](https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Party Mode](https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08) | 6:01 |
 | 6 | [Yakunay](https://open.spotify.com/track/2PKThuOwwDMNhqh4UyVNWH) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Yakunay](https://open.spotify.com/album/7sFabzFIwrdInO0AGVc3Qu) | 2:32 |
-| 7 | [A Collision Of Two Worlds \(feat\. Dj Lux, Dj Guti BPM\)](https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB) | [The Real Prechly](https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [DJ Guti BPM](https://open.spotify.com/artist/1JxQ3BCy5etxDoyksaMuqj), [Dj Lux](https://open.spotify.com/artist/4BaoLYpdO3bcE8UepFJ8v8) | [A Collision of Two Worlds 2.0](https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR) | 3:23 |
+| 7 | [A Collision of Two Worlds 2.0](https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB) | [The Real Prechly](https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [DJ Guti BPM](https://open.spotify.com/artist/1JxQ3BCy5etxDoyksaMuqj), [Dj Lux](https://open.spotify.com/artist/4BaoLYpdO3bcE8UepFJ8v8) | [A Collision of Two Worlds 2.0](https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR) | 3:23 |
 | 8 | [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 |
 | 9 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |
 | 10 | [Man Down](https://open.spotify.com/track/61eUczFKcjmdfX5FtFUpyW) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 4:04 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 50 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 |
 | 51 | [Ndakhuyanza](https://open.spotify.com/track/7uVsmB4CmynqGuhVFwaZ7R) | [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [Ndakhuyanza](https://open.spotify.com/album/6NnMNIcJlBqAHXVTgmzf0D) | 3:13 |
 
-Snapshot ID: `MCw2M2Y1NzQ5NWQyOTcwNWRiMTdlY2ZmYTE4NTk0NzVhNTAxN2FhMzMy`
+Snapshot ID: `MCwzOGMwYTAzOGExY2RlNTQzYjE1MjFkYjc1ZWY1NmNhZWY2MGZjNmFm`

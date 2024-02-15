@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 131359,
+  "num_followers": 131370,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTA5Yzc0M2YwZDYyNjEzMGY3ZmFkNmRhNzUzNGNkZjQzNjZlOWU3",
+  "snapshot_id": "MCwwNWY0N2ZiNDdlMGU3NTU5NmRlZjZhZDVlNDMwZTFmZmE5MWI3YWMw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": "2020-12-01 05:03:00",

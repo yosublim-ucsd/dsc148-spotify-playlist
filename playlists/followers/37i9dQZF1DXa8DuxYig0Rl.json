@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 24014,
+  "2024-02-15": 24027,
   "date_first_scraped": "2022-05-26",
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
   "name": "Aguas Frescas",
@@ -1338,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
+    },
+    {
+      "album": {
         "name": "Mis 50 Favoritas",
         "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
       },
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 193146,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"

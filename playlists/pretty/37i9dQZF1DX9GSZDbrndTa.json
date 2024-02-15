@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 104521,
+  "num_followers": 104627,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWIzMGFiZTFlNWZjYmIwMWM5YzBlNzM4YmQ4MWEyOWJmZmMwNmNm",
+  "snapshot_id": "MCw2MjU0M2Y1YTA5ZDJiMDQ5NzhlNWM4ZmFkMmI5ZWRhMDMwMzVjMjI5",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -603,18 +603,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
+        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
         }
       ],
-      "duration_ms": 384706,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+      "duration_ms": 300706,
+      "name": "When Will The Blues Leave?",
+      "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
-        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
       },
       "artists": [
         {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 300706,
-      "name": "When Will The Blues Leave?",
-      "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
+      "duration_ms": 384706,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
     },
     {
       "added_at": "2020-10-12 18:15:54",

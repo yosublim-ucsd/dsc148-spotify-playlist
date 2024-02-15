@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Changbin, Kim Chang-Wan(\ucc3d\ube48, \uae40\ucc3d\uc644)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 235275,
+  "num_followers": 235333,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzkxN2Y2M2Q0OTZkOWJlNWEyZjRhZDMwZjViOGVmNGYzZTlmOGJh",
+  "snapshot_id": "MCxmZWUxYjM0YjFhODA3ODNiMTRiZDVjYjU5MTM2MTU1ODU5N2E0NThi",
   "tracks": [
     {
       "added_at": "2024-02-07 09:15:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-07 09:15:50",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2024-02-07 09:15:50",
-      "album": {
         "name": "Livelock",
         "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 200573,
       "name": "Break the Brake",
       "url": "https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB"
+    },
+    {
+      "added_at": "2024-02-07 09:15:50",
+      "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2024-02-07 09:15:50",

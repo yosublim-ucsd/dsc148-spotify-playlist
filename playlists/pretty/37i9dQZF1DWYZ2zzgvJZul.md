@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Isla Mujeres
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,207 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,229 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 79 | [Justo Cuando El Mundo Apriete](https://open.spotify.com/track/6eKxlS1SsRYyzeN2Dbdek4) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Justo Cuando El Mundo Apriete](https://open.spotify.com/album/3YwUgJYJ1mRiWWWgzlNoII) | 4:02 |
 | 80 | [Airplane](https://open.spotify.com/track/6BVcHhEzkuVDU97bbNlJDF) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Airplane](https://open.spotify.com/album/7CgZMHYBN6cuHilMgnaFur) | 7:24 |
 
-Snapshot ID: `MCw4MTZhNGM5OWRkNTBiMTA0NWNkN2MwZGQwMzFmZTVkYjg5ZWI0ZDU2`
+Snapshot ID: `MCwxZDcyNzVjNmY2MTgxNjVhMTk3MGY3NzIwNjYwNGMyZjI5ZGE5NWYz`

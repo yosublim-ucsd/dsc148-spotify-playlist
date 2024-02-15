@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-148 songs - 10 hr 37 min
+149 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Treasure!](https://open.spotify.com/track/58qwwLduT4uFfNFukyyRzn) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Crescent rise](https://open.spotify.com/album/3YZZ5tD78xFEa1C9YbOgmC) | 4:37 | 2022-06-14 | 2022-07-28 |
 | [U COMPLETE ME](https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:19 | 2022-06-09 |  |
 | [Unbalance Shadow](https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:21 | 2022-06-09 |  |
-| [Unfoggy Sight](https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Unfoggy Sight](https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV) | 4:20 | 2024-02-13 |  |
+| [Unfoggy Sight](https://open.spotify.com/track/1fzRdHYdn1BB9nNDh51AQr) | [Yamato Nikaido \(CV: Yusuke Shirai\)](https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK), [Iori Izumi \(CV: Toshiki Masuda\)](https://open.spotify.com/artist/4NlsMMsd35fdP2UCzhG1PU), [Tamaki Yotsuba \(CV: KENN\)](https://open.spotify.com/artist/3tIlRXYi6ZVj8uKVjFG2pm) | [Unfoggy Sight](https://open.spotify.com/album/54GVHFhbqf2sW0ktVRHUJg) | 4:20 | 2024-02-13 |  |
+| [Unfoggy Sight](https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Unfoggy Sight](https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV) | 4:20 | 2024-02-13 | 2024-02-15 |
 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 | 2022-06-09 |  |
 | [Utopia](https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:18 | 2023-03-07 | 2024-02-08 |
 | [VALIANT](https://open.spotify.com/track/424AgS6PRyYRbIWrD8IZR8) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [VARIANT](https://open.spotify.com/album/5n3Xy8ZGY9kRNJ1TGpq2VV) | 3:11 | 2022-06-09 | 2022-07-23 |

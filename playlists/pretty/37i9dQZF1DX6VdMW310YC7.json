@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3696697,
+  "num_followers": 3697080,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjRhYTFkZmJiYmIzY2Q2NTUxMGFmZDE3YWM5ZDBkYzMyMDk3MDdi",
+  "snapshot_id": "MCxhZjA0OTI3OWJkMjk0YzkwMTM0ZjIyYjI2YjMyM2QyM2Q0MjI3NDdi",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -327,26 +327,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
       },
       "artists": [
         {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        },
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
         }
       ],
-      "duration_ms": 243176,
-      "name": "Demons - Massane Remix",
-      "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
+      "duration_ms": 145000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -367,18 +359,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        },
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 145000,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
+      "duration_ms": 243176,
+      "name": "Demons - Massane Remix",
+      "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 239334,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
       },
@@ -1039,18 +1055,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Call my name",
-        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        },
+        {
+          "name": "Plaha",
+          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         }
       ],
-      "duration_ms": 174803,
-      "name": "Call my name",
-      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
+      "duration_ms": 178604,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1115,22 +1139,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Holding Me Back",
         "url": "https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7"
       },
@@ -1151,26 +1159,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
       },
       "artists": [
         {
-          "name": "CLOVER",
-          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
-        },
-        {
-          "name": "Plaha",
-          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
         }
       ],
-      "duration_ms": 178604,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+      "duration_ms": 210000,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "DESCEND",
-        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "DESCEND",
-      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Do You Feel The Same? (OCULA Remix)",
         "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 232131,
       "name": "Do You Feel The Same? - OCULA Remix",
       "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
+      },
+      "artists": [
+        {
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+        }
+      ],
+      "duration_ms": 153532,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 186472,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
-      },
-      "artists": [
-        {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
-        }
-      ],
-      "duration_ms": 153532,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 235859,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Favourite Place",
-        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 180100,
-      "name": "Favourite Place",
-      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nothing To Lose (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "ricky retro",
+          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
         },
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
         }
       ],
-      "duration_ms": 258284,
-      "name": "Nothing To Lose (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
+      "duration_ms": 176341,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Rule The World",
-        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
+        "name": "Nothing To Lose (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
       },
       "artists": [
         {
-          "name": "ricky retro",
-          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 176341,
-      "name": "Rule The World",
-      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
+      "duration_ms": 258284,
+      "name": "Nothing To Lose (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1759,6 +1759,22 @@
       "duration_ms": 225922,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1883,26 +1899,6 @@
       "duration_ms": 164433,
       "name": "Manzanita",
       "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Back to You (Amtrac Remix)",
-        "url": "https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 277523,
-      "name": "Back to You (Amtrac Remix)",
-      "url": "https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi"
     },
     {
       "added_at": "2024-02-09 05:00:00",

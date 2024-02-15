@@ -6377,6 +6377,24 @@
     },
     {
       "album": {
+        "name": "Tunjukkan Cintamu",
+        "url": "https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139208,
+      "name": "Tunjukkan Cintamu",
+      "url": "https://open.spotify.com/track/3ScPXAJUcWHeJFuY1PC1Cc"
+    },
+    {
+      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },

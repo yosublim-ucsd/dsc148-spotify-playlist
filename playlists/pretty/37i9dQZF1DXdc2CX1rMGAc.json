@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 180936,
+  "num_followers": 181071,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODUwZGU5NzkxZjJlZTRhYTdhYjhlNWQ2YWJhNDhhN2UzOTc2ODgx",
+  "snapshot_id": "MCwxNGUwNWYzMzIzZDVlM2RkMWU5Y2UxNzczYzRjYTllYTQyM2Y0OWUx",
   "tracks": [
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
         "name": "Marisola (Remix)",
         "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
       },
@@ -1471,26 +1471,18 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "L\u00e1grimas | CROSSOVER #4",
-        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
       "artists": [
         {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 167419,
-      "name": "L\u00e1grimas | CROSSOVER #4",
-      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1519,18 +1511,26 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+        "name": "L\u00e1grimas | CROSSOVER #4",
+        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         }
       ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+      "duration_ms": 167419,
+      "name": "L\u00e1grimas | CROSSOVER #4",
+      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "Un Cigarrillo",
-        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
       },
       "artists": [
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 184266,
-      "name": "Un Cigarrillo",
-      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
       },
       "artists": [
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "added_at": "2024-01-03 16:17:56",
@@ -2735,6 +2735,26 @@
     {
       "added_at": "2024-01-03 16:17:56",
       "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "FULANITO",
+      "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
+    },
+    {
+      "added_at": "2024-01-03 16:17:56",
+      "album": {
         "name": "Back To Reggaeton",
         "url": "https://open.spotify.com/album/1fmzd3wNIyYbeH2mTDnLNh"
       },
@@ -2755,26 +2775,6 @@
       "duration_ms": 241921,
       "name": "SANDUNGA",
       "url": "https://open.spotify.com/track/7C19B0faFkwBzfS5yHg1bF"
-    },
-    {
-      "added_at": "2024-01-03 16:17:56",
-      "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 158440,
-      "name": "FULANITO",
-      "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
     },
     {
       "added_at": "2024-01-03 16:17:56",

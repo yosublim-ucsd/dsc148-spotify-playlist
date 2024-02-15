@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 13486,
+  "num_followers": 13503,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDkzYTNlMmQ2MWZlOGY5MGJmZjQyNmFmMGViN2MzMDZhYzNkZGRl",
+  "snapshot_id": "MCw4MThhY2ZmMGE4Y2EwMWE2ZTcwMjgyOGNlZWI1Yjc1MjBmNDlmNDc2",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Another Vibe (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Xtra Cool",
         "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
       },
@@ -287,22 +307,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
       },
@@ -319,22 +323,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
       },
       "artists": [
         {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Another Vibe (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3"
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -439,6 +439,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "THE BOOK OF CLARENCE (The Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5LTfMQMnfrNd2Zj1HLZUmN"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 268092,
       "name": "JEEZU (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/3MlgALPoRA3SidqSRtQ6z9"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Jakpa",
+        "url": "https://open.spotify.com/album/5prApsrXLxrizUMy12DUNU"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Jakpa",
+      "url": "https://open.spotify.com/track/0LQCqvg5fiIW0efHyVNw00"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 220952,
       "name": "Country Side (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Jakpa",
-        "url": "https://open.spotify.com/album/5prApsrXLxrizUMy12DUNU"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Jakpa",
-      "url": "https://open.spotify.com/track/0LQCqvg5fiIW0efHyVNw00"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 229345,
-      "name": "Non Living Thing (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL"
       },
@@ -1423,22 +1403,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/52r1OxCOpkRN68ZO4DO5xV"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
       "artists": [
         {
-          "name": "Chop Daily",
-          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 141505,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/3DT98kqCAgabEvAbRJm5XE"
+      "duration_ms": 229345,
+      "name": "Non Living Thing (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/52r1OxCOpkRN68ZO4DO5xV"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 141505,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/3DT98kqCAgabEvAbRJm5XE"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 147326,
-      "name": "Knee Down",
-      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1519,6 +1499,26 @@
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 147326,
+      "name": "Knee Down",
+      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
       "added_at": "2024-02-09 00:01:00",

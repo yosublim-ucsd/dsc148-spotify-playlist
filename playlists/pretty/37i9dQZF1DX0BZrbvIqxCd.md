@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,125 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,153 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 27 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
 | 28 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
 | 29 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
-| 30 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
-| 31 | [Broken Heart](https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU) | 3:07 |
+| 30 | [Broken Heart](https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU) | 3:07 |
+| 31 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
 | 32 | [American Jesus](https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 3:17 |
 | 33 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 |
 | 34 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 48 | [Broken Bones](https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:01 |
 | 49 | [Coffee Talk](https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Old Bones](https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV) | 2:54 |
 | 50 | [She's Quiet](https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Better Off](https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN) | 3:19 |
-| 51 | [The Afterglow](https://open.spotify.com/track/7c4vXxglI2zKzs99geaEuh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Dead Reflection](https://open.spotify.com/album/31svS8PdmawMs96ZxlP01t) | 3:08 |
-| 52 | [All My Friends Are Nobodies](https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:03 |
+| 51 | [All My Friends Are Nobodies](https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:03 |
+| 52 | [The Afterglow](https://open.spotify.com/track/7c4vXxglI2zKzs99geaEuh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Dead Reflection](https://open.spotify.com/album/31svS8PdmawMs96ZxlP01t) | 3:08 |
 | 53 | [The Separation of Church and Skate](https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:09 |
 | 54 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 |
 | 55 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
@@ -80,15 +80,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 70 | [Broken Dreams, Inc.](https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:53 |
 | 71 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 |
 | 72 | [Happy Judgement Day](https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:33 |
-| 73 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
-| 74 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
-| 75 | [Dakota](https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Everything Is Temporary](https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb) | 3:03 |
+| 73 | [Dakota](https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Everything Is Temporary](https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb) | 3:03 |
+| 74 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
+| 75 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 76 | [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 |
 | 77 | [Blonde](https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Entertainment](https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV) | 3:20 |
 | 78 | [Me First](https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:13 |
 | 79 | [Moving Boxes](https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK) | 3:15 |
-| 80 | [Dead and Gone](https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:11 |
-| 81 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 |
+| 80 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 |
+| 81 | [Dead and Gone](https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:11 |
 | 82 | [Down To Hell](https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:16 |
 | 83 | [From The Outside](https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:05 |
 | 84 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 100 | [Foolish Believer](https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Into the Raging Sea](https://open.spotify.com/album/668M0j58jceb2KVxomANs6) | 3:41 |
 
-Snapshot ID: `MCw3ZTk2ZmQ1YTlhZDRjMzYyYThkNjI3NTg5ZDkwNzhhNmE5MWE3ZmU4`
+Snapshot ID: `MCw3ZGU5ZmEwODc5NzJkNWNiZGM3ZmIwNzNkMmRjZDhhOTQ2MTUwMThi`

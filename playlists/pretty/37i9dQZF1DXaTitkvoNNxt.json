@@ -1,12 +1,12 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1430771,
+  "num_followers": 1430678,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ0ZmRiNjE3OTY0MmM5ZjA0ZmNlYTY3Yzc3MzNhYTdmZTFmNmRj",
+  "snapshot_id": "MCw3NWVjOWMyMDhmODdkYWM0YmI4OGIyMzMxM2VkZWRhNjI2YTYwM2Jk",
   "tracks": [
     {
       "added_at": "2023-08-03 03:15:30",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 220800,
       "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 224840,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 231266,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Shower",
         "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Cooler Than Me - Single Mix",
-      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Gigamesh",
+          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Cooler Than Me - Single Mix",
+      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2023-08-03 03:15:30",

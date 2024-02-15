@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with Fred again..
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with Alok, Mondello G, CERES, Tribbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,832,609 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,833,092 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
-| 2 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
-| 3 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
+| 1 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 |
+| 2 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
+| 3 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 4 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 5 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 |
-| 6 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 |
+| 6 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
 | 7 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 8 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 9 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 74 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
 | 75 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 |
 
-Snapshot ID: `MCwwMWMzNDA2YWE1YzAwMGZlYjViNzBkYTI2OWFkNjIyNDA4MjVmODRk`
+Snapshot ID: `MCxmOTQ3NTY4OWUwMzEwZTAyYzBlY2U4NDI2NGU2MjNlMDZkMjU2Yjg5`

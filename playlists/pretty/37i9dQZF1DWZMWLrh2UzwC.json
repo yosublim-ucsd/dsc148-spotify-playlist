@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: d4vd",
-  "num_followers": 61394,
+  "num_followers": 61401,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGNkZWFkODkwZmJlOGNkMmY1OGZhM2VjYWY3ZDU1MTczNGIxMTk0",
+  "snapshot_id": "MCw1NDE1NzU3NWE0NDQ3YmFiYmNhZTdiNjZiODQzNGZjM2MzYjExODNm",
   "tracks": [
     {
       "added_at": "2024-02-08 16:00:00",
@@ -311,7 +311,7 @@
     {
       "added_at": "2024-02-08 16:00:00",
       "album": {
-        "name": "don't matter (feat. DEN\u0232)",
+        "name": "don't matter",
         "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
       },
       "artists": [
@@ -325,7 +325,7 @@
         }
       ],
       "duration_ms": 202000,
-      "name": "don't matter (feat. DEN\u0232)",
+      "name": "don't matter",
       "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
     },
     {
@@ -1308,7 +1308,7 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 140946,
+      "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
     },

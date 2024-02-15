@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,938 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,927 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 50 | [I Got It \(feat\. Brooke Candy, CupcakKe and Pabllo Vittar\)](https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:51 |
 | 51 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDBmYzFhZmE5MmZiZTk4YTM1NGYzZDc4YTY5Mzc2NjdmNw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA1YWMzNGYwYzc2ZjgxMjY4NjQ1ZWRmOTQ5MmM1YzZhYw==`

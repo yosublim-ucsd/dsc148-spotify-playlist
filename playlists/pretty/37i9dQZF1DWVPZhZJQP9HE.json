@@ -1,12 +1,12 @@
 {
-  "description": "Tune into the finest of Tamil Indie music!\nCover : Ashwin Vinayagamoorthy",
-  "num_followers": 64709,
+  "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar & Samyuktha Viswanathan",
+  "num_followers": 64736,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjdlNmI2OWZiMGI2YmQxMzU4NjI0MWI2MmIzNjhhMzk1ODYxMWYy",
+  "snapshot_id": "MCxmMjFlYmMyMWRjNzJmOTQwODQ1MjUwOWE4ZDM5MmZhNzlhYTJhZDJl",
   "tracks": [
     {
       "added_at": "2024-02-02 13:23:41",
@@ -55,6 +55,26 @@
       "duration_ms": 285949,
       "name": "Idhu Kaadhal Dhaane - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/0zKGgCTLYCYCvUlBv5UiAI"
+    },
+    {
+      "added_at": "2024-02-14 12:40:17",
+      "album": {
+        "name": "Poi Kaadhal",
+        "url": "https://open.spotify.com/album/573Tfa9eUyKwPR2mTbOyRB"
+      },
+      "artists": [
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        },
+        {
+          "name": "Umashankar Kannaiyan",
+          "url": "https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T"
+        }
+      ],
+      "duration_ms": 54339,
+      "name": "Poi Kaadhal",
+      "url": "https://open.spotify.com/track/75puDBmZg806ES5fDGn1wo"
     },
     {
       "added_at": "2024-01-31 11:43:09",

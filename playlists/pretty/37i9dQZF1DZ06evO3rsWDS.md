@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,460 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,463 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 24 | [Entre Botellas](https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 3:26 |
 | 25 | [Este Corazón](https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Este Corazón](https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn) | 3:07 |
 | 26 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 |
-| 27 | [No Llega El Olvido \- En Vivo](https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 3:08 |
+| 27 | [Ovarios \(feat\. Chiquis Rivera\)](https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Homenaje a la Gran Señora](https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr) | 3:23 |
 | 28 | [Cuanto Te Debo](https://open.spotify.com/track/2bm3WtYeZKkr2bPp2i9goV) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:33 |
-| 29 | [Ovarios \(feat\. Chiquis Rivera\)](https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Homenaje a la Gran Señora](https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr) | 3:23 |
+| 29 | [No Llega El Olvido \- En Vivo](https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 3:08 |
 | 30 | [Ticket De Salida](https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:02 |
 | 31 | [La Malquerida](https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:35 |
 | 32 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:57 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 37 | [Me Mocho Un Huevo](https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Puedo](https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs) | 2:16 |
 | 38 | [Amandote \- Mariachi](https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Amandote \(Mariachi\)](https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6) | 3:01 |
 | 39 | [A Lo Menso / Quisieran Tener Mi Lugar \- En Vivo](https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:00 |
-| 40 | [Gracias Por Tu Participación](https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:44 |
-| 41 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 |
-| 42 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 |
+| 40 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
+| 41 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 |
+| 42 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 |
 | 43 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4J7eXQNjpi9610dOGuKmPd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:39 |
-| 44 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
+| 44 | [Gracias Por Tu Participación](https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:44 |
 | 45 | [La Necia](https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [La Necia](https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup) | 2:22 |
 | 46 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 |
 | 47 | [Chuper Amigos \- En Vivo](https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [Aprovechame](https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 2:36 |
 | 50 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDA0YjEzMGFkZGIzZmM2OTI0OWMzNzgzZjllNWM1NWYwYw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA5NjY4ZjMxMDFkNTg4OGI5YmJjNTRiOWRmNzllYWRlOA==`

@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 293915,
+  "2024-02-15": 293934,
   "date_first_scraped": "2021-12-21",
   "description": "Underground indie rock gems. Cover: Madi Diaz",
   "name": "undercurrents",
@@ -18177,6 +18177,24 @@
       "duration_ms": 190000,
       "name": "That's What Everybody Said",
       "url": "https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR"
+    },
+    {
+      "album": {
+        "name": "Synthetic Flowers For A Romantic Comedy",
+        "url": "https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A"
+      },
+      "artists": [
+        {
+          "name": "Flora Rose",
+          "url": "https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279984,
+      "name": "The Brown Eyed Driver",
+      "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
     },
     {
       "album": {

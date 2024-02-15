@@ -1,5 +1,5 @@
 {
-  "2024-02-14": 182864,
+  "2024-02-15": 182830,
   "date_first_scraped": "2021-12-28",
   "description": "The ultimate seasonal (indie) playlist. ",
   "name": "Indie Christmas",
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-14",
       "duration_ms": 272266,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
@@ -3871,7 +3871,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"

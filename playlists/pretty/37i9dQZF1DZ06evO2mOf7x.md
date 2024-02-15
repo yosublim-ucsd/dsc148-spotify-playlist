@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,003 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,011 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 37 | [Te Llevaste \- Original mix](https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Rompiendo Cadenas](https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p) | 3:23 |
 | 38 | [De Vez En Cuando](https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [De Vez En Cuando](https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB) | 3:33 |
 | 39 | [Mala](https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 4:31 |
-| 40 | [Enamorado Y Sin Ti](https://open.spotify.com/track/4YPp8ZNDC7Mwoxl378F1d8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Veinticinco](https://open.spotify.com/album/5kMOVXa9KmVVgZSOE6xA96) | 3:04 |
-| 41 | [Ahora Me Toca a Mi](https://open.spotify.com/track/5OZgyid8qEyB2QZuF3JyK1) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:14 |
-| 42 | [Nuestra Canción](https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Vozes](https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR) | 3:33 |
-| 43 | [No Volveré](https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Volveré](https://open.spotify.com/album/1homFZjonYY08urvCYkIZv) | 3:12 |
-| 44 | [Amor y Veneno](https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Amor y Veneno](https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn) | 3:29 |
+| 40 | [Ahora Me Toca a Mi](https://open.spotify.com/track/5OZgyid8qEyB2QZuF3JyK1) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:14 |
+| 41 | [Enamorado Y Sin Ti](https://open.spotify.com/track/4YPp8ZNDC7Mwoxl378F1d8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Veinticinco](https://open.spotify.com/album/5kMOVXa9KmVVgZSOE6xA96) | 3:04 |
+| 42 | [No Volveré](https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Volveré](https://open.spotify.com/album/1homFZjonYY08urvCYkIZv) | 3:12 |
+| 43 | [Amor y Veneno](https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Amor y Veneno](https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn) | 3:29 |
+| 44 | [Nuestra Canción](https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Vozes](https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR) | 3:33 |
 | 45 | [Yo Ya No Estoy](https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:35 |
 | 46 | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 3:44 |
 | 47 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 |
 | 50 | [Alma perdida](https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Alma Perdida](https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL) | 3:55 |
 
-Snapshot ID: `Mjg0NjM3ODQsMDAwMDAwMDAwNTM1YzU1NGRlMDk1YzQzYTI2MDI3YTk1MjhhMWRiMw==`
+Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBhMzBlNjI1NWFmMTdmMWIyZWMwYzgxMDQ2NWZjMzZhNg==`

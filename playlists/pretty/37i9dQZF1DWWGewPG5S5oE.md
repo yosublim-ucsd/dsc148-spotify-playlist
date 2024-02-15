@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: soraya
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,785 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,800 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 33 | [Highway](https://open.spotify.com/track/25BXE8InZQK5CBhP1n7mFm) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/7q4sFyc7TjG2gUIql8O837) | 3:36 |
 | 34 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 35 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
-| 36 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
-| 37 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
+| 36 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
+| 37 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
 | 38 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 39 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
 | 40 | [飛ばしたっしょ](https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [飛ばしたっしょ](https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx) | 3:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
 | 46 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 47 | [permanent triangle](https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [permanent triangle](https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg) | 4:26 |
-| 48 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
-| 49 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
+| 48 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
+| 49 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 50 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 
-Snapshot ID: `MCw0ZDdjMWE5ZjAzMzg2MGFlNmNiYTUyOGE4ZmNhY2QyNTk0YjFlOWJi`
+Snapshot ID: `MCw2ODQ1YmU0ODY5ZTcwMzA2MjI1NDc3ZjcxMGMwZjEyOTBmMGRiYjBk`

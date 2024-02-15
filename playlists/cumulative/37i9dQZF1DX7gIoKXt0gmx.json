@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "BOZO",
+        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "BOZO",
+      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/76FANVOor6l7OMUFcc0q9r"
       },
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 246293,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd"
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 151462,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/1tNK6PDCrJLEa2AQBCEfjP"
@@ -3856,7 +3874,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 155355,
       "name": "One Of Them Days (feat. Monica)",
       "url": "https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7"

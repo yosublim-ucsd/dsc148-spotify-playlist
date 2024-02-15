@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Brittany Howard
 
-2,008 songs - 5 day 0 hr 43 min
+2,010 songs - 5 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1157,6 +1157,7 @@
 | [Movies](https://open.spotify.com/track/31LKL7XfxR1PTm6Or9KTKv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 5:53 | 2019-05-26\* | 2019-09-27 |
 | [Much After Feeling](https://open.spotify.com/track/1yLuTmyO2f3zi4BPHMxTvs) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Much After Feeling / Plant Sugar](https://open.spotify.com/album/153maywyhkwqBu4bJbAQOV) | 3:35 | 2019-09-21 | 2020-04-03 |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 |  |
+| [Mulholland's Dinner and Wine](https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:21 | 2024-02-14 |  |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-01 |  |
 | [Music to Clean the House to](https://open.spotify.com/track/7doJTm33FOrVlGJVybeM5T) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Music to Clean the House to](https://open.spotify.com/album/7Le9VJybLF82vhykqbJSBF) | 3:45 | 2020-03-27 | 2020-06-12 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-07-05 | 2022-01-05 |
@@ -1611,6 +1612,7 @@
 | [Spitting Off the Edge of the World \- Lush Version](https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World \(Lush Version\)](https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH) | 4:23 | 2023-06-22 | 2023-11-25 |
 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 | 2022-05-27 | 2022-07-29 |
 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-09 | 2023-07-01 |
+| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-14 |  |
 | [Sprite](https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Green Blue + Indigo Violet](https://open.spotify.com/album/0G2STVHSAHhYIB3LoB9K8N) | 3:10 | 2021-03-27 | 2022-01-29 |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-21 | 2022-04-21 |
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-23 | 2023-10-07 |

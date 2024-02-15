@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 131633,
+  "num_followers": 131642,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWZmYTA0NTIzODFlNWUzYTAxYjk4NDk3NzcxNDU1N2RlMTMyNTM1",
+  "snapshot_id": "MCw4ZTI4YjExMTgzN2VjNzI5NjFlODUzYTY5MDRiMGRkZDk3Mzc1ZDJh",
   "tracks": [
     {
       "added_at": "2024-02-09 23:32:57",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+        "name": "Arm in Arm",
+        "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 120609,
-      "name": "Jenny Put the Kettle On",
-      "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
+      "duration_ms": 203346,
+      "name": "Honey on My Tongue",
+      "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Arm in Arm",
-        "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Honey on My Tongue",
-      "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
+      "duration_ms": 120609,
+      "name": "Jenny Put the Kettle On",
+      "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -440,7 +440,7 @@
       "added_at": "2024-02-09 23:32:57",
       "album": {
         "name": "Lonesome State Of Mind",
-        "url": "https://open.spotify.com/album/1sJ8O9hq9wGYQP0jJtb2Xo"
+        "url": "https://open.spotify.com/album/5ViDsd2jp8zv9Uc6CXaGNa"
       },
       "artists": [
         {
@@ -450,7 +450,7 @@
       ],
       "duration_ms": 143929,
       "name": "Lonesome State Of Mind",
-      "url": "https://open.spotify.com/track/6Ve06auIooixlCcp145XKp"
+      "url": "https://open.spotify.com/track/3U9PicOTAIX48LW6QQDTBY"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "My Bluegrass Heart",
         "url": "https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Family Reunion",
-        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 149346,
       "name": "Squareneck Soul",
       "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 198478,
       "name": "Crooked Mind",
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Jubilation",
         "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 179140,
       "name": "Graveyard Fields",
       "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 152440,
       "name": "Salty Dog Blues - Live",
       "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Maria with a \"J\"",
-        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
-      },
-      "artists": [
-        {
-          "name": "Marija Droze",
-          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
-        }
-      ],
-      "duration_ms": 239601,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
         "url": "https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Maria with a \"J\"",
+        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
+      },
+      "artists": [
+        {
+          "name": "Marija Droze",
+          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
+        }
+      ],
+      "duration_ms": 239601,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Snake Charmer",
-        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
-      },
-      "artists": [
-        {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Snake Charmer",
-      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Blues Are Close at Hand",
         "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+        "name": "Snake Charmer",
+        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+      "duration_ms": 179000,
+      "name": "Snake Charmer",
+      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1679,6 +1663,22 @@
       "duration_ms": 180480,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1755,30 +1755,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Trapper's Attic",
-        "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
-      },
-      "artists": [
-        {
-          "name": "Connor Jay Liess",
-          "url": "https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm"
-        },
-        {
-          "name": "Jolie Blue",
-          "url": "https://open.spotify.com/artist/66Xro82631Vw5PkxTASsxO"
-        },
-        {
-          "name": "The Aldape Bootstompers",
-          "url": "https://open.spotify.com/artist/0hSOP0IyyURB2DkgomtHwD"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Idaho Mountain Song",
-      "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Calling You From My Mountain",
         "url": "https://open.spotify.com/album/3WyCl62CMDBjBleRYVGqnc"
       },
@@ -1799,6 +1775,30 @@
       "duration_ms": 292267,
       "name": "From My Mountain (Calling You)",
       "url": "https://open.spotify.com/track/0NK6iXMfQTJZr82z4zKiOm"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Trapper's Attic",
+        "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
+      },
+      "artists": [
+        {
+          "name": "Connor Jay Liess",
+          "url": "https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm"
+        },
+        {
+          "name": "Jolie Blue",
+          "url": "https://open.spotify.com/artist/66Xro82631Vw5PkxTASsxO"
+        },
+        {
+          "name": "The Aldape Bootstompers",
+          "url": "https://open.spotify.com/artist/0hSOP0IyyURB2DkgomtHwD"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Idaho Mountain Song",
+      "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
     },
     {
       "added_at": "2024-02-09 23:32:57",

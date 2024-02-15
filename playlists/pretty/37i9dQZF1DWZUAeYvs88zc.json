@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 590398,
+  "num_followers": 590543,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGM4OTg1MzM3ZmM5NmVjYWNmZWU1NDhlYjc4ZjMwYThiODRlNWFh",
+  "snapshot_id": "MCxjYmM4YTg0NzExZDliZmNhOTY2YTgyZjI3MDZhN2NiZGJhMTdmODdk",
   "tracks": [
     {
       "added_at": "2024-02-09 05:57:03",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
     },
     {
+      "added_at": "2024-02-09 05:58:01",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
       "added_at": "2024-02-09 05:57:03",
       "album": {
         "name": "Preacher\u2019s Daughter",
@@ -767,22 +783,6 @@
       "duration_ms": 202914,
       "name": "Be the One",
       "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
-    },
-    {
-      "added_at": "2024-02-09 05:58:01",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-02-09 05:57:03",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-02-09 05:57:03",
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+    },
+    {
+      "added_at": "2024-02-09 05:57:03",
+      "album": {
         "name": "vert1go vol. 1",
         "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2024-02-09 05:57:03",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+        "name": "gg bb xx (deluxe)",
+        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+      "duration_ms": 202202,
+      "name": "the older you get, the less you cry",
+      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
       "added_at": "2024-02-09 05:57:03",
@@ -1219,22 +1235,6 @@
       "duration_ms": 180127,
       "name": "Losing You - Spotify Singles",
       "url": "https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ"
-    },
-    {
-      "added_at": "2024-02-09 05:57:03",
-      "album": {
-        "name": "gg bb xx (deluxe)",
-        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "the older you get, the less you cry",
-      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
       "added_at": "2024-02-09 05:57:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,036 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,062 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 41 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
 | 42 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
 | 43 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
-| 44 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
-| 45 | [Por Ti Me Quedo en San Luis](https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Por Ti Me Quedo en San Luis](https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq) | 2:37 |
+| 44 | [Por Ti Me Quedo en San Luis](https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Por Ti Me Quedo en San Luis](https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq) | 2:37 |
+| 45 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 46 | [Tercera Noche](https://open.spotify.com/track/0DPpsXoijB0H7OVsxx9Vqt) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tercera Noche](https://open.spotify.com/album/4KPbW9CjDYzEYJCTJ3oCAB) | 2:55 |
 | 47 | [Vino Tinto](https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:51 |
 | 48 | [309](https://open.spotify.com/track/0q37bjxhRwzjtZynlU9ZsI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Botánica](https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
 | 80 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 |
 
-Snapshot ID: `MCw3MWE2NGNkMzFhMmQ5M2JhYTBmYTE3Yjg3ZDViNWRiOGQ0YjQ3Nzk4`
+Snapshot ID: `MCw2MjMzZjZmNmUwYTk4ZTA3NDkyMDI5NjFkNTE1YjcyM2ZmNzcxNDEw`

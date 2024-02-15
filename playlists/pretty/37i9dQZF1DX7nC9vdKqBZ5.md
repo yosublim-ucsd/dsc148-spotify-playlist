@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,342 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,475 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 58 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 59 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
 | 60 | [Onde A Gente Chegou](https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Onde A Gente Chegou](https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If) | 2:40 |
-| 61 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 |
-| 62 | [Todas as Janelas](https://open.spotify.com/track/6BO1F7s14ZehAecywx99G6) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Saideira Acústico Sessions](https://open.spotify.com/album/25dOkXZ3uEjF6lamqU3qRC) | 4:27 |
+| 61 | [Todas as Janelas](https://open.spotify.com/track/6BO1F7s14ZehAecywx99G6) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Saideira Acústico Sessions](https://open.spotify.com/album/25dOkXZ3uEjF6lamqU3qRC) | 4:27 |
+| 62 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 |
 | 63 | [Eu Não Falo Te Amo \- Acústico](https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Não Falo Te Amo \(Acústico\)](https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY) | 2:18 |
 | 64 | [Só Penso Nela \- Acústico](https://open.spotify.com/track/1XyEfOINM4wt9DVzrQzb6p) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Só Penso Nela \(Acústico\)](https://open.spotify.com/album/2wtiPI88rTbmrbB1zPndhY) | 2:28 |
 | 65 | [Me Liga](https://open.spotify.com/track/6pPVQnyvVbkKEOVqofSzEn) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Me Liga](https://open.spotify.com/album/3Lb6Ynh37ywGapeL5uyowr) | 2:31 |
-| 66 | [Bédi Beat \(Acústico\)](https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Bédi Beat \(Acústico\)](https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo) | 4:35 |
-| 67 | [Viver em Paz \- Acústico](https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Acústico](https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd) | 4:21 |
+| 66 | [Viver em Paz \- Acústico](https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Acústico](https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd) | 4:21 |
+| 67 | [Bédi Beat \(Acústico\)](https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Bédi Beat \(Acústico\)](https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo) | 4:35 |
 | 68 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 |
 | 69 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/0TkJ5VPDunXaQYNhScQyN4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 2:16 |
 | 70 | [Verdadeiro Amor \- Studio Sessions](https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Milk Box](https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 99 | [Amiga](https://open.spotify.com/track/3f6zlOjEvYJVgvPyodrnU7) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Salma e Mac](https://open.spotify.com/album/2Q16sGZ2lP7iTooxAr85ZJ) | 3:18 |
 | 100 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
 
-Snapshot ID: `MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2`
+Snapshot ID: `MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5`

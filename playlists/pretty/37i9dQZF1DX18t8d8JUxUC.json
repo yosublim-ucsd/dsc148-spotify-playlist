@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Benjam\u00edn Walker",
-  "num_followers": 20280,
+  "num_followers": 20296,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzIzMTZjYTMwYWZhMGNlOTllMjA3MDgzNjUzMjRhYTYyYmFlMTQz",
+  "snapshot_id": "MCw2NDExNjE3NTRkYmE5ZmExODhhNGE5MmY3YjY4ZjNmN2Y2ZTQzNzhi",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 231878,
       "name": "Extra\u00f1os",
       "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 23089,
+  "num_followers": 23095,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWJkMmM0MGY2NzgwZTkzMjEyOWI2YjdiNjM4NDgzN2JkYjUzZjFm",
+  "snapshot_id": "MCxiYjMwMTU5OTRmYmIzNzhiN2FiNmYzNmJmMTc3MWE4ODJjNTBiYjIx",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -151,22 +151,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 196933,
       "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Foursider",
-        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Mais Que Nada",
-      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Foursider",
+        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come",
-      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Sem Nostalgia",
-        "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Amor em Jacum\u00e3",
-      "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Bonfa Burrows Brazil",
         "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
       },
@@ -1359,18 +1343,34 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+        "name": "Sem Nostalgia",
+        "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Quando voc\u00ea chegar",
-      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
+      "duration_ms": 214266,
+      "name": "Amor em Jacum\u00e3",
+      "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
     }
   ],
   "unique_name": "Musica per Cucinare",
